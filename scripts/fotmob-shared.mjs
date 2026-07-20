@@ -95,6 +95,16 @@ export const ALIASES = {
   "Royale Union Saint-Gilloise": "Union St.Gilloise",
   "SK Slavia Praha": "Slavia Prague",
   "FK Kairat": "Kairat Almaty",
+  // Last-season-only clubs (relegated/promoted since, so absent from the
+  // current-season team lists ingest-fotmob.mjs's --check validates against
+  // — found running ingest-fotmob-fallback.mjs for 2025-26 domestic data).
+  "RCD Mallorca": "Mallorca",
+  "FC St. Pauli 1910": "St. Pauli",
+  "1. FC Heidenheim 1846": "FC Heidenheim",
+  "US Cremonese": "Cremonese",
+  "AC Pisa 1909": "Pisa",
+  "Heracles Almelo": "Heracles",
+  "AVS": "AVS Futebol SAD",
 };
 
 export async function getJson(url, tries = 3) {

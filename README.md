@@ -46,7 +46,10 @@ Players/Stats pages show last season's real, complete stats instead (via
 ingest cadence), clearly labeled, and flip to the current season automatically the
 moment it has its first finished match — no "wait for a meaningful sample" threshold.
 Champions League never needs this: its own "current" data already is last season's
-complete season (see below).
+complete season (see below). All 7 domestic leagues needing a fallback are fully
+backfilled — 100% of last season's finished matches have real FotMob stats (fixed a
+real gap along the way: a handful of clubs relegated/promoted since last season weren't
+covered by the current-season team-name alias table).
 
 The Champions League's Swiss-format league phase (36-team single table) plus two-legged
 knockout (`src/data/knockout.ts` pairs legs by team identity, aggregates goals, falls to
