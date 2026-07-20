@@ -15,16 +15,25 @@ See [`PLAN.md`](./PLAN.md) for the full architecture and phased build order.
 
 ## Status
 
-**Phases 1–3 done.** All 9 competitions (Premier League, Championship, La Liga,
+**Phases 1–4 done.** All 9 competitions (Premier League, Championship, La Liga,
 Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga, Champions League) ingest from
 football-data.org into `src/data/leagues/{code}/`, each lazy-loaded on demand. Standings,
-Matches, Match detail, Teams and Team detail all take a `:competitionId` route param and
-a competition switcher in the nav. Live scores overlay on top from ESPN's public API
-(`scripts/ingest-espn-live.mjs` + `public/live.json`, polled client-side every 60s) —
-keyless, joined to football-data.org's matches by team name (see `ALIASES` in that
-script for the ~50 naming mismatches between the two providers). FotMob advanced stats,
-Players, and the Champions League Swiss-format/knockout engineering are not built yet
-(Phases 4–7) — see `PLAN.md`.
+Matches, Match detail, Teams, Team detail, Players and Player detail all take a
+`:competitionId` route param and a competition switcher in the nav. Live scores overlay
+on top from ESPN's public API (`scripts/ingest-espn-live.mjs` + `public/live.json`,
+polled client-side every 60s) — keyless, joined to football-data.org's matches by team
+name (see `ALIASES` in that script for the ~50 naming mismatches between the two
+providers). Squads come from football-data.org's `/competitions/{code}/teams` (full
+roster inline, no per-team calls needed). FotMob advanced stats and the Champions League
+Swiss-format/knockout engineering are not built yet (Phases 5–7, reordered from the
+original plan — see `PLAN.md`).
+
+Note: as of 2026-07-20, football-data.org hadn't yet populated 2026-27 squads for La
+Liga, Serie A, Ligue 1, Eredivisie, or Primeira Liga (Premier League, Championship,
+Bundesliga, and Champions League already had theirs) — those competitions' Players/squad
+sections are correctly empty rather than showing last season's departed players. Expect
+this to fill in as football-data.org's own data catches up; no code change needed when
+it does.
 
 Three GitHub Actions workflows, deliberately decoupled so a live-score update never
 re-runs the slow football-data.org pass: `update-data.yml` (football-data.org, every

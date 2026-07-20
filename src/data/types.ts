@@ -83,4 +83,5 @@ export interface Player {
   nationality: string;
   dateOfBirth: string | null;
   teamId: string;
+  competitionId: string;
 }

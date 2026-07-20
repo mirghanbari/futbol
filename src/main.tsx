@@ -8,6 +8,8 @@ import Matches from "./pages/Matches";
 import MatchDetail from "./pages/MatchDetail";
 import Teams from "./pages/Teams";
 import TeamDetail from "./pages/TeamDetail";
+import Players from "./pages/Players";
+import PlayerDetail from "./pages/PlayerDetail";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
@@ -21,6 +23,8 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
           <Route path="matches/:competitionId/:matchId" element={<MatchDetail />} />
           <Route path="teams/:competitionId" element={<Teams />} />
           <Route path="teams/:competitionId/:teamId" element={<TeamDetail />} />
+          <Route path="players/:competitionId" element={<Players />} />
+          <Route path="players/:competitionId/:playerId" element={<PlayerDetail />} />
         </Route>
       </Routes>
     </BrowserRouter>

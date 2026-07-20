@@ -48,6 +48,12 @@ export default function Nav() {
         >
           Teams
         </NavLink>
+        <NavLink
+          to={`/players/${active}`}
+          className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
+        >
+          Players
+        </NavLink>
       </div>
     </nav>
   );

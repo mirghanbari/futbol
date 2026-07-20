@@ -4,3 +4,6 @@ dist/
 *.log
 .env
 .env.local
+
+# Working notes / session log — not project docs, never committed.
+PROGRESS.md
