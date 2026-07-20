@@ -23,6 +23,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { COMPETITIONS } from "./competitions.mjs";
+import { normalizeTeamName } from "./name-match.mjs";
 
 const DATA_DIR = fileURLToPath(new URL("../src/data/", import.meta.url));
 const PUBLIC_DIR = fileURLToPath(new URL("../public/", import.meta.url));
@@ -113,22 +114,7 @@ const ALIASES = {
   "FK Kairat": "Kairat Almaty",
 };
 
-const STRIP_WORDS = new Set([
-  "fc", "afc", "cf", "cd", "sc", "ac", "as", "ss", "ssc", "ud", "rc", "sv",
-  "vfl", "vfb", "tsg", "sd", "calcio", "club", "de", "futbol",
-]);
-
-function normalizeName(name) {
-  return name
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "") // fold diacritics: münchen -> munchen
-    .toLowerCase()
-    .replace(/[^a-z0-9\s]/g, " ")
-    .split(/\s+/)
-    .filter((word) => word && !STRIP_WORDS.has(word))
-    .join(" ")
-    .trim();
-}
+const normalizeName = normalizeTeamName;
 
 function todayUTC() {
   return new Date().toISOString().slice(0, 10).replace(/-/g, "");

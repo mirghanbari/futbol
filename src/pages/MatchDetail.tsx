@@ -2,6 +2,56 @@ import { Link, useParams } from "react-router-dom";
 import { competitionById, matchById, teamById } from "../data";
 import { useLeague } from "../data/useLeague";
 import { applyLive, useLiveData } from "../data/live";
+import type { MatchAdvancedStats } from "../data/types";
+
+interface StatRowDef {
+  key: keyof MatchAdvancedStats;
+  label: string;
+  suffix?: string;
+}
+
+const STAT_ROWS: StatRowDef[] = [
+  { key: "possession", label: "Possession", suffix: "%" },
+  { key: "xg", label: "Expected goals (xG)" },
+  { key: "shots", label: "Shots" },
+  { key: "shotsOnTarget", label: "Shots on target" },
+  { key: "accuratePasses", label: "Accurate passes" },
+  { key: "duelsWon", label: "Duels won" },
+  { key: "boxTouches", label: "Touches in opposition box" },
+  { key: "corners", label: "Corners" },
+  { key: "fouls", label: "Fouls" },
+  { key: "offsides", label: "Offsides" },
+  { key: "saves", label: "Saves" },
+];
+
+function StatsTable({ home, away }: { home: MatchAdvancedStats; away: MatchAdvancedStats }) {
+  const rows = STAT_ROWS.filter((row) => home[row.key] !== undefined || away[row.key] !== undefined);
+  if (rows.length === 0) return null;
+
+  return (
+    <div>
+      <h2>Match stats</h2>
+      <p style={{ opacity: 0.7, fontSize: "0.85rem" }}>Source: FotMob</p>
+      <table>
+        <tbody>
+          {rows.map((row) => (
+            <tr key={row.key}>
+              <td style={{ textAlign: "right" }}>
+                {home[row.key] ?? "—"}
+                {row.suffix ?? ""}
+              </td>
+              <td style={{ textAlign: "center", opacity: 0.7 }}>{row.label}</td>
+              <td>
+                {away[row.key] ?? "—"}
+                {row.suffix ?? ""}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  );
+}
 
 export default function MatchDetail() {
   const { competitionId, matchId } = useParams();
@@ -38,6 +88,8 @@ export default function MatchDetail() {
       <p style={{ fontSize: "2rem" }}>
         {match.homeTeam.goals} – {match.awayTeam.goals}
       </p>
+
+      {match.stats && <StatsTable home={match.stats.home} away={match.stats.away} />}
     </div>
   );
 }

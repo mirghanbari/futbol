@@ -14,6 +14,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 0.35,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 224,
+        "duelsWon": 44,
+        "boxTouches": 22,
+        "fouls": 18,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 62,
+        "xg": 1.28,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 409,
+        "duelsWon": 62,
+        "boxTouches": 24,
+        "fouls": 15,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 2
+      }
     }
   },
   {
@@ -31,6 +59,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 2.52,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 439,
+        "duelsWon": 62,
+        "boxTouches": 13,
+        "fouls": 9,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 37,
+        "xg": 3.34,
+        "shots": 18,
+        "shotsOnTarget": 8,
+        "accuratePasses": 233,
+        "duelsWon": 57,
+        "boxTouches": 31,
+        "fouls": 9,
+        "corners": 7,
+        "offsides": 8,
+        "saves": 2
+      }
     }
   },
   {
@@ -48,6 +104,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.92,
+        "shots": 19,
+        "shotsOnTarget": 7,
+        "accuratePasses": 437,
+        "duelsWon": 36,
+        "boxTouches": 30,
+        "fouls": 13,
+        "corners": 4,
+        "offsides": 4,
+        "saves": 1
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.71,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 387,
+        "duelsWon": 49,
+        "boxTouches": 12,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 3
+      }
     }
   },
   {
@@ -65,6 +149,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 1.38,
+        "shots": 14,
+        "shotsOnTarget": 3,
+        "accuratePasses": 408,
+        "duelsWon": 43,
+        "boxTouches": 28,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.52,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 352,
+        "duelsWon": 44,
+        "boxTouches": 24,
+        "fouls": 6,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 1
+      }
     }
   },
   {
@@ -82,6 +194,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 0.54,
+        "shots": 9,
+        "shotsOnTarget": 1,
+        "accuratePasses": 414,
+        "duelsWon": 59,
+        "boxTouches": 19,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 42,
+        "xg": 0.48,
+        "shots": 10,
+        "shotsOnTarget": 0,
+        "accuratePasses": 279,
+        "duelsWon": 40,
+        "boxTouches": 19,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 2
+      }
     }
   },
   {
@@ -99,6 +239,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 3.74,
+        "shots": 28,
+        "shotsOnTarget": 15,
+        "accuratePasses": 343,
+        "duelsWon": 40,
+        "boxTouches": 51,
+        "fouls": 9,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 57,
+        "xg": 0.73,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 455,
+        "duelsWon": 49,
+        "boxTouches": 27,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 13
+      }
     }
   },
   {
@@ -116,6 +284,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 3.98,
+        "shots": 26,
+        "shotsOnTarget": 11,
+        "accuratePasses": 247,
+        "duelsWon": 57,
+        "boxTouches": 47,
+        "fouls": 13,
+        "corners": 8,
+        "offsides": 5,
+        "saves": 8
+      },
+      "away": {
+        "possession": 54,
+        "xg": 2.52,
+        "shots": 11,
+        "shotsOnTarget": 10,
+        "accuratePasses": 311,
+        "duelsWon": 54,
+        "boxTouches": 18,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 8
+      }
     }
   },
   {
@@ -133,6 +329,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 69,
+        "xg": 1.52,
+        "shots": 18,
+        "shotsOnTarget": 3,
+        "accuratePasses": 444,
+        "duelsWon": 51,
+        "boxTouches": 38,
+        "fouls": 15,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 31,
+        "xg": 0.3,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 168,
+        "duelsWon": 42,
+        "boxTouches": 4,
+        "fouls": 14,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -150,6 +374,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 1.26,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 452,
+        "duelsWon": 42,
+        "boxTouches": 14,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 44,
+        "xg": 1.24,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 328,
+        "duelsWon": 52,
+        "boxTouches": 29,
+        "fouls": 17,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 2
+      }
     }
   },
   {
@@ -167,6 +419,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 2.72,
+        "shots": 20,
+        "shotsOnTarget": 6,
+        "accuratePasses": 532,
+        "duelsWon": 49,
+        "boxTouches": 44,
+        "fouls": 7,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.61,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 389,
+        "duelsWon": 40,
+        "boxTouches": 25,
+        "fouls": 9,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 3
+      }
     }
   },
   {
@@ -184,6 +464,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 3.48,
+        "shots": 22,
+        "shotsOnTarget": 13,
+        "accuratePasses": 651,
+        "duelsWon": 40,
+        "boxTouches": 46,
+        "fouls": 5,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 33,
+        "xg": 0.55,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 279,
+        "duelsWon": 25,
+        "boxTouches": 14,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 9
+      }
     }
   },
   {
@@ -201,6 +509,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 2.07,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 502,
+        "duelsWon": 34,
+        "boxTouches": 23,
+        "fouls": 12,
+        "corners": 6,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.73,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 390,
+        "duelsWon": 37,
+        "boxTouches": 23,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 3
+      }
     }
   },
   {
@@ -218,6 +554,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 1.89,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 289,
+        "duelsWon": 43,
+        "boxTouches": 17,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 64,
+        "xg": 1.21,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 575,
+        "duelsWon": 42,
+        "boxTouches": 26,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 5
+      }
     }
   },
   {
@@ -235,6 +599,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 3.15,
+        "shots": 26,
+        "shotsOnTarget": 10,
+        "accuratePasses": 383,
+        "duelsWon": 44,
+        "boxTouches": 40,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 51,
+        "xg": 1.53,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 419,
+        "duelsWon": 33,
+        "boxTouches": 22,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 6
+      }
     }
   },
   {
@@ -252,6 +644,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 1.22,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 208,
+        "duelsWon": 45,
+        "boxTouches": 29,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 64,
+        "xg": 1.13,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 461,
+        "duelsWon": 52,
+        "boxTouches": 38,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 5
+      }
     }
   },
   {
@@ -269,6 +689,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 74,
+        "xg": 2.12,
+        "shots": 23,
+        "shotsOnTarget": 8,
+        "accuratePasses": 742,
+        "duelsWon": 32,
+        "boxTouches": 39,
+        "fouls": 3,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 26,
+        "xg": 0.17,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 223,
+        "duelsWon": 27,
+        "boxTouches": 6,
+        "fouls": 4,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 6
+      }
     }
   },
   {
@@ -286,6 +734,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 1.27,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 249,
+        "duelsWon": 44,
+        "boxTouches": 20,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 62,
+        "xg": 1.09,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 475,
+        "duelsWon": 36,
+        "boxTouches": 15,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 3
+      }
     }
   },
   {
@@ -303,6 +779,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 3.81,
+        "shots": 21,
+        "shotsOnTarget": 8,
+        "accuratePasses": 482,
+        "duelsWon": 60,
+        "boxTouches": 42,
+        "fouls": 14,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 36,
+        "xg": 0.72,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 240,
+        "duelsWon": 46,
+        "boxTouches": 12,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      }
     }
   },
   {
@@ -320,6 +824,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 2.96,
+        "shots": 20,
+        "shotsOnTarget": 3,
+        "accuratePasses": 422,
+        "duelsWon": 39,
+        "boxTouches": 47,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 52,
+        "xg": 0.86,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 468,
+        "duelsWon": 47,
+        "boxTouches": 13,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 1
+      }
     }
   },
   {
@@ -337,6 +869,34 @@
     },
     "awayTeam": {
       "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 33,
+        "xg": 0.43,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 225,
+        "duelsWon": 43,
+        "boxTouches": 12,
+        "fouls": 6,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 7
+      },
+      "away": {
+        "possession": 67,
+        "xg": 3.54,
+        "shots": 20,
+        "shotsOnTarget": 12,
+        "accuratePasses": 544,
+        "duelsWon": 47,
+        "boxTouches": 42,
+        "fouls": 9,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 4
+      }
     }
   },
   {
@@ -354,6 +914,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 33,
+        "xg": 1.34,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 184,
+        "duelsWon": 61,
+        "boxTouches": 16,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 67,
+        "xg": 1.81,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 458,
+        "duelsWon": 46,
+        "boxTouches": 33,
+        "fouls": 14,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -371,6 +959,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 4.44,
+        "shots": 18,
+        "shotsOnTarget": 12,
+        "accuratePasses": 533,
+        "duelsWon": 45,
+        "boxTouches": 38,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 49,
+        "xg": 0.59,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 482,
+        "duelsWon": 39,
+        "boxTouches": 21,
+        "fouls": 6,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 7
+      }
     }
   },
   {
@@ -388,6 +1004,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 1.13,
+        "shots": 9,
+        "shotsOnTarget": 6,
+        "accuratePasses": 415,
+        "duelsWon": 32,
+        "boxTouches": 9,
+        "fouls": 18,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 52,
+        "xg": 0.8,
+        "shots": 13,
+        "shotsOnTarget": 2,
+        "accuratePasses": 454,
+        "duelsWon": 39,
+        "boxTouches": 20,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 2
+      }
     }
   },
   {
@@ -405,6 +1049,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.52,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 440,
+        "duelsWon": 39,
+        "boxTouches": 36,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.46,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 399,
+        "duelsWon": 45,
+        "boxTouches": 20,
+        "fouls": 7,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 2
+      }
     }
   },
   {
@@ -422,6 +1094,34 @@
     },
     "awayTeam": {
       "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 33,
+        "xg": 0.39,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 265,
+        "duelsWon": 33,
+        "boxTouches": 9,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 10
+      },
+      "away": {
+        "possession": 67,
+        "xg": 4.54,
+        "shots": 26,
+        "shotsOnTarget": 15,
+        "accuratePasses": 640,
+        "duelsWon": 30,
+        "boxTouches": 58,
+        "fouls": 9,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 1
+      }
     }
   },
   {
@@ -439,6 +1139,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 0.93,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 453,
+        "duelsWon": 58,
+        "boxTouches": 18,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.85,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 331,
+        "duelsWon": 53,
+        "boxTouches": 25,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 3
+      }
     }
   },
   {
@@ -456,6 +1184,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 57,
+        "xg": 3.99,
+        "shots": 21,
+        "shotsOnTarget": 6,
+        "accuratePasses": 493,
+        "duelsWon": 49,
+        "boxTouches": 38,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 43,
+        "xg": 0.11,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 351,
+        "duelsWon": 35,
+        "boxTouches": 4,
+        "fouls": 17,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 2
+      }
     }
   },
   {
@@ -473,6 +1229,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 1.91,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 269,
+        "duelsWon": 52,
+        "boxTouches": 19,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 51,
+        "xg": 0.98,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 284,
+        "duelsWon": 57,
+        "boxTouches": 28,
+        "fouls": 20,
+        "corners": 7,
+        "offsides": 4,
+        "saves": 4
+      }
     }
   },
   {
@@ -490,6 +1274,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 0.88,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 322,
+        "duelsWon": 53,
+        "boxTouches": 15,
+        "fouls": 15,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 57,
+        "xg": 2.76,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 439,
+        "duelsWon": 52,
+        "boxTouches": 24,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 6
+      }
     }
   },
   {
@@ -507,6 +1319,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.18,
+        "shots": 13,
+        "shotsOnTarget": 8,
+        "accuratePasses": 458,
+        "duelsWon": 47,
+        "boxTouches": 23,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 48,
+        "xg": 0.95,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 411,
+        "duelsWon": 55,
+        "boxTouches": 16,
+        "fouls": 15,
+        "corners": 0,
+        "offsides": 3,
+        "saves": 4
+      }
     }
   },
   {
@@ -524,6 +1364,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 1.27,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 366,
+        "duelsWon": 53,
+        "boxTouches": 26,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1.67,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 413,
+        "duelsWon": 45,
+        "boxTouches": 39,
+        "fouls": 14,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 0
+      }
     }
   },
   {
@@ -541,6 +1409,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 29,
+        "xg": 1.45,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 245,
+        "duelsWon": 41,
+        "boxTouches": 21,
+        "fouls": 9,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 71,
+        "xg": 1.54,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 730,
+        "duelsWon": 44,
+        "boxTouches": 36,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 1
+      }
     }
   },
   {
@@ -558,6 +1454,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 1.74,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 445,
+        "duelsWon": 41,
+        "boxTouches": 30,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 54,
+        "xg": 0.49,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 503,
+        "duelsWon": 48,
+        "boxTouches": 12,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 3
+      }
     }
   },
   {
@@ -575,6 +1499,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 2.9,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 407,
+        "duelsWon": 62,
+        "boxTouches": 34,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 39,
+        "xg": 0.5,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 223,
+        "duelsWon": 48,
+        "boxTouches": 18,
+        "fouls": 17,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 2
+      }
     }
   },
   {
@@ -592,6 +1544,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 1.72,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 298,
+        "duelsWon": 58,
+        "boxTouches": 24,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 56,
+        "xg": 1.6,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 397,
+        "duelsWon": 49,
+        "boxTouches": 23,
+        "fouls": 19,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      }
     }
   },
   {
@@ -609,6 +1589,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 0.88,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 459,
+        "duelsWon": 43,
+        "boxTouches": 21,
+        "fouls": 16,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.35,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 444,
+        "duelsWon": 62,
+        "boxTouches": 17,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 1
+      }
     }
   },
   {
@@ -626,6 +1634,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 72,
+        "xg": 2.58,
+        "shots": 14,
+        "shotsOnTarget": 7,
+        "accuratePasses": 601,
+        "duelsWon": 49,
+        "boxTouches": 48,
+        "fouls": 7,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 28,
+        "xg": 1,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 162,
+        "duelsWon": 47,
+        "boxTouches": 13,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 1
+      }
     }
   },
   {
@@ -643,6 +1679,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 69,
+        "xg": 1.26,
+        "shots": 22,
+        "shotsOnTarget": 2,
+        "accuratePasses": 477,
+        "duelsWon": 57,
+        "boxTouches": 30,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 31,
+        "xg": 1.76,
+        "shots": 9,
+        "shotsOnTarget": 6,
+        "accuratePasses": 164,
+        "duelsWon": 38,
+        "boxTouches": 9,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 2
+      }
     }
   },
   {
@@ -660,6 +1724,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 30,
+        "xg": 0.99,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 234,
+        "duelsWon": 48,
+        "boxTouches": 19,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 3
+      },
+      "away": {
+        "possession": 70,
+        "xg": 4.55,
+        "shots": 21,
+        "shotsOnTarget": 7,
+        "accuratePasses": 621,
+        "duelsWon": 56,
+        "boxTouches": 43,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 5
+      }
     }
   },
   {
@@ -677,6 +1769,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 0.82,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 270,
+        "duelsWon": 44,
+        "boxTouches": 11,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 64,
+        "xg": 1.64,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 527,
+        "duelsWon": 42,
+        "boxTouches": 22,
+        "fouls": 7,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 3
+      }
     }
   },
   {
@@ -694,6 +1814,34 @@
     },
     "awayTeam": {
       "goals": 7
+    },
+    "stats": {
+      "home": {
+        "possession": 29,
+        "xg": 2.5,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 267,
+        "duelsWon": 26,
+        "boxTouches": 10,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 71,
+        "xg": 2.86,
+        "shots": 24,
+        "shotsOnTarget": 8,
+        "accuratePasses": 731,
+        "duelsWon": 41,
+        "boxTouches": 43,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 1
+      }
     }
   },
   {
@@ -711,6 +1859,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 34,
+        "xg": 1.28,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 282,
+        "duelsWon": 35,
+        "boxTouches": 20,
+        "fouls": 17,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 66,
+        "xg": 1.34,
+        "shots": 10,
+        "shotsOnTarget": 7,
+        "accuratePasses": 623,
+        "duelsWon": 49,
+        "boxTouches": 31,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 2
+      }
     }
   },
   {
@@ -728,6 +1904,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.19,
+        "shots": 19,
+        "shotsOnTarget": 8,
+        "accuratePasses": 378,
+        "duelsWon": 36,
+        "boxTouches": 32,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 48,
+        "xg": 0.67,
+        "shots": 11,
+        "shotsOnTarget": 1,
+        "accuratePasses": 332,
+        "duelsWon": 46,
+        "boxTouches": 21,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 4
+      }
     }
   },
   {
@@ -745,6 +1949,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.63,
+        "shots": 19,
+        "shotsOnTarget": 10,
+        "accuratePasses": 352,
+        "duelsWon": 44,
+        "boxTouches": 38,
+        "fouls": 16,
+        "corners": 12,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 48,
+        "xg": 0.33,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 315,
+        "duelsWon": 50,
+        "boxTouches": 11,
+        "fouls": 7,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 7
+      }
     }
   },
   {
@@ -762,6 +1994,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 2.89,
+        "shots": 19,
+        "shotsOnTarget": 8,
+        "accuratePasses": 455,
+        "duelsWon": 43,
+        "boxTouches": 26,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 41,
+        "xg": 1.16,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 292,
+        "duelsWon": 36,
+        "boxTouches": 23,
+        "fouls": 9,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -779,6 +2039,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 3.87,
+        "shots": 23,
+        "shotsOnTarget": 11,
+        "accuratePasses": 298,
+        "duelsWon": 47,
+        "boxTouches": 40,
+        "fouls": 10,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 62,
+        "xg": 1.41,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 517,
+        "duelsWon": 42,
+        "boxTouches": 26,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 8
+      }
     }
   },
   {
@@ -796,6 +2084,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 60,
+        "xg": 3.47,
+        "shots": 21,
+        "shotsOnTarget": 5,
+        "accuratePasses": 413,
+        "duelsWon": 46,
+        "boxTouches": 36,
+        "fouls": 14,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 40,
+        "xg": 0.52,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 246,
+        "duelsWon": 54,
+        "boxTouches": 17,
+        "fouls": 5,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 2
+      }
     }
   },
   {
@@ -813,6 +2129,34 @@
     },
     "awayTeam": {
       "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 35,
+        "xg": 0.33,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 312,
+        "duelsWon": 26,
+        "boxTouches": 7,
+        "fouls": 4,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 9
+      },
+      "away": {
+        "possession": 65,
+        "xg": 3.21,
+        "shots": 18,
+        "shotsOnTarget": 14,
+        "accuratePasses": 642,
+        "duelsWon": 27,
+        "boxTouches": 38,
+        "fouls": 5,
+        "corners": 10,
+        "offsides": 3,
+        "saves": 0
+      }
     }
   },
   {
@@ -830,6 +2174,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 2.59,
+        "shots": 22,
+        "shotsOnTarget": 5,
+        "accuratePasses": 302,
+        "duelsWon": 68,
+        "boxTouches": 39,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 5,
+        "saves": 4
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.73,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 223,
+        "duelsWon": 64,
+        "boxTouches": 25,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 5
+      }
     }
   },
   {
@@ -847,6 +2219,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.11,
+        "shots": 14,
+        "shotsOnTarget": 7,
+        "accuratePasses": 395,
+        "duelsWon": 39,
+        "boxTouches": 30,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 48,
+        "xg": 0.54,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 360,
+        "duelsWon": 45,
+        "boxTouches": 13,
+        "fouls": 16,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 5
+      }
     }
   },
   {
@@ -864,6 +2264,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 2.45,
+        "shots": 23,
+        "shotsOnTarget": 8,
+        "accuratePasses": 382,
+        "duelsWon": 65,
+        "boxTouches": 43,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.88,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 284,
+        "duelsWon": 46,
+        "boxTouches": 21,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 8
+      }
     }
   },
   {
@@ -881,6 +2309,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 4.2,
+        "shots": 26,
+        "shotsOnTarget": 13,
+        "accuratePasses": 668,
+        "duelsWon": 35,
+        "boxTouches": 59,
+        "fouls": 14,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.25,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 367,
+        "duelsWon": 43,
+        "boxTouches": 12,
+        "fouls": 3,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 7
+      }
     }
   },
   {
@@ -898,6 +2354,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 3.65,
+        "shots": 22,
+        "shotsOnTarget": 10,
+        "accuratePasses": 557,
+        "duelsWon": 39,
+        "boxTouches": 37,
+        "fouls": 15,
+        "corners": 11,
+        "offsides": 3,
+        "saves": 0
+      },
+      "away": {
+        "possession": 34,
+        "xg": 1.05,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 241,
+        "duelsWon": 50,
+        "boxTouches": 8,
+        "fouls": 6,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 5
+      }
     }
   },
   {
@@ -915,6 +2399,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 2.69,
+        "shots": 28,
+        "shotsOnTarget": 10,
+        "accuratePasses": 560,
+        "duelsWon": 50,
+        "boxTouches": 39,
+        "fouls": 10,
+        "corners": 13,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 34,
+        "xg": 0.59,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 256,
+        "duelsWon": 35,
+        "boxTouches": 14,
+        "fouls": 18,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 8
+      }
     }
   },
   {
@@ -932,6 +2444,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 0.47,
+        "shots": 9,
+        "shotsOnTarget": 1,
+        "accuratePasses": 187,
+        "duelsWon": 49,
+        "boxTouches": 22,
+        "fouls": 24,
+        "corners": 4,
+        "offsides": 5,
+        "saves": 5
+      },
+      "away": {
+        "possession": 57,
+        "xg": 1.81,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 274,
+        "duelsWon": 50,
+        "boxTouches": 25,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 1
+      }
     }
   },
   {
@@ -949,6 +2489,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 1.85,
+        "shots": 18,
+        "shotsOnTarget": 3,
+        "accuratePasses": 598,
+        "duelsWon": 48,
+        "boxTouches": 31,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 36,
+        "xg": 0.36,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 309,
+        "duelsWon": 48,
+        "boxTouches": 13,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 2
+      }
     }
   },
   {
@@ -966,6 +2534,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 1.53,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 430,
+        "duelsWon": 46,
+        "boxTouches": 34,
+        "fouls": 15,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 50,
+        "xg": 0.21,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 459,
+        "duelsWon": 39,
+        "boxTouches": 9,
+        "fouls": 14,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 8
+      }
     }
   },
   {
@@ -983,6 +2579,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 2.3,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 577,
+        "duelsWon": 52,
+        "boxTouches": 31,
+        "fouls": 10,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 33,
+        "xg": 1.11,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 258,
+        "duelsWon": 60,
+        "boxTouches": 19,
+        "fouls": 13,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -1000,6 +2624,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 3.32,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 462,
+        "duelsWon": 47,
+        "boxTouches": 34,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 39,
+        "xg": 0.35,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 265,
+        "duelsWon": 41,
+        "boxTouches": 22,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 2
+      }
     }
   },
   {
@@ -1017,6 +2669,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 1.67,
+        "shots": 17,
+        "shotsOnTarget": 4,
+        "accuratePasses": 604,
+        "duelsWon": 53,
+        "boxTouches": 37,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 36,
+        "xg": 1.29,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 297,
+        "duelsWon": 51,
+        "boxTouches": 20,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 4
+      }
     }
   },
   {
@@ -1034,6 +2714,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 0.92,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 221,
+        "duelsWon": 61,
+        "boxTouches": 25,
+        "fouls": 7,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 60,
+        "xg": 0.35,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 393,
+        "duelsWon": 42,
+        "boxTouches": 28,
+        "fouls": 9,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 3
+      }
     }
   },
   {
@@ -1051,6 +2759,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 71,
+        "xg": 1.95,
+        "shots": 25,
+        "shotsOnTarget": 9,
+        "accuratePasses": 645,
+        "duelsWon": 41,
+        "boxTouches": 34,
+        "fouls": 7,
+        "corners": 9,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 29,
+        "xg": 1.53,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 227,
+        "duelsWon": 45,
+        "boxTouches": 17,
+        "fouls": 9,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 8
+      }
     }
   },
   {
@@ -1068,6 +2804,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 2.51,
+        "shots": 17,
+        "shotsOnTarget": 9,
+        "accuratePasses": 256,
+        "duelsWon": 46,
+        "boxTouches": 29,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 61,
+        "xg": 0.45,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 461,
+        "duelsWon": 56,
+        "boxTouches": 25,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 8
+      }
     }
   },
   {
@@ -1085,6 +2849,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 0.75,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 289,
+        "duelsWon": 46,
+        "boxTouches": 9,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1.77,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 472,
+        "duelsWon": 54,
+        "boxTouches": 33,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 1
+      }
     }
   },
   {
@@ -1102,6 +2894,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 1.63,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 244,
+        "duelsWon": 46,
+        "boxTouches": 19,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 61,
+        "xg": 1.26,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 436,
+        "duelsWon": 44,
+        "boxTouches": 33,
+        "fouls": 19,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 1
+      }
     }
   },
   {
@@ -1119,6 +2939,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 2.38,
+        "shots": 23,
+        "shotsOnTarget": 9,
+        "accuratePasses": 514,
+        "duelsWon": 63,
+        "boxTouches": 47,
+        "fouls": 9,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 34,
+        "xg": 0.15,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 229,
+        "duelsWon": 40,
+        "boxTouches": 10,
+        "fouls": 16,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 6
+      }
     }
   },
   {
@@ -1136,6 +2984,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 1.98,
+        "shots": 18,
+        "shotsOnTarget": 11,
+        "accuratePasses": 416,
+        "duelsWon": 52,
+        "boxTouches": 39,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 50,
+        "xg": 1.02,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 413,
+        "duelsWon": 37,
+        "boxTouches": 27,
+        "fouls": 17,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 8
+      }
     }
   },
   {
@@ -1153,6 +3029,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 24,
+        "xg": 2.14,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 169,
+        "duelsWon": 34,
+        "boxTouches": 21,
+        "fouls": 11,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 76,
+        "xg": 2.4,
+        "shots": 23,
+        "shotsOnTarget": 6,
+        "accuratePasses": 675,
+        "duelsWon": 37,
+        "boxTouches": 43,
+        "fouls": 6,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -1170,6 +3074,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 1.62,
+        "shots": 21,
+        "shotsOnTarget": 6,
+        "accuratePasses": 474,
+        "duelsWon": 47,
+        "boxTouches": 46,
+        "fouls": 7,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 0.74,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 424,
+        "duelsWon": 44,
+        "boxTouches": 15,
+        "fouls": 9,
+        "corners": 0,
+        "offsides": 2,
+        "saves": 5
+      }
     }
   },
   {
@@ -1187,6 +3119,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 0.9,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 406,
+        "duelsWon": 52,
+        "boxTouches": 19,
+        "fouls": 13,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.25,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 362,
+        "duelsWon": 36,
+        "boxTouches": 12,
+        "fouls": 17,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 4
+      }
     }
   },
   {
@@ -1204,6 +3164,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 0.88,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 419,
+        "duelsWon": 46,
+        "boxTouches": 13,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 52,
+        "xg": 2.61,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 451,
+        "duelsWon": 44,
+        "boxTouches": 24,
+        "fouls": 15,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 3
+      }
     }
   },
   {
@@ -1221,6 +3209,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 1.2,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 419,
+        "duelsWon": 57,
+        "boxTouches": 20,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 5
+      },
+      "away": {
+        "possession": 42,
+        "xg": 0.58,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 264,
+        "duelsWon": 41,
+        "boxTouches": 16,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 2
+      }
     }
   },
   {
@@ -1238,6 +3254,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 0.96,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 591,
+        "duelsWon": 48,
+        "boxTouches": 17,
+        "fouls": 15,
+        "corners": 10,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 38,
+        "xg": 1.17,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 332,
+        "duelsWon": 53,
+        "boxTouches": 25,
+        "fouls": 8,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 4
+      }
     }
   },
   {
@@ -1255,6 +3299,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 1.18,
+        "shots": 15,
+        "shotsOnTarget": 3,
+        "accuratePasses": 462,
+        "duelsWon": 65,
+        "boxTouches": 28,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 34,
+        "xg": 1.63,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 206,
+        "duelsWon": 61,
+        "boxTouches": 32,
+        "fouls": 17,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 2
+      }
     }
   },
   {
@@ -1272,6 +3344,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 4.03,
+        "shots": 13,
+        "shotsOnTarget": 8,
+        "accuratePasses": 570,
+        "duelsWon": 52,
+        "boxTouches": 34,
+        "fouls": 17,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 33,
+        "xg": 0.83,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 250,
+        "duelsWon": 47,
+        "boxTouches": 14,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -1289,6 +3389,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 1.78,
+        "shots": 19,
+        "shotsOnTarget": 7,
+        "accuratePasses": 529,
+        "duelsWon": 46,
+        "boxTouches": 54,
+        "fouls": 4,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 45,
+        "xg": 0.51,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 420,
+        "duelsWon": 41,
+        "boxTouches": 16,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 9
+      }
     }
   },
   {
@@ -1306,6 +3434,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 1.75,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 455,
+        "duelsWon": 49,
+        "boxTouches": 24,
+        "fouls": 6,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 12
+      },
+      "away": {
+        "possession": 42,
+        "xg": 3.44,
+        "shots": 23,
+        "shotsOnTarget": 16,
+        "accuratePasses": 313,
+        "duelsWon": 54,
+        "boxTouches": 42,
+        "fouls": 17,
+        "corners": 8,
+        "offsides": 3,
+        "saves": 4
+      }
     }
   },
   {
@@ -1323,6 +3479,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 2,
+        "shots": 18,
+        "shotsOnTarget": 7,
+        "accuratePasses": 454,
+        "duelsWon": 35,
+        "boxTouches": 27,
+        "fouls": 10,
+        "corners": 11,
+        "offsides": 1,
+        "saves": 7
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.46,
+        "shots": 20,
+        "shotsOnTarget": 9,
+        "accuratePasses": 314,
+        "duelsWon": 29,
+        "boxTouches": 29,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 5
+      }
     }
   },
   {
@@ -1340,6 +3524,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 0.57,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 215,
+        "duelsWon": 70,
+        "boxTouches": 14,
+        "fouls": 21,
+        "corners": 2,
+        "offsides": 5,
+        "saves": 4
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.32,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 191,
+        "duelsWon": 63,
+        "boxTouches": 21,
+        "fouls": 22,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 3
+      }
     }
   },
   {
@@ -1357,6 +3569,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 3.45,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 484,
+        "duelsWon": 31,
+        "boxTouches": 36,
+        "fouls": 18,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 45,
+        "xg": 0.49,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 387,
+        "duelsWon": 39,
+        "boxTouches": 23,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 8
+      }
     }
   },
   {
@@ -1374,6 +3614,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 1.89,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 456,
+        "duelsWon": 35,
+        "boxTouches": 35,
+        "fouls": 18,
+        "corners": 4,
+        "offsides": 6,
+        "saves": 2
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.79,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 349,
+        "duelsWon": 63,
+        "boxTouches": 9,
+        "fouls": 12,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -1391,6 +3659,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 1.21,
+        "shots": 17,
+        "shotsOnTarget": 4,
+        "accuratePasses": 314,
+        "duelsWon": 41,
+        "boxTouches": 26,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 52,
+        "xg": 1.54,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 372,
+        "duelsWon": 60,
+        "boxTouches": 31,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 3
+      }
     }
   },
   {
@@ -1408,6 +3704,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 3.27,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 375,
+        "duelsWon": 47,
+        "boxTouches": 30,
+        "fouls": 19,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 46,
+        "xg": 1.88,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 323,
+        "duelsWon": 58,
+        "boxTouches": 15,
+        "fouls": 10,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 6
+      }
     }
   },
   {
@@ -1425,6 +3749,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 2.5,
+        "shots": 27,
+        "shotsOnTarget": 10,
+        "accuratePasses": 513,
+        "duelsWon": 50,
+        "boxTouches": 55,
+        "fouls": 9,
+        "corners": 11,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 37,
+        "xg": 2.17,
+        "shots": 9,
+        "shotsOnTarget": 6,
+        "accuratePasses": 264,
+        "duelsWon": 44,
+        "boxTouches": 15,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 8
+      }
     }
   },
   {
@@ -1442,6 +3794,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 1.85,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 554,
+        "duelsWon": 47,
+        "boxTouches": 28,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 33,
+        "xg": 1.79,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 209,
+        "duelsWon": 52,
+        "boxTouches": 22,
+        "fouls": 16,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 1
+      }
     }
   },
   {
@@ -1459,6 +3839,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.96,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 372,
+        "duelsWon": 32,
+        "boxTouches": 18,
+        "fouls": 7,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 54,
+        "xg": 2.84,
+        "shots": 21,
+        "shotsOnTarget": 7,
+        "accuratePasses": 456,
+        "duelsWon": 48,
+        "boxTouches": 53,
+        "fouls": 7,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 3
+      }
     }
   },
   {
@@ -1476,6 +3884,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 1.84,
+        "shots": 19,
+        "shotsOnTarget": 9,
+        "accuratePasses": 414,
+        "duelsWon": 40,
+        "boxTouches": 26,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 54,
+        "xg": 0.81,
+        "shots": 8,
+        "shotsOnTarget": 1,
+        "accuratePasses": 501,
+        "duelsWon": 32,
+        "boxTouches": 23,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 6
+      }
     }
   },
   {
@@ -1493,6 +3929,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 3.11,
+        "shots": 13,
+        "shotsOnTarget": 8,
+        "accuratePasses": 275,
+        "duelsWon": 35,
+        "boxTouches": 25,
+        "fouls": 16,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 60,
+        "xg": 0.65,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 461,
+        "duelsWon": 49,
+        "boxTouches": 14,
+        "fouls": 13,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 5
+      }
     }
   },
   {
@@ -1510,6 +3974,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 1.69,
+        "shots": 18,
+        "shotsOnTarget": 8,
+        "accuratePasses": 312,
+        "duelsWon": 46,
+        "boxTouches": 18,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1.68,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 504,
+        "duelsWon": 50,
+        "boxTouches": 32,
+        "fouls": 7,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 5
+      }
     }
   },
   {
@@ -1527,6 +4019,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 0.98,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 416,
+        "duelsWon": 39,
+        "boxTouches": 25,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 52,
+        "xg": 1.42,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 451,
+        "duelsWon": 51,
+        "boxTouches": 30,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 4
+      }
     }
   },
   {
@@ -1544,6 +4064,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.2,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 272,
+        "duelsWon": 62,
+        "boxTouches": 11,
+        "fouls": 12,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 8
+      },
+      "away": {
+        "possession": 54,
+        "xg": 2.28,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 354,
+        "duelsWon": 54,
+        "boxTouches": 26,
+        "fouls": 14,
+        "corners": 8,
+        "offsides": 6,
+        "saves": 1
+      }
     }
   },
   {
@@ -1561,6 +4109,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 2.1,
+        "shots": 23,
+        "shotsOnTarget": 9,
+        "accuratePasses": 636,
+        "duelsWon": 49,
+        "boxTouches": 37,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 38,
+        "xg": 0.28,
+        "shots": 4,
+        "shotsOnTarget": 0,
+        "accuratePasses": 377,
+        "duelsWon": 37,
+        "boxTouches": 14,
+        "fouls": 5,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 7
+      }
     }
   },
   {
@@ -1578,6 +4154,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 75,
+        "xg": 1.52,
+        "shots": 19,
+        "shotsOnTarget": 7,
+        "accuratePasses": 743,
+        "duelsWon": 49,
+        "boxTouches": 38,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 25,
+        "xg": 0.76,
+        "shots": 6,
+        "shotsOnTarget": 4,
+        "accuratePasses": 163,
+        "duelsWon": 39,
+        "boxTouches": 13,
+        "fouls": 11,
+        "corners": 0,
+        "offsides": 8,
+        "saves": 5
+      }
     }
   },
   {
@@ -1595,6 +4199,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 2.67,
+        "shots": 13,
+        "shotsOnTarget": 3,
+        "accuratePasses": 406,
+        "duelsWon": 49,
+        "boxTouches": 27,
+        "fouls": 11,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 6
+      },
+      "away": {
+        "possession": 47,
+        "xg": 2.23,
+        "shots": 15,
+        "shotsOnTarget": 9,
+        "accuratePasses": 369,
+        "duelsWon": 59,
+        "boxTouches": 30,
+        "fouls": 15,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 1
+      }
     }
   },
   {
@@ -1612,6 +4244,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 0.66,
+        "shots": 8,
+        "shotsOnTarget": 6,
+        "accuratePasses": 338,
+        "duelsWon": 42,
+        "boxTouches": 16,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 10,
+        "saves": 2
+      },
+      "away": {
+        "possession": 60,
+        "xg": 1.46,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 540,
+        "duelsWon": 37,
+        "boxTouches": 18,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      }
     }
   },
   {
@@ -1629,6 +4289,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 2.75,
+        "shots": 16,
+        "shotsOnTarget": 10,
+        "accuratePasses": 293,
+        "duelsWon": 49,
+        "boxTouches": 31,
+        "fouls": 12,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 47,
+        "xg": 0.77,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 228,
+        "duelsWon": 60,
+        "boxTouches": 18,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 8
+      }
     }
   },
   {
@@ -1646,6 +4334,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 3.68,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 249,
+        "duelsWon": 57,
+        "boxTouches": 28,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 5,
+        "saves": 2
+      },
+      "away": {
+        "possession": 58,
+        "xg": 1.29,
+        "shots": 13,
+        "shotsOnTarget": 2,
+        "accuratePasses": 392,
+        "duelsWon": 57,
+        "boxTouches": 30,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 4
+      }
     }
   },
   {
@@ -1663,6 +4379,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 1.72,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 417,
+        "duelsWon": 45,
+        "boxTouches": 23,
+        "fouls": 6,
+        "corners": 2,
+        "offsides": 4,
+        "saves": 4
+      },
+      "away": {
+        "possession": 51,
+        "xg": 1.37,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 437,
+        "duelsWon": 32,
+        "boxTouches": 21,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 2
+      }
     }
   },
   {
@@ -1680,6 +4424,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 0.44,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 419,
+        "duelsWon": 36,
+        "boxTouches": 17,
+        "fouls": 14,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 50,
+        "xg": 1.42,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 441,
+        "duelsWon": 39,
+        "boxTouches": 19,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 2
+      }
     }
   },
   {
@@ -1697,6 +4469,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.08,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 357,
+        "duelsWon": 51,
+        "boxTouches": 30,
+        "fouls": 14,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.36,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 321,
+        "duelsWon": 51,
+        "boxTouches": 15,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 3
+      }
     }
   },
   {
@@ -1714,6 +4514,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 1.1,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 322,
+        "duelsWon": 47,
+        "boxTouches": 40,
+        "fouls": 3,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1.6,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 378,
+        "duelsWon": 42,
+        "boxTouches": 26,
+        "fouls": 14,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 4
+      }
     }
   },
   {
@@ -1731,6 +4559,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 3.19,
+        "shots": 22,
+        "shotsOnTarget": 9,
+        "accuratePasses": 463,
+        "duelsWon": 49,
+        "boxTouches": 56,
+        "fouls": 5,
+        "corners": 10,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 37,
+        "xg": 1.38,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 247,
+        "duelsWon": 48,
+        "boxTouches": 11,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 7
+      }
     }
   },
   {
@@ -1748,6 +4604,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 28,
+        "xg": 0.52,
+        "shots": 9,
+        "shotsOnTarget": 1,
+        "accuratePasses": 185,
+        "duelsWon": 50,
+        "boxTouches": 12,
+        "fouls": 21,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 72,
+        "xg": 2.22,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 597,
+        "duelsWon": 61,
+        "boxTouches": 31,
+        "fouls": 4,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 1
+      }
     }
   },
   {
@@ -1765,6 +4649,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.2,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 364,
+        "duelsWon": 33,
+        "boxTouches": 28,
+        "fouls": 9,
+        "corners": 9,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 49,
+        "xg": 2.06,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 353,
+        "duelsWon": 35,
+        "boxTouches": 32,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 6
+      }
     }
   },
   {
@@ -1782,6 +4694,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 1.1,
+        "shots": 18,
+        "shotsOnTarget": 7,
+        "accuratePasses": 421,
+        "duelsWon": 36,
+        "boxTouches": 29,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 7
+      },
+      "away": {
+        "possession": 51,
+        "xg": 2.99,
+        "shots": 20,
+        "shotsOnTarget": 11,
+        "accuratePasses": 419,
+        "duelsWon": 38,
+        "boxTouches": 31,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 7
+      }
     }
   },
   {
@@ -1799,6 +4739,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 2.22,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 274,
+        "duelsWon": 51,
+        "boxTouches": 15,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 60,
+        "xg": 0.64,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 437,
+        "duelsWon": 50,
+        "boxTouches": 23,
+        "fouls": 21,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -1816,6 +4784,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 2.65,
+        "shots": 25,
+        "shotsOnTarget": 5,
+        "accuratePasses": 505,
+        "duelsWon": 47,
+        "boxTouches": 36,
+        "fouls": 8,
+        "corners": 13,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 39,
+        "xg": 1.18,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 295,
+        "duelsWon": 39,
+        "boxTouches": 20,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -1833,6 +4829,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.5,
+        "shots": 16,
+        "shotsOnTarget": 1,
+        "accuratePasses": 371,
+        "duelsWon": 50,
+        "boxTouches": 25,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 6
+      },
+      "away": {
+        "possession": 48,
+        "xg": 2.6,
+        "shots": 12,
+        "shotsOnTarget": 8,
+        "accuratePasses": 361,
+        "duelsWon": 58,
+        "boxTouches": 26,
+        "fouls": 17,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 0
+      }
     }
   },
   {
@@ -1850,6 +4874,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 0.28,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 442,
+        "duelsWon": 40,
+        "boxTouches": 12,
+        "fouls": 9,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 53,
+        "xg": 2.54,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 536,
+        "duelsWon": 42,
+        "boxTouches": 35,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 1
+      }
     }
   },
   {
@@ -1867,6 +4919,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 34,
+        "xg": 1.6,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 306,
+        "duelsWon": 48,
+        "boxTouches": 22,
+        "fouls": 6,
+        "corners": 2,
+        "offsides": 6,
+        "saves": 4
+      },
+      "away": {
+        "possession": 66,
+        "xg": 1.23,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 640,
+        "duelsWon": 42,
+        "boxTouches": 37,
+        "fouls": 9,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 2
+      }
     }
   },
   {
@@ -1884,6 +4964,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 1.97,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 398,
+        "duelsWon": 55,
+        "boxTouches": 45,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 46,
+        "xg": 0.38,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 319,
+        "duelsWon": 53,
+        "boxTouches": 9,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 3
+      }
     }
   },
   {
@@ -1901,6 +5009,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 25,
+        "xg": 0.89,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 174,
+        "duelsWon": 40,
+        "boxTouches": 11,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 75,
+        "xg": 1.42,
+        "shots": 28,
+        "shotsOnTarget": 6,
+        "accuratePasses": 625,
+        "duelsWon": 52,
+        "boxTouches": 49,
+        "fouls": 11,
+        "corners": 10,
+        "offsides": 4,
+        "saves": 2
+      }
     }
   },
   {
@@ -1918,6 +5054,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 28,
+        "xg": 1.13,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 188,
+        "duelsWon": 53,
+        "boxTouches": 13,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 72,
+        "xg": 2.58,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 634,
+        "duelsWon": 54,
+        "boxTouches": 44,
+        "fouls": 9,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 0
+      }
     }
   },
   {
@@ -1935,6 +5099,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 1.36,
+        "shots": 19,
+        "shotsOnTarget": 8,
+        "accuratePasses": 340,
+        "duelsWon": 43,
+        "boxTouches": 31,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 62,
+        "xg": 0.91,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 590,
+        "duelsWon": 38,
+        "boxTouches": 24,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 6
+      }
     }
   },
   {
@@ -1952,6 +5144,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 30,
+        "xg": 1.38,
+        "shots": 5,
+        "shotsOnTarget": 4,
+        "accuratePasses": 221,
+        "duelsWon": 51,
+        "boxTouches": 14,
+        "fouls": 13,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 70,
+        "xg": 1.54,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 645,
+        "duelsWon": 48,
+        "boxTouches": 56,
+        "fouls": 15,
+        "corners": 11,
+        "offsides": 2,
+        "saves": 3
+      }
     }
   },
   {
@@ -1969,6 +5189,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 3.86,
+        "shots": 25,
+        "shotsOnTarget": 5,
+        "accuratePasses": 433,
+        "duelsWon": 38,
+        "boxTouches": 35,
+        "fouls": 9,
+        "corners": 10,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 51,
+        "xg": 1.4,
+        "shots": 20,
+        "shotsOnTarget": 6,
+        "accuratePasses": 441,
+        "duelsWon": 36,
+        "boxTouches": 32,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 1
+      }
     }
   },
   {
@@ -1986,6 +5234,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.36,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 386,
+        "duelsWon": 58,
+        "boxTouches": 28,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 49,
+        "xg": 2.14,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 348,
+        "duelsWon": 42,
+        "boxTouches": 30,
+        "fouls": 17,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 3
+      }
     }
   },
   {
@@ -2003,6 +5279,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 1.78,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 515,
+        "duelsWon": 33,
+        "boxTouches": 23,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.21,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 345,
+        "duelsWon": 45,
+        "boxTouches": 12,
+        "fouls": 12,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 3
+      }
     }
   },
   {
@@ -2020,6 +5324,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.5,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 368,
+        "duelsWon": 46,
+        "boxTouches": 23,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 54,
+        "xg": 1.43,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 444,
+        "duelsWon": 43,
+        "boxTouches": 42,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 2
+      }
     }
   },
   {
@@ -2037,6 +5369,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 0.87,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 515,
+        "duelsWon": 37,
+        "boxTouches": 32,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.46,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 356,
+        "duelsWon": 43,
+        "boxTouches": 29,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 4
+      }
     }
   },
   {
@@ -2054,6 +5414,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 0.99,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 248,
+        "duelsWon": 46,
+        "boxTouches": 17,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 6,
+        "saves": 8
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1.47,
+        "shots": 20,
+        "shotsOnTarget": 12,
+        "accuratePasses": 431,
+        "duelsWon": 57,
+        "boxTouches": 32,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 1
+      }
     }
   },
   {
@@ -2071,6 +5459,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 70,
+        "xg": 2.02,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 567,
+        "duelsWon": 50,
+        "boxTouches": 35,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 0
+      },
+      "away": {
+        "possession": 30,
+        "xg": 1.74,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 192,
+        "duelsWon": 46,
+        "boxTouches": 10,
+        "fouls": 16,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 2
+      }
     }
   },
   {
@@ -2088,6 +5504,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 1.36,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 342,
+        "duelsWon": 37,
+        "boxTouches": 21,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 54,
+        "xg": 1.44,
+        "shots": 16,
+        "shotsOnTarget": 3,
+        "accuratePasses": 427,
+        "duelsWon": 56,
+        "boxTouches": 35,
+        "fouls": 10,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 3
+      }
     }
   },
   {
@@ -2105,6 +5549,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 2.4,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 406,
+        "duelsWon": 40,
+        "boxTouches": 29,
+        "fouls": 4,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 46,
+        "xg": 0.34,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 359,
+        "duelsWon": 41,
+        "boxTouches": 11,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 1
+      }
     }
   },
   {
@@ -2122,6 +5594,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 74,
+        "xg": 3.09,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 849,
+        "duelsWon": 38,
+        "boxTouches": 32,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 26,
+        "xg": 0.88,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 244,
+        "duelsWon": 54,
+        "boxTouches": 8,
+        "fouls": 8,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 2
+      }
     }
   },
   {
@@ -2139,6 +5639,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 71,
+        "xg": 1.85,
+        "shots": 21,
+        "shotsOnTarget": 7,
+        "accuratePasses": 705,
+        "duelsWon": 52,
+        "boxTouches": 36,
+        "fouls": 6,
+        "corners": 15,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 29,
+        "xg": 0.14,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 246,
+        "duelsWon": 39,
+        "boxTouches": 6,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 6
+      }
     }
   },
   {
@@ -2156,6 +5684,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 5.91,
+        "shots": 38,
+        "shotsOnTarget": 12,
+        "accuratePasses": 447,
+        "duelsWon": 40,
+        "boxTouches": 67,
+        "fouls": 13,
+        "corners": 14,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.22,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 335,
+        "duelsWon": 54,
+        "boxTouches": 14,
+        "fouls": 3,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 6
+      }
     }
   },
   {
@@ -2173,6 +5729,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 76,
+        "xg": 3.18,
+        "shots": 28,
+        "shotsOnTarget": 13,
+        "accuratePasses": 683,
+        "duelsWon": 43,
+        "boxTouches": 40,
+        "fouls": 12,
+        "corners": 10,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 24,
+        "xg": 1.06,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 153,
+        "duelsWon": 50,
+        "boxTouches": 6,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 6,
+        "saves": 8
+      }
     }
   },
   {
@@ -2190,6 +5774,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 1.77,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 460,
+        "duelsWon": 48,
+        "boxTouches": 22,
+        "fouls": 8,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 50,
+        "xg": 0.26,
+        "shots": 4,
+        "shotsOnTarget": 4,
+        "accuratePasses": 450,
+        "duelsWon": 40,
+        "boxTouches": 11,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 5,
+        "saves": 3
+      }
     }
   },
   {
@@ -2207,6 +5819,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 65,
+        "xg": 1.93,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 731,
+        "duelsWon": 48,
+        "boxTouches": 43,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 35,
+        "xg": 0.26,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 360,
+        "duelsWon": 40,
+        "boxTouches": 5,
+        "fouls": 15,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 4
+      }
     }
   },
   {
@@ -2224,6 +5864,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 3.94,
+        "shots": 25,
+        "shotsOnTarget": 11,
+        "accuratePasses": 516,
+        "duelsWon": 59,
+        "boxTouches": 59,
+        "fouls": 14,
+        "corners": 11,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 34,
+        "xg": 1.11,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 211,
+        "duelsWon": 54,
+        "boxTouches": 6,
+        "fouls": 10,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 7
+      }
     }
   },
   {
@@ -2241,6 +5909,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 1,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 254,
+        "duelsWon": 53,
+        "boxTouches": 17,
+        "fouls": 10,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 64,
+        "xg": 0.83,
+        "shots": 13,
+        "shotsOnTarget": 2,
+        "accuratePasses": 525,
+        "duelsWon": 38,
+        "boxTouches": 23,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 2
+      }
     }
   },
   {
@@ -2258,6 +5954,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 37,
+        "xg": 1.41,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 268,
+        "duelsWon": 43,
+        "boxTouches": 23,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 9
+      },
+      "away": {
+        "possession": 63,
+        "xg": 1.03,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 511,
+        "duelsWon": 41,
+        "boxTouches": 27,
+        "fouls": 9,
+        "corners": 10,
+        "offsides": 2,
+        "saves": 2
+      }
     }
   },
   {
@@ -2275,6 +5999,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 0.86,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 438,
+        "duelsWon": 38,
+        "boxTouches": 4,
+        "fouls": 12,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.27,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 562,
+        "duelsWon": 52,
+        "boxTouches": 32,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 1
+      }
     }
   },
   {
@@ -2292,6 +6044,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 1.04,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 407,
+        "duelsWon": 47,
+        "boxTouches": 17,
+        "fouls": 13,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 50,
+        "xg": 0.18,
+        "shots": 5,
+        "shotsOnTarget": 0,
+        "accuratePasses": 401,
+        "duelsWon": 39,
+        "boxTouches": 13,
+        "fouls": 19,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 5
+      }
     }
   },
   {
@@ -2309,6 +6089,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 65,
+        "xg": 2.18,
+        "shots": 27,
+        "shotsOnTarget": 8,
+        "accuratePasses": 548,
+        "duelsWon": 57,
+        "boxTouches": 48,
+        "fouls": 9,
+        "corners": 12,
+        "offsides": 4,
+        "saves": 3
+      },
+      "away": {
+        "possession": 35,
+        "xg": 1.88,
+        "shots": 11,
+        "shotsOnTarget": 7,
+        "accuratePasses": 275,
+        "duelsWon": 45,
+        "boxTouches": 19,
+        "fouls": 4,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 7
+      }
     }
   },
   {
@@ -2326,6 +6134,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 35,
+        "xg": 0.57,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 226,
+        "duelsWon": 41,
+        "boxTouches": 12,
+        "fouls": 22,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 65,
+        "xg": 1.76,
+        "shots": 9,
+        "shotsOnTarget": 6,
+        "accuratePasses": 516,
+        "duelsWon": 67,
+        "boxTouches": 24,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 0
+      }
     }
   },
   {
@@ -2343,6 +6179,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 1.87,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 535,
+        "duelsWon": 43,
+        "boxTouches": 28,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.53,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 263,
+        "duelsWon": 46,
+        "boxTouches": 15,
+        "fouls": 8,
+        "corners": 4,
+        "offsides": 4,
+        "saves": 2
+      }
     }
   },
   {
@@ -2360,6 +6224,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 2.52,
+        "shots": 25,
+        "shotsOnTarget": 7,
+        "accuratePasses": 616,
+        "duelsWon": 40,
+        "boxTouches": 48,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 33,
+        "xg": 1.07,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 247,
+        "duelsWon": 38,
+        "boxTouches": 25,
+        "fouls": 8,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 6
+      }
     }
   },
   {
@@ -2377,6 +6269,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.4,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 246,
+        "duelsWon": 53,
+        "boxTouches": 22,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.73,
+        "shots": 13,
+        "shotsOnTarget": 3,
+        "accuratePasses": 339,
+        "duelsWon": 43,
+        "boxTouches": 18,
+        "fouls": 16,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 5
+      }
     }
   },
   {
@@ -2394,6 +6314,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 0.6,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 315,
+        "duelsWon": 59,
+        "boxTouches": 21,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 57,
+        "xg": 1.98,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 468,
+        "duelsWon": 46,
+        "boxTouches": 36,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 6
+      }
     }
   },
   {
@@ -2411,6 +6359,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.98,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 456,
+        "duelsWon": 44,
+        "boxTouches": 22,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 54,
+        "xg": 2.02,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 568,
+        "duelsWon": 34,
+        "boxTouches": 12,
+        "fouls": 15,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -2428,6 +6404,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 33,
+        "xg": 3.01,
+        "shots": 22,
+        "shotsOnTarget": 12,
+        "accuratePasses": 227,
+        "duelsWon": 52,
+        "boxTouches": 47,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 67,
+        "xg": 1.5,
+        "shots": 16,
+        "shotsOnTarget": 6,
+        "accuratePasses": 553,
+        "duelsWon": 49,
+        "boxTouches": 29,
+        "fouls": 15,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 7
+      }
     }
   },
   {
@@ -2445,6 +6449,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 0.84,
+        "shots": 9,
+        "shotsOnTarget": 1,
+        "accuratePasses": 375,
+        "duelsWon": 57,
+        "boxTouches": 27,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 55,
+        "xg": 0.98,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 478,
+        "duelsWon": 56,
+        "boxTouches": 29,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 1
+      }
     }
   },
   {
@@ -2462,6 +6494,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 2.92,
+        "shots": 22,
+        "shotsOnTarget": 9,
+        "accuratePasses": 434,
+        "duelsWon": 45,
+        "boxTouches": 45,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 38,
+        "xg": 1.13,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 243,
+        "duelsWon": 33,
+        "boxTouches": 13,
+        "fouls": 18,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 4
+      }
     }
   },
   {
@@ -2479,6 +6539,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 0.47,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 355,
+        "duelsWon": 42,
+        "boxTouches": 23,
+        "fouls": 6,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 58,
+        "xg": 0.89,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 549,
+        "duelsWon": 42,
+        "boxTouches": 26,
+        "fouls": 9,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -2496,6 +6584,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 20,
+        "xg": 1.19,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 144,
+        "duelsWon": 39,
+        "boxTouches": 9,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 7
+      },
+      "away": {
+        "possession": 80,
+        "xg": 3.09,
+        "shots": 30,
+        "shotsOnTarget": 10,
+        "accuratePasses": 734,
+        "duelsWon": 51,
+        "boxTouches": 49,
+        "fouls": 4,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 2
+      }
     }
   },
   {
@@ -2513,6 +6629,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 2.1,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 346,
+        "duelsWon": 45,
+        "boxTouches": 29,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 56,
+        "xg": 0.47,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 451,
+        "duelsWon": 49,
+        "boxTouches": 17,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 0
+      }
     }
   },
   {
@@ -2530,6 +6674,34 @@
     },
     "awayTeam": {
       "goals": 6
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 0.46,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 293,
+        "duelsWon": 38,
+        "boxTouches": 20,
+        "fouls": 10,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 8
+      },
+      "away": {
+        "possession": 58,
+        "xg": 5.69,
+        "shots": 22,
+        "shotsOnTarget": 14,
+        "accuratePasses": 432,
+        "duelsWon": 49,
+        "boxTouches": 43,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 1
+      }
     }
   },
   {
@@ -2547,6 +6719,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 2.33,
+        "shots": 17,
+        "shotsOnTarget": 10,
+        "accuratePasses": 567,
+        "duelsWon": 38,
+        "boxTouches": 31,
+        "fouls": 5,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 42,
+        "xg": 2.33,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 411,
+        "duelsWon": 27,
+        "boxTouches": 21,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 7
+      }
     }
   },
   {
@@ -2564,6 +6764,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 0.75,
+        "shots": 13,
+        "shotsOnTarget": 1,
+        "accuratePasses": 327,
+        "duelsWon": 39,
+        "boxTouches": 17,
+        "fouls": 7,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 58,
+        "xg": 1.95,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 500,
+        "duelsWon": 39,
+        "boxTouches": 19,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 1
+      }
     }
   },
   {
@@ -2581,6 +6809,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 1.19,
+        "shots": 8,
+        "shotsOnTarget": 6,
+        "accuratePasses": 365,
+        "duelsWon": 45,
+        "boxTouches": 18,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 58,
+        "xg": 1.56,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 527,
+        "duelsWon": 48,
+        "boxTouches": 33,
+        "fouls": 6,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 3
+      }
     }
   },
   {
@@ -2598,6 +6854,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 2.1,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 390,
+        "duelsWon": 38,
+        "boxTouches": 29,
+        "fouls": 5,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.75,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 486,
+        "duelsWon": 48,
+        "boxTouches": 26,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 1
+      }
     }
   },
   {
@@ -2615,6 +6899,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 65,
+        "xg": 2.66,
+        "shots": 19,
+        "shotsOnTarget": 8,
+        "accuratePasses": 538,
+        "duelsWon": 43,
+        "boxTouches": 35,
+        "fouls": 10,
+        "corners": 9,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 35,
+        "xg": 1.3,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 260,
+        "duelsWon": 38,
+        "boxTouches": 19,
+        "fouls": 4,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 5
+      }
     }
   },
   {
@@ -2632,6 +6944,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 0.69,
+        "shots": 7,
+        "shotsOnTarget": 1,
+        "accuratePasses": 388,
+        "duelsWon": 41,
+        "boxTouches": 11,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 53,
+        "xg": 0.21,
+        "shots": 7,
+        "shotsOnTarget": 1,
+        "accuratePasses": 436,
+        "duelsWon": 27,
+        "boxTouches": 19,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 1
+      }
     }
   },
   {
@@ -2649,6 +6989,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 71,
+        "xg": 2.29,
+        "shots": 30,
+        "shotsOnTarget": 7,
+        "accuratePasses": 525,
+        "duelsWon": 52,
+        "boxTouches": 63,
+        "fouls": 11,
+        "corners": 16,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 29,
+        "xg": 1.74,
+        "shots": 7,
+        "shotsOnTarget": 5,
+        "accuratePasses": 185,
+        "duelsWon": 37,
+        "boxTouches": 6,
+        "fouls": 9,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 4
+      }
     }
   },
   {
@@ -2666,6 +7034,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 2.93,
+        "shots": 15,
+        "shotsOnTarget": 9,
+        "accuratePasses": 310,
+        "duelsWon": 50,
+        "boxTouches": 28,
+        "fouls": 17,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 56,
+        "xg": 0.93,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 414,
+        "duelsWon": 59,
+        "boxTouches": 15,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 4
+      }
     }
   },
   {
@@ -2683,6 +7079,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 0.98,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 516,
+        "duelsWon": 42,
+        "boxTouches": 19,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 44,
+        "xg": 1.64,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 381,
+        "duelsWon": 51,
+        "boxTouches": 30,
+        "fouls": 10,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 2
+      }
     }
   },
   {
@@ -2700,6 +7124,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 73,
+        "xg": 2.21,
+        "shots": 21,
+        "shotsOnTarget": 6,
+        "accuratePasses": 661,
+        "duelsWon": 50,
+        "boxTouches": 37,
+        "fouls": 8,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 27,
+        "xg": 1.32,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 210,
+        "duelsWon": 43,
+        "boxTouches": 17,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      }
     }
   },
   {
@@ -2717,6 +7169,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 5.2,
+        "shots": 28,
+        "shotsOnTarget": 9,
+        "accuratePasses": 396,
+        "duelsWon": 60,
+        "boxTouches": 55,
+        "fouls": 17,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 6
+      },
+      "away": {
+        "possession": 53,
+        "xg": 2.01,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 480,
+        "duelsWon": 73,
+        "boxTouches": 23,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 6
+      }
     }
   },
   {
@@ -2734,6 +7214,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 1.34,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 254,
+        "duelsWon": 53,
+        "boxTouches": 22,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 8,
+        "saves": 7
+      },
+      "away": {
+        "possession": 54,
+        "xg": 1.31,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 330,
+        "duelsWon": 51,
+        "boxTouches": 30,
+        "fouls": 18,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 3
+      }
     }
   },
   {
@@ -2751,6 +7259,34 @@
     },
     "awayTeam": {
       "goals": 6
+    },
+    "stats": {
+      "home": {
+        "possession": 31,
+        "xg": 1.68,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 228,
+        "duelsWon": 41,
+        "boxTouches": 18,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 69,
+        "xg": 4.84,
+        "shots": 25,
+        "shotsOnTarget": 13,
+        "accuratePasses": 632,
+        "duelsWon": 40,
+        "boxTouches": 39,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 2
+      }
     }
   },
   {
@@ -2768,6 +7304,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 1.3,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 266,
+        "duelsWon": 49,
+        "boxTouches": 39,
+        "fouls": 14,
+        "corners": 9,
+        "offsides": 6,
+        "saves": 1
+      },
+      "away": {
+        "possession": 54,
+        "xg": 1.42,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 328,
+        "duelsWon": 62,
+        "boxTouches": 20,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      }
     }
   },
   {
@@ -2785,6 +7349,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 2.59,
+        "shots": 11,
+        "shotsOnTarget": 7,
+        "accuratePasses": 417,
+        "duelsWon": 56,
+        "boxTouches": 24,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.99,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 296,
+        "duelsWon": 44,
+        "boxTouches": 17,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -2802,6 +7394,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 0.85,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 385,
+        "duelsWon": 34,
+        "boxTouches": 9,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.64,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 455,
+        "duelsWon": 34,
+        "boxTouches": 26,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 2
+      }
     }
   },
   {
@@ -2819,6 +7439,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 0.9,
+        "shots": 9,
+        "shotsOnTarget": 8,
+        "accuratePasses": 518,
+        "duelsWon": 42,
+        "boxTouches": 26,
+        "fouls": 14,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.57,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 350,
+        "duelsWon": 46,
+        "boxTouches": 17,
+        "fouls": 7,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 3
+      }
     }
   },
   {
@@ -2836,6 +7484,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 2.63,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 330,
+        "duelsWon": 52,
+        "boxTouches": 20,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 60,
+        "xg": 0.59,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 510,
+        "duelsWon": 42,
+        "boxTouches": 36,
+        "fouls": 13,
+        "corners": 10,
+        "offsides": 0,
+        "saves": 4
+      }
     }
   },
   {
@@ -2853,6 +7529,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 2.78,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 449,
+        "duelsWon": 36,
+        "boxTouches": 40,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 51,
+        "xg": 0.61,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 474,
+        "duelsWon": 37,
+        "boxTouches": 21,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 2
+      }
     }
   },
   {
@@ -2870,6 +7574,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 3.78,
+        "shots": 38,
+        "shotsOnTarget": 14,
+        "accuratePasses": 622,
+        "duelsWon": 73,
+        "boxTouches": 72,
+        "fouls": 17,
+        "corners": 16,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 34,
+        "xg": 0.54,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 274,
+        "duelsWon": 71,
+        "boxTouches": 27,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 9
+      }
     }
   },
   {
@@ -2887,6 +7619,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.26,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 385,
+        "duelsWon": 44,
+        "boxTouches": 28,
+        "fouls": 8,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.09,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 482,
+        "duelsWon": 39,
+        "boxTouches": 16,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 9
+      }
     }
   },
   {
@@ -2904,6 +7664,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 1.95,
+        "shots": 22,
+        "shotsOnTarget": 8,
+        "accuratePasses": 444,
+        "duelsWon": 45,
+        "boxTouches": 47,
+        "fouls": 6,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 53,
+        "xg": 3.14,
+        "shots": 14,
+        "shotsOnTarget": 7,
+        "accuratePasses": 503,
+        "duelsWon": 29,
+        "boxTouches": 28,
+        "fouls": 7,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 7
+      }
     }
   },
   {
@@ -2921,6 +7709,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 1.7,
+        "shots": 21,
+        "shotsOnTarget": 12,
+        "accuratePasses": 317,
+        "duelsWon": 48,
+        "boxTouches": 42,
+        "fouls": 4,
+        "corners": 10,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 58,
+        "xg": 0.52,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 470,
+        "duelsWon": 37,
+        "boxTouches": 22,
+        "fouls": 8,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 10
+      }
     }
   },
   {
@@ -2938,6 +7754,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 4.29,
+        "shots": 18,
+        "shotsOnTarget": 13,
+        "accuratePasses": 401,
+        "duelsWon": 44,
+        "boxTouches": 29,
+        "fouls": 9,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 37,
+        "xg": 1.54,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 199,
+        "duelsWon": 33,
+        "boxTouches": 18,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 6
+      }
     }
   },
   {
@@ -2955,6 +7799,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 4.88,
+        "shots": 32,
+        "shotsOnTarget": 16,
+        "accuratePasses": 445,
+        "duelsWon": 48,
+        "boxTouches": 57,
+        "fouls": 15,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 38,
+        "xg": 0.18,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 225,
+        "duelsWon": 61,
+        "boxTouches": 5,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 11
+      }
     }
   },
   {
@@ -2972,6 +7844,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 70,
+        "xg": 3.59,
+        "shots": 25,
+        "shotsOnTarget": 8,
+        "accuratePasses": 802,
+        "duelsWon": 36,
+        "boxTouches": 36,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 7
+      },
+      "away": {
+        "possession": 30,
+        "xg": 2.06,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 299,
+        "duelsWon": 28,
+        "boxTouches": 22,
+        "fouls": 4,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 4
+      }
     }
   },
   {
@@ -2989,6 +7889,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 2.39,
+        "shots": 18,
+        "shotsOnTarget": 11,
+        "accuratePasses": 348,
+        "duelsWon": 43,
+        "boxTouches": 30,
+        "fouls": 16,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.02,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 336,
+        "duelsWon": 58,
+        "boxTouches": 30,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 8
+      }
     }
   },
   {
@@ -3006,6 +7934,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 2.2,
+        "shots": 20,
+        "shotsOnTarget": 9,
+        "accuratePasses": 386,
+        "duelsWon": 50,
+        "boxTouches": 37,
+        "fouls": 12,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 52,
+        "xg": 2.92,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 437,
+        "duelsWon": 40,
+        "boxTouches": 46,
+        "fouls": 12,
+        "corners": 11,
+        "offsides": 2,
+        "saves": 9
+      }
     }
   },
   {
@@ -3023,6 +7979,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 0.71,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 345,
+        "duelsWon": 32,
+        "boxTouches": 16,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 56,
+        "xg": 1.33,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 467,
+        "duelsWon": 37,
+        "boxTouches": 14,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 5
+      }
     }
   },
   {
@@ -3040,6 +8024,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 74,
+        "xg": 2.35,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 685,
+        "duelsWon": 44,
+        "boxTouches": 40,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 26,
+        "xg": 0.17,
+        "shots": 3,
+        "shotsOnTarget": 0,
+        "accuratePasses": 190,
+        "duelsWon": 34,
+        "boxTouches": 9,
+        "fouls": 12,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 4
+      }
     }
   },
   {
@@ -3057,6 +8069,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 1.1,
+        "shots": 18,
+        "shotsOnTarget": 7,
+        "accuratePasses": 536,
+        "duelsWon": 60,
+        "boxTouches": 41,
+        "fouls": 6,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 42,
+        "xg": 0.44,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 366,
+        "duelsWon": 40,
+        "boxTouches": 10,
+        "fouls": 17,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 7
+      }
     }
   },
   {
@@ -3074,6 +8114,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 1.97,
+        "shots": 21,
+        "shotsOnTarget": 5,
+        "accuratePasses": 351,
+        "duelsWon": 53,
+        "boxTouches": 50,
+        "fouls": 9,
+        "corners": 8,
+        "offsides": 4,
+        "saves": 3
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.09,
+        "shots": 12,
+        "shotsOnTarget": 6,
+        "accuratePasses": 321,
+        "duelsWon": 46,
+        "boxTouches": 25,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 4,
+        "saves": 6
+      }
     }
   },
   {
@@ -3091,6 +8159,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 29,
+        "xg": 1.77,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 202,
+        "duelsWon": 53,
+        "boxTouches": 27,
+        "fouls": 15,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 7
+      },
+      "away": {
+        "possession": 71,
+        "xg": 2.22,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 629,
+        "duelsWon": 60,
+        "boxTouches": 38,
+        "fouls": 8,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      }
     }
   },
   {
@@ -3108,6 +8204,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 68,
+        "xg": 2.14,
+        "shots": 21,
+        "shotsOnTarget": 9,
+        "accuratePasses": 565,
+        "duelsWon": 42,
+        "boxTouches": 43,
+        "fouls": 10,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 32,
+        "xg": 2.25,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 229,
+        "duelsWon": 47,
+        "boxTouches": 22,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 4
+      }
     }
   },
   {
@@ -3125,6 +8249,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 0.64,
+        "shots": 15,
+        "shotsOnTarget": 1,
+        "accuratePasses": 385,
+        "duelsWon": 47,
+        "boxTouches": 29,
+        "fouls": 7,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 50,
+        "xg": 0.29,
+        "shots": 8,
+        "shotsOnTarget": 1,
+        "accuratePasses": 388,
+        "duelsWon": 42,
+        "boxTouches": 20,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 1
+      }
     }
   },
   {
@@ -3142,6 +8294,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 1.9,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 313,
+        "duelsWon": 41,
+        "boxTouches": 20,
+        "fouls": 14,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 57,
+        "xg": 3.06,
+        "shots": 10,
+        "shotsOnTarget": 8,
+        "accuratePasses": 423,
+        "duelsWon": 69,
+        "boxTouches": 52,
+        "fouls": 4,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 0
+      }
     }
   },
   {
@@ -3159,6 +8339,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.21,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 420,
+        "duelsWon": 44,
+        "boxTouches": 25,
+        "fouls": 7,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.51,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 423,
+        "duelsWon": 34,
+        "boxTouches": 23,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 3
+      }
     }
   },
   {
@@ -3176,6 +8384,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 1.56,
+        "shots": 13,
+        "shotsOnTarget": 2,
+        "accuratePasses": 378,
+        "duelsWon": 49,
+        "boxTouches": 21,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 0.99,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 320,
+        "duelsWon": 46,
+        "boxTouches": 21,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 1
+      }
     }
   },
   {
@@ -3193,6 +8429,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 1.41,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 499,
+        "duelsWon": 49,
+        "boxTouches": 39,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 34,
+        "xg": 1.06,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 215,
+        "duelsWon": 59,
+        "boxTouches": 17,
+        "fouls": 12,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 5
+      }
     }
   },
   {
@@ -3210,6 +8474,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 75,
+        "xg": 1.72,
+        "shots": 21,
+        "shotsOnTarget": 4,
+        "accuratePasses": 809,
+        "duelsWon": 57,
+        "boxTouches": 42,
+        "fouls": 11,
+        "corners": 11,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 25,
+        "xg": 0.51,
+        "shots": 7,
+        "shotsOnTarget": 1,
+        "accuratePasses": 196,
+        "duelsWon": 48,
+        "boxTouches": 16,
+        "fouls": 17,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 3
+      }
     }
   }
 ]

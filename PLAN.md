@@ -144,7 +144,14 @@ Favorites (reuse `favorites.ts` localStorage pattern as-is, extended to multi-le
    `/competitions/{code}/teams` returns full squads inline, so this is +1 call per
    competition (9 total), not the ~166 per-team calls a naive read of the API would
    suggest.
-5. **FotMob advanced-stats layer**: parameterized per league id, powers the Stats page.
+5. **FotMob advanced-stats layer**: parameterized per league id. Shipped as
+   **team-level match stats only** (xG, shots, possession, duels, touches in the
+   opposition box) attached to each finished match — not the full player-level Stats
+   leaderboard page originally scoped here. Player-level (xG/xA per player) needs a
+   second name-matching layer (FotMob player -> our player, per squad) plus season-long
+   accumulation state that can't be meaningfully verified while ~0 matches have been
+   played anywhere; tracked as **Phase 5b**, not attempted yet. See PROGRESS.md for the
+   verification approach used instead (historical match, not live current data).
 6. **Champions League**: Swiss league-phase table, playoff round, two-legged knockout
    engine — the biggest net-new engineering, budgeted as its own phase.
 7. **Table Races + Favorites**, then polish (schema.org, analytics) mirroring World Cup's

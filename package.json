@@ -11,7 +11,9 @@
     "typecheck": "tsc --noEmit",
     "ingest": "node scripts/ingest-football-data.mjs",
     "ingest:live": "node scripts/ingest-espn-live.mjs",
-    "ingest:live:check": "node scripts/ingest-espn-live.mjs --check"
+    "ingest:live:check": "node scripts/ingest-espn-live.mjs --check",
+    "ingest:fotmob": "node scripts/ingest-fotmob.mjs",
+    "ingest:fotmob:check": "node scripts/ingest-fotmob.mjs --check"
   },
   "dependencies": {
     "react": "^18.3.1",

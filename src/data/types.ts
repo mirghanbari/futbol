@@ -50,6 +50,23 @@ export interface MatchTeamStats {
   goals: number;
 }
 
+// FotMob-sourced advanced team stats for one side of a finished match
+// (scripts/ingest-fotmob.mjs). All optional — only present once FotMob's
+// been successfully joined to the match; football-data.org has none of this.
+export interface MatchAdvancedStats {
+  possession?: number; // %
+  xg?: number;
+  shots?: number;
+  shotsOnTarget?: number;
+  accuratePasses?: number;
+  duelsWon?: number;
+  boxTouches?: number; // touches in the opposition box — field-tilt proxy
+  fouls?: number;
+  corners?: number;
+  offsides?: number;
+  saves?: number;
+}
+
 export interface MatchEvent {
   minute: number;
   type: "goal" | "yellow-card" | "red-card" | "substitution";
@@ -74,6 +91,10 @@ export interface Match {
   // only ever present after a live.json patch is applied.
   minute?: string | null;
   events?: MatchEvent[];
+  // FotMob advanced stats, set once for a finished match by
+  // scripts/ingest-fotmob.mjs and preserved across football-data.org
+  // rebuilds (see ingest-football-data.mjs).
+  stats?: { home: MatchAdvancedStats; away: MatchAdvancedStats };
 }
 
 export interface Player {

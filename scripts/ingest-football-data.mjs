@@ -12,9 +12,17 @@
 // pass takes ~3 minutes). A single competition's failure (e.g. season not
 // yet loaded) is logged and skipped — it doesn't abort the rest of the run
 // or touch that competition's last-good JSON on disk.
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { COMPETITIONS } from "./competitions.mjs";
+
+async function readJson(path) {
+  try {
+    return JSON.parse(await readFile(path, "utf8"));
+  } catch {
+    return [];
+  }
+}
 
 const API_BASE = "https://api.football-data.org/v4";
 const DATA_DIR = fileURLToPath(new URL("../src/data/", import.meta.url));
@@ -198,7 +206,20 @@ async function ingestCompetition(meta) {
 
   const matches = matchesRes.matches.map((match) => toMatch(match, code, season));
 
+  // Carry forward FotMob's per-match `stats` (scripts/ingest-fotmob.mjs)
+  // across this rebuild — this script is the source of truth for
+  // teams/standings/matches/players, but not for FotMob's advanced stats,
+  // and a fresh football-data.org pull would otherwise silently wipe them
+  // every ~30 minutes.
   const outDir = `${DATA_DIR}leagues/${code}/`;
+  const existingMatches = await readJson(`${outDir}matches.json`);
+  const existingStatsById = new Map(
+    existingMatches.filter((m) => m.stats).map((m) => [m.id, m.stats]),
+  );
+  for (const match of matches) {
+    const stats = existingStatsById.get(match.id);
+    if (stats) match.stats = stats;
+  }
   await writeFile(`${outDir}teams.json`, JSON.stringify(teams, null, 2) + "\n");
   await writeFile(`${outDir}standings.json`, JSON.stringify(standings, null, 2) + "\n");
   await writeFile(`${outDir}matches.json`, JSON.stringify(matches, null, 2) + "\n");
