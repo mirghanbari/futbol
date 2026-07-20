@@ -135,9 +135,16 @@ Favorites (reuse `favorites.ts` localStorage pattern as-is, extended to multi-le
 2. **All 9 competitions** on football-data.org: competitions/teams/standings/matches/scorers.
    Core pages: Overview, Standings, Matches, Match detail (no live yet), Teams, Team detail.
 3. **ESPN live layer**: parameterized ingest across league slugs, `live.json` overlay,
-   Cloudflare Worker cadence (fork of `cron-trigger`).
-4. **FotMob advanced-stats layer**: parameterized per league id, powers the Stats page.
-5. **Players / Player detail**, scale-aware (split JSON, pagination, activity filter).
+   Cloudflare Worker cadence (fork of `cron-trigger`) — the Worker itself is deferred,
+   see PROGRESS.md.
+4. **Players / Player detail**, scale-aware (split JSON, pagination, activity filter).
+   Swapped ahead of the FotMob layer (was step 5) — FotMob's stats are almost entirely
+   player-level (xG, xA, duels), so there's nothing meaningful to attach them to until
+   players exist. Turned out cheaper than planned: football-data.org's
+   `/competitions/{code}/teams` returns full squads inline, so this is +1 call per
+   competition (9 total), not the ~166 per-team calls a naive read of the API would
+   suggest.
+5. **FotMob advanced-stats layer**: parameterized per league id, powers the Stats page.
 6. **Champions League**: Swiss league-phase table, playoff round, two-legged knockout
    engine — the biggest net-new engineering, budgeted as its own phase.
 7. **Table Races + Favorites**, then polish (schema.org, analytics) mirroring World Cup's
