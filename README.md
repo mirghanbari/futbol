@@ -15,7 +15,7 @@ See [`PLAN.md`](./PLAN.md) for the full architecture and phased build order.
 
 ## Status
 
-**Phases 1–5 done.** All 9 competitions (Premier League, Championship, La Liga,
+**Phases 1–6 done.** All 9 competitions (Premier League, Championship, La Liga,
 Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga, Champions League) ingest from
 football-data.org into `src/data/leagues/{code}/`, each lazy-loaded on demand. Standings,
 Matches, Match detail, Teams, Team detail, Players, Player detail, and a new Stats
@@ -48,8 +48,18 @@ moment it has its first finished match — no "wait for a meaningful sample" thr
 Champions League never needs this: its own "current" data already is last season's
 complete season (see below).
 
-The Champions League Swiss-format/knockout engineering (Phase 6) isn't built yet — see
-`PLAN.md`.
+The Champions League's Swiss-format league phase (36-team single table) plus two-legged
+knockout (`src/data/knockout.ts` pairs legs by team identity, aggregates goals, falls to
+a shootout if level — new Knockout page) both consume football-data.org's own stage
+classification (`REGULAR_SEASON`/`LEAGUE_STAGE`/`PLAYOFFS`/`LAST_16`/`QUARTER_FINALS`/
+`SEMI_FINALS`/`FINAL`), which Phase 2 had been discarding (blanket-tagged everything
+"league-phase"). Verified against the real, complete 2025-26 bracket — fully consistent,
+PSG beat Arsenal on penalties in the final. Building this surfaced a real, previously-
+shipped bug: football-data's `fullTime` score *includes* the shootout tally for
+penalty-shootout matches (the CL final showed "5-4" when the real 120-minute score was
+1-1) — fixed for every competition's knockout stage, not just CL; the real goal count is
+now `regularTime + extraTime`, with the shootout split into its own `Match.shootout`
+field.
 
 Data-source quirks found and handled, not bugs in this codebase:
 - **Stale standings** (close-season window): some competitions' standings endpoint

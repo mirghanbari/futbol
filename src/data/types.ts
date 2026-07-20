@@ -6,10 +6,14 @@ export type MatchStatus =
   | "postponed"
   | "cancelled";
 
-// "league-phase" covers the Champions League's Swiss-format round-robin
-// (matchdays 1-8). The rest of UCL's stage enum ("playoff" | "round16" | ...)
-// plus two-legged tie handling lands in the Champions League phase (Phase 6).
-export type MatchStage = "regular" | "league-phase";
+// "league-phase" is the Champions League's Swiss-format round-robin
+// (matchdays 1-8, 36 teams, single table). "playoff" | "round16" | "quarter"
+// | "semi" are two-legged aggregate ties (src/data/knockout.ts pairs the two
+// legs); "final" is single-match. Sourced directly from football-data.org's
+// own stage classification (REGULAR_SEASON/LEAGUE_STAGE/PLAYOFFS/LAST_16/
+// QUARTER_FINALS/SEMI_FINALS/FINAL) — see toStage() in
+// scripts/football-data-shared.mjs.
+export type MatchStage = "regular" | "league-phase" | "playoff" | "round16" | "quarter" | "semi" | "final";
 
 export type Position = "Goalkeeper" | "Defender" | "Midfielder" | "Forward";
 
@@ -84,7 +88,7 @@ export interface Match {
   id: string;
   competitionId: string;
   season: string;
-  matchday: number;
+  matchday: number | null; // null for one-off matches with no matchday concept (e.g. CL's Final)
   stage: MatchStage;
   utcDate: string; // ISO 8601
   status: MatchStatus;
@@ -97,6 +101,10 @@ export interface Match {
   // only ever present after a live.json patch is applied.
   minute?: string | null;
   events?: MatchEvent[];
+  // Set only for knockout matches decided on penalties. homeTeam.goals/
+  // awayTeam.goals are always the REAL goal count (regular + extra time,
+  // never the shootout tally) — see toGoals() in football-data-shared.mjs.
+  shootout?: { home: number; away: number };
   // FotMob advanced stats, set once for a finished match by
   // scripts/ingest-fotmob.mjs and preserved across football-data.org
   // rebuilds (see ingest-football-data.mjs).

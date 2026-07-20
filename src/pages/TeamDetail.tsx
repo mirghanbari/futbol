@@ -69,7 +69,8 @@ export default function TeamDetail() {
         {fixtures.map((match) => (
           <li key={match.id}>
             <Link to={`/matches/${competitionId}/${match.id}`}>
-              {new Date(match.utcDate).toLocaleDateString()} — matchday {match.matchday}
+              {new Date(match.utcDate).toLocaleDateString()}
+              {match.matchday !== null && ` — matchday ${match.matchday}`}
             </Link>
           </li>
         ))}

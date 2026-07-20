@@ -162,8 +162,24 @@ Favorites (reuse `favorites.ts` localStorage pattern as-is, extended to multi-le
    finished match, no "wait for a meaningful sample" threshold. Verified against real
    data throughout (CL's already-complete 2025-26 season, e.g. Mbappé 15 goals/12 apps),
    not just the one hand-checked match from the original team-level pass.
-6. **Champions League**: Swiss league-phase table, playoff round, two-legged knockout
-   engine — the biggest net-new engineering, budgeted as its own phase.
+6. **Champions League: done.** Turned out smaller than "biggest net-new engineering"
+   suggested — football-data.org already classifies every match's real stage
+   (REGULAR_SEASON/LEAGUE_STAGE/PLAYOFFS/LAST_16/QUARTER_FINALS/SEMI_FINALS/FINAL), so
+   the wider `MatchStage` enum is just consuming data that was already there (Phase 2
+   blanket-tagged everything "league-phase", discarding it — fixed). Two-legged ties are
+   derived client-side (`src/data/knockout.ts`): group a stage's matches by team-pair,
+   aggregate goals across legs, decide the winner (or fall to the last leg's penalty
+   shootout if level on aggregate — UEFA dropped the away-goals rule in 2021). New
+   Knockout page. Verified against the real, complete 2025-26 bracket: fully consistent
+   end to end, playoff winners correctly feed into Round of 16 alongside the league-phase
+   top 8, through to PSG beating Arsenal on penalties in the final.
+
+   Found and fixed a real, previously-shipped bug while building this: football-data's
+   `fullTime` score *includes* the penalty-shootout tally for shootout matches (the CL
+   final showed "5-4", but the real 120-minute score was 1-1, decided 4-3 on pens) — every
+   match decided by penalties was showing a fabricated-looking scoreline. Fixed in
+   `toMatch()`: real goals are `regularTime + extraTime`, shootout score is now its own
+   `Match.shootout` field. Affects any competition's knockout stage, not just CL.
 7. **Table Races + Favorites**, then polish (schema.org, analytics) mirroring World Cup's
    later punch-list items.
 

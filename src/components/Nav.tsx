@@ -60,6 +60,12 @@ export default function Nav() {
         >
           Stats
         </NavLink>
+        <NavLink
+          to={`/knockout/${active}`}
+          className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
+        >
+          Knockout
+        </NavLink>
       </div>
     </nav>
   );

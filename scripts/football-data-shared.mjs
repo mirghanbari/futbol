@@ -69,24 +69,59 @@ export function toMatchStatus(status) {
   }
 }
 
+// football-data.org's own stage classification — confirmed against real
+// data: domestic leagues are uniformly REGULAR_SEASON; CL's 2025-26 season
+// (used as-is — see PROGRESS.md) breaks out LEAGUE_STAGE (144 matches),
+// PLAYOFFS/LAST_16/QUARTER_FINALS/SEMI_FINALS (16/16/8/4, each two-legged),
+// FINAL (1, single match). Anything unrecognized falls back to "regular"
+// rather than throwing — a new stage value showing up shouldn't break ingest.
+const STAGE_MAP = {
+  REGULAR_SEASON: "regular",
+  LEAGUE_STAGE: "league-phase",
+  PLAYOFFS: "playoff",
+  LAST_16: "round16",
+  QUARTER_FINALS: "quarter",
+  SEMI_FINALS: "semi",
+  FINAL: "final",
+};
+
+export function toStage(rawStage) {
+  return STAGE_MAP[rawStage] ?? "regular";
+}
+
+// football-data's `fullTime` score BAKES IN the penalty-shootout tally when
+// duration is PENALTY_SHOOTOUT (confirmed on the real CL final: fullTime
+// 5-4, but regularTime 1-1 + extraTime 0-0 + penalties 4-3 — the "5-4" is
+// not goals scored, it's regularTime+extraTime combined with the shootout
+// count). The real goal count for ET/shootout matches is
+// regularTime + extraTime; only plain REGULAR-duration matches can use
+// fullTime directly. Matters for any competition's knockout stage, not just
+// CL — was silently wrong for any penalty-shootout match before this fix.
+function toGoals(score, side) {
+  if (score.duration === "REGULAR") return score.fullTime?.[side] ?? 0;
+  return (score.regularTime?.[side] ?? 0) + (score.extraTime?.[side] ?? 0);
+}
+
+function toShootout(score) {
+  if (score.duration !== "PENALTY_SHOOTOUT" || !score.penalties) return undefined;
+  return { home: score.penalties.home, away: score.penalties.away };
+}
+
 export function toMatch(match, competitionId, season) {
+  const shootout = toShootout(match.score);
   return {
     id: String(match.id),
     competitionId,
     season,
     matchday: match.matchday,
-    // CL's round-robin league phase isn't a domestic "regular" season — tag it
-    // distinctly now so Phase 6's Swiss-format/knockout engine doesn't have to
-    // re-tag existing data. Everything from CL's playoff round onward isn't
-    // modeled yet (still comes through as "league-phase" until Phase 6 adds
-    // the wider stage enum + two-legged tie handling).
-    stage: competitionId === "CL" ? "league-phase" : "regular",
+    stage: toStage(match.stage),
     utcDate: match.utcDate,
     status: toMatchStatus(match.status),
     homeTeamId: String(match.homeTeam.id),
     awayTeamId: String(match.awayTeam.id),
-    homeTeam: { goals: match.score.fullTime.home ?? 0 },
-    awayTeam: { goals: match.score.fullTime.away ?? 0 },
+    homeTeam: { goals: toGoals(match.score, "home") },
+    awayTeam: { goals: toGoals(match.score, "away") },
+    ...(shootout ? { shootout } : {}),
   };
 }
 

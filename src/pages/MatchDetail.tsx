@@ -81,7 +81,8 @@ export default function MatchDetail() {
         {home?.name ?? match.homeTeamId} vs {away?.name ?? match.awayTeamId}
       </h1>
       <p>
-        Matchday {match.matchday} · {new Date(match.utcDate).toLocaleString()} ·{" "}
+        {match.matchday !== null && `Matchday ${match.matchday} · `}
+        {new Date(match.utcDate).toLocaleString()} ·{" "}
         {isLive && <span className="live-dot" aria-label="Live" />}
         {isLive && clock ? `${clock}'` : match.status}
       </p>

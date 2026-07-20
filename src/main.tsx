@@ -11,6 +11,7 @@ import TeamDetail from "./pages/TeamDetail";
 import Players from "./pages/Players";
 import PlayerDetail from "./pages/PlayerDetail";
 import Stats from "./pages/Stats";
+import Knockout from "./pages/Knockout";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
@@ -27,6 +28,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
           <Route path="players/:competitionId" element={<Players />} />
           <Route path="players/:competitionId/:playerId" element={<PlayerDetail />} />
           <Route path="stats/:competitionId" element={<Stats />} />
+          <Route path="knockout/:competitionId" element={<Knockout />} />
         </Route>
       </Routes>
     </BrowserRouter>
