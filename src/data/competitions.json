@@ -5,7 +5,8 @@
     "country": "England",
     "tier": 1,
     "season": "2026",
-    "currentMatchday": 1
+    "currentMatchday": 1,
+    "hasFinishedMatches": false
   },
   {
     "id": "ELC",
@@ -13,7 +14,8 @@
     "country": "England",
     "tier": 2,
     "season": "2026",
-    "currentMatchday": 1
+    "currentMatchday": 1,
+    "hasFinishedMatches": false
   },
   {
     "id": "PD",
@@ -21,7 +23,8 @@
     "country": "Spain",
     "tier": 1,
     "season": "2026",
-    "currentMatchday": 1
+    "currentMatchday": 1,
+    "hasFinishedMatches": false
   },
   {
     "id": "BL1",
@@ -29,7 +32,8 @@
     "country": "Germany",
     "tier": 1,
     "season": "2026",
-    "currentMatchday": 1
+    "currentMatchday": 1,
+    "hasFinishedMatches": false
   },
   {
     "id": "SA",
@@ -37,7 +41,8 @@
     "country": "Italy",
     "tier": 1,
     "season": "2026",
-    "currentMatchday": 1
+    "currentMatchday": 1,
+    "hasFinishedMatches": false
   },
   {
     "id": "FL1",
@@ -45,7 +50,8 @@
     "country": "France",
     "tier": 1,
     "season": "2026",
-    "currentMatchday": 1
+    "currentMatchday": 1,
+    "hasFinishedMatches": false
   },
   {
     "id": "DED",
@@ -53,7 +59,8 @@
     "country": "Netherlands",
     "tier": 1,
     "season": "2026",
-    "currentMatchday": 1
+    "currentMatchday": 1,
+    "hasFinishedMatches": false
   },
   {
     "id": "PPL",
@@ -61,7 +68,8 @@
     "country": "Portugal",
     "tier": 1,
     "season": "2026",
-    "currentMatchday": 1
+    "currentMatchday": 1,
+    "hasFinishedMatches": false
   },
   {
     "id": "CL",
@@ -69,6 +77,7 @@
     "country": "Europe",
     "tier": 0,
     "season": "2025",
-    "currentMatchday": 8
+    "currentMatchday": 8,
+    "hasFinishedMatches": true
   }
 ]

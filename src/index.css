@@ -138,3 +138,19 @@ td {
   text-decoration: none;
   color: inherit;
 }
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+.season-banner {
+  display: inline-block;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  background: rgba(255, 196, 0, 0.15);
+  border: 1px solid rgba(255, 196, 0, 0.4);
+  font-size: 0.9rem;
+  margin: 0.5rem 0 1rem;
+}

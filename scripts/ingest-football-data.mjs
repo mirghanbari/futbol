@@ -15,6 +15,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { COMPETITIONS } from "./competitions.mjs";
+import { PACE_MS, fetchFdJson, sleep, toMatch, toPlayers, toStanding, toTeam } from "./football-data-shared.mjs";
 
 async function readJson(path) {
   try {
@@ -24,9 +25,7 @@ async function readJson(path) {
   }
 }
 
-const API_BASE = "https://api.football-data.org/v4";
 const DATA_DIR = fileURLToPath(new URL("../src/data/", import.meta.url));
-const PACE_MS = 6500; // stay under 10 req/min with margin
 
 const apiKey = process.env.FOOTBALL_DATA_API_KEY;
 if (!apiKey) {
@@ -34,138 +33,18 @@ if (!apiKey) {
   process.exit(1);
 }
 
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-async function fetchJson(path, tries = 3) {
-  for (let i = 0; i < tries; i++) {
-    const res = await fetch(`${API_BASE}${path}`, {
-      headers: { "X-Auth-Token": apiKey },
-    });
-    if (res.ok) return res.json();
-    // 429 (rate limit) is worth a longer backoff; other errors fail fast.
-    if (res.status === 429 && i < tries - 1) {
-      console.warn(`  rate limited on ${path}, backing off...`);
-      await sleep(15000);
-      continue;
-    }
-    throw new Error(`${path} -> ${res.status} ${res.statusText}: ${await res.text()}`);
-  }
-}
-
-function toTeam(team, competitionId) {
-  return {
-    id: String(team.id),
-    name: team.name,
-    shortName: team.shortName ?? team.name,
-    tla: team.tla ?? "",
-    crest: team.crest,
-    competitionId,
-  };
-}
-
-function toStanding(entry, competitionId) {
-  return {
-    ...toTeam(entry.team, competitionId),
-    position: entry.position,
-    playedGames: entry.playedGames,
-    won: entry.won,
-    draw: entry.draw,
-    lost: entry.lost,
-    points: entry.points,
-    goalsFor: entry.goalsFor,
-    goalsAgainst: entry.goalsAgainst,
-    goalDifference: entry.goalDifference,
-  };
-}
-
-function toMatchStatus(status) {
-  switch (status) {
-    case "IN_PLAY":
-      return "in-play";
-    case "PAUSED":
-      return "paused";
-    case "FINISHED":
-      return "finished";
-    case "POSTPONED":
-      return "postponed";
-    case "CANCELLED":
-    case "SUSPENDED":
-      return "cancelled";
-    default:
-      return "scheduled";
-  }
-}
-
-function toMatch(match, competitionId, season) {
-  return {
-    id: String(match.id),
-    competitionId,
-    season,
-    matchday: match.matchday,
-    // CL's round-robin league phase isn't a domestic "regular" season — tag it
-    // distinctly now so Phase 6's Swiss-format/knockout engine doesn't have to
-    // re-tag existing data. Everything from CL's playoff round onward isn't
-    // modeled yet (still comes through as "league-phase" until Phase 6 adds
-    // the wider stage enum + two-legged tie handling).
-    stage: competitionId === "CL" ? "league-phase" : "regular",
-    utcDate: match.utcDate,
-    status: toMatchStatus(match.status),
-    homeTeamId: String(match.homeTeam.id),
-    awayTeamId: String(match.awayTeam.id),
-    homeTeam: { goals: match.score.fullTime.home ?? 0 },
-    awayTeam: { goals: match.score.fullTime.away ?? 0 },
-  };
-}
-
-// football-data.org uses British-football position terms; only Goalkeeper
-// matches our Position type as-is.
-function toPosition(position) {
-  switch (position) {
-    case "Goalkeeper":
-      return "Goalkeeper";
-    case "Defence":
-      return "Defender";
-    case "Midfield":
-      return "Midfielder";
-    case "Offence":
-      return "Forward";
-    default:
-      return null;
-  }
-}
-
-function toPlayers(teamsRes, competitionId) {
-  const players = [];
-  for (const team of teamsRes.teams) {
-    for (const p of team.squad ?? []) {
-      players.push({
-        id: String(p.id),
-        name: p.name,
-        position: toPosition(p.position),
-        nationality: p.nationality,
-        dateOfBirth: p.dateOfBirth ?? null,
-        teamId: String(team.id),
-        competitionId,
-      });
-    }
-  }
-  return players;
-}
-
 async function ingestCompetition(meta) {
   const { code } = meta;
   console.log(`[${code}] fetching standings...`);
-  const standingsRes = await fetchJson(`/competitions/${code}/standings`);
+  const standingsRes = await fetchFdJson(`/competitions/${code}/standings`, apiKey);
   await sleep(PACE_MS);
 
   console.log(`[${code}] fetching matches...`);
-  const matchesRes = await fetchJson(`/competitions/${code}/matches`);
+  const matchesRes = await fetchFdJson(`/competitions/${code}/matches`, apiKey);
   await sleep(PACE_MS);
 
   console.log(`[${code}] fetching squads...`);
-  const teamsRes = await fetchJson(`/competitions/${code}/teams`);
+  const teamsRes = await fetchFdJson(`/competitions/${code}/teams`, apiKey);
   await sleep(PACE_MS);
   const players = toPlayers(teamsRes, code);
 
@@ -236,6 +115,7 @@ async function ingestCompetition(meta) {
     tier: meta.tier,
     season,
     currentMatchday: standingsRes.season.currentMatchday ?? null,
+    hasFinishedMatches: matches.some((m) => m.status === "finished"),
   };
 }
 
@@ -253,6 +133,7 @@ async function main() {
         tier: meta.tier,
         season: null,
         currentMatchday: null,
+        hasFinishedMatches: false,
       });
     }
   }

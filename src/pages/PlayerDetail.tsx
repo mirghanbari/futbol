@@ -1,6 +1,9 @@
 import { Link, useParams } from "react-router-dom";
-import { competitionById, playerById, teamById } from "../data";
+import { competitionById, playerById, statsForPlayer, teamById } from "../data";
 import { useLeague } from "../data/useLeague";
+import type { PlayerSeasonStats } from "../data/types";
+
+type StatKey = Exclude<keyof PlayerSeasonStats, "playerId" | "season">;
 
 function ageFrom(dateOfBirth: string | null): number | null {
   if (!dateOfBirth) return null;
@@ -14,6 +17,22 @@ function ageFrom(dateOfBirth: string | null): number | null {
   if (beforeBirthday) age -= 1;
   return age;
 }
+
+const STAT_LABELS: { key: StatKey; label: string }[] = [
+  { key: "matchesPlayed", label: "Appearances" },
+  { key: "minutes", label: "Minutes" },
+  { key: "goals", label: "Goals" },
+  { key: "assists", label: "Assists" },
+  { key: "xg", label: "xG" },
+  { key: "xa", label: "xA" },
+  { key: "shots", label: "Shots" },
+  { key: "shotsOnTarget", label: "Shots on target" },
+  { key: "tackles", label: "Tackles" },
+  { key: "interceptions", label: "Interceptions" },
+  { key: "clearances", label: "Clearances" },
+  { key: "duelsWon", label: "Duels won" },
+  { key: "avgRating", label: "Avg. rating" },
+];
 
 export default function PlayerDetail() {
   const { competitionId, playerId } = useParams();
@@ -29,6 +48,7 @@ export default function PlayerDetail() {
 
   const team = teamById(data, player.teamId);
   const age = ageFrom(player.dateOfBirth);
+  const stats = statsForPlayer(data, player.id);
 
   return (
     <div>
@@ -45,6 +65,29 @@ export default function PlayerDetail() {
         {age !== null && ` · Age ${age}`}
         {player.dateOfBirth && ` · Born ${new Date(player.dateOfBirth).toLocaleDateString()}`}
       </p>
+
+      {data.isFallbackStats && (
+        <p className="season-banner">Showing {data.statsSeason ?? "last"} season stats.</p>
+      )}
+
+      {stats ? (
+        <>
+          <h2>{data.statsSeason ?? "Season"} stats</h2>
+          <p style={{ opacity: 0.7, fontSize: "0.85rem" }}>Source: FotMob</p>
+          <table>
+            <tbody>
+              {STAT_LABELS.map(({ key, label }) => (
+                <tr key={key}>
+                  <td style={{ opacity: 0.7 }}>{label}</td>
+                  <td>{stats[key] ?? "—"}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </>
+      ) : (
+        <p>No stats recorded yet this season.</p>
+      )}
     </div>
   );
 }

@@ -23,6 +23,12 @@ export interface Competition {
   espnSlug?: string;
   fotmobLeagueId?: number;
   logo?: string;
+  // Whether `season` has any finished matches yet. Drives the player-stats
+  // fallback: when false, Players/Stats show last season's numbers
+  // (fallback-players.json / fallback-player-stats.json) instead of an
+  // all-empty current season — and switch over automatically the moment
+  // this flips true, no "wait for a meaningful sample" threshold.
+  hasFinishedMatches: boolean;
 }
 
 export interface Team {
@@ -105,4 +111,48 @@ export interface Player {
   dateOfBirth: string | null;
   teamId: string;
   competitionId: string;
+}
+
+// Per-match FotMob player stats — the source of truth, stored keyed by match
+// id (scripts/ingest-fotmob.mjs writes player-match-stats.json). Season
+// totals (PlayerSeasonStats) are always a fresh sum over these, never an
+// incrementally-updated running total — see PROGRESS.md for why that matters
+// across a season rollover (CL's data source will eventually flip from
+// 2025-26 to 2026-27; a running total would silently mix the two seasons,
+// a recomputed sum just naturally starts over with the new match set).
+export interface PlayerMatchStats {
+  minutes?: number;
+  goals?: number;
+  assists?: number;
+  xg?: number;
+  xa?: number;
+  shots?: number;
+  shotsOnTarget?: number;
+  tackles?: number;
+  interceptions?: number;
+  clearances?: number;
+  duelsWon?: number;
+  rating?: number;
+}
+
+// A season aggregate, summed from PlayerMatchStats (rating is averaged, not
+// summed). Written to player-stats.json (current season) or
+// fallback-player-stats.json (last season, domestic leagues only — see
+// Competition.hasFinishedMatches).
+export interface PlayerSeasonStats {
+  playerId: string;
+  season: string;
+  matchesPlayed: number;
+  minutes: number;
+  goals: number;
+  assists: number;
+  xg: number;
+  xa: number;
+  shots: number;
+  shotsOnTarget: number;
+  tackles: number;
+  interceptions: number;
+  clearances: number;
+  duelsWon: number;
+  avgRating: number | null;
 }

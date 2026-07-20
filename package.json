@@ -13,7 +13,8 @@
     "ingest:live": "node scripts/ingest-espn-live.mjs",
     "ingest:live:check": "node scripts/ingest-espn-live.mjs --check",
     "ingest:fotmob": "node scripts/ingest-fotmob.mjs",
-    "ingest:fotmob:check": "node scripts/ingest-fotmob.mjs --check"
+    "ingest:fotmob:check": "node scripts/ingest-fotmob.mjs --check",
+    "ingest:fallback": "node scripts/ingest-fotmob-fallback.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",

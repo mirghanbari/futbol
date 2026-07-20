@@ -15,26 +15,41 @@ See [`PLAN.md`](./PLAN.md) for the full architecture and phased build order.
 
 ## Status
 
-**Phases 1–5 done** (Phase 5 partially — see below). All 9 competitions (Premier League,
-Championship, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga, Champions
-League) ingest from football-data.org into `src/data/leagues/{code}/`, each lazy-loaded
-on demand. Standings, Matches, Match detail, Teams, Team detail, Players and Player
-detail all take a `:competitionId` route param and a competition switcher in the nav.
-Live scores overlay on top from ESPN's public API (`scripts/ingest-espn-live.mjs` +
-`public/live.json`, polled client-side every 60s) — keyless, joined to football-data.org's
-matches by team name. Squads come from football-data.org's `/competitions/{code}/teams`
-(full roster inline, no per-team calls needed).
+**Phases 1–5 done.** All 9 competitions (Premier League, Championship, La Liga,
+Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga, Champions League) ingest from
+football-data.org into `src/data/leagues/{code}/`, each lazy-loaded on demand. Standings,
+Matches, Match detail, Teams, Team detail, Players, Player detail, and a new Stats
+leaderboard page all take a `:competitionId` route param and a competition switcher in
+the nav. Live scores overlay on top from ESPN's public API
+(`scripts/ingest-espn-live.mjs` + `public/live.json`, polled client-side every 60s) —
+keyless, joined to football-data.org's matches by team name. Squads come from
+football-data.org's `/competitions/{code}/teams` (full roster inline, no per-team calls
+needed).
 
-FotMob adds **team-level** advanced match stats (xG, shots, possession, duels won,
-touches in the opposition box, etc.) to finished matches, shown on Match detail — but
-**not** a full player-level Stats leaderboard page, which was the original Phase 5 scope.
-That needs a second name-matching layer plus season-long accumulation that can't be
-verified against real current-season data yet (essentially 0 matches played anywhere as
-of 2026-07-20); tracked as Phase 5b. Team/FotMob name matching across ESPN and FotMob
-(two independent, differing naming conventions) is verified via `npm run
+FotMob adds both team-level match stats (xG, shots, possession, duels won, touches in
+the opposition box) shown on Match detail, and **player-level season stats** (goals,
+assists, xG, xA, tackles, minutes, avg. rating) shown on Players/Player
+detail/Stats — extracted from the same per-match FotMob response (no extra API calls),
+summed into season totals at ingest time from per-match data, never an incrementally
+updated total (so a season rollover — see the CL note below — can't corrupt it). Player
+name matching needed real work: football-data.org often lists a short "known as" name
+("Martinelli") where FotMob uses the fuller one ("Gabriel Martinelli") — falls back to
+subset-of-words matching, but only when exactly one squad candidate qualifies (never
+guesses between two players sharing a first name). Team-name matching across ESPN and
+FotMob (two independent, differing naming conventions) is verified via `npm run
 ingest:live:check` / `npm run ingest:fotmob:check` — 0 unmatched across all 9
-competitions for both. The Champions League Swiss-format/knockout engineering (Phase 6)
-isn't built yet — see `PLAN.md`.
+competitions for both.
+
+**Since none of the 8 domestic leagues have any 2026-27 matches played yet**, their
+Players/Stats pages show last season's real, complete stats instead (via
+`scripts/ingest-fotmob-fallback.mjs`, a one-time backfill — not part of the recurring
+ingest cadence), clearly labeled, and flip to the current season automatically the
+moment it has its first finished match — no "wait for a meaningful sample" threshold.
+Champions League never needs this: its own "current" data already is last season's
+complete season (see below).
+
+The Champions League Swiss-format/knockout engineering (Phase 6) isn't built yet — see
+`PLAN.md`.
 
 Data-source quirks found and handled, not bugs in this codebase:
 - **Stale standings** (close-season window): some competitions' standings endpoint
@@ -70,8 +85,9 @@ npm install
 FOOTBALL_DATA_API_KEY=... npm run ingest   # populates src/data/leagues/{code}/*.json
 npm run ingest:live                        # populates public/live.json from ESPN
 npm run ingest:live:check                  # verifies every team resolves to an ESPN match
-npm run ingest:fotmob                      # adds FotMob team-level stats to finished matches
+npm run ingest:fotmob                      # adds FotMob team + player stats to finished matches
 npm run ingest:fotmob:check                # verifies every team resolves to a FotMob match
+npm run ingest:fallback                    # one-time: last-season player stats for leagues with no current-season matches yet
 npm run dev
 ```
 

@@ -54,6 +54,12 @@ export default function Nav() {
         >
           Players
         </NavLink>
+        <NavLink
+          to={`/stats/${active}`}
+          className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
+        >
+          Stats
+        </NavLink>
       </div>
     </nav>
   );

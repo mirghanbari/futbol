@@ -144,14 +144,24 @@ Favorites (reuse `favorites.ts` localStorage pattern as-is, extended to multi-le
    `/competitions/{code}/teams` returns full squads inline, so this is +1 call per
    competition (9 total), not the ~166 per-team calls a naive read of the API would
    suggest.
-5. **FotMob advanced-stats layer**: parameterized per league id. Shipped as
-   **team-level match stats only** (xG, shots, possession, duels, touches in the
-   opposition box) attached to each finished match — not the full player-level Stats
-   leaderboard page originally scoped here. Player-level (xG/xA per player) needs a
-   second name-matching layer (FotMob player -> our player, per squad) plus season-long
-   accumulation state that can't be meaningfully verified while ~0 matches have been
-   played anywhere; tracked as **Phase 5b**, not attempted yet. See PROGRESS.md for the
-   verification approach used instead (historical match, not live current data).
+5. **FotMob advanced-stats layer**: parameterized per league id. First shipped as
+   team-level match stats only (xG, shots, possession, duels, touches in the opposition
+   box) attached to each finished match. **5b (player-level stats + Stats page) done**:
+   per-match player stats (goals, assists, xG, xA, tackles, minutes, rating) extracted
+   from the same FotMob response (no extra API calls), summed into season totals at
+   ingest time — always a fresh sum over per-match data, never an incrementally-updated
+   running total, so a season rollover (see CL note above) can't corrupt it. Player name
+   matching needed its own logic beyond exact-equality (football-data.org often lists a
+   "known as" short name — "Martinelli" — where FotMob uses the fuller one — "Gabriel
+   Martinelli"); falls back to subset-of-words matching, but only when exactly one squad
+   candidate qualifies (never guesses between e.g. two players both named "Gabriel").
+   **Fallback for domestic leagues** (`ingest-fotmob-fallback.mjs`, one-time, not part of
+   the recurring cadence): since none of the 8 domestic leagues have any 2026-27 matches
+   played yet, Players/Stats show last season's real, complete stats instead of an empty
+   page — and flip to the current season automatically the moment it has its first
+   finished match, no "wait for a meaningful sample" threshold. Verified against real
+   data throughout (CL's already-complete 2025-26 season, e.g. Mbappé 15 goals/12 apps),
+   not just the one hand-checked match from the original team-level pass.
 6. **Champions League**: Swiss league-phase table, playoff round, two-legged knockout
    engine — the biggest net-new engineering, budgeted as its own phase.
 7. **Table Races + Favorites**, then polish (schema.org, analytics) mirroring World Cup's
