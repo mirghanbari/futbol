@@ -1,0 +1,53 @@
+name: Update live scores
+
+# Fast, keyless ESPN live-score layer — no football-data.org calls, so no
+# rate limit to worry about. Runs more often than Update data so scores move
+# during a live matchday without waiting on the slow, rate-limited
+# football-data.org pass. Same commit-and-dispatch-Deploy pattern as
+# update-data.yml.
+on:
+  schedule:
+    - cron: "*/10 * * * *" # best-effort; GitHub throttles scheduled cron
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  actions: write # to dispatch Deploy
+
+concurrency:
+  group: update-live
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Ingest ESPN live scores
+        run: npm run ingest:live
+
+      - name: Commit and deploy
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -uo pipefail
+          git config user.name "futbol-bot"
+          git config user.email "actions@github.com"
+
+          if [ -z "$(git status --porcelain public/live.json)" ]; then
+            echo "No live-score changes."
+            exit 0
+          fi
+
+          git add public/live.json
+          git commit -m "data: refresh live scores"
+          git push origin HEAD:main
+          gh workflow run "Deploy" || echo "deploy dispatch failed (non-fatal)"

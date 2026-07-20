@@ -15,13 +15,24 @@ See [`PLAN.md`](./PLAN.md) for the full architecture and phased build order.
 
 ## Status
 
-**Phases 1–2 done.** All 9 competitions (Premier League, Championship, La Liga,
+**Phases 1–3 done.** All 9 competitions (Premier League, Championship, La Liga,
 Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga, Champions League) ingest from
 football-data.org into `src/data/leagues/{code}/`, each lazy-loaded on demand. Standings,
 Matches, Match detail, Teams and Team detail all take a `:competitionId` route param and
-a competition switcher in the nav. The ESPN live layer, FotMob advanced stats, Players,
-and the Champions League Swiss-format/knockout engineering are not built yet (Phases
-3–7) — see `PLAN.md`.
+a competition switcher in the nav. Live scores overlay on top from ESPN's public API
+(`scripts/ingest-espn-live.mjs` + `public/live.json`, polled client-side every 60s) —
+keyless, joined to football-data.org's matches by team name (see `ALIASES` in that
+script for the ~50 naming mismatches between the two providers). FotMob advanced stats,
+Players, and the Champions League Swiss-format/knockout engineering are not built yet
+(Phases 4–7) — see `PLAN.md`.
+
+Three GitHub Actions workflows, deliberately decoupled so a live-score update never
+re-runs the slow football-data.org pass: `update-data.yml` (football-data.org, every
+~30 min), `update-live.yml` (ESPN live scores, every ~10 min), `deploy.yml` (build +
+publish whatever's committed, triggered by either of the above). The higher-frequency
+Cloudflare Worker cadence world-cup uses (dispatches every ~1–2 min during a live match)
+isn't set up yet — this repo doesn't have Cloudflare infrastructure provisioned, and
+that's a deliberate follow-up rather than an oversight.
 
 Note: in the close-season window, football-data.org has been observed to serve a
 competition's *new*-season metadata paired with the *previous* season's standings table.
@@ -33,6 +44,8 @@ games played) and drops the stale table rather than show it as current.
 ```sh
 npm install
 FOOTBALL_DATA_API_KEY=... npm run ingest   # populates src/data/leagues/{code}/*.json
+npm run ingest:live                        # populates public/live.json from ESPN
+npm run ingest:live:check                  # verifies every team resolves to an ESPN match
 npm run dev
 ```
 

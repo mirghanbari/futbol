@@ -102,6 +102,29 @@ td {
   color: inherit;
 }
 
+.match-row-live {
+  font-weight: 600;
+}
+
+.live-dot {
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  margin-right: 0.4rem;
+  border-radius: 50%;
+  background: #e11d48;
+  animation: live-pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes live-pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.35;
+  }
+}
+
 .team-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));

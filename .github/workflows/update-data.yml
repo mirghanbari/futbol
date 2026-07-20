@@ -1,0 +1,55 @@
+name: Update data
+
+# Refreshes all 9 competitions from football-data.org (rate-limited to 10
+# req/min on the free tier — a full pass takes ~2 minutes) and commits
+# whatever changed. Runs independently of Deploy; a bot commit via
+# GITHUB_TOKEN doesn't trigger other workflows' `push` events, so this
+# explicitly dispatches Deploy once data actually changes.
+on:
+  schedule:
+    - cron: "*/30 * * * *" # best-effort; GitHub throttles scheduled cron
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  actions: write # to dispatch Deploy
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Ingest football-data.org
+        run: npm run ingest
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+
+      - name: Commit and deploy
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -uo pipefail
+          git config user.name "futbol-bot"
+          git config user.email "actions@github.com"
+
+          if [ -z "$(git status --porcelain src/data)" ]; then
+            echo "No data changes."
+            exit 0
+          fi
+
+          git add src/data
+          git commit -m "data: refresh football-data.org"
+          git push origin HEAD:main
+          gh workflow run "Deploy" || echo "deploy dispatch failed (non-fatal)"

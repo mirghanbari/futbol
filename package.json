@@ -9,7 +9,9 @@
     "build": "tsc --noEmit && vite build && cp dist/index.html dist/404.html",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
-    "ingest": "node scripts/ingest-football-data.mjs"
+    "ingest": "node scripts/ingest-football-data.mjs",
+    "ingest:live": "node scripts/ingest-espn-live.mjs",
+    "ingest:live:check": "node scripts/ingest-espn-live.mjs --check"
   },
   "dependencies": {
     "react": "^18.3.1",

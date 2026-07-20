@@ -69,6 +69,10 @@ export interface Match {
   awayTeamId: string;
   homeTeam: MatchTeamStats;
   awayTeam: MatchTeamStats;
+  // ESPN's live display clock (e.g. "23", "45+2"), overlaid client-side by
+  // src/data/live.ts. Absent from the football-data.org-sourced build data;
+  // only ever present after a live.json patch is applied.
+  minute?: string | null;
   events?: MatchEvent[];
 }
 

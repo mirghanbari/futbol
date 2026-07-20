@@ -1,5 +1,11 @@
 name: Deploy
 
+# Builds and publishes whatever's already committed — no API calls of its
+# own. Data refreshes are two separate workflows (update-data.yml for
+# football-data.org, update-live.yml for ESPN live scores) that commit +
+# push, which triggers this via the `push` event. Keeping ingest out of the
+# deploy path means a live-score-only push doesn't also re-run the slow,
+# rate-limited football-data.org pass.
 on:
   push:
     branches: [main]
@@ -10,9 +16,11 @@ permissions:
   pages: write
   id-token: write
 
+# Queue rather than cancel: a cancelled run can leave a half-submitted Pages
+# deployment that the next run collides with ("in progress deployment" 400).
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -26,12 +34,6 @@ jobs:
           cache: npm
 
       - run: npm ci
-
-      - name: Ingest football-data.org
-        run: npm run ingest
-        env:
-          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
-
       - run: npm run build
 
       - uses: actions/upload-pages-artifact@v3
