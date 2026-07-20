@@ -1,0 +1,74 @@
+[
+  {
+    "id": "PL",
+    "name": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "season": "2026",
+    "currentMatchday": 1
+  },
+  {
+    "id": "ELC",
+    "name": "Championship",
+    "country": "England",
+    "tier": 2,
+    "season": "2026",
+    "currentMatchday": 1
+  },
+  {
+    "id": "PD",
+    "name": "La Liga",
+    "country": "Spain",
+    "tier": 1,
+    "season": "2026",
+    "currentMatchday": 1
+  },
+  {
+    "id": "BL1",
+    "name": "Bundesliga",
+    "country": "Germany",
+    "tier": 1,
+    "season": "2026",
+    "currentMatchday": 1
+  },
+  {
+    "id": "SA",
+    "name": "Serie A",
+    "country": "Italy",
+    "tier": 1,
+    "season": "2026",
+    "currentMatchday": 1
+  },
+  {
+    "id": "FL1",
+    "name": "Ligue 1",
+    "country": "France",
+    "tier": 1,
+    "season": "2026",
+    "currentMatchday": 1
+  },
+  {
+    "id": "DED",
+    "name": "Eredivisie",
+    "country": "Netherlands",
+    "tier": 1,
+    "season": "2026",
+    "currentMatchday": 1
+  },
+  {
+    "id": "PPL",
+    "name": "Primeira Liga",
+    "country": "Portugal",
+    "tier": 1,
+    "season": "2026",
+    "currentMatchday": 1
+  },
+  {
+    "id": "CL",
+    "name": "UEFA Champions League",
+    "country": "Europe",
+    "tier": 0,
+    "season": "2025",
+    "currentMatchday": 8
+  }
+]

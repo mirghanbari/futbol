@@ -1,21 +1,26 @@
-import { useParams, Link } from "react-router-dom";
-import { matchById, teamById } from "../data";
+import { Link, useParams } from "react-router-dom";
+import { competitionById, matchById, teamById } from "../data";
+import { useLeague } from "../data/useLeague";
 
 export default function MatchDetail() {
-  const { matchId } = useParams();
-  const match = matchId ? matchById(matchId) : undefined;
+  const { competitionId, matchId } = useParams();
+  const competition = competitionId ? competitionById(competitionId) : undefined;
+  const { data, error, loading } = useLeague(competitionId);
 
-  if (!match) {
-    return <p>Match not found.</p>;
-  }
+  if (error) return <p>Couldn't load this competition: {error.message}</p>;
+  if (loading) return <p>Loading…</p>;
+  if (!data) return null;
 
-  const home = teamById(match.homeTeamId);
-  const away = teamById(match.awayTeamId);
+  const match = matchId ? matchById(data, matchId) : undefined;
+  if (!match) return <p>Match not found.</p>;
+
+  const home = teamById(data, match.homeTeamId);
+  const away = teamById(data, match.awayTeamId);
 
   return (
     <div>
       <p>
-        <Link to="/matches">← Back to matches</Link>
+        <Link to={`/matches/${competitionId}`}>← Back to {competition?.name ?? "matches"}</Link>
       </p>
       <h1>
         {home?.name ?? match.homeTeamId} vs {away?.name ?? match.awayTeamId}

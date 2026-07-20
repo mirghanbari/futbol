@@ -1,27 +1,53 @@
-import { NavLink } from "react-router-dom";
-
-const links = [
-  { to: "/", label: "Overview", end: true },
-  { to: "/standings", label: "Standings" },
-  { to: "/matches", label: "Matches" },
-  { to: "/teams", label: "Teams" },
-];
+import { NavLink, useNavigate, useParams } from "react-router-dom";
+import { competitions } from "../data";
 
 export default function Nav() {
+  const { competitionId } = useParams();
+  const navigate = useNavigate();
+  // Falls back to the first competition in the manifest (currently PL) so the
+  // tabs and switcher are always usable, even from the competition-less "/".
+  const active = competitionId ?? competitions[0]?.id ?? "PL";
+
   return (
     <nav className="nav">
-      <span className="brand">⚽ Futbol</span>
+      <NavLink to="/" end className="brand">
+        ⚽ Futbol
+      </NavLink>
+
+      {competitions.length > 0 && (
+        <select
+          className="competition-select"
+          value={active}
+          onChange={(e) => navigate(`/standings/${e.target.value}`)}
+          aria-label="Switch competition"
+        >
+          {competitions.map((c) => (
+            <option key={c.id} value={c.id}>
+              {c.name}
+            </option>
+          ))}
+        </select>
+      )}
+
       <div className="nav-links">
-        {links.map((link) => (
-          <NavLink
-            key={link.to}
-            to={link.to}
-            end={link.end}
-            className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
-          >
-            {link.label}
-          </NavLink>
-        ))}
+        <NavLink
+          to={`/standings/${active}`}
+          className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
+        >
+          Standings
+        </NavLink>
+        <NavLink
+          to={`/matches/${active}`}
+          className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
+        >
+          Matches
+        </NavLink>
+        <NavLink
+          to={`/teams/${active}`}
+          className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
+        >
+          Teams
+        </NavLink>
       </div>
     </nav>
   );

@@ -16,11 +16,11 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
       <Routes>
         <Route path="/" element={<App />}>
           <Route index element={<Overview />} />
-          <Route path="standings" element={<Standings />} />
-          <Route path="matches" element={<Matches />} />
-          <Route path="matches/:matchId" element={<MatchDetail />} />
-          <Route path="teams" element={<Teams />} />
-          <Route path="teams/:teamId" element={<TeamDetail />} />
+          <Route path="standings/:competitionId" element={<Standings />} />
+          <Route path="matches/:competitionId" element={<Matches />} />
+          <Route path="matches/:competitionId/:matchId" element={<MatchDetail />} />
+          <Route path="teams/:competitionId" element={<Teams />} />
+          <Route path="teams/:competitionId/:teamId" element={<TeamDetail />} />
         </Route>
       </Routes>
     </BrowserRouter>

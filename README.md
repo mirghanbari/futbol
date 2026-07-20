@@ -15,16 +15,24 @@ See [`PLAN.md`](./PLAN.md) for the full architecture and phased build order.
 
 ## Status
 
-**Phase 1 (vertical slice, Premier League only) is scaffolded.** Standings, Matches,
-Match detail, Teams and Team detail pages work off ingested football-data.org data;
-the other 8 competitions, the ESPN live layer, FotMob advanced stats, and the Champions
-League engineering are not built yet (Phases 2–7).
+**Phases 1–2 done.** All 9 competitions (Premier League, Championship, La Liga,
+Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga, Champions League) ingest from
+football-data.org into `src/data/leagues/{code}/`, each lazy-loaded on demand. Standings,
+Matches, Match detail, Teams and Team detail all take a `:competitionId` route param and
+a competition switcher in the nav. The ESPN live layer, FotMob advanced stats, Players,
+and the Champions League Swiss-format/knockout engineering are not built yet (Phases
+3–7) — see `PLAN.md`.
+
+Note: in the close-season window, football-data.org has been observed to serve a
+competition's *new*-season metadata paired with the *previous* season's standings table.
+`scripts/ingest-football-data.mjs` detects this (0 finished matches but a table showing
+games played) and drops the stale table rather than show it as current.
 
 ## Development
 
 ```sh
 npm install
-FOOTBALL_DATA_API_KEY=... npm run ingest   # populates src/data/leagues/PL/*.json
+FOOTBALL_DATA_API_KEY=... npm run ingest   # populates src/data/leagues/{code}/*.json
 npm run dev
 ```
 

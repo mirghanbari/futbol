@@ -27,6 +27,17 @@ body {
 
 .brand {
   font-weight: 700;
+  text-decoration: none;
+  color: inherit;
+}
+
+.competition-select {
+  font: inherit;
+  padding: 0.3rem 0.5rem;
+  border-radius: 6px;
+  border: 1px solid rgba(128, 128, 128, 0.35);
+  background: transparent;
+  color: inherit;
 }
 
 .nav-links {

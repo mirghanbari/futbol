@@ -6,10 +6,10 @@ export type MatchStatus =
   | "postponed"
   | "cancelled";
 
-// Phase 1 only needs regular domestic-league matchdays. The wider UCL stage
-// enum ("league-phase" | "playoff" | "round16" | ... ) is added in the
-// Champions League phase, once that engineering lands.
-export type MatchStage = "regular";
+// "league-phase" covers the Champions League's Swiss-format round-robin
+// (matchdays 1-8). The rest of UCL's stage enum ("playoff" | "round16" | ...)
+// plus two-legged tie handling lands in the Champions League phase (Phase 6).
+export type MatchStage = "regular" | "league-phase";
 
 export type Position = "Goalkeeper" | "Defender" | "Midfielder" | "Forward";
 

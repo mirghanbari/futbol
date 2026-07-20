@@ -1,5 +1,6 @@
-import { Link } from "react-router-dom";
-import { matches, teamById } from "../data";
+import { Link, useParams } from "react-router-dom";
+import { competitionById, teamById } from "../data";
+import { useLeague } from "../data/useLeague";
 import type { Match } from "../data/types";
 
 function groupByDay(list: Match[]): [string, Match[]][] {
@@ -13,21 +14,33 @@ function groupByDay(list: Match[]): [string, Match[]][] {
 }
 
 export default function Matches() {
-  const sorted = [...matches].sort((a, b) => a.utcDate.localeCompare(b.utcDate));
+  const { competitionId } = useParams();
+  const competition = competitionId ? competitionById(competitionId) : undefined;
+  const { data, error, loading } = useLeague(competitionId);
+
+  const sorted = data ? [...data.matches].sort((a, b) => a.utcDate.localeCompare(b.utcDate)) : [];
   const groups = groupByDay(sorted);
 
   return (
     <div>
-      <h1>Matches</h1>
-      {groups.length === 0 && <p>No match data yet — run `npm run ingest`.</p>}
+      <h1>{competition?.name ?? competitionId} matches</h1>
+
+      {error && <p>Couldn't load this competition: {error.message}</p>}
+      {loading && !error && <p>Loading…</p>}
+
+      {data && groups.length === 0 && <p>No match data yet — run `npm run ingest`.</p>}
       {groups.map(([day, dayMatches]) => (
         <div className="match-day" key={day}>
           <h3>{day}</h3>
           {dayMatches.map((match) => {
-            const home = teamById(match.homeTeamId);
-            const away = teamById(match.awayTeamId);
+            const home = data && teamById(data, match.homeTeamId);
+            const away = data && teamById(data, match.awayTeamId);
             return (
-              <Link className="match-row" to={`/matches/${match.id}`} key={match.id}>
+              <Link
+                className="match-row"
+                to={`/matches/${competitionId}/${match.id}`}
+                key={match.id}
+              >
                 <span>
                   {home?.shortName ?? match.homeTeamId} vs {away?.shortName ?? match.awayTeamId}
                 </span>
