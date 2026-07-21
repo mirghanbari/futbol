@@ -3,6 +3,7 @@ import { useFavorites, type FavoriteTeam } from "../favorites";
 import { competitionById, teamById } from "../data";
 import { useLeague } from "../data/useLeague";
 import { FavoriteStar } from "../components/FavoriteStar";
+import { useSeo } from "../data/seo";
 
 function FavoriteCard({ fav }: { fav: FavoriteTeam }) {
   const competition = competitionById(fav.competitionId);
@@ -52,6 +53,11 @@ function FavoriteCard({ fav }: { fav: FavoriteTeam }) {
 
 export default function Favorites() {
   const favs = useFavorites();
+
+  useSeo({
+    title: "Your Teams",
+    description: "Track your favorite teams' current standing and next fixture across every league.",
+  });
 
   return (
     <div>

@@ -3,6 +3,7 @@ import { teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { buildTies, KNOCKOUT_STAGES, STAGE_LABELS } from "../data/knockout";
+import { useSeo } from "../data/seo";
 import type { LeagueData } from "../data";
 import type { Tie } from "../data/knockout";
 
@@ -48,7 +49,12 @@ function TieCard({ tie, competitionId, data }: { tie: Tie; competitionId: string
 
 export default function Knockout() {
   const { competitionId } = useParams();
-  const { competition, data, error, loading } = useCompetitionPage(competitionId);
+  const { competition, data, error, loading, isPriorSeason } = useCompetitionPage(competitionId);
+
+  useSeo({
+    title: `${competition?.name ?? competitionId ?? "Knockout"} Knockout Stage`,
+    description: competition ? `Two-legged ties and bracket for ${competition.name}'s knockout stage.` : undefined,
+  });
 
   const stagesWithTies = data
     ? KNOCKOUT_STAGES.map((stage) => ({ stage, ties: buildTies(data.matches, stage) })).filter(
@@ -61,6 +67,13 @@ export default function Knockout() {
       <h1>{competition?.name ?? competitionId} knockout stage</h1>
 
       <LeagueStatus error={error} loading={loading} />
+
+      {isPriorSeason && (
+        <p className="season-banner">
+          Showing the {competition?.season}–{competition?.season ? Number(competition.season) + 1 : ""} season —
+          the new bracket hasn't been drawn yet.
+        </p>
+      )}
 
       {data && stagesWithTies.length === 0 && (
         <p>{competition?.name ?? "This competition"} doesn't have a knockout stage.</p>

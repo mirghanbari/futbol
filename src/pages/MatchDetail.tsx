@@ -3,7 +3,17 @@ import { matchById, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { applyLive, useLiveData } from "../data/live";
-import type { MatchAdvancedStats } from "../data/types";
+import { useSeo } from "../data/seo";
+import type { Match, MatchAdvancedStats } from "../data/types";
+
+// schema.org's EventStatusType has no "finished"/"live" value — only
+// postponed/cancelled are worth flagging explicitly, everything else is left
+// as the default EventScheduled.
+function eventStatus(status: Match["status"]): string | undefined {
+  if (status === "postponed") return "https://schema.org/EventPostponed";
+  if (status === "cancelled") return "https://schema.org/EventCancelled";
+  return undefined;
+}
 
 interface StatRowDef {
   key: keyof MatchAdvancedStats;
@@ -59,15 +69,36 @@ export default function MatchDetail() {
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
   const live = useLiveData();
 
+  const rawMatch = data && matchId ? matchById(data, matchId) : undefined;
+  const match = rawMatch ? applyLive([rawMatch], live, competitionId)[0] : undefined;
+  const home = data && match ? teamById(data, match.homeTeamId) : undefined;
+  const away = data && match ? teamById(data, match.awayTeamId) : undefined;
+  const status = match ? eventStatus(match.status) : undefined;
+
+  useSeo({
+    title: match && home && away ? `${home.name} vs ${away.name}` : "Match",
+    description:
+      match && home && away
+        ? `${home.name} vs ${away.name} — ${competition?.name ?? "match"} on ${new Date(match.utcDate).toLocaleDateString()}.`
+        : undefined,
+    jsonLd:
+      match && home && away
+        ? {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            name: `${home.name} vs ${away.name}`,
+            startDate: match.utcDate,
+            ...(status ? { eventStatus: status } : {}),
+            homeTeam: { "@type": "SportsTeam", name: home.name },
+            awayTeam: { "@type": "SportsTeam", name: away.name },
+          }
+        : undefined,
+  });
+
   if (error || loading) return <LeagueStatus error={error} loading={loading} />;
   if (!data) return null;
+  if (!rawMatch || !match) return <p>Match not found.</p>;
 
-  const rawMatch = matchId ? matchById(data, matchId) : undefined;
-  if (!rawMatch) return <p>Match not found.</p>;
-  const match = applyLive([rawMatch], live, competitionId)[0];
-
-  const home = teamById(data, match.homeTeamId);
-  const away = teamById(data, match.awayTeamId);
   const isLive = match.status === "in-play" || match.status === "paused";
   const isHalfTime = match.status === "paused";
   const clock = isHalfTime ? "HT" : match.minute;

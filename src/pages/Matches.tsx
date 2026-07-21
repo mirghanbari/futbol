@@ -3,6 +3,7 @@ import { teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { applyLive, useLiveData } from "../data/live";
+import { useSeo } from "../data/seo";
 import type { Match } from "../data/types";
 
 function groupByDay(list: Match[]): [string, Match[]][] {
@@ -29,8 +30,13 @@ function scoreLabel(match: Match): string {
 
 export default function Matches() {
   const { competitionId } = useParams();
-  const { competition, data, error, loading } = useCompetitionPage(competitionId);
+  const { competition, data, error, loading, isPriorSeason } = useCompetitionPage(competitionId);
   const live = useLiveData();
+
+  useSeo({
+    title: `${competition?.name ?? competitionId ?? "Matches"} Matches`,
+    description: competition ? `Fixtures and results for ${competition.name}.` : undefined,
+  });
 
   const withLive = data ? applyLive(data.matches, live, competitionId) : [];
   const sorted = [...withLive].sort((a, b) => a.utcDate.localeCompare(b.utcDate));
@@ -41,6 +47,13 @@ export default function Matches() {
       <h1>{competition?.name ?? competitionId} matches</h1>
 
       <LeagueStatus error={error} loading={loading} />
+
+      {isPriorSeason && (
+        <p className="season-banner">
+          Showing the {competition?.season}–{competition?.season ? Number(competition.season) + 1 : ""} season —
+          the new league-phase fixture list hasn't been published yet.
+        </p>
+      )}
 
       {data && groups.length === 0 && <p>No match data yet — run `npm run ingest`.</p>}
       {groups.map(([day, dayMatches]) => (

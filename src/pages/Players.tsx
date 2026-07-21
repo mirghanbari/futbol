@@ -3,6 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import { statsForPlayer, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
+import { useSeo } from "../data/seo";
 
 type SortKey = "name" | "goals" | "assists" | "minutes";
 
@@ -11,6 +12,11 @@ export default function Players() {
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
   const [query, setQuery] = useState("");
   const [sort, setSort] = useState<SortKey>("name");
+
+  useSeo({
+    title: `${competition?.name ?? competitionId ?? "Players"} Players`,
+    description: competition ? `Search and browse every player in ${competition.name}.` : undefined,
+  });
 
   // Reset any search/sort left over from a previously-viewed competition —
   // otherwise switching leagues via the Nav dropdown keeps the old query

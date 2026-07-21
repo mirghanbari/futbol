@@ -180,14 +180,18 @@ Favorites (reuse `favorites.ts` localStorage pattern as-is, extended to multi-le
    match decided by penalties was showing a fabricated-looking scoreline. Fixed in
    `toMatch()`: real goals are `regularTime + extraTime`, shootout score is now its own
    `Match.shootout` field. Affects any competition's knockout stage, not just CL.
-7. **Table Races + Favorites: built, not yet committed (see PROGRESS.md).** Magic-number
+7. **Table Races + Favorites: done, committed (`bbecf0a`), see PROGRESS.md.** Magic-number
    clinch/eliminate math (max/min possible points from games remaining) per PLAN's own call,
    not World Cup's brute-force combo enumeration — infeasible at 38 games/season. Zone bands
    are standard 2026-27 allocations per league, not a real-time UEFA coefficient feed (a
    documented simplification, not a bug). Favorites reuses World Cup's localStorage +
    useSyncExternalStore pattern, extended with a `competitionId` per entry since futbol (unlike
-   single-tournament World Cup) has 9 independent per-competition data sets. Next: polish
-   (schema.org, analytics), still mirroring World Cup's later punch-list items.
+   single-tournament World Cup) has 9 independent per-competition data sets.
+
+   **Polish punch list: done (7/21), see PROGRESS.md.** Per-page title/meta-description/
+   JSON-LD (`src/data/seo.ts`), robots.txt + sitemap.xml, the CL "showing last season" banner,
+   and CL league-phase zone bands on Standings. Analytics: GA4 chosen, blocked on the
+   Measurement ID from the user's in-progress property setup.
 
 ## Verification
 

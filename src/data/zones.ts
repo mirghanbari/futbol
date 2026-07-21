@@ -71,3 +71,19 @@ export function zonesFor(competitionId: string): Zone[] {
 export function zoneAtPosition(competitionId: string, position: number): Zone | undefined {
   return zonesFor(competitionId).find((z) => position >= z.from && position <= z.to);
 }
+
+// Champions League's own 36-team league-phase bands — a separate concept
+// from the domestic ZONES above (CL never appears in that record; see the
+// module comment). Static position bands only, no clinch/elimination magic-
+// number math like Table Races does for domestic leagues: the league phase
+// is just 8 matchdays, over before the games-remaining math would meaningfully
+// differ from the final table — not worth a second engine for that.
+export const CL_LEAGUE_PHASE_ZONES: Zone[] = [
+  { id: "r16", label: "Round of 16 (direct)", className: "zone-cl", from: 1, to: 8 },
+  { id: "playoff", label: "Knockout playoff", className: "zone-europa", from: 9, to: 24 },
+  { id: "eliminated", label: "Eliminated", className: "zone-releg", from: 25, to: 36 },
+];
+
+export function clZoneAtPosition(position: number): Zone | undefined {
+  return CL_LEAGUE_PHASE_ZONES.find((z) => position >= z.from && position <= z.to);
+}

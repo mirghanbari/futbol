@@ -150,3 +150,15 @@ export function playersByTeam(data: LeagueData, teamId: string): Player[] {
 export function statsForPlayer(data: LeagueData, playerId: string): PlayerSeasonStats | undefined {
   return data.playerStats.find((s) => s.playerId === playerId);
 }
+
+// CL-specific: its own competitions.json `season` lags the 8 domestic
+// leagues' by one year until football-data.org publishes the new UCL
+// league-phase fixture list (the draw happens after domestic leagues have
+// already kicked off — see PROGRESS.md). Compares against the domestic
+// leagues' season rather than a hardcoded year, so this clears itself
+// automatically the moment CL's data catches up, no code change needed.
+export function isPriorSeasonCompetition(competition: Competition): boolean {
+  if (competition.id !== "CL") return false;
+  const domesticSeason = competitions.find((c) => c.id !== "CL")?.season;
+  return domesticSeason !== undefined && competition.season !== domesticSeason;
+}

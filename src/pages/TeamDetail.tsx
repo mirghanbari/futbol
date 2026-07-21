@@ -4,6 +4,7 @@ import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import type { Player, Position } from "../data/types";
 import { FavoriteStar } from "../components/FavoriteStar";
+import { useSeo } from "../data/seo";
 
 const POSITION_ORDER: Position[] = ["Goalkeeper", "Defender", "Midfielder", "Forward"];
 
@@ -26,11 +27,25 @@ function groupByPosition(players: Player[]): [string, Player[]][] {
 export default function TeamDetail() {
   const { competitionId, teamId } = useParams();
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
+  const team = data && teamId ? teamById(data, teamId) : undefined;
+
+  useSeo({
+    title: team ? team.name : "Team",
+    description: team && competition ? `Squad and fixtures for ${team.name} in ${competition.name}.` : undefined,
+    jsonLd:
+      team && competition
+        ? {
+            "@context": "https://schema.org",
+            "@type": "SportsTeam",
+            name: team.name,
+            sport: "Football",
+            memberOf: { "@type": "SportsLeague", name: competition.name },
+          }
+        : undefined,
+  });
 
   if (error || loading) return <LeagueStatus error={error} loading={loading} />;
   if (!data) return null;
-
-  const team = teamId ? teamById(data, teamId) : undefined;
   if (!team) return <p>Team not found.</p>;
 
   const fixtures = teamId ? matchesByTeam(data, teamId) : [];

@@ -2,6 +2,7 @@ import { Link, useParams } from "react-router-dom";
 import { playerById, statsForPlayer, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
+import { useSeo } from "../data/seo";
 import type { PlayerSeasonStats } from "../data/types";
 
 type StatKey = Exclude<keyof PlayerSeasonStats, "playerId" | "season">;
@@ -38,14 +39,28 @@ const STAT_LABELS: { key: StatKey; label: string }[] = [
 export default function PlayerDetail() {
   const { competitionId, playerId } = useParams();
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
+  const player = data && playerId ? playerById(data, playerId) : undefined;
+  const team = data && player ? teamById(data, player.teamId) : undefined;
+
+  useSeo({
+    title: player ? player.name : "Player",
+    description:
+      player && team ? `${player.name} (${player.position ?? "player"}) — ${team.name} profile and stats.` : undefined,
+    jsonLd: player
+      ? {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          name: player.name,
+          nationality: player.nationality,
+          ...(team ? { memberOf: { "@type": "SportsTeam", name: team.name } } : {}),
+        }
+      : undefined,
+  });
 
   if (error || loading) return <LeagueStatus error={error} loading={loading} />;
   if (!data) return null;
-
-  const player = playerId ? playerById(data, playerId) : undefined;
   if (!player) return <p>Player not found.</p>;
 
-  const team = teamById(data, player.teamId);
   const age = ageFrom(player.dateOfBirth);
   const stats = statsForPlayer(data, player.id);
 

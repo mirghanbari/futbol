@@ -2,10 +2,16 @@ import { Link, useParams } from "react-router-dom";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { FavoriteStar } from "../components/FavoriteStar";
+import { useSeo } from "../data/seo";
 
 export default function Teams() {
   const { competitionId } = useParams();
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
+
+  useSeo({
+    title: `${competition?.name ?? competitionId ?? "Teams"} Teams`,
+    description: competition ? `All teams competing in ${competition.name}.` : undefined,
+  });
 
   return (
     <div>

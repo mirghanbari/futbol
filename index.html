@@ -9,6 +9,31 @@
       name="description"
       content="Standings, matches, teams, players and stats for Europe's top 8 leagues and the UEFA Champions League."
     />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Futbol",
+        "url": "https://mirghanbari.github.io/futbol/"
+      }
+    </script>
+    <!--
+      GA4. send_page_view is off — this is a client-routed SPA, so the
+      default automatic pageview (fired the instant history.pushState is
+      called) would capture the PREVIOUS route's title, since React hasn't
+      committed the new one yet. src/data/seo.ts sends page_view manually
+      instead, once the real per-route title is set. Only actually fires in
+      production (see seo.ts) — dev/localhost traffic is never sent.
+    -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7JESZMGWZ1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-7JESZMGWZ1", { send_page_view: false });
+    </script>
   </head>
   <body>
     <div id="root"></div>

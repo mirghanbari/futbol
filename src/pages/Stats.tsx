@@ -2,6 +2,7 @@ import { Link, useParams } from "react-router-dom";
 import { playerById, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
+import { useSeo } from "../data/seo";
 import type { PlayerSeasonStats } from "../data/types";
 import type { LeagueData } from "../data";
 
@@ -53,6 +54,11 @@ function Leaderboard({
 export default function Stats() {
   const { competitionId } = useParams();
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
+
+  useSeo({
+    title: `${competition?.name ?? competitionId ?? "Stats"} Stats`,
+    description: competition ? `Goals, assists, xG and other leaderboards for ${competition.name}.` : undefined,
+  });
 
   return (
     <div>

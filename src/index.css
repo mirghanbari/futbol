@@ -201,6 +201,22 @@ td {
   border-left: 3px solid #dc2626;
 }
 
+/* Same zone classes, applied to table rows (CL league-phase Standings) —
+   border-left is invisible under border-collapse, so a background tint
+   instead of the team-card border above. */
+tr.zone-cl {
+  background: rgba(37, 99, 235, 0.08);
+}
+
+tr.zone-europa {
+  background: rgba(234, 88, 12, 0.08);
+}
+
+tr.zone-releg,
+tr.zone-releg-playoff {
+  background: rgba(220, 38, 38, 0.08);
+}
+
 .status-clinched {
   font-weight: 600;
 }

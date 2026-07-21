@@ -4,6 +4,7 @@ import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { raceStatus, type TeamRaceRow, type ZoneStatus } from "../data/raceStatus";
 import { zonesFor, type Zone } from "../data/zones";
+import { useSeo } from "../data/seo";
 import type { LeagueData } from "../data";
 
 const STATUS_LABEL: Record<ZoneStatus, string> = {
@@ -68,6 +69,13 @@ export default function TableRaces() {
   const { competitionId } = useParams();
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
   const zones = competitionId ? zonesFor(competitionId) : [];
+
+  useSeo({
+    title: `${competition?.name ?? competitionId ?? "Table Races"} Table Races`,
+    description: competition
+      ? `Title, European-qualification and relegation race status for ${competition.name}.`
+      : undefined,
+  });
 
   const rows = data && competitionId ? raceStatus(competitionId, data.standings, data.matches) : [];
 
