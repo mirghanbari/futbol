@@ -2,6 +2,7 @@ import { Link, useParams } from "react-router-dom";
 import { competitionById, matchesByTeam, playersByTeam, teamById } from "../data";
 import { useLeague } from "../data/useLeague";
 import type { Player, Position } from "../data/types";
+import { FavoriteStar } from "../components/FavoriteStar";
 
 const POSITION_ORDER: Position[] = ["Goalkeeper", "Defender", "Midfielder", "Forward"];
 
@@ -42,7 +43,10 @@ export default function TeamDetail() {
       <p>
         <Link to={`/teams/${competitionId}`}>← Back to {competition?.name ?? "teams"}</Link>
       </p>
-      <h1>{team.name}</h1>
+      <h1>
+        {team.name}
+        {competitionId && <FavoriteStar teamId={team.id} competitionId={competitionId} className="fav-star-lg" />}
+      </h1>
 
       {squad.length > 0 && (
         <>

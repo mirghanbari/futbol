@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
 import { competitionById } from "../data";
 import { useLeague } from "../data/useLeague";
+import { FavoriteStar } from "../components/FavoriteStar";
 
 export default function Teams() {
   const { competitionId } = useParams();
@@ -21,11 +22,12 @@ export default function Teams() {
         <div className="team-grid">
           {data.teams.map((team) => (
             <Link
-              className="team-card"
+              className="team-card team-card-fav"
               to={`/teams/${competitionId}/${team.id}`}
               key={team.id}
             >
               {team.name}
+              {competitionId && <FavoriteStar teamId={team.id} competitionId={competitionId} />}
             </Link>
           ))}
         </div>

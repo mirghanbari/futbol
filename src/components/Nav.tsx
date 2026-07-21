@@ -66,6 +66,15 @@ export default function Nav() {
         >
           Knockout
         </NavLink>
+        <NavLink
+          to={`/table-races/${active}`}
+          className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
+        >
+          Table Races
+        </NavLink>
+        <NavLink to="/favorites" className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}>
+          ★ Your Teams
+        </NavLink>
       </div>
     </nav>
   );
