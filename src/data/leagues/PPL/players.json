@@ -1,1 +1,4385 @@
-[]
+[
+  {
+    "id": "110864",
+    "name": "Kevin Chamorro",
+    "position": "Goalkeeper",
+    "nationality": "Costa Rica",
+    "dateOfBirth": "2000-04-08",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "114150",
+    "name": "Cezary Miszta",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "dateOfBirth": "2001-10-30",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "135116",
+    "name": "Ennio van der Gouw",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "dateOfBirth": "2001-01-01",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "263610",
+    "name": "Antzelo Sina",
+    "position": "Goalkeeper",
+    "nationality": "Albania",
+    "dateOfBirth": "2004-01-07",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "8966",
+    "name": "Jakub Brabec",
+    "position": "Defender",
+    "nationality": "Czech Republic",
+    "dateOfBirth": "1992-08-06",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "15990",
+    "name": "Marious Vrousai",
+    "position": "Defender",
+    "nationality": "Albania",
+    "dateOfBirth": "1998-07-02",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "149940",
+    "name": "Nelson Abbey",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "2003-08-28",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "188099",
+    "name": "Julien Lomboto",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2002-05-13",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "193588",
+    "name": "Joao Tome",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-02-12",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "244638",
+    "name": "Ioannis Karakoutis",
+    "position": "Defender",
+    "nationality": "Greece",
+    "dateOfBirth": "2003-02-02",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "250593",
+    "name": "Francisco Petrasso",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "dateOfBirth": "2002-02-28",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "81950",
+    "name": "Georgios Liavas",
+    "position": "Midfielder",
+    "nationality": "Greece",
+    "dateOfBirth": "2001-02-12",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "111896",
+    "name": "Tamás Nikitscher",
+    "position": "Midfielder",
+    "nationality": "Hungary",
+    "dateOfBirth": "1999-11-03",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "185179",
+    "name": "Brandon Aguilera",
+    "position": "Midfielder",
+    "nationality": "Costa Rica",
+    "dateOfBirth": "2003-06-28",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "213079",
+    "name": "Diogo Nascimento",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-11-02",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "250777",
+    "name": "Ryan Guilherme",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-12-07",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "118074",
+    "name": "Dario Špikić",
+    "position": "Forward",
+    "nationality": "Croatia",
+    "dateOfBirth": "1999-03-22",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "211519",
+    "name": "Tobias Medina",
+    "position": "Forward",
+    "nationality": "Argentina",
+    "dateOfBirth": "2004-03-03",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "214166",
+    "name": "Amine Rehmi",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2002-04-01",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "243745",
+    "name": "Tamble Monteiro",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-11-15",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "246203",
+    "name": "Diogo Oliveira",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-07-16",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "247235",
+    "name": "Jalen Blesa",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-02-05",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "274157",
+    "name": "Rafael Genuino",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2006-02-23",
+    "teamId": "496",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "32014",
+    "name": "Rui Silva",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1994-02-07",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "82207",
+    "name": "João Virgínia",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1999-10-10",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "28770",
+    "name": "Maximiliano Araújo",
+    "position": "Defender",
+    "nationality": "Uruguay",
+    "dateOfBirth": "2000-02-15",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45463",
+    "name": "Nuno Santos",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1995-02-13",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "53190",
+    "name": "Ricardo Mangas",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1998-03-19",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "137045",
+    "name": "Georgios Vagiannidis",
+    "position": "Defender",
+    "nationality": "Greece",
+    "dateOfBirth": "2001-09-12",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "144406",
+    "name": "Eduardo Simões",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-03-02",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "145357",
+    "name": "Gonçalo Inácio",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2001-08-25",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "160926",
+    "name": "Zeno Debast",
+    "position": "Defender",
+    "nationality": "Belgium",
+    "dateOfBirth": "2003-10-24",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "176840",
+    "name": "Ivan Fresneda",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2004-09-28",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "184747",
+    "name": "Ousmane Diomande",
+    "position": "Defender",
+    "nationality": "Cote d'Ivoire",
+    "dateOfBirth": "2004-11-16",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "282381",
+    "name": "Salvador Blopa",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2007-06-13",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "102336",
+    "name": "Daniel Bragança",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1999-05-27",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "121007",
+    "name": "Rodrigo Zalazar",
+    "position": "Midfielder",
+    "nationality": "Uruguay",
+    "dateOfBirth": "1999-08-12",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "130062",
+    "name": "Sotiris Alexandropoulos",
+    "position": "Midfielder",
+    "nationality": "Greece",
+    "dateOfBirth": "2001-11-26",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "144628",
+    "name": "Giorgi Kochorashvili",
+    "position": "Midfielder",
+    "nationality": "Georgia",
+    "dateOfBirth": "1999-06-29",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "146110",
+    "name": "Koba Koindredi",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2001-10-27",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "188816",
+    "name": "Issa Doumbia",
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "dateOfBirth": "2003-10-16",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "192912",
+    "name": "Pedro Lima",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2003-03-27",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "212861",
+    "name": "Sergi Altimira",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-08-25",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "217997",
+    "name": "Silas Andersen",
+    "position": "Midfielder",
+    "nationality": "Denmark",
+    "dateOfBirth": "2004-06-13",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "270551",
+    "name": "João Simões",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2007-01-06",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "32386",
+    "name": "Luis Suárez",
+    "position": "Forward",
+    "nationality": "Colombia",
+    "dateOfBirth": "1997-12-02",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "92050",
+    "name": "Pedro Gonçalves",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "1998-06-28",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "128825",
+    "name": "Geny Catamo",
+    "position": "Forward",
+    "nationality": "Mozambique",
+    "dateOfBirth": "2001-01-26",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "186459",
+    "name": "Fotis Ioannidis",
+    "position": "Forward",
+    "nationality": "Greece",
+    "dateOfBirth": "2000-01-10",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "192653",
+    "name": "Luis Guilherme",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2006-02-09",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "247303",
+    "name": "Rafael Nel",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-04-03",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "283132",
+    "name": "Souleymane Faye",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "dateOfBirth": "2003-02-08",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "292473",
+    "name": "Jesse Derry",
+    "position": "Forward",
+    "nationality": "England",
+    "dateOfBirth": "2007-06-30",
+    "teamId": "498",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "13887",
+    "name": "Samuel Portugal",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "dateOfBirth": "1994-03-29",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37362",
+    "name": "Diogo Costa",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1999-09-19",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45217",
+    "name": "Cláudio Ramos",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1991-11-16",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "80037",
+    "name": "João Costa Gomes",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1996-02-02",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "245889",
+    "name": "João Afonso",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "2007-04-30",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "8086",
+    "name": "Jan Bednarek",
+    "position": "Defender",
+    "nationality": "Poland",
+    "dateOfBirth": "1996-04-12",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45671",
+    "name": "Nehuén Pérez",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "dateOfBirth": "2000-06-24",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "98611",
+    "name": "Moura",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1999-08-16",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "125160",
+    "name": "Zaidu Sanusi",
+    "position": "Defender",
+    "nationality": "Nigeria",
+    "dateOfBirth": "1997-06-13",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "147286",
+    "name": "Jakub Kiwior",
+    "position": "Defender",
+    "nationality": "Poland",
+    "dateOfBirth": "2000-02-15",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "184496",
+    "name": "Alberto Baio",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-09-29",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "216825",
+    "name": "Dominik Prpić",
+    "position": "Defender",
+    "nationality": "Croatia",
+    "dateOfBirth": "2004-05-19",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "227047",
+    "name": "Martim Fernandes",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2006-01-18",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "7448",
+    "name": "Pablo Rosario",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1997-01-07",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37479",
+    "name": "Stephen Eustáquio",
+    "position": "Midfielder",
+    "nationality": "Canada",
+    "dateOfBirth": "1996-12-21",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "83223",
+    "name": "Ivan Jaime Pajuelo",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-09-26",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "150519",
+    "name": "Gabriel Veiga",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2002-05-27",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "153629",
+    "name": "Alan Varela",
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "dateOfBirth": "2001-07-04",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "170561",
+    "name": "In-beom Hwang",
+    "position": "Midfielder",
+    "nationality": "South Korea",
+    "dateOfBirth": "1996-09-20",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "178712",
+    "name": "Vasco Sousa",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-04-03",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "221262",
+    "name": "Victor Froholdt",
+    "position": "Midfielder",
+    "nationality": "Denmark",
+    "dateOfBirth": "2006-02-25",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "261273",
+    "name": "Rodrigo Mora",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2007-05-05",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "1166",
+    "name": "Pepê",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "1997-02-24",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "1760",
+    "name": "André Silva",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "1995-11-06",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "39102",
+    "name": "William da Silva",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2006-03-15",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "127034",
+    "name": "Borja Sainz",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-02-01",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "169080",
+    "name": "Gabriel Veron",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-09-03",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "188466",
+    "name": "Deniz Gul",
+    "position": "Forward",
+    "nationality": "Turkey",
+    "dateOfBirth": "2004-07-02",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "215434",
+    "name": "Samu Omorodion",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": null,
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "265174",
+    "name": "Oskar Pietuszewski",
+    "position": "Forward",
+    "nationality": "Poland",
+    "dateOfBirth": "2008-05-20",
+    "teamId": "503",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "7821",
+    "name": "Joel Robles",
+    "position": "Goalkeeper",
+    "nationality": "Spain",
+    "dateOfBirth": "1990-06-17",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "153884",
+    "name": "Martin Turk",
+    "position": "Goalkeeper",
+    "nationality": "Slovenia",
+    "dateOfBirth": "2003-08-21",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "213111",
+    "name": "Diogo Dias",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-06-17",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37554",
+    "name": "Ferro",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1997-03-26",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "75196",
+    "name": "Felix Bacher",
+    "position": "Defender",
+    "nationality": "Austria",
+    "dateOfBirth": "2000-10-25",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "141472",
+    "name": "Ricard Sánchez",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-02-22",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "172422",
+    "name": "Fernando Medrano",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-03-26",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "175853",
+    "name": "Antef Tsoungui",
+    "position": "Defender",
+    "nationality": "Belgium",
+    "dateOfBirth": "2002-12-30",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "185120",
+    "name": "Gonçalo Costa",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-02-18",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "243570",
+    "name": "Pedro Carvalho",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-02-14",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "276658",
+    "name": "Tiago Parente",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-01-14",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "278726",
+    "name": "Diogo Brasido",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-05-24",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "8569",
+    "name": "Xeka",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1994-11-10",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "16752",
+    "name": "João Carvalho",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1997-03-09",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "135650",
+    "name": "Jordan Holsgrove",
+    "position": "Midfielder",
+    "nationality": "Scotland",
+    "dateOfBirth": "1999-09-10",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "146983",
+    "name": "Jandro Orellana",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-08-07",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "204177",
+    "name": "Tiago Brito",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-04-16",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "254264",
+    "name": "Nodar Lominadze",
+    "position": "Midfielder",
+    "nationality": "Georgia",
+    "dateOfBirth": "2002-04-04",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "553",
+    "name": "Yanis Begraoui",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2001-07-04",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "636",
+    "name": "Rafik Guitane",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1999-05-26",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "189251",
+    "name": "Khayon Edwards",
+    "position": "Forward",
+    "nationality": "England",
+    "dateOfBirth": "2003-09-12",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "213075",
+    "name": "Peixinho",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-05-23",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "244769",
+    "name": "Israel Salazar",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-05-10",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "248958",
+    "name": "Fabrício Garcia",
+    "position": "Forward",
+    "nationality": "Cape Verde Islands",
+    "dateOfBirth": "2001-05-04",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "249234",
+    "name": "André",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2001-05-19",
+    "teamId": "582",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "52791",
+    "name": "André Ferreira",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1996-05-29",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "13839",
+    "name": "Maracás",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1994-04-27",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "188084",
+    "name": "Dinis Pinto",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-08-24",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "213097",
+    "name": "Gilberto Batista",
+    "position": "Defender",
+    "nationality": "Guinea-Bissau",
+    "dateOfBirth": "2003-12-29",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "249408",
+    "name": "Kevyn Monteiro",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2005-09-13",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "262652",
+    "name": "Kiko",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-04-16",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "263709",
+    "name": "Leandro Santos",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-09-28",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "271514",
+    "name": "Álvaro Martínez",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2002-05-04",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "161013",
+    "name": "Nile John",
+    "position": "Midfielder",
+    "nationality": "England",
+    "dateOfBirth": "2003-03-06",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "169637",
+    "name": "Guilherme Liberato",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-06-16",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "191408",
+    "name": "Rodri Alonso",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-01-04",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "191985",
+    "name": "Mateja Stjepanovic",
+    "position": "Midfielder",
+    "nationality": "Serbia",
+    "dateOfBirth": "2004-02-20",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "262645",
+    "name": "João Veloso",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-06-26",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "270448",
+    "name": "Jimi Gower",
+    "position": "Midfielder",
+    "nationality": "England",
+    "dateOfBirth": "2004-10-01",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "274500",
+    "name": "Afonso Assis",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2006-07-15",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "291863",
+    "name": "Miguel Silva",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2007-12-17",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "105208",
+    "name": "Kiko Bondoso",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "1995-11-17",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "190318",
+    "name": "Koby Mottoh",
+    "position": "Forward",
+    "nationality": "England",
+    "dateOfBirth": "2001-03-01",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "191052",
+    "name": "Michael DaCosta",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2005-03-05",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "264054",
+    "name": "Landerson",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2006-12-12",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "275027",
+    "name": "Yan Maranhão",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-09-13",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "279774",
+    "name": "Alexandre Parsemain",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2003-05-27",
+    "teamId": "583",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "10345",
+    "name": "Nico Mantl",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "dateOfBirth": "2000-02-06",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "100703",
+    "name": "Ignacio De Arruabarrena",
+    "position": "Goalkeeper",
+    "nationality": "Uruguay",
+    "dateOfBirth": "1997-01-16",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "202404",
+    "name": "Jakub Vinarčík",
+    "position": "Goalkeeper",
+    "nationality": "Slovakia",
+    "dateOfBirth": "2005-07-11",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "53121",
+    "name": "Tiago Esgaio",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1995-08-01",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "80899",
+    "name": "Javi Sánchez",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "1997-03-14",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "140169",
+    "name": "José Fontán",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-02-11",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "151938",
+    "name": "Boris Popović",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2000-02-26",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "153734",
+    "name": "Matí­as Rocha",
+    "position": "Defender",
+    "nationality": "Uruguay",
+    "dateOfBirth": "2001-02-13",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "157101",
+    "name": "Diogo Monteiro",
+    "position": "Defender",
+    "nationality": "Switzerland",
+    "dateOfBirth": "2005-01-28",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "184995",
+    "name": "Arnau Solà",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-04-04",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "136929",
+    "name": "Pablo Gozalbez",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-04-30",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "169128",
+    "name": "Taichi Fukui",
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "dateOfBirth": "2004-07-15",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "182405",
+    "name": "Hyun-Ju Lee",
+    "position": "Midfielder",
+    "nationality": "South Korea",
+    "dateOfBirth": "2003-02-07",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "191142",
+    "name": "Pedro Santos",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-10-12",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "214415",
+    "name": "Espen van Ee",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2003-07-05",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "270595",
+    "name": "Mateo Flores",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2004-04-07",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "81391",
+    "name": "Barbero",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "1998-08-17",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "92089",
+    "name": "Naïs Djouahra",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1999-11-23",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "143641",
+    "name": "Alfonso Trezza",
+    "position": "Forward",
+    "nationality": "Uruguay",
+    "dateOfBirth": "1999-06-22",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "152585",
+    "name": "Fally Mayulu",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2002-07-15",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "161005",
+    "name": "Dylan Nandín",
+    "position": "Forward",
+    "nationality": "Uruguay",
+    "dateOfBirth": "2002-02-28",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "178782",
+    "name": "Brian Mansilla",
+    "position": "Forward",
+    "nationality": "Uruguay",
+    "dateOfBirth": "2002-05-14",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "180178",
+    "name": "Puche",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-04-30",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "192545",
+    "name": "Vladislav Morozov",
+    "position": "Forward",
+    "nationality": "Belarus",
+    "dateOfBirth": "2000-10-12",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "212549",
+    "name": "Romualdas Jansonas",
+    "position": "Forward",
+    "nationality": "Lithuania",
+    "dateOfBirth": "2005-06-23",
+    "teamId": "712",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "111481",
+    "name": "Anatolii Trubin",
+    "position": "Goalkeeper",
+    "nationality": "Ukraine",
+    "dateOfBirth": "2001-08-01",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "153846",
+    "name": "Samuel Soares",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-06-15",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "63",
+    "name": "Clément Lenglet",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1995-06-17",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "70583",
+    "name": "Alexander Bah",
+    "position": "Defender",
+    "nationality": "Denmark",
+    "dateOfBirth": "1997-12-09",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "81816",
+    "name": "Amar Dedić",
+    "position": "Defender",
+    "nationality": "Austria",
+    "dateOfBirth": "2002-08-18",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "175753",
+    "name": "Samuel Dahl",
+    "position": "Defender",
+    "nationality": "Sweden",
+    "dateOfBirth": "2003-03-04",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "177842",
+    "name": "Tomas Araujo",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-05-16",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "185610",
+    "name": "Antonio Silva",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-10-31",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "265154",
+    "name": "Rafa Obrador",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2004-02-24",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "282871",
+    "name": "Daniel Banjaqui",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2008-03-24",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "289781",
+    "name": "José Neto",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2008-04-19",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "38088",
+    "name": "Fredrik Aursnes",
+    "position": "Midfielder",
+    "nationality": "Norway",
+    "dateOfBirth": "1995-12-10",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "82403",
+    "name": "Leandro Barreiro Martins",
+    "position": "Midfielder",
+    "nationality": "Luxembourg",
+    "dateOfBirth": "2000-01-03",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "151558",
+    "name": "Heorhii Sudakov",
+    "position": "Midfielder",
+    "nationality": "Ukraine",
+    "dateOfBirth": "2002-09-01",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "158894",
+    "name": "Enzo Barrenechea",
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "dateOfBirth": "2001-05-22",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "170657",
+    "name": "Richard Rios",
+    "position": "Midfielder",
+    "nationality": "Colombia",
+    "dateOfBirth": "2000-06-02",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "194008",
+    "name": "Manu Silva",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2001-06-12",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "251296",
+    "name": "João Rêgo",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-06-20",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "8128",
+    "name": "Dodi Lukebakio",
+    "position": "Forward",
+    "nationality": "Belgium",
+    "dateOfBirth": "1997-09-24",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "9553",
+    "name": "Bruma",
+    "position": "Forward",
+    "nationality": "Guinea-Bissau",
+    "dateOfBirth": "1994-10-24",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "16748",
+    "name": "Rafa Silva",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "1993-05-17",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "67299",
+    "name": "Vangelis Pavlidis",
+    "position": "Forward",
+    "nationality": "Greece",
+    "dateOfBirth": "1998-11-21",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "104493",
+    "name": "Jhon Durán",
+    "position": "Forward",
+    "nationality": "Colombia",
+    "dateOfBirth": "2003-12-13",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "127401",
+    "name": "Jakub Kamiński",
+    "position": "Forward",
+    "nationality": "Poland",
+    "dateOfBirth": "2002-06-05",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "133573",
+    "name": "Tiago Gouveia",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2001-06-18",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "157796",
+    "name": "Andreas Schjelderup",
+    "position": "Forward",
+    "nationality": "Norway",
+    "dateOfBirth": "2004-06-01",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "177322",
+    "name": "Henrique Araujo",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-01-19",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "182123",
+    "name": "Gianluca Prestianni",
+    "position": "Forward",
+    "nationality": "Argentina",
+    "dateOfBirth": "2006-01-31",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "183643",
+    "name": "Franjo Ivanovic",
+    "position": "Forward",
+    "nationality": "Austria",
+    "dateOfBirth": "2003-10-01",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "291341",
+    "name": "Anísio Cabral",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2008-02-15",
+    "teamId": "1903",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "32337",
+    "name": "Marcos Lavín",
+    "position": "Goalkeeper",
+    "nationality": "Spain",
+    "dateOfBirth": "1996-09-02",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "74794",
+    "name": "Anthony Correia",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1999-09-06",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "114132",
+    "name": "Robinho Vieira",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1997-07-31",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "136307",
+    "name": "Rúben Pereira",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1998-04-19",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "148902",
+    "name": "Igor Milioransa",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1996-09-12",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "150787",
+    "name": "Tomás Domingos",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1999-05-01",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "157462",
+    "name": "Nikolaos Michelis",
+    "position": "Defender",
+    "nationality": "Greece",
+    "dateOfBirth": "2001-03-23",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "243563",
+    "name": "Pedro Barcelos",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1996-01-19",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "285585",
+    "name": "Gustavo Costa",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-09-15",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "6832",
+    "name": "Cihan Kahraman",
+    "position": "Midfielder",
+    "nationality": "Turkey",
+    "dateOfBirth": "1998-10-08",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "11727",
+    "name": "Cristian Ferreira",
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "dateOfBirth": "1999-09-12",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37474",
+    "name": "Luís Silva",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1992-09-29",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "53004",
+    "name": "André Ceitil",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1995-03-11",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "142160",
+    "name": "Soufiane Messeguem",
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "dateOfBirth": "2001-02-05",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "173004",
+    "name": "Marquinho",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-04-05",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "243627",
+    "name": "Tomás Silva",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-10-25",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45366",
+    "name": "André Clovis",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "1997-11-21",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "72466",
+    "name": "Dominik Steczyk",
+    "position": "Forward",
+    "nationality": "Poland",
+    "dateOfBirth": "1999-05-04",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "183393",
+    "name": "Nils Mortimer Moreno",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-06-11",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "189787",
+    "name": "Álvaro Zamora",
+    "position": "Forward",
+    "nationality": "Costa Rica",
+    "dateOfBirth": "2002-03-09",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "270637",
+    "name": "Simão Silva",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-07-27",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "276587",
+    "name": "Lorougnon Gohi",
+    "position": "Forward",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2004-08-10",
+    "teamId": "5527",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "124829",
+    "name": "João Gonçalves",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-11-05",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "245387",
+    "name": "Renato Marin",
+    "position": "Goalkeeper",
+    "nationality": "Italy",
+    "dateOfBirth": "2006-07-10",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "249175",
+    "name": "Kevyn",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "dateOfBirth": "2005-07-01",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "1437",
+    "name": "Léo Santos",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1998-12-09",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37727",
+    "name": "Ivanildo Fernandes",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1996-03-26",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "119755",
+    "name": "Ulisses",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1999-08-28",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "169570",
+    "name": "Zé Vitor",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-02-09",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "243604",
+    "name": "José Gomes",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1996-07-20",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "250231",
+    "name": "Daniel De la Cruz",
+    "position": "Defender",
+    "nationality": "Ecuador",
+    "dateOfBirth": "2004-03-06",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "1362",
+    "name": "Liziero",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "1998-02-07",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "43565",
+    "name": "Filipe Soares",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1999-05-20",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "147456",
+    "name": "Miguel Baeza",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-03-27",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "179837",
+    "name": "Matheus Dias",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-05-09",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "181585",
+    "name": "Daniel Jr.",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-05-09",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "187080",
+    "name": "Danel Dongmo",
+    "position": "Midfielder",
+    "nationality": "Cameroon",
+    "dateOfBirth": "2001-01-31",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "188089",
+    "name": "Joel Silva",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-02-11",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "226998",
+    "name": "Josué Souza",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2005-04-25",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "270035",
+    "name": "Chiheb Labidi",
+    "position": "Midfielder",
+    "nationality": "Tunisia",
+    "dateOfBirth": "2001-06-01",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "280035",
+    "name": "Deivison",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2006-05-04",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "285292",
+    "name": "Mateus Iseppe",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2006-05-02",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37194",
+    "name": "Witi",
+    "position": "Forward",
+    "nationality": "Mozambique",
+    "dateOfBirth": "1996-08-26",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "183598",
+    "name": "Stavros Gavriel",
+    "position": "Forward",
+    "nationality": "Cyprus",
+    "dateOfBirth": "2002-01-29",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "188085",
+    "name": "Chuchu",
+    "position": "Forward",
+    "nationality": "Venezuela",
+    "dateOfBirth": "1998-05-04",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "213842",
+    "name": "Markus Jensen",
+    "position": "Forward",
+    "nationality": "Denmark",
+    "dateOfBirth": "2005-07-15",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "218644",
+    "name": "Pablo Ruan",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2003-02-01",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "242472",
+    "name": "Martim Watts",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-07-14",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "246141",
+    "name": "Mootaz Nourani",
+    "position": "Forward",
+    "nationality": "Tunisia",
+    "dateOfBirth": "2002-01-11",
+    "teamId": "5529",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "151951",
+    "name": "Cristian",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-02-25",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "181527",
+    "name": "Neneca",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "dateOfBirth": "2003-08-27",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "11524",
+    "name": "Frederico Venâncio",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1993-02-04",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "32569",
+    "name": "Pedro Pacheco",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1997-01-27",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "103136",
+    "name": "Douglas Borel",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-03-30",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "124982",
+    "name": "Lucas Soares",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1998-05-04",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "165625",
+    "name": "MT",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-03-01",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "178743",
+    "name": "Diogo Calila",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1998-10-10",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "179799",
+    "name": "Lara",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2004-01-22",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "221564",
+    "name": "Edney",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2004-07-26",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "243594",
+    "name": "Sidney Lima",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1997-01-17",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "261162",
+    "name": "Alysson",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-09-26",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "278476",
+    "name": "Henrique Silva",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2005-10-17",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "286868",
+    "name": "Kamika",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-06-04",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "80878",
+    "name": "Pedro Ferreira",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1998-01-05",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "146653",
+    "name": "Rildo",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2000-01-21",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "177273",
+    "name": "Tiago Ribeiro",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-03-14",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "179772",
+    "name": "Andrey",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-02-06",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "243589",
+    "name": "Miguel Pires",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-05-23",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "273272",
+    "name": "Pedro Jesus",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-04-26",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "278474",
+    "name": "José Tavares",
+    "position": "Midfielder",
+    "nationality": "Cape Verde Islands",
+    "dateOfBirth": "2003-06-02",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "278937",
+    "name": "Vitinho",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2007-04-19",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "15919",
+    "name": "Gonçalo Paciência",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "1994-08-01",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "118015",
+    "name": "Vinícius",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "1999-05-07",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "129463",
+    "name": "Welinton",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "1999-06-30",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "178811",
+    "name": "Jader",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2003-07-24",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "181456",
+    "name": "Brenner",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-01-02",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "193668",
+    "name": "Vitinho",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2003-03-25",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "227024",
+    "name": "Luis Fernando",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2005-04-12",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "261163",
+    "name": "João Costa",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-03-07",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "261166",
+    "name": "Henrique Pereira",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-02-15",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "278610",
+    "name": "Sorriso",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2006-04-15",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "296985",
+    "name": "Afonso Duarte",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-09-05",
+    "teamId": "5530",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37556",
+    "name": "Ivan Zlobin",
+    "position": "Goalkeeper",
+    "nationality": "Russia",
+    "dateOfBirth": "1997-03-07",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "176011",
+    "name": "Lazar Carevic",
+    "position": "Goalkeeper",
+    "nationality": "Montenegro",
+    "dateOfBirth": "1999-03-16",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "112965",
+    "name": "Leonardo Realpe",
+    "position": "Defender",
+    "nationality": "Ecuador",
+    "dateOfBirth": "2001-02-26",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "126147",
+    "name": "Rodrigo Pinheiro",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-08-28",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "169260",
+    "name": "Gustavo Garcia",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-01-04",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "186069",
+    "name": "Leny Meyer",
+    "position": "Defender",
+    "nationality": "Switzerland",
+    "dateOfBirth": "2004-07-01",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "212379",
+    "name": "Finn van Breemen",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2003-02-25",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "217397",
+    "name": "Vojin Serafimović",
+    "position": "Defender",
+    "nationality": "Serbia",
+    "dateOfBirth": "2005-10-14",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "281588",
+    "name": "Renan Santana",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2005-03-13",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "7533",
+    "name": "Tommie van de Looi",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1999-07-02",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "154435",
+    "name": "Paulo Moreira",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-02-17",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "176243",
+    "name": "Tamas Szucs",
+    "position": "Midfielder",
+    "nationality": "Hungary",
+    "dateOfBirth": "2005-01-16",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "187280",
+    "name": "Gustavo Sa",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-11-11",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "207131",
+    "name": "Marcos Peña",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2005-01-22",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "215432",
+    "name": "Mathias De Amorin",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2004-12-10",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "286945",
+    "name": "Mathis Jangeal",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2008-06-24",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "1785",
+    "name": "Gil Dias",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "1996-09-28",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "154741",
+    "name": "Óscar Aranda",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2002-04-29",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "169412",
+    "name": "Marcos Vinicios",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-02-23",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "206657",
+    "name": "Romeo Beney",
+    "position": "Forward",
+    "nationality": "Switzerland",
+    "dateOfBirth": "2005-01-19",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "262588",
+    "name": "Pedro Santos",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-02-10",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "280680",
+    "name": "Umar Abubakar",
+    "position": "Forward",
+    "nationality": "Nigeria",
+    "dateOfBirth": "2006-02-15",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "292393",
+    "name": "Rudi Almeida",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-03-19",
+    "teamId": "5531",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "128746",
+    "name": "Lucão",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-02-26",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "9125",
+    "name": "Jonathan Buatu",
+    "position": "Defender",
+    "nationality": "Belgium",
+    "dateOfBirth": "1993-09-27",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37432",
+    "name": "Ghislain Konan",
+    "position": "Defender",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "1995-12-27",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45388",
+    "name": "Ricardo Esgaio",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1993-05-16",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "146361",
+    "name": "Weverson",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2000-07-05",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "160445",
+    "name": "Marvin Elimbi",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2003-02-20",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "211848",
+    "name": "Antonio Espigares",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2004-09-05",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "245428",
+    "name": "Arthur Tchaptchet",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-05-10",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "275631",
+    "name": "José Silva",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-08-20",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "277088",
+    "name": "David Moreira",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-04-18",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "153579",
+    "name": "Facundo Cáseres",
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "dateOfBirth": "2001-05-28",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "153732",
+    "name": "Martín Fernández",
+    "position": "Midfielder",
+    "nationality": "Uruguay",
+    "dateOfBirth": "2003-06-23",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "180125",
+    "name": "Santi García",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-08-29",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "188094",
+    "name": "Zé Carlos",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2001-10-30",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "246194",
+    "name": "Diogo Prioste",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-03-26",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "256251",
+    "name": "Andreas Lausen",
+    "position": "Midfielder",
+    "nationality": "Denmark",
+    "dateOfBirth": "2002-10-15",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "262713",
+    "name": "Gil Martins",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2006-05-12",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "267932",
+    "name": "Mohamed Bamba",
+    "position": "Midfielder",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2004-10-08",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "284048",
+    "name": "Gonçalo Maia",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-11-30",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "32309",
+    "name": "Héctor Hernández",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "1995-09-14",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37160",
+    "name": "Murilo",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "1994-10-31",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "98160",
+    "name": "Sergio Bermejo",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "1997-08-17",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "143820",
+    "name": "Carlos Eduardo",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-08-10",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "144710",
+    "name": "Joelson Fernandes",
+    "position": "Forward",
+    "nationality": "Guinea-Bissau",
+    "dateOfBirth": "2003-02-28",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "177301",
+    "name": "Tidjany Touré",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2002-07-15",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "218939",
+    "name": "Bassco Soyer",
+    "position": "Forward",
+    "nationality": "Peru",
+    "dateOfBirth": "2006-10-17",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "249135",
+    "name": "Walace",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2005-08-24",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "260041",
+    "name": "Agustin Moreira",
+    "position": "Forward",
+    "nationality": "Uruguay",
+    "dateOfBirth": "2001-05-28",
+    "teamId": "5533",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45324",
+    "name": "Charles Silva",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "dateOfBirth": "1994-02-04",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "136711",
+    "name": "Oliwier Zych",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "dateOfBirth": "2004-06-28",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "204127",
+    "name": "Gui",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "2006-05-13",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "246248",
+    "name": "Juan Castillo",
+    "position": "Goalkeeper",
+    "nationality": "Colombia",
+    "dateOfBirth": "2003-01-13",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "28243",
+    "name": "Rodrigo Abascal",
+    "position": "Defender",
+    "nationality": "Uruguay",
+    "dateOfBirth": "1994-01-14",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "28976",
+    "name": "Orest Lebedenko",
+    "position": "Defender",
+    "nationality": "Ukraine",
+    "dateOfBirth": "1998-09-23",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "171351",
+    "name": "Miguel Magalhães",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-11-16",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "177044",
+    "name": "Joao Mendes",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-04-13",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "180163",
+    "name": "Óscar Rivas",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-03-27",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "185139",
+    "name": "Miguel Nóbrega",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-04-17",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "204259",
+    "name": "Anthony Strata",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2004-09-07",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "274548",
+    "name": "Thiago Balieiro",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2003-02-23",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "293863",
+    "name": "Francisco Dias",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-10-23",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45514",
+    "name": "Samu",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1996-04-21",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "176893",
+    "name": "Lohann Doucet",
+    "position": "Midfielder",
+    "nationality": "Burkina Faso",
+    "dateOfBirth": "2002-09-14",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "191013",
+    "name": "Goncalo Nogueira",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-12-28",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "191259",
+    "name": "Beni",
+    "position": "Midfielder",
+    "nationality": "Angola",
+    "dateOfBirth": "2002-05-21",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "243705",
+    "name": "Ricardo Rocha",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-09-07",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "261582",
+    "name": "Marco Cruz",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-02-23",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "280042",
+    "name": "Matija Mitrović",
+    "position": "Midfielder",
+    "nationality": "Serbia",
+    "dateOfBirth": "2004-12-12",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "145346",
+    "name": "Telmo Arcanjo",
+    "position": "Forward",
+    "nationality": "Cape Verde Islands",
+    "dateOfBirth": "2001-06-21",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "149724",
+    "name": "Alioune Ndoye",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "dateOfBirth": "2001-10-05",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "165917",
+    "name": "Vando Félix",
+    "position": "Forward",
+    "nationality": "Guinea",
+    "dateOfBirth": "2002-09-03",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "170076",
+    "name": "Fabio Blanco",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2004-02-18",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "243569",
+    "name": "Gustavo Silva",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "1999-06-01",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "262363",
+    "name": "Miguel Nogueira",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-02-27",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "273367",
+    "name": "Dieu Michel",
+    "position": "Forward",
+    "nationality": "Canada",
+    "dateOfBirth": "2004-02-09",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "280039",
+    "name": "Oumar Camara",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2007-05-11",
+    "teamId": "5543",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "137015",
+    "name": "Alfonso Pastor",
+    "position": "Goalkeeper",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-10-04",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "171318",
+    "name": "Pedro Teixeira",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "2001-11-20",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "225965",
+    "name": "Gonçalo Tabuaço",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "2001-03-11",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "259881",
+    "name": "Kimiss",
+    "position": "Goalkeeper",
+    "nationality": "Mozambique",
+    "dateOfBirth": "2004-05-08",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37698",
+    "name": "Paulo Henrique",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1996-10-23",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "83846",
+    "name": "Igor Julião",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1994-08-23",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "98612",
+    "name": "Rodrigo Borges",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1998-08-05",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "157711",
+    "name": "Nathanael Ogbeta",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "2001-04-18",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "186692",
+    "name": "Rafael Fernandes",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-06-28",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "187537",
+    "name": "Afonso Freitas",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-04-07",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "243644",
+    "name": "Noah Madsen",
+    "position": "Defender",
+    "nationality": "Denmark",
+    "dateOfBirth": "2001-09-17",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "262651",
+    "name": "Romain Correia",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1999-09-06",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "263721",
+    "name": "Tyler Keating",
+    "position": "Defender",
+    "nationality": "Japan",
+    "dateOfBirth": "2005-04-29",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "17713",
+    "name": "Vladan Danilović",
+    "position": "Midfielder",
+    "nationality": "Bosnia-Herzegovina",
+    "dateOfBirth": "1999-07-27",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "32995",
+    "name": "Raphael Guzzo",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1995-01-06",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "33160",
+    "name": "Maxime Dominguez",
+    "position": "Midfielder",
+    "nationality": "Switzerland",
+    "dateOfBirth": "1996-02-01",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "150592",
+    "name": "Carlos Daniel",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1994-07-11",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "171541",
+    "name": "Rodrigo Andrade",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2001-11-24",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "295371",
+    "name": "Nélio Batista",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2009-01-14",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "43705",
+    "name": "Alexandre Guedes",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "1994-02-11",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "123003",
+    "name": "Enrique Peña Zauner",
+    "position": "Forward",
+    "nationality": "Venezuela",
+    "dateOfBirth": "2000-03-04",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "159694",
+    "name": "Adrián Butzke",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "1999-03-30",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "211950",
+    "name": "Maurice Boakye",
+    "position": "Forward",
+    "nationality": "Germany",
+    "dateOfBirth": "2004-09-01",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "214182",
+    "name": "Martin Tejón",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2004-04-12",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "263278",
+    "name": "Simo Bouzaidi",
+    "position": "Forward",
+    "nationality": "Morocco",
+    "dateOfBirth": "1999-11-16",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "263720",
+    "name": "José Melro",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-05-26",
+    "teamId": "5575",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37817",
+    "name": "Tiago Sá",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1995-01-11",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "146753",
+    "name": "Lukáš Horníček",
+    "position": "Goalkeeper",
+    "nationality": "Czech Republic",
+    "dateOfBirth": "2002-07-13",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "182049",
+    "name": "Bernardo Fontes",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-07-23",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "275026",
+    "name": "João Carvalho",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-04-09",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "469",
+    "name": "Sikou Niakaté",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1999-07-10",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "33339",
+    "name": "Paulo Oliveira",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1992-01-08",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "105357",
+    "name": "Bartłomiej Wdowik",
+    "position": "Defender",
+    "nationality": "Poland",
+    "dateOfBirth": "2000-09-25",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "131947",
+    "name": "Victor Perea",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-04-01",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "146987",
+    "name": "Bright Arrey-Mbi",
+    "position": "Defender",
+    "nationality": "Germany",
+    "dateOfBirth": "2003-03-26",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "154344",
+    "name": "Sergio Barcia",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-12-31",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "166538",
+    "name": "Gustaf Lagerbielke",
+    "position": "Defender",
+    "nationality": "Sweden",
+    "dateOfBirth": "2000-04-10",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "177020",
+    "name": "Adrian Leon Barisic",
+    "position": "Defender",
+    "nationality": "Bosnia-Herzegovina",
+    "dateOfBirth": "2001-07-19",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "185146",
+    "name": "Leonardo Lelo",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-03-30",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "220410",
+    "name": "Adrian Bajrami",
+    "position": "Defender",
+    "nationality": "Switzerland",
+    "dateOfBirth": "2002-04-05",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "245259",
+    "name": "Diogo Travassos",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-03-31",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "246741",
+    "name": "Francisco Chissumba",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-05-29",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "265148",
+    "name": "Jonatás Noro",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-07-09",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "3249",
+    "name": "João Moutinho",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1986-09-08",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "13911",
+    "name": "Vitor Carvalho",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "1997-05-27",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "150087",
+    "name": "Denis Huseinbasic",
+    "position": "Midfielder",
+    "nationality": "Bosnia-Herzegovina",
+    "dateOfBirth": "2001-07-03",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "172912",
+    "name": "Demir Tiknaz",
+    "position": "Midfielder",
+    "nationality": "Turkey",
+    "dateOfBirth": "2004-08-17",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "178756",
+    "name": "Jean-Baptiste Gorby",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2002-07-25",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "186516",
+    "name": "Mario Dorgeles",
+    "position": "Midfielder",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2004-08-07",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "205658",
+    "name": "Thiago Helguera",
+    "position": "Midfielder",
+    "nationality": "Uruguay",
+    "dateOfBirth": "2006-03-26",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "273888",
+    "name": "Diego Rodrigues",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-05-24",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "281002",
+    "name": "Yanis Da Rocha",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2004-05-10",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "294552",
+    "name": "Luisinho",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2006-08-16",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "16335",
+    "name": "Jonas Wind",
+    "position": "Forward",
+    "nationality": "Denmark",
+    "dateOfBirth": "1999-02-07",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45401",
+    "name": "Ricardo Horta",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "1994-09-15",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "102579",
+    "name": "Fran Navarro",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "1998-02-03",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "144579",
+    "name": "Pau Victor Delgado",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-11-26",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "161414",
+    "name": "Ismaël Gharbi",
+    "position": "Forward",
+    "nationality": "Tunisia",
+    "dateOfBirth": "2004-04-10",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "168766",
+    "name": "Gabriel Silva",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-03-22",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "180185",
+    "name": "Gabriel Martínez",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-01-22",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "190876",
+    "name": "Joao Marques",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-02-13",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "275538",
+    "name": "Sandro Vidigal",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2007-07-28",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "286765",
+    "name": "João Aragão",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2008-03-24",
+    "teamId": "5613",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "33894",
+    "name": "Patrick Sequeira",
+    "position": "Goalkeeper",
+    "nationality": "Costa Rica",
+    "dateOfBirth": "1999-03-01",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "43642",
+    "name": "Daniel Azevedo",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1998-02-12",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "77869",
+    "name": "Ricardo Batista",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1986-11-19",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "192010",
+    "name": "Andre Gomes",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-10-20",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "246140",
+    "name": "Ivan Mandić",
+    "position": "Goalkeeper",
+    "nationality": "Croatia",
+    "dateOfBirth": "2003-03-10",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "37728",
+    "name": "Abdu Conté",
+    "position": "Defender",
+    "nationality": "Guinea-Bissau",
+    "dateOfBirth": "1998-03-24",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45303",
+    "name": "Geraldes",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "1991-05-02",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "99358",
+    "name": "Kaique Rocha",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-02-28",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "138218",
+    "name": "David Sousa",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-07-04",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "171386",
+    "name": "Joao Goulart",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-01-27",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "263516",
+    "name": "Pedro Rosas",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-11-28",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "274982",
+    "name": "Kaly",
+    "position": "Defender",
+    "nationality": "Angola",
+    "dateOfBirth": "2003-11-27",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "11702",
+    "name": "Sebastián Pérez",
+    "position": "Midfielder",
+    "nationality": "Colombia",
+    "dateOfBirth": "1993-03-29",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "39959",
+    "name": "Lawrence Ofori",
+    "position": "Midfielder",
+    "nationality": "Ghana",
+    "dateOfBirth": "1998-06-28",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "150945",
+    "name": "Raúl Blanco",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-07-31",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "171553",
+    "name": "Iyad Mohamed",
+    "position": "Midfielder",
+    "nationality": "Comoros",
+    "dateOfBirth": "2001-10-29",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "263588",
+    "name": "Gabi Pereira",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-04-18",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "270882",
+    "name": "Kevin Prieto",
+    "position": "Midfielder",
+    "nationality": "Uruguay",
+    "dateOfBirth": "2003-06-27",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "14003",
+    "name": "Cassiano",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "1989-06-16",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45116",
+    "name": "Jérémy Livolant",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1998-01-09",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45511",
+    "name": "Rochinha",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "1995-05-03",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "136091",
+    "name": "Kelian Nsona Wa Saka",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2002-05-11",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "144580",
+    "name": "Claudio Mendes",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-12-08",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "154532",
+    "name": "Max Svensson",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-11-08",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "218361",
+    "name": "Korede Osundina",
+    "position": "Forward",
+    "nationality": "USA",
+    "dateOfBirth": "2004-02-13",
+    "teamId": "6618",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "146351",
+    "name": "Matheus Mendes",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "dateOfBirth": "1999-03-10",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "151205",
+    "name": "André Paulo",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1996-12-18",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "154616",
+    "name": "Mateus Oliveira",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-05-02",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "185551",
+    "name": "Noah Raveyre",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2005-06-22",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "33620",
+    "name": "Sergi Gómez",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "1992-03-28",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "212863",
+    "name": "Steven Baseya",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2005-01-14",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "214507",
+    "name": "Bastien Meupiyou Menadjou",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-03-19",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "218729",
+    "name": "Yaya Bojang",
+    "position": "Defender",
+    "nationality": "Gambia",
+    "dateOfBirth": "2004-09-10",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "249393",
+    "name": "Diogo Spencer",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-04-17",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "253528",
+    "name": "Julian Martinez",
+    "position": "Defender",
+    "nationality": "Honduras",
+    "dateOfBirth": "2003-12-01",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "264461",
+    "name": "Isaac James",
+    "position": "Defender",
+    "nationality": "Nigeria",
+    "dateOfBirth": "2004-08-28",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "283339",
+    "name": "Toni Tamarit",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2005-11-22",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "110897",
+    "name": "Sabit Abdulai",
+    "position": "Midfielder",
+    "nationality": "Ghana",
+    "dateOfBirth": "1999-05-11",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "261671",
+    "name": "Nabil Touaizi",
+    "position": "Midfielder",
+    "nationality": "Morocco",
+    "dateOfBirth": "2001-02-01",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "263600",
+    "name": "Vasco Moreira",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2001-05-07",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "280296",
+    "name": "Davy Gui",
+    "position": "Midfielder",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2006-06-15",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "290806",
+    "name": "Zakaria Kassary",
+    "position": "Midfielder",
+    "nationality": "Morocco",
+    "dateOfBirth": "2006-01-25",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "103003",
+    "name": "Stéphane Diarra",
+    "position": "Forward",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "1998-12-09",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "114835",
+    "name": "Junior Mendes",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "dateOfBirth": "2001-11-17",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "133790",
+    "name": "Marco Essimi Ataba",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1999-02-18",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "137985",
+    "name": "Chiquinho",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-02-05",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "169646",
+    "name": "Lucas Figueiredo",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-08-14",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "188002",
+    "name": "Vivaldo",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-01-28",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "247293",
+    "name": "Samy Merheg",
+    "position": "Forward",
+    "nationality": "Colombia",
+    "dateOfBirth": "2006-12-06",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "267815",
+    "name": "Felipe Lima",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2006-04-17",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "280037",
+    "name": "Cédric Nuozzi",
+    "position": "Forward",
+    "nationality": "Belgium",
+    "dateOfBirth": "2006-01-30",
+    "teamId": "7822",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "75277",
+    "name": "Eduardo Dos Santos Haesler",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "dateOfBirth": "1999-02-10",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "90793",
+    "name": "Francisco Meixedo",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "2001-05-19",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "179157",
+    "name": "Leo Linck",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-03-03",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "202181",
+    "name": "Diogo Pinto",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-06-18",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "231213",
+    "name": "David Grilo",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1996-08-13",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "80875",
+    "name": "Jefferson Encada",
+    "position": "Defender",
+    "nationality": "Guinea-Bissau",
+    "dateOfBirth": "1998-04-17",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "136782",
+    "name": "Luan Patrick",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-01-20",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "143609",
+    "name": "Bernardo",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1999-03-22",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "152119",
+    "name": "Issiar Dramé",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1999-02-16",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "188114",
+    "name": "Stefan Lekovic",
+    "position": "Defender",
+    "nationality": "Serbia",
+    "dateOfBirth": "2026-06-30",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "202693",
+    "name": "Max Scholze",
+    "position": "Defender",
+    "nationality": "Germany",
+    "dateOfBirth": "2005-04-30",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "270093",
+    "name": "Atanas Chernev",
+    "position": "Defender",
+    "nationality": "Bulgaria",
+    "dateOfBirth": "2002-03-25",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "277674",
+    "name": "Otávio",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2005-11-25",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "280040",
+    "name": "Gabriel Rodrigues",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-03-01",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "122432",
+    "name": "Kevin Höög-Jansson",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "dateOfBirth": "2000-09-29",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "183635",
+    "name": "Lovro Zvonarek",
+    "position": "Midfielder",
+    "nationality": "Croatia",
+    "dateOfBirth": "2005-05-08",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "209792",
+    "name": "Tom Moustier",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2002-05-02",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "277809",
+    "name": "Robinho",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-08-07",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "291311",
+    "name": "Eddy Doué",
+    "position": "Midfielder",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2005-12-11",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "45350",
+    "name": "Rodrigo Pinho",
+    "position": "Forward",
+    "nationality": "Germany",
+    "dateOfBirth": "1991-05-30",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "80336",
+    "name": "Sydney van Hooijdonk",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2000-02-06",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "81357",
+    "name": "Ianis Stoica",
+    "position": "Forward",
+    "nationality": "Romania",
+    "dateOfBirth": "2002-12-08",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "151113",
+    "name": "Abraham Marcus",
+    "position": "Forward",
+    "nationality": "Nigeria",
+    "dateOfBirth": "2000-01-02",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "182080",
+    "name": "Leandro Antonetti",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-01-13",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "216107",
+    "name": "Mathew Gbomadu",
+    "position": "Forward",
+    "nationality": "Nigeria",
+    "dateOfBirth": "2004-10-16",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "256245",
+    "name": "Alisson Jesus",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2005-04-11",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "261052",
+    "name": "Chilohem Onuoha",
+    "position": "Forward",
+    "nationality": "Germany",
+    "dateOfBirth": "2005-05-07",
+    "teamId": "9136",
+    "competitionId": "PPL"
+  }
+]
