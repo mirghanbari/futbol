@@ -50,13 +50,22 @@ if (typeof window !== "undefined") {
   });
 }
 
-export function isFavorite(teamId: string): boolean {
-  return cache.some((f) => f.teamId === teamId);
+// Scoped by BOTH teamId and competitionId: the same real-world club appears
+// under the same team id in more than one competition's data set (e.g. Real
+// Madrid is "86" in both La Liga and the Champions League), so teamId alone
+// isn't a unique key — starring a team from one competition's page must not
+// affect (or be conflated with) starring it from another's.
+function matches(f: FavoriteTeam, teamId: string, competitionId: string): boolean {
+  return f.teamId === teamId && f.competitionId === competitionId;
+}
+
+export function isFavorite(teamId: string, competitionId: string): boolean {
+  return cache.some((f) => matches(f, teamId, competitionId));
 }
 
 export function toggleFavorite(teamId: string, competitionId: string): void {
-  const next = cache.some((f) => f.teamId === teamId)
-    ? cache.filter((f) => f.teamId !== teamId)
+  const next = cache.some((f) => matches(f, teamId, competitionId))
+    ? cache.filter((f) => !matches(f, teamId, competitionId))
     : [...cache, { teamId, competitionId }];
   localStorage.setItem(KEY, JSON.stringify(next));
   emit();

@@ -1,18 +1,16 @@
 import { useParams } from "react-router-dom";
-import { competitionById } from "../data";
-import { useLeague } from "../data/useLeague";
+import { useCompetitionPage } from "../data/useCompetitionPage";
+import { LeagueStatus } from "../components/LeagueStatus";
 
 export default function Standings() {
   const { competitionId } = useParams();
-  const competition = competitionId ? competitionById(competitionId) : undefined;
-  const { data, error, loading } = useLeague(competitionId);
+  const { competition, data, error, loading } = useCompetitionPage(competitionId);
 
   return (
     <div>
       <h1>{competition?.name ?? competitionId} standings</h1>
 
-      {error && <p>Couldn't load this competition: {error.message}</p>}
-      {loading && !error && <p>Loading…</p>}
+      <LeagueStatus error={error} loading={loading} />
 
       {data && (
         <table>

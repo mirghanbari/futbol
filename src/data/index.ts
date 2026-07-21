@@ -109,11 +109,20 @@ export function loadLeague(competitionId: string): Promise<LeagueData> {
   const inFlight = leagueLoading.get(competitionId);
   if (inFlight) return inFlight;
 
-  const promise = loadLeagueData(competitionId).then((data) => {
-    leagueCache.set(competitionId, data);
-    leagueLoading.delete(competitionId);
-    return data;
-  });
+  const promise = loadLeagueData(competitionId).then(
+    (data) => {
+      leagueCache.set(competitionId, data);
+      leagueLoading.delete(competitionId);
+      return data;
+    },
+    (err) => {
+      // Clear the in-flight entry on failure too, so a transient error
+      // (network blip, a flaky dynamic import) doesn't permanently block
+      // retrying this competition for the rest of the session.
+      leagueLoading.delete(competitionId);
+      throw err;
+    },
+  );
   leagueLoading.set(competitionId, promise);
   return promise;
 }

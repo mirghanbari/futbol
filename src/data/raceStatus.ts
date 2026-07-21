@@ -74,10 +74,9 @@ export function raceStatus(competitionId: string, standings: Standing[], matches
   const zones = zonesFor(competitionId);
   const n = standings.length;
 
+  const gamesLeft = new Map(standings.map((s) => [s.id, gamesLeftFor(s.id, matches)]));
   const minPts = new Map(standings.map((s) => [s.id, s.points]));
-  const maxPts = new Map(
-    standings.map((s) => [s.id, s.points + 3 * gamesLeftFor(s.id, matches)]),
-  );
+  const maxPts = new Map(standings.map((s) => [s.id, s.points + 3 * gamesLeft.get(s.id)!]));
 
   return standings.map((s): TeamRaceRow => {
     const statuses: Record<string, ZoneStatus> = {};
@@ -88,14 +87,13 @@ export function raceStatus(competitionId: string, standings: Standing[], matches
         clinchedTopK(s.id, zone.from - 1, n, minPts, maxPts) || eliminatedFromTopK(s.id, zone.to, n, minPts, maxPts);
       statuses[zone.id] = inBand ? "clinched" : outBand ? "eliminated" : "alive";
     }
-    const gamesLeft = gamesLeftFor(s.id, matches);
     return {
       teamId: s.id,
       position: s.position,
       points: s.points,
       played: s.playedGames,
-      gamesLeft,
-      maxPoints: s.points + 3 * gamesLeft,
+      gamesLeft: gamesLeft.get(s.id)!,
+      maxPoints: maxPts.get(s.id)!,
       minPoints: s.points,
       statuses,
     };

@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
-import { competitionById, matchById, teamById } from "../data";
-import { useLeague } from "../data/useLeague";
+import { matchById, teamById } from "../data";
+import { useCompetitionPage } from "../data/useCompetitionPage";
+import { LeagueStatus } from "../components/LeagueStatus";
 import { applyLive, useLiveData } from "../data/live";
 import type { MatchAdvancedStats } from "../data/types";
 
@@ -55,12 +56,10 @@ function StatsTable({ home, away }: { home: MatchAdvancedStats; away: MatchAdvan
 
 export default function MatchDetail() {
   const { competitionId, matchId } = useParams();
-  const competition = competitionId ? competitionById(competitionId) : undefined;
-  const { data, error, loading } = useLeague(competitionId);
+  const { competition, data, error, loading } = useCompetitionPage(competitionId);
   const live = useLiveData();
 
-  if (error) return <p>Couldn't load this competition: {error.message}</p>;
-  if (loading) return <p>Loading…</p>;
+  if (error || loading) return <LeagueStatus error={error} loading={loading} />;
   if (!data) return null;
 
   const rawMatch = matchId ? matchById(data, matchId) : undefined;
@@ -70,7 +69,8 @@ export default function MatchDetail() {
   const home = teamById(data, match.homeTeamId);
   const away = teamById(data, match.awayTeamId);
   const isLive = match.status === "in-play" || match.status === "paused";
-  const clock = match.status === "paused" ? "HT" : match.minute;
+  const isHalfTime = match.status === "paused";
+  const clock = isHalfTime ? "HT" : match.minute;
 
   return (
     <div>
@@ -84,7 +84,7 @@ export default function MatchDetail() {
         {match.matchday !== null && `Matchday ${match.matchday} · `}
         {new Date(match.utcDate).toLocaleString()} ·{" "}
         {isLive && <span className="live-dot" aria-label="Live" />}
-        {isLive && clock ? `${clock}'` : match.status}
+        {isLive && clock ? (isHalfTime ? clock : `${clock}'`) : match.status}
       </p>
       <p style={{ fontSize: "2rem" }}>
         {match.homeTeam.goals} – {match.awayTeam.goals}

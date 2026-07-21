@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
-import { competitionById, teamById } from "../data";
-import { useLeague } from "../data/useLeague";
+import { teamById } from "../data";
+import { useCompetitionPage } from "../data/useCompetitionPage";
+import { LeagueStatus } from "../components/LeagueStatus";
 import { buildTies, KNOCKOUT_STAGES, STAGE_LABELS } from "../data/knockout";
 import type { LeagueData } from "../data";
 import type { Tie } from "../data/knockout";
@@ -26,11 +27,16 @@ function TieCard({ tie, competitionId, data }: { tie: Tie; competitionId: string
           const aIsHome = leg.homeTeamId === tie.teamAId;
           const scoreA = aIsHome ? leg.homeTeam.goals : leg.awayTeam.goals;
           const scoreB = aIsHome ? leg.awayTeam.goals : leg.homeTeam.goals;
+          // Shootout score is stored home/away; reorder to teamA/teamB like
+          // scoreA/scoreB just above, so both numbers on the line agree on
+          // which team is which.
+          const shootoutA = leg.shootout && (aIsHome ? leg.shootout.home : leg.shootout.away);
+          const shootoutB = leg.shootout && (aIsHome ? leg.shootout.away : leg.shootout.home);
           return (
             <div key={leg.id}>
               <Link to={`/matches/${competitionId}/${leg.id}`}>
                 {new Date(leg.utcDate).toLocaleDateString()}: {scoreA}–{scoreB}
-                {leg.shootout ? ` (pens ${leg.shootout.home}-${leg.shootout.away})` : ""}
+                {leg.shootout ? ` (pens ${shootoutA}-${shootoutB})` : ""}
               </Link>
             </div>
           );
@@ -42,8 +48,7 @@ function TieCard({ tie, competitionId, data }: { tie: Tie; competitionId: string
 
 export default function Knockout() {
   const { competitionId } = useParams();
-  const competition = competitionId ? competitionById(competitionId) : undefined;
-  const { data, error, loading } = useLeague(competitionId);
+  const { competition, data, error, loading } = useCompetitionPage(competitionId);
 
   const stagesWithTies = data
     ? KNOCKOUT_STAGES.map((stage) => ({ stage, ties: buildTies(data.matches, stage) })).filter(
@@ -55,8 +60,7 @@ export default function Knockout() {
     <div>
       <h1>{competition?.name ?? competitionId} knockout stage</h1>
 
-      {error && <p>Couldn't load this competition: {error.message}</p>}
-      {loading && !error && <p>Loading…</p>}
+      <LeagueStatus error={error} loading={loading} />
 
       {data && stagesWithTies.length === 0 && (
         <p>{competition?.name ?? "This competition"} doesn't have a knockout stage.</p>

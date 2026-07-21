@@ -13,7 +13,7 @@ function FavoriteCard({ fav }: { fav: FavoriteTeam }) {
       <div className="team-card">
         <strong>{competition?.name ?? fav.competitionId}</strong>
         <p style={{ opacity: 0.6, fontSize: "0.85rem", margin: "0.4rem 0 0" }}>
-          {error ? `Couldn't load: ${error.message}` : "Loading…"}
+          {error ? `Couldn't load this competition: ${error.message}` : "Loading…"}
         </p>
       </div>
     );
@@ -62,7 +62,7 @@ export default function Favorites() {
       {favs.length > 0 && (
         <div className="team-grid">
           {favs.map((f) => (
-            <FavoriteCard key={f.teamId} fav={f} />
+            <FavoriteCard key={`${f.competitionId}-${f.teamId}`} fav={f} />
           ))}
         </div>
       )}

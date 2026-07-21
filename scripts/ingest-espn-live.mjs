@@ -236,10 +236,14 @@ async function checkAliases() {
 async function main() {
   if (process.argv.includes("--check")) return checkAliases();
 
-  const live = {};
-  for (const { code } of COMPETITIONS) {
-    live[code] = await ingestLiveForCompetition(code);
-  }
+  // ESPN's API is keyless with no rate limit to respect (unlike the
+  // football-data.org ingest), and each competition's fetch is independent —
+  // so run all 9 concurrently rather than serially. This is the layer that
+  // exists specifically to be fast on update-live.yml's 10-minute cron.
+  const results = await Promise.all(
+    COMPETITIONS.map(async ({ code }) => [code, await ingestLiveForCompetition(code)]),
+  );
+  const live = Object.fromEntries(results);
   await writeFile(`${PUBLIC_DIR}live.json`, JSON.stringify(live));
   const total = Object.values(live).reduce((sum, m) => sum + Object.keys(m).length, 0);
   console.log(`Wrote public/live.json (${total} live-tracked matches today).`);

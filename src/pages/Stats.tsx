@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
-import { competitionById, playerById, teamById } from "../data";
-import { useLeague } from "../data/useLeague";
+import { playerById, teamById } from "../data";
+import { useCompetitionPage } from "../data/useCompetitionPage";
+import { LeagueStatus } from "../components/LeagueStatus";
 import type { PlayerSeasonStats } from "../data/types";
 import type { LeagueData } from "../data";
 
@@ -51,16 +52,14 @@ function Leaderboard({
 
 export default function Stats() {
   const { competitionId } = useParams();
-  const competition = competitionId ? competitionById(competitionId) : undefined;
-  const { data, error, loading } = useLeague(competitionId);
+  const { competition, data, error, loading } = useCompetitionPage(competitionId);
 
   return (
     <div>
       <h1>{competition?.name ?? competitionId} stats</h1>
       <p style={{ opacity: 0.7, fontSize: "0.85rem" }}>Source: FotMob</p>
 
-      {error && <p>Couldn't load this competition: {error.message}</p>}
-      {loading && !error && <p>Loading…</p>}
+      <LeagueStatus error={error} loading={loading} />
 
       {data?.isFallbackStats && (
         <p className="season-banner">

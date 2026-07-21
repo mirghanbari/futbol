@@ -120,20 +120,31 @@ async function ingestCompetition(meta) {
 }
 
 async function main() {
+  // On a per-competition failure, reuse its PRIOR manifest entry (season,
+  // matchday, hasFinishedMatches) rather than writing a degraded stub — the
+  // per-competition JSON on disk is untouched by the failure, so competitions.json
+  // shouldn't regress to say otherwise (that was flipping hasFinishedMatches to
+  // false and spuriously switching Players/Stats to fallback data on a transient
+  // API error). Only a competition with no prior entry (first-ever run) falls
+  // back to the degraded stub, since there's nothing better to report.
+  const priorManifest = await readJson(`${DATA_DIR}competitions.json`);
+  const priorByCode = new Map(priorManifest.map((c) => [c.id, c]));
+
   const manifest = [];
   for (const meta of COMPETITIONS) {
     try {
       manifest.push(await ingestCompetition(meta));
     } catch (err) {
       console.error(`[${meta.code}] ingest failed (non-fatal, leaving prior data in place):`, err.message);
+      const prior = priorByCode.get(meta.code);
       manifest.push({
         id: meta.code,
         name: meta.name,
         country: meta.country,
         tier: meta.tier,
-        season: null,
-        currentMatchday: null,
-        hasFinishedMatches: false,
+        season: prior?.season ?? null,
+        currentMatchday: prior?.currentMatchday ?? null,
+        hasFinishedMatches: prior?.hasFinishedMatches ?? false,
       });
     }
   }

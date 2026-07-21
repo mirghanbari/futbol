@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
-import { competitionById, matchesByTeam, playersByTeam, teamById } from "../data";
-import { useLeague } from "../data/useLeague";
+import { matchesByTeam, playersByTeam, teamById } from "../data";
+import { useCompetitionPage } from "../data/useCompetitionPage";
+import { LeagueStatus } from "../components/LeagueStatus";
 import type { Player, Position } from "../data/types";
 import { FavoriteStar } from "../components/FavoriteStar";
 
@@ -24,11 +25,9 @@ function groupByPosition(players: Player[]): [string, Player[]][] {
 
 export default function TeamDetail() {
   const { competitionId, teamId } = useParams();
-  const competition = competitionId ? competitionById(competitionId) : undefined;
-  const { data, error, loading } = useLeague(competitionId);
+  const { competition, data, error, loading } = useCompetitionPage(competitionId);
 
-  if (error) return <p>Couldn't load this competition: {error.message}</p>;
-  if (loading) return <p>Loading…</p>;
+  if (error || loading) return <LeagueStatus error={error} loading={loading} />;
   if (!data) return null;
 
   const team = teamId ? teamById(data, teamId) : undefined;

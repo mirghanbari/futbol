@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
-import { competitionById, teamById } from "../data";
-import { useLeague } from "../data/useLeague";
+import { teamById } from "../data";
+import { useCompetitionPage } from "../data/useCompetitionPage";
+import { LeagueStatus } from "../components/LeagueStatus";
 import { raceStatus, type TeamRaceRow, type ZoneStatus } from "../data/raceStatus";
 import { zonesFor, type Zone } from "../data/zones";
 import type { LeagueData } from "../data";
@@ -65,8 +66,7 @@ function ZoneCard({
 
 export default function TableRaces() {
   const { competitionId } = useParams();
-  const competition = competitionId ? competitionById(competitionId) : undefined;
-  const { data, error, loading } = useLeague(competitionId);
+  const { competition, data, error, loading } = useCompetitionPage(competitionId);
   const zones = competitionId ? zonesFor(competitionId) : [];
 
   const rows = data && competitionId ? raceStatus(competitionId, data.standings, data.matches) : [];
@@ -75,8 +75,7 @@ export default function TableRaces() {
     <div>
       <h1>{competition?.name ?? competitionId} table races</h1>
 
-      {error && <p>Couldn't load this competition: {error.message}</p>}
-      {loading && !error && <p>Loading…</p>}
+      <LeagueStatus error={error} loading={loading} />
 
       {data && zones.length === 0 && (
         <p>{competition?.name ?? "This competition"} doesn't have table-race zones tracked.</p>

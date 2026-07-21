@@ -11,7 +11,7 @@ export function FavoriteStar({
   competitionId: string;
   className?: string;
 }) {
-  const on = useFavorites().some((f) => f.teamId === teamId);
+  const on = useFavorites().some((f) => f.teamId === teamId && f.competitionId === competitionId);
   return (
     <button
       type="button"

@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
-import { competitionById, playerById, statsForPlayer, teamById } from "../data";
-import { useLeague } from "../data/useLeague";
+import { playerById, statsForPlayer, teamById } from "../data";
+import { useCompetitionPage } from "../data/useCompetitionPage";
+import { LeagueStatus } from "../components/LeagueStatus";
 import type { PlayerSeasonStats } from "../data/types";
 
 type StatKey = Exclude<keyof PlayerSeasonStats, "playerId" | "season">;
@@ -36,11 +37,9 @@ const STAT_LABELS: { key: StatKey; label: string }[] = [
 
 export default function PlayerDetail() {
   const { competitionId, playerId } = useParams();
-  const competition = competitionId ? competitionById(competitionId) : undefined;
-  const { data, error, loading } = useLeague(competitionId);
+  const { competition, data, error, loading } = useCompetitionPage(competitionId);
 
-  if (error) return <p>Couldn't load this competition: {error.message}</p>;
-  if (loading) return <p>Loading…</p>;
+  if (error || loading) return <LeagueStatus error={error} loading={loading} />;
   if (!data) return null;
 
   const player = playerId ? playerById(data, playerId) : undefined;

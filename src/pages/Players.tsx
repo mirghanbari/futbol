@@ -1,16 +1,24 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { competitionById, statsForPlayer, teamById } from "../data";
-import { useLeague } from "../data/useLeague";
+import { statsForPlayer, teamById } from "../data";
+import { useCompetitionPage } from "../data/useCompetitionPage";
+import { LeagueStatus } from "../components/LeagueStatus";
 
 type SortKey = "name" | "goals" | "assists" | "minutes";
 
 export default function Players() {
   const { competitionId } = useParams();
-  const competition = competitionId ? competitionById(competitionId) : undefined;
-  const { data, error, loading } = useLeague(competitionId);
+  const { competition, data, error, loading } = useCompetitionPage(competitionId);
   const [query, setQuery] = useState("");
   const [sort, setSort] = useState<SortKey>("name");
+
+  // Reset any search/sort left over from a previously-viewed competition —
+  // otherwise switching leagues via the Nav dropdown keeps the old query
+  // and can misreport a perfectly good new competition as "no players match".
+  useEffect(() => {
+    setQuery("");
+    setSort("name");
+  }, [competitionId]);
 
   const q = query.trim().toLowerCase();
   const players = data
@@ -28,8 +36,7 @@ export default function Players() {
     <div>
       <h1>{competition?.name ?? competitionId} players</h1>
 
-      {error && <p>Couldn't load this competition: {error.message}</p>}
-      {loading && !error && <p>Loading…</p>}
+      <LeagueStatus error={error} loading={loading} />
 
       {data?.isFallbackStats && (
         <p className="season-banner">

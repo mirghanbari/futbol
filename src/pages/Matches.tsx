@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
-import { competitionById, teamById } from "../data";
-import { useLeague } from "../data/useLeague";
+import { teamById } from "../data";
+import { useCompetitionPage } from "../data/useCompetitionPage";
+import { LeagueStatus } from "../components/LeagueStatus";
 import { applyLive, useLiveData } from "../data/live";
 import type { Match } from "../data/types";
 
@@ -16,7 +17,8 @@ function groupByDay(list: Match[]): [string, Match[]][] {
 
 function scoreLabel(match: Match): string {
   if (match.status === "in-play" || match.status === "paused") {
-    const clock = match.status === "paused" ? "HT" : (match.minute ?? "live");
+    if (match.status === "paused") return `${match.homeTeam.goals}–${match.awayTeam.goals} (HT)`;
+    const clock = match.minute ?? "live";
     return `${match.homeTeam.goals}–${match.awayTeam.goals} (${clock}')`;
   }
   if (match.status === "finished") {
@@ -27,8 +29,7 @@ function scoreLabel(match: Match): string {
 
 export default function Matches() {
   const { competitionId } = useParams();
-  const competition = competitionId ? competitionById(competitionId) : undefined;
-  const { data, error, loading } = useLeague(competitionId);
+  const { competition, data, error, loading } = useCompetitionPage(competitionId);
   const live = useLiveData();
 
   const withLive = data ? applyLive(data.matches, live, competitionId) : [];
@@ -39,8 +40,7 @@ export default function Matches() {
     <div>
       <h1>{competition?.name ?? competitionId} matches</h1>
 
-      {error && <p>Couldn't load this competition: {error.message}</p>}
-      {loading && !error && <p>Loading…</p>}
+      <LeagueStatus error={error} loading={loading} />
 
       {data && groups.length === 0 && <p>No match data yet — run `npm run ingest`.</p>}
       {groups.map(([day, dayMatches]) => (
