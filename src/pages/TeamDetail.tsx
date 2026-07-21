@@ -57,7 +57,8 @@ export default function TeamDetail() {
       <p>
         <Link to={`/teams/${competitionId}`}>← Back to {competition?.name ?? "teams"}</Link>
       </p>
-      <h1>
+      <h1 style={{ display: "flex", alignItems: "center", gap: "0.7rem" }}>
+        {team.crest && <img className="crest" src={team.crest} alt="" style={{ width: 32, height: 32 }} />}
         {team.name}
         {competitionId && <FavoriteStar teamId={team.id} competitionId={competitionId} className="fav-star-lg" />}
       </h1>
@@ -66,14 +67,17 @@ export default function TeamDetail() {
         <>
           <h2>Squad</h2>
           {squadByPosition.map(([position, players]) => (
-            <div key={position} style={{ marginBottom: "1rem" }}>
-              <h3>{position}</h3>
-              <ul>
+            <div key={position} style={{ marginBottom: "1.25rem" }}>
+              <h3 style={{ fontSize: "0.72rem", textTransform: "uppercase", letterSpacing: "0.08em", color: "var(--muted)", marginBottom: "0.5rem" }}>
+                {position}
+              </h3>
+              <ul style={{ listStyle: "none", margin: 0, padding: 0, display: "grid", gap: "0.4rem" }}>
                 {players.map((p) => (
                   <li key={p.id}>
-                    <Link to={`/players/${competitionId}/${p.id}`}>{p.name}</Link>
-                    {" · "}
-                    {p.nationality}
+                    <Link to={`/players/${competitionId}/${p.id}`} style={{ fontWeight: 700, textDecoration: "none" }}>
+                      {p.name}
+                    </Link>
+                    <span style={{ color: "var(--muted)" }}> · {p.nationality}</span>
                   </li>
                 ))}
               </ul>
@@ -83,16 +87,26 @@ export default function TeamDetail() {
       )}
 
       <h2>Fixtures</h2>
-      <ul>
-        {fixtures.map((match) => (
-          <li key={match.id}>
-            <Link to={`/matches/${competitionId}/${match.id}`}>
-              {new Date(match.utcDate).toLocaleDateString()}
-              {match.matchday !== null && ` — matchday ${match.matchday}`}
-            </Link>
-          </li>
-        ))}
-      </ul>
+      {fixtures.map((match) => {
+        const isHome = match.homeTeamId === teamId;
+        const opponentId = isHome ? match.awayTeamId : match.homeTeamId;
+        const opponent = teamById(data, opponentId);
+        const played = match.status === "finished";
+        return (
+          <Link className="match-row" to={`/matches/${competitionId}/${match.id}`} key={match.id}>
+            <div className="match-team-row">
+              <span style={{ color: "var(--muted)", fontWeight: 600 }}>{isHome ? "vs" : "@"}</span>
+              {opponent?.crest && <img className="crest" src={opponent.crest} alt="" />}
+              <span>{opponent?.name ?? opponentId}</span>
+            </div>
+            <span className="match-status">
+              {played
+                ? `${match.homeTeam.goals}–${match.awayTeam.goals}`
+                : new Date(match.utcDate).toLocaleDateString()}
+            </span>
+          </Link>
+        );
+      })}
     </div>
   );
 }

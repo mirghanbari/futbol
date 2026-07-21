@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { useSeo } from "../data/seo";
-import { clZoneAtPosition } from "../data/zones";
+import { clZoneAtPosition, zoneAtPosition } from "../data/zones";
 
 export default function Standings() {
   const { competitionId } = useParams();
@@ -39,37 +39,53 @@ export default function Standings() {
       )}
 
       {data && (
-        <table>
-          <thead>
-            <tr>
-              <th>#</th>
-              <th>Team</th>
-              <th>P</th>
-              <th>W</th>
-              <th>D</th>
-              <th>L</th>
-              <th>GD</th>
-              <th>Pts</th>
-            </tr>
-          </thead>
-          <tbody>
-            {data.standings.map((row) => {
-              const zone = isLeaguePhase ? clZoneAtPosition(row.position) : undefined;
-              return (
-                <tr key={row.id} className={zone?.className}>
-                  <td>{row.position}</td>
-                  <td>{row.name}</td>
-                  <td>{row.playedGames}</td>
-                  <td>{row.won}</td>
-                  <td>{row.draw}</td>
-                  <td>{row.lost}</td>
-                  <td>{row.goalDifference}</td>
-                  <td>{row.points}</td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
+        <div className="card">
+          <table>
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Team</th>
+                <th className="num">P</th>
+                <th className="num">W</th>
+                <th className="num">D</th>
+                <th className="num">L</th>
+                <th className="num">GD</th>
+                <th className="num">Pts</th>
+              </tr>
+            </thead>
+            <tbody>
+              {data.standings.map((row) => {
+                const zone = isLeaguePhase
+                  ? clZoneAtPosition(row.position)
+                  : competitionId
+                    ? zoneAtPosition(competitionId, row.position)
+                    : undefined;
+                return (
+                  <tr key={row.id} className={isLeaguePhase ? zone?.className : undefined}>
+                    <td>{row.position}</td>
+                    <td>
+                      <div style={{ display: "flex", alignItems: "center", gap: "0.55rem" }}>
+                        {row.crest && <img className="crest" src={row.crest} alt="" />}
+                        {row.name}
+                        {!isLeaguePhase && zone && (
+                          <span className={"zone-chip " + zone.className}>{zone.shortLabel}</span>
+                        )}
+                      </div>
+                    </td>
+                    <td className="num">{row.playedGames}</td>
+                    <td className="num">{row.won}</td>
+                    <td className="num">{row.draw}</td>
+                    <td className="num">{row.lost}</td>
+                    <td className="num">{row.goalDifference}</td>
+                    <td className="num">
+                      <strong>{row.points}</strong>
+                    </td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
       )}
       {data && data.standings.length === 0 && (
         <p>No standings data yet for this competition — run `npm run ingest`.</p>

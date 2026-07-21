@@ -26,10 +26,11 @@ export default function Teams() {
         <div className="team-grid">
           {data.teams.map((team) => (
             <Link
-              className="team-card team-card-fav"
+              className="team-card team-card-link team-card-fav"
               to={`/teams/${competitionId}/${team.id}`}
               key={team.id}
             >
+              {team.crest && <img className="crest" src={team.crest} alt="" />}
               {team.name}
               {competitionId && <FavoriteStar teamId={team.id} competitionId={competitionId} />}
             </Link>

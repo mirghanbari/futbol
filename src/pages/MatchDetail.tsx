@@ -42,8 +42,8 @@ function StatsTable({ home, away }: { home: MatchAdvancedStats; away: MatchAdvan
   return (
     <div>
       <h2>Match stats</h2>
-      <p style={{ opacity: 0.7, fontSize: "0.85rem" }}>Source: FotMob</p>
-      <table>
+      <span className="source-badge">FotMob</span>
+      <table style={{ marginTop: "0.75rem" }}>
         <tbody>
           {rows.map((row) => (
             <tr key={row.key}>
@@ -108,20 +108,34 @@ export default function MatchDetail() {
       <p>
         <Link to={`/matches/${competitionId}`}>← Back to {competition?.name ?? "matches"}</Link>
       </p>
-      <h1>
-        {home?.name ?? match.homeTeamId} vs {away?.name ?? match.awayTeamId}
-      </h1>
-      <p>
+
+      <div className="card">
+        <div className="match-head">
+          <div className="match-head-team">
+            {home?.crest && <img className="crest" src={home.crest} alt="" />}
+            {home?.name ?? match.homeTeamId}
+          </div>
+          <div className="score-big">
+            {match.homeTeam.goals} – {match.awayTeam.goals}
+          </div>
+          <div className="match-head-team">
+            {away?.crest && <img className="crest" src={away.crest} alt="" />}
+            {away?.name ?? match.awayTeamId}
+          </div>
+        </div>
+      </div>
+      <p className="match-meta">
         {match.matchday !== null && `Matchday ${match.matchday} · `}
         {new Date(match.utcDate).toLocaleString()} ·{" "}
         {isLive && <span className="live-dot" aria-label="Live" />}
         {isLive && clock ? (isHalfTime ? clock : `${clock}'`) : match.status}
       </p>
-      <p style={{ fontSize: "2rem" }}>
-        {match.homeTeam.goals} – {match.awayTeam.goals}
-      </p>
 
-      {match.stats && <StatsTable home={match.stats.home} away={match.stats.away} />}
+      {match.stats && (
+        <div className="card">
+          <StatsTable home={match.stats.home} away={match.stats.away} />
+        </div>
+      )}
     </div>
   );
 }

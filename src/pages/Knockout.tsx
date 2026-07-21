@@ -14,16 +14,30 @@ function TieCard({ tie, competitionId, data }: { tie: Tie; competitionId: string
   const bWon = tie.winnerId === tie.teamBId;
 
   return (
-    <div className="team-card" style={{ marginBottom: "0.75rem" }}>
-      <div style={{ display: "flex", justifyContent: "space-between", fontWeight: aWon ? 700 : 400 }}>
-        <span>{teamA?.name ?? tie.teamAId}</span>
-        <span>{tie.aggregateA}</span>
+    <div className="team-card">
+      <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", fontWeight: aWon ? 800 : 500 }}>
+        <span style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
+          {teamA?.crest && <img className="crest" src={teamA.crest} alt="" />}
+          {teamA?.name ?? tie.teamAId}
+        </span>
+        <span className="num">{tie.aggregateA}</span>
       </div>
-      <div style={{ display: "flex", justifyContent: "space-between", fontWeight: bWon ? 700 : 400 }}>
-        <span>{teamB?.name ?? tie.teamBId}</span>
-        <span>{tie.aggregateB}</span>
+      <div
+        style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "space-between",
+          fontWeight: bWon ? 800 : 500,
+          marginTop: "0.4rem",
+        }}
+      >
+        <span style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
+          {teamB?.crest && <img className="crest" src={teamB.crest} alt="" />}
+          {teamB?.name ?? tie.teamBId}
+        </span>
+        <span className="num">{tie.aggregateB}</span>
       </div>
-      <div style={{ opacity: 0.65, fontSize: "0.8rem", marginTop: "0.4rem" }}>
+      <div style={{ color: "var(--muted)", fontSize: "0.8rem", marginTop: "0.6rem" }}>
         {tie.legs.map((leg) => {
           const aIsHome = leg.homeTeamId === tie.teamAId;
           const scoreA = aIsHome ? leg.homeTeam.goals : leg.awayTeam.goals;

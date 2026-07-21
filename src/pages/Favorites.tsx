@@ -29,20 +29,28 @@ function FavoriteCard({ fav }: { fav: FavoriteTeam }) {
   return (
     <div className="team-card">
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
-        <Link to={`/teams/${fav.competitionId}/${fav.teamId}`} style={{ color: "inherit", textDecoration: "none" }}>
-          <strong>{team?.name ?? fav.teamId}</strong>
-          <div style={{ opacity: 0.6, fontSize: "0.8rem" }}>{competition?.name ?? fav.competitionId}</div>
+        <Link
+          to={`/teams/${fav.competitionId}/${fav.teamId}`}
+          style={{ color: "inherit", textDecoration: "none", display: "flex", alignItems: "center", gap: "0.5rem" }}
+        >
+          {team?.crest && <img className="crest" src={team.crest} alt="" />}
+          <span>
+            <strong>{team?.name ?? fav.teamId}</strong>
+            <div style={{ color: "var(--muted)", fontSize: "0.8rem", fontWeight: 500 }}>
+              {competition?.name ?? fav.competitionId}
+            </div>
+          </span>
         </Link>
         <FavoriteStar teamId={fav.teamId} competitionId={fav.competitionId} />
       </div>
       {standing && (
-        <p style={{ margin: "0.5rem 0 0", fontSize: "0.85rem" }}>
+        <p style={{ margin: "0.6rem 0 0", fontSize: "0.85rem", fontWeight: 700 }}>
           #{standing.position} · {standing.points} pts · {standing.playedGames} GP
         </p>
       )}
       {nextMatch && (
-        <p style={{ margin: "0.25rem 0 0", fontSize: "0.85rem", opacity: 0.75 }}>
-          <Link to={`/matches/${fav.competitionId}/${nextMatch.id}`}>
+        <p style={{ margin: "0.3rem 0 0", fontSize: "0.85rem" }}>
+          <Link to={`/matches/${fav.competitionId}/${nextMatch.id}`} style={{ color: "var(--muted)" }}>
             Next: {new Date(nextMatch.utcDate).toLocaleDateString()}
           </Link>
         </p>

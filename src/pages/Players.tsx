@@ -52,16 +52,16 @@ export default function Players() {
       )}
 
       {data && (
-        <div style={{ display: "flex", gap: "0.75rem", flexWrap: "wrap", margin: "0.5rem 0 1rem" }}>
+        <div className="search-bar">
           <input
+            className="search-input"
             type="search"
             placeholder="Search players…"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             aria-label="Search players"
-            style={{ padding: "0.4rem 0.6rem", width: "100%", maxWidth: 320 }}
           />
-          <select value={sort} onChange={(e) => setSort(e.target.value as SortKey)} aria-label="Sort by">
+          <select className="sort-select" value={sort} onChange={(e) => setSort(e.target.value as SortKey)} aria-label="Sort by">
             <option value="name">Sort: Name</option>
             <option value="goals">Sort: Goals</option>
             <option value="assists">Sort: Assists</option>
@@ -75,38 +75,47 @@ export default function Players() {
       )}
 
       {players.length > 0 && (
-        <table>
-          <thead>
-            <tr>
-              <th>Name</th>
-              <th>Team</th>
-              <th>Position</th>
-              <th>Nationality</th>
-              <th>Apps</th>
-              <th>Goals</th>
-              <th>Assists</th>
-            </tr>
-          </thead>
-          <tbody>
-            {players.map((p) => {
-              const team = teamById(data!, p.teamId);
-              const stats = statsForPlayer(data!, p.id);
-              return (
-                <tr key={p.id}>
-                  <td>
-                    <Link to={`/players/${competitionId}/${p.id}`}>{p.name}</Link>
-                  </td>
-                  <td>{team?.shortName ?? p.teamId}</td>
-                  <td>{p.position ?? "—"}</td>
-                  <td>{p.nationality}</td>
-                  <td>{stats?.matchesPlayed ?? "—"}</td>
-                  <td>{stats?.goals ?? "—"}</td>
-                  <td>{stats?.assists ?? "—"}</td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
+        <div className="card">
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Team</th>
+                <th>Position</th>
+                <th>Nationality</th>
+                <th className="num">Apps</th>
+                <th className="num">Goals</th>
+                <th className="num">Assists</th>
+              </tr>
+            </thead>
+            <tbody>
+              {players.map((p) => {
+                const team = teamById(data!, p.teamId);
+                const stats = statsForPlayer(data!, p.id);
+                return (
+                  <tr key={p.id}>
+                    <td>
+                      <Link to={`/players/${competitionId}/${p.id}`} style={{ fontWeight: 700, textDecoration: "none" }}>
+                        {p.name}
+                      </Link>
+                    </td>
+                    <td>
+                      <span style={{ display: "inline-flex", alignItems: "center", gap: "0.4rem" }}>
+                        {team?.crest && <img className="crest" src={team.crest} alt="" style={{ width: 18, height: 18 }} />}
+                        {team?.shortName ?? p.teamId}
+                      </span>
+                    </td>
+                    <td>{p.position ?? "—"}</td>
+                    <td>{p.nationality}</td>
+                    <td className="num">{stats?.matchesPlayed ?? "—"}</td>
+                    <td className="num">{stats?.goals ?? "—"}</td>
+                    <td className="num">{stats?.assists ?? "—"}</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
       )}
     </div>
   );

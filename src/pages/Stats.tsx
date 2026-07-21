@@ -32,17 +32,25 @@ function Leaderboard({
   if (top.length === 0) return null;
 
   return (
-    <div style={{ marginBottom: "1.5rem" }}>
-      <h3>{category.label}</h3>
-      <ol>
-        {top.map((s) => {
+    <div className="card" style={{ padding: "1.1rem 1.1rem 0.6rem" }}>
+      <h3 style={{ margin: "0 0 0.75rem", fontSize: "1rem" }}>{category.label}</h3>
+      <ol style={{ listStyle: "none", margin: 0, padding: 0, display: "grid", gap: "0.55rem 0" }}>
+        {top.map((s, i) => {
           const player = playerById(data, s.playerId);
           const team = player ? teamById(data, player.teamId) : undefined;
           return (
-            <li key={s.playerId}>
-              <Link to={`/players/${competitionId}/${s.playerId}`}>{player?.name ?? s.playerId}</Link>
-              {team && <span style={{ opacity: 0.7 }}> ({team.shortName})</span>} —{" "}
-              {String(s[category.key])}
+            <li key={s.playerId} style={{ display: "flex", alignItems: "center", gap: "0.6rem" }}>
+              <span style={{ width: "1.1rem", color: "var(--muted)", fontWeight: 700, fontSize: "0.85rem" }}>
+                {i + 1}
+              </span>
+              {team?.crest && <img className="crest" src={team.crest} alt="" style={{ width: 18, height: 18 }} />}
+              <Link
+                to={`/players/${competitionId}/${s.playerId}`}
+                style={{ fontWeight: 700, textDecoration: "none", flex: 1 }}
+              >
+                {player?.name ?? s.playerId}
+              </Link>
+              <strong className="num">{String(s[category.key])}</strong>
             </li>
           );
         })}
@@ -63,7 +71,7 @@ export default function Stats() {
   return (
     <div>
       <h1>{competition?.name ?? competitionId} stats</h1>
-      <p style={{ opacity: 0.7, fontSize: "0.85rem" }}>Source: FotMob</p>
+      <span className="source-badge">FotMob</span>
 
       <LeagueStatus error={error} loading={loading} />
 

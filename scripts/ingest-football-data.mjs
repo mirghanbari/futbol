@@ -116,6 +116,14 @@ async function ingestCompetition(meta) {
     season,
     currentMatchday: standingsRes.season.currentMatchday ?? null,
     hasFinishedMatches: matches.some((m) => m.status === "finished"),
+    // Same public crest CDN already used for team crests (toTeam() in
+    // football-data-shared.mjs) — competition emblems live at this exact
+    // URL pattern for 8 of the 9 tracked competitions (confirmed via direct
+    // HEAD checks; Eredivisie/DED 404s, no emblem hosted there). Not
+    // special-cased here: the UI falls back to a monogram badge on a 404
+    // rather than this script hardcoding which competitions have one, so it
+    // self-heals if football-data.org ever adds DED's crest.
+    logo: `https://crests.football-data.org/${code}.png`,
   };
 }
 
@@ -145,6 +153,7 @@ async function main() {
         season: prior?.season ?? null,
         currentMatchday: prior?.currentMatchday ?? null,
         hasFinishedMatches: prior?.hasFinishedMatches ?? false,
+        logo: prior?.logo ?? `https://crests.football-data.org/${meta.code}.png`,
       });
     }
   }

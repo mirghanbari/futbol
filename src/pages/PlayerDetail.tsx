@@ -69,12 +69,15 @@ export default function PlayerDetail() {
       <p>
         <Link to={`/players/${competitionId}`}>← Back to {competition?.name ?? "players"}</Link>
       </p>
-      <h1>{player.name}</h1>
+      <h1 style={{ display: "flex", alignItems: "center", gap: "0.7rem" }}>
+        {team?.crest && <img className="crest" src={team.crest} alt="" style={{ width: 32, height: 32 }} />}
+        {player.name}
+      </h1>
       <p>
         {player.position ?? "Position unknown"} ·{" "}
         {team ? <Link to={`/teams/${competitionId}/${team.id}`}>{team.name}</Link> : player.teamId}
       </p>
-      <p>
+      <p style={{ color: "var(--muted)" }}>
         {player.nationality}
         {age !== null && ` · Age ${age}`}
         {player.dateOfBirth && ` · Born ${new Date(player.dateOfBirth).toLocaleDateString()}`}
@@ -87,17 +90,21 @@ export default function PlayerDetail() {
       {stats ? (
         <>
           <h2>{data.statsSeason ?? "Season"} stats</h2>
-          <p style={{ opacity: 0.7, fontSize: "0.85rem" }}>Source: FotMob</p>
-          <table>
-            <tbody>
-              {STAT_LABELS.map(({ key, label }) => (
-                <tr key={key}>
-                  <td style={{ opacity: 0.7 }}>{label}</td>
-                  <td>{stats[key] ?? "—"}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+          <span className="source-badge">FotMob</span>
+          <div className="card" style={{ marginTop: "0.75rem" }}>
+            <table>
+              <tbody>
+                {STAT_LABELS.map(({ key, label }) => (
+                  <tr key={key}>
+                    <td style={{ color: "var(--muted)" }}>{label}</td>
+                    <td className="num" style={{ textAlign: "right", fontWeight: 700 }}>
+                      {stats[key] ?? "—"}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
         </>
       ) : (
         <p>No stats recorded yet this season.</p>

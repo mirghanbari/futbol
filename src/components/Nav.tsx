@@ -1,5 +1,6 @@
 import { NavLink, useNavigate, useParams } from "react-router-dom";
-import { competitions } from "../data";
+import { competitionById, competitions } from "../data";
+import { CompetitionLogo } from "./CompetitionLogo";
 
 export default function Nav() {
   const { competitionId } = useParams();
@@ -7,11 +8,13 @@ export default function Nav() {
   // Falls back to the first competition in the manifest (currently PL) so the
   // tabs and switcher are always usable, even from the competition-less "/".
   const active = competitionId ?? competitions[0]?.id ?? "PL";
+  const activeCompetition = competitionById(active);
 
   return (
     <nav className="nav">
       <NavLink to="/" end className="brand">
-        ⚽ Futbol
+        {activeCompetition && <CompetitionLogo competition={activeCompetition} />}
+        Futbol
       </NavLink>
 
       {competitions.length > 0 && (

@@ -13,6 +13,7 @@
 export interface Zone {
   id: string;
   label: string;
+  shortLabel: string; // compact form for pill chips on the Standings table
   className: string; // maps to a CSS row-highlight class
   from: number; // inclusive standings position
   to: number; // inclusive standings position
@@ -20,47 +21,131 @@ export interface Zone {
 
 export const ZONES: Record<string, Zone[]> = {
   PL: [
-    { id: "cl", label: "Champions League", className: "zone-cl", from: 1, to: 4 },
-    { id: "europa", label: "Europa / Conference League", className: "zone-europa", from: 5, to: 6 },
-    { id: "relegation", label: "Relegation", className: "zone-releg", from: 18, to: 20 },
+    { id: "cl", label: "Champions League", shortLabel: "UCL", className: "zone-cl", from: 1, to: 4 },
+    {
+      id: "europa",
+      label: "Europa / Conference League",
+      shortLabel: "UEL",
+      className: "zone-europa",
+      from: 5,
+      to: 6,
+    },
+    { id: "relegation", label: "Relegation", shortLabel: "RELEG", className: "zone-releg", from: 18, to: 20 },
   ],
   ELC: [
-    { id: "promotion", label: "Automatic promotion", className: "zone-cl", from: 1, to: 2 },
-    { id: "playoff", label: "Promotion playoff", className: "zone-europa", from: 3, to: 6 },
-    { id: "relegation", label: "Relegation", className: "zone-releg", from: 22, to: 24 },
+    {
+      id: "promotion",
+      label: "Automatic promotion",
+      shortLabel: "PROMO",
+      className: "zone-cl",
+      from: 1,
+      to: 2,
+    },
+    {
+      id: "playoff",
+      label: "Promotion playoff",
+      shortLabel: "PLAYOFF",
+      className: "zone-europa",
+      from: 3,
+      to: 6,
+    },
+    { id: "relegation", label: "Relegation", shortLabel: "RELEG", className: "zone-releg", from: 22, to: 24 },
   ],
   PD: [
-    { id: "cl", label: "Champions League", className: "zone-cl", from: 1, to: 4 },
-    { id: "europa", label: "Europa / Conference League", className: "zone-europa", from: 5, to: 6 },
-    { id: "relegation", label: "Relegation", className: "zone-releg", from: 18, to: 20 },
+    { id: "cl", label: "Champions League", shortLabel: "UCL", className: "zone-cl", from: 1, to: 4 },
+    {
+      id: "europa",
+      label: "Europa / Conference League",
+      shortLabel: "UEL",
+      className: "zone-europa",
+      from: 5,
+      to: 6,
+    },
+    { id: "relegation", label: "Relegation", shortLabel: "RELEG", className: "zone-releg", from: 18, to: 20 },
   ],
   BL1: [
-    { id: "cl", label: "Champions League", className: "zone-cl", from: 1, to: 4 },
-    { id: "europa", label: "Europa / Conference League", className: "zone-europa", from: 5, to: 6 },
-    { id: "relegation-playoff", label: "Relegation playoff", className: "zone-releg-playoff", from: 16, to: 16 },
-    { id: "relegation", label: "Relegation", className: "zone-releg", from: 17, to: 18 },
+    { id: "cl", label: "Champions League", shortLabel: "UCL", className: "zone-cl", from: 1, to: 4 },
+    {
+      id: "europa",
+      label: "Europa / Conference League",
+      shortLabel: "UEL",
+      className: "zone-europa",
+      from: 5,
+      to: 6,
+    },
+    {
+      id: "relegation-playoff",
+      label: "Relegation playoff",
+      shortLabel: "REL PO",
+      className: "zone-releg-playoff",
+      from: 16,
+      to: 16,
+    },
+    { id: "relegation", label: "Relegation", shortLabel: "RELEG", className: "zone-releg", from: 17, to: 18 },
   ],
   SA: [
-    { id: "cl", label: "Champions League", className: "zone-cl", from: 1, to: 4 },
-    { id: "europa", label: "Europa / Conference League", className: "zone-europa", from: 5, to: 6 },
-    { id: "relegation", label: "Relegation", className: "zone-releg", from: 18, to: 20 },
+    { id: "cl", label: "Champions League", shortLabel: "UCL", className: "zone-cl", from: 1, to: 4 },
+    {
+      id: "europa",
+      label: "Europa / Conference League",
+      shortLabel: "UEL",
+      className: "zone-europa",
+      from: 5,
+      to: 6,
+    },
+    { id: "relegation", label: "Relegation", shortLabel: "RELEG", className: "zone-releg", from: 18, to: 20 },
   ],
   FL1: [
-    { id: "cl", label: "Champions League", className: "zone-cl", from: 1, to: 3 },
-    { id: "europa", label: "Europa / Conference League", className: "zone-europa", from: 4, to: 5 },
-    { id: "relegation-playoff", label: "Relegation playoff", className: "zone-releg-playoff", from: 16, to: 16 },
-    { id: "relegation", label: "Relegation", className: "zone-releg", from: 17, to: 18 },
+    { id: "cl", label: "Champions League", shortLabel: "UCL", className: "zone-cl", from: 1, to: 3 },
+    {
+      id: "europa",
+      label: "Europa / Conference League",
+      shortLabel: "UEL",
+      className: "zone-europa",
+      from: 4,
+      to: 5,
+    },
+    {
+      id: "relegation-playoff",
+      label: "Relegation playoff",
+      shortLabel: "REL PO",
+      className: "zone-releg-playoff",
+      from: 16,
+      to: 16,
+    },
+    { id: "relegation", label: "Relegation", shortLabel: "RELEG", className: "zone-releg", from: 17, to: 18 },
   ],
   DED: [
-    { id: "cl", label: "Champions League", className: "zone-cl", from: 1, to: 1 },
-    { id: "europa", label: "European qualification", className: "zone-europa", from: 2, to: 6 },
-    { id: "relegation-playoff", label: "Relegation playoff", className: "zone-releg-playoff", from: 16, to: 17 },
-    { id: "relegation", label: "Relegation", className: "zone-releg", from: 18, to: 18 },
+    { id: "cl", label: "Champions League", shortLabel: "UCL", className: "zone-cl", from: 1, to: 1 },
+    {
+      id: "europa",
+      label: "European qualification",
+      shortLabel: "EURO",
+      className: "zone-europa",
+      from: 2,
+      to: 6,
+    },
+    {
+      id: "relegation-playoff",
+      label: "Relegation playoff",
+      shortLabel: "REL PO",
+      className: "zone-releg-playoff",
+      from: 16,
+      to: 17,
+    },
+    { id: "relegation", label: "Relegation", shortLabel: "RELEG", className: "zone-releg", from: 18, to: 18 },
   ],
   PPL: [
-    { id: "cl", label: "Champions League", className: "zone-cl", from: 1, to: 2 },
-    { id: "europa", label: "Europa / Conference League", className: "zone-europa", from: 3, to: 5 },
-    { id: "relegation", label: "Relegation", className: "zone-releg", from: 17, to: 18 },
+    { id: "cl", label: "Champions League", shortLabel: "UCL", className: "zone-cl", from: 1, to: 2 },
+    {
+      id: "europa",
+      label: "Europa / Conference League",
+      shortLabel: "UEL",
+      className: "zone-europa",
+      from: 3,
+      to: 5,
+    },
+    { id: "relegation", label: "Relegation", shortLabel: "RELEG", className: "zone-releg", from: 17, to: 18 },
   ],
 };
 
@@ -79,9 +164,9 @@ export function zoneAtPosition(competitionId: string, position: number): Zone | 
 // is just 8 matchdays, over before the games-remaining math would meaningfully
 // differ from the final table — not worth a second engine for that.
 export const CL_LEAGUE_PHASE_ZONES: Zone[] = [
-  { id: "r16", label: "Round of 16 (direct)", className: "zone-cl", from: 1, to: 8 },
-  { id: "playoff", label: "Knockout playoff", className: "zone-europa", from: 9, to: 24 },
-  { id: "eliminated", label: "Eliminated", className: "zone-releg", from: 25, to: 36 },
+  { id: "r16", label: "Round of 16 (direct)", shortLabel: "R16", className: "zone-cl", from: 1, to: 8 },
+  { id: "playoff", label: "Knockout playoff", shortLabel: "PLAYOFF", className: "zone-europa", from: 9, to: 24 },
+  { id: "eliminated", label: "Eliminated", shortLabel: "OUT", className: "zone-releg", from: 25, to: 36 },
 ];
 
 export function clZoneAtPosition(position: number): Zone | undefined {

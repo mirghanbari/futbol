@@ -16,16 +16,21 @@ function groupByDay(list: Match[]): [string, Match[]][] {
   return [...groups.entries()].sort(([a], [b]) => a.localeCompare(b));
 }
 
-function scoreLabel(match: Match): string {
-  if (match.status === "in-play" || match.status === "paused") {
-    if (match.status === "paused") return `${match.homeTeam.goals}–${match.awayTeam.goals} (HT)`;
-    const clock = match.minute ?? "live";
-    return `${match.homeTeam.goals}–${match.awayTeam.goals} (${clock}')`;
-  }
-  if (match.status === "finished") {
-    return `${match.homeTeam.goals}–${match.awayTeam.goals}`;
-  }
-  return match.status;
+// "–" rather than "0" for a match that hasn't kicked off yet — a 0-0
+// scoreline reads as a real result, not "nothing's happened".
+function goalsLabel(goals: number, match: Match): string {
+  return match.status === "scheduled" || match.status === "postponed" || match.status === "cancelled"
+    ? "–"
+    : String(goals);
+}
+
+function statusLabel(match: Match): string {
+  if (match.status === "finished") return "FT";
+  if (match.status === "paused") return "HT";
+  if (match.status === "in-play") return match.minute ? `${match.minute}'` : "Live";
+  if (match.status === "postponed") return "Postponed";
+  if (match.status === "cancelled") return "Cancelled";
+  return new Date(match.utcDate).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
 }
 
 export default function Matches() {
@@ -69,11 +74,22 @@ export default function Matches() {
                 to={`/matches/${competitionId}/${match.id}`}
                 key={match.id}
               >
-                <span>
+                <div className="match-teams">
+                  <div className="match-team-row">
+                    {home?.crest && <img className="crest" src={home.crest} alt="" />}
+                    <span>{home?.shortName ?? match.homeTeamId}</span>
+                    <span style={{ marginLeft: "auto" }}>{goalsLabel(match.homeTeam.goals, match)}</span>
+                  </div>
+                  <div className="match-team-row">
+                    {away?.crest && <img className="crest" src={away.crest} alt="" />}
+                    <span>{away?.shortName ?? match.awayTeamId}</span>
+                    <span style={{ marginLeft: "auto" }}>{goalsLabel(match.awayTeam.goals, match)}</span>
+                  </div>
+                </div>
+                <span className="match-status">
                   {isLive && <span className="live-dot" aria-label="Live" />}
-                  {home?.shortName ?? match.homeTeamId} vs {away?.shortName ?? match.awayTeamId}
+                  {statusLabel(match)}
                 </span>
-                <span>{scoreLabel(match)}</span>
               </Link>
             );
           })}

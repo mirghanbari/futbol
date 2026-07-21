@@ -36,9 +36,9 @@ function ZoneCard({
           <tr>
             <th>#</th>
             <th>Team</th>
-            <th>Pts</th>
-            <th>GP</th>
-            <th>Left</th>
+            <th className="num">Pts</th>
+            <th className="num">GP</th>
+            <th className="num">Left</th>
             <th>Status</th>
           </tr>
         </thead>
@@ -50,11 +50,19 @@ function ZoneCard({
               <tr key={row.teamId}>
                 <td>{row.position}</td>
                 <td>
-                  <Link to={`/teams/${competitionId}/${row.teamId}`}>{team?.name ?? row.teamId}</Link>
+                  <Link
+                    to={`/teams/${competitionId}/${row.teamId}`}
+                    style={{ display: "inline-flex", alignItems: "center", gap: "0.4rem", fontWeight: 700, textDecoration: "none" }}
+                  >
+                    {team?.crest && <img className="crest" src={team.crest} alt="" style={{ width: 18, height: 18 }} />}
+                    {team?.name ?? row.teamId}
+                  </Link>
                 </td>
-                <td>{row.points}</td>
-                <td>{row.played}</td>
-                <td>{row.gamesLeft}</td>
+                <td className="num">
+                  <strong>{row.points}</strong>
+                </td>
+                <td className="num">{row.played}</td>
+                <td className="num">{row.gamesLeft}</td>
                 <td className={"status-" + status}>{STATUS_LABEL[status]}</td>
               </tr>
             );
