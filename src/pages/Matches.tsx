@@ -6,6 +6,7 @@ import { LeagueStatus } from "../components/LeagueStatus";
 import { ProbabilityBar } from "../components/ProbabilityBar";
 import { applyLive, useLiveData } from "../data/live";
 import { computeRatings, expectedGoals, matchProbabilities } from "../data/ratings";
+import { STAGE_LABELS } from "../data/knockout";
 import { useSeo } from "../data/seo";
 import type { Match } from "../data/types";
 
@@ -25,6 +26,20 @@ function goalsLabel(goals: number, match: Match): string {
   return match.status === "scheduled" || match.status === "postponed" || match.status === "cancelled"
     ? "–"
     : String(goals);
+}
+
+// "Matchday 3" for a regular-season/league-phase fixture. CL's two-legged
+// knockout stages (playoff/round16/quarter/semi) also carry a non-null
+// `matchday` — but it means "leg 1" or "leg 2" of a tie, NOT a round-robin
+// matchday, so those get the actual stage name plus the leg number instead
+// (confirmed against real data: only stage/league-phase and Final actually
+// mean what their matchday field would naively suggest — see
+// src/data/knockout.ts's own note on this).
+function stageLabel(match: Match): string {
+  if (match.stage === "regular" || match.stage === "league-phase") {
+    return match.matchday !== null ? `Matchday ${match.matchday}` : STAGE_LABELS[match.stage];
+  }
+  return match.matchday !== null ? `${STAGE_LABELS[match.stage]} · Leg ${match.matchday}` : STAGE_LABELS[match.stage];
 }
 
 function statusLabel(match: Match): string {
@@ -85,56 +100,61 @@ export default function Matches() {
       {groups.map(([day, dayMatches]) => (
         <div className="match-day" key={day}>
           <h3>{day}</h3>
-          {dayMatches.map((match) => {
-            const home = data && teamById(data, match.homeTeamId);
-            const away = data && teamById(data, match.awayTeamId);
-            const isLive = match.status === "in-play" || match.status === "paused";
-            return (
-              <div className={isLive ? "match-row match-row-live" : "match-row"} key={match.id}>
-                <Link
-                  className="row-cover-link"
-                  to={`/matches/${competitionId}/${match.id}`}
-                  aria-label={`${home?.shortName ?? match.homeTeamId} vs ${away?.shortName ?? match.awayTeamId}`}
-                />
-                <div className="match-teams">
-                  <div className="match-team-row">
-                    <Link className="row-team-link" to={`/teams/${competitionId}/${match.homeTeamId}`}>
-                      {home?.crest && <img className="crest" src={home.crest} alt="" />}
-                      <span>{home?.shortName ?? match.homeTeamId}</span>
-                    </Link>
-                    <span style={{ marginLeft: "auto" }}>{goalsLabel(match.homeTeam.goals, match)}</span>
+          <div className="matches-grid">
+            {dayMatches.map((match) => {
+              const home = data && teamById(data, match.homeTeamId);
+              const away = data && teamById(data, match.awayTeamId);
+              const isLive = match.status === "in-play" || match.status === "paused";
+              return (
+                <div className={isLive ? "match-card match-card-live" : "match-card"} key={match.id}>
+                  <Link
+                    className="row-cover-link"
+                    to={`/matches/${competitionId}/${match.id}`}
+                    aria-label={`${home?.shortName ?? match.homeTeamId} vs ${away?.shortName ?? match.awayTeamId}`}
+                  />
+                  <div className="match-card-head">
+                    <span>{stageLabel(match)}</span>
+                    <span className="match-status">
+                      {isLive && <span className="live-dot" aria-label="Live" />}
+                      {statusLabel(match)}
+                    </span>
                   </div>
-                  <div className="match-team-row">
-                    <Link className="row-team-link" to={`/teams/${competitionId}/${match.awayTeamId}`}>
-                      {away?.crest && <img className="crest" src={away.crest} alt="" />}
-                      <span>{away?.shortName ?? match.awayTeamId}</span>
-                    </Link>
-                    <span style={{ marginLeft: "auto" }}>{goalsLabel(match.awayTeam.goals, match)}</span>
+                  <div className="match-teams">
+                    <div className="match-team-row">
+                      <Link className="row-team-link" to={`/teams/${competitionId}/${match.homeTeamId}`}>
+                        {home?.crest && <img className="crest" src={home.crest} alt="" />}
+                        <span>{home?.shortName ?? match.homeTeamId}</span>
+                      </Link>
+                      <span style={{ marginLeft: "auto" }}>{goalsLabel(match.homeTeam.goals, match)}</span>
+                    </div>
+                    <div className="match-team-row">
+                      <Link className="row-team-link" to={`/teams/${competitionId}/${match.awayTeamId}`}>
+                        {away?.crest && <img className="crest" src={away.crest} alt="" />}
+                        <span>{away?.shortName ?? match.awayTeamId}</span>
+                      </Link>
+                      <span style={{ marginLeft: "auto" }}>{goalsLabel(match.awayTeam.goals, match)}</span>
+                    </div>
                   </div>
+                  {match.status === "scheduled" &&
+                    oddsByMatchId.has(match.id) &&
+                    (() => {
+                      const probs = oddsByMatchId.get(match.id)!;
+                      return (
+                        <div className="match-card-odds">
+                          <ProbabilityBar
+                            home={probs.home}
+                            draw={probs.draw}
+                            away={probs.away}
+                            homeLabel={home?.shortName ?? match.homeTeamId}
+                            awayLabel={away?.shortName ?? match.awayTeamId}
+                          />
+                        </div>
+                      );
+                    })()}
                 </div>
-                <span className="match-status">
-                  {isLive && <span className="live-dot" aria-label="Live" />}
-                  {statusLabel(match)}
-                </span>
-                {match.status === "scheduled" &&
-                  oddsByMatchId.has(match.id) &&
-                  (() => {
-                    const probs = oddsByMatchId.get(match.id)!;
-                    return (
-                      <div className="match-row-odds">
-                        <ProbabilityBar
-                          home={probs.home}
-                          draw={probs.draw}
-                          away={probs.away}
-                          homeLabel={home?.shortName ?? match.homeTeamId}
-                          awayLabel={away?.shortName ?? match.awayTeamId}
-                        />
-                      </div>
-                    );
-                  })()}
-              </div>
-            );
-          })}
+              );
+            })}
+          </div>
         </div>
       ))}
     </div>

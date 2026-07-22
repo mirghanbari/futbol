@@ -388,6 +388,9 @@ th.num {
   margin: 0 0 0.6rem;
 }
 
+/* Compact single-line fixture row — TeamDetail's own fixture list only.
+   The Matches page uses the wider .match-card grid below instead (a
+   different shape: two full team rows + odds, not "vs Opponent · score"). */
 .match-row {
   position: relative;
   background: var(--card);
@@ -396,7 +399,6 @@ th.num {
   padding: 0.9rem 1.1rem;
   margin-bottom: 0.6rem;
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
@@ -404,13 +406,47 @@ th.num {
   color: var(--ink);
 }
 
-/* Pre-match odds bar (ProbabilityBar) — forced onto its own full-width line
-   below the team rows/status regardless of viewport width, via flex-wrap on
-   the row above rather than a column layout (keeps the existing two-item
-   row markup/CSS untouched for matches with no odds to show). */
-.match-row-odds {
-  flex: 1 1 100%;
-  order: 3;
+/* ---------- Matches page: a grid of narrower cards (mirrors the reference
+   dashboard's match-card layout — narrow, wraps to a multi-column grid on
+   wide viewports — rather than one full-width row per fixture). ---------- */
+.matches-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 0.85rem;
+}
+
+.match-card {
+  position: relative;
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 0.9rem 1.1rem;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.match-card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin-bottom: 0.65rem;
+}
+
+.match-card-head .match-status {
+  color: var(--ink);
+}
+
+.match-card-live .match-status {
+  color: var(--danger);
+}
+
+.match-card-odds {
+  margin-top: 0.6rem;
 }
 
 /* A full-card link layered BEHIND the row's own content (z-index 0) so the
