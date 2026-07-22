@@ -1,10 +1,12 @@
 import { Link, useParams } from "react-router-dom";
-import { matchesByTeam, playersByTeam, teamById } from "../data";
+import { ageFrom, matchesByTeam, playersByTeam, statsForPlayer, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import type { Player, Position } from "../data/types";
 import { FavoriteStar } from "../components/FavoriteStar";
 import { useSeo } from "../data/seo";
+import { clZoneAtPosition, zoneAtPosition } from "../data/zones";
+import type { LeagueData } from "../data";
 
 const POSITION_ORDER: Position[] = ["Goalkeeper", "Defender", "Midfielder", "Forward"];
 
@@ -22,6 +24,43 @@ function groupByPosition(players: Player[]): [string, Player[]][] {
   }
   for (const [key, players] of groups) ordered.push([key, players]);
   return ordered;
+}
+
+function SquadTable({ players, data, competitionId }: { players: Player[]; data: LeagueData; competitionId?: string }) {
+  return (
+    <table>
+      <thead>
+        <tr>
+          <th>Player</th>
+          <th>Nationality</th>
+          <th className="num">Age</th>
+          <th className="num">Apps</th>
+          <th className="num">G</th>
+          <th className="num">A</th>
+        </tr>
+      </thead>
+      <tbody>
+        {players.map((p) => {
+          const stats = statsForPlayer(data, p.id);
+          const age = ageFrom(p.dateOfBirth);
+          return (
+            <tr key={p.id}>
+              <td>
+                <Link to={`/players/${competitionId}/${p.id}`} style={{ fontWeight: 700, textDecoration: "none" }}>
+                  {p.name}
+                </Link>
+              </td>
+              <td style={{ color: "var(--muted)" }}>{p.nationality}</td>
+              <td className="num">{age ?? "—"}</td>
+              <td className="num">{stats?.matchesPlayed ?? "—"}</td>
+              <td className="num">{stats?.goals ?? "—"}</td>
+              <td className="num">{stats?.assists ?? "—"}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  );
 }
 
 export default function TeamDetail() {
@@ -52,6 +91,16 @@ export default function TeamDetail() {
   const squad = teamId ? playersByTeam(data, teamId) : [];
   const squadByPosition = groupByPosition(squad);
 
+  const standing = teamId ? data.standings.find((s) => s.id === teamId) : undefined;
+  const isLeaguePhase = competitionId === "CL";
+  const zone = standing
+    ? isLeaguePhase
+      ? clZoneAtPosition(standing.position)
+      : competitionId
+        ? zoneAtPosition(competitionId, standing.position)
+        : undefined
+    : undefined;
+
   return (
     <div>
       <p>
@@ -63,24 +112,43 @@ export default function TeamDetail() {
         {competitionId && <FavoriteStar teamId={team.id} competitionId={competitionId} className="fav-star-lg" />}
       </h1>
 
+      {standing && (
+        <div className="stat-tiles">
+          <div className="stat-tile">
+            <div className="stat-tile-value">
+              {standing.position}
+              {zone && <span className={"zone-chip " + zone.className}>{zone.shortLabel}</span>}
+            </div>
+            <div className="stat-tile-label">{isLeaguePhase ? "League-phase position" : "Position"}</div>
+          </div>
+          <div className="stat-tile">
+            <div className="stat-tile-value">{standing.points}</div>
+            <div className="stat-tile-label">
+              Points · {standing.won}W {standing.draw}D {standing.lost}L
+            </div>
+          </div>
+          <div className="stat-tile">
+            <div className="stat-tile-value">
+              {standing.goalsFor}:{standing.goalsAgainst}
+            </div>
+            <div className="stat-tile-label">Goals for : against</div>
+          </div>
+          <div className="stat-tile">
+            <div className="stat-tile-value">{standing.playedGames}</div>
+            <div className="stat-tile-label">Games played</div>
+          </div>
+        </div>
+      )}
+
       {squad.length > 0 && (
         <>
           <h2>Squad</h2>
           {squadByPosition.map(([position, players]) => (
-            <div key={position} style={{ marginBottom: "1.25rem" }}>
-              <h3 style={{ fontSize: "0.72rem", textTransform: "uppercase", letterSpacing: "0.08em", color: "var(--muted)", marginBottom: "0.5rem" }}>
+            <div key={position} className="card" style={{ marginBottom: "1.25rem" }}>
+              <h3 style={{ fontSize: "0.72rem", textTransform: "uppercase", letterSpacing: "0.08em", color: "var(--muted)", margin: "0.6rem 0 0 0.6rem" }}>
                 {position}
               </h3>
-              <ul style={{ listStyle: "none", margin: 0, padding: 0, display: "grid", gap: "0.4rem" }}>
-                {players.map((p) => (
-                  <li key={p.id}>
-                    <Link to={`/players/${competitionId}/${p.id}`} style={{ fontWeight: 700, textDecoration: "none" }}>
-                      {p.name}
-                    </Link>
-                    <span style={{ color: "var(--muted)" }}> · {p.nationality}</span>
-                  </li>
-                ))}
-              </ul>
+              <SquadTable players={players} data={data} competitionId={competitionId} />
             </div>
           ))}
         </>
@@ -93,18 +161,25 @@ export default function TeamDetail() {
         const opponent = teamById(data, opponentId);
         const played = match.status === "finished";
         return (
-          <Link className="match-row" to={`/matches/${competitionId}/${match.id}`} key={match.id}>
+          <div className="match-row" key={match.id}>
+            <Link
+              className="row-cover-link"
+              to={`/matches/${competitionId}/${match.id}`}
+              aria-label={`${isHome ? "vs" : "@"} ${opponent?.name ?? opponentId}`}
+            />
             <div className="match-team-row">
               <span style={{ color: "var(--muted)", fontWeight: 600 }}>{isHome ? "vs" : "@"}</span>
-              {opponent?.crest && <img className="crest" src={opponent.crest} alt="" />}
-              <span>{opponent?.name ?? opponentId}</span>
+              <Link className="row-team-link" to={`/teams/${competitionId}/${opponentId}`}>
+                {opponent?.crest && <img className="crest" src={opponent.crest} alt="" />}
+                <span>{opponent?.name ?? opponentId}</span>
+              </Link>
             </div>
             <span className="match-status">
               {played
                 ? `${match.homeTeam.goals}–${match.awayTeam.goals}`
                 : new Date(match.utcDate).toLocaleDateString()}
             </span>
-          </Link>
+          </div>
         );
       })}
     </div>

@@ -1,24 +1,11 @@
 import { Link, useParams } from "react-router-dom";
-import { playerById, statsForPlayer, teamById } from "../data";
+import { ageFrom, playerById, statsForPlayer, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { useSeo } from "../data/seo";
 import type { PlayerSeasonStats } from "../data/types";
 
 type StatKey = Exclude<keyof PlayerSeasonStats, "playerId" | "season">;
-
-function ageFrom(dateOfBirth: string | null): number | null {
-  if (!dateOfBirth) return null;
-  const dob = new Date(dateOfBirth);
-  if (Number.isNaN(dob.getTime())) return null;
-  const now = new Date();
-  let age = now.getFullYear() - dob.getFullYear();
-  const beforeBirthday =
-    now.getMonth() < dob.getMonth() ||
-    (now.getMonth() === dob.getMonth() && now.getDate() < dob.getDate());
-  if (beforeBirthday) age -= 1;
-  return age;
-}
 
 const STAT_LABELS: { key: StatKey; label: string }[] = [
   { key: "matchesPlayed", label: "Appearances" },

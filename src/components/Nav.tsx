@@ -8,12 +8,21 @@ export default function Nav() {
   // Falls back to the first competition in the manifest (currently PL) so the
   // tabs and switcher are always usable, even from the competition-less "/".
   const active = competitionId ?? competitions[0]?.id ?? "PL";
-  const activeCompetition = competitionById(active);
+  // The brand icon only shows a competition's crest once a competition is
+  // actually in the URL — on "/" itself (no competitionId), it falls back to
+  // a neutral soccer ball rather than defaulting to PL's crest.
+  const brandCompetition = competitionId ? competitionById(competitionId) : undefined;
 
   return (
     <nav className="nav">
       <NavLink to="/" end className="brand">
-        {activeCompetition && <CompetitionLogo competition={activeCompetition} />}
+        {brandCompetition ? (
+          <CompetitionLogo competition={brandCompetition} />
+        ) : (
+          <span className="league-logo brand-ball" aria-hidden="true">
+            ⚽
+          </span>
+        )}
         Futbol
       </NavLink>
 

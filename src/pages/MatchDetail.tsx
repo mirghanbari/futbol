@@ -111,17 +111,17 @@ export default function MatchDetail() {
 
       <div className="card">
         <div className="match-head">
-          <div className="match-head-team">
+          <Link className="match-head-team" to={`/teams/${competitionId}/${match.homeTeamId}`}>
             {home?.crest && <img className="crest" src={home.crest} alt="" />}
             {home?.name ?? match.homeTeamId}
-          </div>
+          </Link>
           <div className="score-big">
             {match.homeTeam.goals} – {match.awayTeam.goals}
           </div>
-          <div className="match-head-team">
+          <Link className="match-head-team" to={`/teams/${competitionId}/${match.awayTeamId}`}>
             {away?.crest && <img className="crest" src={away.crest} alt="" />}
             {away?.name ?? match.awayTeamId}
-          </div>
+          </Link>
         </div>
       </div>
       <p className="match-meta">

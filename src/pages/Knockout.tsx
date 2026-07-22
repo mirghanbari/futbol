@@ -16,10 +16,13 @@ function TieCard({ tie, competitionId, data }: { tie: Tie; competitionId: string
   return (
     <div className="team-card">
       <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", fontWeight: aWon ? 800 : 500 }}>
-        <span style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
+        <Link
+          to={`/teams/${competitionId}/${tie.teamAId}`}
+          style={{ display: "flex", alignItems: "center", gap: "0.5rem", color: "inherit", textDecoration: "none" }}
+        >
           {teamA?.crest && <img className="crest" src={teamA.crest} alt="" />}
           {teamA?.name ?? tie.teamAId}
-        </span>
+        </Link>
         <span className="num">{tie.aggregateA}</span>
       </div>
       <div
@@ -31,10 +34,13 @@ function TieCard({ tie, competitionId, data }: { tie: Tie; competitionId: string
           marginTop: "0.4rem",
         }}
       >
-        <span style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
+        <Link
+          to={`/teams/${competitionId}/${tie.teamBId}`}
+          style={{ display: "flex", alignItems: "center", gap: "0.5rem", color: "inherit", textDecoration: "none" }}
+        >
           {teamB?.crest && <img className="crest" src={teamB.crest} alt="" />}
           {teamB?.name ?? tie.teamBId}
-        </span>
+        </Link>
         <span className="num">{tie.aggregateB}</span>
       </div>
       <div style={{ color: "var(--muted)", fontSize: "0.8rem", marginTop: "0.6rem" }}>

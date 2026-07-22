@@ -69,20 +69,25 @@ export default function Matches() {
             const away = data && teamById(data, match.awayTeamId);
             const isLive = match.status === "in-play" || match.status === "paused";
             return (
-              <Link
-                className={isLive ? "match-row match-row-live" : "match-row"}
-                to={`/matches/${competitionId}/${match.id}`}
-                key={match.id}
-              >
+              <div className={isLive ? "match-row match-row-live" : "match-row"} key={match.id}>
+                <Link
+                  className="row-cover-link"
+                  to={`/matches/${competitionId}/${match.id}`}
+                  aria-label={`${home?.shortName ?? match.homeTeamId} vs ${away?.shortName ?? match.awayTeamId}`}
+                />
                 <div className="match-teams">
                   <div className="match-team-row">
-                    {home?.crest && <img className="crest" src={home.crest} alt="" />}
-                    <span>{home?.shortName ?? match.homeTeamId}</span>
+                    <Link className="row-team-link" to={`/teams/${competitionId}/${match.homeTeamId}`}>
+                      {home?.crest && <img className="crest" src={home.crest} alt="" />}
+                      <span>{home?.shortName ?? match.homeTeamId}</span>
+                    </Link>
                     <span style={{ marginLeft: "auto" }}>{goalsLabel(match.homeTeam.goals, match)}</span>
                   </div>
                   <div className="match-team-row">
-                    {away?.crest && <img className="crest" src={away.crest} alt="" />}
-                    <span>{away?.shortName ?? match.awayTeamId}</span>
+                    <Link className="row-team-link" to={`/teams/${competitionId}/${match.awayTeamId}`}>
+                      {away?.crest && <img className="crest" src={away.crest} alt="" />}
+                      <span>{away?.shortName ?? match.awayTeamId}</span>
+                    </Link>
                     <span style={{ marginLeft: "auto" }}>{goalsLabel(match.awayTeam.goals, match)}</span>
                   </div>
                 </div>
@@ -90,7 +95,7 @@ export default function Matches() {
                   {isLive && <span className="live-dot" aria-label="Live" />}
                   {statusLabel(match)}
                 </span>
-              </Link>
+              </div>
             );
           })}
         </div>

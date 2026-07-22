@@ -100,10 +100,13 @@ export default function Players() {
                       </Link>
                     </td>
                     <td>
-                      <span style={{ display: "inline-flex", alignItems: "center", gap: "0.4rem" }}>
+                      <Link
+                        to={`/teams/${competitionId}/${p.teamId}`}
+                        style={{ display: "inline-flex", alignItems: "center", gap: "0.4rem", color: "inherit", textDecoration: "none" }}
+                      >
                         {team?.crest && <img className="crest" src={team.crest} alt="" style={{ width: 18, height: 18 }} />}
                         {team?.shortName ?? p.teamId}
-                      </span>
+                      </Link>
                     </td>
                     <td>{p.position ?? "—"}</td>
                     <td>{p.nationality}</td>

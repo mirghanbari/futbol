@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { useSeo } from "../data/seo";
@@ -65,8 +65,13 @@ export default function Standings() {
                     <td>{row.position}</td>
                     <td>
                       <div style={{ display: "flex", alignItems: "center", gap: "0.55rem" }}>
-                        {row.crest && <img className="crest" src={row.crest} alt="" />}
-                        {row.name}
+                        <Link
+                          to={`/teams/${competitionId}/${row.id}`}
+                          style={{ display: "flex", alignItems: "center", gap: "0.55rem", color: "inherit", textDecoration: "none" }}
+                        >
+                          {row.crest && <img className="crest" src={row.crest} alt="" />}
+                          {row.name}
+                        </Link>
                         {!isLeaguePhase && zone && (
                           <span className={"zone-chip " + zone.className}>{zone.shortLabel}</span>
                         )}

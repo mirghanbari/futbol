@@ -151,6 +151,18 @@ export function statsForPlayer(data: LeagueData, playerId: string): PlayerSeason
   return data.playerStats.find((s) => s.playerId === playerId);
 }
 
+export function ageFrom(dateOfBirth: string | null): number | null {
+  if (!dateOfBirth) return null;
+  const dob = new Date(dateOfBirth);
+  if (Number.isNaN(dob.getTime())) return null;
+  const now = new Date();
+  let age = now.getFullYear() - dob.getFullYear();
+  const beforeBirthday =
+    now.getMonth() < dob.getMonth() || (now.getMonth() === dob.getMonth() && now.getDate() < dob.getDate());
+  if (beforeBirthday) age -= 1;
+  return age;
+}
+
 // CL-specific: its own competitions.json `season` lags the 8 domestic
 // leagues' by one year until football-data.org publishes the new UCL
 // league-phase fixture list (the draw happens after domestic leagues have
