@@ -1,18 +1,34 @@
 [
   {
-    "id": "5530",
-    "name": "CD Santa Clara",
-    "shortName": "Santa Clara",
-    "tla": "CD ",
-    "crest": "https://crests.football-data.org/5530.png",
+    "id": "582",
+    "name": "GD Estoril Praia",
+    "shortName": "Estoril Praia",
+    "tla": "EST",
+    "crest": "https://crests.football-data.org/582.png",
     "competitionId": "PPL"
   },
   {
-    "id": "5529",
-    "name": "CD Nacional",
-    "shortName": "CD Nacional",
-    "tla": "CDN",
-    "crest": "https://crests.football-data.org/5529.png",
+    "id": "5531",
+    "name": "FC Famalicão",
+    "shortName": "Famalicão",
+    "tla": "FAM",
+    "crest": "https://crests.football-data.org/5531.png",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "5575",
+    "name": "CS Marítimo",
+    "shortName": "Marítimo",
+    "tla": "CSM",
+    "crest": "https://crests.football-data.org/5575.png",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "6618",
+    "name": "Casa Pia AC",
+    "shortName": "Casa Pia",
+    "tla": "CAS",
+    "crest": "https://crests.football-data.org/6618.png",
     "competitionId": "PPL"
   },
   {
@@ -32,22 +48,6 @@
     "competitionId": "PPL"
   },
   {
-    "id": "583",
-    "name": "Moreirense FC",
-    "shortName": "Moreirense",
-    "tla": "MOR",
-    "crest": "https://crests.football-data.org/583.png",
-    "competitionId": "PPL"
-  },
-  {
-    "id": "5613",
-    "name": "Sporting Clube de Braga",
-    "shortName": "Braga",
-    "tla": "SCB",
-    "crest": "https://crests.football-data.org/5613.png",
-    "competitionId": "PPL"
-  },
-  {
     "id": "9136",
     "name": "CF Estrela da Amadora",
     "shortName": "Amadora",
@@ -61,6 +61,38 @@
     "shortName": "Sporting CP",
     "tla": "SPO",
     "crest": "https://crests.football-data.org/498.png",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "503",
+    "name": "FC Porto",
+    "shortName": "Porto",
+    "tla": "FCP",
+    "crest": "https://crests.football-data.org/503.png",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "7822",
+    "name": "FC Alverca",
+    "shortName": "Alverca",
+    "tla": "ALV",
+    "crest": "https://crests.football-data.org/7822.png",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "583",
+    "name": "Moreirense FC",
+    "shortName": "Moreirense",
+    "tla": "MOR",
+    "crest": "https://crests.football-data.org/583.png",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "5613",
+    "name": "Sporting Clube de Braga",
+    "shortName": "Braga",
+    "tla": "SCB",
+    "crest": "https://crests.football-data.org/5613.png",
     "competitionId": "PPL"
   },
   {
@@ -96,51 +128,19 @@
     "competitionId": "PPL"
   },
   {
-    "id": "5575",
-    "name": "CS Marítimo",
-    "shortName": "Marítimo",
-    "tla": "CSM",
-    "crest": "https://crests.football-data.org/5575.png",
+    "id": "5530",
+    "name": "CD Santa Clara",
+    "shortName": "Santa Clara",
+    "tla": "CD ",
+    "crest": "https://crests.football-data.org/5530.png",
     "competitionId": "PPL"
   },
   {
-    "id": "6618",
-    "name": "Casa Pia AC",
-    "shortName": "Casa Pia",
-    "tla": "CAS",
-    "crest": "https://crests.football-data.org/6618.png",
-    "competitionId": "PPL"
-  },
-  {
-    "id": "582",
-    "name": "GD Estoril Praia",
-    "shortName": "Estoril Praia",
-    "tla": "EST",
-    "crest": "https://crests.football-data.org/582.png",
-    "competitionId": "PPL"
-  },
-  {
-    "id": "5531",
-    "name": "FC Famalicão",
-    "shortName": "Famalicão",
-    "tla": "FAM",
-    "crest": "https://crests.football-data.org/5531.png",
-    "competitionId": "PPL"
-  },
-  {
-    "id": "503",
-    "name": "FC Porto",
-    "shortName": "Porto",
-    "tla": "FCP",
-    "crest": "https://crests.football-data.org/503.png",
-    "competitionId": "PPL"
-  },
-  {
-    "id": "7822",
-    "name": "FC Alverca",
-    "shortName": "Alverca",
-    "tla": "ALV",
-    "crest": "https://crests.football-data.org/7822.png",
+    "id": "5529",
+    "name": "CD Nacional",
+    "shortName": "CD Nacional",
+    "tla": "CDN",
+    "crest": "https://crests.football-data.org/5529.png",
     "competitionId": "PPL"
   }
 ]

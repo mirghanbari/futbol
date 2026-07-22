@@ -1,14 +1,31 @@
 [
   {
-    "id": "564628",
+    "id": "564634",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 1,
     "stage": "regular",
-    "utcDate": "2026-08-16T15:00:00Z",
+    "utcDate": "2026-08-15T17:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "78",
-    "awayTeamId": "84",
+    "homeTeamId": "263",
+    "awayTeamId": "82",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564633",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "regular",
+    "utcDate": "2026-08-15T19:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "559",
+    "awayTeamId": "87",
     "homeTeam": {
       "goals": 0
     },
@@ -34,100 +51,15 @@
     }
   },
   {
-    "id": "564630",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 1,
-    "stage": "regular",
-    "utcDate": "2026-08-16T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "81",
-    "awayTeamId": "77",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564631",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 1,
-    "stage": "regular",
-    "utcDate": "2026-08-16T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "86",
-    "awayTeamId": "92",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
     "id": "564632",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 1,
     "stage": "regular",
-    "utcDate": "2026-08-16T15:00:00Z",
+    "utcDate": "2026-08-16T17:00:00Z",
     "status": "scheduled",
     "homeTeamId": "80",
     "awayTeamId": "88",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564633",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 1,
-    "stage": "regular",
-    "utcDate": "2026-08-16T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "559",
-    "awayTeamId": "87",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564634",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 1,
-    "stage": "regular",
-    "utcDate": "2026-08-16T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "263",
-    "awayTeamId": "82",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564635",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 1,
-    "stage": "regular",
-    "utcDate": "2026-08-16T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "560",
-    "awayTeamId": "285",
     "homeTeam": {
       "goals": 0
     },
@@ -141,7 +73,7 @@
     "season": "2026",
     "matchday": 1,
     "stage": "regular",
-    "utcDate": "2026-08-16T15:00:00Z",
+    "utcDate": "2026-08-16T19:30:00Z",
     "status": "scheduled",
     "homeTeamId": "558",
     "awayTeamId": "79",
@@ -153,15 +85,32 @@
     }
   },
   {
-    "id": "564637",
+    "id": "564635",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 1,
     "stage": "regular",
-    "utcDate": "2026-08-16T15:00:00Z",
+    "utcDate": "2026-08-17T19:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "95",
-    "awayTeamId": "90",
+    "homeTeamId": "560",
+    "awayTeamId": "285",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564628",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "regular",
+    "utcDate": "2026-08-19T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "78",
+    "awayTeamId": "84",
     "homeTeam": {
       "goals": 0
     },
@@ -175,7 +124,7 @@
     "season": "2026",
     "matchday": 2,
     "stage": "regular",
-    "utcDate": "2026-08-23T15:00:00Z",
+    "utcDate": "2026-08-20T19:00:00Z",
     "status": "scheduled",
     "homeTeamId": "87",
     "awayTeamId": "263",
@@ -187,32 +136,15 @@
     }
   },
   {
-    "id": "564639",
+    "id": "564647",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 2,
     "stage": "regular",
-    "utcDate": "2026-08-23T15:00:00Z",
+    "utcDate": "2026-08-21T19:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "79",
-    "awayTeamId": "88",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564640",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 2,
-    "stage": "regular",
-    "utcDate": "2026-08-23T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "84",
-    "awayTeamId": "560",
+    "homeTeamId": "90",
+    "awayTeamId": "92",
     "homeTeam": {
       "goals": 0
     },
@@ -226,27 +158,10 @@
     "season": "2026",
     "matchday": 2,
     "stage": "regular",
-    "utcDate": "2026-08-23T15:00:00Z",
+    "utcDate": "2026-08-22T15:00:00Z",
     "status": "scheduled",
     "homeTeamId": "77",
     "awayTeamId": "559",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564642",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 2,
-    "stage": "regular",
-    "utcDate": "2026-08-23T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "285",
-    "awayTeamId": "81",
     "homeTeam": {
       "goals": 0
     },
@@ -260,27 +175,10 @@
     "season": "2026",
     "matchday": 2,
     "stage": "regular",
-    "utcDate": "2026-08-23T15:00:00Z",
+    "utcDate": "2026-08-22T17:30:00Z",
     "status": "scheduled",
     "homeTeamId": "95",
     "awayTeamId": "558",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564644",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 2,
-    "stage": "regular",
-    "utcDate": "2026-08-23T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "82",
-    "awayTeamId": "5335",
     "homeTeam": {
       "goals": 0
     },
@@ -294,7 +192,7 @@
     "season": "2026",
     "matchday": 2,
     "stage": "regular",
-    "utcDate": "2026-08-23T15:00:00Z",
+    "utcDate": "2026-08-22T19:30:00Z",
     "status": "scheduled",
     "homeTeamId": "80",
     "awayTeamId": "86",
@@ -323,14 +221,99 @@
     }
   },
   {
-    "id": "564647",
+    "id": "564644",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 2,
     "stage": "regular",
-    "utcDate": "2026-08-23T15:00:00Z",
+    "utcDate": "2026-08-23T17:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "90",
+    "homeTeamId": "82",
+    "awayTeamId": "5335",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564642",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "regular",
+    "utcDate": "2026-08-23T19:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "285",
+    "awayTeamId": "81",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564639",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "regular",
+    "utcDate": "2026-08-24T17:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "79",
+    "awayTeamId": "88",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564640",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "regular",
+    "utcDate": "2026-08-24T19:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "84",
+    "awayTeamId": "560",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564637",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "regular",
+    "utcDate": "2026-08-25T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "95",
+    "awayTeamId": "90",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564631",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "regular",
+    "utcDate": "2026-08-26T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "86",
     "awayTeamId": "92",
     "homeTeam": {
       "goals": 0
@@ -340,100 +323,15 @@
     }
   },
   {
-    "id": "564648",
+    "id": "564630",
     "competitionId": "PD",
     "season": "2026",
-    "matchday": 3,
+    "matchday": 1,
     "stage": "regular",
-    "utcDate": "2026-08-30T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "263",
-    "awayTeamId": "94",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564649",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-08-30T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "559",
-    "awayTeamId": "78",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564650",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-08-30T15:00:00Z",
+    "utcDate": "2026-08-27T19:00:00Z",
     "status": "scheduled",
     "homeTeamId": "81",
-    "awayTeamId": "87",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564651",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-08-30T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "560",
-    "awayTeamId": "95",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564652",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-08-30T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "558",
     "awayTeamId": "77",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564653",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-08-30T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "92",
-    "awayTeamId": "80",
     "homeTeam": {
       "goals": 0
     },
@@ -447,10 +345,27 @@
     "season": "2026",
     "matchday": 3,
     "stage": "regular",
-    "utcDate": "2026-08-30T15:00:00Z",
+    "utcDate": "2026-08-28T17:00:00Z",
     "status": "scheduled",
     "homeTeamId": "5335",
     "awayTeamId": "285",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564648",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-08-28T19:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "263",
+    "awayTeamId": "94",
     "homeTeam": {
       "goals": 0
     },
@@ -464,10 +379,44 @@
     "season": "2026",
     "matchday": 3,
     "stage": "regular",
-    "utcDate": "2026-08-30T15:00:00Z",
+    "utcDate": "2026-08-29T15:00:00Z",
     "status": "scheduled",
     "homeTeamId": "88",
     "awayTeamId": "90",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564653",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-08-29T17:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "92",
+    "awayTeamId": "80",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564649",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-08-29T19:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "559",
+    "awayTeamId": "78",
     "homeTeam": {
       "goals": 0
     },
@@ -493,15 +442,66 @@
     }
   },
   {
+    "id": "564651",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-08-30T17:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "560",
+    "awayTeamId": "95",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564652",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-08-30T19:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "558",
+    "awayTeamId": "77",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
     "id": "564657",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 3,
     "stage": "regular",
-    "utcDate": "2026-08-30T15:00:00Z",
+    "utcDate": "2026-08-31T17:30:00Z",
     "status": "scheduled",
     "homeTeamId": "79",
     "awayTeamId": "82",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564650",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-08-31T19:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "81",
+    "awayTeamId": "87",
     "homeTeam": {
       "goals": 0
     },
