@@ -7155,6 +7155,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "1612",
+    "name": "Caio Henrique",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1997-07-31",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
     "id": "7328",
     "name": "Wout Faes",
     "position": "Defender",
@@ -7358,15 +7367,6 @@
     "position": null,
     "nationality": "England",
     "dateOfBirth": "1994-01-15",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "1612",
-    "name": "Caio Henrique",
-    "position": null,
-    "nationality": "Brazil",
-    "dateOfBirth": "1997-07-31",
     "teamId": "548",
     "competitionId": "CL"
   },
@@ -8388,6 +8388,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "7451",
+    "name": "Mauro Júnior",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1999-05-06",
+    "teamId": "674",
+    "competitionId": "CL"
+  },
+  {
     "id": "97534",
     "name": "Sergiño Dest",
     "position": "Defender",
@@ -8406,6 +8415,33 @@
     "competitionId": "CL"
   },
   {
+    "id": "142790",
+    "name": "Kiliann Sildillia",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2002-05-16",
+    "teamId": "674",
+    "competitionId": "CL"
+  },
+  {
+    "id": "184642",
+    "name": "Ryan Flamingo",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2002-12-31",
+    "teamId": "674",
+    "competitionId": "CL"
+  },
+  {
+    "id": "221412",
+    "name": "Yarek Gasiorowski",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2005-01-12",
+    "teamId": "674",
+    "competitionId": "CL"
+  },
+  {
     "id": "278178",
     "name": "Fabian Merién",
     "position": "Defender",
@@ -8420,6 +8456,24 @@
     "position": "Midfielder",
     "nationality": "Netherlands",
     "dateOfBirth": "1997-12-22",
+    "teamId": "674",
+    "competitionId": "CL"
+  },
+  {
+    "id": "9770",
+    "name": "Jerdy Schouten",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1997-01-12",
+    "teamId": "674",
+    "competitionId": "CL"
+  },
+  {
+    "id": "53426",
+    "name": "Joey Veerman",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1998-11-19",
     "teamId": "674",
     "competitionId": "CL"
   },
@@ -8505,11 +8559,47 @@
     "competitionId": "CL"
   },
   {
+    "id": "8443",
+    "name": "Alassane Pléa",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1993-03-10",
+    "teamId": "674",
+    "competitionId": "CL"
+  },
+  {
+    "id": "15781",
+    "name": "Dennis Man",
+    "position": "Forward",
+    "nationality": "Romania",
+    "dateOfBirth": "1998-08-26",
+    "teamId": "674",
+    "competitionId": "CL"
+  },
+  {
     "id": "119731",
     "name": "Ricardo Pepi",
     "position": "Forward",
     "nationality": "USA",
     "dateOfBirth": "2003-01-09",
+    "teamId": "674",
+    "competitionId": "CL"
+  },
+  {
+    "id": "150536",
+    "name": "Couhaib Driouech",
+    "position": "Forward",
+    "nationality": "Morocco",
+    "dateOfBirth": "2002-04-17",
+    "teamId": "674",
+    "competitionId": "CL"
+  },
+  {
+    "id": "181984",
+    "name": "Ruben van Bommel",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2004-08-03",
     "teamId": "674",
     "competitionId": "CL"
   },
@@ -8523,101 +8613,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "53426",
-    "name": "Joey Veerman",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "1998-11-19",
-    "teamId": "674",
-    "competitionId": "CL"
-  },
-  {
-    "id": "15781",
-    "name": "Dennis Man",
-    "position": null,
-    "nationality": "Romania",
-    "dateOfBirth": "1998-08-26",
-    "teamId": "674",
-    "competitionId": "CL"
-  },
-  {
-    "id": "9770",
-    "name": "Jerdy Schouten",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "1997-01-12",
-    "teamId": "674",
-    "competitionId": "CL"
-  },
-  {
-    "id": "8443",
-    "name": "Alassane Pléa",
-    "position": null,
-    "nationality": "France",
-    "dateOfBirth": "1993-03-10",
-    "teamId": "674",
-    "competitionId": "CL"
-  },
-  {
     "id": "7703",
     "name": "Myron Boadu",
     "position": null,
     "nationality": "Netherlands",
     "dateOfBirth": "2001-01-14",
-    "teamId": "674",
-    "competitionId": "CL"
-  },
-  {
-    "id": "7451",
-    "name": "Mauro Júnior",
-    "position": null,
-    "nationality": "Brazil",
-    "dateOfBirth": "1999-05-06",
-    "teamId": "674",
-    "competitionId": "CL"
-  },
-  {
-    "id": "221412",
-    "name": "Yarek Gasiorowski",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2005-01-12",
-    "teamId": "674",
-    "competitionId": "CL"
-  },
-  {
-    "id": "184642",
-    "name": "Ryan Flamingo",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "2002-12-31",
-    "teamId": "674",
-    "competitionId": "CL"
-  },
-  {
-    "id": "181984",
-    "name": "Ruben van Bommel",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "2004-08-03",
-    "teamId": "674",
-    "competitionId": "CL"
-  },
-  {
-    "id": "150536",
-    "name": "Couhaib Driouech",
-    "position": null,
-    "nationality": "Morocco",
-    "dateOfBirth": "2002-04-17",
-    "teamId": "674",
-    "competitionId": "CL"
-  },
-  {
-    "id": "142790",
-    "name": "Kiliann Sildillia",
-    "position": null,
-    "nationality": "France",
-    "dateOfBirth": "2002-05-16",
     "teamId": "674",
     "competitionId": "CL"
   },
@@ -8676,6 +8676,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "7679",
+    "name": "Owen Wijndal",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1999-11-28",
+    "teamId": "678",
+    "competitionId": "CL"
+  },
+  {
     "id": "9034",
     "name": "Takehiro Tomiyasu",
     "position": "Defender",
@@ -8703,11 +8712,29 @@
     "competitionId": "CL"
   },
   {
-    "id": "249025",
-    "name": "Jorthy Mokio",
+    "id": "156856",
+    "name": "Youri Baas",
     "position": "Defender",
-    "nationality": "Belgium",
-    "dateOfBirth": "2008-02-29",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2003-03-17",
+    "teamId": "678",
+    "competitionId": "CL"
+  },
+  {
+    "id": "184716",
+    "name": "Anton Gaaei",
+    "position": "Defender",
+    "nationality": "Denmark",
+    "dateOfBirth": "2002-11-19",
+    "teamId": "678",
+    "competitionId": "CL"
+  },
+  {
+    "id": "188830",
+    "name": "Lucas Rosa",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2000-04-03",
     "teamId": "678",
     "competitionId": "CL"
   },
@@ -8766,11 +8793,47 @@
     "competitionId": "CL"
   },
   {
+    "id": "7841",
+    "name": "Davy Klaassen",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1993-02-21",
+    "teamId": "678",
+    "competitionId": "CL"
+  },
+  {
+    "id": "142087",
+    "name": "Youri Regeer",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2003-08-18",
+    "teamId": "678",
+    "competitionId": "CL"
+  },
+  {
+    "id": "157120",
+    "name": "Kian Fitz-Jim",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2003-07-05",
+    "teamId": "678",
+    "competitionId": "CL"
+  },
+  {
     "id": "190731",
     "name": "Oscar Gloukh",
     "position": "Midfielder",
     "nationality": "Israel",
     "dateOfBirth": "2004-01-04",
+    "teamId": "678",
+    "competitionId": "CL"
+  },
+  {
+    "id": "249025",
+    "name": "Jorthy Mokio",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "dateOfBirth": "2008-02-29",
     "teamId": "678",
     "competitionId": "CL"
   },
@@ -8838,6 +8901,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "7478",
+    "name": "Steven Berghuis",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1991-12-19",
+    "teamId": "678",
+    "competitionId": "CL"
+  },
+  {
     "id": "7570",
     "name": "Kasper Dolberg",
     "position": "Forward",
@@ -8852,6 +8924,24 @@
     "position": "Forward",
     "nationality": "Netherlands",
     "dateOfBirth": "1992-08-07",
+    "teamId": "678",
+    "competitionId": "CL"
+  },
+  {
+    "id": "130053",
+    "name": "Oliver Edvardsen",
+    "position": "Forward",
+    "nationality": "Norway",
+    "dateOfBirth": "1999-03-19",
+    "teamId": "678",
+    "competitionId": "CL"
+  },
+  {
+    "id": "189574",
+    "name": "Mika Godts",
+    "position": "Forward",
+    "nationality": "Belgium",
+    "dateOfBirth": "2005-06-07",
     "teamId": "678",
     "competitionId": "CL"
   },
@@ -8892,101 +8982,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "189574",
-    "name": "Mika Godts",
-    "position": null,
-    "nationality": "Belgium",
-    "dateOfBirth": "2005-06-07",
-    "teamId": "678",
-    "competitionId": "CL"
-  },
-  {
-    "id": "188830",
-    "name": "Lucas Rosa",
-    "position": null,
-    "nationality": "Brazil",
-    "dateOfBirth": "2000-04-03",
-    "teamId": "678",
-    "competitionId": "CL"
-  },
-  {
-    "id": "184716",
-    "name": "Anton Gaaei",
-    "position": null,
-    "nationality": "Denmark",
-    "dateOfBirth": "2002-11-19",
-    "teamId": "678",
-    "competitionId": "CL"
-  },
-  {
-    "id": "157120",
-    "name": "Kian Fitz-Jim",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "2003-07-05",
-    "teamId": "678",
-    "competitionId": "CL"
-  },
-  {
-    "id": "156856",
-    "name": "Youri Baas",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "2003-03-17",
-    "teamId": "678",
-    "competitionId": "CL"
-  },
-  {
-    "id": "142087",
-    "name": "Youri Regeer",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "2003-08-18",
-    "teamId": "678",
-    "competitionId": "CL"
-  },
-  {
-    "id": "130053",
-    "name": "Oliver Edvardsen",
-    "position": null,
-    "nationality": "Norway",
-    "dateOfBirth": "1999-03-19",
-    "teamId": "678",
-    "competitionId": "CL"
-  },
-  {
     "id": "7889",
     "name": "Oleksandr Zinchenko",
     "position": null,
     "nationality": "Ukraine",
     "dateOfBirth": "1996-12-15",
-    "teamId": "678",
-    "competitionId": "CL"
-  },
-  {
-    "id": "7841",
-    "name": "Davy Klaassen",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "1993-02-21",
-    "teamId": "678",
-    "competitionId": "CL"
-  },
-  {
-    "id": "7679",
-    "name": "Owen Wijndal",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "1999-11-28",
-    "teamId": "678",
-    "competitionId": "CL"
-  },
-  {
-    "id": "7478",
-    "name": "Steven Berghuis",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "1991-12-19",
     "teamId": "678",
     "competitionId": "CL"
   },
