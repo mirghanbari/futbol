@@ -1,6 +1,7 @@
-// One-time backfill of LAST season's player stats for domestic leagues whose
-// current season has no finished matches yet (see Competition.hasFinishedMatches
-// and src/data/useLeague.ts's flip logic). Not part of the recurring ingest
+// One-time backfill of LAST season's player stats AND final standings (the
+// latter feeds the prediction engine's strength model, src/data/ratings.ts)
+// for domestic leagues whose current season has no finished matches yet (see
+// Competition.hasFinishedMatches and src/data/useLeague.ts's flip logic). Not part of the recurring ingest
 // cadence (update-data.yml) — run manually (`npm run ingest:fallback`)
 // whenever a league needs (re-)seeding. Safe to re-run: skips any
 // competition whose current season already has real finished matches, so it
@@ -17,7 +18,7 @@
 import { writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { COMPETITIONS } from "./competitions.mjs";
-import { PACE_MS, fetchFdJson, sleep as fdSleep, toMatch, toPlayers, toTeam } from "./football-data-shared.mjs";
+import { PACE_MS, fetchFdJson, sleep as fdSleep, toMatch, toPlayers, toStanding, toTeam } from "./football-data-shared.mjs";
 import {
   FOTMOB,
   FOTMOB_LEAGUE_IDS,
@@ -69,6 +70,18 @@ async function backfillCompetition(code) {
   console.log(`[${code}] fetching ${seasonYear} squads...`);
   const teamsRes = await fetchFdJson(`/competitions/${code}/teams?season=${seasonYear}`, apiKey);
   await fdSleep(PACE_MS);
+
+  // For the prediction engine's strength model (src/data/ratings.ts) — last
+  // season's final points/goals table, used as the ratings basis while this
+  // season has no finished matches of its own yet (never as a season
+  // baseline; see LeagueData.ratingsStandings' own comment for why that
+  // distinction matters).
+  console.log(`[${code}] fetching ${seasonYear} final standings...`);
+  const standingsRes = await fetchFdJson(`/competitions/${code}/standings?season=${seasonYear}`, apiKey);
+  await fdSleep(PACE_MS);
+  const standingsTable = standingsRes.standings.find((s) => s.type === "TOTAL") ?? standingsRes.standings[0];
+  const fallbackStandings = standingsTable ? standingsTable.table.map((entry) => toStanding(entry, code)) : [];
+  await writeFile(`${dir}fallback-standings.json`, JSON.stringify(fallbackStandings, null, 2) + "\n");
 
   const players = toPlayers(teamsRes, code);
   const teams = teamsRes.teams.map((t) => toTeam(t, code));

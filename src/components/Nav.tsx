@@ -84,6 +84,12 @@ export default function Nav() {
         >
           Table Races
         </NavLink>
+        <NavLink
+          to={`/predictions/${active}`}
+          className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
+        >
+          Predictions
+        </NavLink>
         <NavLink to="/favorites" className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}>
           ★ Your Teams
         </NavLink>

@@ -32,6 +32,8 @@
   --europa: #c9860f;
   --releg: #c23a3a;
   --danger: #e11d48;
+  --draw: #9aa79e;
+  --defense: #2f6fed;
   --radius: 16px;
   --radius-sm: 10px;
   --shadow: 0 10px 28px -16px rgba(15, 27, 20, 0.38);
@@ -394,11 +396,21 @@ th.num {
   padding: 0.9rem 1.1rem;
   margin-bottom: 0.6rem;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
   text-decoration: none;
   color: var(--ink);
+}
+
+/* Pre-match odds bar (ProbabilityBar) — forced onto its own full-width line
+   below the team rows/status regardless of viewport width, via flex-wrap on
+   the row above rather than a column layout (keeps the existing two-item
+   row markup/CSS untouched for matches with no odds to show). */
+.match-row-odds {
+  flex: 1 1 100%;
+  order: 3;
 }
 
 /* A full-card link layered BEHIND the row's own content (z-index 0) so the
@@ -729,7 +741,128 @@ tr.zone-releg-playoff {
   .hero h1 {
     font-size: 1.6rem;
   }
-  .match-row {
-    flex-wrap: wrap;
-  }
+}
+
+/* ---------- Win/draw/loss probability bar (src/components/ProbabilityBar.tsx) ---------- */
+.prob-bar-wrap {
+  width: 100%;
+  margin-top: 0.6rem;
+}
+
+.prob-bar {
+  display: flex;
+  width: 100%;
+  height: 6px;
+  border-radius: 999px;
+  overflow: hidden;
+  background: var(--hair);
+}
+
+.prob-md .prob-bar {
+  height: 8px;
+}
+
+.prob-seg {
+  height: 100%;
+}
+
+.prob-seg.prob-home {
+  background: var(--primary);
+}
+
+.prob-seg.prob-draw {
+  background: var(--draw);
+}
+
+.prob-seg.prob-away {
+  background: var(--gold);
+}
+
+.prob-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: var(--muted);
+  margin-top: 0.3rem;
+}
+
+.prob-md .prob-labels {
+  font-size: 0.78rem;
+}
+
+.prob-draw-label {
+  opacity: 0.8;
+}
+
+/* ---------- Predictions page ---------- */
+.rate-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--hair);
+}
+
+.rate-row:last-child {
+  border-bottom: none;
+}
+
+.rate-row-team {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 700;
+  width: 190px;
+  flex: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.rate-row-team:hover {
+  text-decoration: underline;
+}
+
+.rate-bar-track {
+  flex: 1;
+  height: 14px;
+  border-radius: 999px;
+  background: var(--hair);
+  overflow: hidden;
+}
+
+.rate-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary), var(--gold));
+  border-radius: 999px;
+}
+
+.rate-pct {
+  width: 48px;
+  flex: none;
+  text-align: right;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+.strength-card .strength-stat {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--muted);
+  margin-top: 0.4rem;
+}
+
+.strength-stat .rate-bar-track {
+  height: 8px;
+}
+
+.strength-stat.attack .rate-bar-fill {
+  background: var(--primary);
+}
+
+.strength-stat.defense .rate-bar-fill {
+  background: var(--defense);
 }

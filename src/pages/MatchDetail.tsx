@@ -1,8 +1,11 @@
+import { useMemo } from "react";
 import { Link, useParams } from "react-router-dom";
 import { matchById, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
+import { ProbabilityBar } from "../components/ProbabilityBar";
 import { applyLive, useLiveData } from "../data/live";
+import { computeRatings, expectedGoals, matchProbabilities } from "../data/ratings";
 import { useSeo } from "../data/seo";
 import type { Match, MatchAdvancedStats } from "../data/types";
 
@@ -95,6 +98,8 @@ export default function MatchDetail() {
         : undefined,
   });
 
+  const ratingsModel = useMemo(() => (data ? computeRatings(data.ratingsStandings) : null), [data]);
+
   if (error || loading) return <LeagueStatus error={error} loading={loading} />;
   if (!data) return null;
   if (!rawMatch || !match) return <p>Match not found.</p>;
@@ -102,6 +107,14 @@ export default function MatchDetail() {
   const isLive = match.status === "in-play" || match.status === "paused";
   const isHalfTime = match.status === "paused";
   const clock = isHalfTime ? "HT" : match.minute;
+
+  const odds =
+    match.status === "scheduled" && ratingsModel
+      ? (() => {
+          const xg = expectedGoals(ratingsModel, match.homeTeamId, match.awayTeamId);
+          return xg ? matchProbabilities(xg.home, xg.away) : null;
+        })()
+      : null;
 
   return (
     <div>
@@ -130,6 +143,20 @@ export default function MatchDetail() {
         {isLive && <span className="live-dot" aria-label="Live" />}
         {isLive && clock ? (isHalfTime ? clock : `${clock}'`) : match.status}
       </p>
+
+      {odds && (
+        <div className="card">
+          <h2 style={{ marginTop: 0 }}>Odds</h2>
+          <ProbabilityBar
+            home={odds.home}
+            draw={odds.draw}
+            away={odds.away}
+            homeLabel={home?.shortName ?? match.homeTeamId}
+            awayLabel={away?.shortName ?? match.awayTeamId}
+            size="md"
+          />
+        </div>
+      )}
 
       {match.stats && (
         <div className="card">

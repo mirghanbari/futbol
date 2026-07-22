@@ -13,6 +13,7 @@ import PlayerDetail from "./pages/PlayerDetail";
 import Stats from "./pages/Stats";
 import Knockout from "./pages/Knockout";
 import TableRaces from "./pages/TableRaces";
+import Predictions from "./pages/Predictions";
 import Favorites from "./pages/Favorites";
 import "./index.css";
 
@@ -32,6 +33,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
           <Route path="stats/:competitionId" element={<Stats />} />
           <Route path="knockout/:competitionId" element={<Knockout />} />
           <Route path="table-races/:competitionId" element={<TableRaces />} />
+          <Route path="predictions/:competitionId" element={<Predictions />} />
           <Route path="favorites" element={<Favorites />} />
         </Route>
       </Routes>

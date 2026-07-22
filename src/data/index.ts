@@ -21,6 +21,14 @@ export interface LeagueData {
   playerStats: PlayerSeasonStats[];
   statsSeason: string | null;
   isFallbackStats: boolean;
+  // Basis for the strength-rating/prediction engine (src/data/ratings.ts,
+  // predictions.ts) ONLY — `standings` itself when non-empty, else last
+  // season's final table (fallback-standings.json), gated the exact same way
+  // as players/playerStats above. Never use this as a season BASELINE (points
+  // to start simulating from) — it can be last season's final points total,
+  // not this season's actual (usually zero, pre-season) state; `standings` is
+  // still the real, current source of truth for that.
+  ratingsStandings: Standing[];
 }
 
 // Lazy-loaded per-competition JSON, one dynamic import per file — loading
@@ -40,6 +48,7 @@ const fallbackPlayerStatsGlob = import.meta.glob<{ default: PlayerSeasonStats[] 
   "./leagues/*/fallback-player-stats.json",
 );
 const fallbackMetaGlob = import.meta.glob<{ default: { season: string } }>("./leagues/*/fallback-meta.json");
+const fallbackStandingsGlob = import.meta.glob<{ default: Standing[] }>("./leagues/*/fallback-standings.json");
 
 const leagueCache = new Map<string, LeagueData>();
 const leagueLoading = new Map<string, Promise<LeagueData>>();
@@ -91,14 +100,22 @@ async function loadLeagueData(competitionId: string): Promise<LeagueData> {
     statsSeason = competition?.season ?? null;
   }
 
+  const standings = standingsMod.default;
+  const fallbackStandingsLoader = fallbackStandingsGlob[`./leagues/${competitionId}/fallback-standings.json`];
+  const ratingsStandings =
+    standings.length === 0 && fallbackStandingsLoader !== undefined
+      ? (await fallbackStandingsLoader()).default
+      : standings;
+
   return {
     teams: teamsMod.default,
     matches: matchesMod.default,
-    standings: standingsMod.default,
+    standings,
     players,
     playerStats,
     statsSeason,
     isFallbackStats: useFallback,
+    ratingsStandings,
   };
 }
 
