@@ -23,6 +23,39 @@ const POSITIONS: { value: Position; abbr: string; badgeClass: string }[] = [
   { value: "Forward", abbr: "FWD", badgeClass: "pos-fwd" },
 ];
 
+// Module-level, not nested inside Players() — a component declared inside
+// another component's body is a new function (and a new React element
+// type) on every parent render, which makes React unmount/remount it
+// instead of patching it. Here that would mean every keystroke in the
+// search box or filter click tearing down and rebuilding all 5 header
+// buttons, dropping keyboard focus along the way.
+function SortableHeader({
+  sortKey,
+  label,
+  sort,
+  onSort,
+  numeric = true,
+}: {
+  sortKey: SortKey;
+  label: string;
+  sort: SortKey;
+  onSort: (key: SortKey) => void;
+  numeric?: boolean;
+}) {
+  const active = sort === sortKey;
+  // Name sorts A→Z (ascending); every stat column sorts highest-first
+  // (descending) — see the comparator in Players() below.
+  const direction = sortKey === "name" ? "ascending" : "descending";
+  return (
+    <th className={numeric ? "num" : undefined} aria-sort={active ? direction : "none"}>
+      <button type="button" className={"sortable-header" + (active ? " sortable-active" : "")} onClick={() => onSort(sortKey)}>
+        {label}
+        {active ? " ▼" : ""}
+      </button>
+    </th>
+  );
+}
+
 export default function Players() {
   const { competitionId } = useParams();
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
@@ -62,21 +95,6 @@ export default function Players() {
     : [];
 
   const teams = data ? [...data.teams].sort((a, b) => a.name.localeCompare(b.name)) : [];
-
-  function SortableHeader({ sortKey, label, numeric = true }: { sortKey: SortKey; label: string; numeric?: boolean }) {
-    const active = sort === sortKey;
-    // Name sorts A→Z (ascending); every stat column sorts highest-first
-    // (descending) — see the comparator above.
-    const direction = sortKey === "name" ? "ascending" : "descending";
-    return (
-      <th className={numeric ? "num" : undefined} aria-sort={active ? direction : "none"}>
-        <button type="button" className={"sortable-header" + (active ? " sortable-active" : "")} onClick={() => setSort(sortKey)}>
-          {label}
-          {active ? " ▼" : ""}
-        </button>
-      </th>
-    );
-  }
 
   return (
     <div>
@@ -150,14 +168,14 @@ export default function Players() {
           <table>
             <thead>
               <tr>
-                <SortableHeader sortKey="name" label="Name" numeric={false} />
+                <SortableHeader sortKey="name" label="Name" numeric={false} sort={sort} onSort={setSort} />
                 <th>Team</th>
                 <th>Position</th>
                 <th>Nationality</th>
-                <SortableHeader sortKey="matchesPlayed" label="Apps" />
-                <SortableHeader sortKey="goals" label="Goals" />
-                <SortableHeader sortKey="assists" label="Assists" />
-                <SortableHeader sortKey="minutes" label="Min" />
+                <SortableHeader sortKey="matchesPlayed" label="Apps" sort={sort} onSort={setSort} />
+                <SortableHeader sortKey="goals" label="Goals" sort={sort} onSort={setSort} />
+                <SortableHeader sortKey="assists" label="Assists" sort={sort} onSort={setSort} />
+                <SortableHeader sortKey="minutes" label="Min" sort={sort} onSort={setSort} />
               </tr>
             </thead>
             <tbody>
@@ -166,7 +184,13 @@ export default function Players() {
                 const stats = statsForPlayer(data!, p.id);
                 const posInfo = p.position ? POSITIONS.find((x) => x.value === p.position) : undefined;
                 return (
-                  <tr key={p.id}>
+                  // `p.id` alone isn't reliably unique: a mid-transfer-window
+                  // player can appear twice in data.players with the same id
+                  // under two different teamIds (a confirmed upstream
+                  // football-data.org quirk, see PROGRESS.md) — team is the
+                  // part that actually differs between those rows, so it's
+                  // included here to keep the key unique.
+                  <tr key={`${p.id}-${p.teamId}`}>
                     <td>
                       <Link to={`/players/${competitionId}/${p.id}`} style={{ fontWeight: 700, textDecoration: "none" }}>
                         {p.name}

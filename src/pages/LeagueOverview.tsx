@@ -79,7 +79,11 @@ function GoalsByMatchday({ matches }: { matches: Match[] }) {
   const rows = goalsByMatchday(matches);
   if (rows.length === 0) return null;
   const visible = expanded ? rows : rows.slice(-RECENT_MATCHDAYS);
-  const max = Math.max(...visible.map((r) => r.goals));
+  // Scaled against the season's max, not just the visible slice's — so a
+  // bar's width means the same thing whether the chart is collapsed or
+  // expanded, and clicking "View all" doesn't visibly rescale bars that
+  // were already on screen.
+  const max = Math.max(...rows.map((r) => r.goals));
 
   return (
     <div className="card" style={{ padding: "1.1rem 1.1rem 0.6rem" }}>
