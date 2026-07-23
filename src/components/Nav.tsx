@@ -30,7 +30,7 @@ export default function Nav() {
         <select
           className="competition-select"
           value={active}
-          onChange={(e) => navigate(`/standings/${e.target.value}`)}
+          onChange={(e) => navigate(`/overview/${e.target.value}`)}
           aria-label="Switch competition"
         >
           {competitions.map((c) => (
@@ -42,6 +42,12 @@ export default function Nav() {
       )}
 
       <div className="nav-links">
+        <NavLink
+          to={`/overview/${active}`}
+          className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
+        >
+          Overview
+        </NavLink>
         <NavLink
           to={`/standings/${active}`}
           className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}

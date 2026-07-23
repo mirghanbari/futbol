@@ -223,7 +223,7 @@ h2 {
   letter-spacing: -0.01em;
 }
 
-/* ---------- Hero (Overview only) ---------- */
+/* ---------- Hero (root Overview + per-league Overview) ---------- */
 .hero {
   margin-top: 0.5rem;
   border-radius: 20px;
@@ -859,6 +859,44 @@ tr.zone-releg-playoff {
 
 .prob-draw-label {
   opacity: 0.8;
+}
+
+/* ---------- Goals-by-matchday bar chart (LeagueOverview) ---------- */
+.bar-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.35rem 0;
+}
+
+.bar-label {
+  width: 4.2rem;
+  flex: none;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--muted);
+}
+
+.bar-track {
+  flex: 1;
+  height: 8px;
+  border-radius: 999px;
+  background: var(--hair);
+  overflow: hidden;
+}
+
+.bar-fill {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: var(--primary);
+}
+
+.bar-value {
+  width: 1.6rem;
+  flex: none;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
 }
 
 /* ---------- Predictions page ---------- */

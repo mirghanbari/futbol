@@ -27,7 +27,7 @@ export default function Overview() {
 
       <div className="team-grid" style={{ marginTop: "1.5rem" }}>
         {competitions.map((c) => (
-          <Link className="team-card team-card-link" to={`/standings/${c.id}`} key={c.id}>
+          <Link className="team-card team-card-link" to={`/overview/${c.id}`} key={c.id}>
             <CompetitionLogo competition={c} />
             <span>
               <strong>{c.name}</strong>

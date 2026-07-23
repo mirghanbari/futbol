@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import App from "./App";
 import Overview from "./pages/Overview";
+import LeagueOverview from "./pages/LeagueOverview";
 import Standings from "./pages/Standings";
 import Matches from "./pages/Matches";
 import MatchDetail from "./pages/MatchDetail";
@@ -23,6 +24,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
       <Routes>
         <Route path="/" element={<App />}>
           <Route index element={<Overview />} />
+          <Route path="overview/:competitionId" element={<LeagueOverview />} />
           <Route path="standings/:competitionId" element={<Standings />} />
           <Route path="matches/:competitionId" element={<Matches />} />
           <Route path="matches/:competitionId/:matchId" element={<MatchDetail />} />
