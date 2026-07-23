@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { ageFrom, matchesByTeam, playersByTeam, statsForPlayer, teamById } from "../data";
+import { ageFrom, isSeasonNotStarted, matchesByTeam, playersByTeam, statsForPlayer, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import type { Player, Position } from "../data/types";
@@ -91,7 +91,12 @@ export default function TeamDetail() {
   const squad = teamId ? playersByTeam(data, teamId) : [];
   const squadByPosition = groupByPosition(squad);
 
-  const standing = teamId ? data.standings.find((s) => s.id === teamId) : undefined;
+  // See isSeasonNotStarted's own comment (src/data/index.ts) for why: a
+  // not-yet-started season can still have a real, non-empty standings row
+  // for this team (position 1, 0 games played) rather than no row at all,
+  // which would otherwise render a misleading "1st place" tile with a
+  // qualification-zone badge.
+  const standing = teamId && !isSeasonNotStarted(competition) ? data.standings.find((s) => s.id === teamId) : undefined;
   const isLeaguePhase = competitionId === "CL";
   const zone = standing
     ? isLeaguePhase

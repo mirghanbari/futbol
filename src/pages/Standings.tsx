@@ -1,4 +1,5 @@
 import { Link, useParams } from "react-router-dom";
+import { isSeasonNotStarted } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { useSeo } from "../data/seo";
@@ -8,6 +9,11 @@ export default function Standings() {
   const { competitionId } = useParams();
   const { competition, data, error, loading, isPriorSeason } = useCompetitionPage(competitionId);
   const isLeaguePhase = competitionId === "CL";
+  // See isSeasonNotStarted's own comment (src/data/index.ts) for why a
+  // non-empty standings table still isn't safe to render as a ranked table
+  // before a season has actually kicked off.
+  const seasonNotStarted = isSeasonNotStarted(competition);
+  const hasStandings = Boolean(data && data.standings.length > 0 && !seasonNotStarted);
 
   useSeo({
     title: `${competition?.name ?? competitionId ?? "Standings"} Standings`,
@@ -38,7 +44,7 @@ export default function Standings() {
         </p>
       )}
 
-      {data && (
+      {hasStandings && data && (
         <div className="card">
           <table>
             <thead>
@@ -92,7 +98,10 @@ export default function Standings() {
           </table>
         </div>
       )}
-      {data && data.standings.length === 0 && (
+      {data && !hasStandings && seasonNotStarted && (
+        <p>The season hasn't started yet — check back once matches have been played.</p>
+      )}
+      {data && !hasStandings && !seasonNotStarted && (
         <p>No standings data yet for this competition — run `npm run ingest`.</p>
       )}
     </div>

@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { teamById } from "../data";
+import { isSeasonNotStarted, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { raceStatus, type TeamRaceRow, type ZoneStatus } from "../data/raceStatus";
@@ -77,6 +77,11 @@ export default function TableRaces() {
   const { competitionId } = useParams();
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
   const zones = competitionId ? zonesFor(competitionId) : [];
+  // See isSeasonNotStarted's own comment (src/data/index.ts) for why: an
+  // all-zero standings table would make every zone's "Alive" status and
+  // points/GP columns equally meaningless for every team.
+  const seasonNotStarted = isSeasonNotStarted(competition);
+  const hasStandings = Boolean(data && data.standings.length > 0 && !seasonNotStarted);
 
   useSeo({
     title: `${competition?.name ?? competitionId ?? "Table Races"} Table Races`,
@@ -97,11 +102,14 @@ export default function TableRaces() {
         <p>{competition?.name ?? "This competition"} doesn't have table-race zones tracked.</p>
       )}
 
-      {data && zones.length > 0 && data.standings.length === 0 && (
+      {data && zones.length > 0 && !hasStandings && seasonNotStarted && (
+        <p>The season hasn't started yet — check back once matches have been played.</p>
+      )}
+      {data && zones.length > 0 && !hasStandings && !seasonNotStarted && (
         <p>No standings data yet for this competition — run `npm run ingest`.</p>
       )}
 
-      {data && zones.length > 0 && data.standings.length > 0 && (
+      {data && zones.length > 0 && hasStandings && (
         <>
           <p style={{ opacity: 0.7, fontSize: "0.85rem" }}>
             Clinched/Out are mathematically certain from points and games remaining alone (a magic-number

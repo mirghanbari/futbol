@@ -29,6 +29,13 @@ export interface LeagueData {
   // not this season's actual (usually zero, pre-season) state; `standings` is
   // still the real, current source of truth for that.
   ratingsStandings: Standing[];
+  // True when ratingsStandings is actually the fallback table (last
+  // season's), not this season's `standings` — use this for any "seeded
+  // from last season" vs "from this season's results" label instead of
+  // re-deriving it from `standings.length`, which misses the case where
+  // `standings` is non-empty but every row is still tied at 0 games played
+  // (season not started, but football-data.org still returned a table).
+  isFallbackRatings: boolean;
 }
 
 // Lazy-loaded per-competition JSON, one dynamic import per file — loading
@@ -102,10 +109,19 @@ async function loadLeagueData(competitionId: string): Promise<LeagueData> {
 
   const standings = standingsMod.default;
   const fallbackStandingsLoader = fallbackStandingsGlob[`./leagues/${competitionId}/fallback-standings.json`];
-  const ratingsStandings =
-    standings.length === 0 && fallbackStandingsLoader !== undefined
-      ? (await fallbackStandingsLoader()).default
-      : standings;
+  // Before a season kicks off, football-data.org's standings response can be
+  // a real, non-empty table where every team is tied at 0 points/games
+  // played (confirmed on real data — Serie A, Ligue 1, others), not just an
+  // empty one — computeRatings() filters to playedGames > 0, so an all-zero
+  // table silently produces an EMPTY model (no ratings, Predictions page
+  // renders blank) instead of falling back to last season's real table like
+  // it correctly does when standings.json is literally empty (PL, La Liga,
+  // etc). Gated on the same hasFinishedMatches flag as `useFallback` above,
+  // not reusing that flag directly since it also depends on the player-
+  // fallback files existing, which is a separate concern from this one.
+  const isFallbackRatings =
+    (standings.length === 0 || isSeasonNotStarted(competition)) && fallbackStandingsLoader !== undefined;
+  const ratingsStandings = isFallbackRatings ? (await fallbackStandingsLoader!()).default : standings;
 
   return {
     teams: teamsMod.default,
@@ -116,6 +132,7 @@ async function loadLeagueData(competitionId: string): Promise<LeagueData> {
     statsSeason,
     isFallbackStats: useFallback,
     ratingsStandings,
+    isFallbackRatings,
   };
 }
 
@@ -190,4 +207,16 @@ export function isPriorSeasonCompetition(competition: Competition): boolean {
   if (competition.id !== "CL") return false;
   const domesticSeason = competitions.find((c) => c.id !== "CL")?.season;
   return domesticSeason !== undefined && competition.season !== domesticSeason;
+}
+
+// Before a season kicks off, football-data.org's standings response can be a
+// real, non-empty table where every team is tied at 0 points/games played
+// (confirmed on real data — Serie A, Ligue 1, others), not just an empty
+// one. Standings.tsx, TableRaces.tsx, and TeamDetail.tsx all use this to
+// avoid rendering that all-zero table as if it were meaningful (everyone
+// "1st place", every row getting a qualification-zone badge); loadLeagueData
+// above uses the same flag to decide whether ratingsStandings needs the
+// last-season fallback too.
+export function isSeasonNotStarted(competition: Competition | undefined): boolean {
+  return competition ? !competition.hasFinishedMatches : false;
 }

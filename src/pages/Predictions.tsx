@@ -112,7 +112,7 @@ export default function Predictions() {
         <>
           <p style={{ opacity: 0.7, fontSize: "0.85rem" }}>
             A simplified Poisson attack/defense model (
-            {data.standings.length === 0 ? "seeded from last season's final table" : "from this season's results so far"}
+            {data.isFallbackRatings ? "seeded from last season's final table" : "from this season's results so far"}
             ), simulated over 3,000 Monte Carlo trials of the remaining fixtures. Doesn't model head-to-head
             tiebreakers or a per-team home/away split — a deliberate simplification, not a claim of bookmaker-grade
             precision.
