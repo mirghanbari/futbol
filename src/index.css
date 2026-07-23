@@ -411,7 +411,11 @@ th.num {
    wide viewports — rather than one full-width row per fixture). ---------- */
 .matches-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  /* auto-fill, not auto-fit: auto-fit collapses empty tracks, which makes a
+     lone card in a day (e.g. a single Friday-night fixture) stretch across
+     the whole row. auto-fill keeps the empty tracks, so a lone card stays
+     at its natural ~300px width instead. */
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 0.85rem;
 }
 
@@ -443,6 +447,12 @@ th.num {
 
 .match-card-live .match-status {
   color: var(--danger);
+}
+
+.match-card-venue {
+  margin: 0.5rem 0 0;
+  font-size: 0.78rem;
+  color: var(--muted);
 }
 
 .match-card-odds {
@@ -570,6 +580,26 @@ th.num {
   font-size: 0.88rem;
   font-weight: 600;
   margin: -0.5rem 0 1.5rem;
+}
+
+.broadcasts {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: -1rem 0 1.5rem;
+}
+
+.broadcast-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  background: var(--hair);
+  color: var(--ink);
 }
 
 /* ---------- Team / stat grids ---------- */

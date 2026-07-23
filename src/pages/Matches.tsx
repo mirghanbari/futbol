@@ -135,6 +135,7 @@ export default function Matches() {
                       <span style={{ marginLeft: "auto" }}>{goalsLabel(match.awayTeam.goals, match)}</span>
                     </div>
                   </div>
+                  {match.venue && <p className="match-card-venue">{match.venue}</p>}
                   {match.status === "scheduled" &&
                     oddsByMatchId.has(match.id) &&
                     (() => {

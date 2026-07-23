@@ -6,16 +6,12 @@
 // match data so scores update without a full data rebuild.
 //
 // ESPN and football-data.org don't share match IDs, so matches are joined by
-// competition + calendar day + normalized team name (folding diacritics,
-// stripping club-suffix words like FC/AFC/CF so "AFC Bournemouth" vs
-// "Bournemouth" still match). That closes most of the gap, but a real check
-// against every team in all 9 competitions (see ALIASES below) turned up ~50
-// genuine naming mismatches beyond what normalization can fix — football-data
-// uses full legal names ("Real Racing Club de Santander", "Sport Lisboa e
-// Benfica"), ESPN uses short common ones ("Racing Santander", "Benfica").
-// ALIASES maps football-data's exact name to ESPN's exact displayName for
-// every club that needed it; anything still unmatched at runtime is logged,
-// never guessed at.
+// normalized team name (folding diacritics, stripping club-suffix words like
+// FC/AFC/CF so "AFC Bournemouth" vs "Bournemouth" still match) — see
+// espn-shared.mjs's ALIASES for the ~50 genuine naming mismatches
+// normalization alone can't fix, and its findEspnEvent for the join itself
+// (shared with ingest-espn-schedule.mjs). Effectively also scoped to today
+// here, since fetchScoreboard is only ever called for today's date.
 //
 // Deliberately NOT the full ESPN ingest world-cup uses (teams/rosters/full
 // fixture list) — football-data.org already owns that here. This script only
@@ -23,110 +19,13 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { COMPETITIONS } from "./competitions.mjs";
-import { normalizeTeamName } from "./name-match.mjs";
+import { ALIASES, ESPN_SLUGS, fetchScoreboard, findEspnEvent, normalizeName } from "./espn-shared.mjs";
 
 const DATA_DIR = fileURLToPath(new URL("../src/data/", import.meta.url));
 const PUBLIC_DIR = fileURLToPath(new URL("../public/", import.meta.url));
 
-const ESPN_SLUGS = {
-  PL: "eng.1",
-  ELC: "eng.2",
-  PD: "esp.1",
-  BL1: "ger.1",
-  SA: "ita.1",
-  FL1: "fra.1",
-  DED: "ned.1",
-  PPL: "por.1",
-  CL: "uefa.champions",
-};
-
-// football-data.org name -> ESPN displayName, for clubs normalization alone
-// can't bridge. Global (not per-competition) since the same club's
-// football-data name is identical whether it's playing in its domestic
-// league or the Champions League. Verified against ESPN's live team lists
-// for all 9 competitions (2026-07-20).
-const ALIASES = {
-  // Bundesliga
-  "FC Bayern München": "Bayern Munich",
-  "1. FSV Mainz 05": "Mainz",
-  "SV 07 Elversberg": "SV Elversberg",
-  "Bayer 04 Leverkusen": "Bayer Leverkusen",
-  "1. FC Köln": "FC Cologne",
-  "TSG 1899 Hoffenheim": "TSG Hoffenheim",
-  "Hamburger SV": "Hamburg SV",
-  // La Liga
-  "Real Racing Club de Santander": "Racing Santander",
-  "RCD Espanyol de Barcelona": "Espanyol",
-  "Rayo Vallecano de Madrid": "Rayo Vallecano",
-  "Deportivo Alavés": "Alavés",
-  "CA Osasuna": "Osasuna",
-  "Real Betis Balompié": "Real Betis",
-  // Serie A
-  "Como 1907": "Como",
-  "FC Internazionale Milano": "Internazionale",
-  "Genoa CFC": "Genoa",
-  "Parma Calcio 1913": "Parma",
-  "US Lecce": "Lecce",
-  "Atalanta BC": "Atalanta",
-  "US Sassuolo Calcio": "Sassuolo",
-  "Bologna FC 1909": "Bologna",
-  "ACF Fiorentina": "Fiorentina",
-  // Ligue 1
-  "Angers SCO": "Angers",
-  "ES Troyes AC": "Troyes",
-  "Lille OSC": "Lille",
-  "OGC Nice": "Nice",
-  "Olympique Lyonnais": "Lyon",
-  "Olympique de Marseille": "Marseille",
-  "RC Strasbourg Alsace": "Strasbourg",
-  "Racing Club de Lens": "Lens",
-  "Stade Brestois 29": "Brest",
-  "Stade Rennais FC 1901": "Stade Rennais",
-  // Eredivisie
-  "AFC Ajax": "Ajax Amsterdam",
-  "AZ": "AZ Alkmaar",
-  "FC Twente '65": "FC Twente",
-  "NEC": "NEC Nijmegen",
-  "PSV": "PSV Eindhoven",
-  "SBV Excelsior": "Excelsior",
-  "SC Cambuur-Leeuwarden": "SC Cambuur",
-  "Telstar 1963": "Telstar",
-  "Willem II Tilburg": "Willem II",
-  // Primeira Liga
-  "CD Nacional": "C.D. Nacional",
-  "Vitória SC": "Vitória de Guimaraes",
-  "Sporting Clube de Braga": "Braga",
-  "CF Estrela da Amadora": "Estrela",
-  "Sporting Clube de Portugal": "Sporting CP",
-  "Sport Lisboa e Benfica": "Benfica",
-  "CS Marítimo": "Maritimo",
-  "GD Estoril Praia": "Estoril",
-  // Champions League only (clubs outside our 8 domestic leagues)
-  "PAE Olympiakos SFP": "Olympiacos",
-  "Club Brugge KV": "Club Brugge",
-  "Galatasaray SK": "Galatasaray",
-  "Qarabağ Ağdam FK": "FK Qarabag",
-  "FK Bodø/Glimt": "Bodo/Glimt",
-  "Paphos FC": "Pafos",
-  "Royale Union Saint-Gilloise": "Union St.-Gilloise",
-  "FC København": "F.C. København",
-  "SK Slavia Praha": "Slavia Prague",
-  "FK Kairat": "Kairat Almaty",
-};
-
-const normalizeName = normalizeTeamName;
-
 function todayUTC() {
   return new Date().toISOString().slice(0, 10).replace(/-/g, "");
-}
-
-async function fetchScoreboard(slug) {
-  const res = await fetch(
-    `https://site.api.espn.com/apis/site/v2/sports/soccer/${slug}/scoreboard?dates=${todayUTC()}`,
-    { signal: AbortSignal.timeout(15000) },
-  );
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return res.json();
 }
 
 function toStatus(type) {
@@ -158,7 +57,7 @@ async function ingestLiveForCompetition(code) {
 
   let events;
   try {
-    const sb = await fetchScoreboard(slug);
+    const sb = await fetchScoreboard(slug, todayUTC());
     events = sb.events ?? [];
   } catch (err) {
     console.warn(`[${code}] ESPN scoreboard fetch failed: ${err.message}`);
@@ -170,19 +69,8 @@ async function ingestLiveForCompetition(code) {
     const home = teamById.get(match.homeTeamId);
     const away = teamById.get(match.awayTeamId);
     if (!home || !away) continue;
-    const homeNorm = normalizeName(ALIASES[home.name] ?? home.name);
-    const awayNorm = normalizeName(ALIASES[away.name] ?? away.name);
 
-    const event = events.find((e) => {
-      const comps = e.competitions?.[0]?.competitors ?? [];
-      const eHome = comps.find((c) => c.homeAway === "home");
-      const eAway = comps.find((c) => c.homeAway === "away");
-      if (!eHome || !eAway) return false;
-      return (
-        normalizeName(eHome.team?.displayName ?? "") === homeNorm &&
-        normalizeName(eAway.team?.displayName ?? "") === awayNorm
-      );
-    });
+    const event = findEspnEvent(events, home.name, away.name, today);
 
     if (!event) {
       console.warn(`[${code}] no ESPN match found for ${home.name} vs ${away.name} today`);

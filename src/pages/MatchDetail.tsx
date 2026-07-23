@@ -143,6 +143,16 @@ export default function MatchDetail() {
         {isLive && <span className="live-dot" aria-label="Live" />}
         {isLive && clock ? (isHalfTime ? clock : `${clock}'`) : match.status}
       </p>
+      {match.venue && <p className="match-meta">{match.venue}</p>}
+      {match.broadcasts && match.broadcasts.length > 0 && (
+        <p className="broadcasts">
+          {match.broadcasts.map((b) => (
+            <span className="broadcast-badge" key={`${b.kind}-${b.name}`}>
+              {b.kind === "streaming" ? "▶" : "📺"} {b.name}
+            </span>
+          ))}
+        </p>
+      )}
 
       {odds && (
         <div className="card">

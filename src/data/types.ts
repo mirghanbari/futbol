@@ -96,6 +96,16 @@ export interface Match {
   awayTeamId: string;
   homeTeam: MatchTeamStats;
   awayTeam: MatchTeamStats;
+  // Sourced from ESPN's scoreboard API (scripts/ingest-espn-schedule.mjs),
+  // not football-data.org — the latter's own `venue` field is always null
+  // on this plan (confirmed even on a finished match). "Stadium, City" —
+  // no country, to avoid repeating it on every card within a domestic
+  // league. Absent when the ESPN join fails for a given match.
+  venue?: string | null;
+  // US TV/streaming rightsholders for this match, from the same ESPN
+  // source. Sparse for fixtures far in the future — ESPN assigns these
+  // closer to matchday — dense for decided/finished ones.
+  broadcasts?: { name: string; kind: "tv" | "streaming" }[];
   // ESPN's live display clock (e.g. "23", "45+2"), overlaid client-side by
   // src/data/live.ts. Absent from the football-data.org-sourced build data;
   // only ever present after a live.json patch is applied.

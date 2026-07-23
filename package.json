@@ -9,12 +9,13 @@
     "build": "tsc --noEmit && vite build && cp dist/index.html dist/404.html",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
-    "ingest": "node scripts/ingest-football-data.mjs",
+    "ingest": "node --env-file-if-exists=.env scripts/ingest-football-data.mjs",
     "ingest:live": "node scripts/ingest-espn-live.mjs",
     "ingest:live:check": "node scripts/ingest-espn-live.mjs --check",
     "ingest:fotmob": "node scripts/ingest-fotmob.mjs",
     "ingest:fotmob:check": "node scripts/ingest-fotmob.mjs --check",
-    "ingest:fallback": "node scripts/ingest-fotmob-fallback.mjs"
+    "ingest:fallback": "node --env-file-if-exists=.env scripts/ingest-fotmob-fallback.mjs",
+    "ingest:espn-schedule": "node scripts/ingest-espn-schedule.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",
