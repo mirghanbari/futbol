@@ -1,1 +1,4241 @@
-[]
+[
+  {
+    "id": "178669",
+    "name": "Guillaume Restes",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2005-03-11",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "274174",
+    "name": "Mathys Niflore",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2007-03-02",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "24190",
+    "name": "Rasmus Nicolaisen",
+    "position": "Defender",
+    "nationality": "Denmark",
+    "dateOfBirth": "1997-03-16",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "77803",
+    "name": "Mark McKenzie",
+    "position": "Defender",
+    "nationality": "USA",
+    "dateOfBirth": "1999-02-25",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "150797",
+    "name": "Charlie Cresswell",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "2002-08-17",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "204253",
+    "name": "Ilyes Aradj",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2005-06-05",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "250994",
+    "name": "Rafik Messali",
+    "position": "Defender",
+    "nationality": "Algeria",
+    "dateOfBirth": "2003-04-28",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "264401",
+    "name": "Dayann Methalie",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-02-15",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "283252",
+    "name": "Seny Koumbassa",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2007-06-20",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "9455",
+    "name": "Niklas Schmidt",
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "dateOfBirth": "1998-03-01",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "81229",
+    "name": "Cristian Cásseres Jr.",
+    "position": "Midfielder",
+    "nationality": "Venezuela",
+    "dateOfBirth": "2000-01-20",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "121896",
+    "name": "Francis Abu",
+    "position": "Midfielder",
+    "nationality": "Ghana",
+    "dateOfBirth": "2001-04-27",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "192688",
+    "name": "Aron Dönnum",
+    "position": "Midfielder",
+    "nationality": "Norway",
+    "dateOfBirth": "1998-04-20",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "216718",
+    "name": "Mário Sauer",
+    "position": "Midfielder",
+    "nationality": "Slovakia",
+    "dateOfBirth": "2004-05-15",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "260272",
+    "name": "Mathis Saka",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2006-09-20",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "283443",
+    "name": "Alexis Vossah",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2008-03-11",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "80175",
+    "name": "Yann Gboho",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2001-01-14",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "182406",
+    "name": "Jacen Russell-Rowe",
+    "position": "Forward",
+    "nationality": "Canada",
+    "dateOfBirth": "2002-09-13",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "191371",
+    "name": "Santiago Hidalgo",
+    "position": "Forward",
+    "nationality": "Argentina",
+    "dateOfBirth": "2005-02-17",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "283251",
+    "name": "Enzo Faty",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2007-03-09",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "285243",
+    "name": "Julián Vignolo",
+    "position": "Forward",
+    "nationality": "Argentina",
+    "dateOfBirth": "2006-12-07",
+    "teamId": "511",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "731",
+    "name": "Grégoire Coudert",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "1999-04-03",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "263957",
+    "name": "Noah Jauny",
+    "position": "Goalkeeper",
+    "nationality": "Ireland",
+    "dateOfBirth": "2004-08-26",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "441",
+    "name": "Brendan Chardonnet",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1994-12-22",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8778",
+    "name": "Kenny Lala",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1991-10-03",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "171659",
+    "name": "Bradley Locko",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2002-05-06",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "227982",
+    "name": "Luc Zogbe",
+    "position": "Defender",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2005-03-24",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "273433",
+    "name": "Raphaël Le Guen",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-09-01",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "274570",
+    "name": "Justin Bourgault",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2005-09-14",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8465",
+    "name": "Lucas Tousart",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1997-04-29",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "76145",
+    "name": "Hugo Magnetti",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1998-05-30",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "125677",
+    "name": "Joris Chotard",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2001-09-24",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "175942",
+    "name": "Kamory Doumbia",
+    "position": "Midfielder",
+    "nationality": "Mali",
+    "dateOfBirth": "2003-02-18",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "276983",
+    "name": "Hamidou Makalou",
+    "position": "Midfielder",
+    "nationality": "Mali",
+    "dateOfBirth": "2006-07-15",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "723",
+    "name": "Ludovic Ajorque",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1994-02-25",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "856",
+    "name": "Romain Del Castillo",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1996-03-29",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "43707",
+    "name": "Mama Baldé",
+    "position": "Forward",
+    "nationality": "Guinea-Bissau",
+    "dateOfBirth": "1995-11-06",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "191108",
+    "name": "Axel Camblan",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2025-06-30",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "218249",
+    "name": "Pathé Mboup",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "dateOfBirth": "2003-10-19",
+    "teamId": "512",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "6",
+    "name": "Géronimo Rulli",
+    "position": "Goalkeeper",
+    "nationality": "Argentina",
+    "dateOfBirth": "1992-05-20",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "67880",
+    "name": "Jeffrey De Lange",
+    "position": "Goalkeeper",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1998-04-01",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "178114",
+    "name": "Jelle Van Neck",
+    "position": "Goalkeeper",
+    "nationality": "Belgium",
+    "dateOfBirth": "2004-03-07",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "238",
+    "name": "Ulisses Garcia",
+    "position": "Defender",
+    "nationality": "Switzerland",
+    "dateOfBirth": "1996-01-11",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "7809",
+    "name": "Emerson",
+    "position": "Defender",
+    "nationality": "Italy",
+    "dateOfBirth": "1994-08-03",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "46125",
+    "name": "Facundo Medina",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "dateOfBirth": "1999-05-28",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "81191",
+    "name": "Nayef Aguerd",
+    "position": "Defender",
+    "nationality": "Morocco",
+    "dateOfBirth": "1996-03-30",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "82020",
+    "name": "Leonardo Balerdi",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "dateOfBirth": "1999-01-26",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "113228",
+    "name": "Derek Cornelius",
+    "position": "Defender",
+    "nationality": "Canada",
+    "dateOfBirth": "1997-11-25",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "179596",
+    "name": "Bamo Meité",
+    "position": "Defender",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2001-06-20",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "179721",
+    "name": "CJ Egan-Riley",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "2003-01-02",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "7910",
+    "name": "Angel Gomes",
+    "position": "Midfielder",
+    "nationality": "England",
+    "dateOfBirth": "2000-08-31",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8093",
+    "name": "Pierre Emile Højbjerg",
+    "position": "Midfielder",
+    "nationality": "Denmark",
+    "dateOfBirth": "1995-08-05",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8492",
+    "name": "Tim Weah",
+    "position": "Midfielder",
+    "nationality": "USA",
+    "dateOfBirth": "2000-02-22",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "33149",
+    "name": "Geoffrey Kondogbia",
+    "position": "Midfielder",
+    "nationality": "Central African Republic",
+    "dateOfBirth": "1993-02-15",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "80754",
+    "name": "Himad Abdelli",
+    "position": "Midfielder",
+    "nationality": "Algeria",
+    "dateOfBirth": "1999-11-17",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "97536",
+    "name": "Quinten Timber",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2001-06-17",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "183544",
+    "name": "Tochukwu Nadi",
+    "position": "Midfielder",
+    "nationality": "Nigeria",
+    "dateOfBirth": "2003-06-30",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3714",
+    "name": "Amine Harit",
+    "position": "Forward",
+    "nationality": "Morocco",
+    "dateOfBirth": "1997-06-18",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "4443",
+    "name": "Neal Maupay",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1996-08-14",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8476",
+    "name": "Amine Gouiri",
+    "position": "Forward",
+    "nationality": "Algeria",
+    "dateOfBirth": "2000-02-16",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "119703",
+    "name": "Igor Paixão",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2000-06-28",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "144651",
+    "name": "Faris Moumbagna",
+    "position": "Forward",
+    "nationality": "Cameroon",
+    "dateOfBirth": "2000-07-01",
+    "teamId": "516",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "16925",
+    "name": "Paul Nardi",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "1994-05-18",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "131150",
+    "name": "Mamadou Diop",
+    "position": "Goalkeeper",
+    "nationality": "Mauritania",
+    "dateOfBirth": "2000-01-03",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "255520",
+    "name": "Louis Mezerette",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2006-08-30",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "2402",
+    "name": "Francisco Sierralta",
+    "position": "Defender",
+    "nationality": "Chile",
+    "dateOfBirth": "1997-05-06",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "124243",
+    "name": "Bryan Okoh",
+    "position": "Defender",
+    "nationality": "Switzerland",
+    "dateOfBirth": "2003-05-16",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "141637",
+    "name": "Sinaly Diomandé",
+    "position": "Defender",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2001-04-09",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "153924",
+    "name": "Marvin Senaya",
+    "position": "Defender",
+    "nationality": "Ghana",
+    "dateOfBirth": "2001-01-28",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "154108",
+    "name": "Fredrik Oppegard",
+    "position": "Defender",
+    "nationality": "Norway",
+    "dateOfBirth": "2002-08-07",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "177412",
+    "name": "Lamine Sy",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2002-08-10",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "185194",
+    "name": "Clement Akpa",
+    "position": "Defender",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2001-11-24",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "206881",
+    "name": "Christ Makosso",
+    "position": "Defender",
+    "nationality": "Congo",
+    "dateOfBirth": "2004-05-09",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "254867",
+    "name": "Sekou Fofana",
+    "position": "Defender",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2003-03-25",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "277960",
+    "name": "Telli Siwe",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2004-12-14",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "281100",
+    "name": "Elikya Legros",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2008-06-06",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "286281",
+    "name": "Alvin Petit Dol",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-11-07",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3631",
+    "name": "Assane Dioussé",
+    "position": "Midfielder",
+    "nationality": "Senegal",
+    "dateOfBirth": "1997-09-20",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8470",
+    "name": "Elisha Owusu",
+    "position": "Midfielder",
+    "nationality": "Ghana",
+    "dateOfBirth": "1997-11-07",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8762",
+    "name": "Romain Faivre",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1998-07-14",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "131752",
+    "name": "Naouirou Ahamada",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2002-03-29",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "175724",
+    "name": "Kevin Danois",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2004-06-28",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "191991",
+    "name": "Arthur Piedfort",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "dateOfBirth": "2005-02-01",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "281104",
+    "name": "Tidiane Devernois",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2007-10-18",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "4289",
+    "name": "Daniel Namaso",
+    "position": "Forward",
+    "nationality": "Cameroon",
+    "dateOfBirth": "2000-08-28",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "83162",
+    "name": "Eros Maddy",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2001-02-05",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "113229",
+    "name": "Theo Bair",
+    "position": "Forward",
+    "nationality": "Canada",
+    "dateOfBirth": "1999-08-27",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "152737",
+    "name": "Josué Casimir",
+    "position": "Forward",
+    "nationality": "Haiti",
+    "dateOfBirth": "2001-09-24",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "170396",
+    "name": "Lasso Coulibaly",
+    "position": "Forward",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2002-10-19",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "270290",
+    "name": "Aristide Zossou",
+    "position": "Forward",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2005-06-14",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "275829",
+    "name": "Xiangxin Wei",
+    "position": "Forward",
+    "nationality": "China PR",
+    "dateOfBirth": "2008-03-05",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "286557",
+    "name": "Ryan Rodin",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2006-03-02",
+    "teamId": "519",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "9222",
+    "name": "Arnaud Bodart",
+    "position": "Goalkeeper",
+    "nationality": "Belgium",
+    "dateOfBirth": "1998-03-11",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "29890",
+    "name": "Berke Özer",
+    "position": "Goalkeeper",
+    "nationality": "Turkey",
+    "dateOfBirth": "2000-05-25",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8435",
+    "name": "Romain Perraud",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1997-09-22",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "9861",
+    "name": "Calvin Verdonk",
+    "position": "Defender",
+    "nationality": "Indonesia",
+    "dateOfBirth": "1997-04-26",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "127127",
+    "name": "Nianzou Kouassi",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2002-06-07",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "185196",
+    "name": "Alexsandro Ribeiro",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1999-08-09",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "188087",
+    "name": "Tiago Santos",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-07-23",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "192677",
+    "name": "Nathan Ngoy",
+    "position": "Defender",
+    "nationality": "Belgium",
+    "dateOfBirth": "2003-06-10",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "216223",
+    "name": "Ousmane Touré",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2005-02-18",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "261543",
+    "name": "Loun Srdanovic",
+    "position": "Defender",
+    "nationality": "Switzerland",
+    "dateOfBirth": "2006-08-04",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "270793",
+    "name": "Isaac Cossier",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-11-30",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8811",
+    "name": "Benjamin André",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1990-08-03",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "117908",
+    "name": "Hákon Arnar Haraldsson",
+    "position": "Midfielder",
+    "nationality": "Iceland",
+    "dateOfBirth": "2003-04-10",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "177365",
+    "name": "Ugo Raghouber",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2003-07-13",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "192666",
+    "name": "Ngal'ayel Mukau",
+    "position": "Midfielder",
+    "nationality": "Congo DR",
+    "dateOfBirth": "2004-11-03",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "221819",
+    "name": "Ayyoub Bouaddi",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2007-10-02",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "728",
+    "name": "Mohamed Bayo",
+    "position": "Forward",
+    "nationality": "Guinea",
+    "dateOfBirth": "1993-09-15",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "914",
+    "name": "Gaëtan Perrin",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1996-06-07",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3371",
+    "name": "Olivier Giroud",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1986-09-30",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "99722",
+    "name": "Osame Sahraoui",
+    "position": "Forward",
+    "nationality": "Morocco",
+    "dateOfBirth": "2001-06-11",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "127657",
+    "name": "Félix Correia",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2001-01-22",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "150925",
+    "name": "Tiago Fonseca Morais",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-09-03",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "178127",
+    "name": "Basar Onal",
+    "position": "Forward",
+    "nationality": "Turkey",
+    "dateOfBirth": "2004-07-06",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "212975",
+    "name": "Noah Edjouma",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2005-10-04",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "213511",
+    "name": "Matias Fernandez-Pardo",
+    "position": "Forward",
+    "nationality": "Belgium",
+    "dateOfBirth": "2005-02-03",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "218468",
+    "name": "Ethan Mbappé",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2006-12-29",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "260879",
+    "name": "Hamza Igamane",
+    "position": "Forward",
+    "nationality": "Morocco",
+    "dateOfBirth": "2002-11-02",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "275537",
+    "name": "Soriba Diaoune",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2007-08-14",
+    "teamId": "521",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8608",
+    "name": "Yehvann Diouf",
+    "position": "Goalkeeper",
+    "nationality": "Senegal",
+    "dateOfBirth": "1999-11-16",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "147975",
+    "name": "Teddy Boulhendi",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2001-04-09",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "1023",
+    "name": "Jonathan Clauss",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1992-09-25",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "99394",
+    "name": "Ali El Abdi",
+    "position": "Defender",
+    "nationality": "Tunisia",
+    "dateOfBirth": "1993-12-20",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "136628",
+    "name": "Mattia Viti",
+    "position": "Defender",
+    "nationality": "Italy",
+    "dateOfBirth": "2002-01-24",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "136721",
+    "name": "Melvin Bard",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2000-11-06",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "168667",
+    "name": "Antoine Mendy",
+    "position": "Defender",
+    "nationality": "Senegal",
+    "dateOfBirth": "2004-05-27",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "172057",
+    "name": "Youssouf Ndayishimiye",
+    "position": "Defender",
+    "nationality": "Burundi",
+    "dateOfBirth": "1998-10-27",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "192153",
+    "name": "Moise Bombito",
+    "position": "Defender",
+    "nationality": "Canada",
+    "dateOfBirth": "2000-03-30",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "202896",
+    "name": "Kojo Peprah Oppong",
+    "position": "Defender",
+    "nationality": "Ghana",
+    "dateOfBirth": "2004-06-04",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "245563",
+    "name": "Mohamed Abdelmonem",
+    "position": "Defender",
+    "nationality": "Egypt",
+    "dateOfBirth": "1999-02-01",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "282317",
+    "name": "Hamza Koutoune",
+    "position": "Defender",
+    "nationality": "Morocco",
+    "dateOfBirth": "2006-09-17",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "566",
+    "name": "Laurent Abergel",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1993-02-01",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8355",
+    "name": "Morgan Sanson",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1994-08-18",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "119630",
+    "name": "Everton",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "dateOfBirth": "1995-04-10",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "123206",
+    "name": "Salis Abdul Samed",
+    "position": "Midfielder",
+    "nationality": "Ghana",
+    "dateOfBirth": "2000-03-26",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "123508",
+    "name": "Hicham Boudaoui",
+    "position": "Midfielder",
+    "nationality": "Algeria",
+    "dateOfBirth": "1999-09-23",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "160330",
+    "name": "Rareş Ilie",
+    "position": "Midfielder",
+    "nationality": "Romania",
+    "dateOfBirth": "2003-04-19",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "204237",
+    "name": "Tom Louchet",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2003-05-04",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "245461",
+    "name": "Issiaga Camara",
+    "position": "Midfielder",
+    "nationality": "Guinea",
+    "dateOfBirth": "2005-02-02",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "273766",
+    "name": "Djibril Coulibaly",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2008-11-18",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "76723",
+    "name": "Sofiane Diop",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2000-06-09",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "98601",
+    "name": "Isak Jansson",
+    "position": "Forward",
+    "nationality": "Sweden",
+    "dateOfBirth": "2002-01-31",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "113427",
+    "name": "Terem Moffi",
+    "position": "Forward",
+    "nationality": "Nigeria",
+    "dateOfBirth": "1999-05-25",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "149129",
+    "name": "Mohamed Ali Cho",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2004-01-19",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "180180",
+    "name": "Kevin Carlos",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-04-10",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "264399",
+    "name": "Victor Orakpo",
+    "position": "Forward",
+    "nationality": "Nigeria",
+    "dateOfBirth": "2006-01-14",
+    "teamId": "522",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "733",
+    "name": "Rémy Descamps",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "1996-06-25",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "79776",
+    "name": "Dominik Greif",
+    "position": "Goalkeeper",
+    "nationality": "Slovakia",
+    "dateOfBirth": "1997-04-06",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "244704",
+    "name": "Justin Jose Bengui Joao",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2005-07-09",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "261256",
+    "name": "Lassine Diarra",
+    "position": "Goalkeeper",
+    "nationality": "Mali",
+    "dateOfBirth": "2002-11-11",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3208",
+    "name": "Nicolás Tagliafico",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "dateOfBirth": "1992-08-31",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "7792",
+    "name": "Ainsley Maitland-Niles",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "1997-08-29",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8723",
+    "name": "Moussa Niakhaté",
+    "position": "Defender",
+    "nationality": "Senegal",
+    "dateOfBirth": "1996-03-08",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8977",
+    "name": "Clinton Mata",
+    "position": "Defender",
+    "nationality": "Angola",
+    "dateOfBirth": "1992-11-07",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "10206",
+    "name": "Duje Ćaleta-Car",
+    "position": "Defender",
+    "nationality": "Croatia",
+    "dateOfBirth": "1996-09-17",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "103142",
+    "name": "Abner",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2000-05-27",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "137655",
+    "name": "Ruben Kluivert",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2001-05-21",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "213754",
+    "name": "Mohamed Ouédraogo",
+    "position": "Defender",
+    "nationality": "Burkina Faso",
+    "dateOfBirth": "2003-01-02",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "277933",
+    "name": "Noham Kamara",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2007-01-22",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "366",
+    "name": "Corentin Tolisso",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1994-08-03",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "9398",
+    "name": "Orel Mangala",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "dateOfBirth": "1998-03-18",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "81737",
+    "name": "Paul Akouokou",
+    "position": "Midfielder",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "1997-12-20",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "121312",
+    "name": "Pavel Šulc",
+    "position": "Midfielder",
+    "nationality": "Czech Republic",
+    "dateOfBirth": "2000-12-29",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "142456",
+    "name": "Tanner Tessmann",
+    "position": "Midfielder",
+    "nationality": "USA",
+    "dateOfBirth": "2001-09-24",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "160816",
+    "name": "Mads Bidstrup",
+    "position": "Midfielder",
+    "nationality": "Denmark",
+    "dateOfBirth": "2001-02-25",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "175845",
+    "name": "Tyler Morton",
+    "position": "Midfielder",
+    "nationality": "England",
+    "dateOfBirth": "2002-10-31",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "215864",
+    "name": "Noah Nartey",
+    "position": "Midfielder",
+    "nationality": "Denmark",
+    "dateOfBirth": "2005-10-05",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "221812",
+    "name": "Mahamadou Diawara",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2005-02-17",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "277733",
+    "name": "Mathys De Carvalho",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2005-05-01",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "281451",
+    "name": "Khalis Merah",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2007-02-24",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "182280",
+    "name": "Julien Duranville",
+    "position": "Forward",
+    "nationality": "Belgium",
+    "dateOfBirth": "2006-05-05",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "184726",
+    "name": "Ernest Nuamah",
+    "position": "Forward",
+    "nationality": "Ghana",
+    "dateOfBirth": "2003-11-01",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "187065",
+    "name": "Malick Fofana",
+    "position": "Forward",
+    "nationality": "Belgium",
+    "dateOfBirth": "2005-03-31",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "245455",
+    "name": "Kaïl Boudache",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2006-06-15",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "267821",
+    "name": "Alejandro Rodriguez",
+    "position": "Forward",
+    "nationality": "England",
+    "dateOfBirth": "2008-03-11",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "267849",
+    "name": "Enzo Molébé",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2007-09-18",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "281450",
+    "name": "Rémi Himbert",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2008-02-29",
+    "teamId": "523",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "49244",
+    "name": "Matvei Safonov",
+    "position": "Goalkeeper",
+    "nationality": "Russia",
+    "dateOfBirth": "1999-02-25",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "147896",
+    "name": "Lucas Chevalier",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2001-11-06",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "53",
+    "name": "Achraf Hakimi",
+    "position": "Defender",
+    "nationality": "Morocco",
+    "dateOfBirth": "1998-11-04",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3225",
+    "name": "Marquinhos",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1994-05-14",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3365",
+    "name": "Lucas Hernández",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1996-02-14",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "114102",
+    "name": "William Pacho",
+    "position": "Defender",
+    "nationality": "Ecuador",
+    "dateOfBirth": "2001-10-16",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "143573",
+    "name": "Illia Zabarnyi",
+    "position": "Defender",
+    "nationality": "Ukraine",
+    "dateOfBirth": "2002-09-01",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "144570",
+    "name": "Nuno Mendes",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2002-06-19",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "169204",
+    "name": "Lucas Beraldo",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2003-11-24",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "246711",
+    "name": "Yoram Zague",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-05-15",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "270300",
+    "name": "Naoufel El Hannach",
+    "position": "Defender",
+    "nationality": "Morocco",
+    "dateOfBirth": "2006-12-07",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "22",
+    "name": "Fabián Ruiz",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "1996-04-03",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "7988",
+    "name": "Renato Sanches",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "1997-08-18",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "178722",
+    "name": "Vitinha",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2000-02-13",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "186089",
+    "name": "Warren Zaïre-Emery",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2006-03-08",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "190877",
+    "name": "Joao Neves",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-09-27",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "246066",
+    "name": "Senny Mayulu",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2006-05-17",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "283413",
+    "name": "Pedro Fernández",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2008-01-12",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3373",
+    "name": "Ousmane Dembélé",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1997-05-15",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8708",
+    "name": "Randal Kolo Muani",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1998-12-05",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "113285",
+    "name": "Khvicha Kvaratskhelia",
+    "position": "Forward",
+    "nationality": "Georgia",
+    "dateOfBirth": "2001-02-12",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "172762",
+    "name": "Bradley Barcola",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2002-09-02",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "177522",
+    "name": "Desire Doue",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2005-06-03",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "265040",
+    "name": "Ibrahim M'Baye",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "dateOfBirth": "2008-01-24",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "278406",
+    "name": "Quentin Ndjantou",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2007-07-23",
+    "teamId": "524",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8554",
+    "name": "Benjamin Leroy",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "1989-04-07",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8771",
+    "name": "Bingourou Kamara",
+    "position": "Goalkeeper",
+    "nationality": "Senegal",
+    "dateOfBirth": "1996-10-21",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "9534",
+    "name": "Yvon Mvogo",
+    "position": "Goalkeeper",
+    "nationality": "Switzerland",
+    "dateOfBirth": "1994-06-06",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "57099",
+    "name": "Alec Georgen",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1998-09-17",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "149069",
+    "name": "Souleymane Isaak Toure",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2003-03-28",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "156630",
+    "name": "Formose Mendy",
+    "position": "Defender",
+    "nationality": "Senegal",
+    "dateOfBirth": "2001-01-02",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "177695",
+    "name": "Montassar Talbi",
+    "position": "Defender",
+    "nationality": "Tunisia",
+    "dateOfBirth": "1998-05-26",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "187420",
+    "name": "Dembo Sylla",
+    "position": "Defender",
+    "nationality": "Guinea",
+    "dateOfBirth": "2002-11-10",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "187473",
+    "name": "Nathaniel Adjei",
+    "position": "Defender",
+    "nationality": "Ghana",
+    "dateOfBirth": "2002-08-21",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "244087",
+    "name": "Kan Guy Arsène Kouassi",
+    "position": "Defender",
+    "nationality": "Burkina Faso",
+    "dateOfBirth": "2004-09-11",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "245464",
+    "name": "Enzo Genton",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-03-31",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8437",
+    "name": "Jean-Victor Makengo",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1998-06-12",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "106791",
+    "name": "Noah Cadiou",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1998-10-26",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "150424",
+    "name": "Bandiougou Fadiga",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2001-01-15",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "153994",
+    "name": "Joel Mugisha",
+    "position": "Midfielder",
+    "nationality": "Norway",
+    "dateOfBirth": "2002-11-12",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "172520",
+    "name": "Theo Le Bris",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2002-10-01",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "188658",
+    "name": "Panos Katseris",
+    "position": "Midfielder",
+    "nationality": "Greece",
+    "dateOfBirth": "2001-07-05",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "263322",
+    "name": "Arthur Ebong",
+    "position": "Midfielder",
+    "nationality": "Cameroon",
+    "dateOfBirth": "2004-12-15",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "279671",
+    "name": "Gabin Bernardeau",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2006-01-24",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "72551",
+    "name": "Aiyegun Tosin",
+    "position": "Forward",
+    "nationality": "Benin",
+    "dateOfBirth": "1998-06-26",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "213749",
+    "name": "Mohamed Bamba",
+    "position": "Forward",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2001-12-10",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "270612",
+    "name": "Jérémy Hatchi",
+    "position": "Forward",
+    "nationality": "Guadeloupe",
+    "dateOfBirth": "2005-06-13",
+    "teamId": "525",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "802",
+    "name": "Nicolas Lemaître",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "1997-01-12",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8316",
+    "name": "Brice Samba",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "1994-04-25",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "288619",
+    "name": "Kilian Belazzoug",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2006-07-18",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3540",
+    "name": "Przemysław Frankowski",
+    "position": "Defender",
+    "nationality": "Poland",
+    "dateOfBirth": "1995-04-12",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "83868",
+    "name": "Bryan Reynolds",
+    "position": "Defender",
+    "nationality": "USA",
+    "dateOfBirth": "2001-06-28",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "123200",
+    "name": "Lilian Brassier",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1999-11-02",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "147893",
+    "name": "Alidu Seidu",
+    "position": "Defender",
+    "nationality": "Ghana",
+    "dateOfBirth": "2000-06-04",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "150751",
+    "name": "Anthony Rouault",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2001-05-29",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "160410",
+    "name": "Quentin Merlin",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2002-05-16",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "227004",
+    "name": "Mahamadou Nagida",
+    "position": "Defender",
+    "nationality": "Cameroon",
+    "dateOfBirth": "2005-06-28",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "250296",
+    "name": "Rayan Bamba",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2004-05-14",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "262856",
+    "name": "Gonçalo Oliveira",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2006-07-04",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "272594",
+    "name": "Abdelhamid Ait Boudlal",
+    "position": "Defender",
+    "nationality": "Morocco",
+    "dateOfBirth": "2006-04-16",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "280447",
+    "name": "Jonathan Do Marcolino",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-05-10",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "2126",
+    "name": "Seko Fofana",
+    "position": "Midfielder",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "1995-05-07",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8542",
+    "name": "Mahdi Camara",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1998-06-30",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8695",
+    "name": "Valentin Rongier",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1994-12-07",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8706",
+    "name": "Adrien Thomasson",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1993-12-10",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "10201",
+    "name": "Sebastian Szymański",
+    "position": "Midfielder",
+    "nationality": "Poland",
+    "dateOfBirth": "1999-05-10",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "34522",
+    "name": "Glen Kamara",
+    "position": "Midfielder",
+    "nationality": "Finland",
+    "dateOfBirth": "1995-10-28",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "96869",
+    "name": "Ludovic Blas",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1997-12-31",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "175979",
+    "name": "Jordan James",
+    "position": "Midfielder",
+    "nationality": "Wales",
+    "dateOfBirth": "2004-07-02",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "212872",
+    "name": "Ayanda Sishuba",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "dateOfBirth": "2005-02-02",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "246322",
+    "name": "Djaoui Cissé",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2004-01-31",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "575",
+    "name": "Arnaud Nordin",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1998-06-17",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3483",
+    "name": "Breel Embolo",
+    "position": "Forward",
+    "nationality": "Switzerland",
+    "dateOfBirth": "1997-02-14",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "98763",
+    "name": "Musa Al Taamari",
+    "position": "Forward",
+    "nationality": "Jordan",
+    "dateOfBirth": "1997-06-10",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "149850",
+    "name": "Esteban Lepaul",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2000-04-18",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "177648",
+    "name": "Issa Soumaré",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "dateOfBirth": "2022-06-30",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "178644",
+    "name": "Eliezer Mayenda",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2005-05-08",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "265516",
+    "name": "Yassir Zabiri",
+    "position": "Forward",
+    "nationality": "Morocco",
+    "dateOfBirth": "2005-02-23",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "285238",
+    "name": "Nordan Mukiele",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2006-02-12",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "289597",
+    "name": "Elias Legendre Quiñonez",
+    "position": "Forward",
+    "nationality": "Ecuador",
+    "dateOfBirth": "2008-04-22",
+    "teamId": "529",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "522",
+    "name": "Zacharie Boucher",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "1992-03-07",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "74515",
+    "name": "Hillel Konaté",
+    "position": "Goalkeeper",
+    "nationality": "Burkina Faso",
+    "dateOfBirth": "1994-12-28",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "177427",
+    "name": "Patrick Beach",
+    "position": "Goalkeeper",
+    "nationality": "Australia",
+    "dateOfBirth": "2003-08-06",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "906",
+    "name": "Adrien Monfray",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1990-12-20",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "99282",
+    "name": "Paolo Gozzi Iweru",
+    "position": "Defender",
+    "nationality": "Italy",
+    "dateOfBirth": "2001-04-25",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "147927",
+    "name": "Ismaëlben Boura",
+    "position": "Defender",
+    "nationality": "Comoros",
+    "dateOfBirth": "2000-08-14",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "170627",
+    "name": "Thierno Baldé",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2002-06-10",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "178696",
+    "name": "Lucas Maronnier",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2000-03-09",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "187530",
+    "name": "Michel Diaz",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2003-07-23",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "218406",
+    "name": "Yvann Titi",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-05-05",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "264215",
+    "name": "Sankhoun Diawara",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-01-13",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "264216",
+    "name": "Tom Akpakoun",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2005-04-22",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "282710",
+    "name": "Anis Ouzenadji",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-11-04",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "99815",
+    "name": "Alexandre Phliponeau",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2000-01-26",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "114136",
+    "name": "Iron Gomis",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1999-11-08",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "134600",
+    "name": "Antoine Mille",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1997-08-14",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "187038",
+    "name": "Mouhamed Diop",
+    "position": "Midfielder",
+    "nationality": "Senegal",
+    "dateOfBirth": "2000-09-30",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "282714",
+    "name": "Roman Murcy",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2006-02-23",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "851",
+    "name": "Renaud Ripart",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1993-03-14",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "133695",
+    "name": "Kandet Diawara",
+    "position": "Forward",
+    "nationality": "Guinea",
+    "dateOfBirth": "2000-02-10",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "251325",
+    "name": "Ibrahim Traoré",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2006-03-12",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "260298",
+    "name": "Merwan Ifnaoui",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1998-10-22",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "280496",
+    "name": "Amadou Diakite",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2005-05-31",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "284226",
+    "name": "Elijah Olaniyi Odede",
+    "position": "Forward",
+    "nationality": "Nigeria",
+    "dateOfBirth": "2007-01-12",
+    "teamId": "531",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3240",
+    "name": "Anthony Lopes",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "dateOfBirth": "1990-10-01",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "186084",
+    "name": "Melvin Zinga",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2002-03-16",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "244934",
+    "name": "Oumar Pona",
+    "position": "Goalkeeper",
+    "nationality": "Mali",
+    "dateOfBirth": "2006-06-21",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "532",
+    "name": "Carlens Arcus",
+    "position": "Defender",
+    "nationality": "Haiti",
+    "dateOfBirth": "1996-06-28",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "1020",
+    "name": "Jordan Lefort",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1993-08-09",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "147895",
+    "name": "Ousman Camara",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2003-03-06",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "176904",
+    "name": "Jacques Ekomie",
+    "position": "Defender",
+    "nationality": "Gabon",
+    "dateOfBirth": "2003-08-19",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "190546",
+    "name": "Emmanuel Biumla",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2005-05-08",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "191002",
+    "name": "Lilian Rao-Lisoa",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2000-06-16",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "271979",
+    "name": "Marius Louãr",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2007-03-11",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "279750",
+    "name": "Dan Sinaté",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-06-09",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "746",
+    "name": "Haris Belkebla",
+    "position": "Midfielder",
+    "nationality": "Algeria",
+    "dateOfBirth": "1994-01-28",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "53397",
+    "name": "Branco van den Boomen",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1995-07-21",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "177021",
+    "name": "Louis Mouton",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2002-06-03",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "178075",
+    "name": "Yassin Belkhdim",
+    "position": "Midfielder",
+    "nationality": "Morocco",
+    "dateOfBirth": "2002-02-14",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "213045",
+    "name": "Marius Courcoul",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2007-01-01",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "101297",
+    "name": "Jim Allevinah",
+    "position": "Forward",
+    "nationality": "Gabon",
+    "dateOfBirth": "1995-02-27",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "137515",
+    "name": "Amine El Ouazzani",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2001-07-15",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "170416",
+    "name": "Mamadou Usman Simbakoli",
+    "position": "Forward",
+    "nationality": "Central African Republic",
+    "dateOfBirth": "2001-04-19",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "185033",
+    "name": "Amine Sbaï",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2000-11-05",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "246160",
+    "name": "Anthony Bermont",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2005-02-10",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "278087",
+    "name": "Prosper Peter",
+    "position": "Forward",
+    "nationality": "Nigeria",
+    "dateOfBirth": "2007-08-09",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "287857",
+    "name": "Harouna Djibirin",
+    "position": "Forward",
+    "nationality": "Cameroon",
+    "dateOfBirth": "2006-11-05",
+    "teamId": "532",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "20931",
+    "name": "Mory Diaw",
+    "position": "Goalkeeper",
+    "nationality": "Senegal",
+    "dateOfBirth": "1993-06-22",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "106838",
+    "name": "Lionel Mpasi",
+    "position": "Goalkeeper",
+    "nationality": "Congo DR",
+    "dateOfBirth": "1994-08-01",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "248779",
+    "name": "Paul Argney",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2006-05-23",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "45300",
+    "name": "Vincent Sasso",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1991-02-16",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "113230",
+    "name": "Ayumu Seko",
+    "position": "Defender",
+    "nationality": "Japan",
+    "dateOfBirth": "2000-06-07",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "148288",
+    "name": "Timothee Pembele",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2002-09-09",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "149098",
+    "name": "Fodé Doucouré",
+    "position": "Defender",
+    "nationality": "Mali",
+    "dateOfBirth": "2001-02-03",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "260293",
+    "name": "Yanis Zouaoui",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1998-04-20",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "276981",
+    "name": "Stephan Zagadou",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2008-10-24",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "281102",
+    "name": "Enzo Koffi",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-03-04",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "150018",
+    "name": "Kaito Mizuta",
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "dateOfBirth": "2000-04-08",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "169152",
+    "name": "Amir Richardson",
+    "position": "Midfielder",
+    "nationality": "Morocco",
+    "dateOfBirth": "2002-01-24",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "178663",
+    "name": "Rassoul N'Diaye",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2001-12-11",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "204279",
+    "name": "Simon Ebonog",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2004-08-16",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "206360",
+    "name": "Makrane Bentoumi",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2005-11-16",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "244823",
+    "name": "Ismail Bouneb",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2006-06-07",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "263479",
+    "name": "Daren Mosengo",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2006-08-11",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "263480",
+    "name": "Guy Zohouri",
+    "position": "Midfielder",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2007-02-01",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8982",
+    "name": "Mbwana Samatta",
+    "position": "Forward",
+    "nationality": "Tanzania",
+    "dateOfBirth": "1992-12-13",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "111019",
+    "name": "Godson Kyeremeh",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2000-06-14",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "111230",
+    "name": "Felix Mambimbi",
+    "position": "Forward",
+    "nationality": "Switzerland",
+    "dateOfBirth": "2001-01-18",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "204322",
+    "name": "Andy Logbo",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2004-05-06",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "263481",
+    "name": "Noam Obougou",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2006-03-15",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "275182",
+    "name": "Sota Nakamura",
+    "position": "Forward",
+    "nationality": "Japan",
+    "dateOfBirth": "2002-10-15",
+    "teamId": "533",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "464",
+    "name": "Nicolas Kocik",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "1998-08-04",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "254368",
+    "name": "Ewan Hatfout",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2000-04-01",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "255027",
+    "name": "Augustin Delbecque",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2002-02-03",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "867",
+    "name": "Lucas Buadés",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1997-12-28",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "934",
+    "name": "Samuel Yohou",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1991-08-06",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "133766",
+    "name": "Yasser Larouci",
+    "position": "Defender",
+    "nationality": "Algeria",
+    "dateOfBirth": "2001-01-01",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "158230",
+    "name": "Harold Voyer",
+    "position": "Defender",
+    "nationality": "Martinique",
+    "dateOfBirth": "1997-03-26",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "176335",
+    "name": "Lucas Calodat",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2002-02-06",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "256284",
+    "name": "Théo Eyoum",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2002-01-07",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "279674",
+    "name": "Noa Boisse",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-01-20",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "74608",
+    "name": "Edwin Quarshie",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1995-10-25",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "116275",
+    "name": "Alexandre Lauray",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1997-03-18",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "157984",
+    "name": "Jean Vercruysse",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2000-07-03",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "260282",
+    "name": "Milan Robin",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1999-11-24",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "279676",
+    "name": "Martin Rossignol",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2003-11-03",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "279719",
+    "name": "Lucas Bretelle",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2002-04-17",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "292172",
+    "name": "Adil Bourabaa",
+    "position": "Midfielder",
+    "nationality": "Algeria",
+    "dateOfBirth": "2005-03-09",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "74648",
+    "name": "Antoine Rabillard",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1995-09-22",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "82197",
+    "name": "Dame Guèye",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "dateOfBirth": "1995-08-12",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "124178",
+    "name": "Louis Mafouta",
+    "position": "Forward",
+    "nationality": "Central African Republic",
+    "dateOfBirth": "1994-07-02",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "138969",
+    "name": "Erwan Colas",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1997-04-22",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "181927",
+    "name": "Bilal Brahimi",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2000-03-14",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "281688",
+    "name": "William Harhouz",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1999-12-30",
+    "teamId": "535",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8391",
+    "name": "Hervé Koffi",
+    "position": "Goalkeeper",
+    "nationality": "Burkina Faso",
+    "dateOfBirth": "1996-10-16",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8449",
+    "name": "Mathieu Gorgelin",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "1990-08-05",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8579",
+    "name": "Régis Gurtner",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "1986-12-08",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "188389",
+    "name": "Robin Risser",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2004-12-02",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "278383",
+    "name": "Ilan Jourdren",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2008-07-17",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "735",
+    "name": "Jonathan Gradit",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1992-11-24",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8372",
+    "name": "Ruben Aguilar",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1993-04-26",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8717",
+    "name": "Matthieu Udol",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1996-03-20",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "124469",
+    "name": "Maik Nawrocki",
+    "position": "Defender",
+    "nationality": "Poland",
+    "dateOfBirth": "2001-02-07",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "129098",
+    "name": "Saud Abdulhamid",
+    "position": "Defender",
+    "nationality": "Saudi Arabia",
+    "dateOfBirth": "1999-07-18",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "169041",
+    "name": "Jhoanner Chavez",
+    "position": "Defender",
+    "nationality": "Ecuador",
+    "dateOfBirth": "2002-04-25",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "188148",
+    "name": "Samson Baidoo",
+    "position": "Defender",
+    "nationality": "Austria",
+    "dateOfBirth": "2004-03-31",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "188468",
+    "name": "Pierre Ganiou",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2005-03-14",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "216398",
+    "name": "Nidal Čelik",
+    "position": "Defender",
+    "nationality": "Bosnia-Herzegovina",
+    "dateOfBirth": "2006-07-17",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "270890",
+    "name": "Kyllian Antonio",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2008-01-04",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "276665",
+    "name": "Souleymane Sagnan",
+    "position": "Defender",
+    "nationality": "Mali",
+    "dateOfBirth": "2006-05-06",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3655",
+    "name": "Thorgan Hazard",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "dateOfBirth": "1993-03-29",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "6688",
+    "name": "Mickaël Cuisance",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1999-08-16",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "15704",
+    "name": "Amadou Haïdara",
+    "position": "Midfielder",
+    "nationality": "Mali",
+    "dateOfBirth": "1998-01-31",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "150964",
+    "name": "Mamadou Sangare",
+    "position": "Midfielder",
+    "nationality": "Mali",
+    "dateOfBirth": "2002-06-26",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "244936",
+    "name": "Alpha Diallo",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2006-02-25",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "268900",
+    "name": "Andrija Bulatović",
+    "position": "Midfielder",
+    "nationality": "Montenegro",
+    "dateOfBirth": "2006-12-27",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3370",
+    "name": "Florian Thauvin",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1993-01-26",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "16077",
+    "name": "Odsonne Edouard",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1998-01-16",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "64837",
+    "name": "Florian Sotoca",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1990-10-25",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "99985",
+    "name": "Michał Skóraś",
+    "position": "Forward",
+    "nationality": "Poland",
+    "dateOfBirth": "2000-02-15",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "151264",
+    "name": "Abdallah Sima",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "dateOfBirth": "2001-06-17",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "204240",
+    "name": "Rémy Labeau Lascary",
+    "position": "Forward",
+    "nationality": "Guadeloupe",
+    "dateOfBirth": "2003-03-03",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "273952",
+    "name": "Gabin Capuano",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2006-04-26",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "276430",
+    "name": "Rayan Fofana",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2006-02-12",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "290657",
+    "name": "Erawan Garnier",
+    "position": "Forward",
+    "nationality": "Thailand",
+    "dateOfBirth": "2006-01-05",
+    "teamId": "546",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "6696",
+    "name": "Lukáš Hrádecký",
+    "position": "Goalkeeper",
+    "nationality": "Finland",
+    "dateOfBirth": "1989-11-24",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "9535",
+    "name": "Philipp Köhn",
+    "position": "Goalkeeper",
+    "nationality": "Switzerland",
+    "dateOfBirth": "1998-04-02",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "172431",
+    "name": "Yann Lienard",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2003-03-16",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3314",
+    "name": "Eric Dier",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "1994-01-15",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "6493",
+    "name": "Thilo Kehrer",
+    "position": "Defender",
+    "nationality": "Germany",
+    "dateOfBirth": "1996-09-21",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "67965",
+    "name": "Jordan Teze",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1999-09-30",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "81039",
+    "name": "Mohammed Salisu",
+    "position": "Defender",
+    "nationality": "Ghana",
+    "dateOfBirth": "1999-04-17",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "154607",
+    "name": "Vanderson",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-06-21",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "165315",
+    "name": "Flávio Nazinho",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2003-07-20",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "188481",
+    "name": "Christian Mawissa",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2005-04-18",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "212866",
+    "name": "Sadibou Sané",
+    "position": "Defender",
+    "nationality": "Senegal",
+    "dateOfBirth": "2004-06-10",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3366",
+    "name": "Paul Pogba",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1993-03-15",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3683",
+    "name": "Aleksandr Golovin",
+    "position": "Midfielder",
+    "nationality": "Russia",
+    "dateOfBirth": "1996-05-30",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "6687",
+    "name": "Denis Zakaria",
+    "position": "Midfielder",
+    "nationality": "Switzerland",
+    "dateOfBirth": "1996-11-20",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "204238",
+    "name": "Edan Diop",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2004-08-28",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "204269",
+    "name": "Lamine Camara",
+    "position": "Midfielder",
+    "nationality": "Senegal",
+    "dateOfBirth": "2004-01-01",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "221295",
+    "name": "Stanis Idumbo-Muzambo",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "dateOfBirth": "2005-06-29",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "244898",
+    "name": "Mamadou Coulibaly",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2004-04-21",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "15100",
+    "name": "Takumi Minamino",
+    "position": "Forward",
+    "nationality": "Japan",
+    "dateOfBirth": "1995-01-16",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "128040",
+    "name": "Ansu Fati",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2002-10-31",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "131040",
+    "name": "Folarin Balogun",
+    "position": "Forward",
+    "nationality": "USA",
+    "dateOfBirth": "2001-07-03",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "175701",
+    "name": "Maghnes Akliouche",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2002-02-25",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "177260",
+    "name": "Mika Biereth",
+    "position": "Forward",
+    "nationality": "Denmark",
+    "dateOfBirth": "2003-02-08",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "244696",
+    "name": "Paris Brunner",
+    "position": "Forward",
+    "nationality": "Germany",
+    "dateOfBirth": "2006-02-15",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "246674",
+    "name": "Lucas Michal",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2005-06-22",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "274298",
+    "name": "Mathys Detourbet",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2007-04-29",
+    "teamId": "548",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "261900",
+    "name": "Miłosz Piekutowski",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "dateOfBirth": "2006-05-08",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8065",
+    "name": "Ben Chilwell",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "1996-12-21",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "147878",
+    "name": "Ismaël Doukouré",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2003-07-24",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "149127",
+    "name": "Saïdou Sow",
+    "position": "Defender",
+    "nationality": "Guinea",
+    "dateOfBirth": "2002-07-04",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "149920",
+    "name": "Andrew Omobamidele",
+    "position": "Defender",
+    "nationality": "Ireland",
+    "dateOfBirth": "2002-06-23",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "170075",
+    "name": "Soumaïla Coulibaly",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2003-10-14",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "182297",
+    "name": "Abakar Sylla",
+    "position": "Defender",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2002-12-25",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "183532",
+    "name": "Mateo Del Blanco",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "dateOfBirth": "2003-10-31",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "191179",
+    "name": "Guéla Doué",
+    "position": "Defender",
+    "nationality": "Cote d'Ivoire",
+    "dateOfBirth": "2025-06-30",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "204280",
+    "name": "Yoni Gomis",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2005-09-23",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "205551",
+    "name": "Lucas Høgsberg",
+    "position": "Defender",
+    "nationality": "Denmark",
+    "dateOfBirth": "2006-06-23",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "270889",
+    "name": "Abdoul Ouattara",
+    "position": "Defender",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2005-10-22",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "168949",
+    "name": "Julio Enciso",
+    "position": "Midfielder",
+    "nationality": "Paraguay",
+    "dateOfBirth": "2004-01-23",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "170261",
+    "name": "Valentin Barco",
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "dateOfBirth": "2004-07-23",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "182091",
+    "name": "Junior Mwanga",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2003-05-11",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "182192",
+    "name": "Diego Moreira",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "dateOfBirth": "2004-08-06",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "192686",
+    "name": "Pape Diop",
+    "position": "Midfielder",
+    "nationality": "Senegal",
+    "dateOfBirth": "2003-09-04",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "210644",
+    "name": "Maximillian Oyedele",
+    "position": "Midfielder",
+    "nationality": "Poland",
+    "dateOfBirth": "2004-11-07",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "244750",
+    "name": "Mathis Amougou",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2006-01-18",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "244929",
+    "name": "Samir El Mourabet",
+    "position": "Midfielder",
+    "nationality": "Morocco",
+    "dateOfBirth": "2005-10-06",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "246704",
+    "name": "Rabby Nzingoula",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2005-11-25",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "247065",
+    "name": "Benjamin Brantlind",
+    "position": "Midfielder",
+    "nationality": "Sweden",
+    "dateOfBirth": "2008-08-15",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "261041",
+    "name": "Pape Diong",
+    "position": "Midfielder",
+    "nationality": "Senegal",
+    "dateOfBirth": "2006-06-15",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "262361",
+    "name": "Diogo Lobão",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "dateOfBirth": "2006-01-20",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "144643",
+    "name": "Sebastian Nanasi",
+    "position": "Forward",
+    "nationality": "Sweden",
+    "dateOfBirth": "2002-05-16",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "151552",
+    "name": "Sekou Mara",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2002-07-30",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "182441",
+    "name": "Oscar Perea",
+    "position": "Forward",
+    "nationality": "Colombia",
+    "dateOfBirth": "2005-09-27",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "203561",
+    "name": "Joaquín Panichelli",
+    "position": "Forward",
+    "nationality": "Argentina",
+    "dateOfBirth": "2002-10-07",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "204426",
+    "name": "Martial Godo",
+    "position": "Forward",
+    "nationality": "England",
+    "dateOfBirth": "2003-03-14",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "206809",
+    "name": "Samuel Amo-Ameyaw",
+    "position": "Forward",
+    "nationality": "England",
+    "dateOfBirth": "2006-07-18",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "245336",
+    "name": "Gessime Yassine",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2005-11-22",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "246110",
+    "name": "Milos Lukovic",
+    "position": "Forward",
+    "nationality": "Serbia",
+    "dateOfBirth": "2005-11-18",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "271961",
+    "name": "Rayane Messi",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2007-05-23",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "295113",
+    "name": "Yaya Diemé",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "dateOfBirth": "2007-10-16",
+    "teamId": "576",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3175",
+    "name": "Kevin Trapp",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "dateOfBirth": "1990-07-08",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "138022",
+    "name": "Obed Nkambadio",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "dateOfBirth": "2003-02-07",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8808",
+    "name": "Hamari Traoré",
+    "position": "Defender",
+    "nationality": "Mali",
+    "dateOfBirth": "1992-01-27",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8900",
+    "name": "Thibault De Smet",
+    "position": "Defender",
+    "nationality": "Belgium",
+    "dateOfBirth": "1998-06-05",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "94034",
+    "name": "Tuomas Ollila",
+    "position": "Defender",
+    "nationality": "Finland",
+    "dateOfBirth": "2000-04-24",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "116150",
+    "name": "Samir Chergui",
+    "position": "Defender",
+    "nationality": "Algeria",
+    "dateOfBirth": "1999-02-06",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "151363",
+    "name": "Otavio Ataide",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-04-21",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "169339",
+    "name": "Mamadou Mbow",
+    "position": "Defender",
+    "nationality": "Senegal",
+    "dateOfBirth": "2000-03-08",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "171012",
+    "name": "Yoan Kore",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2004-11-16",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "176720",
+    "name": "Diego Coppola",
+    "position": "Defender",
+    "nationality": "Italy",
+    "dateOfBirth": "2003-12-28",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "192249",
+    "name": "Mathys Tourraine",
+    "position": "Defender",
+    "nationality": "Morocco",
+    "dateOfBirth": "2001-01-14",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "245430",
+    "name": "Nhoa Sangui",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-02-27",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "565",
+    "name": "Vincent Marchetti",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1997-07-04",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8352",
+    "name": "Maxime López",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1997-12-04",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8439",
+    "name": "Pierre Lees Melou",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1993-05-25",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "129221",
+    "name": "Adama Camara",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1996-10-18",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "274112",
+    "name": "Patrick Zabi",
+    "position": "Midfielder",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "2006-09-24",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "277673",
+    "name": "Rudy Matondo",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2008-03-13",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "552",
+    "name": "Lassine Sinayoko",
+    "position": "Forward",
+    "nationality": "Mali",
+    "dateOfBirth": "1999-12-08",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "638",
+    "name": "Alimami Gory",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1996-08-30",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "2076",
+    "name": "Ciro Immobile",
+    "position": "Forward",
+    "nationality": "Italy",
+    "dateOfBirth": "1990-02-20",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "3398",
+    "name": "Moses Simon",
+    "position": "Forward",
+    "nationality": "Nigeria",
+    "dateOfBirth": "1995-07-12",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8381",
+    "name": "Jonathan Ikoné",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1998-05-02",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "8475",
+    "name": "Willem Geubbels",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2001-08-16",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "106896",
+    "name": "Jean-Philippe Krasso",
+    "position": "Forward",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "1997-07-17",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "108520",
+    "name": "Ilan Kebbal",
+    "position": "Forward",
+    "nationality": "Algeria",
+    "dateOfBirth": "1998-07-10",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "177248",
+    "name": "Pablo Pagis",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2002-12-29",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "219655",
+    "name": "Omar Sissoko",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2006-08-18",
+    "teamId": "1045",
+    "competitionId": "FL1"
+  }
+]

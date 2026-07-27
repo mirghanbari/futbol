@@ -3114,6 +3114,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "8708",
+    "name": "Randal Kolo Muani",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1998-12-05",
+    "teamId": "73",
+    "competitionId": "CL"
+  },
+  {
     "id": "77399",
     "name": "Mohammed Kudus",
     "position": "Forward",
@@ -3173,15 +3182,6 @@
     "position": null,
     "nationality": "Romania",
     "dateOfBirth": "2002-02-03",
-    "teamId": "73",
-    "competitionId": "CL"
-  },
-  {
-    "id": "8708",
-    "name": "Randal Kolo Muani",
-    "position": null,
-    "nationality": "France",
-    "dateOfBirth": "1998-12-05",
     "teamId": "73",
     "competitionId": "CL"
   },
@@ -6309,6 +6309,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "49092",
+    "name": "Hidemasa Morita",
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "dateOfBirth": "1995-05-10",
+    "teamId": "498",
+    "competitionId": "CL"
+  },
+  {
     "id": "102336",
     "name": "Daniel Bragança",
     "position": "Midfielder",
@@ -6471,15 +6480,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "49092",
-    "name": "Hidemasa Morita",
-    "position": null,
-    "nationality": "Japan",
-    "dateOfBirth": "1995-05-10",
-    "teamId": "498",
-    "competitionId": "CL"
-  },
-  {
     "id": "6",
     "name": "Géronimo Rulli",
     "position": "Goalkeeper",
@@ -6516,6 +6516,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "7809",
+    "name": "Emerson",
+    "position": "Defender",
+    "nationality": "Italy",
+    "dateOfBirth": "1994-08-03",
+    "teamId": "516",
+    "competitionId": "CL"
+  },
+  {
     "id": "46125",
     "name": "Facundo Medina",
     "position": "Defender",
@@ -6539,6 +6548,15 @@
     "position": "Defender",
     "nationality": "Argentina",
     "dateOfBirth": "1999-01-26",
+    "teamId": "516",
+    "competitionId": "CL"
+  },
+  {
+    "id": "179721",
+    "name": "CJ Egan-Riley",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "2003-01-02",
     "teamId": "516",
     "competitionId": "CL"
   },
@@ -6584,6 +6602,42 @@
     "position": "Defender",
     "nationality": "France",
     "dateOfBirth": "2006-05-16",
+    "teamId": "516",
+    "competitionId": "CL"
+  },
+  {
+    "id": "8093",
+    "name": "Pierre Emile Højbjerg",
+    "position": "Midfielder",
+    "nationality": "Denmark",
+    "dateOfBirth": "1995-08-05",
+    "teamId": "516",
+    "competitionId": "CL"
+  },
+  {
+    "id": "8492",
+    "name": "Tim Weah",
+    "position": "Midfielder",
+    "nationality": "USA",
+    "dateOfBirth": "2000-02-22",
+    "teamId": "516",
+    "competitionId": "CL"
+  },
+  {
+    "id": "33149",
+    "name": "Geoffrey Kondogbia",
+    "position": "Midfielder",
+    "nationality": "Central African Republic",
+    "dateOfBirth": "1993-02-15",
+    "teamId": "516",
+    "competitionId": "CL"
+  },
+  {
+    "id": "80754",
+    "name": "Himad Abdelli",
+    "position": "Midfielder",
+    "nationality": "Algeria",
+    "dateOfBirth": "1999-11-17",
     "teamId": "516",
     "competitionId": "CL"
   },
@@ -6642,11 +6696,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "8492",
-    "name": "Tim Weah",
+    "id": "119703",
+    "name": "Igor Paixão",
     "position": "Forward",
-    "nationality": "USA",
-    "dateOfBirth": "2000-02-22",
+    "nationality": "Brazil",
+    "dateOfBirth": "2000-06-28",
     "teamId": "516",
     "competitionId": "CL"
   },
@@ -6687,56 +6741,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "119703",
-    "name": "Igor Paixão",
-    "position": null,
-    "nationality": "Brazil",
-    "dateOfBirth": "2000-06-28",
-    "teamId": "516",
-    "competitionId": "CL"
-  },
-  {
     "id": "101075",
     "name": "Mason Greenwood",
     "position": null,
     "nationality": "England",
     "dateOfBirth": "2001-10-01",
-    "teamId": "516",
-    "competitionId": "CL"
-  },
-  {
-    "id": "80754",
-    "name": "Himad Abdelli",
-    "position": null,
-    "nationality": "Algeria",
-    "dateOfBirth": "1999-11-17",
-    "teamId": "516",
-    "competitionId": "CL"
-  },
-  {
-    "id": "33149",
-    "name": "Geoffrey Kondogbia",
-    "position": null,
-    "nationality": "Central African Republic",
-    "dateOfBirth": "1993-02-15",
-    "teamId": "516",
-    "competitionId": "CL"
-  },
-  {
-    "id": "8093",
-    "name": "Pierre Emile Højbjerg",
-    "position": null,
-    "nationality": "Denmark",
-    "dateOfBirth": "1995-08-05",
-    "teamId": "516",
-    "competitionId": "CL"
-  },
-  {
-    "id": "7809",
-    "name": "Emerson",
-    "position": null,
-    "nationality": "Italy",
-    "dateOfBirth": "1994-08-03",
     "teamId": "516",
     "competitionId": "CL"
   },
@@ -6764,15 +6773,6 @@
     "position": null,
     "nationality": "Ivory Coast",
     "dateOfBirth": "2000-02-16",
-    "teamId": "516",
-    "competitionId": "CL"
-  },
-  {
-    "id": "179721",
-    "name": "CJ Egan-Riley",
-    "position": null,
-    "nationality": "England",
-    "dateOfBirth": "2003-01-02",
     "teamId": "516",
     "competitionId": "CL"
   },
@@ -6876,11 +6876,29 @@
     "competitionId": "CL"
   },
   {
+    "id": "143573",
+    "name": "Illia Zabarnyi",
+    "position": "Defender",
+    "nationality": "Ukraine",
+    "dateOfBirth": "2002-09-01",
+    "teamId": "524",
+    "competitionId": "CL"
+  },
+  {
     "id": "144570",
     "name": "Nuno Mendes",
     "position": "Defender",
     "nationality": "Portugal",
     "dateOfBirth": "2002-06-19",
+    "teamId": "524",
+    "competitionId": "CL"
+  },
+  {
+    "id": "169204",
+    "name": "Lucas Beraldo",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2003-11-24",
     "teamId": "524",
     "competitionId": "CL"
   },
@@ -6930,15 +6948,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "177522",
-    "name": "Desire Doue",
-    "position": "Midfielder",
-    "nationality": "France",
-    "dateOfBirth": "2005-06-03",
-    "teamId": "524",
-    "competitionId": "CL"
-  },
-  {
     "id": "178722",
     "name": "Vitinha",
     "position": "Midfielder",
@@ -6971,6 +6980,15 @@
     "position": "Midfielder",
     "nationality": "South Korea",
     "dateOfBirth": "2001-02-19",
+    "teamId": "524",
+    "competitionId": "CL"
+  },
+  {
+    "id": "246066",
+    "name": "Senny Mayulu",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2006-05-17",
     "teamId": "524",
     "competitionId": "CL"
   },
@@ -7038,11 +7056,29 @@
     "competitionId": "CL"
   },
   {
+    "id": "113285",
+    "name": "Khvicha Kvaratskhelia",
+    "position": "Forward",
+    "nationality": "Georgia",
+    "dateOfBirth": "2001-02-12",
+    "teamId": "524",
+    "competitionId": "CL"
+  },
+  {
     "id": "172762",
     "name": "Bradley Barcola",
     "position": "Forward",
     "nationality": "France",
     "dateOfBirth": "2002-09-02",
+    "teamId": "524",
+    "competitionId": "CL"
+  },
+  {
+    "id": "177522",
+    "name": "Desire Doue",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2005-06-03",
     "teamId": "524",
     "competitionId": "CL"
   },
@@ -7070,42 +7106,6 @@
     "position": "Forward",
     "nationality": "France",
     "dateOfBirth": "2008-01-03",
-    "teamId": "524",
-    "competitionId": "CL"
-  },
-  {
-    "id": "169204",
-    "name": "Lucas Beraldo",
-    "position": null,
-    "nationality": "Brazil",
-    "dateOfBirth": "2003-11-24",
-    "teamId": "524",
-    "competitionId": "CL"
-  },
-  {
-    "id": "143573",
-    "name": "Illia Zabarnyi",
-    "position": null,
-    "nationality": "Ukraine",
-    "dateOfBirth": "2002-09-01",
-    "teamId": "524",
-    "competitionId": "CL"
-  },
-  {
-    "id": "113285",
-    "name": "Khvicha Kvaratskhelia",
-    "position": null,
-    "nationality": "Georgia",
-    "dateOfBirth": "2001-02-12",
-    "teamId": "524",
-    "competitionId": "CL"
-  },
-  {
-    "id": "246066",
-    "name": "Senny Mayulu",
-    "position": null,
-    "nationality": "France",
-    "dateOfBirth": "2006-05-17",
     "teamId": "524",
     "competitionId": "CL"
   },
@@ -7164,6 +7164,24 @@
     "competitionId": "CL"
   },
   {
+    "id": "3314",
+    "name": "Eric Dier",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "1994-01-15",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
+    "id": "6493",
+    "name": "Thilo Kehrer",
+    "position": "Defender",
+    "nationality": "Germany",
+    "dateOfBirth": "1996-09-21",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
     "id": "7328",
     "name": "Wout Faes",
     "position": "Defender",
@@ -7173,11 +7191,47 @@
     "competitionId": "CL"
   },
   {
+    "id": "67965",
+    "name": "Jordan Teze",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1999-09-30",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
+    "id": "81039",
+    "name": "Mohammed Salisu",
+    "position": "Defender",
+    "nationality": "Ghana",
+    "dateOfBirth": "1999-04-17",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
+    "id": "154607",
+    "name": "Vanderson",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-06-21",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
     "id": "185069",
     "name": "Kassoum Ouattara",
     "position": "Defender",
     "nationality": "France",
     "dateOfBirth": "2004-10-14",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
+    "id": "188481",
+    "name": "Christian Mawissa",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2005-04-18",
     "teamId": "548",
     "competitionId": "CL"
   },
@@ -7200,6 +7254,24 @@
     "competitionId": "CL"
   },
   {
+    "id": "3366",
+    "name": "Paul Pogba",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "1993-03-15",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
+    "id": "3683",
+    "name": "Aleksandr Golovin",
+    "position": "Midfielder",
+    "nationality": "Russia",
+    "dateOfBirth": "1996-05-30",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
     "id": "6687",
     "name": "Denis Zakaria",
     "position": "Midfielder",
@@ -7218,20 +7290,29 @@
     "competitionId": "CL"
   },
   {
-    "id": "175701",
-    "name": "Maghnes Akliouche",
-    "position": "Midfielder",
-    "nationality": "France",
-    "dateOfBirth": "2002-02-25",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
     "id": "204269",
     "name": "Lamine Camara",
     "position": "Midfielder",
     "nationality": "Senegal",
     "dateOfBirth": "2004-01-01",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
+    "id": "221295",
+    "name": "Stanis Idumbo-Muzambo",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "dateOfBirth": "2005-06-29",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
+    "id": "244898",
+    "name": "Mamadou Coulibaly",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2004-04-21",
     "teamId": "548",
     "competitionId": "CL"
   },
@@ -7272,6 +7353,24 @@
     "competitionId": "CL"
   },
   {
+    "id": "15100",
+    "name": "Takumi Minamino",
+    "position": "Forward",
+    "nationality": "Japan",
+    "dateOfBirth": "1995-01-16",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
+    "id": "128040",
+    "name": "Ansu Fati",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2002-10-31",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
     "id": "131040",
     "name": "Folarin Balogun",
     "position": "Forward",
@@ -7290,128 +7389,29 @@
     "competitionId": "CL"
   },
   {
-    "id": "154607",
-    "name": "Vanderson",
-    "position": null,
-    "nationality": "Brazil",
-    "dateOfBirth": "2001-06-21",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "128040",
-    "name": "Ansu Fati",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2002-10-31",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "81039",
-    "name": "Mohammed Salisu",
-    "position": null,
-    "nationality": "Ghana",
-    "dateOfBirth": "1999-04-17",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "67965",
-    "name": "Jordan Teze",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "1999-09-30",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "15100",
-    "name": "Takumi Minamino",
-    "position": null,
-    "nationality": "Japan",
-    "dateOfBirth": "1995-01-16",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "6493",
-    "name": "Thilo Kehrer",
-    "position": null,
-    "nationality": "Germany",
-    "dateOfBirth": "1996-09-21",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "3683",
-    "name": "Aleksandr Golovin",
-    "position": null,
-    "nationality": "Russia",
-    "dateOfBirth": "1996-05-30",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "3366",
-    "name": "Paul Pogba",
-    "position": null,
+    "id": "175701",
+    "name": "Maghnes Akliouche",
+    "position": "Forward",
     "nationality": "France",
-    "dateOfBirth": "1993-03-15",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "3314",
-    "name": "Eric Dier",
-    "position": null,
-    "nationality": "England",
-    "dateOfBirth": "1994-01-15",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "244898",
-    "name": "Mamadou Coulibaly",
-    "position": null,
-    "nationality": "France",
-    "dateOfBirth": "2004-04-21",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "244696",
-    "name": "Paris Brunner",
-    "position": null,
-    "nationality": "Germany",
-    "dateOfBirth": "2006-02-15",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "221295",
-    "name": "Stanis Idumbo-Muzambo",
-    "position": null,
-    "nationality": "Belgium",
-    "dateOfBirth": "2005-06-29",
-    "teamId": "548",
-    "competitionId": "CL"
-  },
-  {
-    "id": "188481",
-    "name": "Christian Mawissa",
-    "position": null,
-    "nationality": "France",
-    "dateOfBirth": "2005-04-18",
+    "dateOfBirth": "2002-02-25",
     "teamId": "548",
     "competitionId": "CL"
   },
   {
     "id": "177260",
     "name": "Mika Biereth",
-    "position": null,
+    "position": "Forward",
     "nationality": "Denmark",
     "dateOfBirth": "2003-02-08",
+    "teamId": "548",
+    "competitionId": "CL"
+  },
+  {
+    "id": "244696",
+    "name": "Paris Brunner",
+    "position": "Forward",
+    "nationality": "Germany",
+    "dateOfBirth": "2006-02-15",
     "teamId": "548",
     "competitionId": "CL"
   },
@@ -9036,15 +9036,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "260975",
-    "name": "Vince Osuji",
-    "position": "Goalkeeper",
-    "nationality": "Nigeria",
-    "dateOfBirth": "2006-04-06",
-    "teamId": "851",
-    "competitionId": "CL"
-  },
-  {
     "id": "289785",
     "name": "Stefan Ostoici",
     "position": "Goalkeeper",
@@ -9126,6 +9117,24 @@
     "competitionId": "CL"
   },
   {
+    "id": "260975",
+    "name": "Vince Osuji",
+    "position": "Defender",
+    "nationality": "Nigeria",
+    "dateOfBirth": "2006-04-06",
+    "teamId": "851",
+    "competitionId": "CL"
+  },
+  {
+    "id": "7532",
+    "name": "Ludovit Reis",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2000-06-01",
+    "teamId": "851",
+    "competitionId": "CL"
+  },
+  {
     "id": "8888",
     "name": "Hans Vanaken",
     "position": "Midfielder",
@@ -9153,11 +9162,29 @@
     "competitionId": "CL"
   },
   {
+    "id": "147773",
+    "name": "Cisse Sandra",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "dateOfBirth": "2003-12-16",
+    "teamId": "851",
+    "competitionId": "CL"
+  },
+  {
     "id": "170776",
     "name": "Raphael Onyedika",
     "position": "Midfielder",
     "nationality": "Nigeria",
     "dateOfBirth": "2001-04-19",
+    "teamId": "851",
+    "competitionId": "CL"
+  },
+  {
+    "id": "171406",
+    "name": "Felix Lemarechal",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2003-08-07",
     "teamId": "851",
     "competitionId": "CL"
   },
@@ -9216,6 +9243,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "177321",
+    "name": "Nicolo Tresoldi",
+    "position": "Forward",
+    "nationality": "Italy",
+    "dateOfBirth": "2004-08-20",
+    "teamId": "851",
+    "competitionId": "CL"
+  },
+  {
     "id": "206779",
     "name": "Mamadou Diakhon",
     "position": "Forward",
@@ -9243,47 +9279,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "171406",
-    "name": "Felix Lemarechal",
-    "position": null,
-    "nationality": "France",
-    "dateOfBirth": "2003-08-07",
-    "teamId": "851",
-    "competitionId": "CL"
-  },
-  {
-    "id": "147773",
-    "name": "Cisse Sandra",
-    "position": null,
-    "nationality": "Belgium",
-    "dateOfBirth": "2003-12-16",
-    "teamId": "851",
-    "competitionId": "CL"
-  },
-  {
-    "id": "7532",
-    "name": "Ludovit Reis",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "2000-06-01",
-    "teamId": "851",
-    "competitionId": "CL"
-  },
-  {
     "id": "188920",
     "name": "Aleksandar Stankovic",
     "position": null,
     "nationality": "Italy",
     "dateOfBirth": "2005-08-03",
-    "teamId": "851",
-    "competitionId": "CL"
-  },
-  {
-    "id": "177321",
-    "name": "Nicolo Tresoldi",
-    "position": null,
-    "nationality": "Italy",
-    "dateOfBirth": "2004-08-20",
     "teamId": "851",
     "competitionId": "CL"
   },
@@ -9810,6 +9810,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "169152",
+    "name": "Amir Richardson",
+    "position": "Midfielder",
+    "nationality": "Morocco",
+    "dateOfBirth": "2002-01-24",
+    "teamId": "1876",
+    "competitionId": "CL"
+  },
+  {
     "id": "205565",
     "name": "William Clem",
     "position": "Midfielder",
@@ -9923,15 +9932,6 @@
     "position": "Forward",
     "nationality": "Cameroon",
     "dateOfBirth": "2007-09-25",
-    "teamId": "1876",
-    "competitionId": "CL"
-  },
-  {
-    "id": "169152",
-    "name": "Amir Richardson",
-    "position": null,
-    "nationality": "Morocco",
-    "dateOfBirth": "2002-01-24",
     "teamId": "1876",
     "competitionId": "CL"
   },
@@ -10458,6 +10458,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "126432",
+    "name": "Ousseynou Niang",
+    "position": "Midfielder",
+    "nationality": "Senegal",
+    "dateOfBirth": "2001-10-12",
+    "teamId": "3929",
+    "competitionId": "CL"
+  },
+  {
     "id": "130454",
     "name": "Adem Zorgane",
     "position": "Midfielder",
@@ -10494,20 +10503,20 @@
     "competitionId": "CL"
   },
   {
+    "id": "213425",
+    "name": "Anan Khalaili",
+    "position": "Midfielder",
+    "nationality": "Israel",
+    "dateOfBirth": "2004-09-03",
+    "teamId": "3929",
+    "competitionId": "CL"
+  },
+  {
     "id": "260723",
     "name": "Kamiel Van De Perre",
     "position": "Midfielder",
     "nationality": "Belgium",
     "dateOfBirth": "2004-02-12",
-    "teamId": "3929",
-    "competitionId": "CL"
-  },
-  {
-    "id": "126432",
-    "name": "Ousseynou Niang",
-    "position": "Forward",
-    "nationality": "Senegal",
-    "dateOfBirth": "2001-10-12",
     "teamId": "3929",
     "competitionId": "CL"
   },
@@ -10553,15 +10562,6 @@
     "position": "Forward",
     "nationality": "Austria",
     "dateOfBirth": "2001-06-10",
-    "teamId": "3929",
-    "competitionId": "CL"
-  },
-  {
-    "id": "213425",
-    "name": "Anan Khalaili",
-    "position": "Forward",
-    "nationality": "Israel",
-    "dateOfBirth": "2004-09-03",
     "teamId": "3929",
     "competitionId": "CL"
   },
