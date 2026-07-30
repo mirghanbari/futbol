@@ -326,6 +326,10 @@
     "venue": "RCDE Stadium, Barcelona",
     "broadcasts": [
       {
+        "name": "ABC",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN Deportes",
         "kind": "tv"
       },
@@ -409,6 +413,10 @@
     },
     "venue": "Estadio Martínez Valero, Elche",
     "broadcasts": [
+      {
+        "name": "ABC",
+        "kind": "tv"
+      },
       {
         "name": "ESPN Deportes",
         "kind": "tv"
