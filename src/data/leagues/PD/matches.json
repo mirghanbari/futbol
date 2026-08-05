@@ -270,6 +270,10 @@
     "venue": "San Mamés, Bilbao",
     "broadcasts": [
       {
+        "name": "ESPN2",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN Deportes",
         "kind": "tv"
       },
@@ -357,6 +361,10 @@
     },
     "venue": "Riyadh Air Metropolitano, Madrid",
     "broadcasts": [
+      {
+        "name": "ESPN2",
+        "kind": "tv"
+      },
       {
         "name": "ESPN Deportes",
         "kind": "tv"
