@@ -6,14 +6,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-07T18:00:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "1909",
     "awayTeamId": "670",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 3
+      "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 0.7,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 318,
+        "duelsWon": 59,
+        "boxTouches": 14,
+        "fouls": 6,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 53,
+        "xg": 3.35,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 354,
+        "duelsWon": 47,
+        "boxTouches": 27,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Kooi Stadium, Leeuwarden"
   },
