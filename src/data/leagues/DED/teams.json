@@ -1,18 +1,18 @@
 [
   {
-    "id": "1912",
-    "name": "Telstar 1963",
-    "shortName": "Telstar",
-    "tla": "TEL",
-    "crest": "https://crests.football-data.org/1912.png",
-    "competitionId": "DED"
-  },
-  {
     "id": "670",
     "name": "SBV Excelsior",
     "shortName": "Excelsior",
     "tla": "EXC",
     "crest": "https://crests.football-data.org/670.png",
+    "competitionId": "DED"
+  },
+  {
+    "id": "1912",
+    "name": "Telstar 1963",
+    "shortName": "Telstar",
+    "tla": "TEL",
+    "crest": "https://crests.football-data.org/1912.png",
     "competitionId": "DED"
   },
   {
@@ -45,14 +45,6 @@
     "shortName": "Twente",
     "tla": "TWE",
     "crest": "https://crests.football-data.org/666.png",
-    "competitionId": "DED"
-  },
-  {
-    "id": "1909",
-    "name": "SC Cambuur-Leeuwarden",
-    "shortName": "Cambuur",
-    "tla": "CAM",
-    "crest": "https://crests.football-data.org/1909.png",
     "competitionId": "DED"
   },
   {
@@ -141,6 +133,14 @@
     "shortName": "AZ",
     "tla": "AZ",
     "crest": "https://crests.football-data.org/682.png",
+    "competitionId": "DED"
+  },
+  {
+    "id": "1909",
+    "name": "SC Cambuur-Leeuwarden",
+    "shortName": "Cambuur",
+    "tla": "CAM",
+    "crest": "https://crests.football-data.org/1909.png",
     "competitionId": "DED"
   }
 ]
