@@ -116,14 +116,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-08T19:30:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "9136",
     "awayTeamId": "498",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 1.01,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 278,
+        "duelsWon": 56,
+        "boxTouches": 9,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 56,
+        "xg": 2.63,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 392,
+        "duelsWon": 64,
+        "boxTouches": 30,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Estádio José Gomes, Amadora"
   },
