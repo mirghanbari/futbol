@@ -1,5 +1,13 @@
 [
   {
+    "id": "503",
+    "name": "FC Porto",
+    "shortName": "Porto",
+    "tla": "FCP",
+    "crest": "https://crests.football-data.org/503.png",
+    "competitionId": "PPL"
+  },
+  {
     "id": "5575",
     "name": "CS Marítimo",
     "shortName": "Marítimo",
@@ -13,14 +21,6 @@
     "shortName": "Arouca",
     "tla": "FCA",
     "crest": "https://crests.football-data.org/712.png",
-    "competitionId": "PPL"
-  },
-  {
-    "id": "503",
-    "name": "FC Porto",
-    "shortName": "Porto",
-    "tla": "FCP",
-    "crest": "https://crests.football-data.org/503.png",
     "competitionId": "PPL"
   },
   {
@@ -128,19 +128,19 @@
     "competitionId": "PPL"
   },
   {
-    "id": "7822",
-    "name": "FC Alverca",
-    "shortName": "Alverca",
-    "tla": "ALV",
-    "crest": "https://crests.football-data.org/7822.png",
-    "competitionId": "PPL"
-  },
-  {
     "id": "5543",
     "name": "Vitória SC",
     "shortName": "Vitória SC",
     "tla": "GUI",
     "crest": "https://crests.football-data.org/5543.png",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "7822",
+    "name": "FC Alverca",
+    "shortName": "Alverca",
+    "tla": "ALV",
+    "crest": "https://crests.football-data.org/7822.png",
     "competitionId": "PPL"
   }
 ]
