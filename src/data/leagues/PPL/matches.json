@@ -236,14 +236,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-09T19:30:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "583",
     "awayTeamId": "5613",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 0.21,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 259,
+        "duelsWon": 47,
+        "boxTouches": 4,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 64,
+        "xg": 1.5,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 524,
+        "duelsWon": 59,
+        "boxTouches": 24,
+        "fouls": 20,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "Estádio Comendador Joaquim de Almeida Freitas, Moreira de Conegos"
   },
@@ -254,14 +282,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-09T19:30:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "5533",
     "awayTeamId": "496",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 1.5,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 434,
+        "duelsWon": 37,
+        "boxTouches": 19,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 36,
+        "xg": 0.31,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 224,
+        "duelsWon": 45,
+        "boxTouches": 14,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Estádio Cidade de Barcelos, Barcelos"
   },
@@ -272,14 +328,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-09T19:30:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "1903",
     "awayTeamId": "5527",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 3.11,
+        "shots": 28,
+        "shotsOnTarget": 11,
+        "accuratePasses": 452,
+        "duelsWon": 50,
+        "boxTouches": 73,
+        "fouls": 14,
+        "corners": 10,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 38,
+        "xg": 1.18,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 258,
+        "duelsWon": 37,
+        "boxTouches": 16,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 8
+      }
     },
     "venue": "Estádio da Luz, Lisbon"
   },
