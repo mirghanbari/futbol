@@ -6,7 +6,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-07T19:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "582",
     "awayTeamId": "5531",
     "homeTeam": {
@@ -52,14 +52,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-08T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5575",
     "awayTeamId": "6618",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 1.28,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 239,
+        "duelsWon": 55,
+        "boxTouches": 24,
+        "fouls": 17,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 61,
+        "xg": 0.64,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 416,
+        "duelsWon": 54,
+        "boxTouches": 17,
+        "fouls": 13,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Estádio do Marítimo, Funchal"
   },
