@@ -2709,15 +2709,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "7848",
-    "name": "Anthony Gordon",
-    "position": "Midfielder",
-    "nationality": "England",
-    "dateOfBirth": "2001-02-24",
-    "teamId": "67",
-    "competitionId": "CL"
-  },
-  {
     "id": "10653",
     "name": "Joelinton",
     "position": "Midfielder",
@@ -2777,6 +2768,15 @@
     "position": "Forward",
     "nationality": "Congo DR",
     "dateOfBirth": "1996-09-03",
+    "teamId": "67",
+    "competitionId": "CL"
+  },
+  {
+    "id": "7848",
+    "name": "Anthony Gordon",
+    "position": "Forward",
+    "nationality": "England",
+    "dateOfBirth": "2001-02-24",
     "teamId": "67",
     "competitionId": "CL"
   },
@@ -3231,11 +3231,74 @@
     "competitionId": "CL"
   },
   {
+    "id": "8479",
+    "name": "Yuri Berchiche",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "1990-02-10",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "32579",
+    "name": "Yeray Álvarez",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "1995-01-24",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "32618",
+    "name": "Daniel Vivian",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "1999-07-05",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "33091",
+    "name": "Andoni Gorosabel",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "1996-08-04",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "136000",
+    "name": "Jesús Areso",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "1999-07-02",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "151439",
+    "name": "Aitor Paredes Casamichana",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-04-29",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
     "id": "217432",
     "name": "Unai Eguíluz",
     "position": "Defender",
     "nationality": "Spain",
     "dateOfBirth": "2002-03-19",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "246633",
+    "name": "Adama Boiro",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2002-06-22",
     "teamId": "77",
     "competitionId": "CL"
   },
@@ -3276,6 +3339,42 @@
     "competitionId": "CL"
   },
   {
+    "id": "32481",
+    "name": "Ruiz de Galarreta",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "1993-08-06",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "126878",
+    "name": "Oihan Sancet",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-04-25",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "168663",
+    "name": "Benat Prados",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-02-08",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "244599",
+    "name": "Mikel Jauregizar",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-11-13",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
     "id": "278297",
     "name": "Alejandro Rego",
     "position": "Midfielder",
@@ -3303,6 +3402,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "2294",
+    "name": "Álex Berenguer",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "1995-07-04",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
     "id": "32629",
     "name": "Iñaki Williams",
     "position": "Forward",
@@ -3312,11 +3420,38 @@
     "competitionId": "CL"
   },
   {
+    "id": "81565",
+    "name": "Gorka Guruzeta",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "1996-09-12",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "101870",
+    "name": "Roberto Navarro",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2002-04-12",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
     "id": "157135",
     "name": "Nico Williams",
     "position": "Forward",
     "nationality": "Spain",
     "dateOfBirth": "2002-07-12",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "172027",
+    "name": "Nico Serrano",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-03-05",
     "teamId": "77",
     "competitionId": "CL"
   },
@@ -3335,6 +3470,15 @@
     "position": "Forward",
     "nationality": "Spain",
     "dateOfBirth": "2003-01-16",
+    "teamId": "77",
+    "competitionId": "CL"
+  },
+  {
+    "id": "261580",
+    "name": "Sannadi",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-02-01",
     "teamId": "77",
     "competitionId": "CL"
   },
@@ -3375,60 +3519,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "172027",
-    "name": "Nico Serrano",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2003-03-05",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "168663",
-    "name": "Benat Prados",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2001-02-08",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "151439",
-    "name": "Aitor Paredes Casamichana",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2000-04-29",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "136000",
-    "name": "Jesús Areso",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1999-07-02",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "126878",
-    "name": "Oihan Sancet",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2000-04-25",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "101870",
-    "name": "Roberto Navarro",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2002-04-12",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
     "id": "96868",
     "name": "Mikel Vesga",
     "position": null,
@@ -3438,101 +3528,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "81565",
-    "name": "Gorka Guruzeta",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1996-09-12",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "33091",
-    "name": "Andoni Gorosabel",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1996-08-04",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "32618",
-    "name": "Daniel Vivian",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1999-07-05",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
     "id": "32581",
     "name": "Iñigo Lekue",
     "position": null,
     "nationality": "Spain",
     "dateOfBirth": "1993-05-04",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "32579",
-    "name": "Yeray Álvarez",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1995-01-24",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "32481",
-    "name": "Ruiz de Galarreta",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1993-08-06",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "8479",
-    "name": "Yuri Berchiche",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1990-02-10",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "2294",
-    "name": "Álex Berenguer",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1995-07-04",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "261580",
-    "name": "Sannadi",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2001-02-01",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "246633",
-    "name": "Adama Boiro",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2002-06-22",
-    "teamId": "77",
-    "competitionId": "CL"
-  },
-  {
-    "id": "244599",
-    "name": "Mikel Jauregizar",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2003-11-13",
     "teamId": "77",
     "competitionId": "CL"
   },
@@ -3600,11 +3600,29 @@
     "competitionId": "CL"
   },
   {
+    "id": "70",
+    "name": "Marcos Llorente",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "1995-01-30",
+    "teamId": "78",
+    "competitionId": "CL"
+  },
+  {
     "id": "46452",
     "name": "Nahuel Molina",
     "position": "Defender",
     "nationality": "Argentina",
     "dateOfBirth": "1998-04-06",
+    "teamId": "78",
+    "competitionId": "CL"
+  },
+  {
+    "id": "99791",
+    "name": "Robin Le Normand",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "1996-11-11",
     "teamId": "78",
     "competitionId": "CL"
   },
@@ -3659,15 +3677,6 @@
     "position": "Defender",
     "nationality": "Spain",
     "dateOfBirth": "2005-01-10",
-    "teamId": "78",
-    "competitionId": "CL"
-  },
-  {
-    "id": "70",
-    "name": "Marcos Llorente",
-    "position": "Midfielder",
-    "nationality": "Spain",
-    "dateOfBirth": "1995-01-30",
     "teamId": "78",
     "competitionId": "CL"
   },
@@ -3843,15 +3852,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "99791",
-    "name": "Robin Le Normand",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1996-11-11",
-    "teamId": "78",
-    "competitionId": "CL"
-  },
-  {
     "id": "15542",
     "name": "Dávid Hancko",
     "position": null,
@@ -3951,6 +3951,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "3455",
+    "name": "Andreas Christensen",
+    "position": "Defender",
+    "nationality": "Denmark",
+    "dateOfBirth": "1996-04-10",
+    "teamId": "81",
+    "competitionId": "CL"
+  },
+  {
     "id": "8499",
     "name": "Jules Koundé",
     "position": "Defender",
@@ -3978,11 +3987,29 @@
     "competitionId": "CL"
   },
   {
+    "id": "172761",
+    "name": "Álex Balde",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-10-18",
+    "teamId": "81",
+    "competitionId": "CL"
+  },
+  {
     "id": "217540",
     "name": "Pau Cubarsí",
     "position": "Defender",
     "nationality": "Spain",
     "dateOfBirth": "2007-01-22",
+    "teamId": "81",
+    "competitionId": "CL"
+  },
+  {
+    "id": "264320",
+    "name": "Gerard Martín",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2002-02-26",
     "teamId": "81",
     "competitionId": "CL"
   },
@@ -4005,6 +4032,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "287848",
+    "name": "Xavi Espart",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2007-05-21",
+    "teamId": "81",
+    "competitionId": "CL"
+  },
+  {
     "id": "7559",
     "name": "Frenkie de Jong",
     "position": "Midfielder",
@@ -4019,15 +4055,6 @@
     "position": "Midfielder",
     "nationality": "Spain",
     "dateOfBirth": "1998-05-07",
-    "teamId": "81",
-    "competitionId": "CL"
-  },
-  {
-    "id": "33154",
-    "name": "Ferrán Torres",
-    "position": "Midfielder",
-    "nationality": "Spain",
-    "dateOfBirth": "2000-02-29",
     "teamId": "81",
     "competitionId": "CL"
   },
@@ -4050,6 +4077,33 @@
     "competitionId": "CL"
   },
   {
+    "id": "188817",
+    "name": "Marc Casado",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-09-14",
+    "teamId": "81",
+    "competitionId": "CL"
+  },
+  {
+    "id": "214533",
+    "name": "Fermín López",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-05-11",
+    "teamId": "81",
+    "competitionId": "CL"
+  },
+  {
+    "id": "264321",
+    "name": "Marc Bernal",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2007-05-26",
+    "teamId": "81",
+    "competitionId": "CL"
+  },
+  {
     "id": "270320",
     "name": "Guille Fernández",
     "position": "Midfielder",
@@ -4059,11 +4113,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "287848",
-    "name": "Xavi Espart",
+    "id": "270450",
+    "name": "Toni Fernández",
     "position": "Midfielder",
     "nationality": "Spain",
-    "dateOfBirth": "2007-05-21",
+    "dateOfBirth": "2008-07-15",
     "teamId": "81",
     "competitionId": "CL"
   },
@@ -4082,6 +4136,15 @@
     "position": "Forward",
     "nationality": "England",
     "dateOfBirth": "1997-10-31",
+    "teamId": "81",
+    "competitionId": "CL"
+  },
+  {
+    "id": "33154",
+    "name": "Ferrán Torres",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2000-02-29",
     "teamId": "81",
     "competitionId": "CL"
   },
@@ -4122,15 +4185,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "270450",
-    "name": "Toni Fernández",
-    "position": "Forward",
-    "nationality": "Spain",
-    "dateOfBirth": "2008-07-15",
-    "teamId": "81",
-    "competitionId": "CL"
-  },
-  {
     "id": "287866",
     "name": "Juan Hernández",
     "position": "Forward",
@@ -4140,65 +4194,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "172761",
-    "name": "Álex Balde",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2003-10-18",
-    "teamId": "81",
-    "competitionId": "CL"
-  },
-  {
-    "id": "3455",
-    "name": "Andreas Christensen",
-    "position": null,
-    "nationality": "Denmark",
-    "dateOfBirth": "1996-04-10",
-    "teamId": "81",
-    "competitionId": "CL"
-  },
-  {
     "id": "371",
     "name": "Robert Lewandowski",
     "position": null,
     "nationality": "Poland",
     "dateOfBirth": "1988-08-21",
-    "teamId": "81",
-    "competitionId": "CL"
-  },
-  {
-    "id": "264321",
-    "name": "Marc Bernal",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2007-05-26",
-    "teamId": "81",
-    "competitionId": "CL"
-  },
-  {
-    "id": "264320",
-    "name": "Gerard Martín",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2002-02-26",
-    "teamId": "81",
-    "competitionId": "CL"
-  },
-  {
-    "id": "214533",
-    "name": "Fermín López",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2003-05-11",
-    "teamId": "81",
-    "competitionId": "CL"
-  },
-  {
-    "id": "188817",
-    "name": "Marc Casado",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2003-09-14",
     "teamId": "81",
     "competitionId": "CL"
   },
@@ -4266,6 +4266,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "1337",
+    "name": "Éder Militão",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "1998-01-18",
+    "teamId": "86",
+    "competitionId": "CL"
+  },
+  {
     "id": "3177",
     "name": "Antonio Rüdiger",
     "position": "Defender",
@@ -4275,11 +4284,38 @@
     "competitionId": "CL"
   },
   {
+    "id": "7867",
+    "name": "Trent Alexander-Arnold",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "1998-10-07",
+    "teamId": "86",
+    "competitionId": "CL"
+  },
+  {
+    "id": "8458",
+    "name": "Ferland Mendy",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1995-06-08",
+    "teamId": "86",
+    "competitionId": "CL"
+  },
+  {
     "id": "182020",
     "name": "Álvaro Carreras",
     "position": "Defender",
     "nationality": "Spain",
     "dateOfBirth": "2003-03-23",
+    "teamId": "86",
+    "competitionId": "CL"
+  },
+  {
+    "id": "191727",
+    "name": "Dean Huijsen",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2005-04-14",
     "teamId": "86",
     "competitionId": "CL"
   },
@@ -4298,6 +4334,15 @@
     "position": "Defender",
     "nationality": "Spain",
     "dateOfBirth": "2004-03-14",
+    "teamId": "86",
+    "competitionId": "CL"
+  },
+  {
+    "id": "272712",
+    "name": "Raúl",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-02-13",
     "teamId": "86",
     "competitionId": "CL"
   },
@@ -4365,20 +4410,20 @@
     "competitionId": "CL"
   },
   {
-    "id": "7887",
-    "name": "Brahim Diaz",
-    "position": "Midfielder",
-    "nationality": "Morocco",
-    "dateOfBirth": "1999-08-03",
-    "teamId": "86",
-    "competitionId": "CL"
-  },
-  {
     "id": "8514",
     "name": "Aurélien Tchouameni",
     "position": "Midfielder",
     "nationality": "France",
     "dateOfBirth": "2000-01-27",
+    "teamId": "86",
+    "competitionId": "CL"
+  },
+  {
+    "id": "102343",
+    "name": "Eduardo Camavinga",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2002-11-10",
     "teamId": "86",
     "competitionId": "CL"
   },
@@ -4455,6 +4500,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "1324",
+    "name": "Rodrygo",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2001-01-09",
+    "teamId": "86",
+    "competitionId": "CL"
+  },
+  {
     "id": "1556",
     "name": "Vinicius Junior",
     "position": "Forward",
@@ -4469,6 +4523,15 @@
     "position": "Forward",
     "nationality": "France",
     "dateOfBirth": "1998-12-20",
+    "teamId": "86",
+    "competitionId": "CL"
+  },
+  {
+    "id": "7887",
+    "name": "Brahim Diaz",
+    "position": "Forward",
+    "nationality": "Morocco",
+    "dateOfBirth": "1999-08-03",
     "teamId": "86",
     "competitionId": "CL"
   },
@@ -4509,42 +4572,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "191727",
-    "name": "Dean Huijsen",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2005-04-14",
-    "teamId": "86",
-    "competitionId": "CL"
-  },
-  {
-    "id": "102343",
-    "name": "Eduardo Camavinga",
-    "position": null,
-    "nationality": "France",
-    "dateOfBirth": "2002-11-10",
-    "teamId": "86",
-    "competitionId": "CL"
-  },
-  {
-    "id": "8458",
-    "name": "Ferland Mendy",
-    "position": null,
-    "nationality": "France",
-    "dateOfBirth": "1995-06-08",
-    "teamId": "86",
-    "competitionId": "CL"
-  },
-  {
-    "id": "7867",
-    "name": "Trent Alexander-Arnold",
-    "position": null,
-    "nationality": "England",
-    "dateOfBirth": "1998-10-07",
-    "teamId": "86",
-    "competitionId": "CL"
-  },
-  {
     "id": "3194",
     "name": "Dani Carvajal",
     "position": null,
@@ -4554,38 +4581,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "1337",
-    "name": "Éder Militão",
-    "position": null,
-    "nationality": "Brazil",
-    "dateOfBirth": "1998-01-18",
-    "teamId": "86",
-    "competitionId": "CL"
-  },
-  {
-    "id": "1324",
-    "name": "Rodrygo",
-    "position": null,
-    "nationality": "Brazil",
-    "dateOfBirth": "2001-01-09",
-    "teamId": "86",
-    "competitionId": "CL"
-  },
-  {
     "id": "68",
     "name": "Dani Ceballos",
     "position": null,
     "nationality": "Spain",
     "dateOfBirth": "1996-08-07",
-    "teamId": "86",
-    "competitionId": "CL"
-  },
-  {
-    "id": "272712",
-    "name": "Raúl",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2003-02-13",
     "teamId": "86",
     "competitionId": "CL"
   },
@@ -4635,6 +4635,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "7996",
+    "name": "Juan Foyth",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "dateOfBirth": "1998-01-12",
+    "teamId": "94",
+    "competitionId": "CL"
+  },
+  {
     "id": "177823",
     "name": "Alex Freeman",
     "position": "Defender",
@@ -4653,11 +4662,47 @@
     "competitionId": "CL"
   },
   {
+    "id": "180289",
+    "name": "Sergi Cardona",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "1999-07-08",
+    "teamId": "94",
+    "competitionId": "CL"
+  },
+  {
+    "id": "212858",
+    "name": "Santiago Mouriño",
+    "position": "Defender",
+    "nationality": "Uruguay",
+    "dateOfBirth": "2002-02-13",
+    "teamId": "94",
+    "competitionId": "CL"
+  },
+  {
+    "id": "217521",
+    "name": "Pau Navarro",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2005-04-25",
+    "teamId": "94",
+    "competitionId": "CL"
+  },
+  {
     "id": "229014",
     "name": "Sierra Arnal",
     "position": "Defender",
     "nationality": "Spain",
     "dateOfBirth": "2003-03-17",
+    "teamId": "94",
+    "competitionId": "CL"
+  },
+  {
+    "id": "244860",
+    "name": "Willy Kambwala",
+    "position": "Defender",
+    "nationality": "DR Congo",
+    "dateOfBirth": "2004-08-25",
     "teamId": "94",
     "competitionId": "CL"
   },
@@ -4698,15 +4743,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "113175",
-    "name": "Tajon Buchanan",
-    "position": "Midfielder",
-    "nationality": "Canada",
-    "dateOfBirth": "1999-02-08",
-    "teamId": "94",
-    "competitionId": "CL"
-  },
-  {
     "id": "213263",
     "name": "Santi Comesaña",
     "position": "Midfielder",
@@ -4743,11 +4779,65 @@
     "competitionId": "CL"
   },
   {
+    "id": "7936",
+    "name": "Ayoze Pérez",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "1993-07-29",
+    "teamId": "94",
+    "competitionId": "CL"
+  },
+  {
     "id": "8412",
     "name": "Nicolas Pépé",
     "position": "Forward",
     "nationality": "Ivory Coast",
     "dateOfBirth": "1995-05-29",
+    "teamId": "94",
+    "competitionId": "CL"
+  },
+  {
+    "id": "32324",
+    "name": "Alfonso González",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "1999-05-04",
+    "teamId": "94",
+    "competitionId": "CL"
+  },
+  {
+    "id": "32719",
+    "name": "Gerard Moreno",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "1992-04-07",
+    "teamId": "94",
+    "competitionId": "CL"
+  },
+  {
+    "id": "113175",
+    "name": "Tajon Buchanan",
+    "position": "Forward",
+    "nationality": "Canada",
+    "dateOfBirth": "1999-02-08",
+    "teamId": "94",
+    "competitionId": "CL"
+  },
+  {
+    "id": "136646",
+    "name": "Georges Mikautadze",
+    "position": "Forward",
+    "nationality": "Georgia",
+    "dateOfBirth": "2000-10-31",
+    "teamId": "94",
+    "competitionId": "CL"
+  },
+  {
+    "id": "150533",
+    "name": "Alberto Moleiro",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-09-30",
     "teamId": "94",
     "competitionId": "CL"
   },
@@ -4788,60 +4878,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "150533",
-    "name": "Alberto Moleiro",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2003-09-30",
-    "teamId": "94",
-    "competitionId": "CL"
-  },
-  {
-    "id": "136646",
-    "name": "Georges Mikautadze",
-    "position": null,
-    "nationality": "Georgia",
-    "dateOfBirth": "2000-10-31",
-    "teamId": "94",
-    "competitionId": "CL"
-  },
-  {
-    "id": "32719",
-    "name": "Gerard Moreno",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1992-04-07",
-    "teamId": "94",
-    "competitionId": "CL"
-  },
-  {
-    "id": "32324",
-    "name": "Alfonso González",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1999-05-04",
-    "teamId": "94",
-    "competitionId": "CL"
-  },
-  {
-    "id": "7996",
-    "name": "Juan Foyth",
-    "position": null,
-    "nationality": "Argentina",
-    "dateOfBirth": "1998-01-12",
-    "teamId": "94",
-    "competitionId": "CL"
-  },
-  {
-    "id": "7936",
-    "name": "Ayoze Pérez",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1993-07-29",
-    "teamId": "94",
-    "competitionId": "CL"
-  },
-  {
     "id": "3198",
     "name": "Dani Parejo",
     "position": null,
@@ -4865,42 +4901,6 @@
     "position": null,
     "nationality": "Spain",
     "dateOfBirth": "2005-02-17",
-    "teamId": "94",
-    "competitionId": "CL"
-  },
-  {
-    "id": "244860",
-    "name": "Willy Kambwala",
-    "position": null,
-    "nationality": "DR Congo",
-    "dateOfBirth": "2004-08-25",
-    "teamId": "94",
-    "competitionId": "CL"
-  },
-  {
-    "id": "217521",
-    "name": "Pau Navarro",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2005-04-25",
-    "teamId": "94",
-    "competitionId": "CL"
-  },
-  {
-    "id": "212858",
-    "name": "Santiago Mouriño",
-    "position": null,
-    "nationality": "Uruguay",
-    "dateOfBirth": "2002-02-13",
-    "teamId": "94",
-    "competitionId": "CL"
-  },
-  {
-    "id": "180289",
-    "name": "Sergi Cardona",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1999-07-08",
     "teamId": "94",
     "competitionId": "CL"
   },
@@ -5643,6 +5643,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "214537",
+    "name": "Facundo González",
+    "position": "Defender",
+    "nationality": "Uruguay",
+    "dateOfBirth": "2003-06-06",
+    "teamId": "109",
+    "competitionId": "CL"
+  },
+  {
     "id": "261736",
     "name": "Stefano Turco",
     "position": "Defender",
@@ -5792,15 +5801,6 @@
     "position": null,
     "nationality": "Italy",
     "dateOfBirth": "1998-01-08",
-    "teamId": "109",
-    "competitionId": "CL"
-  },
-  {
-    "id": "214537",
-    "name": "Facundo González",
-    "position": null,
-    "nationality": "Uruguay",
-    "dateOfBirth": "2003-06-06",
     "teamId": "109",
     "competitionId": "CL"
   },
@@ -6696,6 +6696,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "7801",
+    "name": "Pierre-Emerick Aubameyang",
+    "position": "Forward",
+    "nationality": "Gabon",
+    "dateOfBirth": "1989-06-18",
+    "teamId": "516",
+    "competitionId": "CL"
+  },
+  {
     "id": "8476",
     "name": "Amine Gouiri",
     "position": "Forward",
@@ -6755,15 +6764,6 @@
     "position": null,
     "nationality": "England",
     "dateOfBirth": "2001-10-01",
-    "teamId": "516",
-    "competitionId": "CL"
-  },
-  {
-    "id": "7801",
-    "name": "Pierre-Emerick Aubameyang",
-    "position": null,
-    "nationality": "Gabon",
-    "dateOfBirth": "1989-06-18",
     "teamId": "516",
     "competitionId": "CL"
   },

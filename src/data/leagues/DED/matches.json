@@ -300,14 +300,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-09T12:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "677",
     "awayTeamId": "676",
     "homeTeam": {
       "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 1.55,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 365,
+        "duelsWon": 52,
+        "boxTouches": 36,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 41,
+        "xg": 2.27,
+        "shots": 14,
+        "shotsOnTarget": 7,
+        "accuratePasses": 225,
+        "duelsWon": 52,
+        "boxTouches": 27,
+        "fouls": 17,
+        "corners": 1,
+        "offsides": 4,
+        "saves": 3
+      }
     },
     "venue": "Euroborg, Groningen"
   },
@@ -318,14 +346,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-09T12:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "684",
     "awayTeamId": "678",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 31,
+        "xg": 0.59,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 173,
+        "duelsWon": 52,
+        "boxTouches": 13,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 69,
+        "xg": 1.54,
+        "shots": 26,
+        "shotsOnTarget": 6,
+        "accuratePasses": 482,
+        "duelsWon": 47,
+        "boxTouches": 42,
+        "fouls": 10,
+        "corners": 10,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "MAC³PARK Stadion, Zwolle",
     "broadcasts": [
