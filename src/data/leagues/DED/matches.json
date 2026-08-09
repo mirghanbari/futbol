@@ -398,14 +398,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-09T14:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "673",
     "awayTeamId": "666",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.39,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 395,
+        "duelsWon": 34,
+        "boxTouches": 12,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 54,
+        "xg": 1.73,
+        "shots": 19,
+        "shotsOnTarget": 3,
+        "accuratePasses": 459,
+        "duelsWon": 38,
+        "boxTouches": 29,
+        "fouls": 7,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Abe Lenstra Stadion, Heerenveen"
   },
