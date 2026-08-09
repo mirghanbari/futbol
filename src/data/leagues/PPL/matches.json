@@ -236,14 +236,14 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-09T19:30:00Z",
-    "status": "in-play",
+    "status": "paused",
     "homeTeamId": "583",
     "awayTeamId": "5613",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Estádio Comendador Joaquim de Almeida Freitas, Moreira de Conegos"
   },
@@ -254,7 +254,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-09T19:30:00Z",
-    "status": "in-play",
+    "status": "paused",
     "homeTeamId": "5533",
     "awayTeamId": "496",
     "homeTeam": {
@@ -272,11 +272,11 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-09T19:30:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "1903",
     "awayTeamId": "5527",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
