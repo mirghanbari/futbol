@@ -4473,6 +4473,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "217658",
+    "name": "Gonzalo García",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2004-03-24",
+    "teamId": "86",
+    "competitionId": "CL"
+  },
+  {
     "id": "263282",
     "name": "Álvaro Leiva",
     "position": "Forward",
@@ -4577,15 +4586,6 @@
     "position": null,
     "nationality": "Spain",
     "dateOfBirth": "2003-02-13",
-    "teamId": "86",
-    "competitionId": "CL"
-  },
-  {
-    "id": "217658",
-    "name": "Gonzalo García",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2004-03-24",
     "teamId": "86",
     "competitionId": "CL"
   },
@@ -5247,6 +5247,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "2053",
+    "name": "Stefan de Vrij",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1992-02-05",
+    "teamId": "108",
+    "competitionId": "CL"
+  },
+  {
     "id": "7417",
     "name": "Denzel Dumfries",
     "position": "Defender",
@@ -5477,15 +5486,6 @@
     "position": null,
     "nationality": "Poland",
     "dateOfBirth": "1994-05-20",
-    "teamId": "108",
-    "competitionId": "CL"
-  },
-  {
-    "id": "2053",
-    "name": "Stefan de Vrij",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "1992-02-05",
     "teamId": "108",
     "competitionId": "CL"
   },
@@ -8118,11 +8118,29 @@
     "competitionId": "CL"
   },
   {
+    "id": "137678",
+    "name": "Lorenzo Pirola",
+    "position": "Defender",
+    "nationality": "Italy",
+    "dateOfBirth": "2002-02-20",
+    "teamId": "654",
+    "competitionId": "CL"
+  },
+  {
     "id": "185116",
     "name": "Costinha",
     "position": "Defender",
     "nationality": "Portugal",
     "dateOfBirth": "2000-03-26",
+    "teamId": "654",
+    "competitionId": "CL"
+  },
+  {
+    "id": "188088",
+    "name": "Bruno Onyemaechi",
+    "position": "Defender",
+    "nationality": "Nigeria",
+    "dateOfBirth": "1999-04-03",
     "teamId": "654",
     "competitionId": "CL"
   },
@@ -8141,6 +8159,24 @@
     "position": "Defender",
     "nationality": "Greece",
     "dateOfBirth": "2004-12-23",
+    "teamId": "654",
+    "competitionId": "CL"
+  },
+  {
+    "id": "30299",
+    "name": "Yusuf Yazıcı",
+    "position": "Midfielder",
+    "nationality": "Turkey",
+    "dateOfBirth": "1997-01-29",
+    "teamId": "654",
+    "competitionId": "CL"
+  },
+  {
+    "id": "33343",
+    "name": "Dani García",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "1990-05-24",
     "teamId": "654",
     "competitionId": "CL"
   },
@@ -8235,6 +8271,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "3256",
+    "name": "Gelson Martins",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "dateOfBirth": "1995-05-11",
+    "teamId": "654",
+    "competitionId": "CL"
+  },
+  {
     "id": "3820",
     "name": "Mehdi Taremi",
     "position": "Forward",
@@ -8262,6 +8307,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "178810",
+    "name": "André Luiz",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2002-02-23",
+    "teamId": "654",
+    "competitionId": "CL"
+  },
+  {
     "id": "251000",
     "name": "Konstantinos Angelakis",
     "position": "Forward",
@@ -8280,65 +8334,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "137678",
-    "name": "Lorenzo Pirola",
-    "position": null,
-    "nationality": "Italy",
-    "dateOfBirth": "2002-02-20",
-    "teamId": "654",
-    "competitionId": "CL"
-  },
-  {
-    "id": "33343",
-    "name": "Dani García",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1990-05-24",
-    "teamId": "654",
-    "competitionId": "CL"
-  },
-  {
-    "id": "30299",
-    "name": "Yusuf Yazıcı",
-    "position": null,
-    "nationality": "Turkey",
-    "dateOfBirth": "1997-01-29",
-    "teamId": "654",
-    "competitionId": "CL"
-  },
-  {
     "id": "15890",
     "name": "Daniel Podence",
     "position": null,
     "nationality": "Portugal",
     "dateOfBirth": "1995-10-21",
-    "teamId": "654",
-    "competitionId": "CL"
-  },
-  {
-    "id": "3256",
-    "name": "Gelson Martins",
-    "position": null,
-    "nationality": "Portugal",
-    "dateOfBirth": "1995-05-11",
-    "teamId": "654",
-    "competitionId": "CL"
-  },
-  {
-    "id": "188088",
-    "name": "Bruno Onyemaechi",
-    "position": null,
-    "nationality": "Nigeria",
-    "dateOfBirth": "1999-04-03",
-    "teamId": "654",
-    "competitionId": "CL"
-  },
-  {
-    "id": "178810",
-    "name": "André Luiz",
-    "position": null,
-    "nationality": "Brazil",
-    "dateOfBirth": "2002-02-23",
     "teamId": "654",
     "competitionId": "CL"
   },
@@ -9702,6 +9702,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "7676",
+    "name": "Pantelís Chatzidiákos",
+    "position": "Defender",
+    "nationality": "Greece",
+    "dateOfBirth": "1997-01-18",
+    "teamId": "1876",
+    "competitionId": "CL"
+  },
+  {
     "id": "15569",
     "name": "Birger Meling",
     "position": "Defender",
@@ -9941,15 +9950,6 @@
     "position": null,
     "nationality": "Portugal",
     "dateOfBirth": "1997-02-10",
-    "teamId": "1876",
-    "competitionId": "CL"
-  },
-  {
-    "id": "7676",
-    "name": "Pantelís Chatzidiákos",
-    "position": null,
-    "nationality": "Greece",
-    "dateOfBirth": "1997-01-18",
     "teamId": "1876",
     "competitionId": "CL"
   },
@@ -11295,6 +11295,15 @@
     "competitionId": "CL"
   },
   {
+    "id": "172587",
+    "name": "Axel Guessand",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2004-11-06",
+    "teamId": "11034",
+    "competitionId": "CL"
+  },
+  {
     "id": "185122",
     "name": "João Correia",
     "position": "Defender",
@@ -11507,15 +11516,6 @@
     "position": "Forward",
     "nationality": "Cyprus",
     "dateOfBirth": "2008-11-24",
-    "teamId": "11034",
-    "competitionId": "CL"
-  },
-  {
-    "id": "172587",
-    "name": "Axel Guessand",
-    "position": null,
-    "nationality": "France",
-    "dateOfBirth": "2004-11-06",
     "teamId": "11034",
     "competitionId": "CL"
   },
