@@ -248,7 +248,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-09T10:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "6806",
     "awayTeamId": "675",
     "homeTeam": {
@@ -256,6 +256,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 1.01,
+        "shots": 10,
+        "shotsOnTarget": 0,
+        "accuratePasses": 257,
+        "duelsWon": 37,
+        "boxTouches": 23,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 5,
+        "saves": 6
+      },
+      "away": {
+        "possession": 60,
+        "xg": 3.53,
+        "shots": 22,
+        "shotsOnTarget": 6,
+        "accuratePasses": 454,
+        "duelsWon": 53,
+        "boxTouches": 49,
+        "fouls": 8,
+        "corners": 10,
+        "offsides": 2,
+        "saves": 1
+      }
     },
     "venue": "Sparta-Stadion Het Kasteel, Rotterdam",
     "broadcasts": [
@@ -276,7 +304,7 @@
     "homeTeamId": "677",
     "awayTeamId": "676",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
