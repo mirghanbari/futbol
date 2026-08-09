@@ -49,5 +49,25 @@ jobs:
 
           git add public/live.json
           git commit -m "data: refresh live scores"
-          git push origin HEAD:main
+
+          # Update data pushes to main on its own schedule, so this push can
+          # lose the race and be rejected as non-fast-forward. The two write
+          # disjoint paths (public/live.json vs src/data), so rebasing onto
+          # the newer main and retrying always replays cleanly.
+          pushed=""
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              pushed=1
+              break
+            fi
+            echo "Push rejected (attempt $attempt); rebasing onto latest main."
+            sleep "$attempt"
+            git pull --rebase origin main || git rebase --abort || true
+          done
+
+          if [ -z "$pushed" ]; then
+            echo "Could not push after 5 attempts."
+            exit 1
+          fi
+
           gh workflow run "Deploy" || echo "deploy dispatch failed (non-fatal)"
