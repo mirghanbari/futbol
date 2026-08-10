@@ -374,7 +374,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-10T19:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5530",
     "awayTeamId": "5529",
     "homeTeam": {
@@ -382,6 +382,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.43,
+        "shots": 19,
+        "shotsOnTarget": 7,
+        "accuratePasses": 314,
+        "duelsWon": 51,
+        "boxTouches": 18,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.23,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 293,
+        "duelsWon": 58,
+        "boxTouches": 17,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Estádio de São Miguel, Ponta Delgada"
   },
