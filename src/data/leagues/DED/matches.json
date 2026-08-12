@@ -624,6 +624,24 @@
     ]
   },
   {
+    "id": "558233",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-08-22T00:00:00Z",
+    "status": "postponed",
+    "homeTeamId": "1915",
+    "awayTeamId": "670",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Goffertstadion, Nijmegen"
+  },
+  {
     "id": "558232",
     "competitionId": "DED",
     "season": "2026",
@@ -664,24 +682,6 @@
       "goals": 0
     },
     "venue": "Sparta-Stadion Het Kasteel, Rotterdam"
-  },
-  {
-    "id": "558233",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-08-22T18:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1915",
-    "awayTeamId": "670",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Goffertstadion, Nijmegen"
   },
   {
     "id": "558235",
