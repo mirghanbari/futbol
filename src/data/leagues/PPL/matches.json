@@ -420,14 +420,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-14T19:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "498",
     "awayTeamId": "5543",
     "homeTeam": {
       "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 1.12,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 446,
+        "duelsWon": 56,
+        "boxTouches": 15,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 44,
+        "xg": 1.12,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 330,
+        "duelsWon": 53,
+        "boxTouches": 20,
+        "fouls": 21,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      }
     },
     "venue": "Estádio José Alvalade, Lisbon"
   },

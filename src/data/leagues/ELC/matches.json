@@ -6,14 +6,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-14T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "76",
     "awayTeamId": "59",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 2.04,
+        "shots": 18,
+        "shotsOnTarget": 3,
+        "accuratePasses": 428,
+        "duelsWon": 56,
+        "boxTouches": 22,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 45,
+        "xg": 0.82,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 324,
+        "duelsWon": 46,
+        "boxTouches": 15,
+        "fouls": 16,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Molineux Stadium, Wolverhampton",
     "broadcasts": [
