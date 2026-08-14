@@ -444,14 +444,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-14T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1912",
     "awayTeamId": "6806",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 1.4,
+        "shots": 7,
+        "shotsOnTarget": 1,
+        "accuratePasses": 424,
+        "duelsWon": 52,
+        "boxTouches": 25,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 39,
+        "xg": 2.54,
+        "shots": 16,
+        "shotsOnTarget": 9,
+        "accuratePasses": 256,
+        "duelsWon": 53,
+        "boxTouches": 30,
+        "fouls": 17,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 0
+      }
     },
     "venue": "711 Stadion, Velsen-Zuid"
   },
