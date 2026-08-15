@@ -640,14 +640,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-15T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "1920",
     "awayTeamId": "1909",
     "homeTeam": {
-      "goals": 2
+      "goals": 3
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 1.59,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 205,
+        "duelsWon": 48,
+        "boxTouches": 24,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 6
+      },
+      "away": {
+        "possession": 64,
+        "xg": 2.53,
+        "shots": 19,
+        "shotsOnTarget": 7,
+        "accuratePasses": 443,
+        "duelsWon": 51,
+        "boxTouches": 32,
+        "fouls": 9,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Fortuna Sittard Stadion, Sittard"
   },
