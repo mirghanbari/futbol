@@ -108,34 +108,6 @@
     ]
   },
   {
-    "id": "564636",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 1,
-    "stage": "regular",
-    "utcDate": "2026-08-16T19:30:00Z",
-    "status": "scheduled",
-    "homeTeamId": "558",
-    "awayTeamId": "79",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Balaidos, Vigo",
-    "broadcasts": [
-      {
-        "name": "ESPN Deportes",
-        "kind": "tv"
-      },
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "564635",
     "competitionId": "PD",
     "season": "2026",
@@ -510,6 +482,34 @@
       "goals": 0
     },
     "venue": "Santiago Bernabéu, Madrid",
+    "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564636",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "regular",
+    "utcDate": "2026-08-27T18:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "558",
+    "awayTeamId": "79",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Balaidos, Vigo",
     "broadcasts": [
       {
         "name": "ESPN Deportes",
