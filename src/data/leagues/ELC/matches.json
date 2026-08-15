@@ -62,14 +62,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-15T11:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "60",
     "awayTeamId": "1081",
     "homeTeam": {
       "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 1.1,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 314,
+        "duelsWon": 49,
+        "boxTouches": 14,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 45,
+        "xg": 1.43,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 231,
+        "duelsWon": 52,
+        "boxTouches": 22,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 7,
+        "saves": 3
+      }
     },
     "venue": "Toughsheet Community Stadium, Manchester",
     "broadcasts": [
