@@ -16,6 +16,14 @@
     "competitionId": "DED"
   },
   {
+    "id": "1915",
+    "name": "NEC",
+    "shortName": "NEC",
+    "tla": "NEC",
+    "crest": "https://crests.football-data.org/1915.png",
+    "competitionId": "DED"
+  },
+  {
     "id": "678",
     "name": "AFC Ajax",
     "shortName": "Ajax",
@@ -61,14 +69,6 @@
     "shortName": "Heerenveen",
     "tla": "HEE",
     "crest": "https://crests.football-data.org/673.png",
-    "competitionId": "DED"
-  },
-  {
-    "id": "1915",
-    "name": "NEC",
-    "shortName": "NEC",
-    "tla": "NEC",
-    "crest": "https://crests.football-data.org/1915.png",
     "competitionId": "DED"
   },
   {
@@ -128,19 +128,19 @@
     "competitionId": "DED"
   },
   {
-    "id": "672",
-    "name": "Willem II Tilburg",
-    "shortName": "Willem II",
-    "tla": "WII",
-    "crest": "https://crests.football-data.org/672.png",
-    "competitionId": "DED"
-  },
-  {
     "id": "1909",
     "name": "SC Cambuur-Leeuwarden",
     "shortName": "Cambuur",
     "tla": "CAM",
     "crest": "https://crests.football-data.org/1909.png",
+    "competitionId": "DED"
+  },
+  {
+    "id": "672",
+    "name": "Willem II Tilburg",
+    "shortName": "Willem II",
+    "tla": "WII",
+    "crest": "https://crests.football-data.org/672.png",
     "competitionId": "DED"
   }
 ]

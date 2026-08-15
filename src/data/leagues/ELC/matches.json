@@ -114,14 +114,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-15T14:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "68",
     "awayTeamId": "74",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 2.72,
+        "shots": 20,
+        "shotsOnTarget": 7,
+        "accuratePasses": 416,
+        "duelsWon": 51,
+        "boxTouches": 33,
+        "fouls": 13,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 46,
+        "xg": 1.45,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 349,
+        "duelsWon": 63,
+        "boxTouches": 10,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 7
+      }
     },
     "venue": "Carrow Road, Norwich",
     "broadcasts": [
@@ -138,7 +166,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-15T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "387",
     "awayTeamId": "384",
     "homeTeam": {
@@ -146,6 +174,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 34,
+        "xg": 0.5,
+        "shots": 8,
+        "shotsOnTarget": 0,
+        "accuratePasses": 154,
+        "duelsWon": 47,
+        "boxTouches": 8,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 66,
+        "xg": 3,
+        "shots": 24,
+        "shotsOnTarget": 3,
+        "accuratePasses": 423,
+        "duelsWon": 50,
+        "boxTouches": 42,
+        "fouls": 12,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 0
+      }
     },
     "venue": "Ashton Gate, Bristol",
     "broadcasts": [
@@ -162,14 +218,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-15T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "343",
     "awayTeamId": "1126",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 76,
+        "xg": 2.23,
+        "shots": 23,
+        "shotsOnTarget": 7,
+        "accuratePasses": 557,
+        "duelsWon": 49,
+        "boxTouches": 39,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 24,
+        "xg": 0.62,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 105,
+        "duelsWon": 57,
+        "boxTouches": 20,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 5
+      }
     },
     "venue": "Riverside Stadium, Middlesbrough",
     "broadcasts": [
@@ -190,7 +274,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-15T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "70",
     "awayTeamId": "72",
     "homeTeam": {
@@ -198,6 +282,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 0.69,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 198,
+        "duelsWon": 38,
+        "boxTouches": 13,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 60,
+        "xg": 0.61,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 318,
+        "duelsWon": 62,
+        "boxTouches": 16,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "bet365 Stadium, Stoke-on-Trent",
     "broadcasts": [
@@ -214,7 +326,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-15T14:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "348",
     "awayTeamId": "342",
     "homeTeam": {
@@ -222,6 +334,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.07,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 285,
+        "duelsWon": 64,
+        "boxTouches": 28,
+        "fouls": 7,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.01,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 350,
+        "duelsWon": 64,
+        "boxTouches": 24,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "The Valley, London",
     "broadcasts": [
@@ -238,7 +378,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-15T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "325",
     "awayTeamId": "69",
     "homeTeam": {
@@ -246,6 +386,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 2,
+        "shots": 16,
+        "shotsOnTarget": 6,
+        "accuratePasses": 339,
+        "duelsWon": 53,
+        "boxTouches": 21,
+        "fouls": 9,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 46,
+        "xg": 2.04,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 280,
+        "duelsWon": 40,
+        "boxTouches": 27,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "Fratton Park, Portsmouth",
     "broadcasts": [
