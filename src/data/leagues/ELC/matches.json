@@ -114,7 +114,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-15T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "68",
     "awayTeamId": "74",
     "homeTeam": {
@@ -138,14 +138,14 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-15T14:00:00Z",
-    "status": "in-play",
+    "status": "scheduled",
     "homeTeamId": "387",
     "awayTeamId": "384",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
     },
     "venue": "Ashton Gate, Bristol",
     "broadcasts": [
@@ -214,7 +214,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-15T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "348",
     "awayTeamId": "342",
     "homeTeam": {
@@ -245,7 +245,7 @@
       "goals": 1
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 3
     },
     "venue": "Fratton Park, Portsmouth",
     "broadcasts": [
