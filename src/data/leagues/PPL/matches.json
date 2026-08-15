@@ -512,7 +512,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-15T17:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5527",
     "awayTeamId": "5530",
     "homeTeam": {
@@ -520,6 +520,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 60,
+        "xg": 0.69,
+        "shots": 10,
+        "shotsOnTarget": 1,
+        "accuratePasses": 410,
+        "duelsWon": 60,
+        "boxTouches": 16,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 40,
+        "xg": 1.26,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 241,
+        "duelsWon": 60,
+        "boxTouches": 20,
+        "fouls": 16,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Estádio do Fontelo, Viseu"
   },

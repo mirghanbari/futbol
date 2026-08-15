@@ -8,6 +8,14 @@
     "competitionId": "DED"
   },
   {
+    "id": "1920",
+    "name": "Fortuna Sittard",
+    "shortName": "Sittard",
+    "tla": "SIT",
+    "crest": "https://crests.football-data.org/1920.png",
+    "competitionId": "DED"
+  },
+  {
     "id": "674",
     "name": "PSV",
     "shortName": "PSV",
@@ -16,19 +24,19 @@
     "competitionId": "DED"
   },
   {
-    "id": "718",
-    "name": "Go Ahead Eagles",
-    "shortName": "Go Ahead",
-    "tla": "GOA",
-    "crest": "https://crests.football-data.org/718.png",
-    "competitionId": "DED"
-  },
-  {
     "id": "670",
     "name": "SBV Excelsior",
     "shortName": "Excelsior",
     "tla": "EXC",
     "crest": "https://crests.football-data.org/670.png",
+    "competitionId": "DED"
+  },
+  {
+    "id": "718",
+    "name": "Go Ahead Eagles",
+    "shortName": "Go Ahead",
+    "tla": "GOA",
+    "crest": "https://crests.football-data.org/718.png",
     "competitionId": "DED"
   },
   {
@@ -88,14 +96,6 @@
     "competitionId": "DED"
   },
   {
-    "id": "1920",
-    "name": "Fortuna Sittard",
-    "shortName": "Sittard",
-    "tla": "SIT",
-    "crest": "https://crests.football-data.org/1920.png",
-    "competitionId": "DED"
-  },
-  {
     "id": "666",
     "name": "FC Twente '65",
     "shortName": "Twente",
@@ -128,19 +128,19 @@
     "competitionId": "DED"
   },
   {
-    "id": "1909",
-    "name": "SC Cambuur-Leeuwarden",
-    "shortName": "Cambuur",
-    "tla": "CAM",
-    "crest": "https://crests.football-data.org/1909.png",
-    "competitionId": "DED"
-  },
-  {
     "id": "672",
     "name": "Willem II Tilburg",
     "shortName": "Willem II",
     "tla": "WII",
     "crest": "https://crests.football-data.org/672.png",
+    "competitionId": "DED"
+  },
+  {
+    "id": "1909",
+    "name": "SC Cambuur-Leeuwarden",
+    "shortName": "Cambuur",
+    "tla": "CAM",
+    "crest": "https://crests.football-data.org/1909.png",
     "competitionId": "DED"
   }
 ]

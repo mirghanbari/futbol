@@ -536,14 +536,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-15T16:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "676",
     "awayTeamId": "682",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 3
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 0.83,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 300,
+        "duelsWon": 57,
+        "boxTouches": 17,
+        "fouls": 23,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 52,
+        "xg": 1.93,
+        "shots": 24,
+        "shotsOnTarget": 9,
+        "accuratePasses": 352,
+        "duelsWon": 71,
+        "boxTouches": 23,
+        "fouls": 14,
+        "corners": 9,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Stadion Galgenwaard, Utrecht",
     "broadcasts": [
@@ -564,10 +592,10 @@
     "homeTeamId": "670",
     "awayTeamId": "674",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
     },
     "venue": "Stadion Woudestein, Rotterdam",
     "broadcasts": [
@@ -584,11 +612,11 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-15T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1920",
     "awayTeamId": "1909",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
