@@ -430,7 +430,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-15T16:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "356",
     "awayTeamId": "332",
     "homeTeam": {
@@ -438,6 +438,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 0.36,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 195,
+        "duelsWon": 65,
+        "boxTouches": 8,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 55,
+        "xg": 0.65,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 254,
+        "duelsWon": 67,
+        "boxTouches": 18,
+        "fouls": 12,
+        "corners": 8,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "Bramall Lane, Sheffield",
     "broadcasts": [

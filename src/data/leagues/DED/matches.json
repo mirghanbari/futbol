@@ -536,14 +536,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-15T16:45:00Z",
-    "status": "paused",
+    "status": "in-play",
     "homeTeamId": "676",
     "awayTeamId": "682",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 3
     },
     "venue": "Stadion Galgenwaard, Utrecht",
     "broadcasts": [
@@ -560,14 +560,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-15T18:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "670",
     "awayTeamId": "674",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stadion Woudestein, Rotterdam",
     "broadcasts": [
