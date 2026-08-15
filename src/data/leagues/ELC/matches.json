@@ -1524,6 +1524,24 @@
     "venue": "Ashton Gate, Bristol"
   },
   {
+    "id": "561830",
+    "competitionId": "ELC",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-09-08T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "404",
+    "awayTeamId": "328",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "STōK Cae Ras, Wrexham"
+  },
+  {
     "id": "561827",
     "competitionId": "ELC",
     "season": "2026",
@@ -1576,24 +1594,6 @@
       "goals": 0
     },
     "venue": "Pride Park, Derby"
-  },
-  {
-    "id": "561830",
-    "competitionId": "ELC",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-09-09T18:45:00Z",
-    "status": "scheduled",
-    "homeTeamId": "404",
-    "awayTeamId": "328",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "STōK Cae Ras, Wrexham"
   },
   {
     "id": "561832",
