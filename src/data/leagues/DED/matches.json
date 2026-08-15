@@ -536,14 +536,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-15T16:45:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "676",
     "awayTeamId": "682",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stadion Galgenwaard, Utrecht",
     "broadcasts": [
