@@ -490,7 +490,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-15T14:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "672",
     "awayTeamId": "1915",
     "homeTeam": {
@@ -498,6 +498,34 @@
     },
     "awayTeam": {
       "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 32,
+        "xg": 1.43,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 174,
+        "duelsWon": 51,
+        "boxTouches": 16,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 6
+      },
+      "away": {
+        "possession": 68,
+        "xg": 2.99,
+        "shots": 21,
+        "shotsOnTarget": 10,
+        "accuratePasses": 500,
+        "duelsWon": 43,
+        "boxTouches": 50,
+        "fouls": 14,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "Koning Willem II Stadion, Tilburg"
   },
@@ -508,7 +536,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-15T16:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "676",
     "awayTeamId": "682",
     "homeTeam": {
