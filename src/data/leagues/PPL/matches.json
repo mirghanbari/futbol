@@ -604,7 +604,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T14:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5529",
     "awayTeamId": "582",
     "homeTeam": {
@@ -612,6 +612,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 2.08,
+        "shots": 20,
+        "shotsOnTarget": 3,
+        "accuratePasses": 391,
+        "duelsWon": 46,
+        "boxTouches": 21,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 41,
+        "xg": 0.82,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 252,
+        "duelsWon": 39,
+        "boxTouches": 10,
+        "fouls": 13,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Estádio da Madeira, Funchal"
   },

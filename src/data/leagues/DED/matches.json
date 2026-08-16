@@ -830,14 +830,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T14:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "678",
     "awayTeamId": "673",
     "homeTeam": {
       "goals": 2
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 2,
+        "shots": 23,
+        "shotsOnTarget": 4,
+        "accuratePasses": 468,
+        "duelsWon": 37,
+        "boxTouches": 46,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 6
+      },
+      "away": {
+        "possession": 46,
+        "xg": 1.36,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 405,
+        "duelsWon": 36,
+        "boxTouches": 29,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "Johan Cruijff Arena, Amsterdam",
     "broadcasts": [
