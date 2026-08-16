@@ -686,14 +686,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T10:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "680",
     "awayTeamId": "677",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 3
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 1.01,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 399,
+        "duelsWon": 39,
+        "boxTouches": 20,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 10
+      },
+      "away": {
+        "possession": 45,
+        "xg": 3.2,
+        "shots": 17,
+        "shotsOnTarget": 14,
+        "accuratePasses": 316,
+        "duelsWon": 46,
+        "boxTouches": 40,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "ADO Den Haag Stadium, Den Haag"
   },
@@ -704,7 +732,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T12:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "675",
     "awayTeamId": "718",
     "homeTeam": {
