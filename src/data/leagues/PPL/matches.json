@@ -714,14 +714,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T19:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5531",
     "awayTeamId": "5575",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 0.59,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 550,
+        "duelsWon": 61,
+        "boxTouches": 20,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 33,
+        "xg": 1.61,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 228,
+        "duelsWon": 41,
+        "boxTouches": 13,
+        "fouls": 16,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Estádio Municipal 22 de Junho, Vila Nova de Famalicão"
   },
