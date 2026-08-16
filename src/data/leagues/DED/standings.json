@@ -47,8 +47,8 @@
     "lost": 0,
     "points": 6,
     "goalsFor": 4,
-    "goalsAgainst": 0,
-    "goalDifference": 4
+    "goalsAgainst": 1,
+    "goalDifference": 3
   },
   {
     "id": "718",
@@ -187,11 +187,11 @@
     "goalDifference": 1
   },
   {
-    "id": "1912",
-    "name": "Telstar 1963",
-    "shortName": "Telstar",
-    "tla": "TEL",
-    "crest": "https://crests.football-data.org/1912.png",
+    "id": "673",
+    "name": "SC Heerenveen",
+    "shortName": "Heerenveen",
+    "tla": "HEE",
+    "crest": "https://crests.football-data.org/673.png",
     "competitionId": "DED",
     "position": 12,
     "playedGames": 2,
@@ -199,16 +199,16 @@
     "draw": 0,
     "lost": 1,
     "points": 3,
-    "goalsFor": 3,
-    "goalsAgainst": 4,
-    "goalDifference": -1
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "goalDifference": 0
   },
   {
-    "id": "673",
-    "name": "SC Heerenveen",
-    "shortName": "Heerenveen",
-    "tla": "HEE",
-    "crest": "https://crests.football-data.org/673.png",
+    "id": "1912",
+    "name": "Telstar 1963",
+    "shortName": "Telstar",
+    "tla": "TEL",
+    "crest": "https://crests.football-data.org/1912.png",
     "competitionId": "DED",
     "position": 13,
     "playedGames": 2,
@@ -216,8 +216,8 @@
     "draw": 0,
     "lost": 1,
     "points": 3,
-    "goalsFor": 1,
-    "goalsAgainst": 2,
+    "goalsFor": 3,
+    "goalsAgainst": 4,
     "goalDifference": -1
   },
   {

@@ -830,14 +830,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T14:45:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "678",
     "awayTeamId": "673",
     "homeTeam": {
       "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Johan Cruijff Arena, Amsterdam",
     "broadcasts": [
