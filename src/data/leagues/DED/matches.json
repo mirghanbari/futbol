@@ -732,11 +732,11 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T12:30:00Z",
-    "status": "in-play",
+    "status": "paused",
     "homeTeamId": "675",
     "awayTeamId": "718",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -756,14 +756,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T12:30:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "666",
     "awayTeamId": "684",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "De Grolsch Veste, Enschede"
   },
