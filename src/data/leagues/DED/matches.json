@@ -732,14 +732,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T12:30:00Z",
-    "status": "paused",
+    "status": "scheduled",
     "homeTeamId": "675",
     "awayTeamId": "718",
     "homeTeam": {
       "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "De Kuip, Rotterdam",
     "broadcasts": [
@@ -756,11 +756,11 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T12:30:00Z",
-    "status": "paused",
+    "status": "in-play",
     "homeTeamId": "666",
     "awayTeamId": "684",
     "homeTeam": {
-      "goals": 1
+      "goals": 3
     },
     "awayTeam": {
       "goals": 1
