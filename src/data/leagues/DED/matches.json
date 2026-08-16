@@ -732,7 +732,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T12:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "675",
     "awayTeamId": "718",
     "homeTeam": {
@@ -740,6 +740,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 2.89,
+        "shots": 27,
+        "shotsOnTarget": 6,
+        "accuratePasses": 410,
+        "duelsWon": 44,
+        "boxTouches": 57,
+        "fouls": 3,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.51,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 334,
+        "duelsWon": 29,
+        "boxTouches": 17,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "De Kuip, Rotterdam",
     "broadcasts": [
@@ -756,7 +784,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T12:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "666",
     "awayTeamId": "684",
     "homeTeam": {
@@ -764,6 +792,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 68,
+        "xg": 2.08,
+        "shots": 27,
+        "shotsOnTarget": 10,
+        "accuratePasses": 540,
+        "duelsWon": 49,
+        "boxTouches": 58,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 32,
+        "xg": 0.68,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 197,
+        "duelsWon": 43,
+        "boxTouches": 16,
+        "fouls": 6,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 8
+      }
     },
     "venue": "De Grolsch Veste, Enschede"
   },

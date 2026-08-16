@@ -482,7 +482,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-16T12:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "346",
     "awayTeamId": "340",
     "homeTeam": {
@@ -490,6 +490,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 34,
+        "xg": 0.83,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 211,
+        "duelsWon": 48,
+        "boxTouches": 22,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 66,
+        "xg": 1.65,
+        "shots": 17,
+        "shotsOnTarget": 3,
+        "accuratePasses": 449,
+        "duelsWon": 49,
+        "boxTouches": 31,
+        "fouls": 9,
+        "corners": 8,
+        "offsides": 3,
+        "saves": 2
+      }
     },
     "venue": "Vicarage Road, Watford",
     "broadcasts": [
