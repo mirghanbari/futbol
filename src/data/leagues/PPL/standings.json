@@ -1,5 +1,22 @@
 [
   {
+    "id": "712",
+    "name": "FC Arouca",
+    "shortName": "Arouca",
+    "tla": "FCA",
+    "crest": "https://crests.football-data.org/712.png",
+    "competitionId": "PPL",
+    "position": 1,
+    "playedGames": 2,
+    "won": 2,
+    "draw": 0,
+    "lost": 0,
+    "points": 6,
+    "goalsFor": 4,
+    "goalsAgainst": 0,
+    "goalDifference": 4
+  },
+  {
     "id": "503",
     "name": "FC Porto",
     "shortName": "Porto",
@@ -15,23 +32,6 @@
     "goalsFor": 4,
     "goalsAgainst": 0,
     "goalDifference": 4
-  },
-  {
-    "id": "712",
-    "name": "FC Arouca",
-    "shortName": "Arouca",
-    "tla": "FCA",
-    "crest": "https://crests.football-data.org/712.png",
-    "competitionId": "PPL",
-    "position": 2,
-    "playedGames": 2,
-    "won": 2,
-    "draw": 0,
-    "lost": 0,
-    "points": 6,
-    "goalsFor": 3,
-    "goalsAgainst": 0,
-    "goalDifference": 3
   },
   {
     "id": "5529",
@@ -221,30 +221,13 @@
     "goalDifference": -2
   },
   {
-    "id": "583",
-    "name": "Moreirense FC",
-    "shortName": "Moreirense",
-    "tla": "MOR",
-    "crest": "https://crests.football-data.org/583.png",
-    "competitionId": "PPL",
-    "position": 13,
-    "playedGames": 2,
-    "won": 0,
-    "draw": 1,
-    "lost": 1,
-    "points": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 4,
-    "goalDifference": -2
-  },
-  {
     "id": "582",
     "name": "GD Estoril Praia",
     "shortName": "Estoril Praia",
     "tla": "EST",
     "crest": "https://crests.football-data.org/582.png",
     "competitionId": "PPL",
-    "position": 15,
+    "position": 14,
     "playedGames": 2,
     "won": 0,
     "draw": 1,
@@ -253,6 +236,23 @@
     "goalsFor": 1,
     "goalsAgainst": 3,
     "goalDifference": -2
+  },
+  {
+    "id": "583",
+    "name": "Moreirense FC",
+    "shortName": "Moreirense",
+    "tla": "MOR",
+    "crest": "https://crests.football-data.org/583.png",
+    "competitionId": "PPL",
+    "position": 15,
+    "playedGames": 2,
+    "won": 0,
+    "draw": 1,
+    "lost": 1,
+    "points": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 5,
+    "goalDifference": -3
   },
   {
     "id": "6618",

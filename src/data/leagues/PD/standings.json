@@ -17,11 +17,11 @@
     "goalDifference": 3
   },
   {
-    "id": "559",
-    "name": "Sevilla FC",
-    "shortName": "Sevilla FC",
-    "tla": "SEV",
-    "crest": "https://crests.football-data.org/559.png",
+    "id": "80",
+    "name": "RCD Espanyol de Barcelona",
+    "shortName": "Espanyol",
+    "tla": "ESP",
+    "crest": "https://crests.football-data.org/80.png",
     "competitionId": "PD",
     "position": 2,
     "playedGames": 1,
@@ -30,15 +30,15 @@
     "lost": 0,
     "points": 3,
     "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1
+    "goalsAgainst": 0,
+    "goalDifference": 2
   },
   {
-    "id": "80",
-    "name": "RCD Espanyol de Barcelona",
-    "shortName": "Espanyol",
-    "tla": "ESP",
-    "crest": "https://crests.football-data.org/80.png",
+    "id": "559",
+    "name": "Sevilla FC",
+    "shortName": "Sevilla FC",
+    "tla": "SEV",
+    "crest": "https://crests.football-data.org/559.png",
     "competitionId": "PD",
     "position": 3,
     "playedGames": 1,
@@ -46,8 +46,8 @@
     "draw": 0,
     "lost": 0,
     "points": 3,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
     "goalDifference": 1
   },
   {
@@ -319,8 +319,8 @@
     "lost": 1,
     "points": 0,
     "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1
+    "goalsAgainst": 2,
+    "goalDifference": -2
   },
   {
     "id": "82",
