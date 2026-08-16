@@ -668,14 +668,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-16T17:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "712",
     "awayTeamId": "583",
     "homeTeam": {
-      "goals": 3
+      "goals": 4
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 2.14,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 421,
+        "duelsWon": 33,
+        "boxTouches": 17,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 49,
+        "xg": 0.49,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 407,
+        "duelsWon": 32,
+        "boxTouches": 10,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Estádio Municipal de Arouca, Arouca"
   },
