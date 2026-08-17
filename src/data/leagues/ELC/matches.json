@@ -590,14 +590,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-17T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "715",
     "awayTeamId": "404",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 0.9,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 482,
+        "duelsWon": 51,
+        "boxTouches": 28,
+        "fouls": 9,
+        "corners": 9,
+        "offsides": 3,
+        "saves": 7
+      },
+      "away": {
+        "possession": 33,
+        "xg": 1.55,
+        "shots": 18,
+        "shotsOnTarget": 8,
+        "accuratePasses": 204,
+        "duelsWon": 51,
+        "boxTouches": 26,
+        "fouls": 13,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Cardiff City Stadium, Cardiff",
     "broadcasts": [
