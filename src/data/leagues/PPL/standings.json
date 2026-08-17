@@ -51,23 +51,6 @@
     "goalDifference": 2
   },
   {
-    "id": "5529",
-    "name": "CD Nacional",
-    "shortName": "CD Nacional",
-    "tla": "CDN",
-    "crest": "https://crests.football-data.org/5529.png",
-    "competitionId": "PPL",
-    "position": 4,
-    "playedGames": 2,
-    "won": 1,
-    "draw": 1,
-    "lost": 0,
-    "points": 4,
-    "goalsFor": 4,
-    "goalsAgainst": 2,
-    "goalDifference": 2
-  },
-  {
     "id": "1903",
     "name": "Sport Lisboa e Benfica",
     "shortName": "SL Benfica",
@@ -75,6 +58,23 @@
     "crest": "https://crests.football-data.org/1903.png",
     "competitionId": "PPL",
     "position": 4,
+    "playedGames": 2,
+    "won": 1,
+    "draw": 1,
+    "lost": 0,
+    "points": 4,
+    "goalsFor": 7,
+    "goalsAgainst": 2,
+    "goalDifference": 5
+  },
+  {
+    "id": "5529",
+    "name": "CD Nacional",
+    "shortName": "CD Nacional",
+    "tla": "CDN",
+    "crest": "https://crests.football-data.org/5529.png",
+    "competitionId": "PPL",
+    "position": 5,
     "playedGames": 2,
     "won": 1,
     "draw": 1,
@@ -272,23 +272,6 @@
     "goalDifference": -2
   },
   {
-    "id": "6618",
-    "name": "Casa Pia AC",
-    "shortName": "Casa Pia",
-    "tla": "CAS",
-    "crest": "https://crests.football-data.org/6618.png",
-    "competitionId": "PPL",
-    "position": 17,
-    "playedGames": 2,
-    "won": 0,
-    "draw": 0,
-    "lost": 2,
-    "points": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 3,
-    "goalDifference": -3
-  },
-  {
     "id": "496",
     "name": "Rio Ave FC",
     "shortName": "Rio Ave",
@@ -304,5 +287,22 @@
     "goalsFor": 0,
     "goalsAgainst": 3,
     "goalDifference": -3
+  },
+  {
+    "id": "6618",
+    "name": "Casa Pia AC",
+    "shortName": "Casa Pia",
+    "tla": "CAS",
+    "crest": "https://crests.football-data.org/6618.png",
+    "competitionId": "PPL",
+    "position": 18,
+    "playedGames": 2,
+    "won": 0,
+    "draw": 0,
+    "lost": 2,
+    "points": 0,
+    "goalsFor": 0,
+    "goalsAgainst": 6,
+    "goalDifference": -6
   }
 ]
