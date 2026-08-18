@@ -18,6 +18,10 @@
     "venue": "Stadio Friuli, Udine",
     "broadcasts": [
       {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
         "name": "Paramount+",
         "kind": "streaming"
       }
@@ -89,6 +93,10 @@
     },
     "venue": "Ennio Tardini, Parma",
     "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
       {
         "name": "Paramount+",
         "kind": "streaming"
