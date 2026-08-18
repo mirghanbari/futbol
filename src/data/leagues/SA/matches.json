@@ -792,6 +792,30 @@
     ]
   },
   {
+    "id": "558608",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "regular",
+    "utcDate": "2026-09-12T16:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "471",
+    "awayTeamId": "109",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Mapei Stadium, Reggio Emilia",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "558607",
     "competitionId": "SA",
     "season": "2026",
@@ -904,30 +928,6 @@
       "goals": 0
     },
     "venue": "Stadio Diego Armando Maradona, Napoli",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558608",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 4,
-    "stage": "regular",
-    "utcDate": "2026-09-13T18:45:00Z",
-    "status": "scheduled",
-    "homeTeamId": "471",
-    "awayTeamId": "109",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Mapei Stadium, Reggio Emilia",
     "broadcasts": [
       {
         "name": "Paramount+",
