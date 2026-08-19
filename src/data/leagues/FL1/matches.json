@@ -324,66 +324,12 @@
     "venue": "Stade Louis II, Monaco"
   },
   {
-    "id": "559693",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-09-05T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "533",
-    "awayTeamId": "512",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stade Océane, Le Havre"
-  },
-  {
-    "id": "559694",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-09-05T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "516",
-    "awayTeamId": "1045",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stade Vélodrome, Marseille"
-  },
-  {
-    "id": "559695",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-09-05T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "546",
-    "awayTeamId": "525",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stade Bollaert-Delelis, Lens"
-  },
-  {
     "id": "559696",
     "competitionId": "FL1",
     "season": "2026",
     "matchday": 3,
     "stage": "regular",
-    "utcDate": "2026-09-05T15:00:00Z",
+    "utcDate": "2026-09-03T18:45:00Z",
     "status": "scheduled",
     "homeTeamId": "511",
     "awayTeamId": "521",
@@ -396,48 +342,12 @@
     "venue": "Stadium Municipal de Toulouse, Toulouse"
   },
   {
-    "id": "559697",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-09-05T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "524",
-    "awayTeamId": "548",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Parc des Princes, Paris"
-  },
-  {
-    "id": "559698",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-09-05T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "532",
-    "awayTeamId": "529",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stade Raymond Kopa, Angers"
-  },
-  {
     "id": "559699",
     "competitionId": "FL1",
     "season": "2026",
     "matchday": 3,
     "stage": "regular",
-    "utcDate": "2026-09-05T15:00:00Z",
+    "utcDate": "2026-09-04T17:00:00Z",
     "status": "scheduled",
     "homeTeamId": "523",
     "awayTeamId": "519",
@@ -450,12 +360,84 @@
     "venue": "Groupama Stadium, Lyon"
   },
   {
+    "id": "559697",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-09-04T19:05:00Z",
+    "status": "scheduled",
+    "homeTeamId": "524",
+    "awayTeamId": "548",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Parc des Princes, Paris"
+  },
+  {
+    "id": "559695",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-09-05T15:15:00Z",
+    "status": "scheduled",
+    "homeTeamId": "546",
+    "awayTeamId": "525",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stade Bollaert-Delelis, Lens"
+  },
+  {
+    "id": "559693",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-09-05T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "533",
+    "awayTeamId": "512",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stade Océane, Le Havre"
+  },
+  {
+    "id": "559701",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-09-05T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "522",
+    "awayTeamId": "535",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Riviera, Nice"
+  },
+  {
     "id": "559700",
     "competitionId": "FL1",
     "season": "2026",
     "matchday": 3,
     "stage": "regular",
-    "utcDate": "2026-09-05T15:00:00Z",
+    "utcDate": "2026-09-06T13:00:00Z",
     "status": "scheduled",
     "homeTeamId": "531",
     "awayTeamId": "576",
@@ -468,22 +450,40 @@
     "venue": "Stade de l'Aube, Paris"
   },
   {
-    "id": "559701",
+    "id": "559698",
     "competitionId": "FL1",
     "season": "2026",
     "matchday": 3,
     "stage": "regular",
-    "utcDate": "2026-09-05T15:00:00Z",
+    "utcDate": "2026-09-06T15:15:00Z",
     "status": "scheduled",
-    "homeTeamId": "522",
-    "awayTeamId": "535",
+    "homeTeamId": "532",
+    "awayTeamId": "529",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Allianz Riviera, Nice"
+    "venue": "Stade Raymond Kopa, Angers"
+  },
+  {
+    "id": "559694",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-09-06T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "516",
+    "awayTeamId": "1045",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stade Vélodrome, Marseille"
   },
   {
     "id": "559689",
