@@ -1494,6 +1494,24 @@
     "venue": "Stadion Woudestein, Rotterdam"
   },
   {
+    "id": "558892",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-09-13T12:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1909",
+    "awayTeamId": "1915",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Kooi Stadium, Leeuwarden"
+  },
+  {
     "id": "558893",
     "competitionId": "DED",
     "season": "2026",
@@ -1528,24 +1546,6 @@
       "goals": 0
     },
     "venue": "MAC³PARK Stadion, Zwolle"
-  },
-  {
-    "id": "558892",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-09-14T12:30:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1909",
-    "awayTeamId": "1915",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Kooi Stadium, Leeuwarden"
   },
   {
     "id": "558240",
