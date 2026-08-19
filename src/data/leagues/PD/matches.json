@@ -271,14 +271,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-19T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "78",
     "awayTeamId": "84",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 0.82,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 457,
+        "duelsWon": 52,
+        "boxTouches": 29,
+        "fouls": 17,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 47,
+        "xg": 0.15,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 394,
+        "duelsWon": 52,
+        "boxTouches": 19,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Riyadh Air Metropolitano, Madrid",
     "broadcasts": [
