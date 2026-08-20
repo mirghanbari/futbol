@@ -776,30 +776,6 @@
     ]
   },
   {
-    "id": "558600",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 4,
-    "stage": "regular",
-    "utcDate": "2026-09-12T16:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "110",
-    "awayTeamId": "98",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Olimpico, Roma",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558608",
     "competitionId": "SA",
     "season": "2026",
@@ -936,6 +912,30 @@
       "goals": 0
     },
     "venue": "Stadio Diego Armando Maradona, Napoli",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558600",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "regular",
+    "utcDate": "2026-09-13T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "110",
+    "awayTeamId": "98",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Olimpico, Roma",
     "broadcasts": [
       {
         "name": "Paramount+",
