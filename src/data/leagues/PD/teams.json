@@ -1,18 +1,18 @@
 [
   {
-    "id": "80",
-    "name": "RCD Espanyol de Barcelona",
-    "shortName": "Espanyol",
-    "tla": "ESP",
-    "crest": "https://crests.football-data.org/80.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "263",
     "name": "Deportivo Alavés",
     "shortName": "Alavés",
     "tla": "ALA",
     "crest": "https://crests.football-data.org/263.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "80",
+    "name": "RCD Espanyol de Barcelona",
+    "shortName": "Espanyol",
+    "tla": "ESP",
+    "crest": "https://crests.football-data.org/80.png",
     "competitionId": "PD"
   },
   {
@@ -29,14 +29,6 @@
     "shortName": "Sevilla FC",
     "tla": "SEV",
     "crest": "https://crests.football-data.org/559.png",
-    "competitionId": "PD"
-  },
-  {
-    "id": "87",
-    "name": "Rayo Vallecano de Madrid",
-    "shortName": "Rayo Vallecano",
-    "tla": "RAY",
-    "crest": "https://crests.football-data.org/87.png",
     "competitionId": "PD"
   },
   {
@@ -69,6 +61,14 @@
     "shortName": "Elche",
     "tla": "ELC",
     "crest": "https://crests.football-data.org/285.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "87",
+    "name": "Rayo Vallecano de Madrid",
+    "shortName": "Rayo Vallecano",
+    "tla": "RAY",
+    "crest": "https://crests.football-data.org/87.png",
     "competitionId": "PD"
   },
   {
