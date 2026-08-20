@@ -327,7 +327,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-20T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "87",
     "awayTeamId": "263",
     "homeTeam": {
@@ -335,6 +335,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 0.43,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 258,
+        "duelsWon": 46,
+        "boxTouches": 11,
+        "fouls": 14,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 52,
+        "xg": 1.92,
+        "shots": 15,
+        "shotsOnTarget": 3,
+        "accuratePasses": 277,
+        "duelsWon": 59,
+        "boxTouches": 30,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Estadio Municipal de Butarque, Leganés, Madrid",
     "broadcasts": [
