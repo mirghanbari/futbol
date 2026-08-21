@@ -6,7 +6,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-21T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "57",
     "awayTeamId": "1076",
     "homeTeam": {
@@ -14,6 +14,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 1.8,
+        "shots": 20,
+        "shotsOnTarget": 6,
+        "accuratePasses": 561,
+        "duelsWon": 37,
+        "boxTouches": 36,
+        "fouls": 10,
+        "corners": 8,
+        "offsides": 5,
+        "saves": 1
+      },
+      "away": {
+        "possession": 36,
+        "xg": 0.28,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 265,
+        "duelsWon": 32,
+        "boxTouches": 4,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Emirates Stadium, London",
     "broadcasts": [
