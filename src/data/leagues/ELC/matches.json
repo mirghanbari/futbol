@@ -642,7 +642,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T11:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "332",
     "awayTeamId": "387",
     "homeTeam": {
@@ -666,14 +666,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T11:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1126",
     "awayTeamId": "325",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "LNER Stadium, Lincoln",
     "broadcasts": [
@@ -690,7 +690,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T11:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "384",
     "awayTeamId": "68",
     "homeTeam": {
