@@ -114,14 +114,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "107",
     "awayTeamId": "113",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.65,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 377,
+        "duelsWon": 34,
+        "boxTouches": 18,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 54,
+        "xg": 0.75,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 452,
+        "duelsWon": 47,
+        "boxTouches": 28,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Stadio Luigi Ferraris, Genova",
     "broadcasts": [
@@ -138,14 +166,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "112",
     "awayTeamId": "104",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 0.89,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 372,
+        "duelsWon": 60,
+        "boxTouches": 20,
+        "fouls": 6,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 445,
+        "duelsWon": 40,
+        "boxTouches": 21,
+        "fouls": 20,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Ennio Tardini, Parma",
     "broadcasts": [

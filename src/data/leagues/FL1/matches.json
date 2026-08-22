@@ -98,7 +98,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "535",
     "awayTeamId": "512",
     "homeTeam": {
@@ -106,6 +106,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 0.69,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 318,
+        "duelsWon": 47,
+        "boxTouches": 13,
+        "fouls": 14,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 4
+      },
+      "away": {
+        "possession": 50,
+        "xg": 2.41,
+        "shots": 26,
+        "shotsOnTarget": 7,
+        "accuratePasses": 315,
+        "duelsWon": 70,
+        "boxTouches": 39,
+        "fouls": 12,
+        "corners": 10,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Stade Marie-Marvingt, Le Mans"
   },
@@ -116,7 +144,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "531",
     "awayTeamId": "1045",
     "homeTeam": {
@@ -124,6 +152,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 0.41,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 384,
+        "duelsWon": 42,
+        "boxTouches": 20,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1.76,
+        "shots": 10,
+        "shotsOnTarget": 1,
+        "accuratePasses": 612,
+        "duelsWon": 46,
+        "boxTouches": 14,
+        "fouls": 14,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Stade de l'Aube, Paris"
   },
@@ -134,7 +190,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "522",
     "awayTeamId": "525",
     "homeTeam": {
@@ -142,6 +198,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 60,
+        "xg": 1.08,
+        "shots": 14,
+        "shotsOnTarget": 1,
+        "accuratePasses": 549,
+        "duelsWon": 38,
+        "boxTouches": 20,
+        "fouls": 15,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 40,
+        "xg": 1.24,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 353,
+        "duelsWon": 42,
+        "boxTouches": 21,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Allianz Riviera, Nice"
   },
@@ -152,14 +236,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "511",
     "awayTeamId": "523",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 2.58,
+        "shots": 17,
+        "shotsOnTarget": 2,
+        "accuratePasses": 371,
+        "duelsWon": 48,
+        "boxTouches": 31,
+        "fouls": 15,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 52,
+        "xg": 0.65,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 415,
+        "duelsWon": 42,
+        "boxTouches": 24,
+        "fouls": 15,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Stadium Municipal de Toulouse, Toulouse"
   },
