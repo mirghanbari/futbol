@@ -12,9 +12,9 @@
     "draw": 1,
     "lost": 0,
     "points": 7,
-    "goalsFor": 7,
+    "goalsFor": 8,
     "goalsAgainst": 4,
-    "goalDifference": 3
+    "goalDifference": 4
   },
   {
     "id": "5575",
@@ -221,23 +221,6 @@
     "goalDifference": -1
   },
   {
-    "id": "7822",
-    "name": "FC Alverca",
-    "shortName": "Alverca",
-    "tla": "ALV",
-    "crest": "https://crests.football-data.org/7822.png",
-    "competitionId": "PPL",
-    "position": 14,
-    "playedGames": 3,
-    "won": 0,
-    "draw": 1,
-    "lost": 2,
-    "points": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 6,
-    "goalDifference": -4
-  },
-  {
     "id": "583",
     "name": "Moreirense FC",
     "shortName": "Moreirense",
@@ -261,7 +244,7 @@
     "tla": "EST",
     "crest": "https://crests.football-data.org/582.png",
     "competitionId": "PPL",
-    "position": 16,
+    "position": 15,
     "playedGames": 3,
     "won": 0,
     "draw": 1,
@@ -270,6 +253,23 @@
     "goalsFor": 1,
     "goalsAgainst": 5,
     "goalDifference": -4
+  },
+  {
+    "id": "7822",
+    "name": "FC Alverca",
+    "shortName": "Alverca",
+    "tla": "ALV",
+    "crest": "https://crests.football-data.org/7822.png",
+    "competitionId": "PPL",
+    "position": 16,
+    "playedGames": 3,
+    "won": 0,
+    "draw": 1,
+    "lost": 2,
+    "points": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 7,
+    "goalDifference": -5
   },
   {
     "id": "5543",
