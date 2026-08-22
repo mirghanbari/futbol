@@ -1,5 +1,13 @@
 [
   {
+    "id": "5575",
+    "name": "CS Marítimo",
+    "shortName": "Marítimo",
+    "tla": "CSM",
+    "crest": "https://crests.football-data.org/5575.png",
+    "competitionId": "PPL"
+  },
+  {
     "id": "712",
     "name": "FC Arouca",
     "shortName": "Arouca",
@@ -13,14 +21,6 @@
     "shortName": "Porto",
     "tla": "FCP",
     "crest": "https://crests.football-data.org/503.png",
-    "competitionId": "PPL"
-  },
-  {
-    "id": "5575",
-    "name": "CS Marítimo",
-    "shortName": "Marítimo",
-    "tla": "CSM",
-    "crest": "https://crests.football-data.org/5575.png",
     "competitionId": "PPL"
   },
   {
@@ -72,19 +72,19 @@
     "competitionId": "PPL"
   },
   {
-    "id": "5613",
-    "name": "Sporting Clube de Braga",
-    "shortName": "Braga",
-    "tla": "SCB",
-    "crest": "https://crests.football-data.org/5613.png",
-    "competitionId": "PPL"
-  },
-  {
     "id": "5527",
     "name": "Académico de Viseu FC",
     "shortName": "Acad. Viseu",
     "tla": "ACV",
     "crest": "https://crests.football-data.org/5527.png",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "5613",
+    "name": "Sporting Clube de Braga",
+    "shortName": "Braga",
+    "tla": "SCB",
+    "crest": "https://crests.football-data.org/5613.png",
     "competitionId": "PPL"
   },
   {
