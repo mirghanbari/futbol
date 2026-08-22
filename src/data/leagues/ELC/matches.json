@@ -792,7 +792,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "72",
     "awayTeamId": "356",
     "homeTeam": {
@@ -810,14 +810,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "563",
     "awayTeamId": "348",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "London Stadium, London",
     "broadcasts": [
@@ -834,7 +834,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "342",
     "awayTeamId": "715",
     "homeTeam": {
@@ -852,14 +852,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1081",
     "awayTeamId": "76",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Deepdale, Preston",
     "broadcasts": [
@@ -880,14 +880,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "404",
     "awayTeamId": "346",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "STōK Cae Ras, Wrexham",
     "broadcasts": [
@@ -904,14 +904,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "59",
     "awayTeamId": "343",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Ewood Park, Blackburn",
     "broadcasts": [
@@ -928,11 +928,11 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "340",
     "awayTeamId": "70",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -946,7 +946,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "69",
     "awayTeamId": "60",
     "homeTeam": {
