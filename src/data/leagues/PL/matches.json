@@ -62,7 +62,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T11:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "322",
     "awayTeamId": "66",
     "homeTeam": {
@@ -70,6 +70,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 28,
+        "xg": 1.26,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 177,
+        "duelsWon": 50,
+        "boxTouches": 11,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 72,
+        "xg": 1.81,
+        "shots": 21,
+        "shotsOnTarget": 5,
+        "accuratePasses": 574,
+        "duelsWon": 35,
+        "boxTouches": 40,
+        "fouls": 9,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 2
+      }
     },
     "venue": "The MKM Stadium, Hull",
     "broadcasts": [

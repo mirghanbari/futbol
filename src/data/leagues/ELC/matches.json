@@ -642,14 +642,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T11:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "332",
     "awayTeamId": "387",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 1.98,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 354,
+        "duelsWon": 48,
+        "boxTouches": 17,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 36,
+        "xg": 1.43,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 162,
+        "duelsWon": 57,
+        "boxTouches": 26,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "St. Andrew's Stadium, Birmingham",
     "broadcasts": [
@@ -666,14 +694,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T11:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "1126",
     "awayTeamId": "325",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 2.29,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 140,
+        "duelsWon": 57,
+        "boxTouches": 24,
+        "fouls": 17,
+        "corners": 8,
+        "offsides": 9,
+        "saves": 4
+      },
+      "away": {
+        "possession": 61,
+        "xg": 1.15,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 271,
+        "duelsWon": 65,
+        "boxTouches": 23,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "LNER Stadium, Lincoln",
     "broadcasts": [
@@ -690,14 +746,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T11:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "384",
     "awayTeamId": "68",
     "homeTeam": {
-      "goals": 1
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.61,
+        "shots": 19,
+        "shotsOnTarget": 7,
+        "accuratePasses": 268,
+        "duelsWon": 44,
+        "boxTouches": 35,
+        "fouls": 14,
+        "corners": 8,
+        "offsides": 9,
+        "saves": 2
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.12,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 240,
+        "duelsWon": 47,
+        "boxTouches": 16,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "The Den, London"
   },
