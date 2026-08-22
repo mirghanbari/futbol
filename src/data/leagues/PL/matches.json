@@ -282,7 +282,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T16:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "402",
     "awayTeamId": "73",
     "homeTeam": {
@@ -290,6 +290,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 3.96,
+        "shots": 26,
+        "shotsOnTarget": 8,
+        "accuratePasses": 292,
+        "duelsWon": 60,
+        "boxTouches": 40,
+        "fouls": 17,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 4
+      },
+      "away": {
+        "possession": 59,
+        "xg": 0.47,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 463,
+        "duelsWon": 59,
+        "boxTouches": 17,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "Gtech Community Stadium, Brentford",
     "broadcasts": [

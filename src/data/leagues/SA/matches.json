@@ -13,7 +13,7 @@
       "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stadio Friuli, Udine",
     "broadcasts": [
@@ -34,14 +34,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T16:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "108",
     "awayTeamId": "5911",
     "homeTeam": {
-      "goals": 2
+      "goals": 4
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 70,
+        "xg": 1.16,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 628,
+        "duelsWon": 35,
+        "boxTouches": 27,
+        "fouls": 5,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 30,
+        "xg": 1.09,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 231,
+        "duelsWon": 22,
+        "boxTouches": 9,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 8,
+        "saves": 1
+      }
     },
     "venue": "San Siro, Milano",
     "broadcasts": [
