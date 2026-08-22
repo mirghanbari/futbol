@@ -1,5 +1,13 @@
 [
   {
+    "id": "559",
+    "name": "Sevilla FC",
+    "shortName": "Sevilla FC",
+    "tla": "SEV",
+    "crest": "https://crests.football-data.org/559.png",
+    "competitionId": "PD"
+  },
+  {
     "id": "263",
     "name": "Deportivo Alavés",
     "shortName": "Alavés",
@@ -21,14 +29,6 @@
     "shortName": "Atleti",
     "tla": "ATL",
     "crest": "https://crests.football-data.org/78.png",
-    "competitionId": "PD"
-  },
-  {
-    "id": "559",
-    "name": "Sevilla FC",
-    "shortName": "Sevilla FC",
-    "tla": "SEV",
-    "crest": "https://crests.football-data.org/559.png",
     "competitionId": "PD"
   },
   {
@@ -80,14 +80,6 @@
     "competitionId": "PD"
   },
   {
-    "id": "77",
-    "name": "Athletic Club",
-    "shortName": "Athletic",
-    "tla": "ATH",
-    "crest": "https://crests.football-data.org/77.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "79",
     "name": "CA Osasuna",
     "shortName": "Osasuna",
@@ -125,6 +117,14 @@
     "shortName": "Valencia",
     "tla": "VAL",
     "crest": "https://crests.football-data.org/95.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "77",
+    "name": "Athletic Club",
+    "shortName": "Athletic",
+    "tla": "ATH",
+    "crest": "https://crests.football-data.org/77.png",
     "competitionId": "PD"
   },
   {
