@@ -12,9 +12,9 @@
     "draw": 0,
     "lost": 0,
     "points": 6,
-    "goalsFor": 3,
+    "goalsFor": 4,
     "goalsAgainst": 1,
-    "goalDifference": 2
+    "goalDifference": 3
   },
   {
     "id": "263",
@@ -255,23 +255,6 @@
     "goalDifference": 0
   },
   {
-    "id": "77",
-    "name": "Athletic Club",
-    "shortName": "Athletic",
-    "tla": "ATH",
-    "crest": "https://crests.football-data.org/77.png",
-    "competitionId": "PD",
-    "position": 16,
-    "playedGames": 1,
-    "won": 0,
-    "draw": 0,
-    "lost": 1,
-    "points": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1
-  },
-  {
     "id": "92",
     "name": "Real Sociedad de Fútbol",
     "shortName": "Real Sociedad",
@@ -289,13 +272,30 @@
     "goalDifference": -1
   },
   {
+    "id": "77",
+    "name": "Athletic Club",
+    "shortName": "Athletic",
+    "tla": "ATH",
+    "crest": "https://crests.football-data.org/77.png",
+    "competitionId": "PD",
+    "position": 17,
+    "playedGames": 1,
+    "won": 0,
+    "draw": 0,
+    "lost": 1,
+    "points": 0,
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "goalDifference": -2
+  },
+  {
     "id": "84",
     "name": "Málaga CF",
     "shortName": "Málaga",
     "tla": "MAL",
     "crest": "https://crests.football-data.org/84.png",
     "competitionId": "PD",
-    "position": 18,
+    "position": 17,
     "playedGames": 1,
     "won": 0,
     "draw": 0,

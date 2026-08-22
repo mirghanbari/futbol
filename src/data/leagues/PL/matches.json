@@ -118,14 +118,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T14:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "349",
     "awayTeamId": "71",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 1.74,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 258,
+        "duelsWon": 62,
+        "boxTouches": 21,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 62,
+        "xg": 0.76,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 484,
+        "duelsWon": 52,
+        "boxTouches": 19,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 1
+      }
     },
     "venue": "Portman Road, Ipswich",
     "broadcasts": [
@@ -142,14 +170,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T14:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "351",
     "awayTeamId": "341",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 0.65,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 307,
+        "duelsWon": 59,
+        "boxTouches": 22,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 45,
+        "xg": 0.49,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 231,
+        "duelsWon": 65,
+        "boxTouches": 15,
+        "fouls": 14,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "The City Ground, Nottingham",
     "broadcasts": [
@@ -170,7 +226,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-22T14:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "62",
     "awayTeamId": "354",
     "homeTeam": {
@@ -178,6 +234,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 1.16,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 338,
+        "duelsWon": 53,
+        "boxTouches": 35,
+        "fouls": 5,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 58,
+        "xg": 2.04,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 494,
+        "duelsWon": 46,
+        "boxTouches": 14,
+        "fouls": 15,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Hill Dickinson Stadium, Liverpool",
     "broadcasts": [
