@@ -499,7 +499,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T17:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "95",
     "awayTeamId": "558",
     "homeTeam": {
@@ -507,6 +507,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 0.58,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 427,
+        "duelsWon": 35,
+        "boxTouches": 9,
+        "fouls": 17,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 56,
+        "xg": 0.66,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 551,
+        "duelsWon": 32,
+        "boxTouches": 15,
+        "fouls": 17,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Mestalla Stadium, Manises",
     "broadcasts": [
@@ -527,14 +555,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-22T19:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "80",
     "awayTeamId": "86",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "RCDE Stadium, Barcelona",
     "broadcasts": [
