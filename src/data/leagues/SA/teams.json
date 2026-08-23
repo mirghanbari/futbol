@@ -8,6 +8,14 @@
     "competitionId": "SA"
   },
   {
+    "id": "98",
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png",
+    "competitionId": "SA"
+  },
+  {
     "id": "113",
     "name": "SSC Napoli",
     "shortName": "Napoli",
@@ -64,22 +72,6 @@
     "competitionId": "SA"
   },
   {
-    "id": "98",
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png",
-    "competitionId": "SA"
-  },
-  {
-    "id": "586",
-    "name": "Torino FC",
-    "shortName": "Torino",
-    "tla": "TOR",
-    "crest": "https://crests.football-data.org/586.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "99",
     "name": "ACF Fiorentina",
     "shortName": "Fiorentina",
@@ -112,6 +104,14 @@
     "competitionId": "SA"
   },
   {
+    "id": "471",
+    "name": "US Sassuolo Calcio",
+    "shortName": "Sassuolo",
+    "tla": "SAS",
+    "crest": "https://crests.football-data.org/471.png",
+    "competitionId": "SA"
+  },
+  {
     "id": "470",
     "name": "Frosinone Calcio",
     "shortName": "Frosinone",
@@ -128,19 +128,19 @@
     "competitionId": "SA"
   },
   {
-    "id": "471",
-    "name": "US Sassuolo Calcio",
-    "shortName": "Sassuolo",
-    "tla": "SAS",
-    "crest": "https://crests.football-data.org/471.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "107",
     "name": "Genoa CFC",
     "shortName": "Genoa",
     "tla": "GEN",
     "crest": "https://crests.football-data.org/107.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "586",
+    "name": "Torino FC",
+    "shortName": "Torino",
+    "tla": "TOR",
+    "crest": "https://crests.football-data.org/586.png",
     "competitionId": "SA"
   },
   {
