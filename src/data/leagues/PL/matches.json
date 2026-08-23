@@ -446,14 +446,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-23T15:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "67",
     "awayTeamId": "64",
     "homeTeam": {
       "goals": 2
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 1.43,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 222,
+        "duelsWon": 48,
+        "boxTouches": 16,
+        "fouls": 16,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 61,
+        "xg": 2.73,
+        "shots": 27,
+        "shotsOnTarget": 7,
+        "accuratePasses": 370,
+        "duelsWon": 50,
+        "boxTouches": 36,
+        "fouls": 15,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "St. James' Park, Newcastle-upon-Tyne",
     "broadcasts": [
