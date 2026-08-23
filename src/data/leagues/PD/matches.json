@@ -675,7 +675,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-23T17:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "82",
     "awayTeamId": "5335",
     "homeTeam": {
@@ -683,6 +683,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 1.22,
+        "shots": 12,
+        "shotsOnTarget": 1,
+        "accuratePasses": 247,
+        "duelsWon": 51,
+        "boxTouches": 11,
+        "fouls": 14,
+        "corners": 8,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 57,
+        "xg": 1,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 378,
+        "duelsWon": 51,
+        "boxTouches": 18,
+        "fouls": 17,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 0
+      }
     },
     "venue": "Estadio Coliseum, Getafe",
     "broadcasts": [
@@ -703,7 +731,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-23T19:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "285",
     "awayTeamId": "81",
     "homeTeam": {
