@@ -338,14 +338,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-23T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "65",
     "awayTeamId": "1044",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 2.36,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 569,
+        "duelsWon": 46,
+        "boxTouches": 37,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 34,
+        "xg": 0.63,
+        "shots": 5,
+        "shotsOnTarget": 4,
+        "accuratePasses": 263,
+        "duelsWon": 38,
+        "boxTouches": 6,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Etihad Stadium, Manchester",
     "broadcasts": [
@@ -366,7 +394,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-23T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "397",
     "awayTeamId": "58",
     "homeTeam": {
@@ -374,6 +402,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 73,
+        "xg": 3.67,
+        "shots": 21,
+        "shotsOnTarget": 6,
+        "accuratePasses": 598,
+        "duelsWon": 50,
+        "boxTouches": 35,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 6,
+        "saves": 0
+      },
+      "away": {
+        "possession": 27,
+        "xg": 0.31,
+        "shots": 6,
+        "shotsOnTarget": 0,
+        "accuratePasses": 182,
+        "duelsWon": 46,
+        "boxTouches": 4,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "American Express Stadium, Falmer",
     "broadcasts": [

@@ -282,14 +282,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-23T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "532",
     "awayTeamId": "521",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 3
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 57,
+        "xg": 1.99,
+        "shots": 20,
+        "shotsOnTarget": 2,
+        "accuratePasses": 400,
+        "duelsWon": 49,
+        "boxTouches": 34,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 6
+      },
+      "away": {
+        "possession": 43,
+        "xg": 1.24,
+        "shots": 11,
+        "shotsOnTarget": 8,
+        "accuratePasses": 317,
+        "duelsWon": 43,
+        "boxTouches": 26,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Stade Raymond Kopa, Angers"
   },
@@ -300,7 +328,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-23T15:15:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "533",
     "awayTeamId": "548",
     "homeTeam": {
