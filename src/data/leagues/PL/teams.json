@@ -1,5 +1,13 @@
 [
   {
+    "id": "397",
+    "name": "Brighton & Hove Albion FC",
+    "shortName": "Brighton Hove",
+    "tla": "BHA",
+    "crest": "https://crests.football-data.org/397.png",
+    "competitionId": "PL"
+  },
+  {
     "id": "57",
     "name": "Arsenal FC",
     "shortName": "Arsenal",
@@ -13,14 +21,6 @@
     "shortName": "Brentford",
     "tla": "BRE",
     "crest": "https://crests.football-data.org/402.png",
-    "competitionId": "PL"
-  },
-  {
-    "id": "397",
-    "name": "Brighton & Hove Albion FC",
-    "shortName": "Brighton Hove",
-    "tla": "BHA",
-    "crest": "https://crests.football-data.org/397.png",
     "competitionId": "PL"
   },
   {
@@ -136,14 +136,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "58",
-    "name": "Aston Villa FC",
-    "shortName": "Aston Villa",
-    "tla": "AVL",
-    "crest": "https://crests.football-data.org/58.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "1076",
     "name": "Coventry City FC",
     "shortName": "Coventry City",
@@ -157,6 +149,14 @@
     "shortName": "Tottenham",
     "tla": "TOT",
     "crest": "https://crests.football-data.org/73.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "58",
+    "name": "Aston Villa FC",
+    "shortName": "Aston Villa",
+    "tla": "AVL",
+    "crest": "https://crests.football-data.org/58.png",
     "competitionId": "PL"
   }
 ]
