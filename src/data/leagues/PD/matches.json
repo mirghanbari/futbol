@@ -731,7 +731,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-23T19:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "285",
     "awayTeamId": "81",
     "homeTeam": {
@@ -739,6 +739,34 @@
     },
     "awayTeam": {
       "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.72,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 349,
+        "duelsWon": 38,
+        "boxTouches": 17,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 54,
+        "xg": 4.13,
+        "shots": 11,
+        "shotsOnTarget": 7,
+        "accuratePasses": 466,
+        "duelsWon": 55,
+        "boxTouches": 21,
+        "fouls": 12,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 2
+      }
     },
     "venue": "Estadio Martínez Valero, Elche",
     "broadcasts": [

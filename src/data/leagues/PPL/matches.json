@@ -1036,7 +1036,7 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-23T19:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "503",
     "awayTeamId": "712",
     "homeTeam": {
@@ -1044,6 +1044,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 3,
+        "shots": 23,
+        "shotsOnTarget": 10,
+        "accuratePasses": 394,
+        "duelsWon": 49,
+        "boxTouches": 40,
+        "fouls": 16,
+        "corners": 12,
+        "offsides": 5,
+        "saves": 1
+      },
+      "away": {
+        "possession": 47,
+        "xg": 0.54,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 360,
+        "duelsWon": 44,
+        "boxTouches": 8,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 8
+      }
     },
     "venue": "Estádio do Dragão, Porto"
   },
