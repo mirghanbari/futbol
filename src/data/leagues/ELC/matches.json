@@ -1188,7 +1188,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-23T11:00:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "74",
     "awayTeamId": "328",
     "homeTeam": {
@@ -1196,6 +1196,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.64,
+        "shots": 11,
+        "shotsOnTarget": 7,
+        "accuratePasses": 446,
+        "duelsWon": 38,
+        "boxTouches": 24,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 8,
+        "saves": 3
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.15,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 406,
+        "duelsWon": 31,
+        "boxTouches": 16,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "The Hawthorns, West Bromwich",
     "broadcasts": [
