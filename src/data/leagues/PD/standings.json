@@ -51,13 +51,30 @@
     "goalDifference": 2
   },
   {
+    "id": "81",
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png",
+    "competitionId": "PD",
+    "position": 4,
+    "playedGames": 1,
+    "won": 1,
+    "draw": 0,
+    "lost": 0,
+    "points": 3,
+    "goalsFor": 5,
+    "goalsAgainst": 0,
+    "goalDifference": 5
+  },
+  {
     "id": "80",
     "name": "RCD Espanyol de Barcelona",
     "shortName": "Espanyol",
     "tla": "ESP",
     "crest": "https://crests.football-data.org/80.png",
     "competitionId": "PD",
-    "position": 4,
+    "position": 5,
     "playedGames": 2,
     "won": 1,
     "draw": 0,
@@ -65,23 +82,6 @@
     "points": 3,
     "goalsFor": 4,
     "goalsAgainst": 2,
-    "goalDifference": 2
-  },
-  {
-    "id": "81",
-    "name": "FC Barcelona",
-    "shortName": "Barça",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/81.png",
-    "competitionId": "PD",
-    "position": 5,
-    "playedGames": 1,
-    "won": 1,
-    "draw": 0,
-    "lost": 0,
-    "points": 3,
-    "goalsFor": 2,
-    "goalsAgainst": 0,
     "goalDifference": 2
   },
   {
@@ -251,8 +251,8 @@
     "lost": 1,
     "points": 1,
     "goalsFor": 1,
-    "goalsAgainst": 3,
-    "goalDifference": -2
+    "goalsAgainst": 6,
+    "goalDifference": -5
   },
   {
     "id": "79",
