@@ -289,7 +289,7 @@
       "goals": 0
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 3
     },
     "stats": {
       "home": {
@@ -328,7 +328,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-23T15:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "533",
     "awayTeamId": "548",
     "homeTeam": {
@@ -336,6 +336,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 0.6,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 328,
+        "duelsWon": 44,
+        "boxTouches": 24,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 6
+      },
+      "away": {
+        "possession": 50,
+        "xg": 1.39,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 350,
+        "duelsWon": 60,
+        "boxTouches": 29,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Stade Océane, Le Havre"
   },
