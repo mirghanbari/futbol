@@ -502,7 +502,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-24T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "63",
     "awayTeamId": "61",
     "homeTeam": {
@@ -510,6 +510,34 @@
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 1.34,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 533,
+        "duelsWon": 49,
+        "boxTouches": 24,
+        "fouls": 12,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 38,
+        "xg": 1.7,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 317,
+        "duelsWon": 56,
+        "boxTouches": 37,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "Craven Cottage, London",
     "broadcasts": [
