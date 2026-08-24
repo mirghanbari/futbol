@@ -1082,7 +1082,7 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-24T19:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5533",
     "awayTeamId": "6618",
     "homeTeam": {
@@ -1090,6 +1090,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 1.74,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 458,
+        "duelsWon": 36,
+        "boxTouches": 15,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.76,
+        "shots": 13,
+        "shotsOnTarget": 2,
+        "accuratePasses": 329,
+        "duelsWon": 41,
+        "boxTouches": 20,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Estádio Cidade de Barcelos, Barcelos"
   },
