@@ -1,5 +1,13 @@
 [
   {
+    "id": "100",
+    "name": "AS Roma",
+    "shortName": "Roma",
+    "tla": "ROM",
+    "crest": "https://crests.football-data.org/100.png",
+    "competitionId": "SA"
+  },
+  {
     "id": "108",
     "name": "FC Internazionale Milano",
     "shortName": "Inter",
@@ -37,14 +45,6 @@
     "shortName": "Atalanta",
     "tla": "ATA",
     "crest": "https://crests.football-data.org/102.png",
-    "competitionId": "SA"
-  },
-  {
-    "id": "100",
-    "name": "AS Roma",
-    "shortName": "Roma",
-    "tla": "ROM",
-    "crest": "https://crests.football-data.org/100.png",
     "competitionId": "SA"
   },
   {
@@ -104,14 +104,6 @@
     "competitionId": "SA"
   },
   {
-    "id": "99",
-    "name": "ACF Fiorentina",
-    "shortName": "Fiorentina",
-    "tla": "FIO",
-    "crest": "https://crests.football-data.org/99.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "103",
     "name": "Bologna FC 1909",
     "shortName": "Bologna",
@@ -157,6 +149,14 @@
     "shortName": "Monza",
     "tla": "MON",
     "crest": "https://crests.football-data.org/5911.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "99",
+    "name": "ACF Fiorentina",
+    "shortName": "Fiorentina",
+    "tla": "FIO",
+    "crest": "https://crests.football-data.org/99.png",
     "competitionId": "SA"
   }
 ]
