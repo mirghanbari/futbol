@@ -40,6 +40,14 @@
     "competitionId": "PL"
   },
   {
+    "id": "61",
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png",
+    "competitionId": "PL"
+  },
+  {
     "id": "349",
     "name": "Ipswich Town FC",
     "shortName": "Ipswich Town",
@@ -53,14 +61,6 @@
     "shortName": "Man City",
     "tla": "MCI",
     "crest": "https://crests.football-data.org/65.png",
-    "competitionId": "PL"
-  },
-  {
-    "id": "61",
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png",
     "competitionId": "PL"
   },
   {
@@ -96,19 +96,19 @@
     "competitionId": "PL"
   },
   {
-    "id": "71",
-    "name": "Sunderland AFC",
-    "shortName": "Sunderland",
-    "tla": "SUN",
-    "crest": "https://crests.football-data.org/71.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "63",
     "name": "Fulham FC",
     "shortName": "Fulham",
     "tla": "FUL",
     "crest": "https://crests.football-data.org/63.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "71",
+    "name": "Sunderland AFC",
+    "shortName": "Sunderland",
+    "tla": "SUN",
+    "crest": "https://crests.football-data.org/71.png",
     "competitionId": "PL"
   },
   {

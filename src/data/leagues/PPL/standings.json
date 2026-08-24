@@ -85,13 +85,30 @@
     "goalDifference": 3
   },
   {
+    "id": "5533",
+    "name": "Gil Vicente FC",
+    "shortName": "Gil Vicente",
+    "tla": "GIL",
+    "crest": "https://crests.football-data.org/5533.png",
+    "competitionId": "PPL",
+    "position": 6,
+    "playedGames": 2,
+    "won": 2,
+    "draw": 0,
+    "lost": 0,
+    "points": 6,
+    "goalsFor": 2,
+    "goalsAgainst": 0,
+    "goalDifference": 2
+  },
+  {
     "id": "1903",
     "name": "Sport Lisboa e Benfica",
     "shortName": "SL Benfica",
     "tla": "BEN",
     "crest": "https://crests.football-data.org/1903.png",
     "competitionId": "PPL",
-    "position": 6,
+    "position": 7,
     "playedGames": 2,
     "won": 1,
     "draw": 1,
@@ -108,7 +125,7 @@
     "tla": "CDN",
     "crest": "https://crests.football-data.org/5529.png",
     "competitionId": "PPL",
-    "position": 7,
+    "position": 8,
     "playedGames": 3,
     "won": 1,
     "draw": 1,
@@ -116,23 +133,6 @@
     "points": 4,
     "goalsFor": 4,
     "goalsAgainst": 3,
-    "goalDifference": 1
-  },
-  {
-    "id": "5533",
-    "name": "Gil Vicente FC",
-    "shortName": "Gil Vicente",
-    "tla": "GIL",
-    "crest": "https://crests.football-data.org/5533.png",
-    "competitionId": "PPL",
-    "position": 8,
-    "playedGames": 2,
-    "won": 1,
-    "draw": 1,
-    "lost": 0,
-    "points": 4,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
     "goalDifference": 1
   },
   {
@@ -298,11 +298,11 @@
     "position": 18,
     "playedGames": 3,
     "won": 0,
-    "draw": 1,
-    "lost": 2,
-    "points": 1,
+    "draw": 0,
+    "lost": 3,
+    "points": 0,
     "goalsFor": 0,
-    "goalsAgainst": 8,
-    "goalDifference": -8
+    "goalsAgainst": 9,
+    "goalDifference": -9
   }
 ]
