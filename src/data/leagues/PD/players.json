@@ -288,20 +288,20 @@
     "competitionId": "PD"
   },
   {
-    "id": "203506",
-    "name": "Mario de Luis",
-    "position": "Goalkeeper",
-    "nationality": "Spain",
-    "dateOfBirth": "2002-05-06",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
     "id": "70",
     "name": "Marcos Llorente",
     "position": "Defender",
     "nationality": "Spain",
     "dateOfBirth": "1995-01-30",
+    "teamId": "78",
+    "competitionId": "PD"
+  },
+  {
+    "id": "15542",
+    "name": "Dávid Hancko",
+    "position": "Defender",
+    "nationality": "Slovakia",
+    "dateOfBirth": "1997-12-13",
     "teamId": "78",
     "competitionId": "PD"
   },
@@ -324,11 +324,29 @@
     "competitionId": "PD"
   },
   {
+    "id": "46452",
+    "name": "Nahuel Molina",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "dateOfBirth": "1998-04-06",
+    "teamId": "78",
+    "competitionId": "PD"
+  },
+  {
     "id": "99791",
     "name": "Robin Le Normand",
     "position": "Defender",
     "nationality": "France",
     "dateOfBirth": "1996-11-11",
+    "teamId": "78",
+    "competitionId": "PD"
+  },
+  {
+    "id": "151241",
+    "name": "Matteo Ruggeri",
+    "position": "Defender",
+    "nationality": "Italy",
+    "dateOfBirth": "2002-07-11",
     "teamId": "78",
     "competitionId": "PD"
   },
@@ -351,15 +369,6 @@
     "competitionId": "PD"
   },
   {
-    "id": "261186",
-    "name": "Aleksa Puric",
-    "position": "Defender",
-    "nationality": "Serbia",
-    "dateOfBirth": "2003-07-07",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
     "id": "289895",
     "name": "Daniel Martínez",
     "position": "Defender",
@@ -374,6 +383,33 @@
     "position": "Defender",
     "nationality": "Spain",
     "dateOfBirth": "2009-12-21",
+    "teamId": "78",
+    "competitionId": "PD"
+  },
+  {
+    "id": "112",
+    "name": "Koke",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "1992-01-08",
+    "teamId": "78",
+    "competitionId": "PD"
+  },
+  {
+    "id": "3369",
+    "name": "Thomas Lemar",
+    "position": "Midfielder",
+    "nationality": "Guadeloupe",
+    "dateOfBirth": "1995-11-12",
+    "teamId": "78",
+    "competitionId": "PD"
+  },
+  {
+    "id": "73998",
+    "name": "Morten Hjulmand",
+    "position": "Midfielder",
+    "nationality": "Denmark",
+    "dateOfBirth": "1999-06-25",
     "teamId": "78",
     "competitionId": "PD"
   },
@@ -396,24 +432,6 @@
     "competitionId": "PD"
   },
   {
-    "id": "172828",
-    "name": "Arnau Ortiz",
-    "position": "Midfielder",
-    "nationality": "Spain",
-    "dateOfBirth": "2001-10-29",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
-    "id": "177509",
-    "name": "Pablo Barrios",
-    "position": "Midfielder",
-    "nationality": "Spain",
-    "dateOfBirth": "2003-06-15",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
     "id": "189617",
     "name": "Rodrigo Mendoza",
     "position": "Midfielder",
@@ -423,38 +441,20 @@
     "competitionId": "PD"
   },
   {
+    "id": "191151",
+    "name": "Pablo Barrios",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2025-06-30",
+    "teamId": "78",
+    "competitionId": "PD"
+  },
+  {
     "id": "213217",
     "name": "Kang-in Lee",
     "position": "Midfielder",
     "nationality": "South Korea",
     "dateOfBirth": "2001-02-19",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
-    "id": "213278",
-    "name": "Álex Baena",
-    "position": "Midfielder",
-    "nationality": "Spain",
-    "dateOfBirth": "2001-07-20",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
-    "id": "279065",
-    "name": "Taufik",
-    "position": "Midfielder",
-    "nationality": "Ghana",
-    "dateOfBirth": "2008-01-20",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
-    "id": "295749",
-    "name": "Jorge Castillo",
-    "position": "Midfielder",
-    "nationality": "Spain",
-    "dateOfBirth": "2006-05-23",
     "teamId": "78",
     "competitionId": "PD"
   },
@@ -486,6 +486,15 @@
     "competitionId": "PD"
   },
   {
+    "id": "144576",
+    "name": "Alejandro Baena",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-07-20",
+    "teamId": "78",
+    "competitionId": "PD"
+  },
+  {
     "id": "171964",
     "name": "Giuliano Simeone",
     "position": "Forward",
@@ -495,72 +504,18 @@
     "competitionId": "PD"
   },
   {
-    "id": "294736",
-    "name": "Miguel Cubo",
+    "id": "172828",
+    "name": "Arnau Ortiz",
     "position": "Forward",
     "nationality": "Spain",
-    "dateOfBirth": "2008-02-08",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
-    "id": "73998",
-    "name": "Morten Hjulmand",
-    "position": null,
-    "nationality": "Denmark",
-    "dateOfBirth": "1999-06-25",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
-    "id": "15542",
-    "name": "Dávid Hancko",
-    "position": null,
-    "nationality": "Slovakia",
-    "dateOfBirth": "1997-12-13",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
-    "id": "3369",
-    "name": "Thomas Lemar",
-    "position": null,
-    "nationality": "Guadeloupe",
-    "dateOfBirth": "1995-11-12",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
-    "id": "112",
-    "name": "Koke",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "1992-01-08",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
-    "id": "244719",
-    "name": "Rayane Belaid",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2005-11-02",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
-    "id": "221562",
-    "name": "Javier Boñar",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2005-06-03",
+    "dateOfBirth": "2001-10-29",
     "teamId": "78",
     "competitionId": "PD"
   },
   {
     "id": "175937",
     "name": "Carlos Martin",
-    "position": null,
+    "position": "Forward",
     "nationality": "Spain",
     "dateOfBirth": "2002-04-22",
     "teamId": "78",
@@ -1301,15 +1256,6 @@
     "position": "Forward",
     "nationality": "Belgium",
     "dateOfBirth": "2008-01-22",
-    "teamId": "81",
-    "competitionId": "PD"
-  },
-  {
-    "id": "299872",
-    "name": "Jordi Pesquer",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2009-01-26",
     "teamId": "81",
     "competitionId": "PD"
   },
@@ -4892,15 +4838,6 @@
     "position": "Forward",
     "nationality": "Morocco",
     "dateOfBirth": "2005-02-23",
-    "teamId": "5335",
-    "competitionId": "PD"
-  },
-  {
-    "id": "299870",
-    "name": "Hugo Pérez",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2007-06-12",
     "teamId": "5335",
     "competitionId": "PD"
   }
