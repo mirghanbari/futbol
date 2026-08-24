@@ -1253,6 +1253,10 @@
     "venue": "Estadio La Cartuja, Sevilla",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -1277,6 +1281,10 @@
     "venue": "San Mamés, Bilbao",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -1300,6 +1308,10 @@
     },
     "venue": "Estadio de Vallecas, Madrid",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
