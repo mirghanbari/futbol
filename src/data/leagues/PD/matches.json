@@ -791,7 +791,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-24T17:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "79",
     "awayTeamId": "88",
     "homeTeam": {
@@ -1354,6 +1354,10 @@
     "venue": "Mestalla Stadium, Manises",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -1377,6 +1381,10 @@
     },
     "venue": "Mendizorrotza, Vitoria-Gasteiz",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -1402,6 +1410,10 @@
     "venue": "La Rosaleda, Malaga",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -1425,6 +1437,10 @@
     },
     "venue": "RCDE Stadium, Barcelona",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
