@@ -791,7 +791,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-24T17:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "79",
     "awayTeamId": "88",
     "homeTeam": {
@@ -799,6 +799,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.67,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 271,
+        "duelsWon": 49,
+        "boxTouches": 15,
+        "fouls": 9,
+        "corners": 9,
+        "offsides": 5,
+        "saves": 1
+      },
+      "away": {
+        "possession": 54,
+        "xg": 1.31,
+        "shots": 11,
+        "shotsOnTarget": 1,
+        "accuratePasses": 336,
+        "duelsWon": 36,
+        "boxTouches": 16,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 7
+      }
     },
     "venue": "El Sadar, Pamplona",
     "broadcasts": [

@@ -40,6 +40,14 @@
     "competitionId": "SA"
   },
   {
+    "id": "100",
+    "name": "AS Roma",
+    "shortName": "Roma",
+    "tla": "ROM",
+    "crest": "https://crests.football-data.org/100.png",
+    "competitionId": "SA"
+  },
+  {
     "id": "104",
     "name": "Cagliari Calcio",
     "shortName": "Cagliari",
@@ -80,22 +88,6 @@
     "competitionId": "SA"
   },
   {
-    "id": "99",
-    "name": "ACF Fiorentina",
-    "shortName": "Fiorentina",
-    "tla": "FIO",
-    "crest": "https://crests.football-data.org/99.png",
-    "competitionId": "SA"
-  },
-  {
-    "id": "100",
-    "name": "AS Roma",
-    "shortName": "Roma",
-    "tla": "ROM",
-    "crest": "https://crests.football-data.org/100.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "471",
     "name": "US Sassuolo Calcio",
     "shortName": "Sassuolo",
@@ -109,6 +101,14 @@
     "shortName": "Torino",
     "tla": "TOR",
     "crest": "https://crests.football-data.org/586.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "99",
+    "name": "ACF Fiorentina",
+    "shortName": "Fiorentina",
+    "tla": "FIO",
+    "crest": "https://crests.football-data.org/99.png",
     "competitionId": "SA"
   },
   {
