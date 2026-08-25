@@ -1576,24 +1576,6 @@
     "venue": "Fratton Park, Portsmouth"
   },
   {
-    "id": "561803",
-    "competitionId": "ELC",
-    "season": "2026",
-    "matchday": 4,
-    "stage": "regular",
-    "utcDate": "2026-09-01T18:45:00Z",
-    "status": "scheduled",
-    "homeTeamId": "332",
-    "awayTeamId": "340",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "St. Andrew's Stadium, Birmingham"
-  },
-  {
     "id": "561804",
     "competitionId": "ELC",
     "season": "2026",
@@ -1628,6 +1610,24 @@
       "goals": 0
     },
     "venue": "bet365 Stadium, Stoke-on-Trent"
+  },
+  {
+    "id": "561803",
+    "competitionId": "ELC",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "regular",
+    "utcDate": "2026-09-01T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "332",
+    "awayTeamId": "340",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "St. Andrew's Stadium, Birmingham"
   },
   {
     "id": "561806",
