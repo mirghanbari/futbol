@@ -375,14 +375,43 @@
     "stage": "regular",
     "utcDate": "2026-08-23T18:45:00Z",
     "status": "finished",
-    "homeTeamId": "524",
-    "awayTeamId": "529",
+    "homeTeamId": "529",
+    "awayTeamId": "524",
     "homeTeam": {
       "goals": 2
     },
     "awayTeam": {
       "goals": 2
-    }
+    },
+    "stats": {
+      "home": {
+        "possession": 31,
+        "xg": 0.87,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 250,
+        "duelsWon": 50,
+        "boxTouches": 14,
+        "fouls": 7,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 69,
+        "xg": 2.16,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 666,
+        "duelsWon": 44,
+        "boxTouches": 30,
+        "fouls": 6,
+        "corners": 10,
+        "offsides": 7,
+        "saves": 0
+      }
+    },
+    "venue": "Roazhon Park, Rennes"
   },
   {
     "id": "559702",
@@ -3812,15 +3841,14 @@
     "stage": "regular",
     "utcDate": "2027-03-06T00:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "529",
-    "awayTeamId": "524",
+    "homeTeamId": "524",
+    "awayTeamId": "529",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
-    },
-    "venue": "Roazhon Park, Rennes"
+    }
   },
   {
     "id": "559515",
