@@ -876,24 +876,6 @@
     ]
   },
   {
-    "id": "558233",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 3,
-    "stage": "regular",
-    "utcDate": "2026-08-22T00:00:00Z",
-    "status": "postponed",
-    "homeTeamId": "1915",
-    "awayTeamId": "670",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Goffertstadion, Nijmegen"
-  },
-  {
     "id": "558232",
     "competitionId": "DED",
     "season": "2026",
@@ -1560,6 +1542,24 @@
     "venue": "ADO Den Haag Stadium, Den Haag"
   },
   {
+    "id": "558233",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "regular",
+    "utcDate": "2026-09-08T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1915",
+    "awayTeamId": "670",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Goffertstadion, Nijmegen"
+  },
+  {
     "id": "558239",
     "competitionId": "DED",
     "season": "2026",
@@ -1662,22 +1662,22 @@
     ]
   },
   {
-    "id": "558895",
+    "id": "558892",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-12T19:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "673",
-    "awayTeamId": "1912",
+    "homeTeamId": "1909",
+    "awayTeamId": "1915",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Abe Lenstra Stadion, Heerenveen"
+    "venue": "Kooi Stadium, Leeuwarden"
   },
   {
     "id": "558894",
@@ -1696,24 +1696,6 @@
       "goals": 0
     },
     "venue": "Stadion Woudestein, Rotterdam"
-  },
-  {
-    "id": "558892",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-09-13T12:30:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1909",
-    "awayTeamId": "1915",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Kooi Stadium, Leeuwarden"
   },
   {
     "id": "558893",
@@ -1738,6 +1720,24 @@
         "kind": "streaming"
       }
     ]
+  },
+  {
+    "id": "558895",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-09-13T12:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "673",
+    "awayTeamId": "1912",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Abe Lenstra Stadion, Heerenveen"
   },
   {
     "id": "558891",
@@ -2172,24 +2172,6 @@
     "venue": "ADO Den Haag Stadium, Den Haag"
   },
   {
-    "id": "558870",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-10-17T16:45:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1915",
-    "awayTeamId": "1920",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Goffertstadion, Nijmegen"
-  },
-  {
     "id": "558869",
     "competitionId": "DED",
     "season": "2026",
@@ -2296,6 +2278,24 @@
       "goals": 0
     },
     "venue": "Euroborg, Groningen"
+  },
+  {
+    "id": "558870",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-10-18T18:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1915",
+    "awayTeamId": "1920",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Goffertstadion, Nijmegen"
   },
   {
     "id": "558863",
