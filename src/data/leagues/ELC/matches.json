@@ -1273,7 +1273,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Molineux Stadium, Wolverhampton"
+    "venue": "Molineux Stadium, Wolverhampton",
+    "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561791",
@@ -1456,6 +1466,10 @@
     "venue": "Cardiff City Stadium, Cardiff",
     "broadcasts": [
       {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
         "name": "Paramount+",
         "kind": "streaming"
       }
@@ -1519,7 +1533,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "London Stadium, London"
+    "venue": "London Stadium, London",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561800",
@@ -1609,7 +1629,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "bet365 Stadium, Stoke-on-Trent"
+    "venue": "bet365 Stadium, Stoke-on-Trent",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561803",
@@ -1627,7 +1653,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "St. Andrew's Stadium, Birmingham"
+    "venue": "St. Andrew's Stadium, Birmingham",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561806",
@@ -1645,7 +1677,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "The Den, London"
+    "venue": "The Den, London",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561807",
@@ -1663,7 +1701,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "MATRADE Loftus Road, London"
+    "venue": "MATRADE Loftus Road, London",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561808",
@@ -1699,7 +1743,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Turf Moor, Burnley"
+    "venue": "Turf Moor, Burnley",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561813",

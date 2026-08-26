@@ -567,7 +567,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Selhurst Park, London"
+    "venue": "Selhurst Park, London",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560552",
@@ -585,7 +591,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Anfield, Liverpool"
+    "venue": "Anfield, Liverpool",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560560",
@@ -603,7 +619,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Vitality Stadium, Bournemouth"
+    "venue": "Vitality Stadium, Bournemouth",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560561",
@@ -621,7 +643,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Coventry Building Society Arena, Coventry"
+    "venue": "Coventry Building Society Arena, Coventry",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560558",
@@ -639,7 +671,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Tottenham Hotspur Stadium, London"
+    "venue": "Tottenham Hotspur Stadium, London",
+    "broadcasts": [
+      {
+        "name": "NBC",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560554",
@@ -657,7 +699,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stadium of Light, Sunderland"
+    "venue": "Stadium of Light, Sunderland",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560556",
@@ -675,7 +723,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stamford Bridge, London"
+    "venue": "Stamford Bridge, London",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560559",
@@ -693,7 +747,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Elland Road, Leeds"
+    "venue": "Elland Road, Leeds",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560553",
@@ -711,7 +775,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Old Trafford, Manchester"
+    "venue": "Old Trafford, Manchester",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560557",
@@ -729,7 +803,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Villa Park, Birmingham"
+    "venue": "Villa Park, Birmingham",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560566",
@@ -747,7 +831,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Portman Road, Ipswich"
+    "venue": "Portman Road, Ipswich",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560571",
@@ -765,7 +855,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "St. James' Park, Newcastle-upon-Tyne"
+    "venue": "St. James' Park, Newcastle-upon-Tyne",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560562",
@@ -783,7 +883,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "The City Ground, Nottingham"
+    "venue": "The City Ground, Nottingham",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560563",
@@ -801,7 +907,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Etihad Stadium, Manchester"
+    "venue": "Etihad Stadium, Manchester",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560564",
@@ -819,7 +935,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "American Express Stadium, Falmer"
+    "venue": "American Express Stadium, Falmer",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560565",
@@ -837,7 +959,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Gtech Community Stadium, Brentford"
+    "venue": "Gtech Community Stadium, Brentford",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560568",
@@ -855,7 +983,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Craven Cottage, London"
+    "venue": "Craven Cottage, London",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560569",
@@ -873,7 +1007,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "The MKM Stadium, Hull"
+    "venue": "The MKM Stadium, Hull",
+    "broadcasts": [
+      {
+        "name": "NBC",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560567",
@@ -891,7 +1031,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Hill Dickinson Stadium, Liverpool"
+    "venue": "Hill Dickinson Stadium, Liverpool",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560570",
@@ -909,7 +1059,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Emirates Stadium, London"
+    "venue": "Emirates Stadium, London",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560572",

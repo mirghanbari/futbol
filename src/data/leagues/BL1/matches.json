@@ -15,7 +15,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Allianz Arena, München"
+    "venue": "Allianz Arena, München",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565777",
@@ -33,7 +39,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Red Bull Arena, Leipzig"
+    "venue": "Red Bull Arena, Leipzig",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565778",
@@ -51,7 +63,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "MEWA ARENA, Mainz"
+    "venue": "MEWA ARENA, Mainz",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565779",
@@ -69,7 +87,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stadion An der Alten Försterei, Berlin"
+    "venue": "Stadion An der Alten Försterei, Berlin",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565780",
@@ -87,7 +111,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg"
+    "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565783",
@@ -105,7 +135,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "RheinEnergieStadion, Cologne"
+    "venue": "RheinEnergieStadion, Cologne",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565781",
@@ -123,7 +159,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Signal Iduna Park, Aue"
+    "venue": "Signal Iduna Park, Aue",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "565784",
@@ -141,7 +183,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Europa-Park Stadion, Freiburg im Breisgau"
+    "venue": "Europa-Park Stadion, Freiburg im Breisgau",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565782",
@@ -159,7 +207,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "WWK Arena, Augsburg"
+    "venue": "WWK Arena, Augsburg",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565791",
