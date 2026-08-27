@@ -1,5 +1,13 @@
 [
   {
+    "id": "81",
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png",
+    "competitionId": "PD"
+  },
+  {
     "id": "86",
     "name": "Real Madrid CF",
     "shortName": "Real Madrid",
@@ -40,11 +48,11 @@
     "competitionId": "PD"
   },
   {
-    "id": "81",
-    "name": "FC Barcelona",
-    "shortName": "Barça",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/81.png",
+    "id": "79",
+    "name": "CA Osasuna",
+    "shortName": "Osasuna",
+    "tla": "OSA",
+    "crest": "https://crests.football-data.org/79.png",
     "competitionId": "PD"
   },
   {
@@ -80,22 +88,6 @@
     "competitionId": "PD"
   },
   {
-    "id": "79",
-    "name": "CA Osasuna",
-    "shortName": "Osasuna",
-    "tla": "OSA",
-    "crest": "https://crests.football-data.org/79.png",
-    "competitionId": "PD"
-  },
-  {
-    "id": "558",
-    "name": "RC Celta de Vigo",
-    "shortName": "Celta",
-    "tla": "CEL",
-    "crest": "https://crests.football-data.org/558.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "5335",
     "name": "Real Racing Club de Santander",
     "shortName": "Santander",
@@ -109,6 +101,14 @@
     "shortName": "Rayo Vallecano",
     "tla": "RAY",
     "crest": "https://crests.football-data.org/87.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "558",
+    "name": "RC Celta de Vigo",
+    "shortName": "Celta",
+    "tla": "CEL",
+    "crest": "https://crests.football-data.org/558.png",
     "competitionId": "PD"
   },
   {

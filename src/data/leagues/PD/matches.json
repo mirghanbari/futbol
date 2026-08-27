@@ -1004,14 +1004,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-27T18:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "558",
     "awayTeamId": "79",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 0.13,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 484,
+        "duelsWon": 39,
+        "boxTouches": 12,
+        "fouls": 7,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 49,
+        "xg": 2.68,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 456,
+        "duelsWon": 38,
+        "boxTouches": 14,
+        "fouls": 16,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 1
+      }
     },
     "venue": "Balaidos, Vigo",
     "broadcasts": [
@@ -1032,17 +1060,21 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-27T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "81",
     "awayTeamId": "77",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
     },
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
+      {
+        "name": "ESPN2",
+        "kind": "tv"
+      },
       {
         "name": "ESPN Deportes",
         "kind": "tv"
