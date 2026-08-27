@@ -948,14 +948,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-26T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "86",
     "awayTeamId": "92",
     "homeTeam": {
-      "goals": 2
+      "goals": 5
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 3.14,
+        "shots": 20,
+        "shotsOnTarget": 11,
+        "accuratePasses": 531,
+        "duelsWon": 37,
+        "boxTouches": 46,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 49,
+        "xg": 0.57,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 501,
+        "duelsWon": 29,
+        "boxTouches": 15,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 7
+      }
     },
     "venue": "Santiago Bernabéu, Madrid",
     "broadcasts": [

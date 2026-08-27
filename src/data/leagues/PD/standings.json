@@ -1,12 +1,29 @@
 [
   {
+    "id": "86",
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "tla": "RMA",
+    "crest": "https://crests.football-data.org/86.png",
+    "competitionId": "PD",
+    "position": 1,
+    "playedGames": 2,
+    "won": 2,
+    "draw": 0,
+    "lost": 0,
+    "points": 6,
+    "goalsFor": 6,
+    "goalsAgainst": 2,
+    "goalDifference": 4
+  },
+  {
     "id": "559",
     "name": "Sevilla FC",
     "shortName": "Sevilla FC",
     "tla": "SEV",
     "crest": "https://crests.football-data.org/559.png",
     "competitionId": "PD",
-    "position": 1,
+    "position": 2,
     "playedGames": 2,
     "won": 2,
     "draw": 0,
@@ -15,23 +32,6 @@
     "goalsFor": 5,
     "goalsAgainst": 2,
     "goalDifference": 3
-  },
-  {
-    "id": "86",
-    "name": "Real Madrid CF",
-    "shortName": "Real Madrid",
-    "tla": "RMA",
-    "crest": "https://crests.football-data.org/86.png",
-    "competitionId": "PD",
-    "position": 2,
-    "playedGames": 2,
-    "won": 2,
-    "draw": 0,
-    "lost": 0,
-    "points": 6,
-    "goalsFor": 4,
-    "goalsAgainst": 2,
-    "goalDifference": 2
   },
   {
     "id": "90",
@@ -329,14 +329,14 @@
     "tla": "RSO",
     "crest": "https://crests.football-data.org/92.png",
     "competitionId": "PD",
-    "position": 19,
+    "position": 20,
     "playedGames": 2,
     "won": 0,
     "draw": 0,
     "lost": 2,
     "points": 0,
     "goalsFor": 1,
-    "goalsAgainst": 3,
-    "goalDifference": -2
+    "goalsAgainst": 5,
+    "goalDifference": -4
   }
 ]
