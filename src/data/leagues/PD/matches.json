@@ -1060,7 +1060,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-27T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "81",
     "awayTeamId": "77",
     "homeTeam": {
@@ -1068,6 +1068,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 70,
+        "xg": 4.23,
+        "shots": 22,
+        "shotsOnTarget": 10,
+        "accuratePasses": 560,
+        "duelsWon": 42,
+        "boxTouches": 44,
+        "fouls": 13,
+        "corners": 12,
+        "offsides": 8,
+        "saves": 0
+      },
+      "away": {
+        "possession": 30,
+        "xg": 0.25,
+        "shots": 5,
+        "shotsOnTarget": 0,
+        "accuratePasses": 183,
+        "duelsWon": 43,
+        "boxTouches": 13,
+        "fouls": 6,
+        "corners": 5,
+        "offsides": 5,
+        "saves": 8
+      }
     },
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
