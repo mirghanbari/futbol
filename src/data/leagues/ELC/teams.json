@@ -1,5 +1,13 @@
 [
   {
+    "id": "348",
+    "name": "Charlton Athletic FC",
+    "shortName": "Charlton",
+    "tla": "CHA",
+    "crest": "https://crests.football-data.org/348.png",
+    "competitionId": "ELC"
+  },
+  {
     "id": "76",
     "name": "Wolverhampton Wanderers FC",
     "shortName": "Wolverhampton",
@@ -16,11 +24,11 @@
     "competitionId": "ELC"
   },
   {
-    "id": "384",
-    "name": "Millwall FC",
-    "shortName": "Millwall",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/384.png",
+    "id": "69",
+    "name": "Queens Park Rangers FC",
+    "shortName": "QPR",
+    "tla": "QPR",
+    "crest": "https://crests.football-data.org/69.png",
     "competitionId": "ELC"
   },
   {
@@ -32,14 +40,6 @@
     "competitionId": "ELC"
   },
   {
-    "id": "348",
-    "name": "Charlton Athletic FC",
-    "shortName": "Charlton",
-    "tla": "CHA",
-    "crest": "https://crests.football-data.org/348.png",
-    "competitionId": "ELC"
-  },
-  {
     "id": "74",
     "name": "West Bromwich Albion FC",
     "shortName": "West Brom",
@@ -48,27 +48,11 @@
     "competitionId": "ELC"
   },
   {
-    "id": "332",
-    "name": "Birmingham City FC",
-    "shortName": "Birmingham",
-    "tla": "BIR",
-    "crest": "https://crests.football-data.org/332.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "69",
-    "name": "Queens Park Rangers FC",
-    "shortName": "QPR",
-    "tla": "QPR",
-    "crest": "https://crests.football-data.org/69.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "59",
-    "name": "Blackburn Rovers FC",
-    "shortName": "Blackburn",
-    "tla": "BLA",
-    "crest": "https://crests.football-data.org/59.png",
+    "id": "384",
+    "name": "Millwall FC",
+    "shortName": "Millwall",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/384.png",
     "competitionId": "ELC"
   },
   {
@@ -80,6 +64,22 @@
     "competitionId": "ELC"
   },
   {
+    "id": "332",
+    "name": "Birmingham City FC",
+    "shortName": "Birmingham",
+    "tla": "BIR",
+    "crest": "https://crests.football-data.org/332.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "59",
+    "name": "Blackburn Rovers FC",
+    "shortName": "Blackburn",
+    "tla": "BLA",
+    "crest": "https://crests.football-data.org/59.png",
+    "competitionId": "ELC"
+  },
+  {
     "id": "60",
     "name": "Bolton Wanderers FC",
     "shortName": "Bolton",
@@ -88,11 +88,11 @@
     "competitionId": "ELC"
   },
   {
-    "id": "325",
-    "name": "Portsmouth FC",
-    "shortName": "Portsmouth",
-    "tla": "POR",
-    "crest": "https://crests.football-data.org/325.png",
+    "id": "387",
+    "name": "Bristol City FC",
+    "shortName": "Bristol City",
+    "tla": "BRI",
+    "crest": "https://crests.football-data.org/387.png",
     "competitionId": "ELC"
   },
   {
@@ -112,51 +112,19 @@
     "competitionId": "ELC"
   },
   {
-    "id": "404",
-    "name": "Wrexham AFC",
-    "shortName": "Wrexham",
-    "tla": "WRE",
-    "crest": "https://crests.football-data.org/404.png",
+    "id": "68",
+    "name": "Norwich City FC",
+    "shortName": "Norwich",
+    "tla": "NOR",
+    "crest": "https://crests.football-data.org/68.png",
     "competitionId": "ELC"
   },
   {
-    "id": "563",
-    "name": "West Ham United FC",
-    "shortName": "West Ham",
-    "tla": "WHU",
-    "crest": "https://crests.football-data.org/563.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "328",
-    "name": "Burnley FC",
-    "shortName": "Burnley",
-    "tla": "BUR",
-    "crest": "https://crests.football-data.org/328.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "387",
-    "name": "Bristol City FC",
-    "shortName": "Bristol City",
-    "tla": "BRI",
-    "crest": "https://crests.football-data.org/387.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "342",
-    "name": "Derby County FC",
-    "shortName": "Derby County",
-    "tla": "DER",
-    "crest": "https://crests.football-data.org/342.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "1081",
-    "name": "Preston North End FC",
-    "shortName": "Preston NE",
-    "tla": "PNE",
-    "crest": "https://crests.football-data.org/1081.png",
+    "id": "325",
+    "name": "Portsmouth FC",
+    "shortName": "Portsmouth",
+    "tla": "POR",
+    "crest": "https://crests.football-data.org/325.png",
     "competitionId": "ELC"
   },
   {
@@ -168,11 +136,51 @@
     "competitionId": "ELC"
   },
   {
-    "id": "68",
-    "name": "Norwich City FC",
-    "shortName": "Norwich",
-    "tla": "NOR",
-    "crest": "https://crests.football-data.org/68.png",
+    "id": "340",
+    "name": "Southampton FC",
+    "shortName": "Southampton",
+    "tla": "SOU",
+    "crest": "https://crests.football-data.org/340.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "563",
+    "name": "West Ham United FC",
+    "shortName": "West Ham",
+    "tla": "WHU",
+    "crest": "https://crests.football-data.org/563.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "404",
+    "name": "Wrexham AFC",
+    "shortName": "Wrexham",
+    "tla": "WRE",
+    "crest": "https://crests.football-data.org/404.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "342",
+    "name": "Derby County FC",
+    "shortName": "Derby County",
+    "tla": "DER",
+    "crest": "https://crests.football-data.org/342.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "328",
+    "name": "Burnley FC",
+    "shortName": "Burnley",
+    "tla": "BUR",
+    "crest": "https://crests.football-data.org/328.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "1081",
+    "name": "Preston North End FC",
+    "shortName": "Preston NE",
+    "tla": "PNE",
+    "crest": "https://crests.football-data.org/1081.png",
     "competitionId": "ELC"
   },
   {
@@ -181,14 +189,6 @@
     "shortName": "Stoke",
     "tla": "STK",
     "crest": "https://crests.football-data.org/70.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "340",
-    "name": "Southampton FC",
-    "shortName": "Southampton",
-    "tla": "SOU",
-    "crest": "https://crests.football-data.org/340.png",
     "competitionId": "ELC"
   }
 ]

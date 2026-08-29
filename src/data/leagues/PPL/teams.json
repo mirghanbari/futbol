@@ -1,13 +1,5 @@
 [
   {
-    "id": "498",
-    "name": "Sporting Clube de Portugal",
-    "shortName": "Sporting CP",
-    "tla": "SPO",
-    "crest": "https://crests.football-data.org/498.png",
-    "competitionId": "PPL"
-  },
-  {
     "id": "503",
     "name": "FC Porto",
     "shortName": "Porto",
@@ -16,11 +8,19 @@
     "competitionId": "PPL"
   },
   {
-    "id": "5575",
-    "name": "CS Marítimo",
-    "shortName": "Marítimo",
-    "tla": "CSM",
-    "crest": "https://crests.football-data.org/5575.png",
+    "id": "498",
+    "name": "Sporting Clube de Portugal",
+    "shortName": "Sporting CP",
+    "tla": "SPO",
+    "crest": "https://crests.football-data.org/498.png",
+    "competitionId": "PPL"
+  },
+  {
+    "id": "712",
+    "name": "FC Arouca",
+    "shortName": "Arouca",
+    "tla": "FCA",
+    "crest": "https://crests.football-data.org/712.png",
     "competitionId": "PPL"
   },
   {
@@ -32,11 +32,11 @@
     "competitionId": "PPL"
   },
   {
-    "id": "712",
-    "name": "FC Arouca",
-    "shortName": "Arouca",
-    "tla": "FCA",
-    "crest": "https://crests.football-data.org/712.png",
+    "id": "5575",
+    "name": "CS Marítimo",
+    "shortName": "Marítimo",
+    "tla": "CSM",
+    "crest": "https://crests.football-data.org/5575.png",
     "competitionId": "PPL"
   },
   {
@@ -96,6 +96,14 @@
     "competitionId": "PPL"
   },
   {
+    "id": "7822",
+    "name": "FC Alverca",
+    "shortName": "Alverca",
+    "tla": "ALV",
+    "crest": "https://crests.football-data.org/7822.png",
+    "competitionId": "PPL"
+  },
+  {
     "id": "5613",
     "name": "Sporting Clube de Braga",
     "shortName": "Braga",
@@ -109,14 +117,6 @@
     "shortName": "Famalicão",
     "tla": "FAM",
     "crest": "https://crests.football-data.org/5531.png",
-    "competitionId": "PPL"
-  },
-  {
-    "id": "7822",
-    "name": "FC Alverca",
-    "shortName": "Alverca",
-    "tla": "ALV",
-    "crest": "https://crests.football-data.org/7822.png",
     "competitionId": "PPL"
   },
   {

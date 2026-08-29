@@ -666,14 +666,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1044",
     "awayTeamId": "62",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 2.17,
+        "shots": 17,
+        "shotsOnTarget": 5,
+        "accuratePasses": 366,
+        "duelsWon": 59,
+        "boxTouches": 28,
+        "fouls": 11,
+        "corners": 10,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.72,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 241,
+        "duelsWon": 46,
+        "boxTouches": 18,
+        "fouls": 14,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Vitality Stadium, Bournemouth",
     "broadcasts": [
@@ -690,14 +718,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1076",
     "awayTeamId": "322",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 69,
+        "xg": 1.28,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 490,
+        "duelsWon": 36,
+        "boxTouches": 21,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 31,
+        "xg": 0.73,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 176,
+        "duelsWon": 45,
+        "boxTouches": 13,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Coventry Building Society Arena, Coventry",
     "broadcasts": [
@@ -718,7 +774,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "73",
     "awayTeamId": "67",
     "homeTeam": {

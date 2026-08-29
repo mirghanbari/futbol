@@ -1174,14 +1174,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7822",
     "awayTeamId": "5530",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 0.41,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 273,
+        "duelsWon": 33,
+        "boxTouches": 10,
+        "fouls": 14,
+        "corners": 10,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 50,
+        "xg": 1.41,
+        "shots": 15,
+        "shotsOnTarget": 3,
+        "accuratePasses": 263,
+        "duelsWon": 43,
+        "boxTouches": 17,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 0
+      }
     },
     "venue": "Complexo Desportivo FC Alverca, Alverca do Ribatejo"
   },
@@ -1192,14 +1220,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "712",
     "awayTeamId": "5575",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.65,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 419,
+        "duelsWon": 39,
+        "boxTouches": 25,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 48,
+        "xg": 0.67,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 372,
+        "duelsWon": 43,
+        "boxTouches": 21,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "Estádio Municipal de Arouca, Arouca"
   },
@@ -1210,14 +1266,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T17:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "5527",
     "awayTeamId": "503",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Estádio do Fontelo, Viseu"
   },

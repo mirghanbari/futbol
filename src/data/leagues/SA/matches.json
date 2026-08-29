@@ -586,14 +586,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "471",
     "awayTeamId": "586",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Mapei Stadium, Reggio Emilia",
     "broadcasts": [
@@ -610,14 +610,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "5911",
     "awayTeamId": "115",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "venue": "U-Power Stadium, Monza",
     "broadcasts": [
@@ -634,14 +634,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "99",
     "awayTeamId": "470",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Stadio Artemio Franchi, Firenze",
     "broadcasts": [

@@ -1222,14 +1222,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "670",
     "awayTeamId": "6806",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 1.21,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 293,
+        "duelsWon": 45,
+        "boxTouches": 35,
+        "fouls": 13,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 56,
+        "xg": 0.97,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 406,
+        "duelsWon": 55,
+        "boxTouches": 21,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Stadion Woudestein, Rotterdam"
   },
@@ -1240,14 +1268,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T16:45:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "682",
     "awayTeamId": "718",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "AFAS Stadion, Alkmaar",
     "broadcasts": [

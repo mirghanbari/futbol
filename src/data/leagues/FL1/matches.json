@@ -466,14 +466,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "576",
     "awayTeamId": "546",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.66,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 386,
+        "duelsWon": 45,
+        "boxTouches": 37,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 6
+      },
+      "away": {
+        "possession": 48,
+        "xg": 2.89,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 353,
+        "duelsWon": 45,
+        "boxTouches": 34,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 5
+      }
     },
     "venue": "Stade de la Meinau, Strasbourg"
   },

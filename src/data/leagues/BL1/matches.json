@@ -58,14 +58,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T13:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "721",
     "awayTeamId": "18",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 3.95,
+        "shots": 25,
+        "shotsOnTarget": 11,
+        "accuratePasses": 358,
+        "duelsWon": 41,
+        "boxTouches": 39,
+        "fouls": 10,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 53,
+        "xg": 0.97,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 410,
+        "duelsWon": 39,
+        "boxTouches": 27,
+        "fouls": 13,
+        "corners": 6,
+        "offsides": 5,
+        "saves": 8
+      }
     },
     "venue": "Red Bull Arena, Leipzig",
     "broadcasts": [
@@ -82,7 +110,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T13:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "15",
     "awayTeamId": "29",
     "homeTeam": {
@@ -90,6 +118,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.24,
+        "shots": 22,
+        "shotsOnTarget": 4,
+        "accuratePasses": 387,
+        "duelsWon": 47,
+        "boxTouches": 36,
+        "fouls": 8,
+        "corners": 11,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 49,
+        "xg": 0.76,
+        "shots": 10,
+        "shotsOnTarget": 0,
+        "accuratePasses": 384,
+        "duelsWon": 50,
+        "boxTouches": 19,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "MEWA ARENA, Mainz",
     "broadcasts": [
@@ -106,14 +162,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T13:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "28",
     "awayTeamId": "19",
     "homeTeam": {
-      "goals": 1
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 2.02,
+        "shots": 19,
+        "shotsOnTarget": 10,
+        "accuratePasses": 245,
+        "duelsWon": 52,
+        "boxTouches": 31,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 52,
+        "xg": 1.39,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 300,
+        "duelsWon": 63,
+        "boxTouches": 34,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 8
+      }
     },
     "venue": "Stadion An der Alten Försterei, Berlin",
     "broadcasts": [
@@ -130,14 +214,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T13:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "719",
     "awayTeamId": "3",
     "homeTeam": {
-      "goals": 2
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 33,
+        "xg": 1.12,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 212,
+        "duelsWon": 41,
+        "boxTouches": 19,
+        "fouls": 18,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 67,
+        "xg": 1.98,
+        "shots": 21,
+        "shotsOnTarget": 4,
+        "accuratePasses": 513,
+        "duelsWon": 45,
+        "boxTouches": 41,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg",
     "broadcasts": [
@@ -154,14 +266,42 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T13:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "1",
     "awayTeamId": "2",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 1.71,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 277,
+        "duelsWon": 45,
+        "boxTouches": 29,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1.75,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 423,
+        "duelsWon": 53,
+        "boxTouches": 37,
+        "fouls": 14,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "RheinEnergieStadion, Cologne",
     "broadcasts": [
@@ -178,11 +318,11 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "4",
     "awayTeamId": "7",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
