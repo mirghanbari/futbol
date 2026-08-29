@@ -1344,14 +1344,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-29T19:30:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "559",
     "awayTeamId": "78",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 0.9,
+        "shots": 20,
+        "shotsOnTarget": 5,
+        "accuratePasses": 293,
+        "duelsWon": 55,
+        "boxTouches": 28,
+        "fouls": 20,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 58,
+        "xg": 0.93,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 454,
+        "duelsWon": 63,
+        "boxTouches": 16,
+        "fouls": 16,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
     "broadcasts": [

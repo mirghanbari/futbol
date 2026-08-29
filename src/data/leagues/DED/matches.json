@@ -1320,14 +1320,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "684",
     "awayTeamId": "1915",
     "homeTeam": {
-      "goals": 2
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.98,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 259,
+        "duelsWon": 50,
+        "boxTouches": 23,
+        "fouls": 17,
+        "corners": 6,
+        "offsides": 4,
+        "saves": 1
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.98,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 227,
+        "duelsWon": 57,
+        "boxTouches": 21,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "MAC³PARK Stadion, Zwolle"
   },
