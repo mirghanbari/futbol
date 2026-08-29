@@ -2536,24 +2536,6 @@
     "venue": "Turf Moor, Burnley"
   },
   {
-    "id": "561850",
-    "competitionId": "ELC",
-    "season": "2026",
-    "matchday": 8,
-    "stage": "regular",
-    "utcDate": "2026-09-19T14:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "68",
-    "awayTeamId": "60",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Carrow Road, Norwich"
-  },
-  {
     "id": "561853",
     "competitionId": "ELC",
     "season": "2026",
@@ -2642,6 +2624,24 @@
       "goals": 0
     },
     "venue": "Molineux Stadium, Wolverhampton"
+  },
+  {
+    "id": "561850",
+    "competitionId": "ELC",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "regular",
+    "utcDate": "2026-09-20T12:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "68",
+    "awayTeamId": "60",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Carrow Road, Norwich"
   },
   {
     "id": "561862",
