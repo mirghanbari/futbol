@@ -1,5 +1,13 @@
 [
   {
+    "id": "521",
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "tla": "LIL",
+    "crest": "https://crests.football-data.org/521.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "516",
     "name": "Olympique de Marseille",
     "shortName": "Marseille",
@@ -13,14 +21,6 @@
     "shortName": "RC Lens",
     "tla": "RCL",
     "crest": "https://crests.football-data.org/546.png",
-    "competitionId": "FL1"
-  },
-  {
-    "id": "521",
-    "name": "Lille OSC",
-    "shortName": "Lille",
-    "tla": "LIL",
-    "crest": "https://crests.football-data.org/521.png",
     "competitionId": "FL1"
   },
   {
@@ -40,19 +40,19 @@
     "competitionId": "FL1"
   },
   {
-    "id": "535",
-    "name": "Le Mans FC",
-    "shortName": "Le Mans",
-    "tla": "LMF",
-    "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
-    "competitionId": "FL1"
-  },
-  {
     "id": "524",
     "name": "Paris Saint-Germain FC",
     "shortName": "PSG",
     "tla": "PSG",
     "crest": "https://crests.football-data.org/524.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "535",
+    "name": "Le Mans FC",
+    "shortName": "Le Mans",
+    "tla": "LMF",
+    "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
     "competitionId": "FL1"
   },
   {

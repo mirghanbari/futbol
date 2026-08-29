@@ -1128,14 +1128,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-28T19:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "496",
     "awayTeamId": "498",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 0.47,
+        "shots": 6,
+        "shotsOnTarget": 0,
+        "accuratePasses": 328,
+        "duelsWon": 48,
+        "boxTouches": 9,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 61,
+        "xg": 1.66,
+        "shots": 14,
+        "shotsOnTarget": 7,
+        "accuratePasses": 553,
+        "duelsWon": 37,
+        "boxTouches": 22,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 0
+      }
     },
     "venue": "Estádio do Rio Ave, Vila do Conde"
   },
@@ -1320,24 +1348,6 @@
     "venue": "Estádio do Dragão, Porto"
   },
   {
-    "id": "567295",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-09-05T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "582",
-    "awayTeamId": "712",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estádio António Coimbra da Mota, Estoril"
-  },
-  {
     "id": "567297",
     "competitionId": "PPL",
     "season": "2026",
@@ -1444,6 +1454,24 @@
       "goals": 0
     },
     "venue": "Estádio Cidade de Barcelos, Barcelos"
+  },
+  {
+    "id": "567295",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-09-07T00:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "582",
+    "awayTeamId": "712",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio António Coimbra da Mota, Estoril"
   },
   {
     "id": "567282",

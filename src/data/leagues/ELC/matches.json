@@ -1240,14 +1240,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-28T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "404",
     "awayTeamId": "332",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 1.42,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 388,
+        "duelsWon": 49,
+        "boxTouches": 13,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 38,
+        "xg": 1.62,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 205,
+        "duelsWon": 50,
+        "boxTouches": 16,
+        "fouls": 14,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "STōK Cae Ras, Wrexham",
     "broadcasts": [

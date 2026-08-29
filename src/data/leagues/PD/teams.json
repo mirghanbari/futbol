@@ -1,5 +1,13 @@
 [
   {
+    "id": "263",
+    "name": "Deportivo Alavés",
+    "shortName": "Alavés",
+    "tla": "ALA",
+    "crest": "https://crests.football-data.org/263.png",
+    "competitionId": "PD"
+  },
+  {
     "id": "81",
     "name": "FC Barcelona",
     "shortName": "Barça",
@@ -32,14 +40,6 @@
     "competitionId": "PD"
   },
   {
-    "id": "263",
-    "name": "Deportivo Alavés",
-    "shortName": "Alavés",
-    "tla": "ALA",
-    "crest": "https://crests.football-data.org/263.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "78",
     "name": "Club Atlético de Madrid",
     "shortName": "Atleti",
@@ -48,19 +48,19 @@
     "competitionId": "PD"
   },
   {
-    "id": "5335",
-    "name": "Real Racing Club de Santander",
-    "shortName": "Santander",
-    "tla": "SAN",
-    "crest": "https://crests.football-data.org/5335.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "79",
     "name": "CA Osasuna",
     "shortName": "Osasuna",
     "tla": "OSA",
     "crest": "https://crests.football-data.org/79.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "5335",
+    "name": "Real Racing Club de Santander",
+    "shortName": "Santander",
+    "tla": "SAN",
+    "crest": "https://crests.football-data.org/5335.png",
     "competitionId": "PD"
   },
   {
@@ -80,19 +80,19 @@
     "competitionId": "PD"
   },
   {
-    "id": "94",
-    "name": "Villarreal CF",
-    "shortName": "Villarreal",
-    "tla": "VIL",
-    "crest": "https://crests.football-data.org/94.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "560",
     "name": "RC Deportivo La Coruña",
     "shortName": "Deportivo",
     "tla": "DEP",
     "crest": "https://crests.football-data.org/560.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "94",
+    "name": "Villarreal CF",
+    "shortName": "Villarreal",
+    "tla": "VIL",
+    "crest": "https://crests.football-data.org/94.png",
     "competitionId": "PD"
   },
   {

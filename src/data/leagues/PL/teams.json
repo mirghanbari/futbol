@@ -1,5 +1,13 @@
 [
   {
+    "id": "65",
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI",
+    "crest": "https://crests.football-data.org/65.png",
+    "competitionId": "PL"
+  },
+  {
     "id": "397",
     "name": "Brighton & Hove Albion FC",
     "shortName": "Brighton Hove",
@@ -53,14 +61,6 @@
     "shortName": "Ipswich Town",
     "tla": "IPS",
     "crest": "https://crests.football-data.org/349.png",
-    "competitionId": "PL"
-  },
-  {
-    "id": "65",
-    "name": "Manchester City FC",
-    "shortName": "Man City",
-    "tla": "MCI",
-    "crest": "https://crests.football-data.org/65.png",
     "competitionId": "PL"
   },
   {
@@ -120,14 +120,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "354",
-    "name": "Crystal Palace FC",
-    "shortName": "Crystal Palace",
-    "tla": "CRY",
-    "crest": "https://crests.football-data.org/354.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "66",
     "name": "Manchester United FC",
     "shortName": "Man United",
@@ -157,6 +149,14 @@
     "shortName": "Aston Villa",
     "tla": "AVL",
     "crest": "https://crests.football-data.org/58.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "354",
+    "name": "Crystal Palace FC",
+    "shortName": "Crystal Palace",
+    "tla": "CRY",
+    "crest": "https://crests.football-data.org/354.png",
     "competitionId": "PL"
   }
 ]

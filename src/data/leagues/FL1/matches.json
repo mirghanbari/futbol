@@ -420,14 +420,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-28T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "521",
     "awayTeamId": "524",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 27,
+        "xg": 1.27,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 250,
+        "duelsWon": 37,
+        "boxTouches": 13,
+        "fouls": 11,
+        "corners": 0,
+        "offsides": 5,
+        "saves": 2
+      },
+      "away": {
+        "possession": 73,
+        "xg": 1.44,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 735,
+        "duelsWon": 37,
+        "boxTouches": 22,
+        "fouls": 7,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
   },

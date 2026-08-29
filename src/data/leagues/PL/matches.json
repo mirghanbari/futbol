@@ -558,14 +558,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-28T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "354",
     "awayTeamId": "65",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 28,
+        "xg": 0.57,
+        "shots": 9,
+        "shotsOnTarget": 1,
+        "accuratePasses": 232,
+        "duelsWon": 56,
+        "boxTouches": 14,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 4
+      },
+      "away": {
+        "possession": 72,
+        "xg": 1.74,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 721,
+        "duelsWon": 52,
+        "boxTouches": 35,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Selhurst Park, London",
     "broadcasts": [
@@ -1360,24 +1388,6 @@
     "venue": "St. James' Park, Newcastle-upon-Tyne"
   },
   {
-    "id": "560590",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-09-19T14:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "65",
-    "awayTeamId": "71",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Etihad Stadium, Manchester"
-  },
-  {
     "id": "560589",
     "competitionId": "PL",
     "season": "2026",
@@ -1412,6 +1422,24 @@
       "goals": 0
     },
     "venue": "Vitality Stadium, Bournemouth"
+  },
+  {
+    "id": "560590",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-09-20T13:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "65",
+    "awayTeamId": "71",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Etihad Stadium, Manchester"
   },
   {
     "id": "560583",

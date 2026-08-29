@@ -1176,14 +1176,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-28T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "677",
     "awayTeamId": "1920",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 68,
+        "xg": 1.6,
+        "shots": 22,
+        "shotsOnTarget": 2,
+        "accuratePasses": 478,
+        "duelsWon": 42,
+        "boxTouches": 29,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 32,
+        "xg": 0.88,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 206,
+        "duelsWon": 41,
+        "boxTouches": 11,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Euroborg, Groningen"
   },

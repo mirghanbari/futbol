@@ -1120,14 +1120,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-28T17:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5335",
     "awayTeamId": "285",
     "homeTeam": {
-      "goals": 2
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 1.72,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 305,
+        "duelsWon": 51,
+        "boxTouches": 21,
+        "fouls": 17,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 5
+      },
+      "away": {
+        "possession": 60,
+        "xg": 1.03,
+        "shots": 18,
+        "shotsOnTarget": 7,
+        "accuratePasses": 483,
+        "duelsWon": 54,
+        "boxTouches": 27,
+        "fouls": 19,
+        "corners": 10,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "El Sardineros, Santander",
     "broadcasts": [
@@ -1148,14 +1176,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-28T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "263",
     "awayTeamId": "94",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 24,
+        "xg": 0.81,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 145,
+        "duelsWon": 50,
+        "boxTouches": 14,
+        "fouls": 15,
+        "corners": 5,
+        "offsides": 5,
+        "saves": 6
+      },
+      "away": {
+        "possession": 76,
+        "xg": 1.4,
+        "shots": 19,
+        "shotsOnTarget": 6,
+        "accuratePasses": 573,
+        "duelsWon": 57,
+        "boxTouches": 55,
+        "fouls": 8,
+        "corners": 9,
+        "offsides": 4,
+        "saves": 1
+      }
     },
     "venue": "Mendizorrotza, Vitoria-Gasteiz",
     "broadcasts": [
