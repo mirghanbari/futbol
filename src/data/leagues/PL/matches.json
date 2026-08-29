@@ -774,14 +774,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "73",
     "awayTeamId": "67",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 1.04,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 435,
+        "duelsWon": 37,
+        "boxTouches": 32,
+        "fouls": 15,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 42,
+        "xg": 0.75,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 313,
+        "duelsWon": 41,
+        "boxTouches": 21,
+        "fouls": 9,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Tottenham Hotspur Stadium, London",
     "broadcasts": [

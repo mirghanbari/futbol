@@ -512,14 +512,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "525",
     "awayTeamId": "531",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Stade du Moustoir - Yves Allainmat, Lorient"
   },
@@ -530,14 +530,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "523",
     "awayTeamId": "533",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Groupama Stadium, Lyon"
   },
@@ -548,14 +548,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "519",
     "awayTeamId": "532",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "venue": "Stade de l'Abbé-Deschamps, Auxerre"
   },
@@ -566,14 +566,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "512",
     "awayTeamId": "511",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Stade Francis-Le Blé, Brest"
   },

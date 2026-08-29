@@ -16,6 +16,14 @@
     "competitionId": "PL"
   },
   {
+    "id": "67",
+    "name": "Newcastle United FC",
+    "shortName": "Newcastle",
+    "tla": "NEW",
+    "crest": "https://crests.football-data.org/67.png",
+    "competitionId": "PL"
+  },
+  {
     "id": "62",
     "name": "Everton FC",
     "shortName": "Everton",
@@ -80,14 +88,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "67",
-    "name": "Newcastle United FC",
-    "shortName": "Newcastle",
-    "tla": "NEW",
-    "crest": "https://crests.football-data.org/67.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "1044",
     "name": "AFC Bournemouth",
     "shortName": "Bournemouth",
@@ -101,14 +101,6 @@
     "shortName": "Nottingham",
     "tla": "NOT",
     "crest": "https://crests.football-data.org/351.png",
-    "competitionId": "PL"
-  },
-  {
-    "id": "73",
-    "name": "Tottenham Hotspur FC",
-    "shortName": "Tottenham",
-    "tla": "TOT",
-    "crest": "https://crests.football-data.org/73.png",
     "competitionId": "PL"
   },
   {
@@ -157,6 +149,14 @@
     "shortName": "Crystal Palace",
     "tla": "CRY",
     "crest": "https://crests.football-data.org/354.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "73",
+    "name": "Tottenham Hotspur FC",
+    "shortName": "Tottenham",
+    "tla": "TOT",
+    "crest": "https://crests.football-data.org/73.png",
     "competitionId": "PL"
   }
 ]

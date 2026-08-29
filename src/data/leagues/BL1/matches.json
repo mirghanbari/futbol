@@ -318,7 +318,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "4",
     "awayTeamId": "7",
     "homeTeam": {
@@ -326,6 +326,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 1.41,
+        "shots": 20,
+        "shotsOnTarget": 6,
+        "accuratePasses": 471,
+        "duelsWon": 54,
+        "boxTouches": 32,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.8,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 340,
+        "duelsWon": 38,
+        "boxTouches": 17,
+        "fouls": 19,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Signal Iduna Park, Aue",
     "broadcasts": [

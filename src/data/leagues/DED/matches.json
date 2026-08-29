@@ -1268,14 +1268,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T16:45:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "682",
     "awayTeamId": "718",
     "homeTeam": {
-      "goals": 2
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.39,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 405,
+        "duelsWon": 39,
+        "boxTouches": 44,
+        "fouls": 9,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.82,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 370,
+        "duelsWon": 29,
+        "boxTouches": 15,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "AFAS Stadion, Alkmaar",
     "broadcasts": [
@@ -1292,14 +1320,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "684",
     "awayTeamId": "1915",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "MAC³PARK Stadion, Zwolle"
   },
