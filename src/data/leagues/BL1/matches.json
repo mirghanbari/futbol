@@ -58,7 +58,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T13:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "721",
     "awayTeamId": "18",
     "homeTeam": {
@@ -82,7 +82,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T13:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "15",
     "awayTeamId": "29",
     "homeTeam": {
@@ -106,14 +106,14 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T13:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "28",
     "awayTeamId": "19",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Stadion An der Alten Försterei, Berlin",
     "broadcasts": [
@@ -130,11 +130,11 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T13:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "719",
     "awayTeamId": "3",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -154,7 +154,7 @@
     "matchday": 1,
     "stage": "regular",
     "utcDate": "2026-08-29T13:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1",
     "awayTeamId": "2",
     "homeTeam": {

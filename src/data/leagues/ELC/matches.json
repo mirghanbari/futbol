@@ -1292,14 +1292,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-29T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "76",
     "awayTeamId": "70",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 2.64,
+        "shots": 18,
+        "shotsOnTarget": 8,
+        "accuratePasses": 345,
+        "duelsWon": 57,
+        "boxTouches": 29,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 0.88,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 310,
+        "duelsWon": 55,
+        "boxTouches": 16,
+        "fouls": 15,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "Molineux Stadium, Wolverhampton",
     "broadcasts": [
@@ -1320,14 +1348,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-29T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "342",
     "awayTeamId": "72",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 0.59,
+        "shots": 8,
+        "shotsOnTarget": 0,
+        "accuratePasses": 309,
+        "duelsWon": 45,
+        "boxTouches": 11,
+        "fouls": 16,
+        "corners": 5,
+        "offsides": 5,
+        "saves": 9
+      },
+      "away": {
+        "possession": 53,
+        "xg": 3.33,
+        "shots": 23,
+        "shotsOnTarget": 12,
+        "accuratePasses": 395,
+        "duelsWon": 57,
+        "boxTouches": 31,
+        "fouls": 7,
+        "corners": 6,
+        "offsides": 4,
+        "saves": 0
+      }
     },
     "venue": "Pride Park, Derby"
   },
@@ -1338,14 +1394,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-29T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "343",
     "awayTeamId": "74",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 2.46,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 455,
+        "duelsWon": 44,
+        "boxTouches": 21,
+        "fouls": 15,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1.4,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 522,
+        "duelsWon": 37,
+        "boxTouches": 27,
+        "fouls": 6,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "Riverside Stadium, Middlesbrough",
     "broadcasts": [
