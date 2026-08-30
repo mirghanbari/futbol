@@ -2376,42 +2376,6 @@
     "venue": "Cardiff City Stadium, Cardiff"
   },
   {
-    "id": "561825",
-    "competitionId": "ELC",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-09-08T18:45:00Z",
-    "status": "scheduled",
-    "homeTeamId": "343",
-    "awayTeamId": "384",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Riverside Stadium, Middlesbrough"
-  },
-  {
-    "id": "561828",
-    "competitionId": "ELC",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-09-08T18:45:00Z",
-    "status": "scheduled",
-    "homeTeamId": "387",
-    "awayTeamId": "1126",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Ashton Gate, Bristol"
-  },
-  {
     "id": "561830",
     "competitionId": "ELC",
     "season": "2026",
@@ -2734,6 +2698,42 @@
       "goals": 0
     },
     "venue": "Bramall Lane, Sheffield"
+  },
+  {
+    "id": "561825",
+    "competitionId": "ELC",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-09-15T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "343",
+    "awayTeamId": "384",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Riverside Stadium, Middlesbrough"
+  },
+  {
+    "id": "561828",
+    "competitionId": "ELC",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-09-15T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "387",
+    "awayTeamId": "1126",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Ashton Gate, Bristol"
   },
   {
     "id": "561845",

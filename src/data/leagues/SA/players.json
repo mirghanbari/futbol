@@ -540,24 +540,6 @@
     "competitionId": "SA"
   },
   {
-    "id": "300041",
-    "name": "Brando Mazzeo",
-    "position": null,
-    "nationality": "Italy",
-    "dateOfBirth": "2007-10-04",
-    "teamId": "99",
-    "competitionId": "SA"
-  },
-  {
-    "id": "300040",
-    "name": "Federico Croci",
-    "position": null,
-    "nationality": "Italy",
-    "dateOfBirth": "2010-07-01",
-    "teamId": "99",
-    "competitionId": "SA"
-  },
-  {
     "id": "1829",
     "name": "Pierluigi Gollini",
     "position": "Goalkeeper",
@@ -630,6 +612,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "82020",
+    "name": "Leonardo Balerdi",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "dateOfBirth": "1999-01-26",
+    "teamId": "100",
+    "competitionId": "SA"
+  },
+  {
     "id": "137693",
     "name": "Anass Salah-Eddine",
     "position": "Defender",
@@ -698,6 +689,15 @@
     "position": "Defender",
     "nationality": "Italy",
     "dateOfBirth": "2006-02-24",
+    "teamId": "100",
+    "competitionId": "SA"
+  },
+  {
+    "id": "290391",
+    "name": "Emanuele Lulli",
+    "position": "Defender",
+    "nationality": "Italy",
+    "dateOfBirth": "2007-08-17",
     "teamId": "100",
     "competitionId": "SA"
   },
@@ -909,6 +909,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "1747",
+    "name": "Franck Kessié",
+    "position": "Midfielder",
+    "nationality": "Ivory Coast",
+    "dateOfBirth": "1996-12-19",
+    "teamId": "102",
+    "competitionId": "SA"
+  },
+  {
     "id": "1748",
     "name": "Raoul Bellanova",
     "position": "Midfielder",
@@ -950,6 +959,15 @@
     "position": "Midfielder",
     "nationality": "Italy",
     "dateOfBirth": "1992-06-11",
+    "teamId": "102",
+    "competitionId": "SA"
+  },
+  {
+    "id": "30629",
+    "name": "Eljif Elmas",
+    "position": "Midfielder",
+    "nationality": "North Macedonia",
+    "dateOfBirth": "1999-09-24",
     "teamId": "102",
     "competitionId": "SA"
   },
@@ -1134,6 +1152,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "145893",
+    "name": "Arthur Theate",
+    "position": "Defender",
+    "nationality": "Belgium",
+    "dateOfBirth": "2000-05-25",
+    "teamId": "103",
+    "competitionId": "SA"
+  },
+  {
     "id": "152702",
     "name": "Martin Vitík",
     "position": "Defender",
@@ -1274,15 +1301,6 @@
     "position": "Forward",
     "nationality": "Italy",
     "dateOfBirth": "2024-06-30",
-    "teamId": "103",
-    "competitionId": "SA"
-  },
-  {
-    "id": "300031",
-    "name": "Marco Libra",
-    "position": null,
-    "nationality": "Venezuela",
-    "dateOfBirth": "2008-03-21",
     "teamId": "103",
     "competitionId": "SA"
   },
@@ -1512,11 +1530,29 @@
     "competitionId": "SA"
   },
   {
+    "id": "156618",
+    "name": "Riccardo Ciervo",
+    "position": "Forward",
+    "nationality": "Italy",
+    "dateOfBirth": "2002-04-01",
+    "teamId": "104",
+    "competitionId": "SA"
+  },
+  {
     "id": "180180",
     "name": "Kevin Carlos",
     "position": "Forward",
     "nationality": "Spain",
     "dateOfBirth": "2001-04-10",
+    "teamId": "104",
+    "competitionId": "SA"
+  },
+  {
+    "id": "192659",
+    "name": "Alieu Fadera",
+    "position": "Forward",
+    "nationality": "Gambia",
+    "dateOfBirth": "2001-11-03",
     "teamId": "104",
     "competitionId": "SA"
   },
@@ -1791,6 +1827,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "67743",
+    "name": "Milutin Osmajić",
+    "position": "Forward",
+    "nationality": "Montenegro",
+    "dateOfBirth": "1999-07-25",
+    "teamId": "107",
+    "competitionId": "SA"
+  },
+  {
     "id": "97869",
     "name": "Junior Messias",
     "position": "Forward",
@@ -1832,15 +1877,6 @@
     "position": "Forward",
     "nationality": "Italy",
     "dateOfBirth": "2006-06-22",
-    "teamId": "107",
-    "competitionId": "SA"
-  },
-  {
-    "id": "299686",
-    "name": "Adam Žulevič",
-    "position": null,
-    "nationality": "Slovakia",
-    "dateOfBirth": "2007-09-14",
     "teamId": "107",
     "competitionId": "SA"
   },
@@ -1980,6 +2016,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "7873",
+    "name": "Curtis Jones",
+    "position": "Midfielder",
+    "nationality": "England",
+    "dateOfBirth": "2001-01-30",
+    "teamId": "108",
+    "competitionId": "SA"
+  },
+  {
     "id": "115074",
     "name": "Luis Henrique",
     "position": "Midfielder",
@@ -2102,6 +2147,15 @@
     "position": "Goalkeeper",
     "nationality": "Italy",
     "dateOfBirth": "1997-07-27",
+    "teamId": "109",
+    "competitionId": "SA"
+  },
+  {
+    "id": "92854",
+    "name": "Kamil Grabara",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "dateOfBirth": "1999-01-08",
     "teamId": "109",
     "competitionId": "SA"
   },
@@ -2466,6 +2520,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "134835",
+    "name": "Josip Šutalo",
+    "position": "Defender",
+    "nationality": "Croatia",
+    "dateOfBirth": "2000-02-28",
+    "teamId": "110",
+    "competitionId": "SA"
+  },
+  {
     "id": "175839",
     "name": "Romano Floriani",
     "position": "Defender",
@@ -2570,6 +2633,15 @@
     "position": "Midfielder",
     "nationality": "Spain",
     "dateOfBirth": "2007-02-07",
+    "teamId": "110",
+    "competitionId": "SA"
+  },
+  {
+    "id": "2016",
+    "name": "Andrea Pinamonti",
+    "position": "Forward",
+    "nationality": "Italy",
+    "dateOfBirth": "1999-05-19",
     "teamId": "110",
     "competitionId": "SA"
   },
@@ -2799,6 +2871,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "171123",
+    "name": "Giovanni Fabbian",
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "dateOfBirth": "2003-01-14",
+    "teamId": "112",
+    "competitionId": "SA"
+  },
+  {
     "id": "180499",
     "name": "Oliver Sørensen",
     "position": "Midfielder",
@@ -3011,6 +3092,15 @@
     "position": "Defender",
     "nationality": "Netherlands",
     "dateOfBirth": "1998-11-17",
+    "teamId": "113",
+    "competitionId": "SA"
+  },
+  {
+    "id": "170426",
+    "name": "Benoît Badiashile",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2001-03-26",
     "teamId": "113",
     "competitionId": "SA"
   },
@@ -3236,6 +3326,15 @@
     "position": "Goalkeeper",
     "nationality": "Nigeria",
     "dateOfBirth": "1999-08-28",
+    "teamId": "115",
+    "competitionId": "SA"
+  },
+  {
+    "id": "84089",
+    "name": "Bartosz Mrozek",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "dateOfBirth": "2000-02-23",
     "teamId": "115",
     "competitionId": "SA"
   },
@@ -3969,6 +4068,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "177393",
+    "name": "Enzo Tchato",
+    "position": "Defender",
+    "nationality": "Cameroon",
+    "dateOfBirth": "2002-11-23",
+    "teamId": "470",
+    "competitionId": "SA"
+  },
+  {
     "id": "186575",
     "name": "Gabriele Bracaglia",
     "position": "Defender",
@@ -4122,6 +4230,24 @@
     "competitionId": "SA"
   },
   {
+    "id": "120722",
+    "name": "Tomáš Bobček",
+    "position": "Forward",
+    "nationality": "Slovakia",
+    "dateOfBirth": "2001-09-08",
+    "teamId": "470",
+    "competitionId": "SA"
+  },
+  {
+    "id": "129635",
+    "name": "Daniel Birligea",
+    "position": "Forward",
+    "nationality": "Romania",
+    "dateOfBirth": "2000-04-19",
+    "teamId": "470",
+    "competitionId": "SA"
+  },
+  {
     "id": "169216",
     "name": "Antonio Raimondo",
     "position": "Forward",
@@ -4262,6 +4388,15 @@
     "position": "Defender",
     "nationality": "Netherlands",
     "dateOfBirth": "2000-09-26",
+    "teamId": "471",
+    "competitionId": "SA"
+  },
+  {
+    "id": "128331",
+    "name": "Fedde Leysen",
+    "position": "Defender",
+    "nationality": "Belgium",
+    "dateOfBirth": "2003-07-09",
     "teamId": "471",
     "competitionId": "SA"
   },
@@ -4491,6 +4626,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "114054",
+    "name": "Sebastiano Esposito",
+    "position": "Forward",
+    "nationality": "Italy",
+    "dateOfBirth": "2002-07-02",
+    "teamId": "471",
+    "competitionId": "SA"
+  },
+  {
     "id": "156618",
     "name": "Riccardo Ciervo",
     "position": "Forward",
@@ -4524,6 +4668,15 @@
     "nationality": "Denmark",
     "dateOfBirth": "2002-08-12",
     "teamId": "471",
+    "competitionId": "SA"
+  },
+  {
+    "id": "1331",
+    "name": "Lucas Perri",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "dateOfBirth": "1997-12-10",
+    "teamId": "586",
     "competitionId": "SA"
   },
   {
@@ -4977,6 +5130,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "67697",
+    "name": "Ivan Ilić",
+    "position": "Midfielder",
+    "nationality": "Serbia",
+    "dateOfBirth": "2001-03-17",
+    "teamId": "5890",
+    "competitionId": "SA"
+  },
+  {
     "id": "125069",
     "name": "Omri Gandelman",
     "position": "Midfielder",
@@ -5112,15 +5274,6 @@
     "competitionId": "SA"
   },
   {
-    "id": "299866",
-    "name": "Hjalte Lærke",
-    "position": null,
-    "nationality": "Denmark",
-    "dateOfBirth": "2007-04-23",
-    "teamId": "5890",
-    "competitionId": "SA"
-  },
-  {
     "id": "2112",
     "name": "Semuel Pizzignacco",
     "position": "Goalkeeper",
@@ -5220,6 +5373,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "283944",
+    "name": "Yvan Maye",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-03-21",
+    "teamId": "5911",
+    "competitionId": "SA"
+  },
+  {
     "id": "1852",
     "name": "Andrea Colpani",
     "position": "Midfielder",
@@ -5243,6 +5405,15 @@
     "position": "Midfielder",
     "nationality": "Italy",
     "dateOfBirth": "1995-02-09",
+    "teamId": "5911",
+    "competitionId": "SA"
+  },
+  {
+    "id": "42760",
+    "name": "Michael Folorunsho",
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "dateOfBirth": "1998-02-07",
     "teamId": "5911",
     "competitionId": "SA"
   },
@@ -5342,6 +5513,15 @@
     "position": "Forward",
     "nationality": "Senegal",
     "dateOfBirth": "1995-03-08",
+    "teamId": "5911",
+    "competitionId": "SA"
+  },
+  {
+    "id": "99859",
+    "name": "Cyril Ngonge",
+    "position": "Forward",
+    "nationality": "Belgium",
+    "dateOfBirth": "2000-05-26",
     "teamId": "5911",
     "competitionId": "SA"
   },
@@ -5508,6 +5688,15 @@
     "competitionId": "SA"
   },
   {
+    "id": "244860",
+    "name": "Willy Kambwala",
+    "position": "Defender",
+    "nationality": "DR Congo",
+    "dateOfBirth": "2004-08-25",
+    "teamId": "7397",
+    "competitionId": "SA"
+  },
+  {
     "id": "247056",
     "name": "Jacobo Ramón",
     "position": "Defender",
@@ -5540,6 +5729,15 @@
     "position": "Midfielder",
     "nationality": "France",
     "dateOfBirth": "2000-02-15",
+    "teamId": "7397",
+    "competitionId": "SA"
+  },
+  {
+    "id": "115245",
+    "name": "Samuele Ricci",
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "dateOfBirth": "2001-08-21",
     "teamId": "7397",
     "competitionId": "SA"
   },

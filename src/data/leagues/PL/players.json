@@ -45,6 +45,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "6317",
+    "name": "Ezri Konsa",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "1997-10-23",
+    "teamId": "57",
+    "competitionId": "PL"
+  },
+  {
     "id": "23128",
     "name": "Gabriel Magalhães",
     "position": "Defender",
@@ -342,6 +351,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "8158",
+    "name": "Aaron Wan-Bissaka",
+    "position": "Defender",
+    "nationality": "Congo DR",
+    "dateOfBirth": "1997-11-26",
+    "teamId": "58",
+    "competitionId": "PL"
+  },
+  {
     "id": "8235",
     "name": "Tyrone Mings",
     "position": "Defender",
@@ -410,6 +428,15 @@
     "position": "Defender",
     "nationality": "Senegal",
     "dateOfBirth": "2005-08-04",
+    "teamId": "58",
+    "competitionId": "PL"
+  },
+  {
+    "id": "3181",
+    "name": "Leon Goretzka",
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "dateOfBirth": "1995-02-06",
     "teamId": "58",
     "competitionId": "PL"
   },
@@ -540,6 +567,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "152515",
+    "name": "Nicolas Jackson",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "dateOfBirth": "2001-06-20",
+    "teamId": "58",
+    "competitionId": "PL"
+  },
+  {
     "id": "172958",
     "name": "Lewis Dobbin",
     "position": "Forward",
@@ -567,12 +603,30 @@
     "competitionId": "PL"
   },
   {
+    "id": "274024",
+    "name": "Bradley Burrowes",
+    "position": "Forward",
+    "nationality": "England",
+    "dateOfBirth": "2008-03-04",
+    "teamId": "58",
+    "competitionId": "PL"
+  },
+  {
     "id": "280446",
     "name": "Brian Madjo",
     "position": "Forward",
     "nationality": "Luxembourg",
     "dateOfBirth": "2009-01-12",
     "teamId": "58",
+    "competitionId": "PL"
+  },
+  {
+    "id": "3141",
+    "name": "Emiliano Martínez",
+    "position": "Goalkeeper",
+    "nationality": "Argentina",
+    "dateOfBirth": "1992-09-02",
+    "teamId": "61",
     "competitionId": "PL"
   },
   {
@@ -846,6 +900,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "205684",
+    "name": "Ray Paez",
+    "position": "Midfielder",
+    "nationality": "Ecuador",
+    "dateOfBirth": "2007-05-04",
+    "teamId": "61",
+    "competitionId": "PL"
+  },
+  {
     "id": "2074",
     "name": "Pedro Neto",
     "position": "Forward",
@@ -950,15 +1013,6 @@
     "position": "Forward",
     "nationality": "Brazil",
     "dateOfBirth": "2007-04-24",
-    "teamId": "61",
-    "competitionId": "PL"
-  },
-  {
-    "id": "300099",
-    "name": "Reggie Watson",
-    "position": null,
-    "nationality": "England",
-    "dateOfBirth": "2010-01-26",
     "teamId": "61",
     "competitionId": "PL"
   },
@@ -1188,15 +1242,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "300078",
-    "name": "Harvey Foster",
-    "position": null,
-    "nationality": "England",
-    "dateOfBirth": "2007-02-22",
-    "teamId": "62",
-    "competitionId": "PL"
-  },
-  {
     "id": "3174",
     "name": "Bernd Leno",
     "position": "Goalkeeper",
@@ -1211,6 +1256,15 @@
     "position": "Goalkeeper",
     "nationality": "France",
     "dateOfBirth": "1991-04-26",
+    "teamId": "63",
+    "competitionId": "PL"
+  },
+  {
+    "id": "300279",
+    "name": "Alex Borto",
+    "position": "Goalkeeper",
+    "nationality": "United States",
+    "dateOfBirth": "2003-11-06",
     "teamId": "63",
     "competitionId": "PL"
   },
@@ -1427,24 +1481,6 @@
     "position": "Forward",
     "nationality": "Spain",
     "dateOfBirth": "2004-03-24",
-    "teamId": "63",
-    "competitionId": "PL"
-  },
-  {
-    "id": "300102",
-    "name": "Macauley Zepa",
-    "position": null,
-    "nationality": "France",
-    "dateOfBirth": "2008-07-07",
-    "teamId": "63",
-    "competitionId": "PL"
-  },
-  {
-    "id": "300100",
-    "name": "Bradley Slade",
-    "position": null,
-    "nationality": "England",
-    "dateOfBirth": "2007-06-30",
     "teamId": "63",
     "competitionId": "PL"
   },
@@ -1953,6 +1989,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "221819",
+    "name": "Ayyoub Bouaddi",
+    "position": "Midfielder",
+    "nationality": "France",
+    "dateOfBirth": "2007-10-02",
+    "teamId": "65",
+    "competitionId": "PL"
+  },
+  {
     "id": "3895",
     "name": "Jack Grealish",
     "position": "Forward",
@@ -2160,15 +2205,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "211559",
-    "name": "Patrick Dorgu",
-    "position": "Defender",
-    "nationality": "Denmark",
-    "dateOfBirth": "2004-10-26",
-    "teamId": "66",
-    "competitionId": "PL"
-  },
-  {
     "id": "247644",
     "name": "Ayden Heaven",
     "position": "Defender",
@@ -2228,6 +2264,15 @@
     "position": "Midfielder",
     "nationality": "Brazil",
     "dateOfBirth": "2004-05-03",
+    "teamId": "66",
+    "competitionId": "PL"
+  },
+  {
+    "id": "178604",
+    "name": "Carlos Baleba",
+    "position": "Midfielder",
+    "nationality": "Cameroon",
+    "dateOfBirth": "2004-01-03",
     "teamId": "66",
     "competitionId": "PL"
   },
@@ -2336,6 +2381,15 @@
     "position": "Forward",
     "nationality": "Ivory Coast",
     "dateOfBirth": "2002-07-11",
+    "teamId": "66",
+    "competitionId": "PL"
+  },
+  {
+    "id": "211559",
+    "name": "Patrick Dorgu",
+    "position": "Forward",
+    "nationality": "Denmark",
+    "dateOfBirth": "2004-10-26",
     "teamId": "66",
     "competitionId": "PL"
   },
@@ -2534,6 +2588,15 @@
     "position": "Midfielder",
     "nationality": "England",
     "dateOfBirth": "2002-10-01",
+    "teamId": "67",
+    "competitionId": "PL"
+  },
+  {
+    "id": "171986",
+    "name": "Nico Gonzalez",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2002-01-03",
     "teamId": "67",
     "competitionId": "PL"
   },
@@ -2772,6 +2835,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "264401",
+    "name": "Dayann Methalie",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "2006-02-15",
+    "teamId": "71",
+    "competitionId": "PL"
+  },
+  {
     "id": "3477",
     "name": "Granit Xhaka",
     "position": "Midfielder",
@@ -2831,6 +2903,15 @@
     "position": "Midfielder",
     "nationality": "England",
     "dateOfBirth": "2007-06-18",
+    "teamId": "71",
+    "competitionId": "PL"
+  },
+  {
+    "id": "286011",
+    "name": "Jules Ahoka",
+    "position": "Midfielder",
+    "nationality": "DR Congo",
+    "dateOfBirth": "2005-12-17",
     "teamId": "71",
     "competitionId": "PL"
   },
@@ -3051,6 +3132,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "177040",
+    "name": "Archie Gray",
+    "position": "Defender",
+    "nationality": "England",
+    "dateOfBirth": "2006-03-12",
+    "teamId": "73",
+    "competitionId": "PL"
+  },
+  {
     "id": "181193",
     "name": "Kota Takai",
     "position": "Defender",
@@ -3132,15 +3222,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "177040",
-    "name": "Archie Gray",
-    "position": "Midfielder",
-    "nationality": "England",
-    "dateOfBirth": "2006-03-12",
-    "teamId": "73",
-    "competitionId": "PL"
-  },
-  {
     "id": "187216",
     "name": "Mateus Fernandes",
     "position": "Midfielder",
@@ -3186,11 +3267,29 @@
     "competitionId": "PL"
   },
   {
+    "id": "66896",
+    "name": "Omar Marmoush",
+    "position": "Forward",
+    "nationality": "Egypt",
+    "dateOfBirth": "1999-02-07",
+    "teamId": "73",
+    "competitionId": "PL"
+  },
+  {
     "id": "77399",
     "name": "Mohammed Kudus",
     "position": "Forward",
     "nationality": "Ghana",
     "dateOfBirth": "2000-08-02",
+    "teamId": "73",
+    "competitionId": "PL"
+  },
+  {
+    "id": "146352",
+    "name": "Sávio",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "dateOfBirth": "2004-04-10",
     "teamId": "73",
     "competitionId": "PL"
   },
@@ -3528,6 +3627,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "149129",
+    "name": "Mohamed Ali Cho",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "2004-01-19",
+    "teamId": "322",
+    "competitionId": "PL"
+  },
+  {
     "id": "170777",
     "name": "David Akintola",
     "position": "Forward",
@@ -3578,6 +3686,15 @@
     "position": "Goalkeeper",
     "nationality": "England",
     "dateOfBirth": "1993-01-04",
+    "teamId": "341",
+    "competitionId": "PL"
+  },
+  {
+    "id": "9438",
+    "name": "Michael Zetterer",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "dateOfBirth": "1995-07-12",
     "teamId": "341",
     "competitionId": "PL"
   },
@@ -4023,6 +4140,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "11720",
+    "name": "Exequiel Palacios",
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "dateOfBirth": "1998-10-05",
+    "teamId": "349",
+    "competitionId": "PL"
+  },
+  {
     "id": "32938",
     "name": "Saša Lukić",
     "position": "Midfielder",
@@ -4419,6 +4545,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "151095",
+    "name": "Liam Delap",
+    "position": "Forward",
+    "nationality": "England",
+    "dateOfBirth": "2003-02-08",
+    "teamId": "351",
+    "competitionId": "PL"
+  },
+  {
     "id": "151295",
     "name": "Dilane Bakwa",
     "position": "Forward",
@@ -4478,6 +4613,15 @@
     "position": "Goalkeeper",
     "nationality": "Canada",
     "dateOfBirth": "2003-11-27",
+    "teamId": "354",
+    "competitionId": "PL"
+  },
+  {
+    "id": "813",
+    "name": "Axel Disasi",
+    "position": "Defender",
+    "nationality": "France",
+    "dateOfBirth": "1998-03-11",
     "teamId": "354",
     "competitionId": "PL"
   },
@@ -4887,6 +5031,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "147891",
+    "name": "Jaouen Hadjam",
+    "position": "Defender",
+    "nationality": "Algeria",
+    "dateOfBirth": "2003-03-26",
+    "teamId": "397",
+    "competitionId": "PL"
+  },
+  {
     "id": "167657",
     "name": "Eiran Cashin",
     "position": "Defender",
@@ -5211,6 +5364,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "193633",
+    "name": "El Hadji Malick Diouf",
+    "position": "Defender",
+    "nationality": "Senegal",
+    "dateOfBirth": "2023-02-21",
+    "teamId": "402",
+    "competitionId": "PL"
+  },
+  {
     "id": "204348",
     "name": "Michael Kayode",
     "position": "Defender",
@@ -5432,6 +5594,15 @@
     "position": "Goalkeeper",
     "nationality": "England",
     "dateOfBirth": "1988-03-17",
+    "teamId": "1044",
+    "competitionId": "PL"
+  },
+  {
+    "id": "41381",
+    "name": "Michele Di Gregorio",
+    "position": "Goalkeeper",
+    "nationality": "Italy",
+    "dateOfBirth": "1997-07-27",
     "teamId": "1044",
     "competitionId": "PL"
   },
@@ -5706,6 +5877,15 @@
     "competitionId": "PL"
   },
   {
+    "id": "4418",
+    "name": "Daniel Bentley",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "dateOfBirth": "1993-07-13",
+    "teamId": "1076",
+    "competitionId": "PL"
+  },
+  {
     "id": "5347",
     "name": "Ben Wilson",
     "position": "Goalkeeper",
@@ -5747,6 +5927,15 @@
     "position": "Defender",
     "nationality": "England",
     "dateOfBirth": "1998-10-21",
+    "teamId": "1076",
+    "competitionId": "PL"
+  },
+  {
+    "id": "4334",
+    "name": "Ethan Pinnock",
+    "position": "Defender",
+    "nationality": "Jamaica",
+    "dateOfBirth": "1993-05-29",
     "teamId": "1076",
     "competitionId": "PL"
   },
@@ -5823,11 +6012,11 @@
     "competitionId": "PL"
   },
   {
-    "id": "6009",
-    "name": "Ephron Mason-Clark",
-    "position": "Midfielder",
+    "id": "286320",
+    "name": "Stephen Mfuni",
+    "position": "Defender",
     "nationality": "England",
-    "dateOfBirth": "1999-08-25",
+    "dateOfBirth": "2008-02-12",
     "teamId": "1076",
     "competitionId": "PL"
   },
@@ -5900,6 +6089,15 @@
     "position": "Midfielder",
     "nationality": "Ghana",
     "dateOfBirth": "2006-01-15",
+    "teamId": "1076",
+    "competitionId": "PL"
+  },
+  {
+    "id": "6009",
+    "name": "Ephron Mason-Clark",
+    "position": "Forward",
+    "nationality": "England",
+    "dateOfBirth": "1999-08-25",
     "teamId": "1076",
     "competitionId": "PL"
   },

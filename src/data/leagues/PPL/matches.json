@@ -1312,14 +1312,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-30T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5529",
     "awayTeamId": "9136",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 0.83,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 337,
+        "duelsWon": 40,
+        "boxTouches": 12,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 49,
+        "xg": 2.1,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 319,
+        "duelsWon": 44,
+        "boxTouches": 27,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Estádio da Madeira, Funchal"
   },
@@ -1330,14 +1358,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-30T17:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "6618",
     "awayTeamId": "583",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Estádio Municipal de Rio Maior, Rio Maior"
   },

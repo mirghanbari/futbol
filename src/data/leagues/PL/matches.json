@@ -558,14 +558,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-28T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "354",
     "awayTeamId": "65",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
     },
     "stats": {
       "home": {
@@ -774,7 +774,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "paused",
+    "status": "scheduled",
     "homeTeamId": "73",
     "awayTeamId": "67",
     "homeTeam": {
@@ -830,14 +830,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "71",
     "awayTeamId": "63",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 1.75,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 326,
+        "duelsWon": 57,
+        "boxTouches": 20,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 58,
+        "xg": 1.02,
+        "shots": 11,
+        "shotsOnTarget": 0,
+        "accuratePasses": 472,
+        "duelsWon": 43,
+        "boxTouches": 26,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Stadium of Light, Sunderland",
     "broadcasts": [
@@ -854,14 +882,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "61",
     "awayTeamId": "397",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 26,
+        "xg": 2.97,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 146,
+        "duelsWon": 44,
+        "boxTouches": 29,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 74,
+        "xg": 1.49,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 549,
+        "duelsWon": 36,
+        "boxTouches": 28,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Stamford Bridge, London",
     "broadcasts": [
@@ -878,14 +934,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "341",
     "awayTeamId": "402",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 1.43,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 278,
+        "duelsWon": 63,
+        "boxTouches": 20,
+        "fouls": 5,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1.56,
+        "shots": 22,
+        "shotsOnTarget": 5,
+        "accuratePasses": 329,
+        "duelsWon": 51,
+        "boxTouches": 40,
+        "fouls": 13,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Elland Road, Leeds",
     "broadcasts": [
@@ -906,14 +990,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T15:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "66",
     "awayTeamId": "349",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 60,
+        "xg": 4.56,
+        "shots": 33,
+        "shotsOnTarget": 11,
+        "accuratePasses": 488,
+        "duelsWon": 54,
+        "boxTouches": 44,
+        "fouls": 7,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 40,
+        "xg": 2.01,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 299,
+        "duelsWon": 29,
+        "boxTouches": 13,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 6
+      }
     },
     "venue": "Old Trafford, Manchester",
     "broadcasts": [

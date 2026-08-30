@@ -135,6 +135,15 @@
     "competitionId": "BL1"
   },
   {
+    "id": "3608",
+    "name": "Ellyes Skhiri",
+    "position": "Midfielder",
+    "nationality": "Tunisia",
+    "dateOfBirth": "1995-05-10",
+    "teamId": "1",
+    "competitionId": "BL1"
+  },
+  {
     "id": "99812",
     "name": "Tom Krauß",
     "position": "Midfielder",
@@ -1737,15 +1746,6 @@
     "competitionId": "BL1"
   },
   {
-    "id": "272835",
-    "name": "Mika Wallentowitz",
-    "position": "Midfielder",
-    "nationality": "Germany",
-    "dateOfBirth": "2007-12-28",
-    "teamId": "6",
-    "competitionId": "BL1"
-  },
-  {
     "id": "288883",
     "name": "Luca Vozar",
     "position": "Midfielder",
@@ -1814,6 +1814,15 @@
     "position": "Forward",
     "nationality": "Togo",
     "dateOfBirth": "2006-02-21",
+    "teamId": "6",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "272835",
+    "name": "Mika Wallentowitz",
+    "position": "Forward",
+    "nationality": "Germany",
+    "dateOfBirth": "2007-12-28",
     "teamId": "6",
     "competitionId": "BL1"
   },
@@ -3087,6 +3096,15 @@
     "competitionId": "BL1"
   },
   {
+    "id": "243858",
+    "name": "Young-woo Seol",
+    "position": "Defender",
+    "nationality": "South Korea",
+    "dateOfBirth": "1998-12-05",
+    "teamId": "16",
+    "competitionId": "BL1"
+  },
+  {
     "id": "249428",
     "name": "Noahkai Banks",
     "position": "Defender",
@@ -3870,6 +3888,15 @@
     "competitionId": "BL1"
   },
   {
+    "id": "123287",
+    "name": "Noah Atubolu",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "dateOfBirth": "2002-05-25",
+    "teamId": "19",
+    "competitionId": "BL1"
+  },
+  {
     "id": "189482",
     "name": "Kauã Santos",
     "position": "Goalkeeper",
@@ -4203,6 +4230,15 @@
     "competitionId": "BL1"
   },
   {
+    "id": "9430",
+    "name": "Ohis Uduokhai",
+    "position": "Defender",
+    "nationality": "Germany",
+    "dateOfBirth": "1997-09-09",
+    "teamId": "28",
+    "competitionId": "BL1"
+  },
+  {
     "id": "23202",
     "name": "Josip Juranović",
     "position": "Defender",
@@ -4482,6 +4518,15 @@
     "competitionId": "BL1"
   },
   {
+    "id": "206530",
+    "name": "Jano ter Horst",
+    "position": "Defender",
+    "nationality": "Germany",
+    "dateOfBirth": "2002-06-19",
+    "teamId": "29",
+    "competitionId": "BL1"
+  },
+  {
     "id": "211743",
     "name": "Mattes Hansen",
     "position": "Defender",
@@ -4536,15 +4581,6 @@
     "competitionId": "BL1"
   },
   {
-    "id": "72437",
-    "name": "Oliver Batista-Meier",
-    "position": "Midfielder",
-    "nationality": "Germany",
-    "dateOfBirth": "2001-02-16",
-    "teamId": "29",
-    "competitionId": "BL1"
-  },
-  {
     "id": "75793",
     "name": "Timur Gayret",
     "position": "Midfielder",
@@ -4586,15 +4622,6 @@
     "position": "Midfielder",
     "nationality": "Germany",
     "dateOfBirth": "2005-01-31",
-    "teamId": "29",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "206530",
-    "name": "Jano ter Horst",
-    "position": "Midfielder",
-    "nationality": "Germany",
-    "dateOfBirth": "2002-06-19",
     "teamId": "29",
     "competitionId": "BL1"
   },
@@ -4658,6 +4685,24 @@
     "position": "Forward",
     "nationality": "Germany",
     "dateOfBirth": "1990-07-15",
+    "teamId": "29",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "72437",
+    "name": "Oliver Batista-Meier",
+    "position": "Forward",
+    "nationality": "Germany",
+    "dateOfBirth": "2001-02-16",
+    "teamId": "29",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "75545",
+    "name": "Marvin Pieringer",
+    "position": "Forward",
+    "nationality": "Germany",
+    "dateOfBirth": "1999-10-04",
     "teamId": "29",
     "competitionId": "BL1"
   },
@@ -5130,6 +5175,15 @@
     "competitionId": "BL1"
   },
   {
+    "id": "282348",
+    "name": "Joyeux Masanka Bungi",
+    "position": "Defender",
+    "nationality": "Belgium",
+    "dateOfBirth": "2007-01-24",
+    "teamId": "721",
+    "competitionId": "BL1"
+  },
+  {
     "id": "30629",
     "name": "Eljif Elmas",
     "position": "Midfielder",
@@ -5220,20 +5274,20 @@
     "competitionId": "BL1"
   },
   {
-    "id": "282348",
-    "name": "Joyeux Masanka Bungi",
-    "position": "Midfielder",
-    "nationality": "Belgium",
-    "dateOfBirth": "2007-01-24",
-    "teamId": "721",
-    "competitionId": "BL1"
-  },
-  {
     "id": "289807",
     "name": "Benno Kaltefleiter",
     "position": "Midfielder",
     "nationality": "Germany",
     "dateOfBirth": "2008-02-14",
+    "teamId": "721",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "8484",
+    "name": "Christopher Nkunku",
+    "position": "Forward",
+    "nationality": "France",
+    "dateOfBirth": "1997-11-14",
     "teamId": "721",
     "competitionId": "BL1"
   },

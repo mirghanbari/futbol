@@ -729,24 +729,6 @@
     "competitionId": "PD"
   },
   {
-    "id": "300101",
-    "name": "Asier Bonel",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2008-01-17",
-    "teamId": "79",
-    "competitionId": "PD"
-  },
-  {
-    "id": "300032",
-    "name": "Unai Santos",
-    "position": null,
-    "nationality": "Spain",
-    "dateOfBirth": "2005-11-03",
-    "teamId": "79",
-    "competitionId": "PD"
-  },
-  {
     "id": "3430",
     "name": "Marko Dmitrović",
     "position": "Goalkeeper",
@@ -963,6 +945,15 @@
     "competitionId": "PD"
   },
   {
+    "id": "191403",
+    "name": "Bryan Zaragoza",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2001-09-09",
+    "teamId": "80",
+    "competitionId": "PD"
+  },
+  {
     "id": "278018",
     "name": "Marcos Fernández",
     "position": "Forward",
@@ -977,6 +968,15 @@
     "position": "Goalkeeper",
     "nationality": "Poland",
     "dateOfBirth": "1990-04-18",
+    "teamId": "81",
+    "competitionId": "PD"
+  },
+  {
+    "id": "3548",
+    "name": "Dominik Livaković",
+    "position": "Goalkeeper",
+    "nationality": "Croatia",
+    "dateOfBirth": "1995-01-09",
     "teamId": "81",
     "competitionId": "PD"
   },
@@ -1265,6 +1265,15 @@
     "position": "Forward",
     "nationality": "Spain",
     "dateOfBirth": "2007-07-13",
+    "teamId": "81",
+    "competitionId": "PD"
+  },
+  {
+    "id": "274542",
+    "name": "Hamza Abdelkarim",
+    "position": "Forward",
+    "nationality": "Egypt",
+    "dateOfBirth": "2008-01-01",
     "teamId": "81",
     "competitionId": "PD"
   },
@@ -1629,6 +1638,15 @@
     "competitionId": "PD"
   },
   {
+    "id": "32830",
+    "name": "Pablo Martínez",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "1998-02-22",
+    "teamId": "84",
+    "competitionId": "PD"
+  },
+  {
     "id": "126923",
     "name": "Ramón Enríquez Rodríguez",
     "position": "Midfielder",
@@ -1944,6 +1962,15 @@
     "competitionId": "PD"
   },
   {
+    "id": "289908",
+    "name": "Jorge Cestero",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2006-03-24",
+    "teamId": "86",
+    "competitionId": "PD"
+  },
+  {
     "id": "291727",
     "name": "Manuel Angel",
     "position": "Midfielder",
@@ -2070,6 +2097,15 @@
     "competitionId": "PD"
   },
   {
+    "id": "92048",
+    "name": "Pedrosa",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "1998-05-13",
+    "teamId": "87",
+    "competitionId": "PD"
+  },
+  {
     "id": "114955",
     "name": "Andrei Rațiu",
     "position": "Defender",
@@ -2165,6 +2201,15 @@
     "position": "Midfielder",
     "nationality": "Spain",
     "dateOfBirth": "2006-06-01",
+    "teamId": "87",
+    "competitionId": "PD"
+  },
+  {
+    "id": "300277",
+    "name": "Gnangoro Bouare",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "dateOfBirth": "2004-06-13",
     "teamId": "87",
     "competitionId": "PD"
   },
@@ -2336,6 +2381,15 @@
     "position": "Defender",
     "nationality": "Spain",
     "dateOfBirth": "2004-04-25",
+    "teamId": "88",
+    "competitionId": "PD"
+  },
+  {
+    "id": "279739",
+    "name": "Ifeanyi Ndukwe",
+    "position": "Defender",
+    "nationality": "Austria",
+    "dateOfBirth": "2008-03-03",
     "teamId": "88",
     "competitionId": "PD"
   },
@@ -2817,11 +2871,29 @@
     "competitionId": "PD"
   },
   {
+    "id": "190866",
+    "name": "Mamadou Sarr",
+    "position": "Defender",
+    "nationality": "Senegal",
+    "dateOfBirth": "2005-08-29",
+    "teamId": "92",
+    "competitionId": "PD"
+  },
+  {
     "id": "194029",
     "name": "Kazunari Kita",
     "position": "Defender",
     "nationality": "Japan",
     "dateOfBirth": "2005-09-16",
+    "teamId": "92",
+    "competitionId": "PD"
+  },
+  {
+    "id": "227023",
+    "name": "Héctor Fort",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2006-08-02",
     "teamId": "92",
     "competitionId": "PD"
   },
@@ -3105,6 +3177,15 @@
     "competitionId": "PD"
   },
   {
+    "id": "171216",
+    "name": "Nathan-Dylan Saliba",
+    "position": "Midfielder",
+    "nationality": "Canada",
+    "dateOfBirth": "2004-02-07",
+    "teamId": "94",
+    "competitionId": "PD"
+  },
+  {
     "id": "273016",
     "name": "Alassane Diatta",
     "position": "Midfielder",
@@ -3231,6 +3312,15 @@
     "competitionId": "PD"
   },
   {
+    "id": "186557",
+    "name": "Kayne van Oevelen",
+    "position": "Goalkeeper",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2003-08-08",
+    "teamId": "95",
+    "competitionId": "PD"
+  },
+  {
     "id": "8456",
     "name": "Mouctar Diakhaby",
     "position": "Defender",
@@ -3272,6 +3362,15 @@
     "position": "Defender",
     "nationality": "Netherlands",
     "dateOfBirth": "2000-02-01",
+    "teamId": "95",
+    "competitionId": "PD"
+  },
+  {
+    "id": "151744",
+    "name": "Arnau Martinez",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2003-04-25",
     "teamId": "95",
     "competitionId": "PD"
   },
@@ -4140,6 +4239,15 @@
     "competitionId": "PD"
   },
   {
+    "id": "150536",
+    "name": "Couhaib Driouech",
+    "position": "Forward",
+    "nationality": "Morocco",
+    "dateOfBirth": "2002-04-17",
+    "teamId": "558",
+    "competitionId": "PD"
+  },
+  {
     "id": "170438",
     "name": "Williot Swedberg",
     "position": "Forward",
@@ -4334,6 +4442,15 @@
     "position": "Midfielder",
     "nationality": "France",
     "dateOfBirth": "2002-02-09",
+    "teamId": "559",
+    "competitionId": "PD"
+  },
+  {
+    "id": "144628",
+    "name": "Giorgi Kochorashvili",
+    "position": "Midfielder",
+    "nationality": "Georgia",
+    "dateOfBirth": "1999-06-29",
     "teamId": "559",
     "competitionId": "PD"
   },
@@ -4617,6 +4734,15 @@
     "competitionId": "PD"
   },
   {
+    "id": "4221",
+    "name": "Adama Traoré",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "1996-01-25",
+    "teamId": "560",
+    "competitionId": "PD"
+  },
+  {
     "id": "7801",
     "name": "Pierre-Emerick Aubameyang",
     "position": "Forward",
@@ -4775,6 +4901,15 @@
     "position": "Midfielder",
     "nationality": "Spain",
     "dateOfBirth": "1998-06-16",
+    "teamId": "5335",
+    "competitionId": "PD"
+  },
+  {
+    "id": "166329",
+    "name": "Matteo Prati",
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "dateOfBirth": "2003-12-28",
     "teamId": "5335",
     "competitionId": "PD"
   },

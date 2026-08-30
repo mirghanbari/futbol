@@ -1180,10 +1180,10 @@
     "homeTeamId": "677",
     "awayTeamId": "1920",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "stats": {
       "home": {
@@ -1418,14 +1418,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-30T12:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "672",
     "awayTeamId": "673",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 1.7,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 245,
+        "duelsWon": 36,
+        "boxTouches": 14,
+        "fouls": 9,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 61,
+        "xg": 1.36,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 452,
+        "duelsWon": 36,
+        "boxTouches": 38,
+        "fouls": 5,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Koning Willem II Stadion, Tilburg"
   },
@@ -1436,14 +1464,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-30T12:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "675",
     "awayTeamId": "680",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 69,
+        "xg": 2.47,
+        "shots": 33,
+        "shotsOnTarget": 12,
+        "accuratePasses": 574,
+        "duelsWon": 31,
+        "boxTouches": 50,
+        "fouls": 5,
+        "corners": 11,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 31,
+        "xg": 0.24,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 212,
+        "duelsWon": 45,
+        "boxTouches": 12,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 10
+      }
     },
     "venue": "De Kuip, Rotterdam",
     "broadcasts": [
@@ -1460,14 +1516,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-30T14:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1912",
     "awayTeamId": "678",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 1.13,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 328,
+        "duelsWon": 32,
+        "boxTouches": 21,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 58,
+        "xg": 2.13,
+        "shots": 12,
+        "shotsOnTarget": 9,
+        "accuratePasses": 478,
+        "duelsWon": 39,
+        "boxTouches": 23,
+        "fouls": 13,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "711 Stadion, Velsen-Zuid",
     "broadcasts": [

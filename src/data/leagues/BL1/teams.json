@@ -8,6 +8,22 @@
     "competitionId": "BL1"
   },
   {
+    "id": "17",
+    "name": "SC Freiburg",
+    "shortName": "Freiburg",
+    "tla": "SCF",
+    "crest": "https://crests.football-data.org/17.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "16",
+    "name": "FC Augsburg",
+    "shortName": "Augsburg",
+    "tla": "FCA",
+    "crest": "https://crests.football-data.org/16.png",
+    "competitionId": "BL1"
+  },
+  {
     "id": "721",
     "name": "RB Leipzig",
     "shortName": "RB Leipzig",
@@ -72,38 +88,6 @@
     "competitionId": "BL1"
   },
   {
-    "id": "16",
-    "name": "FC Augsburg",
-    "shortName": "Augsburg",
-    "tla": "FCA",
-    "crest": "https://crests.football-data.org/16.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "6",
-    "name": "FC Schalke 04",
-    "shortName": "Schalke",
-    "tla": "S04",
-    "crest": "https://crests.football-data.org/6.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "17",
-    "name": "SC Freiburg",
-    "shortName": "Freiburg",
-    "tla": "SCF",
-    "crest": "https://crests.football-data.org/17.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "12",
-    "name": "SV Werder Bremen",
-    "shortName": "Bremen",
-    "tla": "SVW",
-    "crest": "https://crests.football-data.org/12.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "2",
     "name": "TSG 1899 Hoffenheim",
     "shortName": "Hoffenheim",
@@ -128,11 +112,27 @@
     "competitionId": "BL1"
   },
   {
+    "id": "12",
+    "name": "SV Werder Bremen",
+    "shortName": "Bremen",
+    "tla": "SVW",
+    "crest": "https://crests.football-data.org/12.png",
+    "competitionId": "BL1"
+  },
+  {
     "id": "18",
     "name": "Borussia Mönchengladbach",
     "shortName": "M'gladbach",
     "tla": "BMG",
     "crest": "https://crests.football-data.org/18.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "6",
+    "name": "FC Schalke 04",
+    "shortName": "Schalke",
+    "tla": "S04",
+    "crest": "https://crests.football-data.org/6.png",
     "competitionId": "BL1"
   },
   {

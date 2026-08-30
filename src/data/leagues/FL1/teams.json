@@ -1,5 +1,13 @@
 [
   {
+    "id": "1045",
+    "name": "Paris FC",
+    "shortName": "Paris FC",
+    "tla": "PFC",
+    "crest": "https://crests.football-data.org/1045.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "521",
     "name": "Lille OSC",
     "shortName": "Lille",
@@ -13,6 +21,14 @@
     "shortName": "Olympique Lyon",
     "tla": "LYO",
     "crest": "https://crests.football-data.org/523.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "529",
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png",
     "competitionId": "FL1"
   },
   {
@@ -80,35 +96,11 @@
     "competitionId": "FL1"
   },
   {
-    "id": "522",
-    "name": "OGC Nice",
-    "shortName": "Nice",
-    "tla": "NIC",
-    "crest": "https://crests.football-data.org/522.png",
-    "competitionId": "FL1"
-  },
-  {
-    "id": "1045",
-    "name": "Paris FC",
-    "shortName": "Paris FC",
-    "tla": "PFC",
-    "crest": "https://crests.football-data.org/1045.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "535",
     "name": "Le Mans FC",
     "shortName": "Le Mans",
     "tla": "LMF",
     "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
-    "competitionId": "FL1"
-  },
-  {
-    "id": "529",
-    "name": "Stade Rennais FC 1901",
-    "shortName": "Stade Rennais",
-    "tla": "REN",
-    "crest": "https://crests.football-data.org/529.png",
     "competitionId": "FL1"
   },
   {
@@ -133,6 +125,14 @@
     "shortName": "Toulouse",
     "tla": "TOU",
     "crest": "https://crests.football-data.org/511.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "522",
+    "name": "OGC Nice",
+    "shortName": "Nice",
+    "tla": "NIC",
+    "crest": "https://crests.football-data.org/522.png",
     "competitionId": "FL1"
   },
   {
