@@ -1,5 +1,14 @@
 [
   {
+    "id": "7250",
+    "name": "Joël Drommel",
+    "position": "Goalkeeper",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1996-11-16",
+    "teamId": "666",
+    "competitionId": "DED"
+  },
+  {
     "id": "7286",
     "name": "Lars Unnerstall",
     "position": "Goalkeeper",
@@ -270,6 +279,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "202834",
+    "name": "Filip Thorvaldsen",
+    "position": "Forward",
+    "nationality": "Norway",
+    "dateOfBirth": "2006-04-15",
+    "teamId": "666",
+    "competitionId": "DED"
+  },
+  {
     "id": "246352",
     "name": "Lucas Vennegoor of Hesselink",
     "position": "Forward",
@@ -356,6 +374,15 @@
     "position": "Defender",
     "nationality": "Australia",
     "dateOfBirth": null,
+    "teamId": "670",
+    "competitionId": "DED"
+  },
+  {
+    "id": "227007",
+    "name": "Eric da Silva Moreira",
+    "position": "Defender",
+    "nationality": "Germany",
+    "dateOfBirth": "2006-05-03",
     "teamId": "670",
     "competitionId": "DED"
   },
@@ -468,11 +495,38 @@
     "competitionId": "DED"
   },
   {
+    "id": "3819",
+    "name": "Alireza Jahanbakhsh",
+    "position": "Forward",
+    "nationality": "Iran",
+    "dateOfBirth": "1993-08-11",
+    "teamId": "670",
+    "competitionId": "DED"
+  },
+  {
     "id": "176693",
     "name": "Gyan de Regt",
     "position": "Forward",
     "nationality": "Netherlands",
     "dateOfBirth": "2003-08-18",
+    "teamId": "670",
+    "competitionId": "DED"
+  },
+  {
+    "id": "181914",
+    "name": "Mario Dominguez",
+    "position": "Forward",
+    "nationality": "Spain",
+    "dateOfBirth": "2004-02-10",
+    "teamId": "670",
+    "competitionId": "DED"
+  },
+  {
+    "id": "212562",
+    "name": "Ágúst Þorsteinsson",
+    "position": "Forward",
+    "nationality": "Iceland",
+    "dateOfBirth": "2005-01-14",
     "teamId": "670",
     "competitionId": "DED"
   },
@@ -500,6 +554,15 @@
     "position": "Forward",
     "nationality": "Cape Verde Islands",
     "dateOfBirth": "2002-01-01",
+    "teamId": "670",
+    "competitionId": "DED"
+  },
+  {
+    "id": "272162",
+    "name": "Aymen Sliti",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2006-03-24",
     "teamId": "670",
     "competitionId": "DED"
   },
@@ -612,11 +675,29 @@
     "competitionId": "DED"
   },
   {
+    "id": "7469",
+    "name": "Tonny Vilhena",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1995-01-03",
+    "teamId": "672",
+    "competitionId": "DED"
+  },
+  {
     "id": "9873",
     "name": "Jari Schuurman",
     "position": "Midfielder",
     "nationality": "Netherlands",
     "dateOfBirth": "1997-02-22",
+    "teamId": "672",
+    "competitionId": "DED"
+  },
+  {
+    "id": "152412",
+    "name": "Calvin Twigt",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2003-01-30",
     "teamId": "672",
     "competitionId": "DED"
   },
@@ -720,33 +801,6 @@
     "competitionId": "DED"
   },
   {
-    "id": "298518",
-    "name": "Sebas Wermenbol",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "2006-07-01",
-    "teamId": "672",
-    "competitionId": "DED"
-  },
-  {
-    "id": "298517",
-    "name": "Ismael Mouhoul",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": null,
-    "teamId": "672",
-    "competitionId": "DED"
-  },
-  {
-    "id": "298513",
-    "name": "Luca Maal",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": null,
-    "teamId": "672",
-    "competitionId": "DED"
-  },
-  {
     "id": "3053",
     "name": "Andries Noppert",
     "position": "Goalkeeper",
@@ -761,6 +815,15 @@
     "position": "Goalkeeper",
     "nationality": "Netherlands",
     "dateOfBirth": "2005-09-26",
+    "teamId": "673",
+    "competitionId": "DED"
+  },
+  {
+    "id": "290648",
+    "name": "Timo Schreuder",
+    "position": "Goalkeeper",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2006-09-25",
     "teamId": "673",
     "competitionId": "DED"
   },
@@ -990,6 +1053,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "3446",
+    "name": "Filip Kostić",
+    "position": "Defender",
+    "nationality": "Serbia",
+    "dateOfBirth": "1992-11-01",
+    "teamId": "674",
+    "competitionId": "DED"
+  },
+  {
     "id": "7443",
     "name": "Armando Obispo",
     "position": "Defender",
@@ -1004,6 +1076,15 @@
     "position": "Defender",
     "nationality": "Brazil",
     "dateOfBirth": "1999-05-06",
+    "teamId": "674",
+    "competitionId": "DED"
+  },
+  {
+    "id": "7468",
+    "name": "Lutsharel Geertruida",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2000-07-18",
     "teamId": "674",
     "competitionId": "DED"
   },
@@ -1116,6 +1197,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "217935",
+    "name": "Kodai Sano",
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "dateOfBirth": "2003-09-25",
+    "teamId": "674",
+    "competitionId": "DED"
+  },
+  {
     "id": "218290",
     "name": "Joel van den Berg",
     "position": "Midfielder",
@@ -1197,6 +1287,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "289046",
+    "name": "Amir Bouhamdi",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2008-06-17",
+    "teamId": "674",
+    "competitionId": "DED"
+  },
+  {
     "id": "25610",
     "name": "Liam Bossin",
     "position": "Goalkeeper",
@@ -1211,6 +1310,15 @@
     "position": "Goalkeeper",
     "nationality": "Germany",
     "dateOfBirth": "2003-03-15",
+    "teamId": "675",
+    "competitionId": "DED"
+  },
+  {
+    "id": "215555",
+    "name": "Mannou Berger",
+    "position": "Goalkeeper",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2004-10-15",
     "teamId": "675",
     "competitionId": "DED"
   },
@@ -1265,6 +1373,15 @@
     "position": "Defender",
     "nationality": "Netherlands",
     "dateOfBirth": "1997-08-31",
+    "teamId": "675",
+    "competitionId": "DED"
+  },
+  {
+    "id": "82120",
+    "name": "Javi López",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2002-01-01",
     "teamId": "675",
     "competitionId": "DED"
   },
@@ -1328,6 +1445,15 @@
     "position": "Defender",
     "nationality": "Netherlands",
     "dateOfBirth": "2007-05-03",
+    "teamId": "675",
+    "competitionId": "DED"
+  },
+  {
+    "id": "298630",
+    "name": "Tijme Wessels",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2007-02-23",
     "teamId": "675",
     "competitionId": "DED"
   },
@@ -1404,6 +1530,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "275067",
+    "name": "Tobias van den Elshout",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2007-02-02",
+    "teamId": "675",
+    "competitionId": "DED"
+  },
+  {
     "id": "119460",
     "name": "Ayase Ueda",
     "position": "Forward",
@@ -1472,6 +1607,24 @@
     "position": "Forward",
     "nationality": "Netherlands",
     "dateOfBirth": "2006-03-24",
+    "teamId": "675",
+    "competitionId": "DED"
+  },
+  {
+    "id": "289520",
+    "name": "Shaqueel van Persie",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2006-11-16",
+    "teamId": "675",
+    "competitionId": "DED"
+  },
+  {
+    "id": "294282",
+    "name": "Jivayno Zinhagel",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2009-04-18",
     "teamId": "675",
     "competitionId": "DED"
   },
@@ -1571,6 +1724,15 @@
     "position": "Defender",
     "nationality": "Netherlands",
     "dateOfBirth": "2001-01-03",
+    "teamId": "676",
+    "competitionId": "DED"
+  },
+  {
+    "id": "289109",
+    "name": "Ferdinand Pohl",
+    "position": "Defender",
+    "nationality": "Germany",
+    "dateOfBirth": "2007-02-02",
     "teamId": "676",
     "competitionId": "DED"
   },
@@ -1737,6 +1899,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "244046",
+    "name": "Sem van Duijn",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2004-03-18",
+    "teamId": "676",
+    "competitionId": "DED"
+  },
+  {
     "id": "265560",
     "name": "Artem Stepanov",
     "position": "Forward",
@@ -1818,6 +1989,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "216439",
+    "name": "Márk Csinger",
+    "position": "Defender",
+    "nationality": "Hungary",
+    "dateOfBirth": "2003-05-31",
+    "teamId": "677",
+    "competitionId": "DED"
+  },
+  {
     "id": "218463",
     "name": "Wouter Prins",
     "position": "Defender",
@@ -1872,6 +2052,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "188914",
+    "name": "Thom van Bergen",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2004-01-06",
+    "teamId": "677",
+    "competitionId": "DED"
+  },
+  {
     "id": "190468",
     "name": "Tygo Land",
     "position": "Midfielder",
@@ -1899,6 +2088,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "298628",
+    "name": "Alvin Nordin",
+    "position": "Midfielder",
+    "nationality": "Sweden",
+    "dateOfBirth": "2007-12-24",
+    "teamId": "677",
+    "competitionId": "DED"
+  },
+  {
     "id": "41302",
     "name": "Brynjolfur Darri Willumsson",
     "position": "Forward",
@@ -1908,11 +2106,11 @@
     "competitionId": "DED"
   },
   {
-    "id": "188914",
-    "name": "Thom van Bergen",
+    "id": "135009",
+    "name": "Jacob Ondrejka",
     "position": "Forward",
-    "nationality": "Netherlands",
-    "dateOfBirth": "2004-01-06",
+    "nationality": "Sweden",
+    "dateOfBirth": "2002-09-02",
     "teamId": "677",
     "competitionId": "DED"
   },
@@ -1962,48 +2160,12 @@
     "competitionId": "DED"
   },
   {
-    "id": "300104",
-    "name": "Daan Erdman",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": null,
-    "teamId": "677",
-    "competitionId": "DED"
-  },
-  {
-    "id": "298632",
-    "name": "Jahelille Hall",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "2007-11-25",
-    "teamId": "677",
-    "competitionId": "DED"
-  },
-  {
-    "id": "298631",
-    "name": "Jesper Mosselaar",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "2005-02-14",
-    "teamId": "677",
-    "competitionId": "DED"
-  },
-  {
-    "id": "298629",
-    "name": "Nikolas Brandis",
-    "position": null,
-    "nationality": "Slovakia",
-    "dateOfBirth": "2005-05-06",
-    "teamId": "677",
-    "competitionId": "DED"
-  },
-  {
-    "id": "298628",
-    "name": "Alvin Nordin",
-    "position": null,
-    "nationality": "Sweden",
-    "dateOfBirth": "2007-12-24",
-    "teamId": "677",
+    "id": "3173",
+    "name": "Marc-André ter Stegen",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "dateOfBirth": "1992-04-30",
+    "teamId": "678",
     "competitionId": "DED"
   },
   {
@@ -2133,11 +2295,29 @@
     "competitionId": "DED"
   },
   {
+    "id": "283414",
+    "name": "Jofre Torrents",
+    "position": "Defender",
+    "nationality": "Spain",
+    "dateOfBirth": "2007-01-28",
+    "teamId": "678",
+    "competitionId": "DED"
+  },
+  {
     "id": "148",
     "name": "Julian Brandt",
     "position": "Midfielder",
     "nationality": "Germany",
     "dateOfBirth": "1996-05-02",
+    "teamId": "678",
+    "competitionId": "DED"
+  },
+  {
+    "id": "3705",
+    "name": "Sofyan Amrabat",
+    "position": "Midfielder",
+    "nationality": "Morocco",
+    "dateOfBirth": "1996-08-21",
     "teamId": "678",
     "competitionId": "DED"
   },
@@ -2196,6 +2376,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "282165",
+    "name": "Abdellah Ouazane",
+    "position": "Midfielder",
+    "nationality": "Morocco",
+    "dateOfBirth": "2009-01-15",
+    "teamId": "678",
+    "competitionId": "DED"
+  },
+  {
     "id": "7478",
     "name": "Steven Berghuis",
     "position": "Forward",
@@ -2210,6 +2399,15 @@
     "position": "Forward",
     "nationality": "Denmark",
     "dateOfBirth": "1997-10-06",
+    "teamId": "678",
+    "competitionId": "DED"
+  },
+  {
+    "id": "16173",
+    "name": "Viktor Tsyhankov",
+    "position": "Forward",
+    "nationality": "Ukraine",
+    "dateOfBirth": "1997-11-15",
     "teamId": "678",
     "competitionId": "DED"
   },
@@ -2295,6 +2493,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "244956",
+    "name": "Sem Eekhout",
+    "position": "Goalkeeper",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2006-10-24",
+    "teamId": "680",
+    "competitionId": "DED"
+  },
+  {
     "id": "282944",
     "name": "Caleb Kramer",
     "position": "Goalkeeper",
@@ -2322,11 +2529,29 @@
     "competitionId": "DED"
   },
   {
+    "id": "170349",
+    "name": "Jonas Jensen-Abbew",
+    "position": "Defender",
+    "nationality": "Denmark",
+    "dateOfBirth": "2002-04-20",
+    "teamId": "680",
+    "competitionId": "DED"
+  },
+  {
     "id": "190422",
     "name": "Lasse Wilhelm",
     "position": "Defender",
     "nationality": "Germany",
     "dateOfBirth": "2003-03-20",
+    "teamId": "680",
+    "competitionId": "DED"
+  },
+  {
+    "id": "192169",
+    "name": "Othniel Raterink",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2006-04-07",
     "teamId": "680",
     "competitionId": "DED"
   },
@@ -2673,6 +2898,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "154590",
+    "name": "Stije Resink",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2003-05-28",
+    "teamId": "682",
+    "competitionId": "DED"
+  },
+  {
     "id": "188075",
     "name": "Dave Kwakman",
     "position": "Midfielder",
@@ -2898,6 +3132,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "278463",
+    "name": "Jan Bürger",
+    "position": "Defender",
+    "nationality": "Germany",
+    "dateOfBirth": "2007-03-10",
+    "teamId": "684",
+    "competitionId": "DED"
+  },
+  {
     "id": "7499",
     "name": "Odysseus Velanas",
     "position": "Midfielder",
@@ -3011,15 +3254,6 @@
     "position": "Forward",
     "nationality": "Netherlands",
     "dateOfBirth": "2003-03-26",
-    "teamId": "684",
-    "competitionId": "DED"
-  },
-  {
-    "id": "299708",
-    "name": "Milan Westerhuis",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "2008-09-28",
     "teamId": "684",
     "competitionId": "DED"
   },
@@ -3150,6 +3384,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "144445",
+    "name": "Victor Edvardsen",
+    "position": "Midfielder",
+    "nationality": "Sweden",
+    "dateOfBirth": "1996-01-14",
+    "teamId": "718",
+    "competitionId": "DED"
+  },
+  {
     "id": "152412",
     "name": "Calvin Twigt",
     "position": "Midfielder",
@@ -3204,15 +3447,6 @@
     "competitionId": "DED"
   },
   {
-    "id": "144445",
-    "name": "Victor Edvardsen",
-    "position": "Forward",
-    "nationality": "Sweden",
-    "dateOfBirth": "1996-01-14",
-    "teamId": "718",
-    "competitionId": "DED"
-  },
-  {
     "id": "147764",
     "name": "Thibo Baeten",
     "position": "Forward",
@@ -3254,33 +3488,6 @@
     "position": "Forward",
     "nationality": "Norway",
     "dateOfBirth": "2004-12-26",
-    "teamId": "718",
-    "competitionId": "DED"
-  },
-  {
-    "id": "300206",
-    "name": "Thomas Hulleman",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": "2009-12-25",
-    "teamId": "718",
-    "competitionId": "DED"
-  },
-  {
-    "id": "300205",
-    "name": "Terence Lantveld",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": null,
-    "teamId": "718",
-    "competitionId": "DED"
-  },
-  {
-    "id": "300204",
-    "name": "Tino Jukić",
-    "position": null,
-    "nationality": "Germany",
-    "dateOfBirth": "2001-10-10",
     "teamId": "718",
     "competitionId": "DED"
   },
@@ -3339,6 +3546,24 @@
     "competitionId": "DED"
   },
   {
+    "id": "182024",
+    "name": "Billy van Duijl",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": null,
+    "teamId": "1909",
+    "competitionId": "DED"
+  },
+  {
+    "id": "214152",
+    "name": "Wiebe Kooistra",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": null,
+    "teamId": "1909",
+    "competitionId": "DED"
+  },
+  {
     "id": "261341",
     "name": "Lucas Jetten",
     "position": "Defender",
@@ -3375,11 +3600,29 @@
     "competitionId": "DED"
   },
   {
+    "id": "1807",
+    "name": "Devid Bouah",
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "dateOfBirth": "2001-08-13",
+    "teamId": "1909",
+    "competitionId": "DED"
+  },
+  {
     "id": "7240",
     "name": "Nicky Souren",
     "position": "Midfielder",
     "nationality": "Netherlands",
     "dateOfBirth": "1999-12-18",
+    "teamId": "1909",
+    "competitionId": "DED"
+  },
+  {
+    "id": "16892",
+    "name": "Mathieu Maertens",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "dateOfBirth": "1995-03-27",
     "teamId": "1909",
     "competitionId": "DED"
   },
@@ -3438,15 +3681,6 @@
     "competitionId": "DED"
   },
   {
-    "id": "214152",
-    "name": "Wiebe Kooistra",
-    "position": "Forward",
-    "nationality": "Netherlands",
-    "dateOfBirth": null,
-    "teamId": "1909",
-    "competitionId": "DED"
-  },
-  {
     "id": "217463",
     "name": "Skye Vink",
     "position": "Forward",
@@ -3461,6 +3695,15 @@
     "position": "Forward",
     "nationality": "Netherlands",
     "dateOfBirth": "2006-10-10",
+    "teamId": "1909",
+    "competitionId": "DED"
+  },
+  {
+    "id": "249561",
+    "name": "Sami Bouhoudane",
+    "position": "Forward",
+    "nationality": "Morocco",
+    "dateOfBirth": "2008-01-13",
     "teamId": "1909",
     "competitionId": "DED"
   },
@@ -3501,11 +3744,56 @@
     "competitionId": "DED"
   },
   {
+    "id": "274551",
+    "name": "Finn Mulder",
+    "position": "Goalkeeper",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2008-02-01",
+    "teamId": "1912",
+    "competitionId": "DED"
+  },
+  {
+    "id": "7354",
+    "name": "Jeff Hardeveld",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1995-02-27",
+    "teamId": "1912",
+    "competitionId": "DED"
+  },
+  {
     "id": "71983",
     "name": "Marvin Peersman",
     "position": "Defender",
     "nationality": "Belgium",
     "dateOfBirth": "1991-02-10",
+    "teamId": "1912",
+    "competitionId": "DED"
+  },
+  {
+    "id": "92124",
+    "name": "Nigel Nwankwo",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1998-08-04",
+    "teamId": "1912",
+    "competitionId": "DED"
+  },
+  {
+    "id": "137954",
+    "name": "Gabi Caschili",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2003-07-14",
+    "teamId": "1912",
+    "competitionId": "DED"
+  },
+  {
+    "id": "178135",
+    "name": "Sem Valk",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2002-02-16",
     "teamId": "1912",
     "competitionId": "DED"
   },
@@ -3555,24 +3843,6 @@
     "competitionId": "DED"
   },
   {
-    "id": "7354",
-    "name": "Jeff Hardeveld",
-    "position": "Midfielder",
-    "nationality": "Netherlands",
-    "dateOfBirth": "1995-02-27",
-    "teamId": "1912",
-    "competitionId": "DED"
-  },
-  {
-    "id": "92124",
-    "name": "Nigel Nwankwo",
-    "position": "Midfielder",
-    "nationality": "Netherlands",
-    "dateOfBirth": "1998-08-04",
-    "teamId": "1912",
-    "competitionId": "DED"
-  },
-  {
     "id": "177052",
     "name": "Nils Rossen",
     "position": "Midfielder",
@@ -3596,6 +3866,15 @@
     "position": "Midfielder",
     "nationality": "Netherlands",
     "dateOfBirth": "1999-03-05",
+    "teamId": "1912",
+    "competitionId": "DED"
+  },
+  {
+    "id": "263752",
+    "name": "Harrie Kuster",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2005-09-11",
     "teamId": "1912",
     "competitionId": "DED"
   },
@@ -3636,11 +3915,29 @@
     "competitionId": "DED"
   },
   {
+    "id": "117796",
+    "name": "Nökkvi Þórisson",
+    "position": "Forward",
+    "nationality": "Iceland",
+    "dateOfBirth": "1999-08-13",
+    "teamId": "1912",
+    "competitionId": "DED"
+  },
+  {
     "id": "202630",
     "name": "Emirhan Demircan",
     "position": "Forward",
     "nationality": "Turkey",
     "dateOfBirth": "2005-01-20",
+    "teamId": "1912",
+    "competitionId": "DED"
+  },
+  {
+    "id": "206792",
+    "name": "Fofin Turay",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2004-06-07",
     "teamId": "1912",
     "competitionId": "DED"
   },
@@ -3668,6 +3965,15 @@
     "position": "Goalkeeper",
     "nationality": "Argentina",
     "dateOfBirth": "2000-02-28",
+    "teamId": "1915",
+    "competitionId": "DED"
+  },
+  {
+    "id": "146672",
+    "name": "Nikolas Polster",
+    "position": "Goalkeeper",
+    "nationality": "Austria",
+    "dateOfBirth": "2002-07-07",
     "teamId": "1915",
     "competitionId": "DED"
   },
@@ -3726,6 +4032,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "150656",
+    "name": "Ahmetcan Kaplan",
+    "position": "Defender",
+    "nationality": "Turkey",
+    "dateOfBirth": "2003-01-16",
+    "teamId": "1915",
+    "competitionId": "DED"
+  },
+  {
     "id": "176767",
     "name": "Brayann Pereira",
     "position": "Defender",
@@ -3753,6 +4068,24 @@
     "competitionId": "DED"
   },
   {
+    "id": "250544",
+    "name": "Gabriel Brás",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "dateOfBirth": "2004-03-25",
+    "teamId": "1915",
+    "competitionId": "DED"
+  },
+  {
+    "id": "263672",
+    "name": "Almugera Kabar",
+    "position": "Defender",
+    "nationality": "Germany",
+    "dateOfBirth": "2006-06-06",
+    "teamId": "1915",
+    "competitionId": "DED"
+  },
+  {
     "id": "274049",
     "name": "Yousri Sbai",
     "position": "Defender",
@@ -3771,11 +4104,20 @@
     "competitionId": "DED"
   },
   {
-    "id": "286553",
-    "name": "Merijn van de Wiel",
-    "position": "Defender",
-    "nationality": "Netherlands",
-    "dateOfBirth": "2005-12-23",
+    "id": "399",
+    "name": "Dennis Geiger",
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "dateOfBirth": "1998-06-10",
+    "teamId": "1915",
+    "competitionId": "DED"
+  },
+  {
+    "id": "3444",
+    "name": "Dušan Tadić",
+    "position": "Midfielder",
+    "nationality": "Serbia",
+    "dateOfBirth": "1988-11-20",
     "teamId": "1915",
     "competitionId": "DED"
   },
@@ -3852,29 +4194,11 @@
     "competitionId": "DED"
   },
   {
-    "id": "187040",
-    "name": "Sami Ouaissa",
-    "position": "Midfielder",
-    "nationality": "Netherlands",
-    "dateOfBirth": "2004-10-02",
-    "teamId": "1915",
-    "competitionId": "DED"
-  },
-  {
     "id": "217935",
     "name": "Kodai Sano",
     "position": "Midfielder",
     "nationality": "Japan",
     "dateOfBirth": "2003-09-25",
-    "teamId": "1915",
-    "competitionId": "DED"
-  },
-  {
-    "id": "261522",
-    "name": "Adam Tahauia",
-    "position": "Midfielder",
-    "nationality": "Netherlands",
-    "dateOfBirth": "2005-07-21",
     "teamId": "1915",
     "competitionId": "DED"
   },
@@ -3888,11 +4212,11 @@
     "competitionId": "DED"
   },
   {
-    "id": "3444",
-    "name": "Dušan Tadić",
-    "position": "Forward",
-    "nationality": "Serbia",
-    "dateOfBirth": "1988-11-20",
+    "id": "286553",
+    "name": "Merijn van de Wiel",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2005-12-23",
     "teamId": "1915",
     "competitionId": "DED"
   },
@@ -3933,11 +4257,29 @@
     "competitionId": "DED"
   },
   {
+    "id": "187040",
+    "name": "Sami Ouaissa",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2004-10-02",
+    "teamId": "1915",
+    "competitionId": "DED"
+  },
+  {
     "id": "221343",
     "name": "Clement Bischoff",
     "position": "Forward",
     "nationality": "Denmark",
     "dateOfBirth": "2005-12-16",
+    "teamId": "1915",
+    "competitionId": "DED"
+  },
+  {
+    "id": "261522",
+    "name": "Adam Tahauia",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2005-07-21",
     "teamId": "1915",
     "competitionId": "DED"
   },
@@ -3969,6 +4311,15 @@
     "competitionId": "DED"
   },
   {
+    "id": "206501",
+    "name": "Kaylen Reitmaier",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "dateOfBirth": "2004-04-05",
+    "teamId": "1920",
+    "competitionId": "DED"
+  },
+  {
     "id": "251087",
     "name": "Ramazan Bayram",
     "position": "Goalkeeper",
@@ -3992,6 +4343,15 @@
     "position": "Defender",
     "nationality": "Spain",
     "dateOfBirth": "1994-06-09",
+    "teamId": "1920",
+    "competitionId": "DED"
+  },
+  {
+    "id": "145442",
+    "name": "Rodrigo Guth",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "dateOfBirth": "2000-11-10",
     "teamId": "1920",
     "competitionId": "DED"
   },
@@ -4140,24 +4500,6 @@
     "competitionId": "DED"
   },
   {
-    "id": "299640",
-    "name": "David Stockbrink",
-    "position": null,
-    "nationality": "Germany",
-    "dateOfBirth": "2006-10-30",
-    "teamId": "1920",
-    "competitionId": "DED"
-  },
-  {
-    "id": "298523",
-    "name": "Kevin van Burgsteden",
-    "position": null,
-    "nationality": "Netherlands",
-    "dateOfBirth": null,
-    "teamId": "1920",
-    "competitionId": "DED"
-  },
-  {
     "id": "9778",
     "name": "Filip Bednarek",
     "position": "Goalkeeper",
@@ -4172,6 +4514,15 @@
     "position": "Goalkeeper",
     "nationality": "Netherlands",
     "dateOfBirth": "2004-03-17",
+    "teamId": "6806",
+    "competitionId": "DED"
+  },
+  {
+    "id": "295316",
+    "name": "Rik Suur",
+    "position": "Goalkeeper",
+    "nationality": "Netherlands",
+    "dateOfBirth": "2006-11-14",
     "teamId": "6806",
     "competitionId": "DED"
   },
@@ -4284,20 +4635,20 @@
     "competitionId": "DED"
   },
   {
+    "id": "161068",
+    "name": "Shunsuke Mito",
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "dateOfBirth": "2002-09-28",
+    "teamId": "6806",
+    "competitionId": "DED"
+  },
+  {
     "id": "218262",
     "name": "Alwande Roaldsøy",
     "position": "Midfielder",
     "nationality": "Norway",
     "dateOfBirth": "2004-06-09",
-    "teamId": "6806",
-    "competitionId": "DED"
-  },
-  {
-    "id": "254376",
-    "name": "Ayoni Santos",
-    "position": "Midfielder",
-    "nationality": "Netherlands",
-    "dateOfBirth": "2005-07-18",
     "teamId": "6806",
     "competitionId": "DED"
   },
@@ -4347,15 +4698,6 @@
     "competitionId": "DED"
   },
   {
-    "id": "161068",
-    "name": "Shunsuke Mito",
-    "position": "Forward",
-    "nationality": "Japan",
-    "dateOfBirth": "2002-09-28",
-    "teamId": "6806",
-    "competitionId": "DED"
-  },
-  {
     "id": "214142",
     "name": "Joël Ideho",
     "position": "Forward",
@@ -4374,11 +4716,20 @@
     "competitionId": "DED"
   },
   {
-    "id": "299098",
-    "name": "Duncan Lindhout",
-    "position": null,
+    "id": "254376",
+    "name": "Ayoni Santos",
+    "position": "Forward",
     "nationality": "Netherlands",
-    "dateOfBirth": "2008-12-02",
+    "dateOfBirth": "2005-07-18",
+    "teamId": "6806",
+    "competitionId": "DED"
+  },
+  {
+    "id": "254668",
+    "name": "Andrej Kostić",
+    "position": "Forward",
+    "nationality": "Montenegro",
+    "dateOfBirth": "2007-01-16",
     "teamId": "6806",
     "competitionId": "DED"
   }
