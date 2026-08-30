@@ -788,7 +788,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "548",
     "awayTeamId": "516",
     "homeTeam": {
@@ -796,6 +796,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 35,
+        "xg": 1.49,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 309,
+        "duelsWon": 44,
+        "boxTouches": 23,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 65,
+        "xg": 1.22,
+        "shots": 13,
+        "shotsOnTarget": 2,
+        "accuratePasses": 591,
+        "duelsWon": 39,
+        "boxTouches": 19,
+        "fouls": 10,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Stade Louis II, Monaco"
   },
