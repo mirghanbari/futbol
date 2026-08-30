@@ -1176,7 +1176,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-28T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "677",
     "awayTeamId": "1920",
     "homeTeam": {
@@ -1222,14 +1222,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "670",
     "awayTeamId": "6806",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -1268,14 +1268,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "682",
     "awayTeamId": "718",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -1320,14 +1320,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "684",
     "awayTeamId": "1915",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "stats": {
       "home": {
@@ -1568,14 +1568,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-30T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1909",
     "awayTeamId": "666",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 0.47,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 274,
+        "duelsWon": 48,
+        "boxTouches": 8,
+        "fouls": 6,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 6
+      },
+      "away": {
+        "possession": 64,
+        "xg": 1.76,
+        "shots": 23,
+        "shotsOnTarget": 10,
+        "accuratePasses": 533,
+        "duelsWon": 42,
+        "boxTouches": 38,
+        "fouls": 14,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Kooi Stadium, Leeuwarden"
   },

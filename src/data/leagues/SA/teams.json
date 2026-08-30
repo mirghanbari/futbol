@@ -1,5 +1,13 @@
 [
   {
+    "id": "108",
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT",
+    "crest": "https://crests.football-data.org/108.png",
+    "competitionId": "SA"
+  },
+  {
     "id": "98",
     "name": "AC Milan",
     "shortName": "Milan",
@@ -13,6 +21,14 @@
     "shortName": "Juventus",
     "tla": "JUV",
     "crest": "https://crests.football-data.org/109.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "110",
+    "name": "SS Lazio",
+    "shortName": "Lazio",
+    "tla": "LAZ",
+    "crest": "https://crests.football-data.org/110.png",
     "competitionId": "SA"
   },
   {
@@ -37,14 +53,6 @@
     "shortName": "Roma",
     "tla": "ROM",
     "crest": "https://crests.football-data.org/100.png",
-    "competitionId": "SA"
-  },
-  {
-    "id": "108",
-    "name": "FC Internazionale Milano",
-    "shortName": "Inter",
-    "tla": "INT",
-    "crest": "https://crests.football-data.org/108.png",
     "competitionId": "SA"
   },
   {
@@ -80,27 +88,19 @@
     "competitionId": "SA"
   },
   {
-    "id": "104",
-    "name": "Cagliari Calcio",
-    "shortName": "Cagliari",
-    "tla": "CAG",
-    "crest": "https://crests.football-data.org/104.png",
-    "competitionId": "SA"
-  },
-  {
-    "id": "110",
-    "name": "SS Lazio",
-    "shortName": "Lazio",
-    "tla": "LAZ",
-    "crest": "https://crests.football-data.org/110.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "471",
     "name": "US Sassuolo Calcio",
     "shortName": "Sassuolo",
     "tla": "SAS",
     "crest": "https://crests.football-data.org/471.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "104",
+    "name": "Cagliari Calcio",
+    "shortName": "Cagliari",
+    "tla": "CAG",
+    "crest": "https://crests.football-data.org/104.png",
     "competitionId": "SA"
   },
   {

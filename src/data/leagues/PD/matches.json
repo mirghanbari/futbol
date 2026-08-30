@@ -1232,14 +1232,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-29T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "88",
     "awayTeamId": "90",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -1288,14 +1288,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-29T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "92",
     "awayTeamId": "80",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -1344,14 +1344,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-29T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "559",
     "awayTeamId": "78",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "stats": {
       "home": {
@@ -1456,14 +1456,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-30T17:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "560",
     "awayTeamId": "95",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 1.42,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 380,
+        "duelsWon": 46,
+        "boxTouches": 14,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 56,
+        "xg": 1.33,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 478,
+        "duelsWon": 47,
+        "boxTouches": 20,
+        "fouls": 5,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 3
+      }
     }
   },
   {
@@ -1473,14 +1501,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-30T19:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "558",
     "awayTeamId": "77",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Balaidos, Vigo",
     "broadcasts": [

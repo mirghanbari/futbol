@@ -119,6 +119,23 @@
     "goalDifference": 4
   },
   {
+    "id": "666",
+    "name": "FC Twente '65",
+    "shortName": "Twente",
+    "tla": "TWE",
+    "crest": "https://crests.football-data.org/666.png",
+    "competitionId": "DED",
+    "position": 8,
+    "playedGames": 3,
+    "won": 2,
+    "draw": 0,
+    "lost": 1,
+    "points": 6,
+    "goalsFor": 7,
+    "goalsAgainst": 3,
+    "goalDifference": 4
+  },
+  {
     "id": "670",
     "name": "SBV Excelsior",
     "shortName": "Excelsior",
@@ -142,7 +159,7 @@
     "tla": "GRO",
     "crest": "https://crests.football-data.org/677.png",
     "competitionId": "DED",
-    "position": 9,
+    "position": 10,
     "playedGames": 4,
     "won": 2,
     "draw": 0,
@@ -159,7 +176,7 @@
     "tla": "HEE",
     "crest": "https://crests.football-data.org/673.png",
     "competitionId": "DED",
-    "position": 10,
+    "position": 11,
     "playedGames": 4,
     "won": 1,
     "draw": 2,
@@ -176,7 +193,7 @@
     "tla": "SPA",
     "crest": "https://crests.football-data.org/6806.png",
     "competitionId": "DED",
-    "position": 11,
+    "position": 12,
     "playedGames": 4,
     "won": 1,
     "draw": 1,
@@ -185,23 +202,6 @@
     "goalsFor": 7,
     "goalsAgainst": 7,
     "goalDifference": 0
-  },
-  {
-    "id": "666",
-    "name": "FC Twente '65",
-    "shortName": "Twente",
-    "tla": "TWE",
-    "crest": "https://crests.football-data.org/666.png",
-    "competitionId": "DED",
-    "position": 12,
-    "playedGames": 2,
-    "won": 1,
-    "draw": 0,
-    "lost": 1,
-    "points": 3,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1
   },
   {
     "id": "684",
@@ -296,13 +296,13 @@
     "crest": "https://crests.football-data.org/1909.png",
     "competitionId": "DED",
     "position": 18,
-    "playedGames": 3,
+    "playedGames": 4,
     "won": 0,
     "draw": 0,
-    "lost": 3,
+    "lost": 4,
     "points": 0,
-    "goalsFor": 3,
-    "goalsAgainst": 12,
-    "goalDifference": -9
+    "goalsFor": 4,
+    "goalsAgainst": 16,
+    "goalDifference": -12
   }
 ]

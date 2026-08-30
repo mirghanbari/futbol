@@ -1174,14 +1174,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7822",
     "awayTeamId": "5530",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -1220,14 +1220,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "712",
     "awayTeamId": "5575",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -1266,14 +1266,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-29T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5527",
     "awayTeamId": "503",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "stats": {
       "home": {
@@ -1358,7 +1358,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-30T17:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "6618",
     "awayTeamId": "583",
     "homeTeam": {
@@ -1366,6 +1366,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 0.77,
+        "shots": 14,
+        "shotsOnTarget": 2,
+        "accuratePasses": 353,
+        "duelsWon": 75,
+        "boxTouches": 24,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 4
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.28,
+        "shots": 6,
+        "shotsOnTarget": 5,
+        "accuratePasses": 168,
+        "duelsWon": 60,
+        "boxTouches": 7,
+        "fouls": 18,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Estádio Municipal de Rio Maior, Rio Maior"
   },
@@ -1376,7 +1404,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-30T19:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "5531",
     "awayTeamId": "5533",
     "homeTeam": {
@@ -1422,24 +1450,6 @@
       "goals": 0
     },
     "venue": "Estádio Municipal de Braga, Braga"
-  },
-  {
-    "id": "567298",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-09-04T19:15:00Z",
-    "status": "scheduled",
-    "homeTeamId": "498",
-    "awayTeamId": "5529",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estádio José Alvalade, Lisbon"
   },
   {
     "id": "567299",
@@ -1512,6 +1522,24 @@
       "goals": 0
     },
     "venue": "Estádio do Marítimo, Funchal"
+  },
+  {
+    "id": "567298",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-09-05T19:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "498",
+    "awayTeamId": "5529",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio José Alvalade, Lisbon"
   },
   {
     "id": "567300",
@@ -1591,7 +1619,7 @@
     "season": "2026",
     "matchday": 3,
     "stage": "regular",
-    "utcDate": "2026-09-09T19:15:00Z",
+    "utcDate": "2026-09-09T19:45:00Z",
     "status": "scheduled",
     "homeTeamId": "583",
     "awayTeamId": "1903",

@@ -466,14 +466,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "576",
     "awayTeamId": "546",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -512,14 +512,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "525",
     "awayTeamId": "531",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -558,14 +558,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "523",
     "awayTeamId": "533",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -604,14 +604,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "519",
     "awayTeamId": "532",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "stats": {
       "home": {
@@ -650,14 +650,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "512",
     "awayTeamId": "511",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -788,11 +788,11 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "548",
     "awayTeamId": "516",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0

@@ -1,5 +1,13 @@
 [
   {
+    "id": "548",
+    "name": "AS Monaco FC",
+    "shortName": "Monaco",
+    "tla": "ASM",
+    "crest": "https://crests.football-data.org/548.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "1045",
     "name": "Paris FC",
     "shortName": "Paris FC",
@@ -40,14 +48,6 @@
     "competitionId": "FL1"
   },
   {
-    "id": "516",
-    "name": "Olympique de Marseille",
-    "shortName": "Marseille",
-    "tla": "MAR",
-    "crest": "https://crests.football-data.org/516.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "546",
     "name": "Racing Club de Lens",
     "shortName": "RC Lens",
@@ -56,11 +56,11 @@
     "competitionId": "FL1"
   },
   {
-    "id": "548",
-    "name": "AS Monaco FC",
-    "shortName": "Monaco",
-    "tla": "ASM",
-    "crest": "https://crests.football-data.org/548.png",
+    "id": "516",
+    "name": "Olympique de Marseille",
+    "shortName": "Marseille",
+    "tla": "MAR",
+    "crest": "https://crests.football-data.org/516.png",
     "competitionId": "FL1"
   },
   {

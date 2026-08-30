@@ -586,14 +586,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "471",
     "awayTeamId": "586",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -638,14 +638,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5911",
     "awayTeamId": "115",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "stats": {
       "home": {
@@ -690,14 +690,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "99",
     "awayTeamId": "470",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "stats": {
       "home": {
@@ -746,11 +746,11 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "109",
     "awayTeamId": "112",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -798,7 +798,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T16:30:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "113",
     "awayTeamId": "7397",
     "homeTeam": {
@@ -806,6 +806,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 1.35,
+        "shots": 13,
+        "shotsOnTarget": 2,
+        "accuratePasses": 385,
+        "duelsWon": 35,
+        "boxTouches": 30,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 9,
+        "saves": 4
+      },
+      "away": {
+        "possession": 58,
+        "xg": 1.03,
+        "shots": 21,
+        "shotsOnTarget": 6,
+        "accuratePasses": 555,
+        "duelsWon": 45,
+        "boxTouches": 40,
+        "fouls": 5,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Stadio Diego Armando Maradona, Napoli",
     "broadcasts": [
@@ -826,11 +854,11 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "110",
     "awayTeamId": "107",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -854,14 +882,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "104",
     "awayTeamId": "108",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Unipol Domus, Cagliari",
     "broadcasts": [
