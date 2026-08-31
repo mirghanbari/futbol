@@ -1557,14 +1557,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-31T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "79",
     "awayTeamId": "82",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.67,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 299,
+        "duelsWon": 50,
+        "boxTouches": 12,
+        "fouls": 17,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 55,
+        "xg": 0.65,
+        "shots": 11,
+        "shotsOnTarget": 1,
+        "accuratePasses": 374,
+        "duelsWon": 54,
+        "boxTouches": 18,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 1
+      }
     },
     "venue": "El Sadar, Pamplona",
     "broadcasts": [
@@ -1585,14 +1613,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-31T19:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "81",
     "awayTeamId": "87",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [

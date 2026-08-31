@@ -962,14 +962,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-31T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5890",
     "awayTeamId": "100",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 0.74,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 293,
+        "duelsWon": 37,
+        "boxTouches": 13,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 64,
+        "xg": 3.35,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 596,
+        "duelsWon": 59,
+        "boxTouches": 41,
+        "fouls": 8,
+        "corners": 1,
+        "offsides": 9,
+        "saves": 2
+      }
     },
     "venue": "Via Del Mare, Lecce",
     "broadcasts": [
@@ -986,14 +1014,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-31T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "102",
     "awayTeamId": "103",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 0.16,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 409,
+        "duelsWon": 29,
+        "boxTouches": 11,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 58,
+        "xg": 1.35,
+        "shots": 16,
+        "shotsOnTarget": 3,
+        "accuratePasses": 620,
+        "duelsWon": 39,
+        "boxTouches": 18,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 4,
+        "saves": 1
+      }
     },
     "venue": "New Balance Arena, Bergamo",
     "broadcasts": [

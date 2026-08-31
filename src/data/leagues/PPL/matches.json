@@ -1450,14 +1450,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-31T19:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1903",
     "awayTeamId": "582",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 2.03,
+        "shots": 25,
+        "shotsOnTarget": 8,
+        "accuratePasses": 549,
+        "duelsWon": 47,
+        "boxTouches": 49,
+        "fouls": 14,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 34,
+        "xg": 0.36,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 243,
+        "duelsWon": 51,
+        "boxTouches": 8,
+        "fouls": 12,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 6
+      }
     },
     "venue": "Estádio da Luz, Lisbon"
   },
@@ -1468,14 +1496,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-08-31T19:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5613",
     "awayTeamId": "5543",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 0.83,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 396,
+        "duelsWon": 52,
+        "boxTouches": 22,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 5,
+        "saves": 2
+      },
+      "away": {
+        "possession": 46,
+        "xg": 0.23,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 304,
+        "duelsWon": 44,
+        "boxTouches": 7,
+        "fouls": 18,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Estádio Municipal de Braga, Braga"
   },

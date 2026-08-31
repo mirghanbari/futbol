@@ -1046,14 +1046,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-31T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "58",
     "awayTeamId": "57",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 0.31,
+        "shots": 7,
+        "shotsOnTarget": 0,
+        "accuratePasses": 272,
+        "duelsWon": 38,
+        "boxTouches": 17,
+        "fouls": 17,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 61,
+        "xg": 1.05,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 462,
+        "duelsWon": 51,
+        "boxTouches": 21,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 8,
+        "saves": 0
+      }
     },
     "venue": "Villa Park, Birmingham",
     "broadcasts": [
