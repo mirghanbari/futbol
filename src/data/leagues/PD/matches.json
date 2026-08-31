@@ -1456,7 +1456,7 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-30T17:30:00Z",
-    "status": "finished",
+    "status": "in-play",
     "homeTeamId": "560",
     "awayTeamId": "95",
     "homeTeam": {
@@ -1501,14 +1501,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-30T19:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "558",
     "awayTeamId": "77",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 0
     },
     "stats": {
       "home": {
@@ -1892,12 +1892,29 @@
     ]
   },
   {
+    "id": "564668",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-09-13T00:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "82",
+    "awayTeamId": "560",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
     "id": "564669",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-09-11T19:00:00Z",
+    "utcDate": "2026-09-13T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "559",
     "awayTeamId": "95",
@@ -1921,7 +1938,7 @@
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-09-12T12:00:00Z",
+    "utcDate": "2026-09-13T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "5335",
     "awayTeamId": "263",
@@ -1940,12 +1957,60 @@
     ]
   },
   {
+    "id": "564671",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-09-13T00:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "94",
+    "awayTeamId": "90",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio de la Cerámica, Villarreal",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564672",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-09-13T00:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "558",
+    "awayTeamId": "84",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Balaidos, Vigo",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "564673",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-09-12T14:15:00Z",
+    "utcDate": "2026-09-13T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "79",
     "awayTeamId": "80",
@@ -1964,12 +2029,60 @@
     ]
   },
   {
+    "id": "564674",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-09-13T00:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "92",
+    "awayTeamId": "78",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Reale Arena, San Sebastian",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564675",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-09-13T00:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "88",
+    "awayTeamId": "81",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadi Ciutat de València, Manises",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "564676",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-09-12T16:30:00Z",
+    "utcDate": "2026-09-13T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "77",
     "awayTeamId": "285",
@@ -1993,7 +2106,7 @@
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-09-12T19:00:00Z",
+    "utcDate": "2026-09-13T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "86",
     "awayTeamId": "87",
@@ -2012,125 +2125,12 @@
     ]
   },
   {
-    "id": "564672",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-09-13T12:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "558",
-    "awayTeamId": "84",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Balaidos, Vigo",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564675",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-09-13T14:15:00Z",
-    "status": "scheduled",
-    "homeTeamId": "88",
-    "awayTeamId": "81",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estadi Ciutat de València, Manises",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564668",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-09-13T16:30:00Z",
-    "status": "scheduled",
-    "homeTeamId": "82",
-    "awayTeamId": "560",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564674",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-09-13T19:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "92",
-    "awayTeamId": "78",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Reale Arena, San Sebastian",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564671",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-09-14T19:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "94",
-    "awayTeamId": "90",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estadio de la Cerámica, Villarreal",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "564678",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-09-15T17:00:00Z",
+    "utcDate": "2026-09-16T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "87",
     "awayTeamId": "80",
@@ -2149,12 +2149,29 @@
     ]
   },
   {
+    "id": "564679",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-09-16T00:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "560",
+    "awayTeamId": "559",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
     "id": "564680",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-09-15T18:00:00Z",
+    "utcDate": "2026-09-16T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "263",
     "awayTeamId": "95",
@@ -2178,7 +2195,7 @@
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-09-15T19:30:00Z",
+    "utcDate": "2026-09-16T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "285",
     "awayTeamId": "86",
@@ -2197,21 +2214,28 @@
     ]
   },
   {
-    "id": "564679",
+    "id": "564683",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-09-16T17:00:00Z",
+    "utcDate": "2026-09-16T00:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "560",
-    "awayTeamId": "559",
+    "homeTeamId": "84",
+    "awayTeamId": "94",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
-    }
+    },
+    "venue": "La Rosaleda, Malaga",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "564684",
@@ -2219,7 +2243,7 @@
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-09-16T17:00:00Z",
+    "utcDate": "2026-09-16T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "78",
     "awayTeamId": "79",
@@ -2243,7 +2267,7 @@
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-09-16T19:30:00Z",
+    "utcDate": "2026-09-16T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "88",
     "awayTeamId": "77",
@@ -2262,36 +2286,12 @@
     ]
   },
   {
-    "id": "564687",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-09-16T19:30:00Z",
-    "status": "scheduled",
-    "homeTeamId": "81",
-    "awayTeamId": "5335",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Spotify Camp Nou, Barcelona",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "564686",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-09-17T17:00:00Z",
+    "utcDate": "2026-09-16T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "90",
     "awayTeamId": "82",
@@ -2310,86 +2310,14 @@
     ]
   },
   {
-    "id": "564683",
+    "id": "564687",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-09-17T19:30:00Z",
+    "utcDate": "2026-09-16T00:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "84",
-    "awayTeamId": "94",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "La Rosaleda, Malaga",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564693",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 7,
-    "stage": "regular",
-    "utcDate": "2026-09-19T12:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "79",
-    "awayTeamId": "87",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "El Sadar, Pamplona",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564691",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 7,
-    "stage": "regular",
-    "utcDate": "2026-09-19T14:15:00Z",
-    "status": "scheduled",
-    "homeTeamId": "77",
-    "awayTeamId": "263",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "San Mamés, Bilbao",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564694",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 7,
-    "stage": "regular",
-    "utcDate": "2026-09-19T16:30:00Z",
-    "status": "scheduled",
-    "homeTeamId": "558",
+    "homeTeamId": "81",
     "awayTeamId": "5335",
     "homeTeam": {
       "goals": 0
@@ -2397,7 +2325,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Balaidos, Vigo",
+    "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
       {
         "name": "ESPN+",
@@ -2406,22 +2334,22 @@
     ]
   },
   {
-    "id": "564690",
+    "id": "564688",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-09-19T19:00:00Z",
+    "utcDate": "2026-09-20T00:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "559",
-    "awayTeamId": "81",
+    "homeTeamId": "78",
+    "awayTeamId": "86",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
+    "venue": "Riyadh Air Metropolitano, Madrid",
     "broadcasts": [
       {
         "name": "ESPN+",
@@ -2454,6 +2382,54 @@
     ]
   },
   {
+    "id": "564690",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-09-20T00:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "559",
+    "awayTeamId": "81",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564691",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-09-20T00:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "77",
+    "awayTeamId": "263",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "San Mamés, Bilbao",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "564692",
     "competitionId": "PD",
     "season": "2026",
@@ -2478,22 +2454,22 @@
     ]
   },
   {
-    "id": "564697",
+    "id": "564693",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-09-20T12:00:00Z",
+    "utcDate": "2026-09-20T00:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "82",
-    "awayTeamId": "84",
+    "homeTeamId": "79",
+    "awayTeamId": "87",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Estadio Coliseum, Getafe",
+    "venue": "El Sadar, Pamplona",
     "broadcasts": [
       {
         "name": "ESPN+",
@@ -2502,22 +2478,22 @@
     ]
   },
   {
-    "id": "564688",
+    "id": "564694",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-09-20T14:15:00Z",
+    "utcDate": "2026-09-20T00:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "78",
-    "awayTeamId": "86",
+    "homeTeamId": "558",
+    "awayTeamId": "5335",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Riyadh Air Metropolitano, Madrid",
+    "venue": "Balaidos, Vigo",
     "broadcasts": [
       {
         "name": "ESPN+",
@@ -2531,7 +2507,7 @@
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-09-20T16:30:00Z",
+    "utcDate": "2026-09-20T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "560",
     "awayTeamId": "90",
@@ -2548,7 +2524,7 @@
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-09-20T16:30:00Z",
+    "utcDate": "2026-09-20T00:00:00Z",
     "status": "scheduled",
     "homeTeamId": "94",
     "awayTeamId": "88",
@@ -2559,6 +2535,30 @@
       "goals": 0
     },
     "venue": "Estadio de la Cerámica, Villarreal",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564697",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-09-20T00:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "82",
+    "awayTeamId": "84",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio Coliseum, Getafe",
     "broadcasts": [
       {
         "name": "ESPN+",
