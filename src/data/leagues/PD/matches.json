@@ -1557,11 +1557,11 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-31T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "79",
     "awayTeamId": "82",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -1613,14 +1613,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-08-31T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "81",
     "awayTeamId": "87",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 68,
+        "xg": 3.04,
+        "shots": 26,
+        "shotsOnTarget": 9,
+        "accuratePasses": 585,
+        "duelsWon": 61,
+        "boxTouches": 58,
+        "fouls": 4,
+        "corners": 9,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 32,
+        "xg": 1.21,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 212,
+        "duelsWon": 48,
+        "boxTouches": 19,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 5
+      }
     },
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [

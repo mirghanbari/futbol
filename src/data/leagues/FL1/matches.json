@@ -1152,58 +1152,22 @@
     "venue": "Stade Francis-Le Blé, Brest"
   },
   {
-    "id": "559676",
+    "id": "559682",
     "competitionId": "FL1",
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-09-19T00:00:00Z",
+    "utcDate": "2026-09-18T18:45:00Z",
     "status": "scheduled",
-    "homeTeamId": "519",
-    "awayTeamId": "512",
+    "homeTeamId": "548",
+    "awayTeamId": "546",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade de l'Abbé-Deschamps, Auxerre"
-  },
-  {
-    "id": "559677",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-09-19T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "535",
-    "awayTeamId": "525",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stade Marie-Marvingt, Le Mans"
-  },
-  {
-    "id": "559678",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-09-19T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "522",
-    "awayTeamId": "521",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Allianz Riviera, Nice"
+    "venue": "Stade Louis II, Monaco"
   },
   {
     "id": "559679",
@@ -1211,7 +1175,7 @@
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-09-19T00:00:00Z",
+    "utcDate": "2026-09-19T15:15:00Z",
     "status": "scheduled",
     "homeTeamId": "1045",
     "awayTeamId": "576",
@@ -1224,12 +1188,30 @@
     "venue": "Stade Jean Bouin, Paris"
   },
   {
+    "id": "559677",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-09-19T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "535",
+    "awayTeamId": "525",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stade Marie-Marvingt, Le Mans"
+  },
+  {
     "id": "559680",
     "competitionId": "FL1",
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-09-19T00:00:00Z",
+    "utcDate": "2026-09-19T18:45:00Z",
     "status": "scheduled",
     "homeTeamId": "511",
     "awayTeamId": "533",
@@ -1247,7 +1229,7 @@
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-09-19T00:00:00Z",
+    "utcDate": "2026-09-19T18:45:00Z",
     "status": "scheduled",
     "homeTeamId": "532",
     "awayTeamId": "531",
@@ -1260,30 +1242,12 @@
     "venue": "Stade Raymond Kopa, Angers"
   },
   {
-    "id": "559682",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-09-19T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "548",
-    "awayTeamId": "546",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stade Louis II, Monaco"
-  },
-  {
     "id": "559683",
     "competitionId": "FL1",
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-09-19T00:00:00Z",
+    "utcDate": "2026-09-19T18:45:00Z",
     "status": "scheduled",
     "homeTeamId": "523",
     "awayTeamId": "529",
@@ -1294,6 +1258,42 @@
       "goals": 0
     },
     "venue": "Groupama Stadium, Lyon"
+  },
+  {
+    "id": "559676",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-09-20T13:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "519",
+    "awayTeamId": "512",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stade de l'Abbé-Deschamps, Auxerre"
+  },
+  {
+    "id": "559678",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-09-20T15:15:00Z",
+    "status": "scheduled",
+    "homeTeamId": "522",
+    "awayTeamId": "521",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Riviera, Nice"
   },
   {
     "id": "559675",

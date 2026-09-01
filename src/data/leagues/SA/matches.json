@@ -962,14 +962,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-31T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5890",
     "awayTeamId": "100",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
     },
     "stats": {
       "home": {
@@ -1014,11 +1014,11 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-31T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "102",
     "awayTeamId": "103",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -1257,7 +1257,7 @@
     "season": "2026",
     "matchday": 3,
     "stage": "regular",
-    "utcDate": "2026-09-07T16:00:00Z",
+    "utcDate": "2026-09-07T16:30:00Z",
     "status": "scheduled",
     "homeTeamId": "104",
     "awayTeamId": "5890",
@@ -1348,22 +1348,22 @@
     ]
   },
   {
-    "id": "558608",
+    "id": "558600",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-12T16:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "471",
-    "awayTeamId": "109",
+    "homeTeamId": "110",
+    "awayTeamId": "98",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Mapei Stadium, Reggio Emilia",
+    "venue": "Olimpico, Roma",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -1388,54 +1388,6 @@
       "goals": 0
     },
     "venue": "New Balance Arena, Bergamo",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558603",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 4,
-    "stage": "regular",
-    "utcDate": "2026-09-13T10:30:00Z",
-    "status": "scheduled",
-    "homeTeamId": "586",
-    "awayTeamId": "100",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadio Olimpico Grande Torino, Torino",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558602",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 4,
-    "stage": "regular",
-    "utcDate": "2026-09-13T13:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "7397",
-    "awayTeamId": "112",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Giuseppe Sinigaglia, Como",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -1492,22 +1444,70 @@
     ]
   },
   {
-    "id": "558600",
+    "id": "558608",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T18:45:00Z",
     "status": "scheduled",
-    "homeTeamId": "110",
-    "awayTeamId": "98",
+    "homeTeamId": "471",
+    "awayTeamId": "109",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Olimpico, Roma",
+    "venue": "Mapei Stadium, Reggio Emilia",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558602",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "regular",
+    "utcDate": "2026-09-14T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "7397",
+    "awayTeamId": "112",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Giuseppe Sinigaglia, Como",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558603",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "regular",
+    "utcDate": "2026-09-14T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "586",
+    "awayTeamId": "100",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Olimpico Grande Torino, Torino",
     "broadcasts": [
       {
         "name": "Paramount+",
