@@ -483,7 +483,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "MHPArena, Stuttgart"
+    "venue": "MHPArena, Stuttgart",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565785",
@@ -501,7 +507,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Weserstadion, Bremen"
+    "venue": "Weserstadion, Bremen",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565787",
@@ -519,7 +531,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "PreZero Arena, Sinsheim"
+    "venue": "PreZero Arena, Sinsheim",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565790",
@@ -537,7 +555,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "BayArena, Leverkusen"
+    "venue": "BayArena, Leverkusen",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565792",
@@ -555,7 +579,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "BORUSSIA-PARK, Mönchengladbach"
+    "venue": "BORUSSIA-PARK, Mönchengladbach",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565793",
@@ -573,7 +603,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Home Deluxe Arena, Paderborn"
+    "venue": "Home Deluxe Arena, Paderborn",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565789",
@@ -591,7 +627,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Veltins Arena, Gelsenkirchen"
+    "venue": "Veltins Arena, Gelsenkirchen",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "565788",
@@ -609,7 +651,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Volksparkstadion, Hamburg Norderstedt"
+    "venue": "Volksparkstadion, Hamburg Norderstedt",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565786",
@@ -627,7 +675,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Deutsche Bank Park, Frankfurt"
+    "venue": "Deutsche Bank Park, Frankfurt",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565797",
@@ -645,7 +699,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stadion An der Alten Försterei, Berlin"
+    "venue": "Stadion An der Alten Försterei, Berlin",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565794",

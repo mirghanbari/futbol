@@ -1950,30 +1950,6 @@
     "venue": "Stadion Woudestein, Rotterdam"
   },
   {
-    "id": "558893",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-09-13T12:30:00Z",
-    "status": "scheduled",
-    "homeTeamId": "674",
-    "awayTeamId": "6806",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Philips Stadion, Eindhoven",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558895",
     "competitionId": "DED",
     "season": "2026",
@@ -2008,6 +1984,30 @@
       "goals": 0
     },
     "venue": "MAC³PARK Stadion, Zwolle",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558893",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-09-13T18:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "674",
+    "awayTeamId": "6806",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Philips Stadion, Eindhoven",
     "broadcasts": [
       {
         "name": "ESPN+",
@@ -2160,22 +2160,28 @@
     ]
   },
   {
-    "id": "558883",
+    "id": "558882",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-20T12:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "1915",
-    "awayTeamId": "718",
+    "homeTeamId": "666",
+    "awayTeamId": "674",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Goffertstadion, Nijmegen"
+    "venue": "De Grolsch Veste, Enschede",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "558884",
@@ -2202,28 +2208,22 @@
     ]
   },
   {
-    "id": "558882",
+    "id": "558883",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-20T14:45:00Z",
     "status": "scheduled",
-    "homeTeamId": "666",
-    "awayTeamId": "674",
+    "homeTeamId": "1915",
+    "awayTeamId": "718",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "De Grolsch Veste, Enschede",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
+    "venue": "Goffertstadion, Nijmegen"
   },
   {
     "id": "558881",
