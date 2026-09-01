@@ -1842,14 +1842,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-01T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1081",
     "awayTeamId": "387",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Deepdale, Preston"
   },
@@ -1860,11 +1860,11 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-01T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "563",
     "awayTeamId": "76",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -1884,7 +1884,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-01T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1126",
     "awayTeamId": "59",
     "homeTeam": {
@@ -1902,14 +1902,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-01T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "356",
     "awayTeamId": "60",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Bramall Lane, Sheffield"
   },
@@ -1920,14 +1920,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-01T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "325",
     "awayTeamId": "342",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Fratton Park, Portsmouth"
   },
@@ -1938,11 +1938,11 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-01T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "72",
     "awayTeamId": "346",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -1956,11 +1956,11 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-01T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "70",
     "awayTeamId": "68",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -1980,7 +1980,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-01T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "332",
     "awayTeamId": "340",
     "homeTeam": {
