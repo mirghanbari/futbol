@@ -2390,6 +2390,30 @@
     ]
   },
   {
+    "id": "564692",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-09-18T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "80",
+    "awayTeamId": "285",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "RCDE Stadium, Barcelona",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "564693",
     "competitionId": "PD",
     "season": "2026",
@@ -2486,54 +2510,6 @@
     ]
   },
   {
-    "id": "564689",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 7,
-    "stage": "regular",
-    "utcDate": "2026-09-20T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "95",
-    "awayTeamId": "92",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Mestalla Stadium, Manises",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564692",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 7,
-    "stage": "regular",
-    "utcDate": "2026-09-20T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "80",
-    "awayTeamId": "285",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "RCDE Stadium, Barcelona",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "564697",
     "competitionId": "PD",
     "season": "2026",
@@ -2615,6 +2591,30 @@
       "goals": 0
     },
     "venue": "Estadio de la Cerámica, Villarreal",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564689",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-09-20T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "95",
+    "awayTeamId": "92",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Mestalla Stadium, Manises",
     "broadcasts": [
       {
         "name": "ESPN+",
