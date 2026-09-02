@@ -2108,24 +2108,6 @@
     "venue": "Villa Park, Birmingham"
   },
   {
-    "id": "560612",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 8,
-    "stage": "regular",
-    "utcDate": "2026-10-24T14:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "64",
-    "awayTeamId": "397",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Anfield, Liverpool"
-  },
-  {
     "id": "560616",
     "competitionId": "PL",
     "season": "2026",
@@ -2178,6 +2160,24 @@
       "goals": 0
     },
     "venue": "Stamford Bridge, London"
+  },
+  {
+    "id": "560612",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "regular",
+    "utcDate": "2026-10-25T14:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "64",
+    "awayTeamId": "397",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Anfield, Liverpool"
   },
   {
     "id": "560613",
@@ -2383,7 +2383,7 @@
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-11-01T14:00:00Z",
+    "utcDate": "2026-10-31T20:00:00Z",
     "status": "scheduled",
     "homeTeamId": "58",
     "awayTeamId": "63",
