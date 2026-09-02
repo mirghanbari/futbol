@@ -2228,14 +2228,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-02T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "384",
     "awayTeamId": "404",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "The Den, London",
     "broadcasts": [
@@ -2252,11 +2252,11 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-02T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "69",
     "awayTeamId": "715",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -2276,7 +2276,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-02T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "74",
     "awayTeamId": "348",
     "homeTeam": {
@@ -2294,14 +2294,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-02T19:00:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "328",
     "awayTeamId": "343",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Turf Moor, Burnley",
     "broadcasts": [
