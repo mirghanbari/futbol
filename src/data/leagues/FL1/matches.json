@@ -834,14 +834,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-03T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "511",
     "awayTeamId": "521",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 3.41,
+        "shots": 24,
+        "shotsOnTarget": 10,
+        "accuratePasses": 450,
+        "duelsWon": 36,
+        "boxTouches": 39,
+        "fouls": 16,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 5
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.06,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 398,
+        "duelsWon": 51,
+        "boxTouches": 12,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 9
+      }
     },
     "venue": "Stadium Municipal de Toulouse, Toulouse"
   },
