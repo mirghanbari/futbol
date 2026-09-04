@@ -474,14 +474,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-09-04T18:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "10",
     "awayTeamId": "1",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 3.04,
+        "shots": 22,
+        "shotsOnTarget": 8,
+        "accuratePasses": 450,
+        "duelsWon": 43,
+        "boxTouches": 37,
+        "fouls": 5,
+        "corners": 10,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 42,
+        "xg": 2.57,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 316,
+        "duelsWon": 38,
+        "boxTouches": 23,
+        "fouls": 6,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "MHPArena, Stuttgart",
     "broadcasts": [

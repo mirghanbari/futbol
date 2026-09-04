@@ -558,7 +558,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-28T19:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "354",
     "awayTeamId": "65",
     "homeTeam": {
@@ -610,7 +610,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T11:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "64",
     "awayTeamId": "351",
     "homeTeam": {
@@ -666,7 +666,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T14:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "1044",
     "awayTeamId": "62",
     "homeTeam": {
@@ -718,7 +718,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T14:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "1076",
     "awayTeamId": "322",
     "homeTeam": {
@@ -774,7 +774,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "73",
     "awayTeamId": "67",
     "homeTeam": {
@@ -830,7 +830,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T13:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "71",
     "awayTeamId": "63",
     "homeTeam": {
@@ -882,7 +882,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T13:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "61",
     "awayTeamId": "397",
     "homeTeam": {
@@ -934,7 +934,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T13:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "341",
     "awayTeamId": "402",
     "homeTeam": {
@@ -990,7 +990,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T15:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "66",
     "awayTeamId": "349",
     "homeTeam": {
@@ -1046,7 +1046,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-31T19:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "58",
     "awayTeamId": "57",
     "homeTeam": {
@@ -1102,14 +1102,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-04T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "349",
     "awayTeamId": "64",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 0.73,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 356,
+        "duelsWon": 40,
+        "boxTouches": 16,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 5,
+        "saves": 5
+      },
+      "away": {
+        "possession": 55,
+        "xg": 0.66,
+        "shots": 10,
+        "shotsOnTarget": 7,
+        "accuratePasses": 462,
+        "duelsWon": 46,
+        "boxTouches": 20,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 5
+      }
     },
     "venue": "Portman Road, Ipswich",
     "broadcasts": [

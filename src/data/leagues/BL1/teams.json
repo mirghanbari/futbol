@@ -1,13 +1,5 @@
 [
   {
-    "id": "1",
-    "name": "1. FC Köln",
-    "shortName": "1. FC Köln",
-    "tla": "KOE",
-    "crest": "https://crests.football-data.org/1.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "5",
     "name": "FC Bayern München",
     "shortName": "Bayern",
@@ -56,6 +48,22 @@
     "competitionId": "BL1"
   },
   {
+    "id": "10",
+    "name": "VfB Stuttgart",
+    "shortName": "Stuttgart",
+    "tla": "VFB",
+    "crest": "https://crests.football-data.org/10.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "1",
+    "name": "1. FC Köln",
+    "shortName": "1. FC Köln",
+    "tla": "KOE",
+    "crest": "https://crests.football-data.org/1.png",
+    "competitionId": "BL1"
+  },
+  {
     "id": "28",
     "name": "1. FC Union Berlin",
     "shortName": "Union Berlin",
@@ -85,14 +93,6 @@
     "shortName": "SC Paderborn",
     "tla": "SCP",
     "crest": "https://crests.football-data.org/29.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "10",
-    "name": "VfB Stuttgart",
-    "shortName": "Stuttgart",
-    "tla": "VFB",
-    "crest": "https://crests.football-data.org/10.png",
     "competitionId": "BL1"
   },
   {
