@@ -1166,6 +1166,10 @@
     "venue": "The City Ground, Nottingham",
     "broadcasts": [
       {
+        "name": "NBCSN",
+        "kind": "tv"
+      },
+      {
         "name": "Peacock",
         "kind": "streaming"
       }
