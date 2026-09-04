@@ -534,7 +534,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-28T18:45:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "98",
     "awayTeamId": "454",
     "homeTeam": {
@@ -586,7 +586,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "471",
     "awayTeamId": "586",
     "homeTeam": {
@@ -638,7 +638,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "5911",
     "awayTeamId": "115",
     "homeTeam": {
@@ -690,7 +690,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T16:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "99",
     "awayTeamId": "470",
     "homeTeam": {
@@ -746,7 +746,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-29T18:45:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "109",
     "awayTeamId": "112",
     "homeTeam": {
@@ -798,7 +798,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T16:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "113",
     "awayTeamId": "7397",
     "homeTeam": {
@@ -854,7 +854,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-30T18:45:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "110",
     "awayTeamId": "107",
     "homeTeam": {
@@ -962,7 +962,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-31T16:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "5890",
     "awayTeamId": "100",
     "homeTeam": {
@@ -1014,7 +1014,7 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-08-31T18:45:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "102",
     "awayTeamId": "103",
     "homeTeam": {
@@ -1780,228 +1780,12 @@
     ]
   },
   {
-    "id": "558579",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "102",
-    "awayTeamId": "454",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "New Balance Arena, Bergamo",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558580",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "471",
-    "awayTeamId": "98",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Mapei Stadium, Reggio Emilia",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558581",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "5890",
-    "awayTeamId": "103",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Via Del Mare, Lecce",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558582",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "108",
-    "awayTeamId": "112",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "San Siro, Milano",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558583",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "110",
-    "awayTeamId": "5911",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Olimpico, Roma",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558584",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "104",
-    "awayTeamId": "109",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Unipol Domus, Cagliari",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558585",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "7397",
-    "awayTeamId": "100",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Giuseppe Sinigaglia, Como",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558586",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "113",
-    "awayTeamId": "470",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadio Diego Armando Maradona, Napoli",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558587",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "586",
-    "awayTeamId": "115",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadio Olimpico Grande Torino, Torino",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558588",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
+    "utcDate": "2026-10-10T13:00:00Z",
     "status": "scheduled",
     "homeTeamId": "107",
     "awayTeamId": "99",
@@ -2020,15 +1804,15 @@
     ]
   },
   {
-    "id": "558569",
+    "id": "558582",
     "competitionId": "SA",
     "season": "2026",
-    "matchday": 7,
+    "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-10T16:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "98",
-    "awayTeamId": "102",
+    "homeTeamId": "108",
+    "awayTeamId": "112",
     "homeTeam": {
       "goals": 0
     },
@@ -2044,22 +1828,238 @@
     ]
   },
   {
-    "id": "558570",
+    "id": "558586",
     "competitionId": "SA",
     "season": "2026",
-    "matchday": 7,
+    "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-10T18:45:00Z",
     "status": "scheduled",
-    "homeTeamId": "109",
-    "awayTeamId": "110",
+    "homeTeamId": "113",
+    "awayTeamId": "470",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Allianz Stadium, Torino",
+    "venue": "Stadio Diego Armando Maradona, Napoli",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558585",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-11T10:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "7397",
+    "awayTeamId": "100",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Giuseppe Sinigaglia, Como",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558581",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-11T13:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5890",
+    "awayTeamId": "103",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Via Del Mare, Lecce",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558583",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-11T13:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "110",
+    "awayTeamId": "5911",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Olimpico, Roma",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558580",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-11T16:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "471",
+    "awayTeamId": "98",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Mapei Stadium, Reggio Emilia",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558584",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-11T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "104",
+    "awayTeamId": "109",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Unipol Domus, Cagliari",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558579",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-12T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "102",
+    "awayTeamId": "454",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "New Balance Arena, Bergamo",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558587",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-12T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "586",
+    "awayTeamId": "115",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Olimpico Grande Torino, Torino",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558573",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-10-16T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "470",
+    "awayTeamId": "471",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Benito Stirpe, Frosinone",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558575",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-10-17T13:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "454",
+    "awayTeamId": "113",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Pier Luigi Penzo, Venezia",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -2073,7 +2073,7 @@
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-17T16:00:00Z",
     "status": "scheduled",
     "homeTeamId": "103",
     "awayTeamId": "108",
@@ -2097,7 +2097,7 @@
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-17T18:45:00Z",
     "status": "scheduled",
     "homeTeamId": "100",
     "awayTeamId": "107",
@@ -2116,36 +2116,12 @@
     ]
   },
   {
-    "id": "558573",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 7,
-    "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "470",
-    "awayTeamId": "471",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadio Benito Stirpe, Frosinone",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558574",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-18T10:30:00Z",
     "status": "scheduled",
     "homeTeamId": "115",
     "awayTeamId": "5890",
@@ -2164,60 +2140,12 @@
     ]
   },
   {
-    "id": "558575",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 7,
-    "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "454",
-    "awayTeamId": "113",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadio Pier Luigi Penzo, Venezia",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558576",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 7,
-    "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "5911",
-    "awayTeamId": "104",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "U-Power Stadium, Monza",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558577",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-18T13:00:00Z",
     "status": "scheduled",
     "homeTeamId": "99",
     "awayTeamId": "7397",
@@ -2236,12 +2164,84 @@
     ]
   },
   {
+    "id": "558569",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-10-18T16:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "98",
+    "awayTeamId": "102",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "San Siro, Milano",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558570",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-10-18T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "109",
+    "awayTeamId": "110",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Stadium, Torino",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558576",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-10-19T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5911",
+    "awayTeamId": "104",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "U-Power Stadium, Monza",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "558578",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-19T18:45:00Z",
     "status": "scheduled",
     "homeTeamId": "112",
     "awayTeamId": "586",
@@ -2260,22 +2260,22 @@
     ]
   },
   {
-    "id": "558559",
+    "id": "558567",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-23T18:45:00Z",
     "status": "scheduled",
-    "homeTeamId": "115",
-    "awayTeamId": "98",
+    "homeTeamId": "586",
+    "awayTeamId": "5911",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stadio Friuli, Udine",
+    "venue": "Stadio Olimpico Grande Torino, Torino",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -2289,7 +2289,7 @@
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-24T13:00:00Z",
     "status": "scheduled",
     "homeTeamId": "104",
     "awayTeamId": "103",
@@ -2313,7 +2313,7 @@
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-24T13:00:00Z",
     "status": "scheduled",
     "homeTeamId": "7397",
     "awayTeamId": "471",
@@ -2332,60 +2332,12 @@
     ]
   },
   {
-    "id": "558562",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 8,
-    "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "102",
-    "awayTeamId": "470",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "New Balance Arena, Bergamo",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558563",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 8,
-    "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "108",
-    "awayTeamId": "99",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "San Siro, Milano",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558564",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-24T16:00:00Z",
     "status": "scheduled",
     "homeTeamId": "113",
     "awayTeamId": "100",
@@ -2409,7 +2361,7 @@
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-24T18:45:00Z",
     "status": "scheduled",
     "homeTeamId": "110",
     "awayTeamId": "112",
@@ -2428,22 +2380,22 @@
     ]
   },
   {
-    "id": "558566",
+    "id": "558563",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-25T11:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "5890",
-    "awayTeamId": "109",
+    "homeTeamId": "108",
+    "awayTeamId": "99",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Via Del Mare, Lecce",
+    "venue": "San Siro, Milano",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -2452,22 +2404,22 @@
     ]
   },
   {
-    "id": "558567",
+    "id": "558562",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-25T14:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "586",
-    "awayTeamId": "5911",
+    "homeTeamId": "102",
+    "awayTeamId": "470",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stadio Olimpico Grande Torino, Torino",
+    "venue": "New Balance Arena, Bergamo",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -2481,7 +2433,7 @@
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-25T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "107",
     "awayTeamId": "454",
@@ -2500,12 +2452,132 @@
     ]
   },
   {
+    "id": "558566",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "regular",
+    "utcDate": "2026-10-25T17:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5890",
+    "awayTeamId": "109",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Via Del Mare, Lecce",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558559",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "regular",
+    "utcDate": "2026-10-25T19:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "115",
+    "awayTeamId": "98",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Friuli, Udine",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558556",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-10-27T17:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "471",
+    "awayTeamId": "110",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Mapei Stadium, Reggio Emilia",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558555",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-10-27T19:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "100",
+    "awayTeamId": "104",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Olimpico, Roma",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558557",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-10-27T19:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "586",
+    "awayTeamId": "7397",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Olimpico Grande Torino, Torino",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "558549",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-28T00:00:00Z",
+    "utcDate": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "homeTeamId": "98",
     "awayTeamId": "103",
@@ -2529,7 +2601,7 @@
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-28T00:00:00Z",
+    "utcDate": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "homeTeamId": "454",
     "awayTeamId": "108",
@@ -2548,60 +2620,12 @@
     ]
   },
   {
-    "id": "558551",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-10-28T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "99",
-    "awayTeamId": "102",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadio Artemio Franchi, Firenze",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558552",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-10-28T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "107",
-    "awayTeamId": "109",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadio Luigi Ferraris, Genova",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558553",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-28T00:00:00Z",
+    "utcDate": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "homeTeamId": "112",
     "awayTeamId": "115",
@@ -2620,12 +2644,36 @@
     ]
   },
   {
+    "id": "558552",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-10-28T19:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "107",
+    "awayTeamId": "109",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Luigi Ferraris, Genova",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "558554",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-28T00:00:00Z",
+    "utcDate": "2026-10-28T19:45:00Z",
     "status": "scheduled",
     "homeTeamId": "5911",
     "awayTeamId": "113",
@@ -2644,84 +2692,12 @@
     ]
   },
   {
-    "id": "558555",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-10-28T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "100",
-    "awayTeamId": "104",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Olimpico, Roma",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558556",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-10-28T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "471",
-    "awayTeamId": "110",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Mapei Stadium, Reggio Emilia",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558557",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-10-28T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "586",
-    "awayTeamId": "7397",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadio Olimpico Grande Torino, Torino",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558558",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-28T00:00:00Z",
+    "utcDate": "2026-10-29T17:30:00Z",
     "status": "scheduled",
     "homeTeamId": "470",
     "awayTeamId": "5890",
@@ -2740,12 +2716,36 @@
     ]
   },
   {
+    "id": "558551",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-10-29T19:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "99",
+    "awayTeamId": "102",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Artemio Franchi, Firenze",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "558539",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-01T00:00:00Z",
+    "utcDate": "2026-10-31T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "103",
     "awayTeamId": "5911",
@@ -2764,60 +2764,12 @@
     ]
   },
   {
-    "id": "558540",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-11-01T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "5890",
-    "awayTeamId": "107",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Via Del Mare, Lecce",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558541",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-11-01T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "471",
-    "awayTeamId": "99",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Mapei Stadium, Reggio Emilia",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558542",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-01T00:00:00Z",
+    "utcDate": "2026-10-31T17:00:00Z",
     "status": "scheduled",
     "homeTeamId": "115",
     "awayTeamId": "100",
@@ -2836,12 +2788,36 @@
     ]
   },
   {
+    "id": "558548",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-10-31T19:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "98",
+    "awayTeamId": "108",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "San Siro, Milano",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "558543",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-01T00:00:00Z",
+    "utcDate": "2026-11-01T11:30:00Z",
     "status": "scheduled",
     "homeTeamId": "7397",
     "awayTeamId": "454",
@@ -2865,7 +2841,7 @@
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-01T00:00:00Z",
+    "utcDate": "2026-11-01T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "470",
     "awayTeamId": "586",
@@ -2884,36 +2860,12 @@
     ]
   },
   {
-    "id": "558545",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-11-01T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "102",
-    "awayTeamId": "112",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "New Balance Arena, Bergamo",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558546",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-01T00:00:00Z",
+    "utcDate": "2026-11-01T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "110",
     "awayTeamId": "104",
@@ -2932,12 +2884,36 @@
     ]
   },
   {
+    "id": "558540",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-11-01T17:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5890",
+    "awayTeamId": "107",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Via Del Mare, Lecce",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "558547",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-01T00:00:00Z",
+    "utcDate": "2026-11-01T19:45:00Z",
     "status": "scheduled",
     "homeTeamId": "109",
     "awayTeamId": "113",
@@ -2956,22 +2932,22 @@
     ]
   },
   {
-    "id": "558548",
+    "id": "558541",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-01T00:00:00Z",
+    "utcDate": "2026-11-02T17:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "98",
-    "awayTeamId": "108",
+    "homeTeamId": "471",
+    "awayTeamId": "99",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "San Siro, Milano",
+    "venue": "Mapei Stadium, Reggio Emilia",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -2980,22 +2956,22 @@
     ]
   },
   {
-    "id": "558529",
+    "id": "558545",
     "competitionId": "SA",
     "season": "2026",
-    "matchday": 11,
+    "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-08T00:00:00Z",
+    "utcDate": "2026-11-02T19:45:00Z",
     "status": "scheduled",
-    "homeTeamId": "99",
-    "awayTeamId": "109",
+    "homeTeamId": "102",
+    "awayTeamId": "112",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stadio Artemio Franchi, Firenze",
+    "venue": "New Balance Arena, Bergamo",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -3004,46 +2980,22 @@
     ]
   },
   {
-    "id": "558530",
+    "id": "558537",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-08T00:00:00Z",
+    "utcDate": "2026-11-06T19:45:00Z",
     "status": "scheduled",
-    "homeTeamId": "108",
-    "awayTeamId": "7397",
+    "homeTeamId": "454",
+    "awayTeamId": "115",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "San Siro, Milano",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558531",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 11,
-    "stage": "regular",
-    "utcDate": "2026-11-08T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "100",
-    "awayTeamId": "471",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Olimpico, Roma",
+    "venue": "Stadio Pier Luigi Penzo, Venezia",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -3057,7 +3009,7 @@
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-08T00:00:00Z",
+    "utcDate": "2026-11-07T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "586",
     "awayTeamId": "5890",
@@ -3076,36 +3028,12 @@
     ]
   },
   {
-    "id": "558533",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 11,
-    "stage": "regular",
-    "utcDate": "2026-11-08T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "113",
-    "awayTeamId": "110",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadio Diego Armando Maradona, Napoli",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558534",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-08T00:00:00Z",
+    "utcDate": "2026-11-07T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "104",
     "awayTeamId": "470",
@@ -3129,7 +3057,7 @@
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-08T00:00:00Z",
+    "utcDate": "2026-11-07T17:00:00Z",
     "status": "scheduled",
     "homeTeamId": "112",
     "awayTeamId": "103",
@@ -3148,12 +3076,60 @@
     ]
   },
   {
+    "id": "558531",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 11,
+    "stage": "regular",
+    "utcDate": "2026-11-07T19:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "100",
+    "awayTeamId": "471",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Olimpico, Roma",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558533",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 11,
+    "stage": "regular",
+    "utcDate": "2026-11-08T11:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "113",
+    "awayTeamId": "110",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Diego Armando Maradona, Napoli",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "558536",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-08T00:00:00Z",
+    "utcDate": "2026-11-08T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "107",
     "awayTeamId": "98",
@@ -3172,36 +3148,12 @@
     ]
   },
   {
-    "id": "558537",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 11,
-    "stage": "regular",
-    "utcDate": "2026-11-08T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "454",
-    "awayTeamId": "115",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadio Pier Luigi Penzo, Venezia",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "558538",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-08T00:00:00Z",
+    "utcDate": "2026-11-08T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "5911",
     "awayTeamId": "102",
@@ -3220,111 +3172,15 @@
     ]
   },
   {
-    "id": "558519",
+    "id": "558530",
     "competitionId": "SA",
     "season": "2026",
-    "matchday": 12,
+    "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-08T17:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "5911",
-    "awayTeamId": "99",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "U-Power Stadium, Monza",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558520",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 12,
-    "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "102",
-    "awayTeamId": "108",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "New Balance Arena, Bergamo",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558521",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 12,
-    "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "109",
-    "awayTeamId": "454",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Allianz Stadium, Torino",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558522",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 12,
-    "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "103",
-    "awayTeamId": "115",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Renato Dall'Ara, Bologna",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "558523",
-    "competitionId": "SA",
-    "season": "2026",
-    "matchday": 12,
-    "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "98",
-    "awayTeamId": "470",
+    "homeTeamId": "108",
+    "awayTeamId": "7397",
     "homeTeam": {
       "goals": 0
     },
@@ -3340,22 +3196,22 @@
     ]
   },
   {
-    "id": "558524",
+    "id": "558529",
     "competitionId": "SA",
     "season": "2026",
-    "matchday": 12,
+    "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-08T19:45:00Z",
     "status": "scheduled",
-    "homeTeamId": "471",
-    "awayTeamId": "107",
+    "homeTeamId": "99",
+    "awayTeamId": "109",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Mapei Stadium, Reggio Emilia",
+    "venue": "Stadio Artemio Franchi, Firenze",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -3369,7 +3225,7 @@
     "season": "2026",
     "matchday": 12,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-21T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "7397",
     "awayTeamId": "104",
@@ -3388,12 +3244,36 @@
     ]
   },
   {
+    "id": "558528",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 12,
+    "stage": "regular",
+    "utcDate": "2026-11-21T14:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "110",
+    "awayTeamId": "5890",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Olimpico, Roma",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "558526",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 12,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-21T17:00:00Z",
     "status": "scheduled",
     "homeTeamId": "112",
     "awayTeamId": "100",
@@ -3417,7 +3297,7 @@
     "season": "2026",
     "matchday": 12,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-21T19:45:00Z",
     "status": "scheduled",
     "homeTeamId": "113",
     "awayTeamId": "586",
@@ -3436,22 +3316,142 @@
     ]
   },
   {
-    "id": "558528",
+    "id": "558524",
     "competitionId": "SA",
     "season": "2026",
     "matchday": 12,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-22T11:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "110",
-    "awayTeamId": "5890",
+    "homeTeamId": "471",
+    "awayTeamId": "107",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Olimpico, Roma",
+    "venue": "Mapei Stadium, Reggio Emilia",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558523",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 12,
+    "stage": "regular",
+    "utcDate": "2026-11-22T14:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "98",
+    "awayTeamId": "470",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "San Siro, Milano",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558522",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 12,
+    "stage": "regular",
+    "utcDate": "2026-11-22T17:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "103",
+    "awayTeamId": "115",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Renato Dall'Ara, Bologna",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558520",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 12,
+    "stage": "regular",
+    "utcDate": "2026-11-22T19:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "102",
+    "awayTeamId": "108",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "New Balance Arena, Bergamo",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558519",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 12,
+    "stage": "regular",
+    "utcDate": "2026-11-23T17:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5911",
+    "awayTeamId": "99",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "U-Power Stadium, Monza",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "558521",
+    "competitionId": "SA",
+    "season": "2026",
+    "matchday": 12,
+    "stage": "regular",
+    "utcDate": "2026-11-23T19:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "109",
+    "awayTeamId": "454",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Stadium, Torino",
     "broadcasts": [
       {
         "name": "Paramount+",
