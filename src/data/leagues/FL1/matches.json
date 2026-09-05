@@ -1018,14 +1018,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-05T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "533",
     "awayTeamId": "512",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 2.02,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 372,
+        "duelsWon": 53,
+        "boxTouches": 34,
+        "fouls": 15,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 7
+      },
+      "away": {
+        "possession": 44,
+        "xg": 2.37,
+        "shots": 19,
+        "shotsOnTarget": 9,
+        "accuratePasses": 287,
+        "duelsWon": 54,
+        "boxTouches": 22,
+        "fouls": 18,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Stade Océane, Le Havre"
   },
@@ -1036,14 +1064,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-05T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "522",
     "awayTeamId": "535",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 1.05,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 472,
+        "duelsWon": 44,
+        "boxTouches": 15,
+        "fouls": 4,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.27,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 315,
+        "duelsWon": 47,
+        "boxTouches": 10,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Allianz Riviera, Nice"
   },

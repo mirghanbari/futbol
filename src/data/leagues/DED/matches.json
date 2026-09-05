@@ -1730,14 +1730,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-05T18:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "678",
     "awayTeamId": "674",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 1.99,
+        "shots": 19,
+        "shotsOnTarget": 6,
+        "accuratePasses": 427,
+        "duelsWon": 55,
+        "boxTouches": 22,
+        "fouls": 6,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 2.55,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 384,
+        "duelsWon": 56,
+        "boxTouches": 31,
+        "fouls": 13,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Johan Cruijff Arena, Amsterdam",
     "broadcasts": [
@@ -1754,14 +1782,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-05T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "672",
     "awayTeamId": "670",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 0.74,
+        "shots": 16,
+        "shotsOnTarget": 2,
+        "accuratePasses": 418,
+        "duelsWon": 54,
+        "boxTouches": 23,
+        "fouls": 10,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 41,
+        "xg": 1.6,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 284,
+        "duelsWon": 45,
+        "boxTouches": 22,
+        "fouls": 14,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Koning Willem II Stadion, Tilburg"
   },

@@ -2430,14 +2430,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-05T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1081",
     "awayTeamId": "59",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 33,
+        "xg": 2.19,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 159,
+        "duelsWon": 52,
+        "boxTouches": 12,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 67,
+        "xg": 1.09,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 420,
+        "duelsWon": 41,
+        "boxTouches": 18,
+        "fouls": 9,
+        "corners": 11,
+        "offsides": 5,
+        "saves": 1
+      }
     },
     "venue": "Deepdale, Preston",
     "broadcasts": [
@@ -2892,7 +2920,7 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-05T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "72",
     "awayTeamId": "404",
     "homeTeam": {

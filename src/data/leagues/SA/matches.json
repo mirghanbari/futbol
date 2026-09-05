@@ -1222,14 +1222,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-05T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "100",
     "awayTeamId": "102",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 3.24,
+        "shots": 39,
+        "shotsOnTarget": 10,
+        "accuratePasses": 550,
+        "duelsWon": 43,
+        "boxTouches": 71,
+        "fouls": 9,
+        "corners": 14,
+        "offsides": 4,
+        "saves": 1
+      },
+      "away": {
+        "possession": 34,
+        "xg": 0.78,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 254,
+        "duelsWon": 36,
+        "boxTouches": 16,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 4,
+        "saves": 9
+      }
     },
     "venue": "Olimpico, Roma",
     "broadcasts": [

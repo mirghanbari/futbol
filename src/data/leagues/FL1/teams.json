@@ -24,6 +24,14 @@
     "competitionId": "FL1"
   },
   {
+    "id": "512",
+    "name": "Stade Brestois 29",
+    "shortName": "Brest",
+    "tla": "BRE",
+    "crest": "https://crests.football-data.org/512.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "1045",
     "name": "Paris FC",
     "shortName": "Paris FC",
@@ -72,14 +80,6 @@
     "competitionId": "FL1"
   },
   {
-    "id": "512",
-    "name": "Stade Brestois 29",
-    "shortName": "Brest",
-    "tla": "BRE",
-    "crest": "https://crests.football-data.org/512.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "532",
     "name": "Angers SCO",
     "shortName": "Angers SCO",
@@ -96,14 +96,6 @@
     "competitionId": "FL1"
   },
   {
-    "id": "524",
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "535",
     "name": "Le Mans FC",
     "shortName": "Le Mans",
@@ -112,11 +104,11 @@
     "competitionId": "FL1"
   },
   {
-    "id": "533",
-    "name": "Le Havre AC",
-    "shortName": "Le Havre",
-    "tla": "HAC",
-    "crest": "https://crests.football-data.org/533.png",
+    "id": "524",
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png",
     "competitionId": "FL1"
   },
   {
@@ -125,6 +117,14 @@
     "shortName": "Nice",
     "tla": "NIC",
     "crest": "https://crests.football-data.org/522.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "533",
+    "name": "Le Havre AC",
+    "shortName": "Le Havre",
+    "tla": "HAC",
+    "crest": "https://crests.football-data.org/533.png",
     "competitionId": "FL1"
   },
   {
