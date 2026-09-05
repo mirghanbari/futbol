@@ -1712,14 +1712,14 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-05T16:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "676",
     "awayTeamId": "718",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "venue": "Stadion Galgenwaard, Utrecht"
   },
@@ -1730,14 +1730,14 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-05T18:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "678",
     "awayTeamId": "674",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Johan Cruijff Arena, Amsterdam",
     "broadcasts": [

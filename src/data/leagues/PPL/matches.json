@@ -1634,14 +1634,14 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-05T17:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "7822",
     "awayTeamId": "5613",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Complexo Desportivo FC Alverca, Alverca do Ribatejo"
   },
@@ -1652,14 +1652,14 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-05T17:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "5575",
     "awayTeamId": "1903",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "venue": "Estádio do Marítimo, Funchal"
   },
