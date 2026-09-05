@@ -1210,7 +1210,7 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-05T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "351",
     "awayTeamId": "73",
     "homeTeam": {
@@ -1218,6 +1218,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 0.65,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 237,
+        "duelsWon": 57,
+        "boxTouches": 10,
+        "fouls": 22,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1.57,
+        "shots": 12,
+        "shotsOnTarget": 0,
+        "accuratePasses": 372,
+        "duelsWon": 57,
+        "boxTouches": 30,
+        "fouls": 13,
+        "corners": 10,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "The City Ground, Nottingham",
     "broadcasts": [
@@ -1238,14 +1266,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-05T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "65",
     "awayTeamId": "1076",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 78,
+        "xg": 1.84,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 736,
+        "duelsWon": 62,
+        "boxTouches": 35,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 5,
+        "saves": 3
+      },
+      "away": {
+        "possession": 22,
+        "xg": 1.23,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 139,
+        "duelsWon": 44,
+        "boxTouches": 19,
+        "fouls": 17,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Etihad Stadium, Manchester",
     "broadcasts": [
@@ -1266,14 +1322,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-05T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "397",
     "awayTeamId": "341",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 1.86,
+        "shots": 20,
+        "shotsOnTarget": 5,
+        "accuratePasses": 411,
+        "duelsWon": 51,
+        "boxTouches": 29,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 4,
+        "saves": 3
+      },
+      "away": {
+        "possession": 33,
+        "xg": 2.7,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 160,
+        "duelsWon": 57,
+        "boxTouches": 19,
+        "fouls": 16,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "American Express Stadium, Falmer",
     "broadcasts": [
@@ -1290,14 +1374,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-05T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "402",
     "awayTeamId": "71",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 1.26,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 282,
+        "duelsWon": 49,
+        "boxTouches": 22,
+        "fouls": 19,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 51,
+        "xg": 1.85,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 289,
+        "duelsWon": 72,
+        "boxTouches": 35,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "Gtech Community Stadium, Brentford",
     "broadcasts": [
@@ -1314,14 +1426,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-05T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "63",
     "awayTeamId": "354",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 65,
+        "xg": 3.13,
+        "shots": 25,
+        "shotsOnTarget": 6,
+        "accuratePasses": 596,
+        "duelsWon": 36,
+        "boxTouches": 63,
+        "fouls": 6,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 35,
+        "xg": 1.97,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 289,
+        "duelsWon": 41,
+        "boxTouches": 18,
+        "fouls": 7,
+        "corners": 1,
+        "offsides": 6,
+        "saves": 5
+      }
     },
     "venue": "Craven Cottage, London",
     "broadcasts": [

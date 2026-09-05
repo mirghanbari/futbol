@@ -8,14 +8,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "57",
-    "name": "Arsenal FC",
-    "shortName": "Arsenal",
-    "tla": "ARS",
-    "crest": "https://crests.football-data.org/57.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "322",
     "name": "Hull City AFC",
     "shortName": "Hull City",
@@ -24,11 +16,27 @@
     "competitionId": "PL"
   },
   {
+    "id": "57",
+    "name": "Arsenal FC",
+    "shortName": "Arsenal",
+    "tla": "ARS",
+    "crest": "https://crests.football-data.org/57.png",
+    "competitionId": "PL"
+  },
+  {
     "id": "61",
     "name": "Chelsea FC",
     "shortName": "Chelsea",
     "tla": "CHE",
     "crest": "https://crests.football-data.org/61.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "402",
+    "name": "Brentford FC",
+    "shortName": "Brentford",
+    "tla": "BRE",
+    "crest": "https://crests.football-data.org/402.png",
     "competitionId": "PL"
   },
   {
@@ -48,22 +56,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "402",
-    "name": "Brentford FC",
-    "shortName": "Brentford",
-    "tla": "BRE",
-    "crest": "https://crests.football-data.org/402.png",
-    "competitionId": "PL"
-  },
-  {
-    "id": "62",
-    "name": "Everton FC",
-    "shortName": "Everton",
-    "tla": "EVE",
-    "crest": "https://crests.football-data.org/62.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "341",
     "name": "Leeds United FC",
     "shortName": "Leeds United",
@@ -80,11 +72,11 @@
     "competitionId": "PL"
   },
   {
-    "id": "66",
-    "name": "Manchester United FC",
-    "shortName": "Man United",
-    "tla": "MUN",
-    "crest": "https://crests.football-data.org/66.png",
+    "id": "62",
+    "name": "Everton FC",
+    "shortName": "Everton",
+    "tla": "EVE",
+    "crest": "https://crests.football-data.org/62.png",
     "competitionId": "PL"
   },
   {
@@ -93,6 +85,22 @@
     "shortName": "Sunderland",
     "tla": "SUN",
     "crest": "https://crests.football-data.org/71.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "66",
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crest": "https://crests.football-data.org/66.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "354",
+    "name": "Crystal Palace FC",
+    "shortName": "Crystal Palace",
+    "tla": "CRY",
+    "crest": "https://crests.football-data.org/354.png",
     "competitionId": "PL"
   },
   {
@@ -120,30 +128,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "63",
-    "name": "Fulham FC",
-    "shortName": "Fulham",
-    "tla": "FUL",
-    "crest": "https://crests.football-data.org/63.png",
-    "competitionId": "PL"
-  },
-  {
-    "id": "1076",
-    "name": "Coventry City FC",
-    "shortName": "Coventry City",
-    "tla": "COV",
-    "crest": "https://crests.football-data.org/1076.png",
-    "competitionId": "PL"
-  },
-  {
-    "id": "354",
-    "name": "Crystal Palace FC",
-    "shortName": "Crystal Palace",
-    "tla": "CRY",
-    "crest": "https://crests.football-data.org/354.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "58",
     "name": "Aston Villa FC",
     "shortName": "Aston Villa",
@@ -157,6 +141,22 @@
     "shortName": "Tottenham",
     "tla": "TOT",
     "crest": "https://crests.football-data.org/73.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "63",
+    "name": "Fulham FC",
+    "shortName": "Fulham",
+    "tla": "FUL",
+    "crest": "https://crests.football-data.org/63.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "1076",
+    "name": "Coventry City FC",
+    "shortName": "Coventry City",
+    "tla": "COV",
+    "crest": "https://crests.football-data.org/1076.png",
     "competitionId": "PL"
   }
 ]

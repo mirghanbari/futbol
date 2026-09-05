@@ -8,19 +8,19 @@
     "competitionId": "SA"
   },
   {
-    "id": "100",
-    "name": "AS Roma",
-    "shortName": "Roma",
-    "tla": "ROM",
-    "crest": "https://crests.football-data.org/100.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "108",
     "name": "FC Internazionale Milano",
     "shortName": "Inter",
     "tla": "INT",
     "crest": "https://crests.football-data.org/108.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "100",
+    "name": "AS Roma",
+    "shortName": "Roma",
+    "tla": "ROM",
+    "crest": "https://crests.football-data.org/100.png",
     "competitionId": "SA"
   },
   {
@@ -64,19 +64,19 @@
     "competitionId": "SA"
   },
   {
-    "id": "470",
-    "name": "Frosinone Calcio",
-    "shortName": "Frosinone",
-    "tla": "FRO",
-    "crest": "https://crests.football-data.org/470.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "113",
     "name": "SSC Napoli",
     "shortName": "Napoli",
     "tla": "NAP",
     "crest": "https://crests.football-data.org/113.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "470",
+    "name": "Frosinone Calcio",
+    "shortName": "Frosinone",
+    "tla": "FRO",
+    "crest": "https://crests.football-data.org/470.png",
     "competitionId": "SA"
   },
   {
@@ -96,14 +96,6 @@
     "competitionId": "SA"
   },
   {
-    "id": "5890",
-    "name": "US Lecce",
-    "shortName": "Lecce",
-    "tla": "USL",
-    "crest": "https://crests.football-data.org/5890.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "586",
     "name": "Torino FC",
     "shortName": "Torino",
@@ -112,11 +104,11 @@
     "competitionId": "SA"
   },
   {
-    "id": "99",
-    "name": "ACF Fiorentina",
-    "shortName": "Fiorentina",
-    "tla": "FIO",
-    "crest": "https://crests.football-data.org/99.png",
+    "id": "5890",
+    "name": "US Lecce",
+    "shortName": "Lecce",
+    "tla": "USL",
+    "crest": "https://crests.football-data.org/5890.png",
     "competitionId": "SA"
   },
   {
@@ -157,6 +149,14 @@
     "shortName": "Genoa",
     "tla": "GEN",
     "crest": "https://crests.football-data.org/107.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "99",
+    "name": "ACF Fiorentina",
+    "shortName": "Fiorentina",
+    "tla": "FIO",
+    "crest": "https://crests.football-data.org/99.png",
     "competitionId": "SA"
   }
 ]

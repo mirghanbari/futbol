@@ -972,14 +972,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-05T15:15:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "546",
     "awayTeamId": "525",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stade Bollaert-Delelis, Lens"
   },
