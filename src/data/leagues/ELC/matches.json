@@ -2920,7 +2920,7 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-05T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "72",
     "awayTeamId": "404",
     "homeTeam": {
@@ -2928,6 +2928,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 0.73,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 565,
+        "duelsWon": 53,
+        "boxTouches": 18,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 39,
+        "xg": 0.64,
+        "shots": 8,
+        "shotsOnTarget": 1,
+        "accuratePasses": 307,
+        "duelsWon": 53,
+        "boxTouches": 16,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Swansea.com Stadium, Swansea",
     "broadcasts": [
