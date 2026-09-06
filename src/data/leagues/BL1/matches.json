@@ -890,14 +890,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-09-06T15:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "19",
     "awayTeamId": "16",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 60,
+        "xg": 1.87,
+        "shots": 22,
+        "shotsOnTarget": 8,
+        "accuratePasses": 468,
+        "duelsWon": 47,
+        "boxTouches": 38,
+        "fouls": 10,
+        "corners": 9,
+        "offsides": 3,
+        "saves": 4
+      },
+      "away": {
+        "possession": 40,
+        "xg": 1.29,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 275,
+        "duelsWon": 48,
+        "boxTouches": 18,
+        "fouls": 13,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 7
+      }
     },
     "venue": "Deutsche Bank Park, Frankfurt",
     "broadcasts": [

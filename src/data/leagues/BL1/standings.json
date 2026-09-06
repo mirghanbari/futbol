@@ -12,9 +12,9 @@
     "draw": 0,
     "lost": 0,
     "points": 6,
-    "goalsFor": 5,
+    "goalsFor": 7,
     "goalsAgainst": 1,
-    "goalDifference": 4
+    "goalDifference": 6
   },
   {
     "id": "17",
@@ -23,7 +23,7 @@
     "tla": "SCF",
     "crest": "https://crests.football-data.org/17.png",
     "competitionId": "BL1",
-    "position": 1,
+    "position": 2,
     "playedGames": 2,
     "won": 2,
     "draw": 0,
@@ -187,30 +187,13 @@
     "goalDifference": -2
   },
   {
-    "id": "19",
-    "name": "Eintracht Frankfurt",
-    "shortName": "Frankfurt",
-    "tla": "SGE",
-    "crest": "https://crests.football-data.org/19.png",
-    "competitionId": "BL1",
-    "position": 12,
-    "playedGames": 2,
-    "won": 0,
-    "draw": 1,
-    "lost": 1,
-    "points": 1,
-    "goalsFor": 4,
-    "goalsAgainst": 5,
-    "goalDifference": -1
-  },
-  {
     "id": "29",
     "name": "SC Paderborn 07",
     "shortName": "SC Paderborn",
     "tla": "SCP",
     "crest": "https://crests.football-data.org/29.png",
     "competitionId": "BL1",
-    "position": 13,
+    "position": 12,
     "playedGames": 2,
     "won": 0,
     "draw": 1,
@@ -219,6 +202,23 @@
     "goalsFor": 0,
     "goalsAgainst": 1,
     "goalDifference": -1
+  },
+  {
+    "id": "19",
+    "name": "Eintracht Frankfurt",
+    "shortName": "Frankfurt",
+    "tla": "SGE",
+    "crest": "https://crests.football-data.org/19.png",
+    "competitionId": "BL1",
+    "position": 13,
+    "playedGames": 2,
+    "won": 0,
+    "draw": 1,
+    "lost": 1,
+    "points": 1,
+    "goalsFor": 4,
+    "goalsAgainst": 7,
+    "goalDifference": -3
   },
   {
     "id": "6",

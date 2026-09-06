@@ -1990,14 +1990,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-06T16:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "263",
     "awayTeamId": "79",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 1.41,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 331,
+        "duelsWon": 51,
+        "boxTouches": 17,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 50,
+        "xg": 1.82,
+        "shots": 7,
+        "shotsOnTarget": 5,
+        "accuratePasses": 333,
+        "duelsWon": 54,
+        "boxTouches": 16,
+        "fouls": 13,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Mendizorrotza, Vitoria-Gasteiz",
     "broadcasts": [
@@ -2018,7 +2046,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-06T16:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "84",
     "awayTeamId": "88",
     "homeTeam": {
@@ -2026,6 +2054,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 1.46,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 507,
+        "duelsWon": 46,
+        "boxTouches": 28,
+        "fouls": 15,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.81,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 264,
+        "duelsWon": 53,
+        "boxTouches": 14,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "La Rosaleda, Malaga",
     "broadcasts": [
