@@ -2102,7 +2102,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-06T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "80",
     "awayTeamId": "559",
     "homeTeam": {
@@ -2110,6 +2110,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 1.2,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 305,
+        "duelsWon": 55,
+        "boxTouches": 26,
+        "fouls": 17,
+        "corners": 0,
+        "offsides": 5,
+        "saves": 2
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.47,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 230,
+        "duelsWon": 51,
+        "boxTouches": 20,
+        "fouls": 13,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "RCDE Stadium, Barcelona",
     "broadcasts": [
