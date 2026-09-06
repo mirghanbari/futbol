@@ -2972,14 +2972,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-06T11:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "332",
     "awayTeamId": "76",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 1.47,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 255,
+        "duelsWon": 55,
+        "boxTouches": 36,
+        "fouls": 17,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 2.03,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 239,
+        "duelsWon": 63,
+        "boxTouches": 21,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "St. Andrew's Stadium, Birmingham",
     "broadcasts": [
@@ -3116,7 +3144,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-09T00:00:00Z",
-    "status": "postponed",
+    "status": "scheduled",
     "homeTeamId": "76",
     "awayTeamId": "325",
     "homeTeam": {

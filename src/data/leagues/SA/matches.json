@@ -1274,14 +1274,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-06T13:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "112",
     "awayTeamId": "5911",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Ennio Tardini, Parma",
     "broadcasts": [
@@ -1298,11 +1298,11 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-06T13:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "470",
     "awayTeamId": "454",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0

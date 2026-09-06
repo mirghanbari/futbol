@@ -1828,14 +1828,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-06T10:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "677",
     "awayTeamId": "666",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 1.48,
+        "shots": 21,
+        "shotsOnTarget": 4,
+        "accuratePasses": 303,
+        "duelsWon": 63,
+        "boxTouches": 31,
+        "fouls": 6,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 54,
+        "xg": 2.3,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 388,
+        "duelsWon": 36,
+        "boxTouches": 22,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Euroborg, Groningen",
     "broadcasts": [
@@ -1852,14 +1880,14 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-06T12:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "673",
     "awayTeamId": "682",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Abe Lenstra Stadion, Heerenveen",
     "broadcasts": [
@@ -1876,7 +1904,7 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-06T12:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1912",
     "awayTeamId": "1909",
     "homeTeam": {
