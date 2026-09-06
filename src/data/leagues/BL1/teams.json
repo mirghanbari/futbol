@@ -1,5 +1,13 @@
 [
   {
+    "id": "16",
+    "name": "FC Augsburg",
+    "shortName": "Augsburg",
+    "tla": "FCA",
+    "crest": "https://crests.football-data.org/16.png",
+    "competitionId": "BL1"
+  },
+  {
     "id": "17",
     "name": "SC Freiburg",
     "shortName": "Freiburg",
@@ -24,6 +32,14 @@
     "competitionId": "BL1"
   },
   {
+    "id": "15",
+    "name": "1. FSV Mainz 05",
+    "shortName": "Mainz",
+    "tla": "M05",
+    "crest": "https://crests.football-data.org/15.png",
+    "competitionId": "BL1"
+  },
+  {
     "id": "5",
     "name": "FC Bayern München",
     "shortName": "Bayern",
@@ -37,14 +53,6 @@
     "shortName": "Leverkusen",
     "tla": "B04",
     "crest": "https://crests.football-data.org/3.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "16",
-    "name": "FC Augsburg",
-    "shortName": "Augsburg",
-    "tla": "FCA",
-    "crest": "https://crests.football-data.org/16.png",
     "competitionId": "BL1"
   },
   {
@@ -80,14 +88,6 @@
     "competitionId": "BL1"
   },
   {
-    "id": "15",
-    "name": "1. FSV Mainz 05",
-    "shortName": "Mainz",
-    "tla": "M05",
-    "crest": "https://crests.football-data.org/15.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "19",
     "name": "Eintracht Frankfurt",
     "shortName": "Frankfurt",
@@ -101,14 +101,6 @@
     "shortName": "SC Paderborn",
     "tla": "SCP",
     "crest": "https://crests.football-data.org/29.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "7",
-    "name": "Hamburger SV",
-    "shortName": "HSV",
-    "tla": "HSV",
-    "crest": "https://crests.football-data.org/7.png",
     "competitionId": "BL1"
   },
   {
@@ -141,6 +133,14 @@
     "shortName": "M'gladbach",
     "tla": "BMG",
     "crest": "https://crests.football-data.org/18.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "7",
+    "name": "Hamburger SV",
+    "shortName": "HSV",
+    "tla": "HSV",
+    "crest": "https://crests.football-data.org/7.png",
     "competitionId": "BL1"
   }
 ]

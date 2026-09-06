@@ -838,14 +838,42 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-09-06T13:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "7",
     "awayTeamId": "15",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 0.19,
+        "shots": 8,
+        "shotsOnTarget": 1,
+        "accuratePasses": 347,
+        "duelsWon": 46,
+        "boxTouches": 13,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 46,
+        "xg": 3.06,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 271,
+        "duelsWon": 60,
+        "boxTouches": 44,
+        "fouls": 19,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Volksparkstadion, Hamburg Norderstedt",
     "broadcasts": [
@@ -862,14 +890,14 @@
     "matchday": 2,
     "stage": "regular",
     "utcDate": "2026-09-06T15:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "19",
     "awayTeamId": "16",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Deutsche Bank Park, Frankfurt",
     "broadcasts": [

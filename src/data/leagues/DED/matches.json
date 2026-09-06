@@ -1880,14 +1880,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-06T12:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "673",
     "awayTeamId": "682",
     "homeTeam": {
       "goals": 2
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.52,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 344,
+        "duelsWon": 53,
+        "boxTouches": 33,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.51,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 444,
+        "duelsWon": 51,
+        "boxTouches": 39,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 3
+      }
     },
     "venue": "Abe Lenstra Stadion, Heerenveen",
     "broadcasts": [
@@ -1904,14 +1932,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-06T12:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "1912",
     "awayTeamId": "1909",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 2.12,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 235,
+        "duelsWon": 65,
+        "boxTouches": 30,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 58,
+        "xg": 0.98,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 369,
+        "duelsWon": 42,
+        "boxTouches": 27,
+        "fouls": 20,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 0
+      }
     },
     "venue": "711 Stadion, Velsen-Zuid"
   },
@@ -1922,14 +1978,14 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-06T14:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "680",
     "awayTeamId": "1920",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     },
     "venue": "ADO Den Haag Stadium, Den Haag"
   },

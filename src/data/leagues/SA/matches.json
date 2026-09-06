@@ -1274,14 +1274,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-06T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "112",
     "awayTeamId": "5911",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.7,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 271,
+        "duelsWon": 44,
+        "boxTouches": 27,
+        "fouls": 16,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 54,
+        "xg": 1.7,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 346,
+        "duelsWon": 46,
+        "boxTouches": 22,
+        "fouls": 16,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 2
+      }
     },
     "venue": "Ennio Tardini, Parma",
     "broadcasts": [
@@ -1298,14 +1326,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-06T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "470",
     "awayTeamId": "454",
     "homeTeam": {
-      "goals": 1
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 1.74,
+        "shots": 13,
+        "shotsOnTarget": 8,
+        "accuratePasses": 156,
+        "duelsWon": 51,
+        "boxTouches": 25,
+        "fouls": 18,
+        "corners": 5,
+        "offsides": 6,
+        "saves": 2
+      },
+      "away": {
+        "possession": 61,
+        "xg": 2.18,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 302,
+        "duelsWon": 55,
+        "boxTouches": 22,
+        "fouls": 14,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Stadio Benito Stirpe, Frosinone",
     "broadcasts": [
@@ -1322,14 +1378,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-06T16:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "103",
     "awayTeamId": "471",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Renato Dall'Ara, Bologna",
     "broadcasts": [

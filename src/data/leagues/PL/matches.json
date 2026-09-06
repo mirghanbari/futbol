@@ -1530,14 +1530,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-06T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "62",
     "awayTeamId": "66",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.01,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 362,
+        "duelsWon": 49,
+        "boxTouches": 31,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 55,
+        "xg": 0.72,
+        "shots": 14,
+        "shotsOnTarget": 3,
+        "accuratePasses": 455,
+        "duelsWon": 40,
+        "boxTouches": 26,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Hill Dickinson Stadium, Liverpool",
     "broadcasts": [
@@ -1558,14 +1586,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-06T15:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "57",
     "awayTeamId": "61",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Emirates Stadium, London",
     "broadcasts": [

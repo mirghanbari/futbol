@@ -1110,14 +1110,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-06T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "531",
     "awayTeamId": "576",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 6
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 2.81,
+        "shots": 27,
+        "shotsOnTarget": 6,
+        "accuratePasses": 300,
+        "duelsWon": 49,
+        "boxTouches": 53,
+        "fouls": 6,
+        "corners": 11,
+        "offsides": 3,
+        "saves": 6
+      },
+      "away": {
+        "possession": 56,
+        "xg": 3.15,
+        "shots": 19,
+        "shotsOnTarget": 12,
+        "accuratePasses": 450,
+        "duelsWon": 47,
+        "boxTouches": 32,
+        "fouls": 16,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Stade de l'Aube, Paris"
   },
@@ -1128,14 +1156,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-06T15:15:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "532",
     "awayTeamId": "529",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Stade Raymond Kopa, Angers"
   },

@@ -1934,14 +1934,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-06T14:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "95",
     "awayTeamId": "81",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 26,
+        "xg": 0.67,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 203,
+        "duelsWon": 33,
+        "boxTouches": 10,
+        "fouls": 7,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 74,
+        "xg": 4.05,
+        "shots": 25,
+        "shotsOnTarget": 10,
+        "accuratePasses": 724,
+        "duelsWon": 40,
+        "boxTouches": 55,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 4,
+        "saves": 2
+      }
     },
     "venue": "Mestalla Stadium, Manises",
     "broadcasts": [
@@ -1962,7 +1990,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-06T16:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "263",
     "awayTeamId": "79",
     "homeTeam": {
@@ -1990,7 +2018,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-06T16:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "84",
     "awayTeamId": "88",
     "homeTeam": {

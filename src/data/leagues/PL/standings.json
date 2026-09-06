@@ -17,13 +17,30 @@
     "goalDifference": 5
   },
   {
+    "id": "57",
+    "name": "Arsenal FC",
+    "shortName": "Arsenal",
+    "tla": "ARS",
+    "crest": "https://crests.football-data.org/57.png",
+    "competitionId": "PL",
+    "position": 2,
+    "playedGames": 3,
+    "won": 2,
+    "draw": 1,
+    "lost": 0,
+    "points": 7,
+    "goalsFor": 5,
+    "goalsAgainst": 1,
+    "goalDifference": 4
+  },
+  {
     "id": "322",
     "name": "Hull City AFC",
     "shortName": "Hull City",
     "tla": "HUL",
     "crest": "https://crests.football-data.org/322.png",
     "competitionId": "PL",
-    "position": 2,
+    "position": 3,
     "playedGames": 3,
     "won": 2,
     "draw": 1,
@@ -34,23 +51,6 @@
     "goalDifference": 3
   },
   {
-    "id": "57",
-    "name": "Arsenal FC",
-    "shortName": "Arsenal",
-    "tla": "ARS",
-    "crest": "https://crests.football-data.org/57.png",
-    "competitionId": "PL",
-    "position": 3,
-    "playedGames": 2,
-    "won": 2,
-    "draw": 0,
-    "lost": 0,
-    "points": 6,
-    "goalsFor": 4,
-    "goalsAgainst": 0,
-    "goalDifference": 4
-  },
-  {
     "id": "61",
     "name": "Chelsea FC",
     "shortName": "Chelsea",
@@ -58,13 +58,13 @@
     "crest": "https://crests.football-data.org/61.png",
     "competitionId": "PL",
     "position": 4,
-    "playedGames": 2,
+    "playedGames": 3,
     "won": 2,
-    "draw": 0,
+    "draw": 1,
     "lost": 0,
-    "points": 6,
-    "goalsFor": 7,
-    "goalsAgainst": 5,
+    "points": 7,
+    "goalsFor": 8,
+    "goalsAgainst": 6,
     "goalDifference": 2
   },
   {
@@ -131,8 +131,8 @@
     "draw": 2,
     "lost": 0,
     "points": 5,
-    "goalsFor": 3,
-    "goalsAgainst": 1,
+    "goalsFor": 5,
+    "goalsAgainst": 3,
     "goalDifference": 2
   },
   {
@@ -182,8 +182,8 @@
     "draw": 1,
     "lost": 1,
     "points": 4,
-    "goalsFor": 5,
-    "goalsAgainst": 4,
+    "goalsFor": 7,
+    "goalsAgainst": 6,
     "goalDifference": 1
   },
   {
