@@ -1818,7 +1818,7 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-06T17:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5543",
     "awayTeamId": "6618",
     "homeTeam": {
@@ -1826,6 +1826,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 74,
+        "xg": 2.48,
+        "shots": 29,
+        "shotsOnTarget": 8,
+        "accuratePasses": 454,
+        "duelsWon": 55,
+        "boxTouches": 36,
+        "fouls": 16,
+        "corners": 17,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 26,
+        "xg": 0.21,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 107,
+        "duelsWon": 68,
+        "boxTouches": 9,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 7
+      }
     },
     "venue": "Estádio D. Afonso Henriques, Guimarães"
   },
@@ -1836,14 +1864,14 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-06T19:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "5533",
     "awayTeamId": "5527",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Estádio Cidade de Barcelos, Barcelos"
   },
