@@ -1,1 +1,3271 @@
-[]
+[
+  {
+    "id": "575323",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-08T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "851",
+    "awayTeamId": "58",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Jan Breydel Stadium, Brugge",
+    "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575324",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-08T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1899",
+    "awayTeamId": "2016",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575325",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-08T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "86",
+    "awayTeamId": "108",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Santiago Bernabéu, Madrid",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575326",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-08T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "503",
+    "awayTeamId": "65",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio do Dragão, Porto",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575327",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-08T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "4",
+    "awayTeamId": "94",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Signal Iduna Park, Aue",
+    "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575328",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-08T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "521",
+    "awayTeamId": "90",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575329",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-09T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "81",
+    "awayTeamId": "675",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Spotify Camp Nou, Barcelona",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575330",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-09T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "10",
+    "awayTeamId": "5720",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "MHPArena, Stuttgart",
+    "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575331",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-09T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "64",
+    "awayTeamId": "78",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Anfield, Liverpool",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575332",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-09T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "524",
+    "awayTeamId": "7509",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575333",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-09T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "113",
+    "awayTeamId": "57",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Diego Armando Maradona, Napoli",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575334",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-09T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "498",
+    "awayTeamId": "610",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio José Alvalade, Lisbon",
+    "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575335",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-10T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "613",
+    "awayTeamId": "100",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575336",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-10T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "674",
+    "awayTeamId": "1887",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575337",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-10T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5",
+    "awayTeamId": "5721",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Arena, München",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575338",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-10T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "66",
+    "awayTeamId": "10233",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Old Trafford, Manchester",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575339",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-10T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "7397",
+    "awayTeamId": "721",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Giuseppe Sinigaglia, Como",
+    "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575340",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 1,
+    "stage": "league-phase",
+    "utcDate": "2026-09-10T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "930",
+    "awayTeamId": "546",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Fortuna Arena, Prague",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575341",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-13T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "546",
+    "awayTeamId": "498",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stade Bollaert-Delelis, Lens",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575342",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-13T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "10233",
+    "awayTeamId": "930",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575343",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "108",
+    "awayTeamId": "851",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "San Siro, Milano",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575344",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "610",
+    "awayTeamId": "81",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "RAMS Park, Istanbul",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575345",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "78",
+    "awayTeamId": "66",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Riyadh Air Metropolitano, Madrid",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575346",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "57",
+    "awayTeamId": "521",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Emirates Stadium, London",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575347",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5720",
+    "awayTeamId": "5",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Viking Stadion, Stavanger",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575348",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "721",
+    "awayTeamId": "674",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Red Bull Arena, Leipzig",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575349",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "94",
+    "awayTeamId": "113",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio de la Cerámica, Villarreal",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575350",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-14T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "2016",
+    "awayTeamId": "64",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Raiffeisen Arena (Linz), Linz",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575351",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-14T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "675",
+    "awayTeamId": "7397",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "De Kuip, Rotterdam",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575352",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "100",
+    "awayTeamId": "86",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Olimpico, Roma",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575353",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "65",
+    "awayTeamId": "524",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Etihad Stadium, Manchester",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575354",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5721",
+    "awayTeamId": "4",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Aspmyra Stadion, Bodø/Glimt",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575355",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "58",
+    "awayTeamId": "613",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575356",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "90",
+    "awayTeamId": "503",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio La Cartuja, Sevilla",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575357",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1887",
+    "awayTeamId": "1899",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575358",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "league-phase",
+    "utcDate": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "7509",
+    "awayTeamId": "10",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575359",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-20T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "10233",
+    "awayTeamId": "4",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575360",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-20T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "613",
+    "awayTeamId": "930",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575361",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "65",
+    "awayTeamId": "1899",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575362",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "10",
+    "awayTeamId": "78",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "MHPArena, Stuttgart",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575363",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "64",
+    "awayTeamId": "94",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Anfield, Liverpool",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575364",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "100",
+    "awayTeamId": "7509",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575365",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "503",
+    "awayTeamId": "674",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio do Dragão, Porto",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575366",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "113",
+    "awayTeamId": "5721",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Diego Armando Maradona, Napoli",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575367",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "524",
+    "awayTeamId": "81",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Parc des Princes, Paris",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575368",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-21T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "7397",
+    "awayTeamId": "66",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Giuseppe Sinigaglia, Como",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575369",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-21T16:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "521",
+    "awayTeamId": "610",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575370",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "86",
+    "awayTeamId": "721",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Santiago Bernabéu, Madrid",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575371",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "108",
+    "awayTeamId": "1887",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575372",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5",
+    "awayTeamId": "57",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Arena, München",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575373",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "851",
+    "awayTeamId": "546",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Jan Breydel Stadium, Brugge",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575374",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "58",
+    "awayTeamId": "5720",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Villa Park, Birmingham",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575375",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "498",
+    "awayTeamId": "2016",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio José Alvalade, Lisbon",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575376",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 3,
+    "stage": "league-phase",
+    "utcDate": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "90",
+    "awayTeamId": "675",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio La Cartuja, Sevilla",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575377",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-03T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1887",
+    "awayTeamId": "498",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575378",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-03T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "610",
+    "awayTeamId": "10",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "RAMS Park, Istanbul",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575379",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "675",
+    "awayTeamId": "108",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "De Kuip, Rotterdam",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575380",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "81",
+    "awayTeamId": "58",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Spotify Camp Nou, Barcelona",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575381",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "78",
+    "awayTeamId": "5",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Riyadh Air Metropolitano, Madrid",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575382",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "94",
+    "awayTeamId": "524",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio de la Cerámica, Villarreal",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575383",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "66",
+    "awayTeamId": "100",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Old Trafford, Manchester",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575384",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5721",
+    "awayTeamId": "521",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Aspmyra Stadion, Bodø/Glimt",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575385",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "2016",
+    "awayTeamId": "7509",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575386",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-04T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1899",
+    "awayTeamId": "86",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575387",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-04T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "613",
+    "awayTeamId": "64",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575388",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "721",
+    "awayTeamId": "65",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Red Bull Arena, Leipzig",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575389",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "930",
+    "awayTeamId": "57",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Fortuna Arena, Prague",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575390",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "674",
+    "awayTeamId": "851",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Philips Stadion, Eindhoven",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575391",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "4",
+    "awayTeamId": "90",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Signal Iduna Park, Aue",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575392",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "503",
+    "awayTeamId": "113",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio do Dragão, Porto",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575393",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "546",
+    "awayTeamId": "7397",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stade Bollaert-Delelis, Lens",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575394",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "league-phase",
+    "utcDate": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5720",
+    "awayTeamId": "10233",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Viking Stadion, Stavanger",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575395",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-24T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "610",
+    "awayTeamId": "58",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "RAMS Park, Istanbul",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575396",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-24T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5721",
+    "awayTeamId": "2016",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Aspmyra Stadion, Bodø/Glimt",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575397",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "86",
+    "awayTeamId": "674",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Santiago Bernabéu, Madrid",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575398",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "65",
+    "awayTeamId": "113",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Etihad Stadium, Manchester",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575399",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "57",
+    "awayTeamId": "4",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Emirates Stadium, London",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575400",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "675",
+    "awayTeamId": "503",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "De Kuip, Rotterdam",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575401",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "7509",
+    "awayTeamId": "90",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575402",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "721",
+    "awayTeamId": "546",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Red Bull Arena, Leipzig",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575403",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "7397",
+    "awayTeamId": "1899",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575404",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-25T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "10233",
+    "awayTeamId": "81",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575405",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-25T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "930",
+    "awayTeamId": "94",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Fortuna Arena, Prague",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575406",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "108",
+    "awayTeamId": "10",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "San Siro, Milano",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575407",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "78",
+    "awayTeamId": "5720",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Riyadh Air Metropolitano, Madrid",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575408",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "524",
+    "awayTeamId": "100",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Parc des Princes, Paris",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575409",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "851",
+    "awayTeamId": "64",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Jan Breydel Stadium, Brugge",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575410",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "521",
+    "awayTeamId": "5",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575411",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "498",
+    "awayTeamId": "66",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio José Alvalade, Lisbon",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575412",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "league-phase",
+    "utcDate": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1887",
+    "awayTeamId": "613",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575413",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-08T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "94",
+    "awayTeamId": "10233",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio de la Cerámica, Villarreal",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575414",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-08T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5720",
+    "awayTeamId": "675",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Viking Stadion, Stavanger",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575415",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "81",
+    "awayTeamId": "65",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Spotify Camp Nou, Barcelona",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575416",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "58",
+    "awayTeamId": "524",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Villa Park, Birmingham",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575417",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5",
+    "awayTeamId": "930",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Arena, München",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575418",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "113",
+    "awayTeamId": "851",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Diego Armando Maradona, Napoli",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575419",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "100",
+    "awayTeamId": "498",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Olimpico, Roma",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575420",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "66",
+    "awayTeamId": "721",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Old Trafford, Manchester",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575421",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1899",
+    "awayTeamId": "610",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575422",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-09T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "90",
+    "awayTeamId": "7397",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio La Cartuja, Sevilla",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575423",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-09T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "7509",
+    "awayTeamId": "1887",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575280",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "57",
+    "awayTeamId": "86",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Emirates Stadium, London",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575286",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "4",
+    "awayTeamId": "108",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Signal Iduna Park, Aue",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575290",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "674",
+    "awayTeamId": "78",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Philips Stadion, Eindhoven",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575295",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "64",
+    "awayTeamId": "503",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Anfield, Liverpool",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575315",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "546",
+    "awayTeamId": "5721",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stade Bollaert-Delelis, Lens",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575317",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "2016",
+    "awayTeamId": "613",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575322",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "league-phase",
+    "utcDate": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "10",
+    "awayTeamId": "521",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "MHPArena, Stuttgart",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575292",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-19T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5721",
+    "awayTeamId": "78",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Aspmyra Stadion, Bodø/Glimt",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575318",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-19T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "610",
+    "awayTeamId": "675",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "RAMS Park, Istanbul",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575282",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "86",
+    "awayTeamId": "2016",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Santiago Bernabéu, Madrid",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575285",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "108",
+    "awayTeamId": "64",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "San Siro, Milano",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575302",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "10",
+    "awayTeamId": "851",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "MHPArena, Stuttgart",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575303",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "58",
+    "awayTeamId": "4",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Villa Park, Birmingham",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575307",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1899",
+    "awayTeamId": "100",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575308",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "503",
+    "awayTeamId": "930",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio do Dragão, Porto",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575321",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "521",
+    "awayTeamId": "7509",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575314",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-20T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "613",
+    "awayTeamId": "94",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575320",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-20T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "10233",
+    "awayTeamId": "113",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575284",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "546",
+    "awayTeamId": "65",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stade Bollaert-Delelis, Lens",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575288",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "498",
+    "awayTeamId": "81",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio José Alvalade, Lisbon",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575294",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "7397",
+    "awayTeamId": "524",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Giuseppe Sinigaglia, Como",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575297",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "90",
+    "awayTeamId": "57",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio La Cartuja, Sevilla",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575300",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "66",
+    "awayTeamId": "5",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Old Trafford, Manchester",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575312",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5720",
+    "awayTeamId": "674",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Viking Stadion, Stavanger",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575313",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "league-phase",
+    "utcDate": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "721",
+    "awayTeamId": "1887",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575281",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1887",
+    "awayTeamId": "86",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575283",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "65",
+    "awayTeamId": "498",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Etihad Stadium, Manchester",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575287",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "7509",
+    "awayTeamId": "108",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575289",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "81",
+    "awayTeamId": "7397",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Spotify Camp Nou, Barcelona",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575291",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "78",
+    "awayTeamId": "613",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575293",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "524",
+    "awayTeamId": "610",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Parc des Princes, Paris",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575296",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "64",
+    "awayTeamId": "546",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Anfield, Liverpool",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575298",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "57",
+    "awayTeamId": "10233",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Emirates Stadium, London",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575299",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5",
+    "awayTeamId": "90",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Arena, München",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575301",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "851",
+    "awayTeamId": "5721",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Jan Breydel Stadium, Brugge",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575304",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "4",
+    "awayTeamId": "1899",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "575305",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "930",
+    "awayTeamId": "58",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Fortuna Arena, Prague",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575306",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "100",
+    "awayTeamId": "521",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Olimpico, Roma",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575309",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "2016",
+    "awayTeamId": "503",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Raiffeisen Arena (Linz), Linz",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575310",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "94",
+    "awayTeamId": "66",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio de la Cerámica, Villarreal",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575311",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "674",
+    "awayTeamId": "10",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Philips Stadion, Eindhoven",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575316",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "675",
+    "awayTeamId": "721",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "De Kuip, Rotterdam",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "575319",
+    "competitionId": "CL",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "league-phase",
+    "utcDate": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "113",
+    "awayTeamId": "5720",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadio Diego Armando Maradona, Napoli",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  }
+]
