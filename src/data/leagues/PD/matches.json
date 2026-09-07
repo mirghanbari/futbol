@@ -2158,14 +2158,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-07T17:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "82",
     "awayTeamId": "558",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 30,
+        "xg": 0.81,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 171,
+        "duelsWon": 32,
+        "boxTouches": 15,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 70,
+        "xg": 0.96,
+        "shots": 16,
+        "shotsOnTarget": 3,
+        "accuratePasses": 499,
+        "duelsWon": 36,
+        "boxTouches": 22,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "Estadio Coliseum, Getafe",
     "broadcasts": [
@@ -2182,14 +2210,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-07T19:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "285",
     "awayTeamId": "92",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Estadio Martínez Valero, Elche",
     "broadcasts": [

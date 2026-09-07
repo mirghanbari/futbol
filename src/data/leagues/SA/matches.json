@@ -1482,7 +1482,7 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-07T16:30:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "104",
     "awayTeamId": "5890",
     "homeTeam": {
@@ -1490,6 +1490,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 1.36,
+        "shots": 20,
+        "shotsOnTarget": 9,
+        "accuratePasses": 304,
+        "duelsWon": 37,
+        "boxTouches": 29,
+        "fouls": 9,
+        "corners": 7,
+        "offsides": 5,
+        "saves": 3
+      },
+      "away": {
+        "possession": 58,
+        "xg": 0.41,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 425,
+        "duelsWon": 46,
+        "boxTouches": 14,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 8
+      }
     },
     "venue": "Unipol Domus, Cagliari",
     "broadcasts": [
@@ -1506,14 +1534,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-07T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "115",
     "awayTeamId": "110",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Stadio Friuli, Udine",
     "broadcasts": [
