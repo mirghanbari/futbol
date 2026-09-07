@@ -1910,7 +1910,7 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-07T19:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "582",
     "awayTeamId": "712",
     "homeTeam": {
@@ -1918,6 +1918,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 0.86,
+        "shots": 18,
+        "shotsOnTarget": 8,
+        "accuratePasses": 359,
+        "duelsWon": 55,
+        "boxTouches": 22,
+        "fouls": 12,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1.07,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 422,
+        "duelsWon": 46,
+        "boxTouches": 15,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 8
+      }
     },
     "venue": "Estádio António Coimbra da Mota, Estoril"
   },
