@@ -2158,7 +2158,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-07T17:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "82",
     "awayTeamId": "558",
     "homeTeam": {
@@ -2242,6 +2242,10 @@
     "venue": "El Sardineros, Santander",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -2266,6 +2270,10 @@
     "venue": "El Sadar, Pamplona",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -2289,6 +2297,10 @@
     },
     "venue": "San Mamés, Bilbao",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -2338,6 +2350,10 @@
     "venue": "Balaidos, Vigo",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -2361,6 +2377,10 @@
     },
     "venue": "Estadi Ciutat de València, Manises",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -2427,6 +2447,10 @@
     "venue": "Estadio de la Cerámica, Villarreal",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -2450,6 +2474,10 @@
     },
     "venue": "Estadio de Vallecas, Madrid",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -2499,6 +2527,10 @@
     "venue": "Estadio Martínez Valero, Elche",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -2539,6 +2571,10 @@
     },
     "venue": "Riyadh Air Metropolitano, Madrid",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -2588,6 +2624,10 @@
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -2611,6 +2651,10 @@
     },
     "venue": "Estadio La Cartuja, Sevilla",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -2636,6 +2680,10 @@
     "venue": "La Rosaleda, Malaga",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -2659,6 +2707,10 @@
     },
     "venue": "RCDE Stadium, Barcelona",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -2684,6 +2736,10 @@
     "venue": "El Sadar, Pamplona",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -2707,6 +2763,10 @@
     },
     "venue": "San Mamés, Bilbao",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -2732,6 +2792,10 @@
     "venue": "Balaidos, Vigo",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -2755,6 +2819,10 @@
     },
     "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -2780,6 +2848,10 @@
     "venue": "Estadio Coliseum, Getafe",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -2803,6 +2875,10 @@
     },
     "venue": "Riyadh Air Metropolitano, Madrid",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -2868,6 +2944,10 @@
     },
     "venue": "Mestalla Stadium, Manises",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
