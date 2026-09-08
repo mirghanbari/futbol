@@ -66,7 +66,7 @@
     "homeTeamId": "1899",
     "awayTeamId": "2016",
     "homeTeam": {
-      "goals": 2
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -79,14 +79,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-08T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "86",
     "awayTeamId": "108",
     "homeTeam": {
       "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 2.91,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 306,
+        "duelsWon": 37,
+        "boxTouches": 35,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 7
+      },
+      "away": {
+        "possession": 64,
+        "xg": 1.78,
+        "shots": 21,
+        "shotsOnTarget": 7,
+        "accuratePasses": 584,
+        "duelsWon": 39,
+        "boxTouches": 57,
+        "fouls": 10,
+        "corners": 11,
+        "offsides": 4,
+        "saves": 6
+      }
     },
     "venue": "Santiago Bernabéu, Madrid",
     "broadcasts": [
@@ -103,14 +131,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-08T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "503",
     "awayTeamId": "65",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 0.22,
+        "shots": 5,
+        "shotsOnTarget": 0,
+        "accuratePasses": 286,
+        "duelsWon": 49,
+        "boxTouches": 8,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 7,
+        "saves": 8
+      },
+      "away": {
+        "possession": 64,
+        "xg": 2.33,
+        "shots": 20,
+        "shotsOnTarget": 10,
+        "accuratePasses": 588,
+        "duelsWon": 43,
+        "boxTouches": 29,
+        "fouls": 17,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 0
+      }
     },
     "venue": "Estádio do Dragão, Porto",
     "broadcasts": [
@@ -127,14 +183,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-08T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "4",
     "awayTeamId": "94",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.83,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 461,
+        "duelsWon": 42,
+        "boxTouches": 28,
+        "fouls": 15,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.34,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 413,
+        "duelsWon": 61,
+        "boxTouches": 14,
+        "fouls": 10,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "Signal Iduna Park, Aue",
     "broadcasts": [
@@ -155,14 +239,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-08T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "521",
     "awayTeamId": "90",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.02,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 392,
+        "duelsWon": 47,
+        "boxTouches": 13,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.75,
+        "shots": 20,
+        "shotsOnTarget": 5,
+        "accuratePasses": 495,
+        "duelsWon": 34,
+        "boxTouches": 31,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 0
+      }
     },
     "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
     "broadcasts": [

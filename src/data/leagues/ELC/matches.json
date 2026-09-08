@@ -2972,7 +2972,7 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-06T11:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "332",
     "awayTeamId": "76",
     "homeTeam": {
@@ -3024,14 +3024,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-08T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "59",
     "awayTeamId": "356",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 1.6,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 538,
+        "duelsWon": 41,
+        "boxTouches": 32,
+        "fouls": 9,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.47,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 290,
+        "duelsWon": 52,
+        "boxTouches": 14,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Ewood Park, Blackburn"
   },
@@ -3042,14 +3070,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-08T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "340",
     "awayTeamId": "72",
     "homeTeam": {
-      "goals": 2
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 1.19,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 384,
+        "duelsWon": 37,
+        "boxTouches": 31,
+        "fouls": 10,
+        "corners": 9,
+        "offsides": 5,
+        "saves": 1
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1.15,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 422,
+        "duelsWon": 39,
+        "boxTouches": 19,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "St. Mary's Stadium, Southampton"
   },
@@ -3060,14 +3116,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-08T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "346",
     "awayTeamId": "1081",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 1.26,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 436,
+        "duelsWon": 39,
+        "boxTouches": 34,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 39,
+        "xg": 2.44,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 243,
+        "duelsWon": 52,
+        "boxTouches": 16,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Vicarage Road, Watford"
   },
@@ -3078,14 +3162,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-08T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "715",
     "awayTeamId": "70",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 71,
+        "xg": 2.92,
+        "shots": 27,
+        "shotsOnTarget": 7,
+        "accuratePasses": 489,
+        "duelsWon": 57,
+        "boxTouches": 34,
+        "fouls": 5,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 29,
+        "xg": 0.75,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 156,
+        "duelsWon": 43,
+        "boxTouches": 16,
+        "fouls": 19,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 6
+      }
     },
     "venue": "Cardiff City Stadium, Cardiff"
   },
@@ -3096,14 +3208,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-08T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "404",
     "awayTeamId": "328",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 1.28,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 435,
+        "duelsWon": 43,
+        "boxTouches": 29,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.5,
+        "shots": 19,
+        "shotsOnTarget": 4,
+        "accuratePasses": 393,
+        "duelsWon": 47,
+        "boxTouches": 22,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "STōK Cae Ras, Wrexham",
     "broadcasts": [
@@ -3120,14 +3260,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-08T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "60",
     "awayTeamId": "563",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.52,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 351,
+        "duelsWon": 56,
+        "boxTouches": 25,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 49,
+        "xg": 2.16,
+        "shots": 11,
+        "shotsOnTarget": 7,
+        "accuratePasses": 337,
+        "duelsWon": 46,
+        "boxTouches": 24,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "Toughsheet Community Stadium, Manchester",
     "broadcasts": [
