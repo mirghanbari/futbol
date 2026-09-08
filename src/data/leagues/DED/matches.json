@@ -2024,14 +2024,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-08T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1915",
     "awayTeamId": "670",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 69,
+        "xg": 1.36,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 582,
+        "duelsWon": 54,
+        "boxTouches": 40,
+        "fouls": 5,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 31,
+        "xg": 1.81,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 213,
+        "duelsWon": 54,
+        "boxTouches": 17,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Goffertstadion, Nijmegen"
   },

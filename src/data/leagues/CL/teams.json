@@ -1,10 +1,66 @@
 [
   {
+    "id": "86",
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "tla": "RMA",
+    "crest": "https://crests.football-data.org/86.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "58",
+    "name": "Aston Villa FC",
+    "shortName": "Aston Villa",
+    "tla": "AVL",
+    "crest": "https://crests.football-data.org/58.png",
+    "competitionId": "CL"
+  },
+  {
     "id": "1899",
     "name": "PAE AEK",
     "shortName": "PAE AEK",
     "tla": "AEK",
     "crest": "https://crests.football-data.org/1899.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "521",
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "tla": "LIL",
+    "crest": "https://crests.football-data.org/521.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "4",
+    "name": "Borussia Dortmund",
+    "shortName": "Dortmund",
+    "tla": "BVB",
+    "crest": "https://crests.football-data.org/4.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "503",
+    "name": "FC Porto",
+    "shortName": "Porto",
+    "tla": "FCP",
+    "crest": "https://crests.football-data.org/503.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "65",
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI",
+    "crest": "https://crests.football-data.org/65.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "94",
+    "name": "Villarreal CF",
+    "shortName": "Villarreal",
+    "tla": "VIL",
+    "crest": "https://crests.football-data.org/94.png",
     "competitionId": "CL"
   },
   {
@@ -24,14 +80,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "58",
-    "name": "Aston Villa FC",
-    "shortName": "Aston Villa",
-    "tla": "AVL",
-    "crest": "https://crests.football-data.org/58.png",
-    "competitionId": "CL"
-  },
-  {
     "id": "78",
     "name": "Club Atlético de Madrid",
     "shortName": "Atleti",
@@ -48,22 +96,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "4",
-    "name": "Borussia Dortmund",
-    "shortName": "Dortmund",
-    "tla": "BVB",
-    "crest": "https://crests.football-data.org/4.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "851",
-    "name": "Club Brugge KV",
-    "shortName": "Club Brugge",
-    "tla": "BRU",
-    "crest": "https://crests.football-data.org/851.png",
-    "competitionId": "CL"
-  },
-  {
     "id": "7397",
     "name": "Como 1907",
     "shortName": "Como 1907",
@@ -77,14 +109,6 @@
     "shortName": "Barça",
     "tla": "FCB",
     "crest": "https://crests.football-data.org/81.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "503",
-    "name": "FC Porto",
-    "shortName": "Porto",
-    "tla": "FCP",
-    "crest": "https://crests.football-data.org/503.png",
     "competitionId": "CL"
   },
   {
@@ -120,43 +144,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "108",
-    "name": "FC Internazionale Milano",
-    "shortName": "Inter",
-    "tla": "INT",
-    "crest": "https://crests.football-data.org/108.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "2016",
-    "name": "LASK Linz",
-    "shortName": "LASK",
-    "tla": "LIN",
-    "crest": "https://crests.football-data.org/2016.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "521",
-    "name": "Lille OSC",
-    "shortName": "Lille",
-    "tla": "LIL",
-    "crest": "https://crests.football-data.org/521.png",
-    "competitionId": "CL"
-  },
-  {
     "id": "64",
     "name": "Liverpool FC",
     "shortName": "Liverpool",
     "tla": "LIV",
     "crest": "https://crests.football-data.org/64.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "65",
-    "name": "Manchester City FC",
-    "shortName": "Man City",
-    "tla": "MCI",
-    "crest": "https://crests.football-data.org/65.png",
     "competitionId": "CL"
   },
   {
@@ -197,22 +189,6 @@
     "shortName": "RC Lens",
     "tla": "RCL",
     "crest": "https://crests.football-data.org/546.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "90",
-    "name": "Real Betis Balompié",
-    "shortName": "Real Betis",
-    "tla": "BET",
-    "crest": "https://crests.football-data.org/90.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "86",
-    "name": "Real Madrid CF",
-    "shortName": "Real Madrid",
-    "tla": "RMA",
-    "crest": "https://crests.football-data.org/86.png",
     "competitionId": "CL"
   },
   {
@@ -280,11 +256,35 @@
     "competitionId": "CL"
   },
   {
-    "id": "94",
-    "name": "Villarreal CF",
-    "shortName": "Villarreal",
-    "tla": "VIL",
-    "crest": "https://crests.football-data.org/94.png",
+    "id": "851",
+    "name": "Club Brugge KV",
+    "shortName": "Club Brugge",
+    "tla": "BRU",
+    "crest": "https://crests.football-data.org/851.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "2016",
+    "name": "LASK Linz",
+    "shortName": "LASK",
+    "tla": "LIN",
+    "crest": "https://crests.football-data.org/2016.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "90",
+    "name": "Real Betis Balompié",
+    "shortName": "Real Betis",
+    "tla": "BET",
+    "crest": "https://crests.football-data.org/90.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "108",
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT",
+    "crest": "https://crests.football-data.org/108.png",
     "competitionId": "CL"
   }
 ]

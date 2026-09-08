@@ -6,14 +6,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-08T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "851",
     "awayTeamId": "58",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 1.46,
+        "shots": 14,
+        "shotsOnTarget": 7,
+        "accuratePasses": 532,
+        "duelsWon": 53,
+        "boxTouches": 33,
+        "fouls": 17,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 36,
+        "xg": 3,
+        "shots": 21,
+        "shotsOnTarget": 9,
+        "accuratePasses": 281,
+        "duelsWon": 51,
+        "boxTouches": 26,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "Jan Breydel Stadium, Brugge",
     "broadcasts": [
@@ -34,11 +62,11 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-08T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1899",
     "awayTeamId": "2016",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -51,11 +79,11 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-08T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "86",
     "awayTeamId": "108",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -75,7 +103,7 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-08T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "503",
     "awayTeamId": "65",
     "homeTeam": {
@@ -99,7 +127,7 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-08T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "4",
     "awayTeamId": "94",
     "homeTeam": {
@@ -127,11 +155,11 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-08T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "521",
     "awayTeamId": "90",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
