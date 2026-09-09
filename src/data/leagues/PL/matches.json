@@ -1669,7 +1669,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Anfield, Liverpool"
+    "venue": "Anfield, Liverpool",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560574",
@@ -1687,7 +1693,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Villa Park, Birmingham"
+    "venue": "Villa Park, Birmingham",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560576",
@@ -1705,7 +1717,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Vitality Stadium, Bournemouth"
+    "venue": "Vitality Stadium, Bournemouth",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560581",
@@ -1723,7 +1741,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stamford Bridge, London"
+    "venue": "Stamford Bridge, London",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560575",
@@ -1759,7 +1787,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stadium of Light, Sunderland"
+    "venue": "Stadium of Light, Sunderland",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560578",
@@ -1777,7 +1815,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Coventry Building Society Arena, Coventry"
+    "venue": "Coventry Building Society Arena, Coventry",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560580",
@@ -1795,7 +1839,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Old Trafford, Manchester"
+    "venue": "Old Trafford, Manchester",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560579",
@@ -1813,7 +1867,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Elland Road, Leeds"
+    "venue": "Elland Road, Leeds",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560591",
