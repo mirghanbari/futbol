@@ -117,7 +117,7 @@ export default function MatchDetail() {
       : null;
 
   return (
-    <div>
+    <div className="match-detail">
       <p>
         <Link to={`/matches/${competitionId}`}>← Back to {competition?.name ?? "matches"}</Link>
       </p>
@@ -136,23 +136,25 @@ export default function MatchDetail() {
             {away?.name ?? match.awayTeamId}
           </Link>
         </div>
+        <div className="match-head-meta">
+          <p className="match-meta">
+            {match.matchday !== null && `Matchday ${match.matchday} · `}
+            {new Date(match.utcDate).toLocaleString()} ·{" "}
+            {isLive && <span className="live-dot" aria-label="Live" />}
+            {isLive && clock ? (isHalfTime ? clock : `${clock}'`) : match.status}
+          </p>
+          {match.venue && <p className="match-meta">{match.venue}</p>}
+          {match.broadcasts && match.broadcasts.length > 0 && (
+            <p className="broadcasts">
+              {match.broadcasts.map((b) => (
+                <span className="broadcast-badge" key={`${b.kind}-${b.name}`}>
+                  {b.kind === "streaming" ? "▶" : "📺"} {b.name}
+                </span>
+              ))}
+            </p>
+          )}
+        </div>
       </div>
-      <p className="match-meta">
-        {match.matchday !== null && `Matchday ${match.matchday} · `}
-        {new Date(match.utcDate).toLocaleString()} ·{" "}
-        {isLive && <span className="live-dot" aria-label="Live" />}
-        {isLive && clock ? (isHalfTime ? clock : `${clock}'`) : match.status}
-      </p>
-      {match.venue && <p className="match-meta">{match.venue}</p>}
-      {match.broadcasts && match.broadcasts.length > 0 && (
-        <p className="broadcasts">
-          {match.broadcasts.map((b) => (
-            <span className="broadcast-badge" key={`${b.kind}-${b.name}`}>
-              {b.kind === "streaming" ? "▶" : "📺"} {b.name}
-            </span>
-          ))}
-        </p>
-      )}
 
       {odds && (
         <div className="card">
