@@ -1956,14 +1956,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-09T19:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "583",
     "awayTeamId": "1903",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 26,
+        "xg": 0.39,
+        "shots": 8,
+        "shotsOnTarget": 1,
+        "accuratePasses": 167,
+        "duelsWon": 40,
+        "boxTouches": 8,
+        "fouls": 17,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 74,
+        "xg": 2.99,
+        "shots": 21,
+        "shotsOnTarget": 9,
+        "accuratePasses": 629,
+        "duelsWon": 54,
+        "boxTouches": 52,
+        "fouls": 10,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "Estádio Comendador Joaquim de Almeida Freitas, Moreira de Conegos"
   },
