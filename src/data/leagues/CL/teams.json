@@ -1,10 +1,26 @@
 [
   {
+    "id": "524",
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png",
+    "competitionId": "CL"
+  },
+  {
     "id": "81",
     "name": "FC Barcelona",
     "shortName": "Barça",
     "tla": "FCB",
     "crest": "https://crests.football-data.org/81.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "498",
+    "name": "Sporting Clube de Portugal",
+    "shortName": "Sporting CP",
+    "tla": "SPO",
+    "crest": "https://crests.football-data.org/498.png",
     "competitionId": "CL"
   },
   {
@@ -48,19 +64,19 @@
     "competitionId": "CL"
   },
   {
+    "id": "64",
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png",
+    "competitionId": "CL"
+  },
+  {
     "id": "86",
     "name": "Real Madrid CF",
     "shortName": "Real Madrid",
     "tla": "RMA",
     "crest": "https://crests.football-data.org/86.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "1899",
-    "name": "PAE AEK",
-    "shortName": "PAE AEK",
-    "tla": "AEK",
-    "crest": "https://crests.football-data.org/1899.png",
     "competitionId": "CL"
   },
   {
@@ -72,19 +88,19 @@
     "competitionId": "CL"
   },
   {
+    "id": "1899",
+    "name": "PAE AEK",
+    "shortName": "PAE AEK",
+    "tla": "AEK",
+    "crest": "https://crests.football-data.org/1899.png",
+    "competitionId": "CL"
+  },
+  {
     "id": "100",
     "name": "AS Roma",
     "shortName": "Roma",
     "tla": "ROM",
     "crest": "https://crests.football-data.org/100.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "78",
-    "name": "Club Atlético de Madrid",
-    "shortName": "Atleti",
-    "tla": "ATL",
-    "crest": "https://crests.football-data.org/78.png",
     "competitionId": "CL"
   },
   {
@@ -120,35 +136,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "610",
-    "name": "Galatasaray SK",
-    "shortName": "Galatasaray",
-    "tla": "GAL",
-    "crest": "https://crests.football-data.org/610.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "64",
-    "name": "Liverpool FC",
-    "shortName": "Liverpool",
-    "tla": "LIV",
-    "crest": "https://crests.football-data.org/64.png",
-    "competitionId": "CL"
-  },
-  {
     "id": "66",
     "name": "Manchester United FC",
     "shortName": "Man United",
     "tla": "MUN",
     "crest": "https://crests.football-data.org/66.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "524",
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png",
     "competitionId": "CL"
   },
   {
@@ -200,30 +192,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "7509",
-    "name": "ŠK Slovan Bratislava",
-    "shortName": "Sl. Bratislava",
-    "tla": "SBA",
-    "crest": "https://crests.football-data.org/7509.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "498",
-    "name": "Sporting Clube de Portugal",
-    "shortName": "Sporting CP",
-    "tla": "SPO",
-    "crest": "https://crests.football-data.org/498.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "113",
-    "name": "SSC Napoli",
-    "shortName": "Napoli",
-    "tla": "NAP",
-    "crest": "https://crests.football-data.org/113.png",
-    "competitionId": "CL"
-  },
-  {
     "id": "94",
     "name": "Villarreal CF",
     "shortName": "Villarreal",
@@ -248,6 +216,14 @@
     "competitionId": "CL"
   },
   {
+    "id": "78",
+    "name": "Club Atlético de Madrid",
+    "shortName": "Atleti",
+    "tla": "ATL",
+    "crest": "https://crests.football-data.org/78.png",
+    "competitionId": "CL"
+  },
+  {
     "id": "108",
     "name": "FC Internazionale Milano",
     "shortName": "Inter",
@@ -261,6 +237,22 @@
     "shortName": "LASK",
     "tla": "LIN",
     "crest": "https://crests.football-data.org/2016.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "113",
+    "name": "SSC Napoli",
+    "shortName": "Napoli",
+    "tla": "NAP",
+    "crest": "https://crests.football-data.org/113.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "610",
+    "name": "Galatasaray SK",
+    "shortName": "Galatasaray",
+    "tla": "GAL",
+    "crest": "https://crests.football-data.org/610.png",
     "competitionId": "CL"
   },
   {
@@ -285,6 +277,14 @@
     "shortName": "Feyenoord",
     "tla": "FEY",
     "crest": "https://crests.football-data.org/675.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "7509",
+    "name": "ŠK Slovan Bratislava",
+    "shortName": "Sl. Bratislava",
+    "tla": "SBA",
+    "crest": "https://crests.football-data.org/7509.png",
     "competitionId": "CL"
   }
 ]

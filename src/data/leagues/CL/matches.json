@@ -291,14 +291,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-09T16:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "81",
     "awayTeamId": "675",
     "homeTeam": {
-      "goals": 3
+      "goals": 5
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 72,
+        "xg": 1.63,
+        "shots": 24,
+        "shotsOnTarget": 9,
+        "accuratePasses": 746,
+        "duelsWon": 54,
+        "boxTouches": 45,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 28,
+        "xg": 0.51,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 255,
+        "duelsWon": 53,
+        "boxTouches": 10,
+        "fouls": 12,
+        "corners": 1,
+        "offsides": 8,
+        "saves": 4
+      }
     },
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
@@ -315,7 +343,7 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-09T16:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "10",
     "awayTeamId": "5720",
     "homeTeam": {
@@ -343,14 +371,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-09T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "64",
     "awayTeamId": "78",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.69,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 355,
+        "duelsWon": 41,
+        "boxTouches": 31,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 55,
+        "xg": 0.81,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 439,
+        "duelsWon": 47,
+        "boxTouches": 18,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 5,
+        "saves": 3
+      }
     },
     "venue": "Anfield, Liverpool",
     "broadcasts": [
@@ -367,14 +423,14 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-09T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "524",
     "awayTeamId": "7509",
     "homeTeam": {
-      "goals": 0
+      "goals": 6
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     }
   },
   {
@@ -384,14 +440,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-09T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "113",
     "awayTeamId": "57",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 0.22,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 383,
+        "duelsWon": 37,
+        "boxTouches": 9,
+        "fouls": 12,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 58,
+        "xg": 4.05,
+        "shots": 26,
+        "shotsOnTarget": 8,
+        "accuratePasses": 559,
+        "duelsWon": 36,
+        "boxTouches": 52,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Stadio Diego Armando Maradona, Napoli",
     "broadcasts": [
@@ -408,14 +492,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-09T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "498",
     "awayTeamId": "610",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 1.55,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 301,
+        "duelsWon": 41,
+        "boxTouches": 13,
+        "fouls": 13,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 62,
+        "xg": 1.02,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 522,
+        "duelsWon": 36,
+        "boxTouches": 17,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Estádio José Alvalade, Lisbon",
     "broadcasts": [

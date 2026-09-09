@@ -3312,14 +3312,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-09T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "342",
     "awayTeamId": "74",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 1.2,
+        "shots": 13,
+        "shotsOnTarget": 3,
+        "accuratePasses": 480,
+        "duelsWon": 47,
+        "boxTouches": 35,
+        "fouls": 12,
+        "corners": 11,
+        "offsides": 4,
+        "saves": 0
+      },
+      "away": {
+        "possession": 33,
+        "xg": 0.38,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 202,
+        "duelsWon": 52,
+        "boxTouches": 9,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 3
+      }
     },
     "venue": "Pride Park, Derby"
   },
@@ -3330,14 +3358,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-09T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "68",
     "awayTeamId": "332",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 0.82,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 246,
+        "duelsWon": 66,
+        "boxTouches": 27,
+        "fouls": 12,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.79,
+        "shots": 14,
+        "shotsOnTarget": 3,
+        "accuratePasses": 218,
+        "duelsWon": 51,
+        "boxTouches": 36,
+        "fouls": 9,
+        "corners": 7,
+        "offsides": 4,
+        "saves": 4
+      }
     },
     "venue": "Carrow Road, Norwich",
     "broadcasts": [
@@ -3354,7 +3410,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-09T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "348",
     "awayTeamId": "69",
     "homeTeam": {
@@ -3362,6 +3418,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 28,
+        "xg": 0.6,
+        "shots": 9,
+        "shotsOnTarget": 0,
+        "accuratePasses": 194,
+        "duelsWon": 44,
+        "boxTouches": 14,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 72,
+        "xg": 0.73,
+        "shots": 15,
+        "shotsOnTarget": 2,
+        "accuratePasses": 607,
+        "duelsWon": 39,
+        "boxTouches": 31,
+        "fouls": 10,
+        "corners": 12,
+        "offsides": 0,
+        "saves": 0
+      }
     },
     "venue": "The Valley, London",
     "broadcasts": [
