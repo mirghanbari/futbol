@@ -568,6 +568,28 @@ th.num {
   color: var(--danger);
 }
 
+/* ---------- Live now strip (top of Matches / league Overview) ---------- */
+.live-now {
+  margin: 1.25rem 0 1.5rem;
+}
+
+.live-now-title {
+  display: flex;
+  align-items: center;
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--danger);
+  margin: 0 0 0.6rem;
+}
+
+/* Ring rather than a border so the card's box model — and therefore its
+   width in the .matches-grid track — is identical to a non-live card's. */
+.match-card-live {
+  box-shadow: 0 0 0 1.5px var(--danger), var(--shadow);
+}
+
 .live-dot {
   display: inline-block;
   width: 0.5rem;

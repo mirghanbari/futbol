@@ -4,7 +4,7 @@ import { matchById, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { ProbabilityBar } from "../components/ProbabilityBar";
-import { applyLive, useLiveData } from "../data/live";
+import { applyLive, formatMinute, useLiveData } from "../data/live";
 import { computeRatings, expectedGoals, matchProbabilities } from "../data/ratings";
 import { useSeo } from "../data/seo";
 import type { Match, MatchAdvancedStats } from "../data/types";
@@ -106,7 +106,7 @@ export default function MatchDetail() {
 
   const isLive = match.status === "in-play" || match.status === "paused";
   const isHalfTime = match.status === "paused";
-  const clock = isHalfTime ? "HT" : match.minute;
+  const clock = isHalfTime ? "HT" : match.minute ? formatMinute(match.minute) : "";
 
   const odds =
     match.status === "scheduled" && ratingsModel
@@ -140,8 +140,8 @@ export default function MatchDetail() {
           <p className="match-meta">
             {match.matchday !== null && `Matchday ${match.matchday} · `}
             {new Date(match.utcDate).toLocaleString()} ·{" "}
-            {isLive && <span className="live-dot" aria-label="Live" />}
-            {isLive && clock ? (isHalfTime ? clock : `${clock}'`) : match.status}
+            {isLive && <span className="live-dot" role="img" aria-label="Live" />}
+            {isLive && clock ? clock : match.status}
           </p>
           {match.venue && <p className="match-meta">{match.venue}</p>}
           {match.broadcasts && match.broadcasts.length > 0 && (

@@ -47,6 +47,18 @@ export function useLiveData(): LiveData | null {
   return data;
 }
 
+// ESPN's displayClock already carries the apostrophe it wants to be shown
+// with ("41'", "45+2'"), so appending one unconditionally renders 41''. Add it
+// only when it's missing, since a bare "41" does turn up in the feed too.
+// Returns "" for a blank clock (a whitespace-only displayClock does turn up),
+// so callers can fall back with `formatMinute(x) || "Live"` rather than
+// rendering a lone apostrophe.
+export function formatMinute(minute: string): string {
+  const trimmed = minute.trim();
+  if (trimmed === "") return "";
+  return trimmed.endsWith("'") ? trimmed : `${trimmed}'`;
+}
+
 export function applyLive(
   matches: Match[],
   live: LiveData | null,

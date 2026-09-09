@@ -3,6 +3,8 @@ import { Link, useParams } from "react-router-dom";
 import { playerById, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
+import { LiveNow } from "../components/LiveNow";
+import { applyLive, useLiveData } from "../data/live";
 import { useSeo } from "../data/seo";
 import type { LeagueData } from "../data";
 import type { Match } from "../data/types";
@@ -112,8 +114,16 @@ function GoalsByMatchday({ matches }: { matches: Match[] }) {
   );
 }
 
-function LatestResults({ data, competitionId }: { data: LeagueData; competitionId: string }) {
-  const rows = [...data.matches]
+function LatestResults({
+  matches,
+  data,
+  competitionId,
+}: {
+  matches: Match[];
+  data: LeagueData;
+  competitionId: string;
+}) {
+  const rows = [...matches]
     .filter((m) => m.status === "finished")
     .sort((a, b) => b.utcDate.localeCompare(a.utcDate))
     .slice(0, 5);
@@ -156,6 +166,7 @@ function LatestResults({ data, competitionId }: { data: LeagueData; competitionI
 export default function LeagueOverview() {
   const { competitionId } = useParams();
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
+  const live = useLiveData();
 
   useSeo({
     title: competition ? `${competition.name} Overview` : "Overview",
@@ -165,7 +176,13 @@ export default function LeagueOverview() {
   if (error || loading) return <LeagueStatus error={error} loading={loading} />;
   if (!data || !competition || !competitionId) return null;
 
-  const finished = data.matches.filter((m) => m.status === "finished");
+  // Every matches-derived panel below reads the live-patched list, not
+  // `data.matches` — live.json flips a match to finished (with its final
+  // score) well before the next full ingest rewrites matches.json, and
+  // splitting the two sources would drop that match out of both the live
+  // strip and the results list in the meantime.
+  const withLive = applyLive(data.matches, live, competitionId);
+  const finished = withLive.filter((m) => m.status === "finished");
   const totalGoals = finished.reduce((sum, m) => sum + m.homeTeam.goals + m.awayTeam.goals, 0);
   const avgGoals = finished.length > 0 ? (totalGoals / finished.length).toFixed(1) : null;
 
@@ -179,6 +196,8 @@ export default function LeagueOverview() {
           {competition.season ? ` · ${competition.season} season` : ""}
         </p>
       </div>
+
+      <LiveNow matches={withLive} data={data} competitionId={competitionId} showDate />
 
       {data.isFallbackStats && (
         <p className="season-banner">
@@ -217,11 +236,11 @@ export default function LeagueOverview() {
           when there's no finished-match data to draw from). */}
       <div className="stats-grid" style={{ marginTop: "0.5rem" }}>
         <TopScorers data={data} competitionId={competitionId} />
-        <GoalsByMatchday matches={data.matches} />
+        <GoalsByMatchday matches={withLive} />
       </div>
 
       <div style={{ marginTop: "1.5rem" }}>
-        <LatestResults data={data} competitionId={competitionId} />
+        <LatestResults matches={withLive} data={data} competitionId={competitionId} />
       </div>
     </div>
   );
