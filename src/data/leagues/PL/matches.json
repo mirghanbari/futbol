@@ -1651,7 +1651,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Selhurst Park, London"
+    "venue": "Selhurst Park, London",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560573",
@@ -1769,7 +1775,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Tottenham Hotspur Stadium, London"
+    "venue": "Tottenham Hotspur Stadium, London",
+    "broadcasts": [
+      {
+        "name": "NBC",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560577",

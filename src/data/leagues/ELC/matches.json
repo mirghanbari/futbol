@@ -3897,7 +3897,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Molineux Stadium, Wolverhampton"
+    "venue": "Molineux Stadium, Wolverhampton",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561850",
@@ -4581,7 +4587,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Molineux Stadium, Wolverhampton"
+    "venue": "Molineux Stadium, Wolverhampton",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561894",

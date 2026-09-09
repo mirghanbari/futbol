@@ -999,7 +999,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Signal Iduna Park, Aue"
+    "venue": "Signal Iduna Park, Aue",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "565796",
