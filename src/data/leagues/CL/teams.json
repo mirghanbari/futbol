@@ -1,5 +1,21 @@
 [
   {
+    "id": "81",
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "10",
+    "name": "VfB Stuttgart",
+    "shortName": "Stuttgart",
+    "tla": "VFB",
+    "crest": "https://crests.football-data.org/10.png",
+    "competitionId": "CL"
+  },
+  {
     "id": "65",
     "name": "Manchester City FC",
     "shortName": "Man City",
@@ -88,27 +104,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "81",
-    "name": "FC Barcelona",
-    "shortName": "Barça",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/81.png",
-    "competitionId": "CL"
-  },
-  {
     "id": "613",
     "name": "Fenerbahçe SK",
     "shortName": "Fenerbahçe",
     "tla": "FEN",
     "crest": "https://crests.football-data.org/613.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "675",
-    "name": "Feyenoord Rotterdam",
-    "shortName": "Feyenoord",
-    "tla": "FEY",
-    "crest": "https://crests.football-data.org/675.png",
     "competitionId": "CL"
   },
   {
@@ -224,22 +224,6 @@
     "competitionId": "CL"
   },
   {
-    "id": "10",
-    "name": "VfB Stuttgart",
-    "shortName": "Stuttgart",
-    "tla": "VFB",
-    "crest": "https://crests.football-data.org/10.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "5720",
-    "name": "Viking FK",
-    "shortName": "Viking",
-    "tla": "VIK",
-    "crest": "https://crests.football-data.org/5720.png",
-    "competitionId": "CL"
-  },
-  {
     "id": "94",
     "name": "Villarreal CF",
     "shortName": "Villarreal",
@@ -280,11 +264,27 @@
     "competitionId": "CL"
   },
   {
+    "id": "5720",
+    "name": "Viking FK",
+    "shortName": "Viking",
+    "tla": "VIK",
+    "crest": "https://crests.football-data.org/5720.png",
+    "competitionId": "CL"
+  },
+  {
     "id": "503",
     "name": "FC Porto",
     "shortName": "Porto",
     "tla": "FCP",
     "crest": "https://crests.football-data.org/503.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "675",
+    "name": "Feyenoord Rotterdam",
+    "shortName": "Feyenoord",
+    "tla": "FEY",
+    "crest": "https://crests.football-data.org/675.png",
     "competitionId": "CL"
   }
 ]

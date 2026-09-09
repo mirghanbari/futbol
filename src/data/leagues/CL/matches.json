@@ -291,14 +291,14 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-09T16:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "81",
     "awayTeamId": "675",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
@@ -315,14 +315,14 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-09T16:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "10",
     "awayTeamId": "5720",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "MHPArena, Stuttgart",
     "broadcasts": [
@@ -603,6 +603,7 @@
     "awayTeam": {
       "goals": 0
     },
+    "venue": "Baku Olympic Stadium, Baku",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -989,6 +990,7 @@
     "awayTeam": {
       "goals": 0
     },
+    "venue": "Baku Olympic Stadium, Baku",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -1998,6 +2000,7 @@
     "awayTeam": {
       "goals": 0
     },
+    "venue": "Baku Olympic Stadium, Baku",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -2836,6 +2839,7 @@
     "awayTeam": {
       "goals": 0
     },
+    "venue": "Baku Olympic Stadium, Baku",
     "broadcasts": [
       {
         "name": "Paramount+",
