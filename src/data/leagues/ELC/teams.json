@@ -1,5 +1,13 @@
 [
   {
+    "id": "563",
+    "name": "West Ham United FC",
+    "shortName": "West Ham",
+    "tla": "WHU",
+    "crest": "https://crests.football-data.org/563.png",
+    "competitionId": "ELC"
+  },
+  {
     "id": "72",
     "name": "Swansea City AFC",
     "shortName": "Swansea",
@@ -56,11 +64,11 @@
     "competitionId": "ELC"
   },
   {
-    "id": "563",
-    "name": "West Ham United FC",
-    "shortName": "West Ham",
-    "tla": "WHU",
-    "crest": "https://crests.football-data.org/563.png",
+    "id": "356",
+    "name": "Sheffield United FC",
+    "shortName": "Sheffield Utd",
+    "tla": "SHE",
+    "crest": "https://crests.football-data.org/356.png",
     "competitionId": "ELC"
   },
   {
@@ -72,11 +80,19 @@
     "competitionId": "ELC"
   },
   {
-    "id": "332",
-    "name": "Birmingham City FC",
-    "shortName": "Birmingham",
-    "tla": "BIR",
-    "crest": "https://crests.football-data.org/332.png",
+    "id": "346",
+    "name": "Watford FC",
+    "shortName": "Watford",
+    "tla": "WAT",
+    "crest": "https://crests.football-data.org/346.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "340",
+    "name": "Southampton FC",
+    "shortName": "Southampton",
+    "tla": "SOU",
+    "crest": "https://crests.football-data.org/340.png",
     "competitionId": "ELC"
   },
   {
@@ -88,11 +104,11 @@
     "competitionId": "ELC"
   },
   {
-    "id": "68",
-    "name": "Norwich City FC",
-    "shortName": "Norwich",
-    "tla": "NOR",
-    "crest": "https://crests.football-data.org/68.png",
+    "id": "332",
+    "name": "Birmingham City FC",
+    "shortName": "Birmingham",
+    "tla": "BIR",
+    "crest": "https://crests.football-data.org/332.png",
     "competitionId": "ELC"
   },
   {
@@ -104,19 +120,19 @@
     "competitionId": "ELC"
   },
   {
+    "id": "68",
+    "name": "Norwich City FC",
+    "shortName": "Norwich",
+    "tla": "NOR",
+    "crest": "https://crests.football-data.org/68.png",
+    "competitionId": "ELC"
+  },
+  {
     "id": "325",
     "name": "Portsmouth FC",
     "shortName": "Portsmouth",
     "tla": "POR",
     "crest": "https://crests.football-data.org/325.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "356",
-    "name": "Sheffield United FC",
-    "shortName": "Sheffield Utd",
-    "tla": "SHE",
-    "crest": "https://crests.football-data.org/356.png",
     "competitionId": "ELC"
   },
   {
@@ -128,14 +144,6 @@
     "competitionId": "ELC"
   },
   {
-    "id": "346",
-    "name": "Watford FC",
-    "shortName": "Watford",
-    "tla": "WAT",
-    "crest": "https://crests.football-data.org/346.png",
-    "competitionId": "ELC"
-  },
-  {
     "id": "1126",
     "name": "Lincoln City FC",
     "shortName": "Lincoln City",
@@ -144,11 +152,11 @@
     "competitionId": "ELC"
   },
   {
-    "id": "340",
-    "name": "Southampton FC",
-    "shortName": "Southampton",
-    "tla": "SOU",
-    "crest": "https://crests.football-data.org/340.png",
+    "id": "715",
+    "name": "Cardiff City FC",
+    "shortName": "Cardiff",
+    "tla": "CAR",
+    "crest": "https://crests.football-data.org/715.png",
     "competitionId": "ELC"
   },
   {
@@ -168,11 +176,11 @@
     "competitionId": "ELC"
   },
   {
-    "id": "715",
-    "name": "Cardiff City FC",
-    "shortName": "Cardiff",
-    "tla": "CAR",
-    "crest": "https://crests.football-data.org/715.png",
+    "id": "328",
+    "name": "Burnley FC",
+    "shortName": "Burnley",
+    "tla": "BUR",
+    "crest": "https://crests.football-data.org/328.png",
     "competitionId": "ELC"
   },
   {
@@ -181,14 +189,6 @@
     "shortName": "Preston NE",
     "tla": "PNE",
     "crest": "https://crests.football-data.org/1081.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "328",
-    "name": "Burnley FC",
-    "shortName": "Burnley",
-    "tla": "BUR",
-    "crest": "https://crests.football-data.org/328.png",
     "competitionId": "ELC"
   }
 ]

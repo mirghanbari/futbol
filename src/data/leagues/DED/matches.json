@@ -3640,48 +3640,12 @@
     "venue": "Goffertstadion, Nijmegen"
   },
   {
-    "id": "558810",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 15,
-    "stage": "regular",
-    "utcDate": "2026-12-05T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "680",
-    "awayTeamId": "670",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "ADO Den Haag Stadium, Den Haag"
-  },
-  {
-    "id": "558811",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 15,
-    "stage": "regular",
-    "utcDate": "2026-12-05T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "678",
-    "awayTeamId": "676",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Johan Cruijff Arena, Amsterdam"
-  },
-  {
     "id": "558812",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 15,
     "stage": "regular",
-    "utcDate": "2026-12-05T00:00:00Z",
+    "utcDate": "2026-12-04T19:00:00Z",
     "status": "scheduled",
     "homeTeamId": "1912",
     "awayTeamId": "677",
@@ -3694,66 +3658,12 @@
     "venue": "711 Stadion, Velsen-Zuid"
   },
   {
-    "id": "558813",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 15,
-    "stage": "regular",
-    "utcDate": "2026-12-05T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1920",
-    "awayTeamId": "684",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Fortuna Sittard Stadion, Sittard"
-  },
-  {
-    "id": "558814",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 15,
-    "stage": "regular",
-    "utcDate": "2026-12-05T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "682",
-    "awayTeamId": "674",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "AFAS Stadion, Alkmaar"
-  },
-  {
-    "id": "558815",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 15,
-    "stage": "regular",
-    "utcDate": "2026-12-05T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "673",
-    "awayTeamId": "1909",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Abe Lenstra Stadion, Heerenveen"
-  },
-  {
     "id": "558816",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 15,
     "stage": "regular",
-    "utcDate": "2026-12-05T00:00:00Z",
+    "utcDate": "2026-12-05T15:30:00Z",
     "status": "scheduled",
     "homeTeamId": "672",
     "awayTeamId": "675",
@@ -3771,7 +3681,7 @@
     "season": "2026",
     "matchday": 15,
     "stage": "regular",
-    "utcDate": "2026-12-05T00:00:00Z",
+    "utcDate": "2026-12-05T17:45:00Z",
     "status": "scheduled",
     "homeTeamId": "6806",
     "awayTeamId": "1915",
@@ -3784,12 +3694,84 @@
     "venue": "Sparta-Stadion Het Kasteel, Rotterdam"
   },
   {
+    "id": "558814",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 15,
+    "stage": "regular",
+    "utcDate": "2026-12-05T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "682",
+    "awayTeamId": "674",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "AFAS Stadion, Alkmaar"
+  },
+  {
+    "id": "558813",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 15,
+    "stage": "regular",
+    "utcDate": "2026-12-05T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1920",
+    "awayTeamId": "684",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Fortuna Sittard Stadion, Sittard"
+  },
+  {
+    "id": "558815",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 15,
+    "stage": "regular",
+    "utcDate": "2026-12-06T11:15:00Z",
+    "status": "scheduled",
+    "homeTeamId": "673",
+    "awayTeamId": "1909",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Abe Lenstra Stadion, Heerenveen"
+  },
+  {
+    "id": "558811",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 15,
+    "stage": "regular",
+    "utcDate": "2026-12-06T13:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "678",
+    "awayTeamId": "676",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Johan Cruijff Arena, Amsterdam"
+  },
+  {
     "id": "558818",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 15,
     "stage": "regular",
-    "utcDate": "2026-12-05T00:00:00Z",
+    "utcDate": "2026-12-06T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "718",
     "awayTeamId": "666",
@@ -3802,32 +3784,14 @@
     "venue": "De Adelaarshorst, Deventer"
   },
   {
-    "id": "558801",
+    "id": "558810",
     "competitionId": "DED",
     "season": "2026",
-    "matchday": 16,
+    "matchday": 15,
     "stage": "regular",
-    "utcDate": "2026-12-12T00:00:00Z",
+    "utcDate": "2026-12-06T15:45:00Z",
     "status": "scheduled",
-    "homeTeamId": "678",
-    "awayTeamId": "1909",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Johan Cruijff Arena, Amsterdam"
-  },
-  {
-    "id": "558802",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 16,
-    "stage": "regular",
-    "utcDate": "2026-12-12T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "684",
+    "homeTeamId": "680",
     "awayTeamId": "670",
     "homeTeam": {
       "goals": 0
@@ -3835,25 +3799,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "MAC³PARK Stadion, Zwolle"
-  },
-  {
-    "id": "558803",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 16,
-    "stage": "regular",
-    "utcDate": "2026-12-12T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "677",
-    "awayTeamId": "675",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Euroborg, Groningen"
+    "venue": "ADO Den Haag Stadium, Den Haag"
   },
   {
     "id": "558804",
@@ -3861,7 +3807,7 @@
     "season": "2026",
     "matchday": 16,
     "stage": "regular",
-    "utcDate": "2026-12-12T00:00:00Z",
+    "utcDate": "2026-12-12T15:30:00Z",
     "status": "scheduled",
     "homeTeamId": "676",
     "awayTeamId": "1920",
@@ -3874,12 +3820,48 @@
     "venue": "Stadion Galgenwaard, Utrecht"
   },
   {
+    "id": "558809",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 16,
+    "stage": "regular",
+    "utcDate": "2026-12-12T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "673",
+    "awayTeamId": "718",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Abe Lenstra Stadion, Heerenveen"
+  },
+  {
+    "id": "558802",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 16,
+    "stage": "regular",
+    "utcDate": "2026-12-12T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "684",
+    "awayTeamId": "670",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "MAC³PARK Stadion, Zwolle"
+  },
+  {
     "id": "558805",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 16,
     "stage": "regular",
-    "utcDate": "2026-12-12T00:00:00Z",
+    "utcDate": "2026-12-13T11:15:00Z",
     "status": "scheduled",
     "homeTeamId": "674",
     "awayTeamId": "1912",
@@ -3892,12 +3874,30 @@
     "venue": "Philips Stadion, Eindhoven"
   },
   {
+    "id": "558803",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 16,
+    "stage": "regular",
+    "utcDate": "2026-12-13T13:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "677",
+    "awayTeamId": "675",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Euroborg, Groningen"
+  },
+  {
     "id": "558806",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 16,
     "stage": "regular",
-    "utcDate": "2026-12-12T00:00:00Z",
+    "utcDate": "2026-12-13T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "672",
     "awayTeamId": "680",
@@ -3915,7 +3915,7 @@
     "season": "2026",
     "matchday": 16,
     "stage": "regular",
-    "utcDate": "2026-12-12T00:00:00Z",
+    "utcDate": "2026-12-13T15:45:00Z",
     "status": "scheduled",
     "homeTeamId": "682",
     "awayTeamId": "1915",
@@ -3928,76 +3928,22 @@
     "venue": "AFAS Stadion, Alkmaar"
   },
   {
-    "id": "558808",
+    "id": "558801",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 16,
     "stage": "regular",
-    "utcDate": "2026-12-12T00:00:00Z",
+    "utcDate": "2026-12-13T19:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "666",
-    "awayTeamId": "6806",
+    "homeTeamId": "678",
+    "awayTeamId": "1909",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "De Grolsch Veste, Enschede"
-  },
-  {
-    "id": "558809",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 16,
-    "stage": "regular",
-    "utcDate": "2026-12-12T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "673",
-    "awayTeamId": "718",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Abe Lenstra Stadion, Heerenveen"
-  },
-  {
-    "id": "558792",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 17,
-    "stage": "regular",
-    "utcDate": "2026-12-19T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1909",
-    "awayTeamId": "677",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Kooi Stadium, Leeuwarden"
-  },
-  {
-    "id": "558793",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 17,
-    "stage": "regular",
-    "utcDate": "2026-12-19T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1920",
-    "awayTeamId": "6806",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Fortuna Sittard Stadion, Sittard"
+    "venue": "Johan Cruijff Arena, Amsterdam"
   },
   {
     "id": "558794",
@@ -4005,7 +3951,7 @@
     "season": "2026",
     "matchday": 17,
     "stage": "regular",
-    "utcDate": "2026-12-19T00:00:00Z",
+    "utcDate": "2026-12-18T19:00:00Z",
     "status": "scheduled",
     "homeTeamId": "1912",
     "awayTeamId": "672",
@@ -4018,76 +3964,40 @@
     "venue": "711 Stadion, Velsen-Zuid"
   },
   {
-    "id": "558795",
+    "id": "558800",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 17,
     "stage": "regular",
-    "utcDate": "2026-12-19T00:00:00Z",
+    "utcDate": "2026-12-19T15:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "674",
-    "awayTeamId": "684",
+    "homeTeamId": "670",
+    "awayTeamId": "682",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Philips Stadion, Eindhoven"
+    "venue": "Stadion Woudestein, Rotterdam"
   },
   {
-    "id": "558796",
+    "id": "558793",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 17,
     "stage": "regular",
-    "utcDate": "2026-12-19T00:00:00Z",
+    "utcDate": "2026-12-19T17:45:00Z",
     "status": "scheduled",
-    "homeTeamId": "718",
-    "awayTeamId": "678",
+    "homeTeamId": "1920",
+    "awayTeamId": "6806",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "De Adelaarshorst, Deventer"
-  },
-  {
-    "id": "558797",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 17,
-    "stage": "regular",
-    "utcDate": "2026-12-19T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "675",
-    "awayTeamId": "666",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "De Kuip, Rotterdam"
-  },
-  {
-    "id": "558798",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 17,
-    "stage": "regular",
-    "utcDate": "2026-12-19T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1915",
-    "awayTeamId": "680",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Goffertstadion, Nijmegen"
+    "venue": "Fortuna Sittard Stadion, Sittard"
   },
   {
     "id": "558799",
@@ -4095,7 +4005,7 @@
     "season": "2026",
     "matchday": 17,
     "stage": "regular",
-    "utcDate": "2026-12-19T00:00:00Z",
+    "utcDate": "2026-12-19T20:00:00Z",
     "status": "scheduled",
     "homeTeamId": "676",
     "awayTeamId": "673",
@@ -4108,22 +4018,94 @@
     "venue": "Stadion Galgenwaard, Utrecht"
   },
   {
-    "id": "558800",
+    "id": "558798",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 17,
     "stage": "regular",
-    "utcDate": "2026-12-19T00:00:00Z",
+    "utcDate": "2026-12-20T11:15:00Z",
     "status": "scheduled",
-    "homeTeamId": "670",
-    "awayTeamId": "682",
+    "homeTeamId": "1915",
+    "awayTeamId": "680",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stadion Woudestein, Rotterdam"
+    "venue": "Goffertstadion, Nijmegen"
+  },
+  {
+    "id": "558792",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 17,
+    "stage": "regular",
+    "utcDate": "2026-12-20T13:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1909",
+    "awayTeamId": "677",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Kooi Stadium, Leeuwarden"
+  },
+  {
+    "id": "558797",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 17,
+    "stage": "regular",
+    "utcDate": "2026-12-20T13:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "675",
+    "awayTeamId": "666",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "De Kuip, Rotterdam"
+  },
+  {
+    "id": "558796",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 17,
+    "stage": "regular",
+    "utcDate": "2026-12-20T15:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "718",
+    "awayTeamId": "678",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "De Adelaarshorst, Deventer"
+  },
+  {
+    "id": "558795",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 17,
+    "stage": "regular",
+    "utcDate": "2026-12-20T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "674",
+    "awayTeamId": "684",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Philips Stadion, Eindhoven"
   },
   {
     "id": "558791",
@@ -4288,40 +4270,22 @@
     "venue": "Euroborg, Groningen"
   },
   {
-    "id": "558774",
+    "id": "558778",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 19,
     "stage": "regular",
-    "utcDate": "2027-01-16T00:00:00Z",
+    "utcDate": "2027-01-15T19:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "718",
-    "awayTeamId": "682",
+    "homeTeamId": "673",
+    "awayTeamId": "6806",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "De Adelaarshorst, Deventer"
-  },
-  {
-    "id": "558775",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 19,
-    "stage": "regular",
-    "utcDate": "2027-01-16T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1909",
-    "awayTeamId": "672",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Kooi Stadium, Leeuwarden"
+    "venue": "Abe Lenstra Stadion, Heerenveen"
   },
   {
     "id": "558776",
@@ -4329,7 +4293,7 @@
     "season": "2026",
     "matchday": 19,
     "stage": "regular",
-    "utcDate": "2027-01-16T00:00:00Z",
+    "utcDate": "2027-01-16T15:30:00Z",
     "status": "scheduled",
     "homeTeamId": "1912",
     "awayTeamId": "1915",
@@ -4347,7 +4311,7 @@
     "season": "2026",
     "matchday": 19,
     "stage": "regular",
-    "utcDate": "2027-01-16T00:00:00Z",
+    "utcDate": "2027-01-16T17:45:00Z",
     "status": "scheduled",
     "homeTeamId": "670",
     "awayTeamId": "675",
@@ -4360,48 +4324,12 @@
     "venue": "Stadion Woudestein, Rotterdam"
   },
   {
-    "id": "558778",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 19,
-    "stage": "regular",
-    "utcDate": "2027-01-16T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "673",
-    "awayTeamId": "6806",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Abe Lenstra Stadion, Heerenveen"
-  },
-  {
-    "id": "558779",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 19,
-    "stage": "regular",
-    "utcDate": "2027-01-16T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1920",
-    "awayTeamId": "674",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Fortuna Sittard Stadion, Sittard"
-  },
-  {
     "id": "558780",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 19,
     "stage": "regular",
-    "utcDate": "2027-01-16T00:00:00Z",
+    "utcDate": "2027-01-16T19:00:00Z",
     "status": "scheduled",
     "homeTeamId": "680",
     "awayTeamId": "684",
@@ -4414,22 +4342,22 @@
     "venue": "ADO Den Haag Stadium, Den Haag"
   },
   {
-    "id": "558781",
+    "id": "558779",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 19,
     "stage": "regular",
-    "utcDate": "2027-01-16T00:00:00Z",
+    "utcDate": "2027-01-16T20:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "678",
-    "awayTeamId": "677",
+    "homeTeamId": "1920",
+    "awayTeamId": "674",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Johan Cruijff Arena, Amsterdam"
+    "venue": "Fortuna Sittard Stadion, Sittard"
   },
   {
     "id": "558782",
@@ -4437,7 +4365,7 @@
     "season": "2026",
     "matchday": 19,
     "stage": "regular",
-    "utcDate": "2027-01-16T00:00:00Z",
+    "utcDate": "2027-01-17T11:15:00Z",
     "status": "scheduled",
     "homeTeamId": "676",
     "awayTeamId": "666",
@@ -4450,14 +4378,50 @@
     "venue": "Stadion Galgenwaard, Utrecht"
   },
   {
-    "id": "558765",
+    "id": "558774",
     "competitionId": "DED",
     "season": "2026",
-    "matchday": 20,
+    "matchday": 19,
     "stage": "regular",
-    "utcDate": "2027-01-23T00:00:00Z",
+    "utcDate": "2027-01-17T13:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "1915",
+    "homeTeamId": "718",
+    "awayTeamId": "682",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "De Adelaarshorst, Deventer"
+  },
+  {
+    "id": "558781",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 19,
+    "stage": "regular",
+    "utcDate": "2027-01-17T13:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "678",
+    "awayTeamId": "677",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Johan Cruijff Arena, Amsterdam"
+  },
+  {
+    "id": "558775",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 19,
+    "stage": "regular",
+    "utcDate": "2027-01-17T15:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1909",
     "awayTeamId": "672",
     "homeTeam": {
       "goals": 0
@@ -4465,7 +4429,61 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Goffertstadion, Nijmegen"
+    "venue": "Kooi Stadium, Leeuwarden"
+  },
+  {
+    "id": "558770",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 20,
+    "stage": "regular",
+    "utcDate": "2027-01-22T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "670",
+    "awayTeamId": "1920",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadion Woudestein, Rotterdam"
+  },
+  {
+    "id": "558768",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 20,
+    "stage": "regular",
+    "utcDate": "2027-01-23T15:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "678",
+    "awayTeamId": "1912",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Johan Cruijff Arena, Amsterdam"
+  },
+  {
+    "id": "558772",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 20,
+    "stage": "regular",
+    "utcDate": "2027-01-23T17:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "675",
+    "awayTeamId": "684",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "De Kuip, Rotterdam"
   },
   {
     "id": "558766",
@@ -4473,7 +4491,7 @@
     "season": "2026",
     "matchday": 20,
     "stage": "regular",
-    "utcDate": "2027-01-23T00:00:00Z",
+    "utcDate": "2027-01-23T19:00:00Z",
     "status": "scheduled",
     "homeTeamId": "666",
     "awayTeamId": "673",
@@ -4491,7 +4509,7 @@
     "season": "2026",
     "matchday": 20,
     "stage": "regular",
-    "utcDate": "2027-01-23T00:00:00Z",
+    "utcDate": "2027-01-23T20:00:00Z",
     "status": "scheduled",
     "homeTeamId": "674",
     "awayTeamId": "680",
@@ -4504,102 +4522,12 @@
     "venue": "Philips Stadion, Eindhoven"
   },
   {
-    "id": "558768",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 20,
-    "stage": "regular",
-    "utcDate": "2027-01-23T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "678",
-    "awayTeamId": "1912",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Johan Cruijff Arena, Amsterdam"
-  },
-  {
-    "id": "558769",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 20,
-    "stage": "regular",
-    "utcDate": "2027-01-23T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "682",
-    "awayTeamId": "676",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "AFAS Stadion, Alkmaar"
-  },
-  {
-    "id": "558770",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 20,
-    "stage": "regular",
-    "utcDate": "2027-01-23T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "670",
-    "awayTeamId": "1920",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadion Woudestein, Rotterdam"
-  },
-  {
-    "id": "558771",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 20,
-    "stage": "regular",
-    "utcDate": "2027-01-23T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "6806",
-    "awayTeamId": "677",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Sparta-Stadion Het Kasteel, Rotterdam"
-  },
-  {
-    "id": "558772",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 20,
-    "stage": "regular",
-    "utcDate": "2027-01-23T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "675",
-    "awayTeamId": "684",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "De Kuip, Rotterdam"
-  },
-  {
     "id": "558773",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 20,
     "stage": "regular",
-    "utcDate": "2027-01-23T00:00:00Z",
+    "utcDate": "2027-01-24T11:15:00Z",
     "status": "scheduled",
     "homeTeamId": "718",
     "awayTeamId": "1909",
@@ -4612,12 +4540,102 @@
     "venue": "De Adelaarshorst, Deventer"
   },
   {
+    "id": "558765",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 20,
+    "stage": "regular",
+    "utcDate": "2027-01-24T13:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1915",
+    "awayTeamId": "672",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Goffertstadion, Nijmegen"
+  },
+  {
+    "id": "558771",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 20,
+    "stage": "regular",
+    "utcDate": "2027-01-24T13:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "6806",
+    "awayTeamId": "677",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Sparta-Stadion Het Kasteel, Rotterdam"
+  },
+  {
+    "id": "558769",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 20,
+    "stage": "regular",
+    "utcDate": "2027-01-24T15:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "682",
+    "awayTeamId": "676",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "AFAS Stadion, Alkmaar"
+  },
+  {
+    "id": "558763",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 21,
+    "stage": "regular",
+    "utcDate": "2027-01-29T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "676",
+    "awayTeamId": "670",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadion Galgenwaard, Utrecht"
+  },
+  {
+    "id": "558762",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 21,
+    "stage": "regular",
+    "utcDate": "2027-01-30T15:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "6806",
+    "awayTeamId": "1912",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Sparta-Stadion Het Kasteel, Rotterdam"
+  },
+  {
     "id": "558756",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 21,
     "stage": "regular",
-    "utcDate": "2027-01-30T00:00:00Z",
+    "utcDate": "2027-01-30T17:45:00Z",
     "status": "scheduled",
     "homeTeamId": "680",
     "awayTeamId": "718",
@@ -4630,22 +4648,22 @@
     "venue": "ADO Den Haag Stadium, Den Haag"
   },
   {
-    "id": "558757",
+    "id": "558761",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 21,
     "stage": "regular",
-    "utcDate": "2027-01-30T00:00:00Z",
+    "utcDate": "2027-01-30T19:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "673",
-    "awayTeamId": "678",
+    "homeTeamId": "672",
+    "awayTeamId": "674",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Abe Lenstra Stadion, Heerenveen"
+    "venue": "Koning Willem II Stadion, Tilburg"
   },
   {
     "id": "558758",
@@ -4653,7 +4671,7 @@
     "season": "2026",
     "matchday": 21,
     "stage": "regular",
-    "utcDate": "2027-01-30T00:00:00Z",
+    "utcDate": "2027-01-30T20:00:00Z",
     "status": "scheduled",
     "homeTeamId": "684",
     "awayTeamId": "1920",
@@ -4666,12 +4684,30 @@
     "venue": "MAC³PARK Stadion, Zwolle"
   },
   {
+    "id": "558757",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 21,
+    "stage": "regular",
+    "utcDate": "2027-01-31T11:15:00Z",
+    "status": "scheduled",
+    "homeTeamId": "673",
+    "awayTeamId": "678",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Abe Lenstra Stadion, Heerenveen"
+  },
+  {
     "id": "558759",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 21,
     "stage": "regular",
-    "utcDate": "2027-01-30T00:00:00Z",
+    "utcDate": "2027-01-31T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "666",
     "awayTeamId": "1909",
@@ -4689,7 +4725,7 @@
     "season": "2026",
     "matchday": 21,
     "stage": "regular",
-    "utcDate": "2027-01-30T00:00:00Z",
+    "utcDate": "2027-01-31T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "682",
     "awayTeamId": "675",
@@ -4702,66 +4738,12 @@
     "venue": "AFAS Stadion, Alkmaar"
   },
   {
-    "id": "558761",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 21,
-    "stage": "regular",
-    "utcDate": "2027-01-30T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "672",
-    "awayTeamId": "674",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Koning Willem II Stadion, Tilburg"
-  },
-  {
-    "id": "558762",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 21,
-    "stage": "regular",
-    "utcDate": "2027-01-30T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "6806",
-    "awayTeamId": "1912",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Sparta-Stadion Het Kasteel, Rotterdam"
-  },
-  {
-    "id": "558763",
-    "competitionId": "DED",
-    "season": "2026",
-    "matchday": 21,
-    "stage": "regular",
-    "utcDate": "2027-01-30T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "676",
-    "awayTeamId": "670",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadion Galgenwaard, Utrecht"
-  },
-  {
     "id": "558764",
     "competitionId": "DED",
     "season": "2026",
     "matchday": 21,
     "stage": "regular",
-    "utcDate": "2027-01-30T00:00:00Z",
+    "utcDate": "2027-01-31T15:45:00Z",
     "status": "scheduled",
     "homeTeamId": "677",
     "awayTeamId": "1915",
@@ -4772,6 +4754,24 @@
       "goals": 0
     },
     "venue": "Euroborg, Groningen"
+  },
+  {
+    "id": "558808",
+    "competitionId": "DED",
+    "season": "2026",
+    "matchday": 16,
+    "stage": "regular",
+    "utcDate": "2027-02-06T00:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "666",
+    "awayTeamId": "6806",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "De Grolsch Veste, Enschede"
   },
   {
     "id": "558747",
