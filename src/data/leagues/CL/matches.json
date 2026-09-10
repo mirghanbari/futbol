@@ -548,14 +548,14 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-10T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "613",
     "awayTeamId": "100",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     }
   },
   {
@@ -565,14 +565,14 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-10T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "674",
     "awayTeamId": "1887",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     }
   },
   {
@@ -582,7 +582,7 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-10T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "5",
     "awayTeamId": "5721",
     "homeTeam": {
@@ -606,7 +606,7 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-10T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "66",
     "awayTeamId": "10233",
     "homeTeam": {
@@ -630,7 +630,7 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-10T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "7397",
     "awayTeamId": "721",
     "homeTeam": {
@@ -658,7 +658,7 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-10T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "930",
     "awayTeamId": "546",
     "homeTeam": {
