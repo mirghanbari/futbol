@@ -3011,12 +3011,36 @@
     ]
   },
   {
+    "id": "564706",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "regular",
+    "utcDate": "2026-10-09T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "84",
+    "awayTeamId": "80",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "La Rosaleda, Malaga",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "564698",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
+    "utcDate": "2026-10-10T12:00:00Z",
     "status": "scheduled",
     "homeTeamId": "87",
     "awayTeamId": "77",
@@ -3040,7 +3064,7 @@
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
+    "utcDate": "2026-10-10T14:15:00Z",
     "status": "scheduled",
     "homeTeamId": "263",
     "awayTeamId": "78",
@@ -3064,7 +3088,7 @@
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
+    "utcDate": "2026-10-10T16:30:00Z",
     "status": "scheduled",
     "homeTeamId": "81",
     "awayTeamId": "82",
@@ -3083,36 +3107,12 @@
     ]
   },
   {
-    "id": "564701",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 8,
-    "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "90",
-    "awayTeamId": "79",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estadio La Cartuja, Sevilla",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "564702",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
+    "utcDate": "2026-10-10T19:00:00Z",
     "status": "scheduled",
     "homeTeamId": "86",
     "awayTeamId": "94",
@@ -3136,7 +3136,7 @@
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
+    "utcDate": "2026-10-11T12:00:00Z",
     "status": "scheduled",
     "homeTeamId": "285",
     "awayTeamId": "558",
@@ -3155,22 +3155,39 @@
     ]
   },
   {
-    "id": "564704",
+    "id": "564707",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
+    "utcDate": "2026-10-11T14:15:00Z",
     "status": "scheduled",
-    "homeTeamId": "88",
-    "awayTeamId": "559",
+    "homeTeamId": "92",
+    "awayTeamId": "560",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564701",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "regular",
+    "utcDate": "2026-10-11T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "90",
+    "awayTeamId": "79",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Estadi Ciutat de València, Manises",
+    "venue": "Estadio La Cartuja, Sevilla",
     "broadcasts": [
       {
         "name": "ESPN+",
@@ -3184,7 +3201,7 @@
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
+    "utcDate": "2026-10-11T19:00:00Z",
     "status": "scheduled",
     "homeTeamId": "5335",
     "awayTeamId": "95",
@@ -3203,45 +3220,28 @@
     ]
   },
   {
-    "id": "564706",
+    "id": "564704",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
+    "utcDate": "2026-10-12T19:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "84",
-    "awayTeamId": "80",
+    "homeTeamId": "88",
+    "awayTeamId": "559",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "La Rosaleda, Malaga",
+    "venue": "Estadi Ciutat de València, Manises",
     "broadcasts": [
       {
         "name": "ESPN+",
         "kind": "streaming"
       }
     ]
-  },
-  {
-    "id": "564707",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 8,
-    "stage": "regular",
-    "utcDate": "2026-10-11T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "92",
-    "awayTeamId": "560",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
   },
   {
     "id": "564708",

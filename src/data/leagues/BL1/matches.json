@@ -1314,12 +1314,30 @@
     "venue": "Home Deluxe Arena, Paderborn"
   },
   {
+    "id": "565820",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-10-09T18:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "4",
+    "awayTeamId": "12",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Signal Iduna Park, Aue"
+  },
+  {
     "id": "565812",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-10-10T00:00:00Z",
+    "utcDate": "2026-10-10T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "15",
     "awayTeamId": "3",
@@ -1337,7 +1355,7 @@
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-10-10T00:00:00Z",
+    "utcDate": "2026-10-10T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "29",
     "awayTeamId": "10",
@@ -1350,66 +1368,12 @@
     "venue": "Home Deluxe Arena, Paderborn"
   },
   {
-    "id": "565814",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-10-10T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1",
-    "awayTeamId": "18",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "RheinEnergieStadion, Cologne"
-  },
-  {
-    "id": "565815",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-10-10T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "721",
-    "awayTeamId": "19",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Red Bull Arena, Leipzig"
-  },
-  {
-    "id": "565816",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 5,
-    "stage": "regular",
-    "utcDate": "2026-10-10T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "17",
-    "awayTeamId": "6",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Europa-Park Stadion, Freiburg im Breisgau"
-  },
-  {
     "id": "565817",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-10-10T00:00:00Z",
+    "utcDate": "2026-10-10T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "28",
     "awayTeamId": "719",
@@ -1427,7 +1391,7 @@
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-10-10T00:00:00Z",
+    "utcDate": "2026-10-10T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "2",
     "awayTeamId": "7",
@@ -1445,7 +1409,7 @@
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-10-10T00:00:00Z",
+    "utcDate": "2026-10-10T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "16",
     "awayTeamId": "5",
@@ -1458,22 +1422,76 @@
     "venue": "WWK Arena, Augsburg"
   },
   {
-    "id": "565820",
+    "id": "565815",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 5,
     "stage": "regular",
-    "utcDate": "2026-10-10T00:00:00Z",
+    "utcDate": "2026-10-10T16:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "4",
-    "awayTeamId": "12",
+    "homeTeamId": "721",
+    "awayTeamId": "19",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Signal Iduna Park, Aue"
+    "venue": "Red Bull Arena, Leipzig"
+  },
+  {
+    "id": "565814",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-10-11T13:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1",
+    "awayTeamId": "18",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "RheinEnergieStadion, Cologne"
+  },
+  {
+    "id": "565816",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 5,
+    "stage": "regular",
+    "utcDate": "2026-10-11T15:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "17",
+    "awayTeamId": "6",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Europa-Park Stadion, Freiburg im Breisgau"
+  },
+  {
+    "id": "565828",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-16T18:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "19",
+    "awayTeamId": "1",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Deutsche Bank Park, Frankfurt"
   },
   {
     "id": "565821",
@@ -1481,7 +1499,7 @@
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-17T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "28",
     "awayTeamId": "4",
@@ -1499,7 +1517,7 @@
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-17T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "7",
     "awayTeamId": "10",
@@ -1517,7 +1535,7 @@
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-17T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "12",
     "awayTeamId": "29",
@@ -1535,7 +1553,7 @@
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-17T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "719",
     "awayTeamId": "16",
@@ -1548,84 +1566,12 @@
     "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg"
   },
   {
-    "id": "565825",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "5",
-    "awayTeamId": "721",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Allianz Arena, München"
-  },
-  {
-    "id": "565826",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "18",
-    "awayTeamId": "2",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "BORUSSIA-PARK, Mönchengladbach"
-  },
-  {
-    "id": "565827",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "3",
-    "awayTeamId": "17",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "BayArena, Leverkusen"
-  },
-  {
-    "id": "565828",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "19",
-    "awayTeamId": "1",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Deutsche Bank Park, Frankfurt"
-  },
-  {
     "id": "565829",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 6,
     "stage": "regular",
-    "utcDate": "2026-10-17T00:00:00Z",
+    "utcDate": "2026-10-17T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "6",
     "awayTeamId": "15",
@@ -1638,12 +1584,84 @@
     "venue": "Veltins Arena, Gelsenkirchen"
   },
   {
+    "id": "565825",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-17T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5",
+    "awayTeamId": "721",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Arena, München"
+  },
+  {
+    "id": "565827",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-18T13:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "3",
+    "awayTeamId": "17",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "BayArena, Leverkusen"
+  },
+  {
+    "id": "565826",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-18T15:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "18",
+    "awayTeamId": "2",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "BORUSSIA-PARK, Mönchengladbach"
+  },
+  {
+    "id": "565833",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-10-23T18:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "10",
+    "awayTeamId": "18",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "MHPArena, Stuttgart"
+  },
+  {
     "id": "565830",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-10-24T00:00:00Z",
+    "utcDate": "2026-10-24T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "15",
     "awayTeamId": "12",
@@ -1661,7 +1679,7 @@
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-10-24T00:00:00Z",
+    "utcDate": "2026-10-24T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "1",
     "awayTeamId": "6",
@@ -1679,7 +1697,7 @@
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-10-24T00:00:00Z",
+    "utcDate": "2026-10-24T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "721",
     "awayTeamId": "719",
@@ -1692,30 +1710,12 @@
     "venue": "Red Bull Arena, Leipzig"
   },
   {
-    "id": "565833",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 7,
-    "stage": "regular",
-    "utcDate": "2026-10-24T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "10",
-    "awayTeamId": "18",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "MHPArena, Stuttgart"
-  },
-  {
     "id": "565834",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-10-24T00:00:00Z",
+    "utcDate": "2026-10-24T13:30:00Z",
     "status": "scheduled",
     "homeTeamId": "29",
     "awayTeamId": "7",
@@ -1728,12 +1728,48 @@
     "venue": "Home Deluxe Arena, Paderborn"
   },
   {
+    "id": "565838",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-10-24T13:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "16",
+    "awayTeamId": "28",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "WWK Arena, Augsburg"
+  },
+  {
+    "id": "565837",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 7,
+    "stage": "regular",
+    "utcDate": "2026-10-24T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "4",
+    "awayTeamId": "19",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Signal Iduna Park, Aue"
+  },
+  {
     "id": "565835",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-10-24T00:00:00Z",
+    "utcDate": "2026-10-25T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "2",
     "awayTeamId": "3",
@@ -1751,7 +1787,7 @@
     "season": "2026",
     "matchday": 7,
     "stage": "regular",
-    "utcDate": "2026-10-24T00:00:00Z",
+    "utcDate": "2026-10-25T16:30:00Z",
     "status": "scheduled",
     "homeTeamId": "17",
     "awayTeamId": "5",
@@ -1764,40 +1800,22 @@
     "venue": "Europa-Park Stadion, Freiburg im Breisgau"
   },
   {
-    "id": "565837",
+    "id": "565846",
     "competitionId": "BL1",
     "season": "2026",
-    "matchday": 7,
+    "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-24T00:00:00Z",
+    "utcDate": "2026-10-30T19:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "4",
-    "awayTeamId": "19",
+    "homeTeamId": "719",
+    "awayTeamId": "15",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Signal Iduna Park, Aue"
-  },
-  {
-    "id": "565838",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 7,
-    "stage": "regular",
-    "utcDate": "2026-10-24T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "16",
-    "awayTeamId": "28",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "WWK Arena, Augsburg"
+    "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg"
   },
   {
     "id": "565839",
@@ -1805,7 +1823,7 @@
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-31T00:00:00Z",
+    "utcDate": "2026-10-31T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "18",
     "awayTeamId": "29",
@@ -1823,7 +1841,7 @@
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-31T00:00:00Z",
+    "utcDate": "2026-10-31T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "6",
     "awayTeamId": "721",
@@ -1836,30 +1854,12 @@
     "venue": "Veltins Arena, Gelsenkirchen"
   },
   {
-    "id": "565841",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 8,
-    "stage": "regular",
-    "utcDate": "2026-10-31T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "28",
-    "awayTeamId": "1",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stadion An der Alten Försterei, Berlin"
-  },
-  {
     "id": "565842",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-31T00:00:00Z",
+    "utcDate": "2026-10-31T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "16",
     "awayTeamId": "17",
@@ -1877,7 +1877,7 @@
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-31T00:00:00Z",
+    "utcDate": "2026-10-31T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "12",
     "awayTeamId": "2",
@@ -1890,66 +1890,12 @@
     "venue": "Weserstadion, Bremen"
   },
   {
-    "id": "565844",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 8,
-    "stage": "regular",
-    "utcDate": "2026-10-31T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "19",
-    "awayTeamId": "7",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Deutsche Bank Park, Frankfurt"
-  },
-  {
-    "id": "565845",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 8,
-    "stage": "regular",
-    "utcDate": "2026-10-31T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "5",
-    "awayTeamId": "4",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Allianz Arena, München"
-  },
-  {
-    "id": "565846",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 8,
-    "stage": "regular",
-    "utcDate": "2026-10-31T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "719",
-    "awayTeamId": "15",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg"
-  },
-  {
     "id": "565847",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 8,
     "stage": "regular",
-    "utcDate": "2026-10-31T00:00:00Z",
+    "utcDate": "2026-10-31T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "3",
     "awayTeamId": "10",
@@ -1962,12 +1908,84 @@
     "venue": "BayArena, Leverkusen"
   },
   {
+    "id": "565845",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "regular",
+    "utcDate": "2026-10-31T17:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5",
+    "awayTeamId": "4",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Arena, München"
+  },
+  {
+    "id": "565841",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "regular",
+    "utcDate": "2026-11-01T14:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "28",
+    "awayTeamId": "1",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stadion An der Alten Försterei, Berlin"
+  },
+  {
+    "id": "565844",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 8,
+    "stage": "regular",
+    "utcDate": "2026-11-01T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "19",
+    "awayTeamId": "7",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Deutsche Bank Park, Frankfurt"
+  },
+  {
+    "id": "565852",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-11-06T19:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "7",
+    "awayTeamId": "18",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Volksparkstadion, Hamburg Norderstedt"
+  },
+  {
     "id": "565848",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-11-07T00:00:00Z",
+    "utcDate": "2026-11-07T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "721",
     "awayTeamId": "16",
@@ -1980,30 +1998,12 @@
     "venue": "Red Bull Arena, Leipzig"
   },
   {
-    "id": "565849",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-11-07T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "10",
-    "awayTeamId": "12",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "MHPArena, Stuttgart"
-  },
-  {
     "id": "565850",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-11-07T00:00:00Z",
+    "utcDate": "2026-11-07T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "4",
     "awayTeamId": "719",
@@ -2021,7 +2021,7 @@
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-11-07T00:00:00Z",
+    "utcDate": "2026-11-07T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "15",
     "awayTeamId": "5",
@@ -2034,30 +2034,12 @@
     "venue": "MEWA ARENA, Mainz"
   },
   {
-    "id": "565852",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-11-07T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "7",
-    "awayTeamId": "18",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Volksparkstadion, Hamburg Norderstedt"
-  },
-  {
     "id": "565853",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-11-07T00:00:00Z",
+    "utcDate": "2026-11-07T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "29",
     "awayTeamId": "19",
@@ -2070,22 +2052,22 @@
     "venue": "Home Deluxe Arena, Paderborn"
   },
   {
-    "id": "565854",
+    "id": "565849",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-11-07T00:00:00Z",
+    "utcDate": "2026-11-07T17:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "17",
-    "awayTeamId": "28",
+    "homeTeamId": "10",
+    "awayTeamId": "12",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Europa-Park Stadion, Freiburg im Breisgau"
+    "venue": "MHPArena, Stuttgart"
   },
   {
     "id": "565855",
@@ -2093,7 +2075,7 @@
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-11-07T00:00:00Z",
+    "utcDate": "2026-11-08T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "1",
     "awayTeamId": "3",
@@ -2106,12 +2088,30 @@
     "venue": "RheinEnergieStadion, Cologne"
   },
   {
+    "id": "565854",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-11-08T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "17",
+    "awayTeamId": "28",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Europa-Park Stadion, Freiburg im Breisgau"
+  },
+  {
     "id": "565856",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-11-07T00:00:00Z",
+    "utcDate": "2026-11-08T18:30:00Z",
     "status": "scheduled",
     "homeTeamId": "2",
     "awayTeamId": "6",
@@ -2124,12 +2124,30 @@
     "venue": "PreZero Arena, Sinsheim"
   },
   {
+    "id": "565859",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-11-20T19:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5",
+    "awayTeamId": "1",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Arena, München"
+  },
+  {
     "id": "565857",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-21T00:00:00Z",
+    "utcDate": "2026-11-21T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "3",
     "awayTeamId": "29",
@@ -2147,7 +2165,7 @@
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-21T00:00:00Z",
+    "utcDate": "2026-11-21T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "28",
     "awayTeamId": "721",
@@ -2160,30 +2178,12 @@
     "venue": "Stadion An der Alten Försterei, Berlin"
   },
   {
-    "id": "565859",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-11-21T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "5",
-    "awayTeamId": "1",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Allianz Arena, München"
-  },
-  {
     "id": "565860",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-21T00:00:00Z",
+    "utcDate": "2026-11-21T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "719",
     "awayTeamId": "17",
@@ -2196,30 +2196,12 @@
     "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg"
   },
   {
-    "id": "565861",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-11-21T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "6",
-    "awayTeamId": "10",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Veltins Arena, Gelsenkirchen"
-  },
-  {
     "id": "565862",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-21T00:00:00Z",
+    "utcDate": "2026-11-21T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "18",
     "awayTeamId": "4",
@@ -2232,48 +2214,12 @@
     "venue": "BORUSSIA-PARK, Mönchengladbach"
   },
   {
-    "id": "565863",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-11-21T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "12",
-    "awayTeamId": "7",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Weserstadion, Bremen"
-  },
-  {
-    "id": "565864",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-11-21T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "16",
-    "awayTeamId": "15",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "WWK Arena, Augsburg"
-  },
-  {
     "id": "565865",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-21T00:00:00Z",
+    "utcDate": "2026-11-21T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "19",
     "awayTeamId": "2",
@@ -2286,12 +2232,84 @@
     "venue": "Deutsche Bank Park, Frankfurt"
   },
   {
+    "id": "565861",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-11-21T17:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "6",
+    "awayTeamId": "10",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Veltins Arena, Gelsenkirchen"
+  },
+  {
+    "id": "565864",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-11-22T14:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "16",
+    "awayTeamId": "15",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "WWK Arena, Augsburg"
+  },
+  {
+    "id": "565863",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-11-22T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "12",
+    "awayTeamId": "7",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Weserstadion, Bremen"
+  },
+  {
+    "id": "565869",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 11,
+    "stage": "regular",
+    "utcDate": "2026-11-27T19:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "12",
+    "awayTeamId": "18",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Weserstadion, Bremen"
+  },
+  {
     "id": "565866",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-28T00:00:00Z",
+    "utcDate": "2026-11-28T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "1",
     "awayTeamId": "719",
@@ -2309,7 +2327,7 @@
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-28T00:00:00Z",
+    "utcDate": "2026-11-28T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "15",
     "awayTeamId": "28",
@@ -2327,7 +2345,7 @@
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-28T00:00:00Z",
+    "utcDate": "2026-11-28T14:30:00Z",
     "status": "scheduled",
     "homeTeamId": "29",
     "awayTeamId": "6",
@@ -2340,22 +2358,22 @@
     "venue": "Home Deluxe Arena, Paderborn"
   },
   {
-    "id": "565869",
+    "id": "565874",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-28T00:00:00Z",
+    "utcDate": "2026-11-28T14:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "12",
-    "awayTeamId": "18",
+    "homeTeamId": "7",
+    "awayTeamId": "5",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Weserstadion, Bremen"
+    "venue": "Volksparkstadion, Hamburg Norderstedt"
   },
   {
     "id": "565870",
@@ -2363,7 +2381,7 @@
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-28T00:00:00Z",
+    "utcDate": "2026-11-28T17:30:00Z",
     "status": "scheduled",
     "homeTeamId": "10",
     "awayTeamId": "19",
@@ -2376,12 +2394,30 @@
     "venue": "MHPArena, Stuttgart"
   },
   {
+    "id": "565873",
+    "competitionId": "BL1",
+    "season": "2026",
+    "matchday": 11,
+    "stage": "regular",
+    "utcDate": "2026-11-29T14:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "17",
+    "awayTeamId": "721",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Europa-Park Stadion, Freiburg im Breisgau"
+  },
+  {
     "id": "565871",
     "competitionId": "BL1",
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-28T00:00:00Z",
+    "utcDate": "2026-11-29T16:30:00Z",
     "status": "scheduled",
     "homeTeamId": "2",
     "awayTeamId": "16",
@@ -2399,7 +2435,7 @@
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-28T00:00:00Z",
+    "utcDate": "2026-11-29T18:30:00Z",
     "status": "scheduled",
     "homeTeamId": "4",
     "awayTeamId": "3",
@@ -2410,42 +2446,6 @@
       "goals": 0
     },
     "venue": "Signal Iduna Park, Aue"
-  },
-  {
-    "id": "565873",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 11,
-    "stage": "regular",
-    "utcDate": "2026-11-28T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "17",
-    "awayTeamId": "721",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Europa-Park Stadion, Freiburg im Breisgau"
-  },
-  {
-    "id": "565874",
-    "competitionId": "BL1",
-    "season": "2026",
-    "matchday": 11,
-    "stage": "regular",
-    "utcDate": "2026-11-28T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "7",
-    "awayTeamId": "5",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Volksparkstadion, Hamburg Norderstedt"
   },
   {
     "id": "565875",
