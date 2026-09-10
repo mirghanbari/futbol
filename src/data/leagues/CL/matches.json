@@ -582,14 +582,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-10T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5",
     "awayTeamId": "5721",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 2.49,
+        "shots": 25,
+        "shotsOnTarget": 12,
+        "accuratePasses": 647,
+        "duelsWon": 44,
+        "boxTouches": 37,
+        "fouls": 5,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 0
+      },
+      "away": {
+        "possession": 34,
+        "xg": 0.2,
+        "shots": 3,
+        "shotsOnTarget": 0,
+        "accuratePasses": 285,
+        "duelsWon": 36,
+        "boxTouches": 6,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 6
+      }
     },
     "venue": "Allianz Arena, München",
     "broadcasts": [
@@ -606,14 +634,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-10T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "66",
     "awayTeamId": "10233",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 3.67,
+        "shots": 21,
+        "shotsOnTarget": 10,
+        "accuratePasses": 572,
+        "duelsWon": 50,
+        "boxTouches": 41,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 42,
+        "xg": 0.92,
+        "shots": 11,
+        "shotsOnTarget": 0,
+        "accuratePasses": 390,
+        "duelsWon": 42,
+        "boxTouches": 12,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "Old Trafford, Manchester",
     "broadcasts": [
@@ -630,14 +686,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-10T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "7397",
     "awayTeamId": "721",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 2.3,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 465,
+        "duelsWon": 53,
+        "boxTouches": 23,
+        "fouls": 9,
+        "corners": 1,
+        "offsides": 5,
+        "saves": 3
+      },
+      "away": {
+        "possession": 50,
+        "xg": 1.42,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 443,
+        "duelsWon": 37,
+        "boxTouches": 24,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Giuseppe Sinigaglia, Como",
     "broadcasts": [
@@ -658,14 +742,42 @@
     "matchday": 1,
     "stage": "league-phase",
     "utcDate": "2026-09-10T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "930",
     "awayTeamId": "546",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 37,
+        "xg": 2.12,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 189,
+        "duelsWon": 39,
+        "boxTouches": 27,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 63,
+        "xg": 1.77,
+        "shots": 26,
+        "shotsOnTarget": 8,
+        "accuratePasses": 361,
+        "duelsWon": 47,
+        "boxTouches": 42,
+        "fouls": 8,
+        "corners": 9,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Fortuna Arena, Prague",
     "broadcasts": [
