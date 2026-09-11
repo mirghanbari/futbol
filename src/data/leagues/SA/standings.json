@@ -250,9 +250,9 @@
     "draw": 0,
     "lost": 3,
     "points": 3,
-    "goalsFor": 3,
-    "goalsAgainst": 10,
-    "goalDifference": -7
+    "goalsFor": 5,
+    "goalsAgainst": 11,
+    "goalDifference": -6
   },
   {
     "id": "103",
@@ -306,30 +306,13 @@
     "goalDifference": -4
   },
   {
-    "id": "454",
-    "name": "Venezia FC",
-    "shortName": "Venezia FC",
-    "tla": "VEN",
-    "crest": "https://crests.football-data.org/454.png",
-    "competitionId": "SA",
-    "position": 19,
-    "playedGames": 4,
-    "won": 0,
-    "draw": 0,
-    "lost": 4,
-    "points": 0,
-    "goalsFor": 3,
-    "goalsAgainst": 9,
-    "goalDifference": -6
-  },
-  {
     "id": "107",
     "name": "Genoa CFC",
     "shortName": "Genoa",
     "tla": "GEN",
     "crest": "https://crests.football-data.org/107.png",
     "competitionId": "SA",
-    "position": 20,
+    "position": 19,
     "playedGames": 3,
     "won": 0,
     "draw": 0,
@@ -338,5 +321,22 @@
     "goalsFor": 1,
     "goalsAgainst": 7,
     "goalDifference": -6
+  },
+  {
+    "id": "454",
+    "name": "Venezia FC",
+    "shortName": "Venezia FC",
+    "tla": "VEN",
+    "crest": "https://crests.football-data.org/454.png",
+    "competitionId": "SA",
+    "position": 20,
+    "playedGames": 4,
+    "won": 0,
+    "draw": 0,
+    "lost": 4,
+    "points": 0,
+    "goalsFor": 4,
+    "goalsAgainst": 11,
+    "goalDifference": -7
   }
 ]

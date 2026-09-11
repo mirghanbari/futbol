@@ -942,14 +942,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-11T18:30:00Z",
-    "status": "paused",
+    "status": "finished",
     "homeTeamId": "28",
     "awayTeamId": "6",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 2.03,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 379,
+        "duelsWon": 68,
+        "boxTouches": 40,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 6
+      },
+      "away": {
+        "possession": 34,
+        "xg": 2.45,
+        "shots": 19,
+        "shotsOnTarget": 10,
+        "accuratePasses": 153,
+        "duelsWon": 66,
+        "boxTouches": 23,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 7
+      }
     },
     "venue": "Stadion An der Alten Försterei, Berlin",
     "broadcasts": [

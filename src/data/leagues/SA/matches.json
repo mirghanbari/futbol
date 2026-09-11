@@ -1586,14 +1586,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-11T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "454",
     "awayTeamId": "99",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 0.58,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 496,
+        "duelsWon": 37,
+        "boxTouches": 25,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 6
+      },
+      "away": {
+        "possession": 37,
+        "xg": 3.36,
+        "shots": 19,
+        "shotsOnTarget": 10,
+        "accuratePasses": 274,
+        "duelsWon": 51,
+        "boxTouches": 49,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 1
+      }
     },
     "venue": "Stadio Pier Luigi Penzo, Venezia",
     "broadcasts": [

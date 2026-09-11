@@ -1248,14 +1248,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-11T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "529",
     "awayTeamId": "516",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 1.85,
+        "shots": 20,
+        "shotsOnTarget": 7,
+        "accuratePasses": 416,
+        "duelsWon": 46,
+        "boxTouches": 34,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 51,
+        "xg": 0.95,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 441,
+        "duelsWon": 53,
+        "boxTouches": 31,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 6
+      }
     },
     "venue": "Roazhon Park, Rennes"
   },
