@@ -942,14 +942,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-11T18:30:00Z",
-    "status": "scheduled",
+    "status": "paused",
     "homeTeamId": "28",
     "awayTeamId": "6",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stadion An der Alten Försterei, Berlin",
     "broadcasts": [
