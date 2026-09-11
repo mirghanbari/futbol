@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { NavLink, useLocation, useNavigate, useParams } from "react-router-dom";
 import { competitionById, competitions } from "../data";
+import { hasKnockoutStage } from "../data/knockout";
 import { CompetitionLogo } from "./CompetitionLogo";
 
 export default function Nav() {
@@ -124,9 +125,11 @@ export default function Nav() {
         <NavLink to={`/stats/${active}`} className={linkClass} onClick={close}>
           Stats
         </NavLink>
-        <NavLink to={`/knockout/${active}`} className={linkClass} onClick={close}>
-          Knockout
-        </NavLink>
+        {hasKnockoutStage(active) && (
+          <NavLink to={`/knockout/${active}`} className={linkClass} onClick={close}>
+            Knockout
+          </NavLink>
+        )}
         <NavLink to={`/table-races/${active}`} className={linkClass} onClick={close}>
           Table Races
         </NavLink>

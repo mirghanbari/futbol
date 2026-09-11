@@ -1,6 +1,29 @@
+import { competitionById } from "./index";
 import type { Match, MatchStage } from "./types";
 
 export const KNOCKOUT_STAGES: MatchStage[] = ["playoff", "round16", "quarter", "semi", "final"];
+
+// Whether a competition's FORMAT has a knockout phase — not whether its
+// bracket has been drawn yet. Verified against the ingested fixture lists:
+// every match in all eight domestic leagues is stage "regular", so only the
+// continental competitions ever produce a tie.
+//
+// Keyed on tier 0 (continental) rather than an id list here, because tier is
+// set in scripts/competitions.mjs on the same line where a competition is
+// added — so adding the Europa League gets the tab automatically, instead of
+// silently missing it until someone remembers a second list in this file.
+//
+// Deliberately NOT derived from the ingested stages (`m.stage !== "regular"`),
+// tempting as that looks: CL's fixture list is pure "league-phase" until the
+// round-of-16 draw in January, so a data-derived flag would hide the tab for
+// most of the season and pop it in unannounced mid-year. The /knockout route
+// stays reachable for every competition either way — the page has its own
+// "doesn't have a knockout stage" empty state, which is what CL correctly
+// shows until the draw. This only decides whether the nav advertises it.
+export function hasKnockoutStage(competitionId: string | undefined): boolean {
+  if (competitionId === undefined) return false;
+  return competitionById(competitionId)?.tier === 0;
+}
 
 export const STAGE_LABELS: Record<MatchStage, string> = {
   regular: "Regular season",
