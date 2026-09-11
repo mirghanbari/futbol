@@ -193,6 +193,35 @@ a {
   color: var(--ink);
 }
 
+/* Hamburger — hidden above 820px, where the tabs show as a pill row. */
+.nav-toggle {
+  display: none;
+  margin-left: auto;
+  flex: none;
+  width: 40px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  line-height: 1;
+  font-family: inherit;
+  background: var(--card);
+  color: var(--ink);
+  border: 1px solid var(--hair);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+}
+
+.nav-toggle:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.nav-toggle:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
 .container {
   flex: 1;
   width: 100%;
@@ -886,16 +915,59 @@ tr.zone-releg-playoff {
   box-shadow: var(--shadow), inset 3px 0 0 var(--releg);
 }
 
-@media (max-width: 640px) {
+/* Collapse the ten tabs into a hamburger panel, mirroring the World Cup
+   dashboard's nav (~/code/dashboards/world-cup). The previous horizontal
+   scroller squeezed every tab under its text width — the two-word ones wrapped
+   their text onto a second line, which set the flex line's height for the whole
+   row and (via align-items' default stretch) grew every border-radius: 999px
+   pill into a tall green blob. */
+@media (max-width: 820px) {
   .nav {
-    gap: 0.75rem;
-  }
-  .nav-links {
-    order: 3;
-    width: 100%;
-    overflow-x: auto;
+    /* Anchors the dropdown panel; nowrap keeps brand / switcher / toggle on
+       one row, with the switcher taking the slack. */
+    position: relative;
+    z-index: 50;
+    gap: 0.6rem;
     flex-wrap: nowrap;
   }
+  .brand {
+    flex: none;
+  }
+  .competition-select {
+    flex: 1 1 auto;
+    /* Without this a flex item won't shrink below its content width. */
+    min-width: 0;
+  }
+  .nav-toggle {
+    display: inline-flex;
+  }
+  .nav-links {
+    display: none;
+    position: absolute;
+    top: calc(100% + 0.25rem);
+    left: 1.5rem;
+    right: 1.5rem;
+    flex-direction: column;
+    gap: 0.15rem;
+    padding: 0.5rem;
+    background: var(--card);
+    border: 1px solid var(--hair);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+  }
+  .nav-links.is-open {
+    display: flex;
+  }
+  .nav-link {
+    padding: 0.7rem 0.9rem;
+    font-size: 0.95rem;
+    border-radius: var(--radius-sm);
+  }
+}
+
+/* Phone-sized only. Kept separate from the nav's 820px breakpoint above: a
+   tablet wants the hamburger but not a shrunken hero. */
+@media (max-width: 640px) {
   .hero {
     padding: 1.5rem;
   }
