@@ -456,6 +456,30 @@ th.num {
 }
 
 /* ---------- Matches ---------- */
+/* The Matches page is three stacked sections — Today, Upcoming, Previous
+   matchdays — under the "Live now" strip. .match-day is one day's heading +
+   card grid inside one of them. */
+.match-section {
+  margin: 1.75rem 0 0;
+}
+
+.match-section-title {
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink);
+  margin: 0 0 0.85rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--hair);
+}
+
+/* A section's first day heading would otherwise double the gap under the
+   section title it sits directly beneath. */
+.match-section .match-day:first-of-type {
+  margin-top: 0;
+}
+
 .match-day {
   margin: 1.75rem 0 0;
 }
@@ -467,6 +491,80 @@ th.num {
   letter-spacing: 0.1em;
   color: var(--muted);
   margin: 0 0 0.6rem;
+}
+
+/* ---------- Collapsed day rows: one <details> per day, shared by the
+   "Later fixtures" and "Previous matchdays" sections ----------
+   Only the summary carries the card styling — the expanded body sits on the
+   page background so the white .match-card grid inside it stays legible
+   against a surface that isn't also white. */
+.match-day-accordion {
+  margin-bottom: 0.6rem;
+}
+
+.match-day-accordion > summary {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.85rem 1.1rem;
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  font-size: 0.75rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink);
+  /* Suppresses the default disclosure triangle in every engine, so the
+     ::after caret below is the only marker. */
+  list-style: none;
+}
+
+.match-day-accordion > summary::-webkit-details-marker {
+  display: none;
+}
+
+.match-day-accordion > summary:hover {
+  color: var(--primary);
+}
+
+.match-day-accordion > summary:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+.match-day-accordion-count {
+  margin-left: auto;
+  font-weight: 700;
+  text-transform: none;
+  letter-spacing: 0;
+  color: var(--muted);
+}
+
+.match-day-accordion > summary::after {
+  content: "";
+  width: 0.45rem;
+  height: 0.45rem;
+  flex: none;
+  border-right: 2px solid var(--muted);
+  border-bottom: 2px solid var(--muted);
+  /* Chevron down when collapsed, up when open. The -2px nudge centres the
+     rotated square on the text baseline. */
+  transform: translateY(-2px) rotate(45deg);
+  transition: transform 0.15s;
+}
+
+.match-day-accordion[open] > summary::after {
+  transform: translateY(2px) rotate(-135deg);
+}
+
+.match-day-accordion-body {
+  padding-top: 0.85rem;
+}
+
+.match-day-accordion[open] {
+  margin-bottom: 1.5rem;
 }
 
 /* Compact single-line fixture row — TeamDetail's own fixture list only.

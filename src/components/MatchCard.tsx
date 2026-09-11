@@ -1,3 +1,4 @@
+import { memo } from "react";
 import { Link } from "react-router-dom";
 import { ProbabilityBar } from "./ProbabilityBar";
 import { STAGE_LABELS } from "../data/knockout";
@@ -8,6 +9,26 @@ export interface MatchOdds {
   home: number;
   draw: number;
   away: number;
+}
+
+// The local calendar day a match belongs to, formatted like the ISO date it
+// replaces. Local rather than UTC because the kickoff time on the card is
+// local too (statusLabel's toLocaleTimeString below) — keying days off
+// utcDate.slice(0, 10) filed a 02:00 UTC Sunday kickoff under Sunday for a
+// viewer whose card read "7:00 PM Saturday", and put the Matches page's
+// "Today" heading on the wrong day entirely east or west of UTC.
+export function matchDayKey(match: Match): string {
+  return localDayKey(new Date(match.utcDate));
+}
+
+// Today, in the same format — the key the Matches page compares against.
+export function todayKey(): string {
+  return localDayKey(new Date());
+}
+
+function localDayKey(date: Date): string {
+  const pad = (n: number) => String(n).padStart(2, "0");
+  return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
 }
 
 // In-play and paused (half time) are the two "happening right now" statuses —
@@ -62,7 +83,7 @@ interface MatchCardProps {
   showDate?: boolean;
 }
 
-export function MatchCard({ match, competitionId, home, away, odds, showDate = false }: MatchCardProps) {
+function MatchCardImpl({ match, competitionId, home, away, odds, showDate = false }: MatchCardProps) {
   const isLive = isLiveMatch(match);
   return (
     <div className={isLive ? "match-card match-card-live" : "match-card"}>
@@ -73,11 +94,11 @@ export function MatchCard({ match, competitionId, home, away, odds, showDate = f
       />
       <div className="match-card-head">
         <span>
-          {/* Same UTC day key the Matches page's day headings use — a local
-              date here would disagree with the heading of the very group this
-              card was lifted out of, for exactly the late-kickoff fixtures
-              showDate exists for. */}
-          {showDate ? `${match.utcDate.slice(0, 10)} · ` : ""}
+          {/* Same day key the Matches page's day headings use, so a card
+              lifted out of a group into the "Live now" strip can't disagree
+              with the heading it came from — exactly the late-kickoff
+              fixtures showDate exists for. */}
+          {showDate ? `${matchDayKey(match)} · ` : ""}
           {stageLabel(match)}
         </span>
         <span className="match-status">
@@ -88,14 +109,14 @@ export function MatchCard({ match, competitionId, home, away, odds, showDate = f
       <div className="match-teams">
         <div className="match-team-row">
           <Link className="row-team-link" to={`/teams/${competitionId}/${match.homeTeamId}`}>
-            {home?.crest && <img className="crest" src={home.crest} alt="" />}
+            {home?.crest && <img className="crest" src={home.crest} alt="" loading="lazy" />}
             <span>{home?.shortName ?? match.homeTeamId}</span>
           </Link>
           <span style={{ marginLeft: "auto" }}>{goalsLabel(match.homeTeam.goals, match)}</span>
         </div>
         <div className="match-team-row">
           <Link className="row-team-link" to={`/teams/${competitionId}/${match.awayTeamId}`}>
-            {away?.crest && <img className="crest" src={away.crest} alt="" />}
+            {away?.crest && <img className="crest" src={away.crest} alt="" loading="lazy" />}
             <span>{away?.shortName ?? match.awayTeamId}</span>
           </Link>
           <span style={{ marginLeft: "auto" }}>{goalsLabel(match.awayTeam.goals, match)}</span>
@@ -116,3 +137,10 @@ export function MatchCard({ match, competitionId, home, away, odds, showDate = f
     </div>
   );
 }
+
+// Memoised because the Matches page keeps a whole season of cards mounted and
+// useLiveData re-renders it every 60s. applyLive returns the *same* Match
+// object for any fixture without a live patch, and home/away/odds are derived
+// from `data` (stable between loads), so in practice only the handful of
+// in-play cards actually re-render.
+export const MatchCard = memo(MatchCardImpl);
