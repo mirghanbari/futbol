@@ -1742,14 +1742,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-12T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "102",
     "awayTeamId": "104",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 1.31,
+        "shots": 22,
+        "shotsOnTarget": 4,
+        "accuratePasses": 636,
+        "duelsWon": 41,
+        "boxTouches": 45,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 38,
+        "xg": 1.1,
+        "shots": 5,
+        "shotsOnTarget": 5,
+        "accuratePasses": 375,
+        "duelsWon": 40,
+        "boxTouches": 7,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "New Balance Arena, Bergamo",
     "broadcasts": [

@@ -1958,14 +1958,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-12T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "71",
     "awayTeamId": "57",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 1.64,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 217,
+        "duelsWon": 37,
+        "boxTouches": 25,
+        "fouls": 18,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 58,
+        "xg": 1.97,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 321,
+        "duelsWon": 54,
+        "boxTouches": 19,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Stadium of Light, Sunderland",
     "broadcasts": [
