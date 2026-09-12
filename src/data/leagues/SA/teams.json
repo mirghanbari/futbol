@@ -1,5 +1,13 @@
 [
   {
+    "id": "110",
+    "name": "SS Lazio",
+    "shortName": "Lazio",
+    "tla": "LAZ",
+    "crest": "https://crests.football-data.org/110.png",
+    "competitionId": "SA"
+  },
+  {
     "id": "100",
     "name": "AS Roma",
     "shortName": "Roma",
@@ -13,14 +21,6 @@
     "shortName": "Inter",
     "tla": "INT",
     "crest": "https://crests.football-data.org/108.png",
-    "competitionId": "SA"
-  },
-  {
-    "id": "110",
-    "name": "SS Lazio",
-    "shortName": "Lazio",
-    "tla": "LAZ",
-    "crest": "https://crests.football-data.org/110.png",
     "competitionId": "SA"
   },
   {
@@ -40,19 +40,19 @@
     "competitionId": "SA"
   },
   {
-    "id": "98",
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "109",
     "name": "Juventus FC",
     "shortName": "Juventus",
     "tla": "JUV",
     "crest": "https://crests.football-data.org/109.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "98",
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png",
     "competitionId": "SA"
   },
   {

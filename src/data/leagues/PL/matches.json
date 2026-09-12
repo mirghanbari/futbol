@@ -1642,14 +1642,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-12T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "354",
     "awayTeamId": "349",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.62,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 314,
+        "duelsWon": 50,
+        "boxTouches": 21,
+        "fouls": 6,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 54,
+        "xg": 1.67,
+        "shots": 12,
+        "shotsOnTarget": 6,
+        "accuratePasses": 365,
+        "duelsWon": 39,
+        "boxTouches": 30,
+        "fouls": 16,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Selhurst Park, London",
     "broadcasts": [
@@ -1666,7 +1694,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-12T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "64",
     "awayTeamId": "63",
     "homeTeam": {
@@ -1674,6 +1702,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 1.13,
+        "shots": 14,
+        "shotsOnTarget": 3,
+        "accuratePasses": 413,
+        "duelsWon": 39,
+        "boxTouches": 18,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.71,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 303,
+        "duelsWon": 34,
+        "boxTouches": 24,
+        "fouls": 8,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Anfield, Liverpool",
     "broadcasts": [
@@ -1690,14 +1746,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-12T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "58",
     "awayTeamId": "351",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 0.82,
+        "shots": 7,
+        "shotsOnTarget": 5,
+        "accuratePasses": 341,
+        "duelsWon": 47,
+        "boxTouches": 18,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.92,
+        "shots": 22,
+        "shotsOnTarget": 7,
+        "accuratePasses": 308,
+        "duelsWon": 50,
+        "boxTouches": 32,
+        "fouls": 16,
+        "corners": 1,
+        "offsides": 4,
+        "saves": 5
+      }
     },
     "venue": "Villa Park, Birmingham",
     "broadcasts": [
@@ -1714,14 +1798,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-12T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1044",
     "awayTeamId": "402",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 57,
+        "xg": 2.18,
+        "shots": 20,
+        "shotsOnTarget": 10,
+        "accuratePasses": 395,
+        "duelsWon": 59,
+        "boxTouches": 26,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 0
+      },
+      "away": {
+        "possession": 43,
+        "xg": 0.5,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 260,
+        "duelsWon": 63,
+        "boxTouches": 24,
+        "fouls": 13,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 8
+      }
     },
     "venue": "Vitality Stadium, Bournemouth",
     "broadcasts": [
@@ -1738,14 +1850,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-12T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "61",
     "awayTeamId": "322",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 68,
+        "xg": 0.89,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 479,
+        "duelsWon": 45,
+        "boxTouches": 36,
+        "fouls": 7,
+        "corners": 10,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 32,
+        "xg": 1.49,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 179,
+        "duelsWon": 38,
+        "boxTouches": 15,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Stamford Bridge, London",
     "broadcasts": [

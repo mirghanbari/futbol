@@ -994,14 +994,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-12T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "2",
     "awayTeamId": "10",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 2.6,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 277,
+        "duelsWon": 50,
+        "boxTouches": 31,
+        "fouls": 15,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 57,
+        "xg": 2.23,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 396,
+        "duelsWon": 53,
+        "boxTouches": 31,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 6
+      }
     },
     "venue": "PreZero Arena, Sinsheim",
     "broadcasts": [
@@ -1018,14 +1046,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-12T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "4",
     "awayTeamId": "29",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 1.55,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 466,
+        "duelsWon": 50,
+        "boxTouches": 26,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 0
+      },
+      "away": {
+        "possession": 45,
+        "xg": 0.42,
+        "shots": 10,
+        "shotsOnTarget": 0,
+        "accuratePasses": 380,
+        "duelsWon": 50,
+        "boxTouches": 17,
+        "fouls": 7,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "Signal Iduna Park, Aue",
     "broadcasts": [
@@ -1042,14 +1098,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-12T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "16",
     "awayTeamId": "3",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 37,
+        "xg": 1.09,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 277,
+        "duelsWon": 44,
+        "boxTouches": 10,
+        "fouls": 6,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 63,
+        "xg": 2.4,
+        "shots": 30,
+        "shotsOnTarget": 5,
+        "accuratePasses": 526,
+        "duelsWon": 32,
+        "boxTouches": 53,
+        "fouls": 12,
+        "corners": 14,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "WWK Arena, Augsburg",
     "broadcasts": [
@@ -1066,14 +1150,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-12T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "15",
     "awayTeamId": "19",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 2.09,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 387,
+        "duelsWon": 49,
+        "boxTouches": 31,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 45,
+        "xg": 2.1,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 327,
+        "duelsWon": 62,
+        "boxTouches": 24,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "MEWA ARENA, Mainz",
     "broadcasts": [
@@ -1090,14 +1202,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-12T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "17",
     "awayTeamId": "18",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 2.36,
+        "shots": 19,
+        "shotsOnTarget": 9,
+        "accuratePasses": 489,
+        "duelsWon": 48,
+        "boxTouches": 26,
+        "fouls": 7,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 39,
+        "xg": 0.21,
+        "shots": 5,
+        "shotsOnTarget": 0,
+        "accuratePasses": 269,
+        "duelsWon": 29,
+        "boxTouches": 17,
+        "fouls": 16,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Europa-Park Stadion, Freiburg im Breisgau",
     "broadcasts": [

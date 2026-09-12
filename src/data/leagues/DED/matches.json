@@ -2196,14 +2196,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-12T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "666",
     "awayTeamId": "680",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 2.81,
+        "shots": 24,
+        "shotsOnTarget": 12,
+        "accuratePasses": 483,
+        "duelsWon": 48,
+        "boxTouches": 51,
+        "fouls": 10,
+        "corners": 12,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 39,
+        "xg": 0.54,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 283,
+        "duelsWon": 36,
+        "boxTouches": 12,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 10
+      }
     },
     "venue": "De Grolsch Veste, Enschede"
   },

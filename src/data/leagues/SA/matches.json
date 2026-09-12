@@ -1638,14 +1638,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-12T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "107",
     "awayTeamId": "470",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 1.86,
+        "shots": 17,
+        "shotsOnTarget": 5,
+        "accuratePasses": 177,
+        "duelsWon": 53,
+        "boxTouches": 25,
+        "fouls": 12,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 56,
+        "xg": 1.95,
+        "shots": 26,
+        "shotsOnTarget": 6,
+        "accuratePasses": 279,
+        "duelsWon": 50,
+        "boxTouches": 38,
+        "fouls": 12,
+        "corners": 9,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "Stadio Luigi Ferraris, Genova",
     "broadcasts": [
@@ -1662,11 +1690,11 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-12T16:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "110",
     "awayTeamId": "98",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0

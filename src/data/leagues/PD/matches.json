@@ -2314,14 +2314,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-12T12:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5335",
     "awayTeamId": "263",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 57,
+        "xg": 1.46,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 353,
+        "duelsWon": 62,
+        "boxTouches": 16,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 7
+      },
+      "away": {
+        "possession": 43,
+        "xg": 2.04,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 250,
+        "duelsWon": 57,
+        "boxTouches": 25,
+        "fouls": 17,
+        "corners": 6,
+        "offsides": 9,
+        "saves": 2
+      }
     },
     "venue": "El Sardineros, Santander",
     "broadcasts": [
@@ -2342,14 +2370,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-12T14:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "79",
     "awayTeamId": "80",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 0.87,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 413,
+        "duelsWon": 69,
+        "boxTouches": 24,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 39,
+        "xg": 1.42,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 253,
+        "duelsWon": 54,
+        "boxTouches": 18,
+        "fouls": 24,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "El Sadar, Pamplona",
     "broadcasts": [
