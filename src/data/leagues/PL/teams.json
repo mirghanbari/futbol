@@ -48,6 +48,14 @@
     "competitionId": "PL"
   },
   {
+    "id": "62",
+    "name": "Everton FC",
+    "shortName": "Everton",
+    "tla": "EVE",
+    "crest": "https://crests.football-data.org/62.png",
+    "competitionId": "PL"
+  },
+  {
     "id": "349",
     "name": "Ipswich Town FC",
     "shortName": "Ipswich Town",
@@ -61,14 +69,6 @@
     "shortName": "Newcastle",
     "tla": "NEW",
     "crest": "https://crests.football-data.org/67.png",
-    "competitionId": "PL"
-  },
-  {
-    "id": "62",
-    "name": "Everton FC",
-    "shortName": "Everton",
-    "tla": "EVE",
-    "crest": "https://crests.football-data.org/62.png",
     "competitionId": "PL"
   },
   {
@@ -128,19 +128,19 @@
     "competitionId": "PL"
   },
   {
-    "id": "63",
-    "name": "Fulham FC",
-    "shortName": "Fulham",
-    "tla": "FUL",
-    "crest": "https://crests.football-data.org/63.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "73",
     "name": "Tottenham Hotspur FC",
     "shortName": "Tottenham",
     "tla": "TOT",
     "crest": "https://crests.football-data.org/73.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "63",
+    "name": "Fulham FC",
+    "shortName": "Fulham",
+    "tla": "FUL",
+    "crest": "https://crests.football-data.org/63.png",
     "competitionId": "PL"
   },
   {

@@ -1254,14 +1254,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-12T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1",
     "awayTeamId": "12",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 1.61,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 392,
+        "duelsWon": 40,
+        "boxTouches": 27,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 53,
+        "xg": 0.95,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 461,
+        "duelsWon": 45,
+        "boxTouches": 25,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "RheinEnergieStadion, Cologne",
     "broadcasts": [

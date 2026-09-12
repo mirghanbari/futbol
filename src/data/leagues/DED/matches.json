@@ -2242,14 +2242,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-12T16:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "718",
     "awayTeamId": "677",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "De Adelaarshorst, Deventer"
   },
@@ -2260,7 +2260,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-12T18:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1920",
     "awayTeamId": "678",
     "homeTeam": {

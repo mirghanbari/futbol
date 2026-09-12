@@ -2426,14 +2426,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-12T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "77",
     "awayTeamId": "285",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 2.42,
+        "shots": 19,
+        "shotsOnTarget": 3,
+        "accuratePasses": 542,
+        "duelsWon": 36,
+        "boxTouches": 41,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 4,
+        "saves": 0
+      },
+      "away": {
+        "possession": 33,
+        "xg": 0.84,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 247,
+        "duelsWon": 48,
+        "boxTouches": 7,
+        "fouls": 12,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "San Mamés, Bilbao",
     "broadcasts": [
