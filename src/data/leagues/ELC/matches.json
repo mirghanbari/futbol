@@ -3514,14 +3514,14 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-12T11:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "342",
     "awayTeamId": "332",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Pride Park, Derby",
     "broadcasts": [
@@ -3538,7 +3538,7 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-12T11:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "60",
     "awayTeamId": "715",
     "homeTeam": {
@@ -3556,14 +3556,14 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-12T11:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "74",
     "awayTeamId": "69",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "The Hawthorns, West Bromwich",
     "broadcasts": [
