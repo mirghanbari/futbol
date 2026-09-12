@@ -5,9 +5,17 @@ name: Update live scores
 # during a live matchday without waiting on the slow, rate-limited
 # football-data.org pass. Same commit-and-dispatch-Deploy pattern as
 # update-data.yml.
+#
+# Cadence: the `schedule:` cron below is only a throttled *backup* — GitHub
+# delivered it ~3.5h apart instead of every 10 min (measured mean 211 min).
+# The real cadence comes from the Cloudflare Worker in cron-trigger/, which
+# dispatches this workflow every 2 min while a match is on and every 3h
+# otherwise. See cron-trigger/README.md.
 on:
   schedule:
-    - cron: "*/10 * * * *" # best-effort; GitHub throttles scheduled cron
+    # Backup only (the Worker drives the real cadence). GitHub throttles this
+    # to ~3.5h regardless, so asking for */10 only queued runs it never granted.
+    - cron: "*/30 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -34,6 +42,19 @@ jobs:
       - name: Ingest ESPN live scores
         run: npm run ingest:live
 
+      - name: Build kickoff manifest for the cron Worker
+        # Local-only (no network): strips the 9 matches.json files down to the
+        # kickoff times and statuses cron-trigger/ polls once a minute. Must run
+        # after the live ingest so it can overlay ESPN's fresher status.
+        #
+        # Non-fatal, like update-data.yml's enrichment steps: this manifest is
+        # auxiliary, and failing the job here would discard the live.json the
+        # previous step just ingested — the workflow's actual purpose. A stale
+        # manifest only costs the Worker some cadence accuracy; its window is
+        # 3 days wide, so it tolerates a missed rebuild easily.
+        continue-on-error: true
+        run: npm run build:kickoffs
+
       - name: Commit and deploy
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -42,18 +63,18 @@ jobs:
           git config user.name "futbol-bot"
           git config user.email "actions@github.com"
 
-          if [ -z "$(git status --porcelain public/live.json)" ]; then
+          if [ -z "$(git status --porcelain public/live.json public/kickoffs.json)" ]; then
             echo "No live-score changes."
             exit 0
           fi
 
-          git add public/live.json
+          git add public/live.json public/kickoffs.json
           git commit -m "data: refresh live scores"
 
           # Update data pushes to main on its own schedule, so this push can
           # lose the race and be rejected as non-fast-forward. The two write
-          # disjoint paths (public/live.json vs src/data), so rebasing onto
-          # the newer main and retrying always replays cleanly.
+          # disjoint paths (public/ vs src/data), so rebasing onto the newer
+          # main and retrying always replays cleanly.
           pushed=""
           for attempt in 1 2 3 4 5; do
             if git push origin HEAD:main; then

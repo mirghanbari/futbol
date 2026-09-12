@@ -1,0 +1,41 @@
+# Cloudflare Worker that triggers the "Update live scores" GitHub Actions
+# workflow. GitHub throttles its own `schedule:` cron heavily — this repo's
+# */10 and */30 crons both landed ~3.5h apart (measured mean 211 min over 20
+# runs, min 113, max 316) instead of the requested cadence — but
+# workflow_dispatch via the REST API is not throttled, so this Worker drives
+# the real cadence instead.
+#
+# Ported from the World Cup dashboard's cron-trigger (~/code/dashboards).
+#
+# Deploy:  see README.md  (needs the GH_TOKEN secret set first)
+name = "futbol-data-trigger"
+main = "src/index.js"
+compatibility_date = "2026-09-12"
+
+# The Worker wakes every minute, but only *dispatches a run* every 2 min while
+# a match is in progress, and every IDLE_EVERY_MIN minutes otherwise (see
+# src/index.js). Waking every minute is free; this just decides when to trigger.
+[triggers]
+crons = ["* * * * *"]
+
+# Non-secret config (override here without touching code). The GitHub token is
+# NOT here — it's a secret, set with `wrangler secret put GH_TOKEN`.
+[vars]
+OWNER = "mirghanbari"
+REPO = "futbol"
+WORKFLOW = "update-live.yml"
+REF = "main"
+# The slim schedule manifest written by scripts/build-kickoffs.mjs. Read from
+# raw.githubusercontent rather than the Pages site so a kickoff is visible as
+# soon as it's committed, without waiting on a Pages deploy.
+KICKOFFS_URL = "https://raw.githubusercontent.com/mirghanbari/futbol/main/public/kickoffs.json"
+IDLE_EVERY_MIN = "180"    # dispatch cadence when no match is on (3h — nothing to update)
+LIVE_EVERY_MIN = "2"      # dispatch cadence while a match is in progress
+PRE_KICKOFF_MIN = "5"     # switch to the live cadence this long before kickoff
+MATCH_WINDOW_MIN = "165"  # treat as in-progress up to 2h45m after kickoff
+# How long past MATCH_WINDOW_MIN a live status is still believed — covers extra
+# time, penalties and long VAR/weather delays. Bounded on purpose: the
+# manifest's status is not self-correcting once the today-only live.json
+# overlay expires, so an unbounded check would let one stale in-play snapshot
+# pin the 2-min cadence for days. See isGameOn in src/index.js.
+LIVE_STATUS_GRACE_MIN = "60"
