@@ -200,7 +200,11 @@ export default {
         try {
           console.log(`${d.reason} → ${await dispatch(env)}`);
         } catch (err) {
-          console.error(err.message);
+          // Carry the decision context into the failure line. Logging only
+          // err.message loses the tick and gameOn that led here, which is
+          // exactly what you want when diagnosing why a dispatch is failing
+          // (a 403 on a token permission, say) rather than being skipped.
+          console.error(`${d.reason} → ${err.message}`);
         }
       })(),
     );

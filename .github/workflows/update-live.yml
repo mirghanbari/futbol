@@ -6,11 +6,14 @@ name: Update live scores
 # football-data.org pass. Same commit-and-dispatch-Deploy pattern as
 # update-data.yml.
 #
-# Cadence: the `schedule:` cron below is only a throttled *backup* — GitHub
-# delivered it ~3.5h apart instead of every 10 min (measured mean 211 min).
-# The real cadence comes from the Cloudflare Worker in cron-trigger/, which
-# dispatches this workflow every 2 min while a match is on and every 3h
-# otherwise. See cron-trigger/README.md.
+# Cadence, in two tiers. The `schedule:` cron below is only a throttled
+# *backup* — GitHub delivered it ~3.5h apart instead of every 10 min (measured
+# mean 211 min). The Cloudflare Worker in cron-trigger/ starts runs promptly
+# instead, dispatching every 2 min while a match is on and every 3h otherwise.
+# Then, once a match is actually under way, the final step here polls in-job
+# every 60s until nothing is live (3h cap), which is what actually makes scores
+# fresh: a dispatch on its own only buys a single ingest pass, so the Worker's
+# 2 min would otherwise be the floor. See cron-trigger/README.md.
 on:
   schedule:
     # Backup only (the Worker drives the real cadence). GitHub throttles this
@@ -29,6 +32,9 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    # Safety cap above the loop's own 3h deadline, well under the 6h hard job
+    # limit. The loop should always exit on its own; this is the backstop.
+    timeout-minutes: 200
     steps:
       - uses: actions/checkout@v4
 
@@ -55,7 +61,7 @@ jobs:
         continue-on-error: true
         run: npm run build:kickoffs
 
-      - name: Commit and deploy
+      - name: Commit and poll live scores
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -63,32 +69,160 @@ jobs:
           git config user.name "futbol-bot"
           git config user.email "actions@github.com"
 
-          if [ -z "$(git status --porcelain public/live.json public/kickoffs.json)" ]; then
-            echo "No live-score changes."
-            exit 0
-          fi
+          DEPLOY_INTERVAL=120                        # throttle Pages deploys to ~2 min
+          DEADLINE=$(( $(date +%s) + 3 * 60 * 60 ))  # 3h live-poll cap
+          MAX_PROBE_ERRORS=3                         # consecutive has-live-match failures tolerated
+          last_deploy=0
+          pending_deploy=""   # pushed something the throttle wouldn't publish yet
+          push_failed=""      # last commit_and_deploy could not reach origin
 
-          git add public/live.json public/kickoffs.json
-          git commit -m "data: refresh live scores"
+          # Commit whatever the latest ingest changed and, at most every
+          # DEPLOY_INTERVAL, ask Deploy to publish. Bot commits made with
+          # GITHUB_TOKEN don't fire other workflows' `push` event, so Deploy has
+          # to be dispatched explicitly.
+          commit_and_deploy() {
+            if [ -z "$(git status --porcelain public/live.json public/kickoffs.json)" ]; then
+              echo "No live-score changes."
+              return
+            fi
 
-          # Update data pushes to main on its own schedule, so this push can
-          # lose the race and be rejected as non-fast-forward. The two write
-          # disjoint paths (public/ vs src/data), so rebasing onto the newer
-          # main and retrying always replays cleanly.
-          pushed=""
-          for attempt in 1 2 3 4 5; do
-            if git push origin HEAD:main; then
-              pushed=1
+            git add public/live.json public/kickoffs.json
+            git commit -m "data: refresh live scores"
+
+            # Update data pushes to main on its own schedule, so this push can
+            # lose the race and be rejected as non-fast-forward. The two write
+            # disjoint paths (public/ vs src/data), so rebasing onto the newer
+            # main and retrying always replays cleanly.
+            local pushed=""
+            for attempt in 1 2 3 4 5; do
+              if git push origin HEAD:main; then
+                pushed=1
+                break
+              fi
+              echo "Push rejected (attempt $attempt); rebasing onto latest main."
+              sleep "$attempt"
+              git pull --rebase origin main || git rebase --abort || true
+            done
+
+            # Don't fail the job from inside the loop — the next tick
+            # regenerates both files and tries again, so aborting here would
+            # throw away an otherwise healthy poller. But do record it: there is
+            # no "next tick" for the pre-loop call or the final one, and a
+            # silently dropped push on a green run is how stale scores survive.
+            # The flag is checked once at the end of the step.
+            if [ -z "$pushed" ]; then
+              echo "::warning::Could not push after 5 attempts; will retry on the next tick if there is one."
+              push_failed=1
+              return
+            fi
+            push_failed=""
+
+            local now
+            now=$(date +%s)
+            if [ $(( now - last_deploy )) -ge "$DEPLOY_INTERVAL" ]; then
+              if gh workflow run "Deploy"; then
+                last_deploy=$now
+                pending_deploy=""
+              else
+                echo "deploy dispatch failed (non-fatal)"
+                pending_deploy=1
+              fi
+            else
+              # Throttled. Normally the next tick publishes this, but the tick
+              # that records the final whistle is throttled too and is followed
+              # by no tick at all — so remember it and flush after the loop.
+              # Otherwise the final scores sit committed but unpublished, and
+              # since later runs regenerate identical files and return early on
+              # "No live-score changes", the site would keep showing a match
+              # frozen in-play until some unrelated change to public/.
+              echo "Deploy throttled; queued for the end of the run."
+              pending_deploy=1
+            fi
+          }
+
+          # Publish the initial pass the earlier steps already ingested.
+          commit_and_deploy
+
+          # Then poll while anything is actually being played. has-live-match.mjs
+          # reads the freshly-ingested public/live.json and exits 0 if any match
+          # is in-play or paused.
+          capped=""
+          gave_up=""
+          probe_errors=0
+          while true; do
+            # 0 = something live, 1 = nothing live, 2 = couldn't tell. Treating
+            # 2 as "nothing live" would end the loop mid-match on a single bad
+            # read and still report a clean finish, so retry a few times first.
+            # No set +e/-e needed: this script runs under `set -uo pipefail`,
+            # so errexit is off and a non-zero exit here is ours to read.
+            node scripts/has-live-match.mjs
+            probe=$?
+            if [ "$probe" -eq 1 ]; then
+              break
+            elif [ "$probe" -ne 0 ]; then
+              probe_errors=$(( probe_errors + 1 ))
+              echo "::warning::has-live-match exited $probe ($probe_errors/$MAX_PROBE_ERRORS)."
+              if [ "$probe_errors" -ge "$MAX_PROBE_ERRORS" ]; then
+                gave_up=1
+                break
+              fi
+            else
+              probe_errors=0
+            fi
+
+            if [ "$(date +%s)" -ge "$DEADLINE" ]; then
+              capped=1
               break
             fi
-            echo "Push rejected (attempt $attempt); rebasing onto latest main."
-            sleep "$attempt"
-            git pull --rebase origin main || git rebase --abort || true
+            sleep 60
+
+            # Clear any rebase state left by a failed push retry above. This is
+            # where it can actually be stale (a fresh checkout never carries
+            # .git/rebase-merge), and `git reset --hard` below does NOT remove
+            # that directory — it only moves HEAD. Left behind, every later
+            # `git pull --rebase` fails with "there is already a rebase-merge
+            # directory" and the remaining hours of pushes are all lost.
+            git rebase --abort 2>/dev/null || true
+
+            # Re-sync src/data from origin before re-ingesting. This job can run
+            # for hours, and update-data.yml may have committed newer fixtures or
+            # statuses meanwhile — both the live ingest and the manifest build
+            # read from src/data, so a stale checkout would regenerate
+            # kickoffs.json from yesterday's fixture list and commit it as if it
+            # were current. Resetting is safe precisely because this workflow
+            # never writes src/data: it only reads it. It also discards the
+            # previous tick's files (already pushed, and regenerated below), so
+            # each tick starts clean on origin/main.
+            git fetch -q origin main && git reset --hard -q origin/main \
+              || echo "src/data re-sync failed (non-fatal; continuing on the current checkout)"
+
+            npm run ingest:live || echo "ESPN live ingest failed (non-fatal; retrying next tick)"
+            npm run build:kickoffs || echo "manifest build failed (non-fatal)"
+            commit_and_deploy
           done
 
-          if [ -z "$pushed" ]; then
-            echo "Could not push after 5 attempts."
-            exit 1
+          # Flush a throttled publish. Without this the last tick's data — which
+          # is usually the one carrying full-time scores — stays unpublished.
+          if [ -n "$pending_deploy" ]; then
+            echo "Flushing the queued deploy for the final tick's data."
+            gh workflow run "Deploy" || echo "final deploy dispatch failed (non-fatal)"
           fi
 
-          gh workflow run "Deploy" || echo "deploy dispatch failed (non-fatal)"
+          # Distinguish the exits: a match still being played when the cap hit is
+          # a very different thing to debug than a quiet finish.
+          if [ -n "$capped" ]; then
+            echo "Reached 3h live-poll cap with a match still live; exiting (the Worker's next dispatch resumes)."
+          elif [ -n "$gave_up" ]; then
+            echo "::warning::Stopped polling after $probe_errors consecutive has-live-match failures; a match may still be live (the Worker's next dispatch resumes)."
+          else
+            echo "Nothing live; done."
+          fi
+
+          # Fail only if the *last* attempt to reach origin failed. A mid-loop
+          # race that a later tick recovered from is not a problem; ingested
+          # scores that never made it to main are, and a green job would hide
+          # them. The Worker's next dispatch retries.
+          if [ -n "$push_failed" ]; then
+            echo "::error::Ingested live scores could not be pushed to main."
+            exit 1
+          fi

@@ -12,11 +12,22 @@ name = "futbol-data-trigger"
 main = "src/index.js"
 compatibility_date = "2026-09-12"
 
+# Pin the URL surface rather than leaving it to deploy-time defaults (which
+# enable both and warn). The workers.dev URL is how the manual endpoint is
+# reached; preview URLs would add more public hostnames for the same Worker,
+# and each is another door a crawler can knock on — the endpoint fails closed,
+# but there's no reason to widen the surface for a Worker whose real job is a
+# cron. These must stay above the first [table] header: TOML would otherwise
+# scope them into it, where wrangler ignores them as unexpected fields.
+workers_dev = true
+preview_urls = false
+
 # The Worker wakes every minute, but only *dispatches a run* every 2 min while
 # a match is in progress, and every IDLE_EVERY_MIN minutes otherwise (see
 # src/index.js). Waking every minute is free; this just decides when to trigger.
 [triggers]
 crons = ["* * * * *"]
+
 
 # Non-secret config (override here without touching code). The GitHub token is
 # NOT here — it's a secret, set with `wrangler secret put GH_TOKEN`.

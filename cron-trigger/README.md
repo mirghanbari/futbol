@@ -28,6 +28,20 @@ The Worker wakes every minute (free, far under the Workers limit) but only
 | A match is in progress | every 2 min (`LIVE_EVERY_MIN`) | a run takes ~2 min end to end, so 1/min just queues runs that get cancelled — and fires a deploy per cancellation |
 | Nothing scheduled | every 3 h (`IDLE_EVERY_MIN`) | with nothing being played, `live.json` cannot change; the idle tick is only a heartbeat to roll the manifest window forward and catch rescheduled fixtures |
 
+Note that the Worker is only half the story, and not the half that makes scores
+fresh. A dispatch buys a single ingest pass, so on its own the 2-minute cadence
+would be the floor. `update-live.yml`'s last step polls **in-job every 60 s**
+while any match is in-play or paused (3 h cap), and that is what actually keeps
+scores current. The Worker's job is narrower: get a run *started* promptly near
+a kickoff, and restart one if a poll loop ended or died.
+
+A consequence worth expecting: while a poll loop holds the `update-live`
+concurrency slot, the Worker's 2-minute dispatches queue behind it, and GitHub
+cancels the previous pending run each time a new one arrives. Those cancelled
+runs are noise in the Actions list, not a fault — they run no steps and publish
+nothing. Raising `LIVE_EVERY_MIN` would trade less of that noise for slower
+kickoff detection.
+
 "In progress" is read from [`public/kickoffs.json`](../public/kickoffs.json), the
 slim manifest `scripts/build-kickoffs.mjs` writes on every `update-live.yml`
 pass: a match counts if its kickoff is within `[kickoff - 5 min, kickoff +
@@ -130,6 +144,46 @@ that divide 1440 stay aligned to UTC midnight: 180 fires at 00:00, 03:00, …
 
 Change the wake-up frequency via the `crons` array in `wrangler.toml`
 (`* * * * *` = every minute; Cloudflare's minimum interval is 1 minute).
+
+## Troubleshooting
+
+**`dispatch failed: 403 {"message":"Resource not accessible by personal access
+token"}`** in `npm run tail`. The PAT can reach the repo but not Actions. Almost
+always the **repository access** setting rather than the permission: a
+fine-grained token scoped to "Public repositories" is **read-only**, even for a
+public repo like this one, and `workflow_dispatch` is a write. Set repository
+access to "Only select repositories" → `futbol` *and* Repository permissions →
+**Actions: Read and write**. Editing the existing token is enough — the value
+doesn't change, so no `wrangler secret put` and no redeploy.
+
+Isolate the token from the Worker entirely (`204` = good, and it fires a real
+run):
+
+```bash
+read -rs PAT && curl -s -o /dev/null -w "%{http_code}\n" -X POST \
+  -H "Authorization: Bearer $PAT" -H "Accept: application/vnd.github+json" \
+  https://api.github.com/repos/mirghanbari/futbol/actions/workflows/update-live.yml/dispatches \
+  -d '{"ref":"main"}'
+```
+
+**`not found` from the manual endpoint.** Expected whenever the key doesn't
+match, and indistinguishable by design from a bad path — the endpoint fails
+closed. Check `npm run tail`: a `TRIGGER_KEY is not set` line means the secret
+is missing; silence means the key simply didn't match. Note that a GET never
+dispatches no matter how right the key is — that needs POST.
+
+**`schedule check failed: kickoffs fetch 404`.** `public/kickoffs.json` isn't on
+`main`. It's committed by `update-live.yml`, so this is expected until that
+workflow has run once. Note `raw.githubusercontent.com` caches negative
+responses on branch refs for a few minutes after the file does land; a
+commit-pinned URL bypasses that if you need to confirm sooner.
+
+**Nothing in the logs at all, and no runs.** Check `npx wrangler versions view
+<id>` reports `Handlers: scheduled, fetch`. A version showing only `fetch` has
+no cron handler and will never fire; redeploy. Also note `wrangler tail`
+buffers when its stdout isn't a terminal — piping it to a file can look
+completely silent while the Worker is fine. `script -q /dev/null npx wrangler
+tail` forces a pty.
 
 ## Cost
 
