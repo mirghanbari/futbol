@@ -1,5 +1,13 @@
 [
   {
+    "id": "521",
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "tla": "LIL",
+    "crest": "https://crests.football-data.org/521.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "548",
     "name": "AS Monaco FC",
     "shortName": "Monaco",
@@ -32,14 +40,6 @@
     "competitionId": "FL1"
   },
   {
-    "id": "521",
-    "name": "Lille OSC",
-    "shortName": "Lille",
-    "tla": "LIL",
-    "crest": "https://crests.football-data.org/521.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "576",
     "name": "RC Strasbourg Alsace",
     "shortName": "Strasbourg",
@@ -64,6 +64,14 @@
     "competitionId": "FL1"
   },
   {
+    "id": "546",
+    "name": "Racing Club de Lens",
+    "shortName": "RC Lens",
+    "tla": "RCL",
+    "crest": "https://crests.football-data.org/546.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "532",
     "name": "Angers SCO",
     "shortName": "Angers SCO",
@@ -80,14 +88,6 @@
     "competitionId": "FL1"
   },
   {
-    "id": "546",
-    "name": "Racing Club de Lens",
-    "shortName": "RC Lens",
-    "tla": "RCL",
-    "crest": "https://crests.football-data.org/546.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "516",
     "name": "Olympique de Marseille",
     "shortName": "Marseille",
@@ -96,19 +96,19 @@
     "competitionId": "FL1"
   },
   {
-    "id": "519",
-    "name": "AJ Auxerre",
-    "shortName": "Auxerre",
-    "tla": "AJA",
-    "crest": "https://crests.football-data.org/519.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "535",
     "name": "Le Mans FC",
     "shortName": "Le Mans",
     "tla": "LMF",
     "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "519",
+    "name": "AJ Auxerre",
+    "shortName": "Auxerre",
+    "tla": "AJA",
+    "crest": "https://crests.football-data.org/519.png",
     "competitionId": "FL1"
   },
   {

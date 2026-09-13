@@ -2432,7 +2432,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-13T12:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "673",
     "awayTeamId": "1912",
     "homeTeam": {
@@ -2440,6 +2440,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 1.54,
+        "shots": 23,
+        "shotsOnTarget": 6,
+        "accuratePasses": 471,
+        "duelsWon": 50,
+        "boxTouches": 30,
+        "fouls": 13,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.71,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 231,
+        "duelsWon": 48,
+        "boxTouches": 18,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 6
+      }
     },
     "venue": "Abe Lenstra Stadion, Heerenveen"
   },
@@ -2450,14 +2478,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-13T14:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "684",
     "awayTeamId": "675",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 7
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 0.19,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 295,
+        "duelsWon": 42,
+        "boxTouches": 9,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 62,
+        "xg": 3.4,
+        "shots": 26,
+        "shotsOnTarget": 11,
+        "accuratePasses": 578,
+        "duelsWon": 43,
+        "boxTouches": 55,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "MAC³PARK Stadion, Zwolle",
     "broadcasts": [

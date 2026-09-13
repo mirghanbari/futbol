@@ -24,19 +24,27 @@
     "competitionId": "BL1"
   },
   {
-    "id": "719",
-    "name": "SV 07 Elversberg",
-    "shortName": "Elversberg",
-    "tla": "ELV",
-    "crest": "https://crests.football-data.org/719.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "5",
     "name": "FC Bayern München",
     "shortName": "Bayern",
     "tla": "FCB",
     "crest": "https://crests.football-data.org/5.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "721",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "719",
+    "name": "SV 07 Elversberg",
+    "shortName": "Elversberg",
+    "tla": "ELV",
+    "crest": "https://crests.football-data.org/719.png",
     "competitionId": "BL1"
   },
   {
@@ -88,14 +96,6 @@
     "competitionId": "BL1"
   },
   {
-    "id": "721",
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL",
-    "crest": "https://crests.football-data.org/721.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "2",
     "name": "TSG 1899 Hoffenheim",
     "shortName": "Hoffenheim",
@@ -128,19 +128,19 @@
     "competitionId": "BL1"
   },
   {
-    "id": "7",
-    "name": "Hamburger SV",
-    "shortName": "HSV",
-    "tla": "HSV",
-    "crest": "https://crests.football-data.org/7.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "18",
     "name": "Borussia Mönchengladbach",
     "shortName": "M'gladbach",
     "tla": "BMG",
     "crest": "https://crests.football-data.org/18.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "7",
+    "name": "Hamburger SV",
+    "shortName": "HSV",
+    "tla": "HSV",
+    "crest": "https://crests.football-data.org/7.png",
     "competitionId": "BL1"
   }
 ]

@@ -2014,14 +2014,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1076",
     "awayTeamId": "397",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 31,
+        "xg": 1.39,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 175,
+        "duelsWon": 52,
+        "boxTouches": 29,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 69,
+        "xg": 2.69,
+        "shots": 22,
+        "shotsOnTarget": 7,
+        "accuratePasses": 513,
+        "duelsWon": 40,
+        "boxTouches": 26,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 6
+      }
     },
     "venue": "Coventry Building Society Arena, Coventry",
     "broadcasts": [
@@ -2038,7 +2066,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T15:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "66",
     "awayTeamId": "65",
     "homeTeam": {
@@ -2049,6 +2077,10 @@
     },
     "venue": "Old Trafford, Manchester",
     "broadcasts": [
+      {
+        "name": "NBCSN",
+        "kind": "tv"
+      },
       {
         "name": "Peacock",
         "kind": "streaming"

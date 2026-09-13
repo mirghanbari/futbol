@@ -1306,14 +1306,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-13T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "721",
     "awayTeamId": "7",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 2.38,
+        "shots": 19,
+        "shotsOnTarget": 6,
+        "accuratePasses": 557,
+        "duelsWon": 51,
+        "boxTouches": 30,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 36,
+        "xg": 0.94,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 286,
+        "duelsWon": 42,
+        "boxTouches": 18,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "Red Bull Arena, Leipzig",
     "broadcasts": [
@@ -1330,14 +1358,14 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-13T15:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "719",
     "awayTeamId": "5",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg",
     "broadcasts": [

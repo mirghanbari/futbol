@@ -1794,17 +1794,49 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5890",
     "awayTeamId": "5911",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 1.08,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 236,
+        "duelsWon": 70,
+        "boxTouches": 14,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 8
+      },
+      "away": {
+        "possession": 61,
+        "xg": 2.79,
+        "shots": 19,
+        "shotsOnTarget": 11,
+        "accuratePasses": 406,
+        "duelsWon": 64,
+        "boxTouches": 31,
+        "fouls": 13,
+        "corners": 6,
+        "offsides": 4,
+        "saves": 0
+      }
     },
     "venue": "Via Del Mare, Lecce",
     "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
       {
         "name": "Paramount+",
         "kind": "streaming"
@@ -1818,7 +1850,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T16:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "113",
     "awayTeamId": "103",
     "homeTeam": {

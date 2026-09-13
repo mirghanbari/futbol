@@ -1524,14 +1524,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "521",
     "awayTeamId": "531",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 1.65,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 560,
+        "duelsWon": 45,
+        "boxTouches": 33,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.38,
+        "shots": 8,
+        "shotsOnTarget": 1,
+        "accuratePasses": 268,
+        "duelsWon": 57,
+        "boxTouches": 15,
+        "fouls": 20,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
   },
@@ -1542,14 +1570,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T15:15:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "535",
     "awayTeamId": "546",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Stade Marie-Marvingt, Le Mans"
   },

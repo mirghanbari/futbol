@@ -2534,14 +2534,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-13T12:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "558",
     "awayTeamId": "84",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 1.78,
+        "shots": 17,
+        "shotsOnTarget": 5,
+        "accuratePasses": 419,
+        "duelsWon": 35,
+        "boxTouches": 28,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 6,
+        "saves": 1
+      },
+      "away": {
+        "possession": 54,
+        "xg": 0.48,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 495,
+        "duelsWon": 29,
+        "boxTouches": 13,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "Balaidos, Vigo",
     "broadcasts": [
@@ -2562,14 +2590,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-13T14:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "88",
     "awayTeamId": "81",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 25,
+        "xg": 2.46,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 171,
+        "duelsWon": 41,
+        "boxTouches": 28,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 75,
+        "xg": 2.63,
+        "shots": 12,
+        "shotsOnTarget": 6,
+        "accuratePasses": 711,
+        "duelsWon": 56,
+        "boxTouches": 34,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Estadi Ciutat de València, Manises",
     "broadcasts": [
@@ -2590,7 +2646,7 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-13T16:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "82",
     "awayTeamId": "560",
     "homeTeam": {
