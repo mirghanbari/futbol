@@ -1616,7 +1616,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "512",
     "awayTeamId": "524",
     "homeTeam": {
@@ -1624,6 +1624,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 1.24,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 357,
+        "duelsWon": 41,
+        "boxTouches": 17,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 6
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1.16,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 576,
+        "duelsWon": 45,
+        "boxTouches": 32,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 6
+      }
     },
     "venue": "Stade Francis-Le Blé, Brest"
   },

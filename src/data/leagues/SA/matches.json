@@ -1902,14 +1902,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "471",
     "awayTeamId": "109",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 0.9,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 340,
+        "duelsWon": 36,
+        "boxTouches": 22,
+        "fouls": 7,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 6
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.01,
+        "shots": 18,
+        "shotsOnTarget": 8,
+        "accuratePasses": 418,
+        "duelsWon": 34,
+        "boxTouches": 29,
+        "fouls": 13,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Mapei Stadium, Reggio Emilia",
     "broadcasts": [

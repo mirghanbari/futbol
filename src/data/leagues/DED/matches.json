@@ -2530,14 +2530,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-13T18:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "674",
     "awayTeamId": "6806",
     "homeTeam": {
-      "goals": 2
+      "goals": 4
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 76,
+        "xg": 3.75,
+        "shots": 28,
+        "shotsOnTarget": 10,
+        "accuratePasses": 715,
+        "duelsWon": 43,
+        "boxTouches": 49,
+        "fouls": 6,
+        "corners": 9,
+        "offsides": 5,
+        "saves": 4
+      },
+      "away": {
+        "possession": 24,
+        "xg": 2.29,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 174,
+        "duelsWon": 45,
+        "boxTouches": 13,
+        "fouls": 3,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 6
+      }
     },
     "venue": "Philips Stadion, Eindhoven",
     "broadcasts": [
