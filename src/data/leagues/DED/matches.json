@@ -2386,14 +2386,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-13T10:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "670",
     "awayTeamId": "676",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 0.61,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 441,
+        "duelsWon": 46,
+        "boxTouches": 21,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 44,
+        "xg": 1.42,
+        "shots": 12,
+        "shotsOnTarget": 6,
+        "accuratePasses": 340,
+        "duelsWon": 39,
+        "boxTouches": 19,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Stadion Woudestein, Rotterdam"
   },
@@ -2404,7 +2432,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-13T12:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "673",
     "awayTeamId": "1912",
     "homeTeam": {
