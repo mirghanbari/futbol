@@ -65,7 +65,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          set -uo pipefail
+          # -e is explicit because Actions already runs this with `bash -e {0}`.
+          # Spelling it out keeps a local `bash script.sh` faithful to CI, and
+          # stops anyone (me, previously) reasoning that errexit is off here.
+          set -euo pipefail
           git config user.name "futbol-bot"
           git config user.email "actions@github.com"
 
@@ -153,10 +156,15 @@ jobs:
             # 0 = something live, 1 = nothing live, 2 = couldn't tell. Treating
             # 2 as "nothing live" would end the loop mid-match on a single bad
             # read and still report a clean finish, so retry a few times first.
-            # No set +e/-e needed: this script runs under `set -uo pipefail`,
-            # so errexit is off and a non-zero exit here is ours to read.
-            node scripts/has-live-match.mjs
-            probe=$?
+            # `|| probe=$?` is load-bearing, not style: under errexit a bare
+            # `node ...` exiting non-zero kills the step before the next line
+            # runs, and exit 1 ("nothing live") is the normal end of every
+            # matchday. Putting it on the right of `||` makes the status tested
+            # rather than fatal. The old code got this for free by testing the
+            # command in the `while` condition; reading the three-way exit code
+            # means we have to ask for it explicitly.
+            probe=0
+            node scripts/has-live-match.mjs || probe=$?
             if [ "$probe" -eq 1 ]; then
               break
             elif [ "$probe" -ne 0 ]; then
