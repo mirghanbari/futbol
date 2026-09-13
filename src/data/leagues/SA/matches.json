@@ -1850,14 +1850,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T16:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "113",
     "awayTeamId": "103",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 1.81,
+        "shots": 15,
+        "shotsOnTarget": 3,
+        "accuratePasses": 494,
+        "duelsWon": 48,
+        "boxTouches": 33,
+        "fouls": 15,
+        "corners": 10,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 42,
+        "xg": 0.25,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 362,
+        "duelsWon": 47,
+        "boxTouches": 15,
+        "fouls": 10,
+        "corners": 0,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Stadio Diego Armando Maradona, Napoli",
     "broadcasts": [
@@ -1874,7 +1902,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "471",
     "awayTeamId": "109",
     "homeTeam": {

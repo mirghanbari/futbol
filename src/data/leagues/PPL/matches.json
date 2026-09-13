@@ -2186,14 +2186,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-13T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1903",
     "awayTeamId": "5533",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 2.9,
+        "shots": 17,
+        "shotsOnTarget": 5,
+        "accuratePasses": 489,
+        "duelsWon": 55,
+        "boxTouches": 59,
+        "fouls": 11,
+        "corners": 14,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 36,
+        "xg": 1.11,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 256,
+        "duelsWon": 50,
+        "boxTouches": 4,
+        "fouls": 18,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Estádio da Luz, Lisbon"
   },
@@ -2204,14 +2232,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-13T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "712",
     "awayTeamId": "5530",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 0.72,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 453,
+        "duelsWon": 40,
+        "boxTouches": 13,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 36,
+        "xg": 1.16,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 220,
+        "duelsWon": 49,
+        "boxTouches": 23,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Estádio Municipal de Arouca, Arouca"
   },

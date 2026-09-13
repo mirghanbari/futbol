@@ -1358,14 +1358,42 @@
     "matchday": 3,
     "stage": "regular",
     "utcDate": "2026-09-13T15:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "719",
     "awayTeamId": "5",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 28,
+        "xg": 0.94,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 245,
+        "duelsWon": 36,
+        "boxTouches": 10,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 72,
+        "xg": 2.42,
+        "shots": 28,
+        "shotsOnTarget": 6,
+        "accuratePasses": 753,
+        "duelsWon": 51,
+        "boxTouches": 68,
+        "fouls": 8,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 0
+      }
     },
     "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg",
     "broadcasts": [

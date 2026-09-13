@@ -1570,7 +1570,7 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T15:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "535",
     "awayTeamId": "546",
     "homeTeam": {
@@ -1578,6 +1578,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.53,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 408,
+        "duelsWon": 45,
+        "boxTouches": 19,
+        "fouls": 17,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.27,
+        "shots": 16,
+        "shotsOnTarget": 6,
+        "accuratePasses": 365,
+        "duelsWon": 42,
+        "boxTouches": 16,
+        "fouls": 11,
+        "corners": 9,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Stade Marie-Marvingt, Le Mans"
   },
@@ -1588,14 +1616,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-13T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "512",
     "awayTeamId": "524",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stade Francis-Le Blé, Brest"
   },
