@@ -2324,14 +2324,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-14T17:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "496",
     "awayTeamId": "9136",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 1.23,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 251,
+        "duelsWon": 37,
+        "boxTouches": 9,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 62,
+        "xg": 1.87,
+        "shots": 20,
+        "shotsOnTarget": 6,
+        "accuratePasses": 425,
+        "duelsWon": 53,
+        "boxTouches": 30,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Estádio do Rio Ave, Vila do Conde"
   },
@@ -2342,11 +2370,11 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-14T19:15:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "583",
     "awayTeamId": "5575",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -2360,7 +2388,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-14T19:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "5613",
     "awayTeamId": "582",
     "homeTeam": {

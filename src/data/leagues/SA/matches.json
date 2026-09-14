@@ -1954,14 +1954,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-14T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7397",
     "awayTeamId": "112",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 3.24,
+        "shots": 28,
+        "shotsOnTarget": 7,
+        "accuratePasses": 587,
+        "duelsWon": 46,
+        "boxTouches": 52,
+        "fouls": 8,
+        "corners": 11,
+        "offsides": 4,
+        "saves": 3
+      },
+      "away": {
+        "possession": 36,
+        "xg": 1.22,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 297,
+        "duelsWon": 25,
+        "boxTouches": 23,
+        "fouls": 4,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "Giuseppe Sinigaglia, Como",
     "broadcasts": [
@@ -1978,14 +2006,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-14T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "586",
     "awayTeamId": "100",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 0.87,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 419,
+        "duelsWon": 55,
+        "boxTouches": 13,
+        "fouls": 7,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.91,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 360,
+        "duelsWon": 50,
+        "boxTouches": 26,
+        "fouls": 20,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Stadio Olimpico Grande Torino, Torino",
     "broadcasts": [
@@ -2002,14 +2058,14 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-14T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "108",
     "awayTeamId": "115",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "San Siro, Milano",
     "broadcasts": [
