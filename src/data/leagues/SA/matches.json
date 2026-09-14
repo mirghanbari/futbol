@@ -2058,14 +2058,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-14T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "108",
     "awayTeamId": "115",
     "homeTeam": {
-      "goals": 4
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 3.11,
+        "shots": 27,
+        "shotsOnTarget": 12,
+        "accuratePasses": 592,
+        "duelsWon": 33,
+        "boxTouches": 51,
+        "fouls": 9,
+        "corners": 10,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 34,
+        "xg": 0.9,
+        "shots": 6,
+        "shotsOnTarget": 5,
+        "accuratePasses": 272,
+        "duelsWon": 27,
+        "boxTouches": 14,
+        "fouls": 9,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 7
+      }
     },
     "venue": "San Siro, Milano",
     "broadcasts": [

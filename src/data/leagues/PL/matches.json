@@ -2126,14 +2126,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-14T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "341",
     "awayTeamId": "67",
     "homeTeam": {
       "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.91,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 356,
+        "duelsWon": 54,
+        "boxTouches": 30,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 49,
+        "xg": 0.85,
+        "shots": 7,
+        "shotsOnTarget": 5,
+        "accuratePasses": 343,
+        "duelsWon": 50,
+        "boxTouches": 18,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Elland Road, Leeds",
     "broadcasts": [
