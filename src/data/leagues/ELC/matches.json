@@ -3651,7 +3651,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-15T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "343",
     "awayTeamId": "384",
     "homeTeam": {
@@ -3659,6 +3659,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 80,
+        "xg": 1.79,
+        "shots": 22,
+        "shotsOnTarget": 7,
+        "accuratePasses": 594,
+        "duelsWon": 29,
+        "boxTouches": 46,
+        "fouls": 3,
+        "corners": 14,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 20,
+        "xg": 1.46,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 100,
+        "duelsWon": 39,
+        "boxTouches": 15,
+        "fouls": 12,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 5
+      }
     }
   },
   {
@@ -3668,7 +3696,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-15T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "387",
     "awayTeamId": "1126",
     "homeTeam": {
@@ -3676,6 +3704,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 1.46,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 431,
+        "duelsWon": 56,
+        "boxTouches": 27,
+        "fouls": 13,
+        "corners": 13,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 33,
+        "xg": 0.85,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 159,
+        "duelsWon": 47,
+        "boxTouches": 14,
+        "fouls": 19,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 4
+      }
     }
   },
   {
