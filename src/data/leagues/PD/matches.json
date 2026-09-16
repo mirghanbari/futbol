@@ -2436,7 +2436,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-16T17:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "560",
     "awayTeamId": "559",
     "homeTeam": {
@@ -2453,7 +2453,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-09-16T17:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "78",
     "awayTeamId": "79",
     "homeTeam": {
@@ -2872,32 +2872,15 @@
     }
   },
   {
-    "id": "564708",
+    "id": "564716",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-18T00:00:00Z",
+    "utcDate": "2026-10-16T19:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "94",
-    "awayTeamId": "285",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564709",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-10-18T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "86",
-    "awayTeamId": "559",
+    "homeTeamId": "560",
+    "awayTeamId": "88",
     "homeTeam": {
       "goals": 0
     },
@@ -2911,7 +2894,7 @@
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-18T00:00:00Z",
+    "utcDate": "2026-10-17T12:00:00Z",
     "status": "scheduled",
     "homeTeamId": "80",
     "awayTeamId": "78",
@@ -2923,32 +2906,15 @@
     }
   },
   {
-    "id": "564711",
+    "id": "564708",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-18T00:00:00Z",
+    "utcDate": "2026-10-17T14:15:00Z",
     "status": "scheduled",
-    "homeTeamId": "95",
-    "awayTeamId": "77",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564712",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-10-18T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "558",
-    "awayTeamId": "263",
+    "homeTeamId": "94",
+    "awayTeamId": "285",
     "homeTeam": {
       "goals": 0
     },
@@ -2962,7 +2928,7 @@
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-18T00:00:00Z",
+    "utcDate": "2026-10-17T16:30:00Z",
     "status": "scheduled",
     "homeTeamId": "90",
     "awayTeamId": "81",
@@ -2974,15 +2940,15 @@
     }
   },
   {
-    "id": "564714",
+    "id": "564711",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-18T00:00:00Z",
+    "utcDate": "2026-10-17T19:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "84",
-    "awayTeamId": "92",
+    "homeTeamId": "95",
+    "awayTeamId": "77",
     "homeTeam": {
       "goals": 0
     },
@@ -2996,7 +2962,7 @@
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-18T00:00:00Z",
+    "utcDate": "2026-10-18T12:00:00Z",
     "status": "scheduled",
     "homeTeamId": "79",
     "awayTeamId": "5335",
@@ -3008,15 +2974,49 @@
     }
   },
   {
-    "id": "564716",
+    "id": "564712",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-18T00:00:00Z",
+    "utcDate": "2026-10-18T14:15:00Z",
     "status": "scheduled",
-    "homeTeamId": "560",
-    "awayTeamId": "88",
+    "homeTeamId": "558",
+    "awayTeamId": "263",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564714",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-10-18T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "84",
+    "awayTeamId": "92",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564709",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-10-18T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "86",
+    "awayTeamId": "559",
     "homeTeam": {
       "goals": 0
     },
@@ -3030,7 +3030,7 @@
     "season": "2026",
     "matchday": 9,
     "stage": "regular",
-    "utcDate": "2026-10-18T00:00:00Z",
+    "utcDate": "2026-10-19T19:00:00Z",
     "status": "scheduled",
     "homeTeamId": "82",
     "awayTeamId": "87",
