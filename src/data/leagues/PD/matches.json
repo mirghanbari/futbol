@@ -2430,6 +2430,23 @@
     }
   },
   {
+    "id": "564685",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-09-16T00:00:00Z",
+    "status": "postponed",
+    "homeTeamId": "88",
+    "awayTeamId": "77",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
     "id": "564679",
     "competitionId": "PD",
     "season": "2026",
@@ -2517,23 +2534,6 @@
         "offsides": 1,
         "saves": 7
       }
-    }
-  },
-  {
-    "id": "564685",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-09-16T19:30:00Z",
-    "status": "in-play",
-    "homeTeamId": "88",
-    "awayTeamId": "77",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
     }
   },
   {
