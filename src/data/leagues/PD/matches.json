@@ -2430,23 +2430,6 @@
     }
   },
   {
-    "id": "564685",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 6,
-    "stage": "regular",
-    "utcDate": "2026-09-16T00:00:00Z",
-    "status": "postponed",
-    "homeTeamId": "88",
-    "awayTeamId": "77",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
     "id": "564679",
     "competitionId": "PD",
     "season": "2026",
@@ -3174,6 +3157,23 @@
     "status": "scheduled",
     "homeTeamId": "82",
     "awayTeamId": "87",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564685",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 6,
+    "stage": "regular",
+    "utcDate": "2026-10-21T18:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "88",
+    "awayTeamId": "77",
     "homeTeam": {
       "goals": 0
     },
