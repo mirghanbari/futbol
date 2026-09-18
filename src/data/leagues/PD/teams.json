@@ -56,19 +56,19 @@
     "competitionId": "PD"
   },
   {
-    "id": "80",
-    "name": "RCD Espanyol de Barcelona",
-    "shortName": "Espanyol",
-    "tla": "ESP",
-    "crest": "https://crests.football-data.org/80.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "77",
     "name": "Athletic Club",
     "shortName": "Athletic",
     "tla": "ATH",
     "crest": "https://crests.football-data.org/77.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "80",
+    "name": "RCD Espanyol de Barcelona",
+    "shortName": "Espanyol",
+    "tla": "ESP",
+    "crest": "https://crests.football-data.org/80.png",
     "competitionId": "PD"
   },
   {
@@ -128,6 +128,14 @@
     "competitionId": "PD"
   },
   {
+    "id": "285",
+    "name": "Elche CF",
+    "shortName": "Elche",
+    "tla": "ELC",
+    "crest": "https://crests.football-data.org/285.png",
+    "competitionId": "PD"
+  },
+  {
     "id": "558",
     "name": "RC Celta de Vigo",
     "shortName": "Celta",
@@ -149,14 +157,6 @@
     "shortName": "Málaga",
     "tla": "MAL",
     "crest": "https://crests.football-data.org/84.png",
-    "competitionId": "PD"
-  },
-  {
-    "id": "285",
-    "name": "Elche CF",
-    "shortName": "Elche",
-    "tla": "ELC",
-    "crest": "https://crests.football-data.org/285.png",
     "competitionId": "PD"
   }
 ]
