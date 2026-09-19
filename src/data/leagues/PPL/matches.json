@@ -2498,7 +2498,7 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-19T17:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "7822",
     "awayTeamId": "496",
     "homeTeam": {
@@ -2506,6 +2506,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 3.3,
+        "shots": 23,
+        "shotsOnTarget": 6,
+        "accuratePasses": 285,
+        "duelsWon": 61,
+        "boxTouches": 36,
+        "fouls": 12,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 53,
+        "xg": 0.29,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 331,
+        "duelsWon": 47,
+        "boxTouches": 9,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 5
+      }
     }
   },
   {
@@ -2515,11 +2543,11 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-19T19:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "498",
     "awayTeamId": "712",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
