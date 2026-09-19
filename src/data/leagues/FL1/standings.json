@@ -29,9 +29,9 @@
     "draw": 2,
     "lost": 0,
     "points": 11,
-    "goalsFor": 9,
+    "goalsFor": 10,
     "goalsAgainst": 2,
-    "goalDifference": 7
+    "goalDifference": 8
   },
   {
     "id": "1045",
@@ -81,8 +81,8 @@
     "lost": 1,
     "points": 10,
     "goalsFor": 8,
-    "goalsAgainst": 8,
-    "goalDifference": 0
+    "goalsAgainst": 9,
+    "goalDifference": -1
   },
   {
     "id": "532",
@@ -132,8 +132,8 @@
     "lost": 1,
     "points": 6,
     "goalsFor": 9,
-    "goalsAgainst": 8,
-    "goalDifference": 1
+    "goalsAgainst": 9,
+    "goalDifference": 0
   },
   {
     "id": "524",
@@ -170,11 +170,11 @@
     "goalDifference": 0
   },
   {
-    "id": "511",
-    "name": "Toulouse FC",
-    "shortName": "Toulouse",
-    "tla": "TOU",
-    "crest": "https://crests.football-data.org/511.png",
+    "id": "525",
+    "name": "FC Lorient",
+    "shortName": "Lorient",
+    "tla": "FCL",
+    "crest": "https://crests.football-data.org/525.png",
     "competitionId": "FL1",
     "position": 11,
     "playedGames": 5,
@@ -182,16 +182,16 @@
     "draw": 2,
     "lost": 2,
     "points": 5,
-    "goalsFor": 6,
-    "goalsAgainst": 7,
+    "goalsFor": 5,
+    "goalsAgainst": 6,
     "goalDifference": -1
   },
   {
-    "id": "525",
-    "name": "FC Lorient",
-    "shortName": "Lorient",
-    "tla": "FCL",
-    "crest": "https://crests.football-data.org/525.png",
+    "id": "511",
+    "name": "Toulouse FC",
+    "shortName": "Toulouse",
+    "tla": "TOU",
+    "crest": "https://crests.football-data.org/511.png",
     "competitionId": "FL1",
     "position": 12,
     "playedGames": 5,
@@ -199,8 +199,8 @@
     "draw": 2,
     "lost": 2,
     "points": 5,
-    "goalsFor": 4,
-    "goalsAgainst": 6,
+    "goalsFor": 7,
+    "goalsAgainst": 9,
     "goalDifference": -2
   },
   {
@@ -284,9 +284,9 @@
     "draw": 2,
     "lost": 3,
     "points": 2,
-    "goalsFor": 2,
-    "goalsAgainst": 6,
-    "goalDifference": -4
+    "goalsFor": 4,
+    "goalsAgainst": 7,
+    "goalDifference": -3
   },
   {
     "id": "522",

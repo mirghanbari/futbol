@@ -40,6 +40,14 @@
     "competitionId": "DED"
   },
   {
+    "id": "1920",
+    "name": "Fortuna Sittard",
+    "shortName": "Sittard",
+    "tla": "SIT",
+    "crest": "https://crests.football-data.org/1920.png",
+    "competitionId": "DED"
+  },
+  {
     "id": "670",
     "name": "SBV Excelsior",
     "shortName": "Excelsior",
@@ -53,14 +61,6 @@
     "shortName": "Groningen",
     "tla": "GRO",
     "crest": "https://crests.football-data.org/677.png",
-    "competitionId": "DED"
-  },
-  {
-    "id": "1920",
-    "name": "Fortuna Sittard",
-    "shortName": "Sittard",
-    "tla": "SIT",
-    "crest": "https://crests.football-data.org/1920.png",
     "competitionId": "DED"
   },
   {
@@ -128,19 +128,19 @@
     "competitionId": "DED"
   },
   {
-    "id": "672",
-    "name": "Willem II Tilburg",
-    "shortName": "Willem II",
-    "tla": "WII",
-    "crest": "https://crests.football-data.org/672.png",
-    "competitionId": "DED"
-  },
-  {
     "id": "680",
     "name": "ADO Den Haag",
     "shortName": "Den Haag",
     "tla": "ADO",
     "crest": "https://crests.football-data.org/680.png",
+    "competitionId": "DED"
+  },
+  {
+    "id": "672",
+    "name": "Willem II Tilburg",
+    "shortName": "Willem II",
+    "tla": "WII",
+    "crest": "https://crests.football-data.org/672.png",
     "competitionId": "DED"
   }
 ]
