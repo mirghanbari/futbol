@@ -182,26 +182,26 @@
       "home": {
         "possession": 54,
         "xg": 1.19,
-        "shots": 18,
-        "shotsOnTarget": 4,
-        "accuratePasses": 336,
-        "duelsWon": 47,
-        "boxTouches": 36,
-        "fouls": 7,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 351,
+        "duelsWon": 53,
+        "boxTouches": 38,
+        "fouls": 8,
         "corners": 7,
         "offsides": 2,
         "saves": 3
       },
       "away": {
         "possession": 46,
-        "xg": 2.61,
-        "shots": 20,
-        "shotsOnTarget": 5,
-        "accuratePasses": 285,
-        "duelsWon": 37,
-        "boxTouches": 37,
-        "fouls": 9,
-        "corners": 4,
+        "xg": 2.64,
+        "shots": 21,
+        "shotsOnTarget": 6,
+        "accuratePasses": 300,
+        "duelsWon": 43,
+        "boxTouches": 40,
+        "fouls": 10,
+        "corners": 5,
         "offsides": 2,
         "saves": 3
       },
@@ -251,6 +251,13 @@
           "teamId": "95",
           "playerName": "Luken Beitia",
           "ownGoal": true
+        },
+        {
+          "minute": "90'+1'",
+          "type": "goal",
+          "teamId": "92",
+          "playerName": "Ander Barrenetxea",
+          "assist": "Carlos Soler"
         }
       ]
     },
@@ -812,24 +819,24 @@
     "567316": {
       "home": {
         "possession": 46,
-        "xg": 0.76,
-        "shots": 12,
-        "shotsOnTarget": 3,
-        "accuratePasses": 169,
-        "duelsWon": 15,
-        "boxTouches": 10,
-        "fouls": 10,
+        "xg": 0.85,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 178,
+        "duelsWon": 16,
+        "boxTouches": 13,
+        "fouls": 11,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
         "possession": 54,
-        "xg": 0.71,
+        "xg": 0.72,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 190,
-        "duelsWon": 29,
+        "accuratePasses": 195,
+        "duelsWon": 30,
         "boxTouches": 12,
         "fouls": 6,
         "corners": 3,
@@ -874,6 +881,13 @@
           "teamId": "1903",
           "playerName": "Alexander Bah",
           "assist": "Gianluca Prestianni"
+        },
+        {
+          "minute": "54'",
+          "type": "goal",
+          "teamId": "503",
+          "playerName": "Victor Froholdt",
+          "assist": "André Silva"
         }
       ]
     },
