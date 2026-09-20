@@ -6,6 +6,7 @@ import { LeagueStatus } from "../components/LeagueStatus";
 import { ProbabilityBar } from "../components/ProbabilityBar";
 import { applyLive, formatMinute, useLiveData } from "../data/live";
 import { computeRatings, expectedGoals, matchProbabilities } from "../data/ratings";
+import { hasPreMatchOdds } from "../data/useMatchOdds";
 import { useSeo } from "../data/seo";
 import type { Match, MatchAdvancedStats } from "../data/types";
 
@@ -108,8 +109,13 @@ export default function MatchDetail() {
   const isHalfTime = match.status === "paused";
   const clock = isHalfTime ? "HT" : match.minute ? formatMinute(match.minute) : "";
 
+  // Kept up while the match is in play, not just before kickoff: the live
+  // overlay carries only status/minute/score, and FotMob's box-score stats
+  // don't land until full time, so dropping the forecast at kickoff left an
+  // in-play match showing less than it had an hour earlier. See
+  // hasPreMatchOdds.
   const odds =
-    match.status === "scheduled" && ratingsModel
+    hasPreMatchOdds(match) && ratingsModel
       ? (() => {
           const xg = expectedGoals(ratingsModel, match.homeTeamId, match.awayTeamId);
           return xg ? matchProbabilities(xg.home, xg.away) : null;
@@ -158,7 +164,14 @@ export default function MatchDetail() {
 
       {odds && (
         <div className="card">
-          <h2 style={{ marginTop: 0 }}>Odds</h2>
+          {/* Explicitly "pre-match": the model never reads the live score, so
+              on a live page an unqualified "Odds" would be taken for an
+              in-play recalculation. (It is not frozen at kickoff either —
+              computeRatings reads whatever standings the loaded data file
+              has, so a refresh mid-match can nudge the numbers. It stays a
+              pre-match-shaped forecast regardless, which is what the label
+              is claiming.) */}
+          <h2 style={{ marginTop: 0 }}>Pre-match odds</h2>
           <ProbabilityBar
             home={odds.home}
             draw={odds.draw}

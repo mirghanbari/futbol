@@ -1,6 +1,7 @@
 import { MatchCard, isLiveMatch } from "./MatchCard";
 import type { LeagueData } from "../data";
 import { teamById } from "../data";
+import type { MatchOdds } from "../data/useMatchOdds";
 import type { Match } from "../data/types";
 
 interface LiveNowProps {
@@ -12,11 +13,16 @@ interface LiveNowProps {
   // Matches spanning more than one local day (rare, but late kickoffs roll
   // past midnight in some timezones) read better with the date on the card.
   showDate?: boolean;
+  // Pre-match odds by match id (useMatchOdds). A live card is the one with
+  // the least on it — no box-score stats exist until full time — so the
+  // forecast is worth keeping here rather than dropping it at kickoff.
+  // Optional: a caller without a ratings model just gets cards without bars.
+  odds?: Map<string, MatchOdds>;
 }
 
 // "Live now" strip pinned above the rest of a page's content. Renders nothing
 // at all when no match is in play, so pages can mount it unconditionally.
-export function LiveNow({ matches, data, competitionId, showDate = false }: LiveNowProps) {
+export function LiveNow({ matches, data, competitionId, showDate = false, odds }: LiveNowProps) {
   const live = matches.filter(isLiveMatch).sort((a, b) => a.utcDate.localeCompare(b.utcDate));
   if (live.length === 0) return null;
 
@@ -36,6 +42,7 @@ export function LiveNow({ matches, data, competitionId, showDate = false }: Live
             competitionId={competitionId}
             home={teamById(data, match.homeTeamId)}
             away={teamById(data, match.awayTeamId)}
+            odds={odds?.get(match.id)}
             showDate={showDate}
           />
         ))}

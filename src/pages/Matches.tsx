@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
@@ -6,7 +6,7 @@ import { LeagueStatus } from "../components/LeagueStatus";
 import { LiveNow } from "../components/LiveNow";
 import { MatchCard, isLiveMatch, matchDayKey, todayKey } from "../components/MatchCard";
 import { applyLive, useLiveData } from "../data/live";
-import { computeRatings, expectedGoals, matchProbabilities } from "../data/ratings";
+import { useMatchOdds } from "../data/useMatchOdds";
 import { useSeo } from "../data/seo";
 import type { Match } from "../data/types";
 
@@ -89,23 +89,7 @@ export default function Matches() {
     description: competition ? `Fixtures and results for ${competition.name}.` : undefined,
   });
 
-  // Odds only depend on team pairing + the ratings model, never on live
-  // status/score — computed once per data load here, keyed on `data` alone
-  // (NOT on `live`, which changes every 60s via useLiveData's poll and would
-  // otherwise force this same double-Poisson-sum work to rerun for every
-  // scheduled match on every poll tick, whether or not anything live-related
-  // actually changed).
-  const oddsByMatchId = useMemo(() => {
-    if (!data) return new Map<string, { home: number; draw: number; away: number }>();
-    const model = computeRatings(data.ratingsStandings);
-    const map = new Map<string, { home: number; draw: number; away: number }>();
-    for (const match of data.matches) {
-      if (match.status !== "scheduled") continue;
-      const xg = expectedGoals(model, match.homeTeamId, match.awayTeamId);
-      if (xg) map.set(match.id, matchProbabilities(xg.home, xg.away));
-    }
-    return map;
-  }, [data]);
+  const oddsByMatchId = useMatchOdds(data);
 
   const withLive = data ? applyLive(data.matches, live, competitionId) : [];
   const sorted = [...withLive].sort((a, b) => a.utcDate.localeCompare(b.utcDate));
@@ -154,7 +138,9 @@ export default function Matches() {
 
       <LeagueStatus error={error} loading={loading} />
 
-      {data && <LiveNow matches={sorted} data={data} competitionId={competitionId} showDate />}
+      {data && (
+        <LiveNow matches={sorted} data={data} competitionId={competitionId} odds={oddsByMatchId} showDate />
+      )}
 
       {isPriorSeason && (
         <p className="season-banner">

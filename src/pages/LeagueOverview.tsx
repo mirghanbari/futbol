@@ -5,6 +5,7 @@ import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { LiveNow } from "../components/LiveNow";
 import { applyLive, useLiveData } from "../data/live";
+import { useMatchOdds } from "../data/useMatchOdds";
 import { useSeo } from "../data/seo";
 import type { LeagueData } from "../data";
 import type { Match } from "../data/types";
@@ -167,6 +168,7 @@ export default function LeagueOverview() {
   const { competitionId } = useParams();
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
   const live = useLiveData();
+  const oddsByMatchId = useMatchOdds(data);
 
   useSeo({
     title: competition ? `${competition.name} Overview` : "Overview",
@@ -197,7 +199,7 @@ export default function LeagueOverview() {
         </p>
       </div>
 
-      <LiveNow matches={withLive} data={data} competitionId={competitionId} showDate />
+      <LiveNow matches={withLive} data={data} competitionId={competitionId} odds={oddsByMatchId} showDate />
 
       {data.isFallbackStats && (
         <p className="season-banner">

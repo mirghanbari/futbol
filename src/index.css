@@ -638,6 +638,19 @@ th.num {
   margin-top: 0.6rem;
 }
 
+/* Only rendered on a live card, where the bar sits next to a moving
+   scoreline and needs saying that the forecast behind it never reads that
+   score. The bar below it already carries its own top margin, so this needs
+   none of its own. */
+.odds-caption {
+  display: block;
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
 /* A full-card link layered BEHIND the row's own content (z-index 0) so the
    whole card stays clickable to go to the match/fixture, while specific
    inner links (team names, see .row-team-link) sit above it (z-index 1) and

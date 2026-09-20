@@ -3,13 +3,9 @@ import { Link } from "react-router-dom";
 import { ProbabilityBar } from "./ProbabilityBar";
 import { STAGE_LABELS } from "../data/knockout";
 import { formatMinute } from "../data/live";
+import { hasPreMatchOdds } from "../data/useMatchOdds";
+import type { MatchOdds } from "../data/useMatchOdds";
 import type { Match, Team } from "../data/types";
-
-export interface MatchOdds {
-  home: number;
-  draw: number;
-  away: number;
-}
 
 // The local calendar day a match belongs to, formatted like the ISO date it
 // replaces. Local rather than UTC because the kickoff time on the card is
@@ -74,8 +70,11 @@ interface MatchCardProps {
   competitionId: string | undefined;
   home: Team | null | undefined;
   away: Team | null | undefined;
-  // Win/draw/loss probabilities, scheduled fixtures only — a live or finished
-  // match has a real scoreline, so the pre-match model is no longer the story.
+  // Win/draw/loss probabilities from the pre-match model. Rendered for any
+  // match hasPreMatchOdds accepts — which includes one in play, where the
+  // forecast is still the only read on the match beyond the scoreline (the
+  // live overlay carries no stats). Labelled "Pre-match" there so it can't be
+  // mistaken for an in-play recalculation.
   odds?: MatchOdds | null;
   // Live cards outside the Matches page's day groups (the "Live now" strips)
   // repeat the kickoff day, which their own group heading would otherwise
@@ -123,8 +122,9 @@ function MatchCardImpl({ match, competitionId, home, away, odds, showDate = fals
         </div>
       </div>
       {match.venue && <p className="match-card-venue">{match.venue}</p>}
-      {match.status === "scheduled" && odds && (
+      {hasPreMatchOdds(match) && odds && (
         <div className="match-card-odds">
+          {isLive && <span className="odds-caption">Pre-match</span>}
           <ProbabilityBar
             home={odds.home}
             draw={odds.draw}
