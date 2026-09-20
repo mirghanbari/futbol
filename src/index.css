@@ -1267,13 +1267,6 @@ tr.zone-releg-playoff {
   background: var(--defense);
 }
 
-/* Caveat under a provisional (in-play) stats table. */
-.stats-note {
-  margin: 0.6rem 0 0;
-  font-size: 0.72rem;
-  color: var(--muted);
-}
-
 /* Off-screen but still announced — for content that carries meaning the
    layout conveys visually and assistive tech otherwise can't reach. Not
    display:none, which removes it from the accessibility tree too. */
@@ -1289,74 +1282,154 @@ tr.zone-releg-playoff {
   border: 0;
 }
 
+/* ---------- Section heading above a card (MatchDetail) ---------- */
+/* The title sits OUTSIDE its card rather than inside it. Keeping the card to
+   nothing but content is what stops a heading colliding with the corner
+   radius, and it lets the source badge sit on the title's baseline instead
+   of stacking under it. */
+.section-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.6rem;
+}
+
+.section-head h2 {
+  margin: 0;
+}
+
+/* ---------- Match stats rows (MatchDetail) ---------- */
+/* Each stat is a label flanked by its two values, with a split bar beneath
+   carrying the comparison. Replaced a 3-column table whose numbers pooled
+   near the middle: the values belong on the outer edges, above the end of
+   the bar that represents them. */
+.stat-row {
+  padding: 0.5rem 0;
+}
+
+.stat-row + .stat-row {
+  border-top: 1px solid var(--hair);
+}
+
+.stat-row-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-bottom: 0.35rem;
+}
+
+/* Fixed-size ends with a growing middle, rather than space-between: the
+   label has to be the centre COLUMN, stable from row to row. Centring text
+   inside a shrink-to-fit box only centres it within its own width, which
+   left the label drifting as the numbers either side changed size
+   ("55%/45%" vs "3/1" vs "—/12"). */
+.stat-value {
+  flex: 0 0 auto;
+  font-size: 0.95rem;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+.stat-value:last-child {
+  text-align: right;
+}
+
+.stat-label {
+  flex: 1;
+  min-width: 0;
+  font-size: 0.82rem;
+  color: var(--muted);
+  text-align: center;
+}
+
+.stat-bar {
+  display: flex;
+  width: 100%;
+  height: 5px;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+/* Home green, away gold — the same two-colour split the probability bar
+   already uses, so a reader who has seen one understands the other. */
+.stat-bar-home {
+  background: var(--primary);
+}
+
+.stat-bar-away {
+  background: var(--gold);
+}
+
+.stats-note {
+  margin: 0.75rem 0 0;
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+
 /* ---------- Match timeline (MatchDetail) ---------- */
-/* Goals and cards for a live match, from the ESPN overlay. Home entries sit
-   left, away entries right, so the side an entry belongs to reads off its
-   column alone — there's no crest or team name on the row. */
+/* Goals and cards for a live match. Home entries read left-to-right from the
+   card's left edge, away entries right-to-left from its right; the empty
+   middle is what separates them. */
 .timeline {
   list-style: none;
-  margin: 0.75rem 0 0;
+  margin: 0;
   padding: 0;
   display: flex;
   flex-direction: column;
-  /* Rows size to their content rather than stretching — see .timeline-row. */
-  align-items: flex-start;
-  gap: 0.35rem;
+  gap: 0.15rem;
 }
 
+/* No background. An earlier version drew a grey pill behind each row, which
+   put a slab of colour behind a two-word name and read as clutter; the
+   alignment alone carries the same information. */
 .timeline-row {
   display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  /* Shrink to fit, capped. A fixed 50% put a wide slab of grey behind
-     "9' Enzo Fernandez" on a desktop-width card; the cap stops a long name
-     reaching across the middle, which is what keeps the two columns legible
-     as columns. */
-  max-width: min(58%, 19rem);
-  padding: 0.3rem 0.6rem;
-  border-radius: var(--radius-sm);
-  background: var(--hair);
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: 0.35rem 0;
 }
 
-/* Mirrored, not just right-aligned: reversing the flex order puts the minute
-   on the outside edge on both sides, so the two columns read symmetrically
-   in from the centre. */
+/* Reversed rather than right-aligned: this is what puts the minute on the
+   card's outer edge on BOTH sides, so the two minute columns frame the
+   content instead of both sitting on the left. */
 .timeline-away {
-  align-self: flex-end;
   flex-direction: row-reverse;
   text-align: right;
 }
 
+/* Rows span the card, so there is a real column to align to — wide enough
+   for "90'+3'", tabular so digits don't shift between rows. */
 .timeline-minute {
-  font-size: 0.72rem;
+  font-size: 0.92rem;
   font-weight: 800;
-  color: var(--muted);
   font-variant-numeric: tabular-nums;
-  /* No min-width. It was there to line the icons up into a column, which only
-     ever worked when rows were a fixed width; now that each row is its own
-     shrink-to-fit pill there is no column to align to, and the reserved width
-     just read as a gap between the minute and the icon on every short one. */
+  min-width: 3.6rem;
 }
 
 .timeline-icon {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   line-height: 1;
 }
 
+/* Takes the slack, which is what pushes the minute out to the edge and keeps
+   the icon beside the name rather than adrift in the middle. */
 .timeline-player {
-  font-size: 0.85rem;
+  font-size: 0.92rem;
   font-weight: 600;
-  /* Wraps within the row's cap rather than widening it. No flex-grow — the
-     row is shrink-to-fit now, so growing here would undo that. */
+  flex: 1;
   min-width: 0;
 }
 
-/* Below ~520px a half-width row leaves too little for a full name, so rows go
-   full width. The mirroring stays: it is the only thing on the row that says
-   which side an entry belongs to (the icon shows the event type, not the
-   team), so squaring both columns up here would make a goal unattributable. */
+/* The mirroring is kept at every width. Squaring the two columns up on
+   narrow screens was tried and reverted: a row carries only a minute, an
+   event icon and a player name — no crest, no team label — so once both
+   sides align left, "23' goal Saka" gives a sighted reader nothing to say
+   who scored. .visually-hidden covers screen readers, not eyes. Rows span
+   the card here too, so the mirror costs no width; only the minute column
+   narrows. */
 @media (max-width: 520px) {
-  .timeline-row {
-    max-width: 100%;
+  .timeline-minute {
+    min-width: 3rem;
   }
 }

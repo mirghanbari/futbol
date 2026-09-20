@@ -39,15 +39,50 @@ const STAT_ROWS: StatRowDef[] = [
   { key: "saves", label: "Saves" },
 ];
 
-// STAT_ROWS is filtered against what's actually present, so the same table
-// renders both sources: ESPN's live five (possession/shots/shots on target/
-// corners/fouls) collapse to five rows, FotMob's full set to eleven. The
-// badge is what tells them apart — the row count alone would just look like
-// missing data.
-// Owns its own card so that the early return below takes the whole thing
-// with it. With the card outside, a stats object that happens to carry no
-// recognised key — which `{}` from a degenerate feed response is — left an
-// empty card on the page with nothing in it but the provisional caveat.
+// Section title sitting ABOVE its card rather than inside it, with the source
+// badge alongside. Keeps the card itself to nothing but content, which is
+// what stops a heading colliding with the corner radius.
+function SectionHead({ title, badge }: { title: string; badge?: string }) {
+  return (
+    <div className="section-head">
+      <h2>{title}</h2>
+      {badge && <span className="source-badge">{badge}</span>}
+    </div>
+  );
+}
+
+// Share of a stat going to the home side, as a percentage, for the split bar.
+// Callers must check `comparable` first — this assumes a positive total.
+function homeShare(home: number, away: number): number {
+  return (home / (home + away)) * 100;
+}
+
+// Whether a split bar would actually mean anything for this pair.
+//
+// Two cases it rules out, both of which the bar would otherwise state as
+// fact:
+//   - One side undefined. STAT_ROWS admits a row when EITHER side has a
+//     value, and ingest-espn-live.mjs's toStats drops non-finite values per
+//     competitor ("-" turns up for a stat a match hasn't produced yet), so
+//     `7 | Shots on target | —` is a real shape. Coercing the missing side
+//     to 0 draws a full-width bar asserting the away side had none, directly
+//     contradicting the em-dash next to it that says "unknown".
+//   - Both zero. Offsides and saves sit at 0-0 for much of a match; an even
+//     split there reads as measured parity rather than nothing having
+//     happened, and is pixel-identical to a genuine 8-8.
+function comparable(home: number | undefined, away: number | undefined): boolean {
+  return home !== undefined && away !== undefined && home + away > 0;
+}
+
+// STAT_ROWS is filtered against what's actually present, so the same rows
+// render both sources: ESPN's live five (possession/shots/shots on target/
+// corners/fouls) collapse to five, FotMob's full set to eleven. The badge is
+// what tells them apart — the count alone would just look like missing data.
+//
+// Returns the heading too, so that the early return below takes the whole
+// section with it. With the heading outside, a stats object carrying no
+// recognised key — which `{}` from a degenerate feed response is — left a
+// bare title and an empty card behind.
 function StatsTable({
   home,
   away,
@@ -63,28 +98,41 @@ function StatsTable({
   if (rows.length === 0) return null;
 
   return (
-    <div className="card card-section">
-      <h2>Match stats</h2>
-      <span className="source-badge">{badge}</span>
-      <table style={{ marginTop: "0.75rem" }}>
-        <tbody>
-          {rows.map((row) => (
-            <tr key={row.key}>
-              <td style={{ textAlign: "right" }}>
-                {home[row.key] ?? "—"}
-                {row.suffix ?? ""}
-              </td>
-              <td style={{ textAlign: "center", opacity: 0.7 }}>{row.label}</td>
-              <td>
-                {away[row.key] ?? "—"}
-                {row.suffix ?? ""}
-              </td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-      {note && <p className="stats-note">{note}</p>}
-    </div>
+    <section>
+      <SectionHead title="Match stats" badge={badge} />
+      <div className="card card-section">
+        {rows.map((row) => {
+          const h = home[row.key];
+          const a = away[row.key];
+          const share = comparable(h, a) ? homeShare(h as number, a as number) : null;
+          return (
+            <div className="stat-row" key={row.key}>
+              <div className="stat-row-head">
+                <span className="stat-value">
+                  {h ?? "—"}
+                  {h !== undefined ? (row.suffix ?? "") : ""}
+                </span>
+                <span className="stat-label">{row.label}</span>
+                <span className="stat-value">
+                  {a ?? "—"}
+                  {a !== undefined ? (row.suffix ?? "") : ""}
+                </span>
+              </div>
+              {/* Decorative: the two numbers either side are the accessible
+                  version of the same comparison, and a bar that repeated them
+                  would just be read twice. */}
+              {share !== null && (
+                <div className="stat-bar" aria-hidden="true">
+                  <span className="stat-bar-home" style={{ width: `${share}%` }} />
+                  <span className="stat-bar-away" style={{ width: `${100 - share}%` }} />
+                </div>
+              )}
+            </div>
+          );
+        })}
+        {note && <p className="stats-note">{note}</p>}
+      </div>
+    </section>
   );
 }
 
@@ -106,8 +154,9 @@ function eventLabel(event: MatchEvent): string {
   return event.playerName;
 }
 
-// Goals and cards, home on the left and away on the right so the column an
-// entry sits in reads as "which team" without a crest or a label. Already in
+// Goals and cards, home entries reading left-to-right from the card's left
+// edge and away entries right-to-left from its right, so the side an entry
+// belongs to reads off its alignment without a crest or a label. Already in
 // chronological order when it arrives (the ingest sorts it) — no sort here,
 // because "45'+1'" doesn't order lexically against "9'".
 function Timeline({
@@ -124,10 +173,14 @@ function Timeline({
   badge: string;
 }) {
   return (
-    <div>
-      <h2>Timeline</h2>
-      <span className="source-badge">{badge}</span>
-      <ul className="timeline">
+    <section>
+      <SectionHead title="Goals &amp; cards" badge={badge} />
+      {/* The list is INSIDE the card rather than being the card: a <ul> needs
+          its own margin/padding reset, and doing that on an element that is
+          also .card-section silently cancels the card's inset — both are
+          single-class selectors, so the later rule simply wins. */}
+      <div className="card card-section">
+        <ul className="timeline">
         {events.map((event, i) => (
           // No stable id in the feed, and the same player can score twice in
           // the same displayed minute, so the index is the only honest key.
@@ -145,17 +198,17 @@ function Timeline({
               {EVENT_KINDS[event.type].icon}
             </span>
             {/* Which team an entry belongs to is otherwise carried ONLY by
-                which side of the centre line the row sits on — invisible to a
-                screen reader, and flattened away below 520px where rows go
-                full width. */}
+                the row's alignment — invisible to a screen reader, and
+                flattened away below 520px where every row goes left. */}
             <span className="visually-hidden">
               {event.teamId === homeTeamId ? homeName : awayName}
             </span>
             <span className="timeline-player">{eventLabel(event)}</span>
           </li>
         ))}
-      </ul>
-    </div>
+        </ul>
+      </div>
+    </section>
   );
 }
 
@@ -275,7 +328,7 @@ export default function MatchDetail() {
       </div>
 
       {odds && (
-        <div className="card card-section">
+        <section>
           {/* Explicitly "pre-match": the model never reads the live score, so
               on a live page an unqualified "Odds" would be taken for an
               in-play recalculation. (It is not frozen at kickoff either —
@@ -283,30 +336,30 @@ export default function MatchDetail() {
               has, so a refresh mid-match can nudge the numbers. It stays a
               pre-match-shaped forecast regardless, which is what the label
               is claiming.) */}
-          <h2>Pre-match odds</h2>
-          <ProbabilityBar
-            home={odds.home}
-            draw={odds.draw}
-            away={odds.away}
-            homeLabel={home?.shortName ?? match.homeTeamId}
-            awayLabel={away?.shortName ?? match.awayTeamId}
-            size="md"
-          />
-        </div>
+          <SectionHead title="Pre-match odds" />
+          <div className="card card-section">
+            <ProbabilityBar
+              home={odds.home}
+              draw={odds.draw}
+              away={odds.away}
+              homeLabel={home?.shortName ?? match.homeTeamId}
+              awayLabel={away?.shortName ?? match.awayTeamId}
+              size="md"
+            />
+          </div>
+        </section>
       )}
 
       {match.events && match.events.length > 0 && (
-        <div className="card card-section">
-          <Timeline
-            events={match.events}
-            homeTeamId={match.homeTeamId}
-            homeName={home?.shortName ?? match.homeTeamId}
-            awayName={away?.shortName ?? match.awayTeamId}
-            // Always ESPN — the timeline has no other source — but still
-            // "live" only while it can still gain entries.
-            badge={isLive ? "ESPN · live" : "ESPN"}
-          />
-        </div>
+        <Timeline
+          events={match.events}
+          homeTeamId={match.homeTeamId}
+          homeName={home?.shortName ?? match.homeTeamId}
+          awayName={away?.shortName ?? match.awayTeamId}
+          // Always ESPN — the timeline has no other source — but still
+          // "live" only while it can still gain entries.
+          badge={isLive ? "ESPN · live" : "ESPN"}
+        />
       )}
 
       {match.stats && (
