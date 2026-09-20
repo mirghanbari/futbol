@@ -92,7 +92,6 @@ jobs:
           MAX_PROBE_ERRORS=3                         # consecutive has-live-match failures tolerated
           last_deploy=0
           tick=0              # loop iterations so far, for FOTMOB_LIVE_EVERY
-          ran_fotmob=""       # whether any FotMob pass ran, so the final one has something to finalise
           pending_deploy=""   # pushed something the throttle wouldn't publish yet
           push_failed=""      # last commit_and_deploy could not reach origin
 
@@ -245,7 +244,6 @@ jobs:
             # the last values on the page rather than blanking them.
             tick=$(( tick + 1 ))
             if [ $(( tick % FOTMOB_LIVE_EVERY )) -eq 0 ]; then
-              ran_fotmob=1
               npm run ingest:fotmob:live || echo "FotMob live ingest failed (non-fatal; retrying next pass)"
             fi
 
@@ -264,10 +262,16 @@ jobs:
           # This is also the pass that sets `final` on every match that
           # finished during the loop, which is what stops them being fetched
           # again and what tells the client the numbers are full-time.
-          if [ -n "$ran_fotmob" ]; then
-            npm run ingest:fotmob:live || echo "final FotMob pass failed (non-fatal)"
-            commit_and_deploy
-          fi
+          #
+          # Unconditional. A guard on "did an in-loop pass run" was tried and
+          # removed: the in-loop pass only fires every FOTMOB_LIVE_EVERY
+          # ticks, so a job whose loop breaks in fewer than that never set the
+          # flag and skipped the finalise — which is precisely the short run
+          # that needs it (the Worker dispatching with five minutes left in
+          # the day's last match). The premise was wrong anyway: the pre-loop
+          # step always runs a pass, so there is always something to finalise.
+          npm run ingest:fotmob:live || echo "final FotMob pass failed (non-fatal)"
+          commit_and_deploy
 
           # Flush a throttled publish. Without this the last tick's data — which
           # is usually the one carrying full-time scores — stays unpublished.

@@ -53,6 +53,21 @@ const PUBLIC_DIR = fileURLToPath(new URL("../public/", import.meta.url));
 // handles "finished" separately — see needsFetch.
 const IN_PLAY = new Set(["in-play", "paused"]);
 
+// Stop STARTING new matches after this long. The pass runs inline in
+// update-live.yml's 60s score-poll loop, and nothing else in that loop can
+// run while it does — so an unbounded pass trades the thing this script is a
+// nice-to-have for (xG) against the thing the loop exists for (scores).
+//
+// The arithmetic is not hypothetical: getJson retries 3x with a 15s timeout
+// and backoff, so one unhealthy match can cost ~47s, and ~20 in-play matches
+// on a Saturday slate would freeze scores for a quarter of an hour. Even
+// healthy, 20-25 matches at PAUSE_MS apiece plus a leagues call per
+// competition runs past a single tick.
+//
+// Matches left unfetched are not lost: the next pass picks them up, and a
+// finished one still has its post-whistle read pending (needsFetch).
+const PASS_BUDGET_MS = 45_000;
+
 // extractTeamStats returns undefined only when FotMob's stats blob is missing
 // entirely. When the blob is present but yields nothing — empty in the opening
 // minutes, or a key rename upstream (the existing "BallPossesion" typo key is
@@ -78,7 +93,7 @@ function needsFetch(status, existing) {
   return status === "finished" && existing != null && !existing.final;
 }
 
-async function ingestLiveStatsFor(code, liveForCode, previousForCode) {
+async function ingestLiveStatsFor(code, liveForCode, previousForCode, deadline) {
   const leagueId = FOTMOB_LEAGUE_IDS[code];
   const matches = await readJson(`${DATA_DIR}leagues/${code}/matches.json`);
   const teams = await readJson(`${DATA_DIR}leagues/${code}/teams.json`);
@@ -88,7 +103,26 @@ async function ingestLiveStatsFor(code, liveForCode, previousForCode) {
   // Carried forward rather than rebuilt from scratch: a match that has
   // finished and been marked final keeps the numbers it was last given, so a
   // finished match doesn't lose its xG the moment it stops being live.
-  const out = { ...previousForCode };
+  //
+  // Pruned against TODAY'S fixtures rather than against live.json, which is
+  // what makes the carry-forward both complete and bounded:
+  //   - live.json is missing a whole competition whenever ingest-espn-live's
+  //     scoreboard fetch fails for it (warn-only, returns {}). Keying off it
+  //     meant one bad tick discarded every stored entry for that competition
+  //     — and any match that reached "finished" before the next pass could
+  //     never be re-fetched, since needsFetch only finalises a match it
+  //     already has an entry for.
+  //   - Keying off "the competition has anything on today" never aged out
+  //     individual matches, so a Tuesday CL card stayed in the file all
+  //     Wednesday and a weekend's fixtures accumulated across all of it.
+  const today = new Date().toISOString().slice(0, 10);
+  const playingToday = new Set(
+    matches.filter((m) => m.utcDate.slice(0, 10) === today).map((m) => m.id),
+  );
+  const out = {};
+  for (const [matchId, entry] of Object.entries(previousForCode)) {
+    if (playingToday.has(matchId)) out[matchId] = entry;
+  }
 
   const toFetch = Object.entries(liveForCode).filter(([matchId, patch]) =>
     needsFetch(patch.status, previousForCode[matchId]),
@@ -102,7 +136,12 @@ async function ingestLiveStatsFor(code, liveForCode, previousForCode) {
   await sleep(PAUSE_MS);
   const fixtures = league.fixtures?.allMatches ?? [];
 
+  let skipped = 0;
   for (const [matchId, patch] of toFetch) {
+    if (Date.now() > deadline) {
+      skipped += 1;
+      continue;
+    }
     const match = matchById.get(matchId);
     if (!match) continue;
     const home = teamById.get(match.homeTeamId);
@@ -152,28 +191,41 @@ async function ingestLiveStatsFor(code, liveForCode, previousForCode) {
     await sleep(PAUSE_MS);
   }
 
+  if (skipped > 0) {
+    console.warn(`[${code}] budget reached; ${skipped} match(es) left for the next pass.`);
+  }
   return out;
 }
 
 async function main() {
   // live.json is the input: ingest-espn-live.mjs has just rewritten it with
   // today's statuses, so it already answers "what is being played right now"
-  // without a second scoreboard call. If it's missing there is nothing live
-  // to enrich and nothing to do.
+  // without a second scoreboard call. It is not the only input though — see
+  // the pruning note in ingestLiveStatsFor for why a competition absent from
+  // it is still processed.
   const live = await readJson(`${PUBLIC_DIR}live.json`, {});
   const previous = await readJson(`${PUBLIC_DIR}live-stats.json`, {});
+
+  // One budget for the whole pass, not per competition — the loop tick it
+  // runs inside is shared, so nine competitions each taking their own slice
+  // would be nine times the freeze.
+  const deadline = Date.now() + PASS_BUDGET_MS;
 
   const out = {};
   for (const { code } of COMPETITIONS) {
     const liveForCode = live[code] ?? {};
     const previousForCode = previous[code] ?? {};
-    // Dropped entirely when the competition has nothing in today's live.json
-    // — that's how yesterday's matches leave the file on the next calendar
-    // day, mirroring live.json's own today-only scope.
-    if (Object.keys(liveForCode).length === 0) continue;
+    // No `continue` for a competition missing from live.json: it still needs
+    // its stored entries carried forward and pruned against today's
+    // fixtures. See the note in ingestLiveStatsFor — skipping here is how a
+    // single failed ESPN scoreboard fetch used to wipe a competition's xG
+    // for the rest of the day.
+    if (Object.keys(liveForCode).length === 0 && Object.keys(previousForCode).length === 0) {
+      continue;
+    }
 
     try {
-      const stats = await ingestLiveStatsFor(code, liveForCode, previousForCode);
+      const stats = await ingestLiveStatsFor(code, liveForCode, previousForCode, deadline);
       if (Object.keys(stats).length > 0) out[code] = stats;
     } catch (err) {
       // Keep whatever this competition already had rather than dropping it:
