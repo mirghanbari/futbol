@@ -180,30 +180,30 @@
     },
     "564689": {
       "home": {
-        "possession": 53,
-        "xg": 1.16,
-        "shots": 17,
-        "shotsOnTarget": 3,
-        "accuratePasses": 322,
+        "possession": 54,
+        "xg": 1.19,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 336,
         "duelsWon": 47,
-        "boxTouches": 31,
+        "boxTouches": 36,
         "fouls": 7,
-        "corners": 6,
+        "corners": 7,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 47,
-        "xg": 2.59,
+        "possession": 46,
+        "xg": 2.61,
         "shots": 20,
         "shotsOnTarget": 5,
-        "accuratePasses": 284,
-        "duelsWon": 36,
+        "accuratePasses": 285,
+        "duelsWon": 37,
         "boxTouches": 37,
         "fouls": 9,
         "corners": 4,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -244,6 +244,13 @@
           "teamId": "92",
           "playerName": "Carlos Soler",
           "penalty": true
+        },
+        {
+          "minute": "84'",
+          "type": "goal",
+          "teamId": "95",
+          "playerName": "Luken Beitia",
+          "ownGoal": true
         }
       ]
     },
@@ -516,12 +523,12 @@
     "559675": {
       "home": {
         "possession": 39,
-        "xg": 1.29,
-        "shots": 11,
+        "xg": 1.8,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 324,
-        "duelsWon": 31,
-        "boxTouches": 26,
+        "accuratePasses": 329,
+        "duelsWon": 32,
+        "boxTouches": 27,
         "fouls": 9,
         "corners": 3,
         "offsides": 1,
@@ -569,7 +576,7 @@
           "assist": "Amine Gouiri"
         },
         {
-          "minute": "75'",
+          "minute": "74'",
           "type": "goal",
           "teamId": "524",
           "playerName": "Marquinhos"
@@ -592,7 +599,8 @@
           "teamId": "516",
           "playerName": "Angel Gomes"
         }
-      ]
+      ],
+      "final": true
     },
     "559676": {
       "home": {
@@ -803,30 +811,30 @@
     },
     "567316": {
       "home": {
-        "possession": 47,
-        "xg": 0.67,
-        "shots": 10,
-        "shotsOnTarget": 2,
-        "accuratePasses": 156,
-        "duelsWon": 14,
-        "boxTouches": 9,
-        "fouls": 9,
+        "possession": 46,
+        "xg": 0.76,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 169,
+        "duelsWon": 15,
+        "boxTouches": 10,
+        "fouls": 10,
         "corners": 2,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 53,
-        "xg": 0.38,
-        "shots": 8,
-        "shotsOnTarget": 1,
-        "accuratePasses": 172,
-        "duelsWon": 27,
-        "boxTouches": 11,
+        "possession": 54,
+        "xg": 0.71,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 190,
+        "duelsWon": 29,
+        "boxTouches": 12,
         "fouls": 6,
         "corners": 3,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -859,6 +867,13 @@
           "type": "red-card",
           "teamId": "1903",
           "playerName": "Clément Lenglet"
+        },
+        {
+          "minute": "51'",
+          "type": "goal",
+          "teamId": "1903",
+          "playerName": "Alexander Bah",
+          "assist": "Gianluca Prestianni"
         }
       ]
     },
