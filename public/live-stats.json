@@ -180,26 +180,26 @@
     },
     "564689": {
       "home": {
-        "possession": 53,
+        "possession": 54,
         "xg": 0.97,
         "shots": 14,
         "shotsOnTarget": 2,
-        "accuratePasses": 288,
-        "duelsWon": 40,
-        "boxTouches": 26,
-        "fouls": 4,
+        "accuratePasses": 300,
+        "duelsWon": 42,
+        "boxTouches": 27,
+        "fouls": 5,
         "corners": 6,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 47,
-        "xg": 1.65,
-        "shots": 17,
-        "shotsOnTarget": 3,
-        "accuratePasses": 253,
-        "duelsWon": 28,
-        "boxTouches": 29,
+        "possession": 46,
+        "xg": 2.59,
+        "shots": 19,
+        "shotsOnTarget": 4,
+        "accuratePasses": 259,
+        "duelsWon": 32,
+        "boxTouches": 35,
         "fouls": 9,
         "corners": 4,
         "offsides": 2,
@@ -237,6 +237,13 @@
           "teamId": "95",
           "playerName": "Aaron Mayol",
           "assist": "Hugo Duro"
+        },
+        {
+          "minute": "75'",
+          "type": "goal",
+          "teamId": "92",
+          "playerName": "Carlos Soler",
+          "penalty": true
         }
       ]
     },
@@ -449,28 +456,28 @@
     },
     "558597": {
       "home": {
-        "possession": 71,
+        "possession": 70,
         "xg": 1.93,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 616,
-        "duelsWon": 49,
+        "accuratePasses": 636,
+        "duelsWon": 52,
         "boxTouches": 21,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 4,
         "saves": 3
       },
       "away": {
-        "possession": 29,
-        "xg": 0.13,
-        "shots": 5,
+        "possession": 30,
+        "xg": 0.17,
+        "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 220,
-        "duelsWon": 49,
-        "boxTouches": 8,
-        "fouls": 13,
-        "corners": 2,
+        "accuratePasses": 241,
+        "duelsWon": 53,
+        "boxTouches": 10,
+        "fouls": 14,
+        "corners": 3,
         "offsides": 1,
         "saves": 1
       },
@@ -507,26 +514,26 @@
   "FL1": {
     "559675": {
       "home": {
-        "possession": 41,
+        "possession": 38,
         "xg": 1.01,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 309,
+        "accuratePasses": 313,
         "duelsWon": 27,
         "boxTouches": 22,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 1,
         "saves": 8
       },
       "away": {
-        "possession": 59,
-        "xg": 3.77,
-        "shots": 28,
+        "possession": 62,
+        "xg": 4.06,
+        "shots": 30,
         "shotsOnTarget": 10,
-        "accuratePasses": 478,
-        "duelsWon": 35,
-        "boxTouches": 44,
+        "accuratePasses": 554,
+        "duelsWon": 38,
+        "boxTouches": 50,
         "fouls": 3,
         "corners": 7,
         "offsides": 2,
@@ -577,6 +584,12 @@
           "type": "yellow-card",
           "teamId": "516",
           "playerName": "Keyliane Abdallah"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "516",
+          "playerName": "Angel Gomes"
         }
       ]
     },
