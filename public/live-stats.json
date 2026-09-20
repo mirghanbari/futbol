@@ -831,26 +831,26 @@
     },
     "567316": {
       "home": {
-        "possession": 44,
-        "xg": 1.31,
+        "possession": 42,
+        "xg": 1.3,
         "shots": 20,
         "shotsOnTarget": 7,
-        "accuratePasses": 240,
-        "duelsWon": 27,
+        "accuratePasses": 246,
+        "duelsWon": 28,
         "boxTouches": 24,
-        "fouls": 13,
+        "fouls": 15,
         "corners": 3,
-        "offsides": 1,
-        "saves": 0
+        "offsides": 2,
+        "saves": 1
       },
       "away": {
-        "possession": 56,
-        "xg": 0.74,
-        "shots": 10,
-        "shotsOnTarget": 2,
-        "accuratePasses": 296,
-        "duelsWon": 42,
-        "boxTouches": 15,
+        "possession": 58,
+        "xg": 0.77,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 340,
+        "duelsWon": 44,
+        "boxTouches": 16,
         "fouls": 9,
         "corners": 3,
         "offsides": 0,
@@ -910,7 +910,7 @@
           "assist": "André Silva"
         },
         {
-          "minute": "80'",
+          "minute": "79'",
           "type": "yellow-card",
           "teamId": "503",
           "playerName": "In-Beom Hwang"
