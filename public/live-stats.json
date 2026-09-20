@@ -215,7 +215,7 @@
         "xg": 0.43,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 121,
+        "accuratePasses": 120,
         "duelsWon": 28,
         "boxTouches": 11,
         "fouls": 3,
@@ -228,7 +228,7 @@
         "xg": 0.25,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 262,
+        "accuratePasses": 263,
         "duelsWon": 25,
         "boxTouches": 24,
         "fouls": 6,
@@ -537,26 +537,26 @@
   "PPL": {
     "567314": {
       "home": {
-        "possession": 53,
+        "possession": 51,
         "xg": 0.22,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 263,
+        "accuratePasses": 267,
         "duelsWon": 36,
         "boxTouches": 9,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 5,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 47,
-        "xg": 0.44,
+        "possession": 49,
+        "xg": 0.48,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 241,
-        "duelsWon": 35,
-        "boxTouches": 8,
+        "accuratePasses": 264,
+        "duelsWon": 37,
+        "boxTouches": 9,
         "fouls": 13,
         "corners": 1,
         "offsides": 1,
@@ -623,30 +623,30 @@
     },
     "567319": {
       "home": {
-        "possession": 52,
+        "possession": 51,
         "xg": 0.26,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 211,
-        "duelsWon": 23,
-        "boxTouches": 7,
+        "accuratePasses": 229,
+        "duelsWon": 28,
+        "boxTouches": 8,
         "fouls": 6,
-        "corners": 5,
+        "corners": 6,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 48,
+        "possession": 49,
         "xg": 1.08,
         "shots": 7,
         "shotsOnTarget": 0,
-        "accuratePasses": 204,
-        "duelsWon": 21,
+        "accuratePasses": 226,
+        "duelsWon": 24,
         "boxTouches": 16,
-        "fouls": 6,
+        "fouls": 8,
         "corners": 4,
         "offsides": 2,
-        "saves": 2
+        "saves": 4
       }
     }
   }
