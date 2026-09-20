@@ -48,6 +48,20 @@ jobs:
       - name: Ingest ESPN live scores
         run: npm run ingest:live
 
+      - name: Ingest FotMob live stats
+        # The advanced-stats half of the live layer: xG, passes, duels, box
+        # touches, offsides and saves for matches in play, which ESPN's
+        # scoreboard doesn't carry. Reads the live.json the previous step just
+        # wrote to decide what's actually being played, so it must run after it.
+        #
+        # Non-fatal, and deliberately so: this talks to an unofficial, keyless
+        # API, and a live match losing its xG is a far smaller problem than
+        # discarding the scores the previous step ingested. It only ever writes
+        # public/live-stats.json — never src/data — so a bad pass can't reach
+        # the season-long dataset.
+        continue-on-error: true
+        run: npm run ingest:fotmob:live
+
       - name: Build kickoff manifest for the cron Worker
         # Local-only (no network): strips the 9 matches.json files down to the
         # kickoff times and statuses cron-trigger/ polls once a minute. Must run
@@ -73,9 +87,12 @@ jobs:
           git config user.email "actions@github.com"
 
           DEPLOY_INTERVAL=120                        # throttle Pages deploys to ~2 min
+          FOTMOB_LIVE_EVERY=5                        # run the FotMob pass once per 5 ticks (~5 min)
           DEADLINE=$(( $(date +%s) + 3 * 60 * 60 ))  # 3h live-poll cap
           MAX_PROBE_ERRORS=3                         # consecutive has-live-match failures tolerated
           last_deploy=0
+          tick=0              # loop iterations so far, for FOTMOB_LIVE_EVERY
+          ran_fotmob=""       # whether any FotMob pass ran, so the final one has something to finalise
           pending_deploy=""   # pushed something the throttle wouldn't publish yet
           push_failed=""      # last commit_and_deploy could not reach origin
 
@@ -84,12 +101,22 @@ jobs:
           # GITHUB_TOKEN don't fire other workflows' `push` event, so Deploy has
           # to be dispatched explicitly.
           commit_and_deploy() {
-            if [ -z "$(git status --porcelain public/live.json public/kickoffs.json)" ]; then
+            if [ -z "$(git status --porcelain public/live.json public/kickoffs.json public/live-stats.json)" ]; then
               echo "No live-score changes."
               return
             fi
 
+            # live-stats.json may legitimately not exist: the FotMob step is
+            # continue-on-error, so a crash before its single writeFile leaves
+            # no file at all on a first run. `git status --porcelain` on a
+            # missing path exits 0 with no output — so the guard above does
+            # NOT catch it — while `git add` on one exits 128, which under
+            # `set -e` would kill the step and, on the pre-loop call, discard
+            # the scores the earlier steps just ingested.
             git add public/live.json public/kickoffs.json
+            if [ -f public/live-stats.json ]; then
+              git add public/live-stats.json
+            fi
             git commit -m "data: refresh live scores"
 
             # Update data pushes to main on its own schedule, so this push can
@@ -205,9 +232,42 @@ jobs:
               || echo "src/data re-sync failed (non-fatal; continuing on the current checkout)"
 
             npm run ingest:live || echo "ESPN live ingest failed (non-fatal; retrying next tick)"
+
+            # Deliberately a fraction of the scoreline's rate. Every tick here
+            # would mean one matchDetails call per live match per minute
+            # against an unofficial API — ~600/hour on a full matchday — to
+            # refresh numbers that barely move in that time. Every fifth tick
+            # costs a fifth of that and loses nothing anyone would notice.
+            #
+            # The script decides what to fetch from the live.json just
+            # regenerated above, so it always sees current statuses; it also
+            # carries its previous output forward, so a skipped tick leaves
+            # the last values on the page rather than blanking them.
+            tick=$(( tick + 1 ))
+            if [ $(( tick % FOTMOB_LIVE_EVERY )) -eq 0 ]; then
+              ran_fotmob=1
+              npm run ingest:fotmob:live || echo "FotMob live ingest failed (non-fatal; retrying next pass)"
+            fi
+
             npm run build:kickoffs || echo "manifest build failed (non-fatal)"
             commit_and_deploy
           done
+
+          # One last FotMob pass, unconditionally. The in-loop pass only runs
+          # every FOTMOB_LIVE_EVERY ticks, and the loop breaks at the TOP of
+          # the tick after the final whistle — so the tick that recorded the
+          # whistle had only a 1-in-FOTMOB_LIVE_EVERY chance of also having
+          # run FotMob, and there is no later tick. Without this the day's
+          # last match would keep the xG it had up to five minutes before it
+          # ended, badged as final, until the next workflow run hours later.
+          #
+          # This is also the pass that sets `final` on every match that
+          # finished during the loop, which is what stops them being fetched
+          # again and what tells the client the numbers are full-time.
+          if [ -n "$ran_fotmob" ]; then
+            npm run ingest:fotmob:live || echo "final FotMob pass failed (non-fatal)"
+            commit_and_deploy
+          fi
 
           # Flush a throttled publish. Without this the last tick's data — which
           # is usually the one carrying full-time scores — stays unpublished.

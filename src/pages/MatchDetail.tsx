@@ -4,7 +4,7 @@ import { matchById, teamById } from "../data";
 import { useCompetitionPage } from "../data/useCompetitionPage";
 import { LeagueStatus } from "../components/LeagueStatus";
 import { ProbabilityBar } from "../components/ProbabilityBar";
-import { applyLive, formatMinute, useLiveData } from "../data/live";
+import { applyLive, formatMinute, useLiveData, useLiveStats } from "../data/live";
 import { computeRatings, expectedGoals, matchProbabilities } from "../data/ratings";
 import { hasPreMatchOdds } from "../data/useMatchOdds";
 import { useSeo } from "../data/seo";
@@ -44,20 +44,26 @@ const STAT_ROWS: StatRowDef[] = [
 // corners/fouls) collapse to five rows, FotMob's full set to eleven. The
 // badge is what tells them apart — the row count alone would just look like
 // missing data.
+// Owns its own card so that the early return below takes the whole thing
+// with it. With the card outside, a stats object that happens to carry no
+// recognised key — which `{}` from a degenerate feed response is — left an
+// empty card on the page with nothing in it but the provisional caveat.
 function StatsTable({
   home,
   away,
   badge,
+  note,
 }: {
   home: MatchAdvancedStats;
   away: MatchAdvancedStats;
   badge: string;
+  note?: string;
 }) {
   const rows = STAT_ROWS.filter((row) => home[row.key] !== undefined || away[row.key] !== undefined);
   if (rows.length === 0) return null;
 
   return (
-    <div>
+    <div className="card">
       <h2>Match stats</h2>
       <span className="source-badge">{badge}</span>
       <table style={{ marginTop: "0.75rem" }}>
@@ -77,6 +83,7 @@ function StatsTable({
           ))}
         </tbody>
       </table>
+      {note && <p className="stats-note">{note}</p>}
     </div>
   );
 }
@@ -156,9 +163,12 @@ export default function MatchDetail() {
   const { competitionId, matchId } = useParams();
   const { competition, data, error, loading } = useCompetitionPage(competitionId);
   const live = useLiveData();
+  // Only this page renders match stats, so it's the only one that fetches the
+  // FotMob live overlay — see useLiveStats.
+  const liveStats = useLiveStats();
 
   const rawMatch = data && matchId ? matchById(data, matchId) : undefined;
-  const match = rawMatch ? applyLive([rawMatch], live, competitionId)[0] : undefined;
+  const match = rawMatch ? applyLive([rawMatch], live, competitionId, liveStats)[0] : undefined;
   const home = data && match ? teamById(data, match.homeTeamId) : undefined;
   const away = data && match ? teamById(data, match.awayTeamId) : undefined;
   const status = match ? eventStatus(match.status) : undefined;
@@ -190,12 +200,24 @@ export default function MatchDetail() {
   if (!rawMatch || !match) return <p>Match not found.</p>;
 
   const isLive = match.status === "in-play" || match.status === "paused";
-  // ESPN's five stats are also what a finished match has for the hours
-  // between full time and the next ingest-fotmob.mjs run, so "live" can't be
-  // baked into the source name — it would sit there mislabelling final
-  // numbers until FotMob's richer set replaces them.
+  // Both overlays outlive the match they describe — each keeps today's
+  // entries until the calendar day rolls over — so "live" can't be baked into
+  // a source name.
+  //
+  // What makes a number provisional differs by source, so neither can be
+  // decided by match.status alone:
+  //   fotmob-live — a mid-match snapshot. Stays provisional AFTER full time,
+  //     until the post-whistle pass sets `final` (which flips the source to
+  //     "fotmob"). Keying this on isLive was wrong: it dropped the warning at
+  //     exactly the moment the numbers were most likely to be stale.
+  //   espn — final the moment the match is, because ESPN keeps publishing the
+  //     same five through full time. So isLive IS the right test here.
+  //   fotmob — from disk, always final.
+  const provisional = match.statsSource === "fotmob-live";
   const sourceBadge =
-    match.statsSource === "espn" ? (isLive ? "ESPN · live" : "ESPN") : "FotMob";
+    match.statsSource === "espn"
+      ? `ESPN${isLive ? " · live" : ""}`
+      : `FotMob${provisional ? " · live" : ""}`;
   const isHalfTime = match.status === "paused";
   const clock = isHalfTime ? "HT" : match.minute ? formatMinute(match.minute) : "";
 
@@ -288,9 +310,15 @@ export default function MatchDetail() {
       )}
 
       {match.stats && (
-        <div className="card">
-          <StatsTable home={match.stats.home} away={match.stats.away} badge={sourceBadge} />
-        </div>
+        <StatsTable
+          home={match.stats.home}
+          away={match.stats.away}
+          badge={sourceBadge}
+          // Worth saying plainly: unlike every other number on this page, xG
+          // is RE-RATED as a match goes on and can go DOWN between refreshes.
+          // Without this, a value that drops reads as a bug.
+          note={provisional ? "Provisional — xG is revised as the match is re-rated." : undefined}
+        />
       )}
     </div>
   );

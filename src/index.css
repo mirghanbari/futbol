@@ -1249,6 +1249,13 @@ tr.zone-releg-playoff {
   background: var(--defense);
 }
 
+/* Caveat under a provisional (in-play) stats table. */
+.stats-note {
+  margin: 0.6rem 0 0;
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+
 /* Off-screen but still announced — for content that carries meaning the
    layout conveys visually and assistive tech otherwise can't reach. Not
    display:none, which removes it from the accessibility tree too. */

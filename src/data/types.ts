@@ -137,9 +137,12 @@ export interface Match {
   // (ESPN, a narrower set — see applyLive), so `stats` being present no
   // longer implies the match is finished. `statsSource` says which it is.
   stats?: { home: MatchAdvancedStats; away: MatchAdvancedStats };
-  // Only set alongside a `stats` the live overlay supplied; absent on the
-  // build data, where FotMob is the only possible source.
-  statsSource?: "fotmob" | "espn";
+  // Only set alongside a `stats` a live overlay supplied; absent on the build
+  // data, where finished-match FotMob is the only possible source.
+  // "fotmob-live" is the same eleven stats as "fotmob" but for a match still
+  // in progress, so the numbers are provisional — xG in particular gets
+  // revised as the feed re-rates shots, and can move DOWN.
+  statsSource?: "fotmob" | "fotmob-live" | "espn";
 }
 
 export interface Player {
