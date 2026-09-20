@@ -63,7 +63,7 @@ function StatsTable({
   if (rows.length === 0) return null;
 
   return (
-    <div className="card">
+    <div className="card card-section">
       <h2>Match stats</h2>
       <span className="source-badge">{badge}</span>
       <table style={{ marginTop: "0.75rem" }}>
@@ -275,7 +275,7 @@ export default function MatchDetail() {
       </div>
 
       {odds && (
-        <div className="card">
+        <div className="card card-section">
           {/* Explicitly "pre-match": the model never reads the live score, so
               on a live page an unqualified "Odds" would be taken for an
               in-play recalculation. (It is not frozen at kickoff either —
@@ -283,7 +283,7 @@ export default function MatchDetail() {
               has, so a refresh mid-match can nudge the numbers. It stays a
               pre-match-shaped forecast regardless, which is what the label
               is claiming.) */}
-          <h2 style={{ marginTop: 0 }}>Pre-match odds</h2>
+          <h2>Pre-match odds</h2>
           <ProbabilityBar
             home={odds.home}
             draw={odds.draw}
@@ -296,7 +296,7 @@ export default function MatchDetail() {
       )}
 
       {match.events && match.events.length > 0 && (
-        <div className="card">
+        <div className="card card-section">
           <Timeline
             events={match.events}
             homeTeamId={match.homeTeamId}

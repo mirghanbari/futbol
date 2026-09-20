@@ -210,7 +210,7 @@ function Leaderboard({
   const visible = expanded ? rows : rows.slice(0, 5);
 
   return (
-    <div className="card" style={{ padding: "1.1rem 1.1rem 0.6rem" }}>
+    <div className="card card-section">
       <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", gap: "0.5rem" }}>
         <div>
           <h3 style={{ margin: 0, fontSize: "1rem" }}>{category.label}</h3>

@@ -41,7 +41,7 @@ function TopScorers({ data, competitionId }: { data: LeagueData; competitionId: 
   if (rows.length === 0) return null;
 
   return (
-    <div className="card" style={{ padding: "1.1rem 1.1rem 0.6rem" }}>
+    <div className="card card-section">
       <h3 style={{ margin: "0 0 0.5rem" }}>Top scorers</h3>
       <table>
         <thead>
@@ -89,7 +89,7 @@ function GoalsByMatchday({ matches }: { matches: Match[] }) {
   const max = Math.max(...rows.map((r) => r.goals));
 
   return (
-    <div className="card" style={{ padding: "1.1rem 1.1rem 0.6rem" }}>
+    <div className="card card-section">
       <h3 style={{ margin: "0 0 0.75rem" }}>Goals by matchday</h3>
       <div>
         {visible.map((row) => (

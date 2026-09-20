@@ -296,8 +296,26 @@ h2 {
   background: var(--card);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
+  /* Tight on purpose: the common case is a card that is nothing but a table
+     (Standings, Players, squad lists), which wants to run nearly edge to
+     edge. A card holding flow content wants .card-section instead. */
   padding: 0.4rem;
   overflow-x: auto;
+}
+
+/* A card whose content is flow — a heading, a source badge, a note — rather
+   than a table bringing its own edges. Without this the heading sits on the
+   card's boundary and collides with the corner radius. The value was already
+   being inlined verbatim on LeagueOverview (x2) and Stats before it became a
+   class, so those are unchanged by it. */
+.card-section {
+  padding: 1.1rem 1.1rem 0.6rem;
+}
+
+/* The heading is the first thing in the card; its default top margin would
+   be added to the padding above rather than collapsing through it. */
+.card-section > h2:first-child {
+  margin-top: 0;
 }
 
 /* ---------- Stat tiles (TeamDetail header) ---------- */
@@ -1281,6 +1299,8 @@ tr.zone-releg-playoff {
   padding: 0;
   display: flex;
   flex-direction: column;
+  /* Rows size to their content rather than stretching — see .timeline-row. */
+  align-items: flex-start;
   gap: 0.35rem;
 }
 
@@ -1288,10 +1308,12 @@ tr.zone-releg-playoff {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  /* Half the row, so home and away occupy opposite halves and the centre
-     line between them is implied rather than drawn. */
-  width: 50%;
-  padding: 0.3rem 0.5rem;
+  /* Shrink to fit, capped. A fixed 50% put a wide slab of grey behind
+     "9' Enzo Fernandez" on a desktop-width card; the cap stops a long name
+     reaching across the middle, which is what keeps the two columns legible
+     as columns. */
+  max-width: min(58%, 19rem);
+  padding: 0.3rem 0.6rem;
   border-radius: var(--radius-sm);
   background: var(--hair);
 }
@@ -1310,8 +1332,10 @@ tr.zone-releg-playoff {
   font-weight: 800;
   color: var(--muted);
   font-variant-numeric: tabular-nums;
-  /* Wide enough for "45'+1'" so the icons still line up down the column. */
-  min-width: 3.2rem;
+  /* No min-width. It was there to line the icons up into a column, which only
+     ever worked when rows were a fixed width; now that each row is its own
+     shrink-to-fit pill there is no column to align to, and the reserved width
+     just read as a gap between the minute and the icon on every short one. */
 }
 
 .timeline-icon {
@@ -1322,9 +1346,8 @@ tr.zone-releg-playoff {
 .timeline-player {
   font-size: 0.85rem;
   font-weight: 600;
-  /* Takes the slack so the minute and icon stay put and long names wrap
-     rather than pushing the row wider. */
-  flex: 1;
+  /* Wraps within the row's cap rather than widening it. No flex-grow — the
+     row is shrink-to-fit now, so growing here would undo that. */
   min-width: 0;
 }
 
@@ -1334,6 +1357,6 @@ tr.zone-releg-playoff {
    team), so squaring both columns up here would make a goal unattributable. */
 @media (max-width: 520px) {
   .timeline-row {
-    width: 100%;
+    max-width: 100%;
   }
 }
