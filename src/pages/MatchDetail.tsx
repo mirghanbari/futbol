@@ -8,7 +8,7 @@ import { applyLive, formatMinute, useLiveData } from "../data/live";
 import { computeRatings, expectedGoals, matchProbabilities } from "../data/ratings";
 import { hasPreMatchOdds } from "../data/useMatchOdds";
 import { useSeo } from "../data/seo";
-import type { Match, MatchAdvancedStats } from "../data/types";
+import type { Match, MatchAdvancedStats, MatchEvent } from "../data/types";
 
 // schema.org's EventStatusType has no "finished"/"live" value — only
 // postponed/cancelled are worth flagging explicitly, everything else is left
@@ -39,14 +39,27 @@ const STAT_ROWS: StatRowDef[] = [
   { key: "saves", label: "Saves" },
 ];
 
-function StatsTable({ home, away }: { home: MatchAdvancedStats; away: MatchAdvancedStats }) {
+// STAT_ROWS is filtered against what's actually present, so the same table
+// renders both sources: ESPN's live five (possession/shots/shots on target/
+// corners/fouls) collapse to five rows, FotMob's full set to eleven. The
+// badge is what tells them apart — the row count alone would just look like
+// missing data.
+function StatsTable({
+  home,
+  away,
+  badge,
+}: {
+  home: MatchAdvancedStats;
+  away: MatchAdvancedStats;
+  badge: string;
+}) {
   const rows = STAT_ROWS.filter((row) => home[row.key] !== undefined || away[row.key] !== undefined);
   if (rows.length === 0) return null;
 
   return (
     <div>
       <h2>Match stats</h2>
-      <span className="source-badge">FotMob</span>
+      <span className="source-badge">{badge}</span>
       <table style={{ marginTop: "0.75rem" }}>
         <tbody>
           {rows.map((row) => (
@@ -64,6 +77,77 @@ function StatsTable({ home, away }: { home: MatchAdvancedStats; away: MatchAdvan
           ))}
         </tbody>
       </table>
+    </div>
+  );
+}
+
+// Labelled rather than aria-hidden: the icon is the ONLY thing separating a
+// goal from a booking (the row is otherwise just a minute and a name), so
+// hiding it would leave a screen reader hearing the same "9' Enzo Fern\u00e1ndez"
+// for both. Same role="img" + aria-label pattern as .live-dot elsewhere.
+const EVENT_KINDS: Record<MatchEvent["type"], { icon: string; label: string }> = {
+  goal: { icon: "\u26bd", label: "Goal" },
+  "yellow-card": { icon: "\u{1f7e8}", label: "Yellow card" },
+  "red-card": { icon: "\u{1f7e5}", label: "Red card" },
+  substitution: { icon: "\u21c4", label: "Substitution" },
+};
+
+function eventLabel(event: MatchEvent): string {
+  if (event.type !== "goal") return event.playerName;
+  if (event.ownGoal) return `${event.playerName} (o.g.)`;
+  if (event.penalty) return `${event.playerName} (pen.)`;
+  return event.playerName;
+}
+
+// Goals and cards, home on the left and away on the right so the column an
+// entry sits in reads as "which team" without a crest or a label. Already in
+// chronological order when it arrives (the ingest sorts it) — no sort here,
+// because "45'+1'" doesn't order lexically against "9'".
+function Timeline({
+  events,
+  homeTeamId,
+  homeName,
+  awayName,
+  badge,
+}: {
+  events: MatchEvent[];
+  homeTeamId: string;
+  homeName: string;
+  awayName: string;
+  badge: string;
+}) {
+  return (
+    <div>
+      <h2>Timeline</h2>
+      <span className="source-badge">{badge}</span>
+      <ul className="timeline">
+        {events.map((event, i) => (
+          // No stable id in the feed, and the same player can score twice in
+          // the same displayed minute, so the index is the only honest key.
+          // Safe here: the list is append-only within a match and never
+          // reordered or filtered.
+          <li
+            key={i}
+            className={event.teamId === homeTeamId ? "timeline-row" : "timeline-row timeline-away"}
+          >
+            {/* Dash rather than an empty cell: the feed occasionally omits a
+                clock, and those events are sorted to the end rather than
+                being presented as minute zero. */}
+            <span className="timeline-minute">{event.minute || "\u2014"}</span>
+            <span className="timeline-icon" role="img" aria-label={EVENT_KINDS[event.type].label}>
+              {EVENT_KINDS[event.type].icon}
+            </span>
+            {/* Which team an entry belongs to is otherwise carried ONLY by
+                which side of the centre line the row sits on — invisible to a
+                screen reader, and flattened away below 520px where rows go
+                full width. */}
+            <span className="visually-hidden">
+              {event.teamId === homeTeamId ? homeName : awayName}
+            </span>
+            <span className="timeline-player">{eventLabel(event)}</span>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }
@@ -106,6 +190,12 @@ export default function MatchDetail() {
   if (!rawMatch || !match) return <p>Match not found.</p>;
 
   const isLive = match.status === "in-play" || match.status === "paused";
+  // ESPN's five stats are also what a finished match has for the hours
+  // between full time and the next ingest-fotmob.mjs run, so "live" can't be
+  // baked into the source name — it would sit there mislabelling final
+  // numbers until FotMob's richer set replaces them.
+  const sourceBadge =
+    match.statsSource === "espn" ? (isLive ? "ESPN · live" : "ESPN") : "FotMob";
   const isHalfTime = match.status === "paused";
   const clock = isHalfTime ? "HT" : match.minute ? formatMinute(match.minute) : "";
 
@@ -183,9 +273,23 @@ export default function MatchDetail() {
         </div>
       )}
 
+      {match.events && match.events.length > 0 && (
+        <div className="card">
+          <Timeline
+            events={match.events}
+            homeTeamId={match.homeTeamId}
+            homeName={home?.shortName ?? match.homeTeamId}
+            awayName={away?.shortName ?? match.awayTeamId}
+            // Always ESPN — the timeline has no other source — but still
+            // "live" only while it can still gain entries.
+            badge={isLive ? "ESPN · live" : "ESPN"}
+          />
+        </div>
+      )}
+
       {match.stats && (
         <div className="card">
-          <StatsTable home={match.stats.home} away={match.stats.away} />
+          <StatsTable home={match.stats.home} away={match.stats.away} badge={sourceBadge} />
         </div>
       )}
     </div>

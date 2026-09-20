@@ -1248,3 +1248,85 @@ tr.zone-releg-playoff {
 .strength-stat.defense .rate-bar-fill {
   background: var(--defense);
 }
+
+/* Off-screen but still announced — for content that carries meaning the
+   layout conveys visually and assistive tech otherwise can't reach. Not
+   display:none, which removes it from the accessibility tree too. */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---------- Match timeline (MatchDetail) ---------- */
+/* Goals and cards for a live match, from the ESPN overlay. Home entries sit
+   left, away entries right, so the side an entry belongs to reads off its
+   column alone — there's no crest or team name on the row. */
+.timeline {
+  list-style: none;
+  margin: 0.75rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.timeline-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  /* Half the row, so home and away occupy opposite halves and the centre
+     line between them is implied rather than drawn. */
+  width: 50%;
+  padding: 0.3rem 0.5rem;
+  border-radius: var(--radius-sm);
+  background: var(--hair);
+}
+
+/* Mirrored, not just right-aligned: reversing the flex order puts the minute
+   on the outside edge on both sides, so the two columns read symmetrically
+   in from the centre. */
+.timeline-away {
+  align-self: flex-end;
+  flex-direction: row-reverse;
+  text-align: right;
+}
+
+.timeline-minute {
+  font-size: 0.72rem;
+  font-weight: 800;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  /* Wide enough for "45'+1'" so the icons still line up down the column. */
+  min-width: 3.2rem;
+}
+
+.timeline-icon {
+  font-size: 0.85rem;
+  line-height: 1;
+}
+
+.timeline-player {
+  font-size: 0.85rem;
+  font-weight: 600;
+  /* Takes the slack so the minute and icon stay put and long names wrap
+     rather than pushing the row wider. */
+  flex: 1;
+  min-width: 0;
+}
+
+/* Below ~520px a half-width row leaves too little for a full name, so rows go
+   full width. The mirroring stays: it is the only thing on the row that says
+   which side an entry belongs to (the icon shows the event type, not the
+   team), so squaring both columns up here would make a goal unattributable. */
+@media (max-width: 520px) {
+  .timeline-row {
+    width: 100%;
+  }
+}

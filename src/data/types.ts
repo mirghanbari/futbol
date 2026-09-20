@@ -77,11 +77,25 @@ export interface MatchAdvancedStats {
   saves?: number;
 }
 
+// One entry on a match timeline. Written by scripts/ingest-espn-live.mjs
+// from the scoreboard's play-by-play, so it exists for today's matches only
+// and arrives via the live overlay rather than the static build data.
 export interface MatchEvent {
-  minute: number;
+  // ESPN's display clock, NOT a number — "45'+1'" has to survive the round
+  // trip, and stoppage time is exactly when things happen. Match.events is
+  // written already sorted by elapsed time, so nothing needs to parse this
+  // back into a number to order it.
+  minute: string;
+  // "substitution" is in the union because ESPN publishes them, but the
+  // ingest filters them out today — see toEvent's note on why.
   type: "goal" | "yellow-card" | "red-card" | "substitution";
+  // In OUR id namespace (football-data), not ESPN's — the ingest maps it.
   teamId: string;
   playerName: string;
+  // Goals only, and only ever set when true. An own goal is credited to the
+  // team that BENEFITS (teamId is the scoring side), matching the scoreline.
+  ownGoal?: boolean;
+  penalty?: boolean;
 }
 
 export interface Match {
@@ -118,7 +132,14 @@ export interface Match {
   // FotMob advanced stats, set once for a finished match by
   // scripts/ingest-fotmob.mjs and preserved across football-data.org
   // rebuilds (see ingest-football-data.mjs).
+  //
+  // While a match is being played these come from the live overlay instead
+  // (ESPN, a narrower set — see applyLive), so `stats` being present no
+  // longer implies the match is finished. `statsSource` says which it is.
   stats?: { home: MatchAdvancedStats; away: MatchAdvancedStats };
+  // Only set alongside a `stats` the live overlay supplied; absent on the
+  // build data, where FotMob is the only possible source.
+  statsSource?: "fotmob" | "espn";
 }
 
 export interface Player {
