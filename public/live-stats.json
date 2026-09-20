@@ -182,12 +182,12 @@
       "home": {
         "possession": 53,
         "xg": 0.97,
-        "shots": 13,
-        "shotsOnTarget": 3,
-        "accuratePasses": 258,
-        "duelsWon": 36,
-        "boxTouches": 25,
-        "fouls": 3,
+        "shots": 14,
+        "shotsOnTarget": 2,
+        "accuratePasses": 288,
+        "duelsWon": 40,
+        "boxTouches": 26,
+        "fouls": 4,
         "corners": 6,
         "offsides": 2,
         "saves": 2
@@ -197,10 +197,10 @@
         "xg": 1.65,
         "shots": 17,
         "shotsOnTarget": 3,
-        "accuratePasses": 228,
-        "duelsWon": 27,
-        "boxTouches": 28,
-        "fouls": 8,
+        "accuratePasses": 253,
+        "duelsWon": 28,
+        "boxTouches": 29,
+        "fouls": 9,
         "corners": 4,
         "offsides": 2,
         "saves": 1
@@ -449,28 +449,28 @@
     },
     "558597": {
       "home": {
-        "possession": 73,
+        "possession": 71,
         "xg": 1.93,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 597,
-        "duelsWon": 47,
-        "boxTouches": 20,
-        "fouls": 5,
+        "accuratePasses": 616,
+        "duelsWon": 49,
+        "boxTouches": 21,
+        "fouls": 6,
         "corners": 2,
-        "offsides": 3,
-        "saves": 1
+        "offsides": 4,
+        "saves": 3
       },
       "away": {
-        "possession": 27,
-        "xg": 0.07,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 192,
-        "duelsWon": 43,
-        "boxTouches": 6,
+        "possession": 29,
+        "xg": 0.13,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 220,
+        "duelsWon": 49,
+        "boxTouches": 8,
         "fouls": 13,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
         "saves": 1
       },
@@ -507,29 +507,29 @@
   "FL1": {
     "559675": {
       "home": {
-        "possession": 43,
+        "possession": 41,
         "xg": 1.01,
         "shots": 9,
         "shotsOnTarget": 4,
         "accuratePasses": 309,
-        "duelsWon": 26,
+        "duelsWon": 27,
         "boxTouches": 22,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 2,
         "offsides": 1,
-        "saves": 7
+        "saves": 8
       },
       "away": {
-        "possession": 57,
-        "xg": 3.71,
-        "shots": 26,
-        "shotsOnTarget": 9,
-        "accuratePasses": 442,
-        "duelsWon": 34,
-        "boxTouches": 43,
+        "possession": 59,
+        "xg": 3.77,
+        "shots": 28,
+        "shotsOnTarget": 10,
+        "accuratePasses": 478,
+        "duelsWon": 35,
+        "boxTouches": 44,
         "fouls": 3,
-        "corners": 4,
-        "offsides": 1,
+        "corners": 7,
+        "offsides": 2,
         "saves": 3
       },
       "events": [
@@ -571,6 +571,12 @@
           "type": "red-card",
           "teamId": "516",
           "playerName": "Timothy Weah"
+        },
+        {
+          "minute": "81'",
+          "type": "yellow-card",
+          "teamId": "516",
+          "playerName": "Keyliane Abdallah"
         }
       ]
     },
