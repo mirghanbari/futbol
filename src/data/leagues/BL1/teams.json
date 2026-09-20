@@ -24,6 +24,14 @@
     "competitionId": "BL1"
   },
   {
+    "id": "721",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
+    "competitionId": "BL1"
+  },
+  {
     "id": "16",
     "name": "FC Augsburg",
     "shortName": "Augsburg",
@@ -48,14 +56,6 @@
     "competitionId": "BL1"
   },
   {
-    "id": "721",
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL",
-    "crest": "https://crests.football-data.org/721.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "719",
     "name": "SV 07 Elversberg",
     "shortName": "Elversberg",
@@ -64,19 +64,19 @@
     "competitionId": "BL1"
   },
   {
-    "id": "19",
-    "name": "Eintracht Frankfurt",
-    "shortName": "Frankfurt",
-    "tla": "SGE",
-    "crest": "https://crests.football-data.org/19.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "3",
     "name": "Bayer 04 Leverkusen",
     "shortName": "Leverkusen",
     "tla": "B04",
     "crest": "https://crests.football-data.org/3.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "19",
+    "name": "Eintracht Frankfurt",
+    "shortName": "Frankfurt",
+    "tla": "SGE",
+    "crest": "https://crests.football-data.org/19.png",
     "competitionId": "BL1"
   },
   {

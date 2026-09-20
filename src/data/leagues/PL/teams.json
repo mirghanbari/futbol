@@ -32,19 +32,19 @@
     "competitionId": "PL"
   },
   {
-    "id": "62",
-    "name": "Everton FC",
-    "shortName": "Everton",
-    "tla": "EVE",
-    "crest": "https://crests.football-data.org/62.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "341",
     "name": "Leeds United FC",
     "shortName": "Leeds United",
     "tla": "LEE",
     "crest": "https://crests.football-data.org/341.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "62",
+    "name": "Everton FC",
+    "shortName": "Everton",
+    "tla": "EVE",
+    "crest": "https://crests.football-data.org/62.png",
     "competitionId": "PL"
   },
   {
@@ -64,19 +64,19 @@
     "competitionId": "PL"
   },
   {
-    "id": "61",
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "64",
     "name": "Liverpool FC",
     "shortName": "Liverpool",
     "tla": "LIV",
     "crest": "https://crests.football-data.org/64.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "61",
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png",
     "competitionId": "PL"
   },
   {
@@ -104,22 +104,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "71",
-    "name": "Sunderland AFC",
-    "shortName": "Sunderland",
-    "tla": "SUN",
-    "crest": "https://crests.football-data.org/71.png",
-    "competitionId": "PL"
-  },
-  {
-    "id": "58",
-    "name": "Aston Villa FC",
-    "shortName": "Aston Villa",
-    "tla": "AVL",
-    "crest": "https://crests.football-data.org/58.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "1044",
     "name": "AFC Bournemouth",
     "shortName": "Bournemouth",
@@ -128,11 +112,27 @@
     "competitionId": "PL"
   },
   {
+    "id": "71",
+    "name": "Sunderland AFC",
+    "shortName": "Sunderland",
+    "tla": "SUN",
+    "crest": "https://crests.football-data.org/71.png",
+    "competitionId": "PL"
+  },
+  {
     "id": "354",
     "name": "Crystal Palace FC",
     "shortName": "Crystal Palace",
     "tla": "CRY",
     "crest": "https://crests.football-data.org/354.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "58",
+    "name": "Aston Villa FC",
+    "shortName": "Aston Villa",
+    "tla": "AVL",
+    "crest": "https://crests.football-data.org/58.png",
     "competitionId": "PL"
   },
   {
