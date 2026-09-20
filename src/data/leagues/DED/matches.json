@@ -2706,14 +2706,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-20T12:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "666",
     "awayTeamId": "674",
     "homeTeam": {
-      "goals": 1
+      "goals": 3
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 2.4,
+        "shots": 21,
+        "shotsOnTarget": 5,
+        "accuratePasses": 277,
+        "duelsWon": 46,
+        "boxTouches": 32,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 60,
+        "xg": 1.02,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 464,
+        "duelsWon": 40,
+        "boxTouches": 27,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 2
+      }
     }
   },
   {
@@ -2723,14 +2751,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-20T12:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "682",
     "awayTeamId": "1912",
     "homeTeam": {
-      "goals": 2
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 2.35,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 515,
+        "duelsWon": 46,
+        "boxTouches": 44,
+        "fouls": 15,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 38,
+        "xg": 0.1,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 279,
+        "duelsWon": 44,
+        "boxTouches": 5,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 4,
+        "saves": 7
+      }
     }
   },
   {
@@ -2740,14 +2796,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-20T14:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1915",
     "awayTeamId": "718",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 1.04,
+        "shots": 17,
+        "shotsOnTarget": 5,
+        "accuratePasses": 297,
+        "duelsWon": 44,
+        "boxTouches": 31,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 54,
+        "xg": 2.31,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 369,
+        "duelsWon": 52,
+        "boxTouches": 29,
+        "fouls": 6,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 4
+      }
     }
   },
   {

@@ -40,14 +40,6 @@
     "competitionId": "FL1"
   },
   {
-    "id": "512",
-    "name": "Stade Brestois 29",
-    "shortName": "Brest",
-    "tla": "BRE",
-    "crest": "https://crests.football-data.org/512.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "532",
     "name": "Angers SCO",
     "shortName": "Angers SCO",
@@ -72,11 +64,27 @@
     "competitionId": "FL1"
   },
   {
+    "id": "519",
+    "name": "AJ Auxerre",
+    "shortName": "Auxerre",
+    "tla": "AJA",
+    "crest": "https://crests.football-data.org/519.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "524",
     "name": "Paris Saint-Germain FC",
     "shortName": "PSG",
     "tla": "PSG",
     "crest": "https://crests.football-data.org/524.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "512",
+    "name": "Stade Brestois 29",
+    "shortName": "Brest",
+    "tla": "BRE",
+    "crest": "https://crests.football-data.org/512.png",
     "competitionId": "FL1"
   },
   {
@@ -93,6 +101,14 @@
     "shortName": "Toulouse",
     "tla": "TOU",
     "crest": "https://crests.football-data.org/511.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "522",
+    "name": "OGC Nice",
+    "shortName": "Nice",
+    "tla": "NIC",
+    "crest": "https://crests.football-data.org/522.png",
     "competitionId": "FL1"
   },
   {
@@ -120,27 +136,11 @@
     "competitionId": "FL1"
   },
   {
-    "id": "519",
-    "name": "AJ Auxerre",
-    "shortName": "Auxerre",
-    "tla": "AJA",
-    "crest": "https://crests.football-data.org/519.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "533",
     "name": "Le Havre AC",
     "shortName": "Le Havre",
     "tla": "HAC",
     "crest": "https://crests.football-data.org/533.png",
-    "competitionId": "FL1"
-  },
-  {
-    "id": "522",
-    "name": "OGC Nice",
-    "shortName": "Nice",
-    "tla": "NIC",
-    "crest": "https://crests.football-data.org/522.png",
     "competitionId": "FL1"
   }
 ]

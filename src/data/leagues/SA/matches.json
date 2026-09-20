@@ -2076,7 +2076,7 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-20T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "470",
     "awayTeamId": "7397",
     "homeTeam": {
@@ -2084,6 +2084,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 35,
+        "xg": 1.96,
+        "shots": 22,
+        "shotsOnTarget": 6,
+        "accuratePasses": 185,
+        "duelsWon": 45,
+        "boxTouches": 33,
+        "fouls": 21,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 7
+      },
+      "away": {
+        "possession": 65,
+        "xg": 2.2,
+        "shots": 27,
+        "shotsOnTarget": 8,
+        "accuratePasses": 423,
+        "duelsWon": 67,
+        "boxTouches": 54,
+        "fouls": 8,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 4
+      }
     }
   },
   {
@@ -2093,14 +2121,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-20T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "112",
     "awayTeamId": "107",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 0.32,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 256,
+        "duelsWon": 37,
+        "boxTouches": 7,
+        "fouls": 17,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 4
+      },
+      "away": {
+        "possession": 58,
+        "xg": 0.76,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 370,
+        "duelsWon": 59,
+        "boxTouches": 19,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 0
+      }
     }
   },
   {
@@ -2110,11 +2166,11 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-20T16:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "109",
     "awayTeamId": "102",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
