@@ -1826,14 +1826,42 @@
     "matchday": 4,
     "stage": "regular",
     "utcDate": "2026-09-20T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "29",
     "awayTeamId": "2",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 34,
+        "xg": 0.7,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 233,
+        "duelsWon": 58,
+        "boxTouches": 18,
+        "fouls": 6,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 66,
+        "xg": 1.42,
+        "shots": 23,
+        "shotsOnTarget": 2,
+        "accuratePasses": 541,
+        "duelsWon": 53,
+        "boxTouches": 61,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 2
+      }
     },
     "venue": "Home Deluxe Arena, Paderborn",
     "broadcasts": [

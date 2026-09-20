@@ -2530,14 +2530,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-20T16:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "109",
     "awayTeamId": "102",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.3,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 462,
+        "duelsWon": 41,
+        "boxTouches": 28,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 4,
+        "saves": 1
+      },
+      "away": {
+        "possession": 48,
+        "xg": 0.61,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 431,
+        "duelsWon": 35,
+        "boxTouches": 22,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Allianz Stadium, Torino",
     "broadcasts": [
@@ -2554,11 +2582,11 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-09-20T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "98",
     "awayTeamId": "5890",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0

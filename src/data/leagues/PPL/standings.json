@@ -7,14 +7,14 @@
     "crest": "https://crests.football-data.org/503.png",
     "competitionId": "PPL",
     "position": 1,
-    "playedGames": 6,
-    "won": 6,
+    "playedGames": 7,
+    "won": 7,
     "draw": 0,
     "lost": 0,
-    "points": 18,
-    "goalsFor": 15,
+    "points": 21,
+    "goalsFor": 16,
     "goalsAgainst": 2,
-    "goalDifference": 13
+    "goalDifference": 14
   },
   {
     "id": "1903",
@@ -24,14 +24,14 @@
     "crest": "https://crests.football-data.org/1903.png",
     "competitionId": "PPL",
     "position": 2,
-    "playedGames": 6,
+    "playedGames": 7,
     "won": 5,
     "draw": 1,
-    "lost": 0,
+    "lost": 1,
     "points": 16,
     "goalsFor": 21,
-    "goalsAgainst": 4,
-    "goalDifference": 17
+    "goalsAgainst": 5,
+    "goalDifference": 16
   },
   {
     "id": "498",
@@ -272,28 +272,28 @@
     "goalDifference": -10
   },
   {
-    "id": "582",
-    "name": "GD Estoril Praia",
-    "shortName": "Estoril Praia",
-    "tla": "EST",
-    "crest": "https://crests.football-data.org/582.png",
-    "competitionId": "PPL",
-    "position": 17,
-    "playedGames": 7,
-    "won": 0,
-    "draw": 3,
-    "lost": 4,
-    "points": 3,
-    "goalsFor": 2,
-    "goalsAgainst": 8,
-    "goalDifference": -6
-  },
-  {
     "id": "6618",
     "name": "Casa Pia AC",
     "shortName": "Casa Pia",
     "tla": "CAS",
     "crest": "https://crests.football-data.org/6618.png",
+    "competitionId": "PPL",
+    "position": 17,
+    "playedGames": 7,
+    "won": 1,
+    "draw": 1,
+    "lost": 5,
+    "points": 4,
+    "goalsFor": 3,
+    "goalsAgainst": 16,
+    "goalDifference": -13
+  },
+  {
+    "id": "582",
+    "name": "GD Estoril Praia",
+    "shortName": "Estoril Praia",
+    "tla": "EST",
+    "crest": "https://crests.football-data.org/582.png",
     "competitionId": "PPL",
     "position": 18,
     "playedGames": 7,
@@ -301,8 +301,8 @@
     "draw": 2,
     "lost": 5,
     "points": 2,
-    "goalsFor": 1,
-    "goalsAgainst": 15,
-    "goalDifference": -14
+    "goalsFor": 3,
+    "goalsAgainst": 10,
+    "goalDifference": -7
   }
 ]

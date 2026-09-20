@@ -3632,14 +3632,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-20T16:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "560",
     "awayTeamId": "90",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 2.29,
+        "shots": 24,
+        "shotsOnTarget": 7,
+        "accuratePasses": 365,
+        "duelsWon": 32,
+        "boxTouches": 30,
+        "fouls": 6,
+        "corners": 11,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 57,
+        "xg": 1.05,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 501,
+        "duelsWon": 45,
+        "boxTouches": 26,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 6
+      }
     }
   },
   {
@@ -3649,14 +3677,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-20T16:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "94",
     "awayTeamId": "88",
     "homeTeam": {
-      "goals": 1
+      "goals": 3
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 4.02,
+        "shots": 21,
+        "shotsOnTarget": 7,
+        "accuratePasses": 546,
+        "duelsWon": 47,
+        "boxTouches": 36,
+        "fouls": 9,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 38,
+        "xg": 0.46,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 300,
+        "duelsWon": 55,
+        "boxTouches": 18,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Estadio de la Cerámica, Villarreal",
     "broadcasts": [
@@ -3673,14 +3729,14 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-09-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "95",
     "awayTeamId": "92",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Mestalla Stadium, Manises",
     "broadcasts": [
