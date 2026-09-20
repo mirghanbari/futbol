@@ -18,9 +18,7 @@ export default function App() {
       <main className="container">
         <Outlet />
       </main>
-      <footer className="footer">
-        Data: football-data.org · Built with React + Vite
-      </footer>
+      <footer className="footer">Data: football-data.org</footer>
     </div>
   );
 }
