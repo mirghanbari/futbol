@@ -180,30 +180,30 @@
     },
     "564689": {
       "home": {
-        "possession": 54,
-        "xg": 0.97,
-        "shots": 14,
-        "shotsOnTarget": 2,
-        "accuratePasses": 300,
-        "duelsWon": 42,
-        "boxTouches": 27,
-        "fouls": 5,
+        "possession": 53,
+        "xg": 1.16,
+        "shots": 17,
+        "shotsOnTarget": 3,
+        "accuratePasses": 322,
+        "duelsWon": 47,
+        "boxTouches": 31,
+        "fouls": 7,
         "corners": 6,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 46,
+        "possession": 47,
         "xg": 2.59,
-        "shots": 19,
-        "shotsOnTarget": 4,
-        "accuratePasses": 259,
-        "duelsWon": 32,
-        "boxTouches": 35,
+        "shots": 20,
+        "shotsOnTarget": 5,
+        "accuratePasses": 284,
+        "duelsWon": 36,
+        "boxTouches": 37,
         "fouls": 9,
         "corners": 4,
         "offsides": 2,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -456,27 +456,27 @@
     },
     "558597": {
       "home": {
-        "possession": 70,
+        "possession": 69,
         "xg": 1.93,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 636,
-        "duelsWon": 52,
+        "accuratePasses": 637,
+        "duelsWon": 54,
         "boxTouches": 21,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 2,
         "offsides": 4,
         "saves": 3
       },
       "away": {
-        "possession": 30,
+        "possession": 31,
         "xg": 0.17,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 241,
-        "duelsWon": 53,
+        "accuratePasses": 253,
+        "duelsWon": 57,
         "boxTouches": 10,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 3,
         "offsides": 1,
         "saves": 1
@@ -508,31 +508,32 @@
           "teamId": "98",
           "playerName": "Diego Moreira"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "FL1": {
     "559675": {
       "home": {
-        "possession": 38,
-        "xg": 1.01,
-        "shots": 9,
+        "possession": 39,
+        "xg": 1.29,
+        "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 313,
-        "duelsWon": 27,
-        "boxTouches": 22,
-        "fouls": 7,
-        "corners": 2,
+        "accuratePasses": 324,
+        "duelsWon": 31,
+        "boxTouches": 26,
+        "fouls": 9,
+        "corners": 3,
         "offsides": 1,
         "saves": 8
       },
       "away": {
-        "possession": 62,
-        "xg": 4.06,
-        "shots": 30,
+        "possession": 61,
+        "xg": 4.43,
+        "shots": 31,
         "shotsOnTarget": 10,
-        "accuratePasses": 554,
-        "duelsWon": 38,
+        "accuratePasses": 560,
+        "duelsWon": 41,
         "boxTouches": 50,
         "fouls": 3,
         "corners": 7,
@@ -586,7 +587,7 @@
           "playerName": "Keyliane Abdallah"
         },
         {
-          "minute": "90'+1'",
+          "minute": "90'",
           "type": "yellow-card",
           "teamId": "516",
           "playerName": "Angel Gomes"
@@ -802,11 +803,11 @@
     },
     "567316": {
       "home": {
-        "possession": 44,
-        "xg": 0.9,
+        "possession": 47,
+        "xg": 0.67,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 138,
+        "accuratePasses": 156,
         "duelsWon": 14,
         "boxTouches": 9,
         "fouls": 9,
@@ -815,11 +816,11 @@
         "saves": 0
       },
       "away": {
-        "possession": 56,
-        "xg": 0.39,
+        "possession": 53,
+        "xg": 0.38,
         "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 170,
+        "accuratePasses": 172,
         "duelsWon": 27,
         "boxTouches": 11,
         "fouls": 6,
