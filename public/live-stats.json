@@ -180,27 +180,27 @@
     },
     "564689": {
       "home": {
-        "possession": 53,
-        "xg": 0.24,
-        "shots": 5,
+        "possession": 54,
+        "xg": 0.27,
+        "shots": 7,
         "shotsOnTarget": 0,
-        "accuratePasses": 202,
-        "duelsWon": 27,
-        "boxTouches": 9,
+        "accuratePasses": 213,
+        "duelsWon": 29,
+        "boxTouches": 12,
         "fouls": 3,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 47,
-        "xg": 1.13,
-        "shots": 13,
+        "possession": 46,
+        "xg": 1.18,
+        "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 179,
-        "duelsWon": 21,
-        "boxTouches": 19,
-        "fouls": 4,
+        "accuratePasses": 183,
+        "duelsWon": 23,
+        "boxTouches": 21,
+        "fouls": 5,
         "corners": 3,
         "offsides": 2,
         "saves": 0
@@ -437,15 +437,15 @@
     "558597": {
       "home": {
         "possession": 75,
-        "xg": 0.91,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 461,
+        "xg": 1.26,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 498,
         "duelsWon": 38,
-        "boxTouches": 15,
+        "boxTouches": 16,
         "fouls": 5,
         "corners": 2,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 1
       },
       "away": {
@@ -453,8 +453,8 @@
         "xg": 0.07,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 135,
-        "duelsWon": 36,
+        "accuratePasses": 145,
+        "duelsWon": 37,
         "boxTouches": 4,
         "fouls": 11,
         "corners": 0,
@@ -474,6 +474,13 @@
           "type": "yellow-card",
           "teamId": "5890",
           "playerName": "Danilo Veiga"
+        },
+        {
+          "minute": "61'",
+          "type": "goal",
+          "teamId": "98",
+          "playerName": "Adrien Rabiot",
+          "assist": "Gonçalo Ramos"
         }
       ]
     }
@@ -481,26 +488,26 @@
   "FL1": {
     "559675": {
       "home": {
-        "possession": 44,
+        "possession": 46,
         "xg": 0.33,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 242,
-        "duelsWon": 20,
-        "boxTouches": 14,
+        "accuratePasses": 275,
+        "duelsWon": 22,
+        "boxTouches": 17,
         "fouls": 4,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 4
       },
       "away": {
-        "possession": 56,
-        "xg": 1.62,
-        "shots": 18,
+        "possession": 54,
+        "xg": 2.17,
+        "shots": 21,
         "shotsOnTarget": 4,
-        "accuratePasses": 338,
-        "duelsWon": 28,
-        "boxTouches": 30,
+        "accuratePasses": 354,
+        "duelsWon": 31,
+        "boxTouches": 35,
         "fouls": 3,
         "corners": 2,
         "offsides": 1,
@@ -730,27 +737,27 @@
     },
     "567316": {
       "home": {
-        "possession": 48,
-        "xg": 0.23,
-        "shots": 6,
+        "possession": 47,
+        "xg": 0.42,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 110,
-        "duelsWon": 12,
+        "accuratePasses": 112,
+        "duelsWon": 13,
         "boxTouches": 5,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 52,
+        "possession": 53,
         "xg": 0.31,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 111,
-        "duelsWon": 15,
+        "accuratePasses": 120,
+        "duelsWon": 17,
         "boxTouches": 7,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 3,
         "offsides": 0,
         "saves": 0
@@ -769,10 +776,23 @@
           "playerName": "Clément Lenglet"
         },
         {
-          "minute": "32'",
+          "minute": "31'",
           "type": "goal",
           "teamId": "503",
-          "playerName": "Gabriel Veiga"
+          "playerName": "Gabriel Veiga",
+          "assist": "Pepê"
+        },
+        {
+          "minute": "34'",
+          "type": "yellow-card",
+          "teamId": "1903",
+          "playerName": "Gianluca Prestianni"
+        },
+        {
+          "minute": "35'",
+          "type": "red-card",
+          "teamId": "1903",
+          "playerName": "Clément Lenglet"
         }
       ]
     },
