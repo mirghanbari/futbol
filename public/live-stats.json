@@ -180,31 +180,52 @@
     },
     "564689": {
       "home": {
-        "possession": 48,
-        "xg": 0.09,
-        "shots": 3,
+        "possession": 50,
+        "xg": 0.1,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 127,
-        "duelsWon": 17,
-        "boxTouches": 5,
+        "accuratePasses": 164,
+        "duelsWon": 22,
+        "boxTouches": 6,
         "fouls": 3,
-        "corners": 0,
+        "corners": 1,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 52,
+        "possession": 50,
         "xg": 0.66,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 136,
-        "duelsWon": 18,
-        "boxTouches": 10,
+        "accuratePasses": 166,
+        "duelsWon": 19,
+        "boxTouches": 13,
         "fouls": 2,
         "corners": 1,
         "offsides": 2,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "11'",
+          "type": "yellow-card",
+          "teamId": "95",
+          "playerName": "Justin De Haas"
+        },
+        {
+          "minute": "12'",
+          "type": "yellow-card",
+          "teamId": "95",
+          "playerName": "José Gayà"
+        },
+        {
+          "minute": "26'",
+          "type": "goal",
+          "teamId": "92",
+          "playerName": "Luka Sučić",
+          "assist": "Job Ochieng"
+        }
+      ]
     },
     "564696": {
       "home": {
@@ -439,7 +460,16 @@
         "corners": 0,
         "offsides": 0,
         "saves": 1
-      }
+      },
+      "events": [
+        {
+          "minute": "14'",
+          "type": "goal",
+          "teamId": "98",
+          "playerName": "Christian Pulisic",
+          "assist": "Strahinja Pavlović"
+        }
+      ]
     }
   },
   "FL1": {
@@ -449,7 +479,7 @@
         "xg": 0.31,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 181,
+        "accuratePasses": 183,
         "duelsWon": 17,
         "boxTouches": 12,
         "fouls": 4,
@@ -462,14 +492,28 @@
         "xg": 0.84,
         "shots": 11,
         "shotsOnTarget": 1,
-        "accuratePasses": 292,
+        "accuratePasses": 295,
         "duelsWon": 26,
-        "boxTouches": 20,
+        "boxTouches": 19,
         "fouls": 2,
         "corners": 1,
         "offsides": 1,
         "saves": 1
-      }
+      },
+      "events": [
+        {
+          "minute": "32'",
+          "type": "yellow-card",
+          "teamId": "516",
+          "playerName": "Timothy Weah"
+        },
+        {
+          "minute": "39'",
+          "type": "yellow-card",
+          "teamId": "524",
+          "playerName": "Nuno Mendes"
+        }
+      ]
     },
     "559676": {
       "home": {
@@ -680,27 +724,36 @@
     },
     "567316": {
       "home": {
-        "possession": 49,
+        "possession": 36,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 16,
-        "duelsWon": 1,
-        "fouls": 1,
+        "accuratePasses": 20,
+        "duelsWon": 3,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 51,
+        "possession": 64,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 17,
-        "duelsWon": 3,
+        "accuratePasses": 37,
+        "duelsWon": 5,
+        "boxTouches": 2,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "5'",
+          "type": "yellow-card",
+          "teamId": "503",
+          "playerName": "Gabriel Veiga"
+        }
+      ]
     },
     "567317": {
       "home": {
