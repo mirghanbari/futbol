@@ -831,26 +831,26 @@
     },
     "567316": {
       "home": {
-        "possession": 44,
+        "possession": 45,
         "xg": 1.3,
         "shots": 20,
         "shotsOnTarget": 7,
-        "accuratePasses": 288,
+        "accuratePasses": 310,
         "duelsWon": 31,
-        "boxTouches": 24,
-        "fouls": 16,
+        "boxTouches": 26,
+        "fouls": 17,
         "corners": 3,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 56,
-        "xg": 0.8,
-        "shots": 11,
+        "possession": 55,
+        "xg": 0.84,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 354,
-        "duelsWon": 47,
-        "boxTouches": 16,
+        "accuratePasses": 360,
+        "duelsWon": 50,
+        "boxTouches": 17,
         "fouls": 12,
         "corners": 3,
         "offsides": 0,
@@ -914,8 +914,27 @@
           "type": "yellow-card",
           "teamId": "503",
           "playerName": "In-Beom Hwang"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "yellow-card",
+          "teamId": "503",
+          "playerName": "Oskar Pietuszewski"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "1903",
+          "playerName": "Alexander Bah"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "1903",
+          "playerName": "Tomás Araújo"
         }
-      ]
+      ],
+      "final": true
     },
     "567317": {
       "home": {
