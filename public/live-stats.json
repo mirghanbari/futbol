@@ -436,27 +436,27 @@
     },
     "558597": {
       "home": {
-        "possession": 74,
-        "xg": 0.89,
-        "shots": 5,
+        "possession": 75,
+        "xg": 0.91,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 401,
-        "duelsWon": 31,
-        "boxTouches": 11,
-        "fouls": 4,
-        "corners": 1,
-        "offsides": 1,
+        "accuratePasses": 461,
+        "duelsWon": 38,
+        "boxTouches": 15,
+        "fouls": 5,
+        "corners": 2,
+        "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 26,
+        "possession": 25,
         "xg": 0.07,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 119,
-        "duelsWon": 31,
+        "accuratePasses": 135,
+        "duelsWon": 36,
         "boxTouches": 4,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -468,6 +468,12 @@
           "teamId": "98",
           "playerName": "Christian Pulisic",
           "assist": "Strahinja Pavlović"
+        },
+        {
+          "minute": "58'",
+          "type": "yellow-card",
+          "teamId": "5890",
+          "playerName": "Danilo Veiga"
         }
       ]
     }
@@ -477,11 +483,11 @@
       "home": {
         "possession": 44,
         "xg": 0.33,
-        "shots": 4,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 226,
-        "duelsWon": 19,
-        "boxTouches": 13,
+        "accuratePasses": 242,
+        "duelsWon": 20,
+        "boxTouches": 14,
         "fouls": 4,
         "corners": 1,
         "offsides": 0,
@@ -489,14 +495,14 @@
       },
       "away": {
         "possession": 56,
-        "xg": 1.15,
-        "shots": 15,
+        "xg": 1.62,
+        "shots": 18,
         "shotsOnTarget": 4,
-        "accuratePasses": 315,
-        "duelsWon": 29,
-        "boxTouches": 23,
-        "fouls": 2,
-        "corners": 1,
+        "accuratePasses": 338,
+        "duelsWon": 28,
+        "boxTouches": 30,
+        "fouls": 3,
+        "corners": 2,
         "offsides": 1,
         "saves": 1
       },
@@ -724,27 +730,27 @@
     },
     "567316": {
       "home": {
-        "possession": 49,
-        "xg": 0.03,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 92,
-        "duelsWon": 11,
-        "boxTouches": 1,
-        "fouls": 2,
+        "possession": 48,
+        "xg": 0.23,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 110,
+        "duelsWon": 12,
+        "boxTouches": 5,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 51,
-        "xg": 0.28,
-        "shots": 5,
+        "possession": 52,
+        "xg": 0.31,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 92,
-        "duelsWon": 10,
-        "boxTouches": 6,
-        "fouls": 3,
+        "accuratePasses": 111,
+        "duelsWon": 15,
+        "boxTouches": 7,
+        "fouls": 5,
         "corners": 3,
         "offsides": 0,
         "saves": 0
@@ -761,6 +767,12 @@
           "type": "yellow-card",
           "teamId": "1903",
           "playerName": "Clément Lenglet"
+        },
+        {
+          "minute": "32'",
+          "type": "goal",
+          "teamId": "503",
+          "playerName": "Gabriel Veiga"
         }
       ]
     },
