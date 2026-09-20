@@ -181,29 +181,29 @@
     "564689": {
       "home": {
         "possession": 54,
-        "xg": 1.19,
-        "shots": 19,
+        "xg": 1.6,
+        "shots": 21,
         "shotsOnTarget": 5,
-        "accuratePasses": 351,
-        "duelsWon": 53,
-        "boxTouches": 38,
-        "fouls": 8,
+        "accuratePasses": 359,
+        "duelsWon": 59,
+        "boxTouches": 41,
+        "fouls": 9,
         "corners": 7,
         "offsides": 2,
         "saves": 3
       },
       "away": {
         "possession": 46,
-        "xg": 2.64,
+        "xg": 2.65,
         "shots": 21,
         "shotsOnTarget": 6,
-        "accuratePasses": 300,
-        "duelsWon": 43,
+        "accuratePasses": 303,
+        "duelsWon": 44,
         "boxTouches": 40,
-        "fouls": 10,
+        "fouls": 12,
         "corners": 5,
         "offsides": 2,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -258,8 +258,21 @@
           "teamId": "92",
           "playerName": "Ander Barrenetxea",
           "assist": "Carlos Soler"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "yellow-card",
+          "teamId": "92",
+          "playerName": "Orri Óskarsson"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "red-card",
+          "teamId": "92",
+          "playerName": "Orri Óskarsson"
         }
-      ]
+      ],
+      "final": true
     },
     "564696": {
       "home": {
@@ -818,27 +831,27 @@
     },
     "567316": {
       "home": {
-        "possession": 46,
-        "xg": 0.85,
-        "shots": 13,
-        "shotsOnTarget": 4,
-        "accuratePasses": 178,
-        "duelsWon": 16,
-        "boxTouches": 13,
+        "possession": 48,
+        "xg": 0.94,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 199,
+        "duelsWon": 20,
+        "boxTouches": 17,
         "fouls": 11,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 54,
-        "xg": 0.72,
-        "shots": 9,
+        "possession": 52,
+        "xg": 0.75,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 195,
-        "duelsWon": 30,
-        "boxTouches": 12,
-        "fouls": 6,
+        "accuratePasses": 206,
+        "duelsWon": 35,
+        "boxTouches": 13,
+        "fouls": 8,
         "corners": 3,
         "offsides": 0,
         "saves": 2
@@ -887,6 +900,13 @@
           "type": "goal",
           "teamId": "503",
           "playerName": "Victor Froholdt",
+          "assist": "André Silva"
+        },
+        {
+          "minute": "60'",
+          "type": "goal",
+          "teamId": "503",
+          "playerName": "In-Beom Hwang",
           "assist": "André Silva"
         }
       ]
