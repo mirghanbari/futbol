@@ -121,14 +121,43 @@ export async function fetchScoreboard(slug, dateParam) {
   return res.json();
 }
 
-// One request for a whole competition's season — ESPN's scoreboard endpoint
-// accepts a date range plus a limit override (default caps well under a
-// season's match count). Confirmed against real data: a single
-// fromDate-toDate request with limit=1000 returns all 380 Premier League /
-// 189 Champions League matches for a season.
+// Every ESPN event for a competition between two YYYYMMDD dates.
+//
+// This used to be a single `dates=from-to` request. ESPN withdrew support for
+// the range form at some point after it was written: every from-to request now
+// returns HTTP 400, even a 7-day one, for every competition. Because the only
+// caller (ingest-espn-schedule.mjs) treats a fetch failure as non-fatal and
+// the workflow step is continue-on-error, that failed silently on every run —
+// venue and broadcasts sat at 0 of 2,986 matches across all nine leagues until
+// someone noticed the stadium missing on the match page.
+//
+// What still works is `dates=YYYY`, which returns a whole CALENDAR year (plus
+// `limit=1000`; without it ESPN caps the response at 100). A European season
+// straddles two calendar years, so this walks the years the requested window
+// touches — two requests per competition rather than one.
+//
+// The window filter is load-bearing, not tidiness. A calendar year contains
+// the END of one season and the START of the next, so the same ordered
+// (home, away) pair can legitimately appear twice in one year's events.
+// findEspnEvent joins on the team pair ALONE (deliberately — see its note on
+// providers disagreeing about dates), and that is only sound because a pair is
+// unique within a season. Handing it a two-season event list would quietly
+// break that and let a fixture take last season's venue.
 export async function fetchEspnRange(slug, fromDate, toDate) {
-  const sb = await fetchScoreboard(slug, `${fromDate}-${toDate}&limit=1000`);
-  return sb.events ?? [];
+  const firstYear = Number(fromDate.slice(0, 4));
+  const lastYear = Number(toDate.slice(0, 4));
+
+  const byId = new Map();
+  for (let year = firstYear; year <= lastYear; year += 1) {
+    const sb = await fetchScoreboard(slug, `${year}&limit=1000`);
+    for (const event of sb.events ?? []) {
+      // ESPN dates are ISO timestamps; compare on the YYYYMMDD prefix, which
+      // is exactly the form the caller passes in.
+      const day = event.date?.slice(0, 10).replace(/-/g, "");
+      if (day && day >= fromDate && day <= toDate) byId.set(event.id, event);
+    }
+  }
+  return [...byId.values()];
 }
 
 function espnName(team) {
