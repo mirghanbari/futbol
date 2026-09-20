@@ -24,6 +24,25 @@ export interface RatingsModel {
 // raceStatus.ts's points-only tiebreaker.
 export const HOME_ADVANTAGE = 1.35;
 
+// Pseudo-games at league average blended into every team's rate before it
+// becomes a rating (empirical-Bayes shrinkage — the standard fix for rates
+// off small samples).
+//
+// Without it a rate is taken at face value however few games it rests on, and
+// a team that simply hasn't scored yet gets attack === 0 exactly. That is not
+// a low estimate, it is an impossible one: expectedGoals then returns a home
+// lambda of 0, poissonPmf returns P(0 goals) === 1, and the fixture is shown
+// as a literal 0% chance of winning. Seen on the real site — Paderborn, four
+// games and no goals, displayed at 0% while 3-1 up in the match.
+//
+// The prior's weight is PRIOR_GAMES / (playedGames + PRIOR_GAMES): 75% after
+// one match, 43% after four, 8% by matchday 34. Dominant early and negligible
+// late, which is the point — one game is almost no evidence and the model
+// should say so.
+// A team with no games at all lands on exactly 1.0, matching the neutral
+// default ratingOrAverage already hands out.
+const PRIOR_GAMES = 3;
+
 export function computeRatings(standings: Standing[]): RatingsModel {
   const withGames = standings.filter((s) => s.playedGames > 0);
   if (withGames.length === 0) {
@@ -35,12 +54,17 @@ export function computeRatings(standings: Standing[]): RatingsModel {
   const leagueAvgGoals =
     withGames.reduce((sum, s) => sum + s.goalsFor / s.playedGames, 0) / withGames.length;
 
+  // Goals per game, pulled toward the league average by PRIOR_GAMES worth of
+  // average play, then expressed relative to that average.
+  const shrunk = (goals: number, playedGames: number) =>
+    (goals + PRIOR_GAMES * leagueAvgGoals) / (playedGames + PRIOR_GAMES) / leagueAvgGoals;
+
   const ratings = new Map<string, TeamRating>();
   for (const s of withGames) {
     ratings.set(s.id, {
       teamId: s.id,
-      attack: leagueAvgGoals > 0 ? s.goalsFor / s.playedGames / leagueAvgGoals : 1,
-      defense: leagueAvgGoals > 0 ? s.goalsAgainst / s.playedGames / leagueAvgGoals : 1,
+      attack: leagueAvgGoals > 0 ? shrunk(s.goalsFor, s.playedGames) : 1,
+      defense: leagueAvgGoals > 0 ? shrunk(s.goalsAgainst, s.playedGames) : 1,
     });
   }
   return { ratings, leagueAvgGoals };
