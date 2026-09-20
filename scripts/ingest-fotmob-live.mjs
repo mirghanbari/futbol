@@ -38,6 +38,7 @@ import {
   FOTMOB,
   FOTMOB_LEAGUE_IDS,
   PAUSE_MS,
+  extractMatchEvents,
   extractTeamStats,
   findFixture,
   getJson,
@@ -119,10 +120,25 @@ async function ingestLiveStatsFor(code, liveForCode, previousForCode) {
       const details = await getJson(`${FOTMOB}/matchDetails?matchId=${fixture.id}`);
       const homeStats = extractTeamStats(details, "home");
       const awayStats = extractTeamStats(details, "away");
+      // Same response, so the timeline is free. It supersedes the ESPN one on
+      // the client because it names the assist and how the goal was scored,
+      // neither of which ESPN's scoreboard carries at all.
+      const events = extractMatchEvents(details, match.homeTeamId, match.awayTeamId);
       if (hasAnyStat(homeStats) && hasAnyStat(awayStats)) {
+        // A pass that reads stats but extracts no events (an early read, or a
+        // shape change upstream) must not wipe a timeline an earlier pass
+        // already built: this assignment replaces the entry wholesale, and if
+        // that pass is the post-whistle one it also sets `final`, so the match
+        // is never re-fetched and the loss lasts the rest of the day.
+        const keptEvents = events.length > 0 ? events : previousForCode[matchId]?.events;
+
         out[matchId] = {
           home: homeStats,
           away: awayStats,
+          // Omitted when there is nothing on either side (a 0-0 with no
+          // cards) so the client falls through to ESPN's rather than
+          // rendering a confidently empty timeline.
+          ...(keptEvents?.length ? { events: keptEvents } : {}),
           // Only ever set on the post-whistle pass, and only then does it
           // stop this match being fetched again.
           ...(patch.status === "finished" ? { final: true } : {}),

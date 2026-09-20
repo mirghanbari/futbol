@@ -31,6 +31,11 @@ export type LiveStats = Record<
     {
       home: MatchAdvancedStats;
       away: MatchAdvancedStats;
+      // Goals and cards, already chronological. Supersedes the ESPN timeline
+      // when present: same events, plus the assist and the goal method.
+      // Absent for a match with nothing to show yet, so that a 0-0 falls
+      // through to ESPN's rather than blanking a timeline ESPN did have.
+      events?: MatchEvent[];
       // Set once the ingest has re-read the match after the final whistle, so
       // these are full-time numbers rather than a snapshot from partway
       // through. The distinction is the difference between badging them
@@ -110,6 +115,56 @@ export function formatMinute(minute: string): string {
   return trimmed.endsWith("'") ? trimmed : `${trimmed}'`;
 }
 
+// Goals accounted for by a timeline. An own goal is credited to the team that
+// benefits, so this is directly comparable to the scoreline.
+function goalCount(events: MatchEvent[]): number {
+  return events.reduce((n, event) => n + (event.type === "goal" ? 1 : 0), 0);
+}
+
+// FotMob's timeline is richer — it carries the assist and the goal method,
+// neither of which ESPN's scoreboard has at all — so it wins by default.
+// ESPN's is the fallback rather than the base because the two describe the
+// same events: merging them would mean matching event to event across feeds
+// that agree on neither ids nor exact minutes.
+//
+// The catch is that the timeline and the SCORELINE come from different files,
+// and a match page showing a 2-1 header above three goals is worse than
+// showing a slightly older list. The two can drift apart in BOTH directions,
+// which is why the test below is symmetric rather than a staleness guess:
+//
+//   FotMob behind — it is rebuilt every ~5 minutes and polled every 3, against
+//   60s on both counts for live.json, so it can sit ~8 minutes back.
+//   FotMob ahead — each workflow tick runs ingest:live and THEN
+//   ingest:fotmob:live, and that second pass takes tens of seconds to minutes
+//   on a busy matchday (a leagues call per competition, a matchDetails per
+//   live match, PAUSE_MS between each). A goal scored inside that window is in
+//   the FotMob events while the scores beside them predate it.
+//
+// So the rule is agreement with the scoreline, not recency: take whichever
+// list accounts for exactly the goals on the header. If neither does, keep
+// FotMob's — both are wrong about the count, and only one of them has the
+// assists.
+function pickEvents(
+  patch: LiveMatchPatch,
+  statsPatch: { events?: MatchEvent[] } | undefined,
+): Pick<Match, "events" | "eventsSource"> {
+  // `?.length` rather than a truthiness test: an empty array is truthy, and
+  // returning it would blank a timeline ESPN had entries for (a goalless
+  // match with two bookings, say).
+  const fotmob = statsPatch?.events?.length ? statsPatch.events : undefined;
+  const espn = patch.events?.length ? patch.events : undefined;
+  const scored = patch.homeGoals + patch.awayGoals;
+
+  if (fotmob && goalCount(fotmob) === scored) {
+    return { events: fotmob, eventsSource: "fotmob-live" };
+  }
+  if (espn && goalCount(espn) === scored) {
+    return { events: espn, eventsSource: "espn" };
+  }
+  if (fotmob) return { events: fotmob, eventsSource: "fotmob-live" };
+  return espn ? { events: espn, eventsSource: "espn" } : {};
+}
+
 export function applyLive(
   matches: Match[],
   live: LiveData | null,
@@ -158,7 +213,7 @@ export function applyLive(
       homeTeam: { ...match.homeTeam, goals: patch.homeGoals },
       awayTeam: { ...match.awayTeam, goals: patch.awayGoals },
       ...(overlaidStats ?? {}),
-      ...(patch.events ? { events: patch.events } : {}),
+      ...pickEvents(patch, statsPatch),
     };
   });
 }

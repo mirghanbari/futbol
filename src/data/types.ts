@@ -96,6 +96,15 @@ export interface MatchEvent {
   // team that BENEFITS (teamId is the scoring side), matching the scoreline.
   ownGoal?: boolean;
   penalty?: boolean;
+  // FotMob-only, both of them: ESPN's scoreboard names the scorer and nothing
+  // else, so an ESPN-sourced timeline never carries either.
+  // How the goal was scored ("header", "overhead kick"), already in the words
+  // it should be printed in. Penalties and own goals are the booleans above
+  // rather than a method — they change how the goal READS, not just how it
+  // was struck.
+  method?: string;
+  // The assisting player's bare name.
+  assist?: string;
 }
 
 export interface Match {
@@ -137,6 +146,11 @@ export interface Match {
   // (ESPN, a narrower set — see applyLive), so `stats` being present no
   // longer implies the match is finished. `statsSource` says which it is.
   stats?: { home: MatchAdvancedStats; away: MatchAdvancedStats };
+  // Which overlay supplied `events`. Tracked separately from statsSource
+  // because the two can disagree: a FotMob pass runs every ~5 minutes while
+  // the ESPN one runs every ~60s, so a goal can be in the ESPN timeline
+  // minutes before FotMob's richer version of it arrives.
+  eventsSource?: "fotmob-live" | "espn";
   // Only set alongside a `stats` a live overlay supplied; absent on the build
   // data, where finished-match FotMob is the only possible source.
   // "fotmob-live" is the same eleven stats as "fotmob" but for a match still

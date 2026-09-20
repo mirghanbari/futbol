@@ -147,11 +147,14 @@ const EVENT_KINDS: Record<MatchEvent["type"], { icon: string; label: string }> =
   substitution: { icon: "\u21c4", label: "Substitution" },
 };
 
-function eventLabel(event: MatchEvent): string {
-  if (event.type !== "goal") return event.playerName;
-  if (event.ownGoal) return `${event.playerName} (o.g.)`;
-  if (event.penalty) return `${event.playerName} (pen.)`;
-  return event.playerName;
+// The parenthetical after a scorer's name. Own goal and penalty come first
+// because they change how the goal reads rather than just how it was struck,
+// and "penalty header" is not a distinction worth drawing.
+function eventQualifier(event: MatchEvent): string | null {
+  if (event.type !== "goal") return null;
+  if (event.ownGoal) return "o.g.";
+  if (event.penalty) return "pen.";
+  return event.method ?? null;
 }
 
 // Goals and cards, home entries reading left-to-right from the card's left
@@ -181,31 +184,44 @@ function Timeline({
           single-class selectors, so the later rule simply wins. */}
       <div className="card card-section">
         <ul className="timeline">
-        {events.map((event, i) => (
-          // No stable id in the feed, and the same player can score twice in
-          // the same displayed minute, so the index is the only honest key.
-          // Safe here: the list is append-only within a match and never
-          // reordered or filtered.
-          <li
-            key={i}
-            className={event.teamId === homeTeamId ? "timeline-row" : "timeline-row timeline-away"}
-          >
-            {/* Dash rather than an empty cell: the feed occasionally omits a
-                clock, and those events are sorted to the end rather than
-                being presented as minute zero. */}
-            <span className="timeline-minute">{event.minute || "\u2014"}</span>
-            <span className="timeline-icon" role="img" aria-label={EVENT_KINDS[event.type].label}>
-              {EVENT_KINDS[event.type].icon}
-            </span>
-            {/* Which team an entry belongs to is otherwise carried ONLY by
-                the row's alignment — invisible to a screen reader, and
-                flattened away below 520px where every row goes left. */}
-            <span className="visually-hidden">
-              {event.teamId === homeTeamId ? homeName : awayName}
-            </span>
-            <span className="timeline-player">{eventLabel(event)}</span>
-          </li>
-        ))}
+        {events.map((event, i) => {
+          const qualifier = eventQualifier(event);
+          return (
+            // No stable id in either feed, and the same player can score
+            // twice in the same displayed minute, so the index is the only
+            // honest key. Safe only because these rows hold no state of their
+            // own — pickEvents can swap the whole list between two
+            // differently-ordered sources between polls, so an index here
+            // does not identify a durable thing.
+            <li
+              key={i}
+              className={
+                event.teamId === homeTeamId ? "timeline-row" : "timeline-row timeline-away"
+              }
+            >
+              {/* Dash rather than an empty cell: the feed occasionally omits
+                  a clock, and those events are sorted to the end rather than
+                  being presented as minute zero. */}
+              <span className="timeline-minute">{event.minute || "\u2014"}</span>
+              <span className="timeline-icon" role="img" aria-label={EVENT_KINDS[event.type].label}>
+                {EVENT_KINDS[event.type].icon}
+              </span>
+              {/* Which team an entry belongs to is otherwise carried ONLY by
+                  the row's alignment — invisible to a screen reader. */}
+              <span className="visually-hidden">
+                {event.teamId === homeTeamId ? homeName : awayName}
+              </span>
+              <span className="timeline-player">
+                <span className="timeline-name">
+                  {event.playerName}
+                  {qualifier && <span className="timeline-qualifier"> ({qualifier})</span>}
+                </span>
+                {/* FotMob-sourced timelines only — ESPN names no assister. */}
+                {event.assist && <span className="timeline-assist">assist: {event.assist}</span>}
+              </span>
+            </li>
+          );
+        })}
         </ul>
       </div>
     </section>
@@ -356,9 +372,13 @@ export default function MatchDetail() {
           homeTeamId={match.homeTeamId}
           homeName={home?.shortName ?? match.homeTeamId}
           awayName={away?.shortName ?? match.awayTeamId}
-          // Always ESPN — the timeline has no other source — but still
-          // "live" only while it can still gain entries.
-          badge={isLive ? "ESPN · live" : "ESPN"}
+          // Named after whichever overlay actually supplied these events —
+          // they can differ from the stats' source, since the FotMob pass
+          // runs every ~5 minutes against ESPN's ~60s. "· live" only while
+          // the list can still gain entries; both overlays outlive the match.
+          badge={`${match.eventsSource === "fotmob-live" ? "FotMob" : "ESPN"}${
+            isLive ? " · live" : ""
+          }`}
         />
       )}
 

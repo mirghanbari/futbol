@@ -171,6 +171,133 @@ export function extractTeamStats(matchDetails, side) {
   };
 }
 
+// FotMob's goalDescriptionKey -> the word we print in parentheses after a
+// scorer. Only the descriptive ones: "penalty" and "owngoal" also turn up
+// here but are carried as booleans on MatchEvent instead, since they change
+// how the goal is READ rather than just how it was scored.
+// Keys taken from real responses, not guessed: over 469 goals sampled across
+// six competitions the only values seen were null, header, penalty, owngoal,
+// direct_free_kick and overhead_kick. An earlier guess at "free_kick" never
+// matched anything — FotMob spells it "direct_free_kick" — so free-kick
+// goals, the most common descriptive method after headers, silently lost
+// their qualifier.
+const GOAL_METHODS = {
+  header: "header",
+  direct_free_kick: "free kick",
+  overhead_kick: "overhead kick",
+};
+
+// The event's whole-minute clock, or null when it has none.
+//
+// The checks are explicit because Number(null) and Number("") are both 0 —
+// finite, and therefore accepted by a bare Number.isFinite guard, which would
+// file a clockless event at minute zero and sort it to the top of the
+// timeline. The ESPN twin escapes this only because detail.clock?.value gives
+// undefined, and Number(undefined) is NaN.
+function minuteOf(event) {
+  // null, undefined and "" all have to be rejected BEFORE Number(): the first
+  // two give NaN but the empty string gives 0, which passes isFinite.
+  if (event.time == null || event.time === "") return null;
+  const base = Number(event.time);
+  return Number.isFinite(base) ? base : null;
+}
+
+// "69'" or "45'+1'" — the same shape ESPN's displayClock produces, so the two
+// event sources render identically and MatchEvent.minute has one format.
+function eventMinute(event) {
+  const base = minuteOf(event);
+  if (base === null) return "";
+  const extra = Number(event.overloadTime);
+  return Number.isFinite(extra) && extra > 0 ? `${base}'+${extra}'` : `${base}'`;
+}
+
+// [minute, stoppage] for ordering. A missing clock sorts to the END, matching
+// ingest-espn-live.mjs's sortKey and what MatchDetail's Timeline says happens
+// — `Number(x) || 0` would instead file it at minute zero, opening the
+// timeline with a row whose minute renders as a dash.
+function eventSortKey(event) {
+  const base = minuteOf(event);
+  if (base === null) return [Number.MAX_SAFE_INTEGER, 0];
+  const extra = Number(event.overloadTime);
+  return [base, Number.isFinite(extra) ? extra : 0];
+}
+
+// Goals and cards from a matchDetails response, in OUR MatchEvent shape.
+//
+// Richer than the ESPN scoreboard's equivalent (ingest-espn-live.mjs toEvent),
+// which is the entire reason this exists: ESPN names only the scorer, while
+// this carries the assist and how the goal was scored. Same response the team
+// stats come from, so it costs no extra request.
+//
+// Substitution/Half/AddedTime/VAR/Comment events are skipped — the timeline
+// shows goals and cards. Shootout events are skipped too: they don't move the
+// scoreline this app displays (Match.shootout is tracked separately), so
+// including them would contradict the score beside them.
+const CARD_TYPES = {
+  Yellow: "yellow-card",
+  Red: "red-card",
+  YellowRed: "red-card",
+};
+
+export function extractMatchEvents(matchDetails, homeTeamId, awayTeamId) {
+  const raw = matchDetails.content?.matchFacts?.events?.events;
+  if (!Array.isArray(raw)) return [];
+
+  const out = [];
+  for (const event of raw) {
+    if (event.isPenaltyShootoutEvent) continue;
+
+    const teamId = event.isHome ? homeTeamId : awayTeamId;
+    // Same fallback as ingest-espn-live.mjs's toEvent. Dropping the event
+    // instead would take a goal off a timeline the badge presents as
+    // complete, while the scoreline beside it still counts it.
+    const playerName = event.fullName ?? event.nameStr ?? event.player?.name ?? "Unknown";
+
+    if (event.type === "Goal") {
+      // `penalty` shows up as the description on some goals and as the suffix
+      // on others; either is authoritative.
+      const penalty =
+        event.goalDescriptionKey === "penalty" || event.suffixKey === "penalties_short";
+      const ownGoal = Boolean(event.ownGoal) || event.suffixKey === "own_goal_short";
+      const method = GOAL_METHODS[event.goalDescriptionKey];
+      out.push({
+        minute: eventMinute(event),
+        type: "goal",
+        teamId,
+        playerName,
+        ...(ownGoal ? { ownGoal: true } : {}),
+        ...(penalty ? { penalty: true } : {}),
+        ...(method ? { method } : {}),
+        // assistInput is the bare name; assistStr is "assist by <name>".
+        ...(event.assistInput ? { assist: event.assistInput } : {}),
+        _sort: eventSortKey(event),
+      });
+    } else if (event.type === "Card") {
+      // "YellowRed" is a second bookable offence, i.e. a sending-off, and is
+      // FotMob's third card value (6 of 592 cards sampled — about one match
+      // in 25). Dropping it didn't just lose the entry: because this list
+      // REPLACES the ESPN one, a red card ESPN had reported vanished from the
+      // page the moment a FotMob pass landed.
+      const type = CARD_TYPES[event.card];
+      if (!type) continue;
+      out.push({
+        minute: eventMinute(event),
+        type,
+        teamId,
+        playerName,
+        _sort: eventSortKey(event),
+      });
+    }
+  }
+
+  // Chronological, so the client can render in array order. Unlike ESPN's
+  // clock this isn't clamped at the period boundary, but stoppage time still
+  // needs its own key: 45+1 and 45+3 share a `time` of 45.
+  out.sort((a, b) => a._sort[0] - b._sort[0] || a._sort[1] - b._sort[1]);
+  for (const event of out) delete event._sort;
+  return out;
+}
+
 // Pulls a named stat out of one PLAYER's grouped stats — a different shape
 // than team stats: an array of groups, each group.stats is an OBJECT keyed
 // by display title -> {key, stat: {value, type}}.
