@@ -3428,6 +3428,42 @@
     "venue": "St. James' Park, Newcastle-upon-Tyne"
   },
   {
+    "id": "560634",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-11-06T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "62",
+    "awayTeamId": "1076",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Hill Dickinson Stadium, Liverpool"
+  },
+  {
+    "id": "560632",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-11-07T12:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "341",
+    "awayTeamId": "73",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Elland Road, Leeds"
+  },
+  {
     "id": "560640",
     "competitionId": "PL",
     "season": "2026",
@@ -3444,42 +3480,6 @@
       "goals": 0
     },
     "venue": "Emirates Stadium, London"
-  },
-  {
-    "id": "560641",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "351",
-    "awayTeamId": "65",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "The City Ground, Nottingham"
-  },
-  {
-    "id": "560632",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "341",
-    "awayTeamId": "73",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Elland Road, Leeds"
   },
   {
     "id": "560633",
@@ -3500,22 +3500,22 @@
     "venue": "Craven Cottage, London"
   },
   {
-    "id": "560634",
+    "id": "560641",
     "competitionId": "PL",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-07T15:00:00Z",
+    "utcDate": "2026-11-07T17:30:00Z",
     "status": "scheduled",
-    "homeTeamId": "62",
-    "awayTeamId": "1076",
+    "homeTeamId": "351",
+    "awayTeamId": "65",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Hill Dickinson Stadium, Liverpool"
+    "venue": "The City Ground, Nottingham"
   },
   {
     "id": "560635",
@@ -3523,7 +3523,7 @@
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-07T15:00:00Z",
+    "utcDate": "2026-11-08T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "354",
     "awayTeamId": "64",
@@ -3541,7 +3541,7 @@
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-07T15:00:00Z",
+    "utcDate": "2026-11-08T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "71",
     "awayTeamId": "61",
@@ -3559,7 +3559,7 @@
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-07T15:00:00Z",
+    "utcDate": "2026-11-08T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "349",
     "awayTeamId": "1044",
@@ -3577,7 +3577,7 @@
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-07T15:00:00Z",
+    "utcDate": "2026-11-08T14:00:00Z",
     "status": "scheduled",
     "homeTeamId": "397",
     "awayTeamId": "402",
@@ -3595,7 +3595,7 @@
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-11-07T15:00:00Z",
+    "utcDate": "2026-11-08T16:30:00Z",
     "status": "scheduled",
     "homeTeamId": "66",
     "awayTeamId": "58",
@@ -3606,6 +3606,24 @@
       "goals": 0
     },
     "venue": "Old Trafford, Manchester"
+  },
+  {
+    "id": "560643",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 11,
+    "stage": "regular",
+    "utcDate": "2026-11-21T12:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "65",
+    "awayTeamId": "63",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Etihad Stadium, Manchester"
   },
   {
     "id": "560642",
@@ -3626,24 +3644,6 @@
     "venue": "Stamford Bridge, London"
   },
   {
-    "id": "560643",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 11,
-    "stage": "regular",
-    "utcDate": "2026-11-21T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "65",
-    "awayTeamId": "63",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Etihad Stadium, Manchester"
-  },
-  {
     "id": "560644",
     "competitionId": "PL",
     "season": "2026",
@@ -3660,42 +3660,6 @@
       "goals": 0
     },
     "venue": "Villa Park, Birmingham"
-  },
-  {
-    "id": "560645",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 11,
-    "stage": "regular",
-    "utcDate": "2026-11-21T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "64",
-    "awayTeamId": "66",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Anfield, Liverpool"
-  },
-  {
-    "id": "560646",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 11,
-    "stage": "regular",
-    "utcDate": "2026-11-21T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "322",
-    "awayTeamId": "397",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "The MKM Stadium, Hull"
   },
   {
     "id": "560647",
@@ -3734,24 +3698,6 @@
     "venue": "Tottenham Hotspur Stadium, London"
   },
   {
-    "id": "560649",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 11,
-    "stage": "regular",
-    "utcDate": "2026-11-21T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "402",
-    "awayTeamId": "62",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Gtech Community Stadium, Brentford"
-  },
-  {
     "id": "560650",
     "competitionId": "PL",
     "season": "2026",
@@ -3775,7 +3721,7 @@
     "season": "2026",
     "matchday": 11,
     "stage": "regular",
-    "utcDate": "2026-11-21T15:00:00Z",
+    "utcDate": "2026-11-21T17:30:00Z",
     "status": "scheduled",
     "homeTeamId": "67",
     "awayTeamId": "57",
@@ -3786,6 +3732,78 @@
       "goals": 0
     },
     "venue": "St. James' Park, Newcastle-upon-Tyne"
+  },
+  {
+    "id": "560646",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 11,
+    "stage": "regular",
+    "utcDate": "2026-11-22T14:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "322",
+    "awayTeamId": "397",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "The MKM Stadium, Hull"
+  },
+  {
+    "id": "560645",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 11,
+    "stage": "regular",
+    "utcDate": "2026-11-22T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "64",
+    "awayTeamId": "66",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Anfield, Liverpool"
+  },
+  {
+    "id": "560649",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 11,
+    "stage": "regular",
+    "utcDate": "2026-11-23T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "402",
+    "awayTeamId": "62",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Gtech Community Stadium, Brentford"
+  },
+  {
+    "id": "560658",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 12,
+    "stage": "regular",
+    "utcDate": "2026-11-27T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "351",
+    "awayTeamId": "61",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "The City Ground, Nottingham"
   },
   {
     "id": "560652",
@@ -3806,42 +3824,6 @@
     "venue": "Elland Road, Leeds"
   },
   {
-    "id": "560653",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 12,
-    "stage": "regular",
-    "utcDate": "2026-11-28T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "349",
-    "awayTeamId": "58",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Portman Road, Ipswich"
-  },
-  {
-    "id": "560654",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 12,
-    "stage": "regular",
-    "utcDate": "2026-11-28T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "57",
-    "awayTeamId": "65",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Emirates Stadium, London"
-  },
-  {
     "id": "560655",
     "competitionId": "PL",
     "season": "2026",
@@ -3860,12 +3842,30 @@
     "venue": "Old Trafford, Manchester"
   },
   {
+    "id": "560653",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 12,
+    "stage": "regular",
+    "utcDate": "2026-11-28T17:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "349",
+    "awayTeamId": "58",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Portman Road, Ipswich"
+  },
+  {
     "id": "560656",
     "competitionId": "PL",
     "season": "2026",
     "matchday": 12,
     "stage": "regular",
-    "utcDate": "2026-11-28T15:00:00Z",
+    "utcDate": "2026-11-29T12:00:00Z",
     "status": "scheduled",
     "homeTeamId": "62",
     "awayTeamId": "64",
@@ -3883,7 +3883,7 @@
     "season": "2026",
     "matchday": 12,
     "stage": "regular",
-    "utcDate": "2026-11-28T15:00:00Z",
+    "utcDate": "2026-11-29T14:05:00Z",
     "status": "scheduled",
     "homeTeamId": "63",
     "awayTeamId": "1044",
@@ -3896,30 +3896,12 @@
     "venue": "Craven Cottage, London"
   },
   {
-    "id": "560658",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 12,
-    "stage": "regular",
-    "utcDate": "2026-11-28T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "351",
-    "awayTeamId": "61",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "The City Ground, Nottingham"
-  },
-  {
     "id": "560659",
     "competitionId": "PL",
     "season": "2026",
     "matchday": 12,
     "stage": "regular",
-    "utcDate": "2026-11-28T15:00:00Z",
+    "utcDate": "2026-11-29T14:05:00Z",
     "status": "scheduled",
     "homeTeamId": "397",
     "awayTeamId": "67",
@@ -3937,7 +3919,7 @@
     "season": "2026",
     "matchday": 12,
     "stage": "regular",
-    "utcDate": "2026-11-28T15:00:00Z",
+    "utcDate": "2026-11-29T14:05:00Z",
     "status": "scheduled",
     "homeTeamId": "71",
     "awayTeamId": "73",
@@ -3955,7 +3937,7 @@
     "season": "2026",
     "matchday": 12,
     "stage": "regular",
-    "utcDate": "2026-11-28T15:00:00Z",
+    "utcDate": "2026-11-29T14:05:00Z",
     "status": "scheduled",
     "homeTeamId": "354",
     "awayTeamId": "322",
@@ -3966,6 +3948,24 @@
       "goals": 0
     },
     "venue": "Selhurst Park, London"
+  },
+  {
+    "id": "560654",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 12,
+    "stage": "regular",
+    "utcDate": "2026-11-29T16:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "57",
+    "awayTeamId": "65",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Emirates Stadium, London"
   },
   {
     "id": "560662",

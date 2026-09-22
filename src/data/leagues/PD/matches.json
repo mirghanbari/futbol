@@ -4273,36 +4273,12 @@
     ]
   },
   {
-    "id": "564718",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "87",
-    "awayTeamId": "285",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estadio de Vallecas, Madrid",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "564719",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-23T19:00:00Z",
     "status": "scheduled",
     "homeTeamId": "263",
     "awayTeamId": "84",
@@ -4321,22 +4297,22 @@
     ]
   },
   {
-    "id": "564720",
+    "id": "564718",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-24T12:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "77",
-    "awayTeamId": "82",
+    "homeTeamId": "87",
+    "awayTeamId": "285",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "San Mamés, Bilbao",
+    "venue": "Estadio de Vallecas, Madrid",
     "broadcasts": [
       {
         "name": "ESPN+",
@@ -4345,22 +4321,22 @@
     ]
   },
   {
-    "id": "564721",
+    "id": "564727",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-24T14:15:00Z",
     "status": "scheduled",
-    "homeTeamId": "559",
-    "awayTeamId": "79",
+    "homeTeamId": "5335",
+    "awayTeamId": "80",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
+    "venue": "El Sardineros, Santander",
     "broadcasts": [
       {
         "name": "ESPN+",
@@ -4374,7 +4350,7 @@
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-24T16:30:00Z",
     "status": "scheduled",
     "homeTeamId": "95",
     "awayTeamId": "94",
@@ -4393,12 +4369,101 @@
     ]
   },
   {
+    "id": "564724",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-10-24T19:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "78",
+    "awayTeamId": "560",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564720",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-10-25T13:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "77",
+    "awayTeamId": "82",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "San Mamés, Bilbao",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564725",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-10-25T15:15:00Z",
+    "status": "scheduled",
+    "homeTeamId": "558",
+    "awayTeamId": "90",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Balaidos, Vigo",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564726",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 10,
+    "stage": "regular",
+    "utcDate": "2026-10-25T17:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "92",
+    "awayTeamId": "88",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Reale Arena, San Sebastian",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "564723",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-25T20:00:00Z",
     "status": "scheduled",
     "homeTeamId": "81",
     "awayTeamId": "86",
@@ -4425,87 +4490,22 @@
     ]
   },
   {
-    "id": "564724",
+    "id": "564721",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 10,
     "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
+    "utcDate": "2026-10-26T20:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "78",
-    "awayTeamId": "560",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564725",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "558",
-    "awayTeamId": "90",
+    "homeTeamId": "559",
+    "awayTeamId": "79",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Balaidos, Vigo",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564726",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "92",
-    "awayTeamId": "88",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Reale Arena, San Sebastian",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564727",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 10,
-    "stage": "regular",
-    "utcDate": "2026-10-25T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "5335",
-    "awayTeamId": "80",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "El Sardineros, Santander",
+    "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
     "broadcasts": [
       {
         "name": "ESPN+",
