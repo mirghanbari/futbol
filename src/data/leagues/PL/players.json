@@ -99,15 +99,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "244120",
-    "name": "Myles Lewis-Skelly",
-    "position": "Defender",
-    "nationality": "England",
-    "dateOfBirth": "2006-09-26",
-    "teamId": "57",
-    "competitionId": "PL"
-  },
-  {
     "id": "1684",
     "name": "Bruno Guimarães",
     "position": "Midfielder",
@@ -158,6 +149,15 @@
     "position": "Midfielder",
     "nationality": "Spain",
     "dateOfBirth": "1999-02-02",
+    "teamId": "57",
+    "competitionId": "PL"
+  },
+  {
+    "id": "244120",
+    "name": "Myles Lewis-Skelly",
+    "position": "Midfielder",
+    "nationality": "England",
+    "dateOfBirth": "2006-09-26",
     "teamId": "57",
     "competitionId": "PL"
   },
@@ -3744,15 +3744,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "213425",
-    "name": "Anan Khalaili",
-    "position": "Defender",
-    "nationality": "Israel",
-    "dateOfBirth": "2004-09-03",
-    "teamId": "354",
-    "competitionId": "PL"
-  },
-  {
     "id": "260271",
     "name": "Jaydee Canvot",
     "position": "Defender",
@@ -3821,6 +3812,15 @@
     "position": "Midfielder",
     "nationality": "England",
     "dateOfBirth": "2004-06-02",
+    "teamId": "354",
+    "competitionId": "PL"
+  },
+  {
+    "id": "213425",
+    "name": "Anan Khalaili",
+    "position": "Midfielder",
+    "nationality": "Israel",
+    "dateOfBirth": "2004-09-03",
     "teamId": "354",
     "competitionId": "PL"
   },
