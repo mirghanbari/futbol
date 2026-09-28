@@ -3821,6 +3821,10 @@
     "venue": "Estadio de Vallecas, Madrid",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -3844,6 +3848,10 @@
     },
     "venue": "Mendizorrotza, Vitoria-Gasteiz",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -3869,6 +3877,10 @@
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -3892,6 +3904,10 @@
     },
     "venue": "Santiago Bernabéu, Madrid",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
