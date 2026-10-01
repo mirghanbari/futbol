@@ -598,24 +598,6 @@
     "venue": "Estádio do Rio Ave, Vila do Conde"
   },
   {
-    "id": "567271",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 2,
-    "stage": "regular",
-    "utcDate": "2026-08-16T00:00:00Z",
-    "status": "postponed",
-    "homeTeamId": "5613",
-    "awayTeamId": "5533",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estádio Municipal de Braga, Braga"
-  },
-  {
     "id": "567270",
     "competitionId": "PPL",
     "season": "2026",
@@ -3030,6 +3012,24 @@
       "goals": 0
     },
     "venue": "Estádio Municipal 22 de Junho, Vila Nova de Famalicão"
+  },
+  {
+    "id": "567271",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 2,
+    "stage": "regular",
+    "utcDate": "2026-10-19T19:15:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5613",
+    "awayTeamId": "5533",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio Municipal de Braga, Braga"
   },
   {
     "id": "567329",
