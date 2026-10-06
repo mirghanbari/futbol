@@ -5934,24 +5934,6 @@
     "venue": "The Valley, London"
   },
   {
-    "id": "561917",
-    "competitionId": "ELC",
-    "season": "2026",
-    "matchday": 14,
-    "stage": "regular",
-    "utcDate": "2026-11-03T19:45:00Z",
-    "status": "scheduled",
-    "homeTeamId": "332",
-    "awayTeamId": "384",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "St. Andrew's Stadium, Birmingham"
-  },
-  {
     "id": "561918",
     "competitionId": "ELC",
     "season": "2026",
@@ -6004,6 +5986,24 @@
       "goals": 0
     },
     "venue": "The Hawthorns, West Bromwich"
+  },
+  {
+    "id": "561917",
+    "competitionId": "ELC",
+    "season": "2026",
+    "matchday": 14,
+    "stage": "regular",
+    "utcDate": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "332",
+    "awayTeamId": "384",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "St. Andrew's Stadium, Birmingham"
   },
   {
     "id": "561925",
