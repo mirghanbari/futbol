@@ -2,27 +2,27 @@
   "ELC": {
     "561862": {
       "home": {
-        "possession": 62,
+        "possession": 61,
         "xg": 0.07,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 242,
-        "duelsWon": 14,
+        "accuratePasses": 268,
+        "duelsWon": 16,
         "boxTouches": 2,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 1,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 38,
+        "possession": 39,
         "xg": 1.01,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 141,
-        "duelsWon": 15,
+        "accuratePasses": 168,
+        "duelsWon": 17,
         "boxTouches": 4,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -53,25 +53,25 @@
   "PD": {
     "564706": {
       "home": {
-        "possession": 57,
+        "possession": 55,
         "xg": 0.21,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 213,
+        "accuratePasses": 214,
         "duelsWon": 21,
         "boxTouches": 9,
         "fouls": 5,
         "corners": 3,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 43,
-        "xg": 0.62,
-        "shots": 4,
+        "possession": 45,
+        "xg": 0.66,
+        "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 148,
-        "duelsWon": 26,
+        "accuratePasses": 166,
+        "duelsWon": 27,
         "boxTouches": 12,
         "fouls": 8,
         "corners": 1,
@@ -116,28 +116,28 @@
   "BL1": {
     "565820": {
       "home": {
-        "possession": 74,
-        "xg": 0.65,
-        "shots": 9,
+        "possession": 75,
+        "xg": 0.9,
+        "shots": 14,
         "shotsOnTarget": 4,
-        "accuratePasses": 464,
-        "duelsWon": 20,
-        "boxTouches": 22,
-        "fouls": 3,
+        "accuratePasses": 508,
+        "duelsWon": 22,
+        "boxTouches": 29,
+        "fouls": 4,
         "corners": 4,
         "offsides": 2,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 26,
-        "xg": 0.11,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 133,
-        "duelsWon": 17,
-        "boxTouches": 2,
-        "fouls": 5,
-        "corners": 1,
+        "possession": 25,
+        "xg": 0.3,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 141,
+        "duelsWon": 20,
+        "boxTouches": 3,
+        "fouls": 7,
+        "corners": 2,
         "offsides": 2,
         "saves": 4
       }
@@ -192,12 +192,12 @@
     "558881": {
       "home": {
         "possession": 54,
-        "xg": 1.23,
-        "shots": 12,
+        "xg": 1.52,
+        "shots": 14,
         "shotsOnTarget": 2,
-        "accuratePasses": 387,
-        "duelsWon": 29,
-        "boxTouches": 23,
+        "accuratePasses": 412,
+        "duelsWon": 33,
+        "boxTouches": 26,
         "fouls": 19,
         "corners": 4,
         "offsides": 0,
@@ -208,10 +208,10 @@
         "xg": 1.56,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 326,
+        "accuratePasses": 345,
         "duelsWon": 38,
         "boxTouches": 17,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 6,
         "offsides": 0,
         "saves": 0
@@ -255,27 +255,27 @@
   "PPL": {
     "567326": {
       "home": {
-        "possession": 43,
+        "possession": 45,
         "xg": 0.06,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 69,
-        "duelsWon": 10,
-        "boxTouches": 7,
-        "fouls": 3,
+        "accuratePasses": 103,
+        "duelsWon": 16,
+        "boxTouches": 10,
+        "fouls": 5,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 57,
-        "xg": 0.13,
-        "shots": 1,
+        "possession": 55,
+        "xg": 0.19,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 93,
-        "duelsWon": 8,
-        "boxTouches": 1,
-        "fouls": 2,
+        "accuratePasses": 125,
+        "duelsWon": 12,
+        "boxTouches": 5,
+        "fouls": 3,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -289,7 +289,7 @@
         "shotsOnTarget": 2,
         "accuratePasses": 262,
         "duelsWon": 58,
-        "boxTouches": 16,
+        "boxTouches": 15,
         "fouls": 12,
         "corners": 4,
         "offsides": 0,
@@ -358,7 +358,8 @@
           "playerName": "Walace França",
           "penalty": true
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
