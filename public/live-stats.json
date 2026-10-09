@@ -415,26 +415,26 @@
   "PPL": {
     "567326": {
       "home": {
-        "possession": 47,
-        "xg": 0.94,
-        "shots": 10,
+        "possession": 49,
+        "xg": 0.95,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 309,
-        "duelsWon": 38,
-        "boxTouches": 21,
+        "accuratePasses": 338,
+        "duelsWon": 42,
+        "boxTouches": 29,
         "fouls": 9,
         "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 53,
-        "xg": 0.78,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 352,
-        "duelsWon": 38,
-        "boxTouches": 24,
+        "possession": 51,
+        "xg": 0.9,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 358,
+        "duelsWon": 40,
+        "boxTouches": 26,
         "fouls": 8,
         "corners": 2,
         "offsides": 0,
@@ -461,6 +461,13 @@
           "teamId": "498",
           "playerName": "Bernardo Fontes",
           "ownGoal": true
+        },
+        {
+          "minute": "82'",
+          "type": "goal",
+          "teamId": "498",
+          "playerName": "Rodrigo Zalazar",
+          "assist": "Geny Catamo"
         }
       ]
     },
