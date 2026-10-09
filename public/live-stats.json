@@ -416,12 +416,12 @@
     "567326": {
       "home": {
         "possession": 49,
-        "xg": 0.98,
-        "shots": 14,
+        "xg": 1.5,
+        "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 366,
-        "duelsWon": 48,
-        "boxTouches": 33,
+        "accuratePasses": 367,
+        "duelsWon": 49,
+        "boxTouches": 35,
         "fouls": 11,
         "corners": 5,
         "offsides": 0,
@@ -432,7 +432,7 @@
         "xg": 0.95,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 390,
+        "accuratePasses": 394,
         "duelsWon": 49,
         "boxTouches": 27,
         "fouls": 10,
@@ -472,16 +472,17 @@
         {
           "minute": "89'",
           "type": "yellow-card",
-          "teamId": "498",
-          "playerName": "Flávio Gonçalves"
+          "teamId": "5613",
+          "playerName": "Sergio Barcia"
         },
         {
           "minute": "89'",
           "type": "yellow-card",
-          "teamId": "5613",
-          "playerName": "Sergio Barcia"
+          "teamId": "498",
+          "playerName": "Flávio Gonçalves"
         }
-      ]
+      ],
+      "final": true
     },
     "567327": {
       "home": {
