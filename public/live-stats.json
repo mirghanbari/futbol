@@ -3,14 +3,14 @@
     "561862": {
       "home": {
         "possession": 64,
-        "xg": 0.07,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 394,
-        "duelsWon": 24,
-        "boxTouches": 6,
+        "xg": 0.38,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 411,
+        "duelsWon": 27,
+        "boxTouches": 8,
         "fouls": 6,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
         "saves": 2
       },
@@ -19,8 +19,8 @@
         "xg": 1.15,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 205,
-        "duelsWon": 27,
+        "accuratePasses": 216,
+        "duelsWon": 29,
         "boxTouches": 8,
         "fouls": 7,
         "corners": 0,
@@ -64,6 +64,12 @@
           "type": "yellow-card",
           "teamId": "69",
           "playerName": "Glen Kamara"
+        },
+        {
+          "minute": "70'",
+          "type": "goal",
+          "teamId": "563",
+          "playerName": "Jarrod Bowen"
         }
       ]
     }
@@ -71,27 +77,27 @@
   "PD": {
     "564706": {
       "home": {
-        "possession": 54,
-        "xg": 0.3,
-        "shots": 8,
+        "possession": 57,
+        "xg": 0.39,
+        "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 304,
-        "duelsWon": 31,
-        "boxTouches": 19,
+        "accuratePasses": 370,
+        "duelsWon": 37,
+        "boxTouches": 30,
         "fouls": 8,
-        "corners": 4,
+        "corners": 5,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 46,
+        "possession": 43,
         "xg": 0.85,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 247,
-        "duelsWon": 38,
+        "accuratePasses": 260,
+        "duelsWon": 45,
         "boxTouches": 15,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 1,
         "offsides": 1,
         "saves": 4
@@ -233,28 +239,28 @@
   "FL1": {
     "559669": {
       "home": {
-        "possession": 51,
+        "possession": 50,
         "xg": 1.37,
         "shots": 15,
         "shotsOnTarget": 7,
-        "accuratePasses": 366,
-        "duelsWon": 41,
-        "boxTouches": 28,
+        "accuratePasses": 383,
+        "duelsWon": 45,
+        "boxTouches": 29,
         "fouls": 13,
         "corners": 7,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 49,
-        "xg": 0.5,
-        "shots": 9,
-        "shotsOnTarget": 3,
-        "accuratePasses": 348,
-        "duelsWon": 35,
-        "boxTouches": 15,
+        "possession": 50,
+        "xg": 0.81,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 379,
+        "duelsWon": 38,
+        "boxTouches": 18,
         "fouls": 11,
-        "corners": 1,
+        "corners": 3,
         "offsides": 1,
         "saves": 5
       },
@@ -285,6 +291,18 @@
           "playerName": "Matthieu Udol",
           "method": "header",
           "assist": "Florian Thauvin"
+        },
+        {
+          "minute": "84'",
+          "type": "red-card",
+          "teamId": "546",
+          "playerName": "Matthieu Udol"
+        },
+        {
+          "minute": "85'",
+          "type": "goal",
+          "teamId": "523",
+          "playerName": "Khalis Merah"
         }
       ]
     }
@@ -357,27 +375,27 @@
   "PPL": {
     "567326": {
       "home": {
-        "possession": 46,
-        "xg": 0.08,
-        "shots": 3,
+        "possession": 47,
+        "xg": 0.46,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 194,
-        "duelsWon": 27,
-        "boxTouches": 14,
+        "accuratePasses": 207,
+        "duelsWon": 26,
+        "boxTouches": 18,
         "fouls": 7,
-        "corners": 1,
+        "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 54,
-        "xg": 0.22,
-        "shots": 3,
+        "possession": 53,
+        "xg": 0.56,
+        "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 222,
-        "duelsWon": 22,
-        "boxTouches": 12,
-        "fouls": 4,
+        "accuratePasses": 235,
+        "duelsWon": 24,
+        "boxTouches": 13,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 0
