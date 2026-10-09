@@ -3,12 +3,12 @@
     "561862": {
       "home": {
         "possession": 65,
-        "xg": 1.64,
+        "xg": 1.58,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 507,
-        "duelsWon": 39,
-        "boxTouches": 23,
+        "accuratePasses": 522,
+        "duelsWon": 40,
+        "boxTouches": 25,
         "fouls": 9,
         "corners": 4,
         "offsides": 2,
@@ -19,8 +19,8 @@
         "xg": 1.22,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 249,
-        "duelsWon": 42,
+        "accuratePasses": 252,
+        "duelsWon": 43,
         "boxTouches": 10,
         "fouls": 9,
         "corners": 1,
@@ -83,7 +83,8 @@
           "teamId": "69",
           "playerName": "Richard Kone"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PD": {
@@ -414,12 +415,12 @@
   "PPL": {
     "567326": {
       "home": {
-        "possession": 44,
+        "possession": 47,
         "xg": 0.94,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 260,
-        "duelsWon": 34,
+        "accuratePasses": 309,
+        "duelsWon": 38,
         "boxTouches": 21,
         "fouls": 9,
         "corners": 3,
@@ -427,15 +428,15 @@
         "saves": 1
       },
       "away": {
-        "possession": 56,
-        "xg": 0.74,
-        "shots": 5,
+        "possession": 53,
+        "xg": 0.78,
+        "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 345,
-        "duelsWon": 36,
-        "boxTouches": 20,
+        "accuratePasses": 352,
+        "duelsWon": 38,
+        "boxTouches": 24,
         "fouls": 8,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 1
       },
