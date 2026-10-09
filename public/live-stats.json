@@ -2,27 +2,27 @@
   "ELC": {
     "561862": {
       "home": {
-        "possession": 63,
+        "possession": 62,
         "xg": 0.07,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 206,
-        "duelsWon": 13,
+        "accuratePasses": 242,
+        "duelsWon": 14,
         "boxTouches": 2,
         "fouls": 3,
-        "corners": 0,
+        "corners": 1,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 37,
-        "xg": 0.85,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 116,
-        "duelsWon": 12,
+        "possession": 38,
+        "xg": 1.01,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 141,
+        "duelsWon": 15,
         "boxTouches": 4,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -53,30 +53,30 @@
   "PD": {
     "564706": {
       "home": {
-        "possession": 55,
-        "xg": 0.18,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 165,
-        "duelsWon": 16,
-        "boxTouches": 8,
-        "fouls": 3,
+        "possession": 57,
+        "xg": 0.21,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 213,
+        "duelsWon": 21,
+        "boxTouches": 9,
+        "fouls": 5,
         "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 45,
+        "possession": 43,
         "xg": 0.62,
         "shots": 4,
         "shotsOnTarget": 3,
-        "accuratePasses": 132,
-        "duelsWon": 21,
-        "boxTouches": 11,
-        "fouls": 6,
+        "accuratePasses": 148,
+        "duelsWon": 26,
+        "boxTouches": 12,
+        "fouls": 8,
         "corners": 1,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -103,6 +103,12 @@
           "type": "yellow-card",
           "teamId": "84",
           "playerName": "Carlos Puga"
+        },
+        {
+          "minute": "41'",
+          "type": "yellow-card",
+          "teamId": "84",
+          "playerName": "Chupe"
         }
       ]
     }
@@ -110,30 +116,30 @@
   "BL1": {
     "565820": {
       "home": {
-        "possession": 73,
-        "xg": 0.53,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 417,
-        "duelsWon": 18,
-        "boxTouches": 19,
+        "possession": 74,
+        "xg": 0.65,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 464,
+        "duelsWon": 20,
+        "boxTouches": 22,
         "fouls": 3,
-        "corners": 3,
-        "offsides": 1,
+        "corners": 4,
+        "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 27,
+        "possession": 26,
         "xg": 0.11,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 127,
-        "duelsWon": 16,
+        "accuratePasses": 133,
+        "duelsWon": 17,
         "boxTouches": 2,
         "fouls": 5,
         "corners": 1,
         "offsides": 2,
-        "saves": 2
+        "saves": 4
       }
     }
   },
@@ -185,26 +191,26 @@
   "DED": {
     "558881": {
       "home": {
-        "possession": 55,
-        "xg": 1.22,
-        "shots": 11,
+        "possession": 54,
+        "xg": 1.23,
+        "shots": 12,
         "shotsOnTarget": 2,
-        "accuratePasses": 368,
-        "duelsWon": 30,
+        "accuratePasses": 387,
+        "duelsWon": 29,
         "boxTouches": 23,
-        "fouls": 16,
+        "fouls": 19,
         "corners": 4,
         "offsides": 0,
         "saves": 5
       },
       "away": {
-        "possession": 45,
-        "xg": 1.47,
-        "shots": 11,
+        "possession": 46,
+        "xg": 1.56,
+        "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 290,
-        "duelsWon": 34,
-        "boxTouches": 16,
+        "accuratePasses": 326,
+        "duelsWon": 38,
+        "boxTouches": 17,
         "fouls": 8,
         "corners": 6,
         "offsides": 0,
@@ -249,57 +255,58 @@
   "PPL": {
     "567326": {
       "home": {
-        "possession": 45,
+        "possession": 43,
         "xg": 0.06,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 64,
-        "duelsWon": 8,
+        "accuratePasses": 69,
+        "duelsWon": 10,
         "boxTouches": 7,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 55,
-        "xg": 0.05,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 80,
-        "duelsWon": 5,
+        "possession": 57,
+        "xg": 0.13,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 93,
+        "duelsWon": 8,
+        "boxTouches": 1,
         "fouls": 2,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       }
     },
     "567327": {
       "home": {
-        "possession": 37,
-        "xg": 0.98,
-        "shots": 11,
-        "shotsOnTarget": 1,
-        "accuratePasses": 251,
-        "duelsWon": 56,
-        "boxTouches": 13,
+        "possession": 38,
+        "xg": 1.09,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 262,
+        "duelsWon": 58,
+        "boxTouches": 16,
         "fouls": 12,
         "corners": 4,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 63,
+        "possession": 62,
         "xg": 1.49,
         "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 462,
-        "duelsWon": 34,
+        "accuratePasses": 470,
+        "duelsWon": 36,
         "boxTouches": 19,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 3,
         "offsides": 2,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -339,16 +346,17 @@
           "playerName": "Gilberto Batista"
         },
         {
-          "minute": "90'+1'",
-          "type": "goal",
-          "teamId": "5533",
-          "playerName": "<TBD>"
-        },
-        {
-          "minute": "90'+2'",
+          "minute": "88'",
           "type": "yellow-card",
           "teamId": "583",
           "playerName": "Maracás"
+        },
+        {
+          "minute": "90'",
+          "type": "goal",
+          "teamId": "5533",
+          "playerName": "Walace França",
+          "penalty": true
         }
       ]
     }
