@@ -415,30 +415,30 @@
   "PPL": {
     "567326": {
       "home": {
-        "possession": 48,
+        "possession": 49,
         "xg": 0.98,
-        "shots": 12,
-        "shotsOnTarget": 2,
-        "accuratePasses": 352,
-        "duelsWon": 45,
-        "boxTouches": 31,
-        "fouls": 10,
-        "corners": 3,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 366,
+        "duelsWon": 48,
+        "boxTouches": 33,
+        "fouls": 11,
+        "corners": 5,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 52,
+        "possession": 51,
         "xg": 0.95,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 383,
-        "duelsWon": 45,
+        "accuratePasses": 390,
+        "duelsWon": 49,
         "boxTouches": 27,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 2,
-        "offsides": 1,
-        "saves": 1
+        "offsides": 2,
+        "saves": 3
       },
       "events": [
         {
@@ -468,6 +468,18 @@
           "teamId": "498",
           "playerName": "Rodrigo Zalazar",
           "assist": "Geny Catamo"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "498",
+          "playerName": "Flávio Gonçalves"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "5613",
+          "playerName": "Sergio Barcia"
         }
       ]
     },
