@@ -2,30 +2,30 @@
   "ELC": {
     "561862": {
       "home": {
-        "possession": 64,
-        "xg": 0.5,
-        "shots": 9,
-        "shotsOnTarget": 3,
-        "accuratePasses": 474,
-        "duelsWon": 35,
-        "boxTouches": 19,
+        "possession": 65,
+        "xg": 1.64,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 507,
+        "duelsWon": 39,
+        "boxTouches": 23,
         "fouls": 9,
         "corners": 4,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 36,
+        "possession": 35,
         "xg": 1.22,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 246,
-        "duelsWon": 39,
+        "accuratePasses": 249,
+        "duelsWon": 42,
         "boxTouches": 10,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 1,
         "offsides": 1,
-        "saves": 2
+        "saves": 4
       },
       "events": [
         {
@@ -70,6 +70,18 @@
           "type": "goal",
           "teamId": "563",
           "playerName": "Jarrod Bowen"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "69",
+          "playerName": "Amadou Salif Mbengue"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "69",
+          "playerName": "Richard Kone"
         }
       ]
     }
@@ -77,27 +89,27 @@
   "PD": {
     "564706": {
       "home": {
-        "possession": 59,
-        "xg": 0.55,
-        "shots": 14,
-        "shotsOnTarget": 6,
-        "accuratePasses": 420,
-        "duelsWon": 47,
-        "boxTouches": 34,
-        "fouls": 9,
+        "possession": 58,
+        "xg": 0.59,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 428,
+        "duelsWon": 51,
+        "boxTouches": 35,
+        "fouls": 10,
         "corners": 8,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 41,
+        "possession": 42,
         "xg": 0.99,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 272,
-        "duelsWon": 49,
+        "accuratePasses": 278,
+        "duelsWon": 52,
         "boxTouches": 16,
-        "fouls": 13,
+        "fouls": 15,
         "corners": 2,
         "offsides": 1,
         "saves": 6
@@ -119,14 +131,14 @@
         {
           "minute": "28'",
           "type": "yellow-card",
-          "teamId": "80",
-          "playerName": "Bryan Zaragoza"
+          "teamId": "84",
+          "playerName": "Carlos Puga"
         },
         {
           "minute": "28'",
           "type": "yellow-card",
-          "teamId": "84",
-          "playerName": "Carlos Puga"
+          "teamId": "80",
+          "playerName": "Bryan Zaragoza"
         },
         {
           "minute": "41'",
@@ -163,8 +175,16 @@
           "type": "yellow-card",
           "teamId": "84",
           "playerName": "Adam Aznou"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "goal",
+          "teamId": "84",
+          "playerName": "Adrián Nino",
+          "assist": "Rafita"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
@@ -394,12 +414,12 @@
   "PPL": {
     "567326": {
       "home": {
-        "possession": 43,
+        "possession": 44,
         "xg": 0.94,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 241,
-        "duelsWon": 31,
+        "accuratePasses": 260,
+        "duelsWon": 34,
         "boxTouches": 21,
         "fouls": 9,
         "corners": 3,
@@ -407,14 +427,14 @@
         "saves": 1
       },
       "away": {
-        "possession": 57,
-        "xg": 0.62,
+        "possession": 56,
+        "xg": 0.74,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 330,
-        "duelsWon": 33,
-        "boxTouches": 19,
-        "fouls": 7,
+        "accuratePasses": 345,
+        "duelsWon": 36,
+        "boxTouches": 20,
+        "fouls": 8,
         "corners": 1,
         "offsides": 0,
         "saves": 1
@@ -433,6 +453,13 @@
           "teamId": "498",
           "playerName": "Luis Suárez",
           "assist": "Nestory Irankunda"
+        },
+        {
+          "minute": "71'",
+          "type": "goal",
+          "teamId": "498",
+          "playerName": "Bernardo Fontes",
+          "ownGoal": true
         }
       ]
     },
