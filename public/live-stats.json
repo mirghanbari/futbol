@@ -1,26 +1,78 @@
 {
+  "ELC": {
+    "561862": {
+      "home": {
+        "possession": 19,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 5,
+        "duelsWon": 0,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 81,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 32,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    }
+  },
+  "PD": {
+    "564706": {
+      "home": {
+        "possession": 28,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 6,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 72,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 16,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    }
+  },
   "BL1": {
     "565820": {
       "home": {
-        "possession": 72,
+        "possession": 74,
         "xg": 0.02,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 260,
-        "duelsWon": 11,
-        "boxTouches": 5,
+        "accuratePasses": 321,
+        "duelsWon": 12,
+        "boxTouches": 12,
         "fouls": 2,
         "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 28,
+        "possession": 26,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 81,
-        "duelsWon": 5,
+        "accuratePasses": 88,
+        "duelsWon": 7,
         "fouls": 4,
         "corners": 0,
         "offsides": 1,
@@ -31,26 +83,26 @@
   "FL1": {
     "559669": {
       "home": {
-        "possession": 68,
+        "possession": 65,
         "xg": 0.15,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 105,
-        "duelsWon": 8,
+        "accuratePasses": 125,
+        "duelsWon": 9,
         "boxTouches": 4,
-        "fouls": 0,
+        "fouls": 2,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 32,
+        "possession": 35,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 48,
-        "duelsWon": 4,
-        "fouls": 1,
+        "accuratePasses": 65,
+        "duelsWon": 8,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -105,28 +157,28 @@
   "PPL": {
     "567327": {
       "home": {
-        "possession": 37,
-        "xg": 0.41,
-        "shots": 6,
+        "possession": 38,
+        "xg": 0.47,
+        "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 155,
-        "duelsWon": 40,
-        "boxTouches": 7,
+        "accuratePasses": 175,
+        "duelsWon": 43,
+        "boxTouches": 9,
         "fouls": 6,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 63,
-        "xg": 0.34,
-        "shots": 5,
+        "possession": 62,
+        "xg": 0.36,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 297,
+        "accuratePasses": 312,
         "duelsWon": 22,
-        "boxTouches": 10,
-        "fouls": 9,
-        "corners": 2,
+        "boxTouches": 11,
+        "fouls": 10,
+        "corners": 3,
         "offsides": 1,
         "saves": 1
       },
@@ -136,6 +188,12 @@
           "type": "yellow-card",
           "teamId": "5533",
           "playerName": "Ricardo Esgaio"
+        },
+        {
+          "minute": "56'",
+          "type": "yellow-card",
+          "teamId": "5533",
+          "playerName": "Andreas Lausen"
         }
       ]
     }
