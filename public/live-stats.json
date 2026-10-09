@@ -19,7 +19,7 @@
         "xg": 1.01,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 168,
+        "accuratePasses": 167,
         "duelsWon": 17,
         "boxTouches": 4,
         "fouls": 4,
@@ -53,26 +53,26 @@
   "PD": {
     "564706": {
       "home": {
-        "possession": 55,
+        "possession": 56,
         "xg": 0.21,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 214,
-        "duelsWon": 22,
-        "boxTouches": 9,
-        "fouls": 5,
+        "accuratePasses": 235,
+        "duelsWon": 23,
+        "boxTouches": 10,
+        "fouls": 6,
         "corners": 3,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 45,
-        "xg": 0.66,
-        "shots": 5,
+        "possession": 44,
+        "xg": 0.74,
+        "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 167,
-        "duelsWon": 27,
-        "boxTouches": 12,
+        "accuratePasses": 173,
+        "duelsWon": 28,
+        "boxTouches": 13,
         "fouls": 8,
         "corners": 1,
         "offsides": 0,
@@ -116,29 +116,29 @@
   "BL1": {
     "565820": {
       "home": {
-        "possession": 76,
+        "possession": 75,
         "xg": 1.7,
         "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 579,
-        "duelsWon": 28,
-        "boxTouches": 34,
-        "fouls": 5,
+        "accuratePasses": 618,
+        "duelsWon": 29,
+        "boxTouches": 39,
+        "fouls": 7,
         "corners": 7,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 24,
+        "possession": 25,
         "xg": 0.3,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 146,
-        "duelsWon": 26,
-        "boxTouches": 3,
+        "accuratePasses": 163,
+        "duelsWon": 31,
+        "boxTouches": 5,
         "fouls": 7,
         "corners": 2,
-        "offsides": 2,
+        "offsides": 4,
         "saves": 6
       }
     }
@@ -146,25 +146,25 @@
   "FL1": {
     "559669": {
       "home": {
-        "possession": 58,
-        "xg": 1.05,
-        "shots": 11,
+        "possession": 57,
+        "xg": 1.11,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 278,
-        "duelsWon": 30,
+        "accuratePasses": 288,
+        "duelsWon": 32,
         "boxTouches": 23,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 6,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 42,
+        "possession": 43,
         "xg": 0.13,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 199,
-        "duelsWon": 26,
+        "accuratePasses": 217,
+        "duelsWon": 29,
         "boxTouches": 7,
         "fouls": 8,
         "corners": 1,
@@ -262,12 +262,12 @@
   "PPL": {
     "567326": {
       "home": {
-        "possession": 52,
-        "xg": 0.06,
+        "possession": 49,
+        "xg": 0.08,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 180,
-        "duelsWon": 21,
+        "accuratePasses": 183,
+        "duelsWon": 22,
         "boxTouches": 12,
         "fouls": 7,
         "corners": 1,
@@ -275,13 +275,13 @@
         "saves": 1
       },
       "away": {
-        "possession": 48,
+        "possession": 51,
         "xg": 0.22,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 156,
-        "duelsWon": 19,
-        "boxTouches": 9,
+        "accuratePasses": 183,
+        "duelsWon": 22,
+        "boxTouches": 10,
         "fouls": 4,
         "corners": 1,
         "offsides": 0,
@@ -292,7 +292,8 @@
           "minute": "41'",
           "type": "goal",
           "teamId": "5613",
-          "playerName": "<TBD>"
+          "playerName": "Rui Silva",
+          "ownGoal": true
         }
       ]
     },
