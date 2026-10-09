@@ -2133,7 +2133,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
+    "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "559666",
@@ -2187,7 +2193,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Parc des Princes, Paris"
+    "venue": "Parc des Princes, Paris",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "559673",
@@ -2223,7 +2235,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Allianz Riviera, Nice"
+    "venue": "Allianz Riviera, Nice",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "559667",
@@ -2241,7 +2259,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Roazhon Park, Rennes"
+    "venue": "Roazhon Park, Rennes",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "559671",
@@ -2259,7 +2283,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade de l'Aube, Paris"
+    "venue": "Stade de l'Aube, Paris",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "559661",

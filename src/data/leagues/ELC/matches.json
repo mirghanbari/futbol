@@ -4755,7 +4755,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "London Stadium, London"
+    "venue": "London Stadium, London",
+    "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561857",
@@ -4773,7 +4783,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "The Hawthorns, West Bromwich"
+    "venue": "The Hawthorns, West Bromwich",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561860",
@@ -4791,7 +4807,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Swansea.com Stadium, Swansea"
+    "venue": "Swansea.com Stadium, Swansea",
+    "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561863",
@@ -4809,7 +4835,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "The Valley, London"
+    "venue": "The Valley, London",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561858",
@@ -4827,7 +4859,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Bramall Lane, Sheffield"
+    "venue": "Bramall Lane, Sheffield",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561861",
@@ -4845,7 +4883,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Vicarage Road, Watford"
+    "venue": "Vicarage Road, Watford",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561864",
@@ -4863,7 +4907,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Pride Park, Derby"
+    "venue": "Pride Park, Derby",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561865",
@@ -4881,7 +4931,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Ewood Park, Blackburn"
+    "venue": "Ewood Park, Blackburn",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561866",
@@ -4899,7 +4955,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Manchester",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561867",
@@ -4917,7 +4979,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Deepdale, Preston"
+    "venue": "Deepdale, Preston",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561868",
@@ -4935,7 +5003,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Riverside Stadium, Middlesbrough"
+    "venue": "Riverside Stadium, Middlesbrough",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561859",
@@ -4953,7 +5027,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "St. Mary's Stadium, Southampton"
+    "venue": "St. Mary's Stadium, Southampton",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561869",
@@ -4971,7 +5051,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Molineux Stadium, Wolverhampton"
+    "venue": "Molineux Stadium, Wolverhampton",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561870",
@@ -4989,7 +5075,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "STōK Cae Ras, Wrexham"
+    "venue": "STōK Cae Ras, Wrexham",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561871",
@@ -5007,7 +5099,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "The Den, London"
+    "venue": "The Den, London",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561872",
@@ -5025,7 +5123,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Cardiff City Stadium, Cardiff"
+    "venue": "Cardiff City Stadium, Cardiff",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561873",
@@ -5043,7 +5147,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Turf Moor, Burnley"
+    "venue": "Turf Moor, Burnley",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561874",
@@ -5061,7 +5171,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Ashton Gate, Bristol"
+    "venue": "Ashton Gate, Bristol",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561875",
@@ -5079,7 +5195,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "St. Andrew's Stadium, Birmingham"
+    "venue": "St. Andrew's Stadium, Birmingham",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561876",
@@ -5097,7 +5219,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "bet365 Stadium, Stoke-on-Trent"
+    "venue": "bet365 Stadium, Stoke-on-Trent",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561877",
@@ -5115,7 +5243,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Fratton Park, Portsmouth"
+    "venue": "Fratton Park, Portsmouth",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561879",
@@ -5133,7 +5267,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Carrow Road, Norwich"
+    "venue": "Carrow Road, Norwich",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561880",
@@ -5151,7 +5291,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "MATRADE Loftus Road, London"
+    "venue": "MATRADE Loftus Road, London",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561878",
@@ -5169,7 +5315,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "LNER Stadium, Lincoln"
+    "venue": "LNER Stadium, Lincoln",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "561883",
