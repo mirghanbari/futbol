@@ -1,31 +1,65 @@
 {
-  "PPL": {
-    "567327": {
+  "DED": {
+    "558881": {
       "home": {
-        "possession": 27,
-        "xg": 0,
+        "possession": 46,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 26,
-        "duelsWon": 8,
+        "accuratePasses": 8,
+        "duelsWon": 0,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 73,
-        "xg": 0.06,
-        "shots": 1,
+        "possession": 54,
+        "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 71,
-        "duelsWon": 5,
-        "boxTouches": 2,
-        "fouls": 3,
-        "corners": 1,
+        "accuratePasses": 12,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
         "offsides": 0,
         "saves": 0
       }
+    }
+  },
+  "PPL": {
+    "567327": {
+      "home": {
+        "possession": 34,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 54,
+        "duelsWon": 11,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 66,
+        "xg": 0.1,
+        "shots": 2,
+        "shotsOnTarget": 0,
+        "accuratePasses": 102,
+        "duelsWon": 7,
+        "boxTouches": 2,
+        "fouls": 4,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "17'",
+          "type": "yellow-card",
+          "teamId": "5533",
+          "playerName": "Ricardo Esgaio"
+        }
+      ]
     }
   }
 }
