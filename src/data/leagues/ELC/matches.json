@@ -4746,14 +4746,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-09T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "563",
     "awayTeamId": "69",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 65,
+        "xg": 1.58,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 525,
+        "duelsWon": 40,
+        "boxTouches": 25,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 35,
+        "xg": 1.22,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 255,
+        "duelsWon": 43,
+        "boxTouches": 10,
+        "fouls": 9,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "London Stadium, London",
     "broadcasts": [

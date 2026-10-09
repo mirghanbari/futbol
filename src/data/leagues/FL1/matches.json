@@ -2106,14 +2106,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-09T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "546",
     "awayTeamId": "523",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 1.37,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 385,
+        "duelsWon": 46,
+        "boxTouches": 29,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 52,
+        "xg": 0.99,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 412,
+        "duelsWon": 39,
+        "boxTouches": 23,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Stade Bollaert-Delelis, Lens"
   },

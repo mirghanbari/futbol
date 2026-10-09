@@ -56,14 +56,6 @@
     "competitionId": "PD"
   },
   {
-    "id": "80",
-    "name": "RCD Espanyol de Barcelona",
-    "shortName": "Espanyol",
-    "tla": "ESP",
-    "crest": "https://crests.football-data.org/80.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "92",
     "name": "Real Sociedad de Fútbol",
     "shortName": "Real Sociedad",
@@ -85,6 +77,14 @@
     "shortName": "Athletic",
     "tla": "ATH",
     "crest": "https://crests.football-data.org/77.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "80",
+    "name": "RCD Espanyol de Barcelona",
+    "shortName": "Espanyol",
+    "tla": "ESP",
+    "crest": "https://crests.football-data.org/80.png",
     "competitionId": "PD"
   },
   {
@@ -144,19 +144,19 @@
     "competitionId": "PD"
   },
   {
-    "id": "95",
-    "name": "Valencia CF",
-    "shortName": "Valencia",
-    "tla": "VAL",
-    "crest": "https://crests.football-data.org/95.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "84",
     "name": "Málaga CF",
     "shortName": "Málaga",
     "tla": "MAL",
     "crest": "https://crests.football-data.org/84.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "95",
+    "name": "Valencia CF",
+    "shortName": "Valencia",
+    "tla": "VAL",
+    "crest": "https://crests.football-data.org/95.png",
     "competitionId": "PD"
   }
 ]
