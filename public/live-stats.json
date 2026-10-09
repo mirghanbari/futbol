@@ -2,10 +2,10 @@
   "ELC": {
     "561862": {
       "home": {
-        "possession": 19,
+        "possession": 51,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 5,
+        "accuratePasses": 35,
         "duelsWon": 0,
         "fouls": 1,
         "corners": 0,
@@ -13,7 +13,7 @@
         "saves": 0
       },
       "away": {
-        "possession": 81,
+        "possession": 49,
         "shots": 0,
         "shotsOnTarget": 0,
         "accuratePasses": 32,
@@ -28,23 +28,24 @@
   "PD": {
     "564706": {
       "home": {
-        "possession": 28,
+        "possession": 39,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 6,
-        "duelsWon": 0,
+        "accuratePasses": 25,
+        "duelsWon": 2,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 72,
+        "possession": 61,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 16,
-        "duelsWon": 0,
-        "fouls": 0,
+        "accuratePasses": 39,
+        "duelsWon": 1,
+        "boxTouches": 1,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -54,27 +55,28 @@
   "BL1": {
     "565820": {
       "home": {
-        "possession": 74,
-        "xg": 0.02,
-        "shots": 2,
+        "possession": 73,
+        "xg": 0.09,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 321,
-        "duelsWon": 12,
-        "boxTouches": 12,
+        "accuratePasses": 336,
+        "duelsWon": 14,
+        "boxTouches": 11,
         "fouls": 2,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 26,
-        "xg": 0,
-        "shots": 0,
+        "possession": 27,
+        "xg": 0.11,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 88,
-        "duelsWon": 7,
-        "fouls": 4,
-        "corners": 0,
+        "accuratePasses": 104,
+        "duelsWon": 9,
+        "boxTouches": 2,
+        "fouls": 5,
+        "corners": 1,
         "offsides": 1,
         "saves": 0
       }
@@ -83,56 +85,64 @@
   "FL1": {
     "559669": {
       "home": {
-        "possession": 65,
+        "possession": 57,
         "xg": 0.15,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 125,
-        "duelsWon": 9,
+        "accuratePasses": 137,
+        "duelsWon": 11,
         "boxTouches": 4,
-        "fouls": 2,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 35,
-        "xg": 0,
+        "possession": 43,
+        "xg": 0.05,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 65,
-        "duelsWon": 8,
-        "fouls": 2,
+        "accuratePasses": 101,
+        "duelsWon": 12,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 1
-      }
+      },
+      "events": [
+        {
+          "minute": "23'",
+          "type": "yellow-card",
+          "teamId": "523",
+          "playerName": "Abner"
+        }
+      ]
     }
   },
   "DED": {
     "558881": {
       "home": {
-        "possession": 61,
+        "possession": 59,
         "xg": 1.19,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 265,
-        "duelsWon": 16,
+        "accuratePasses": 269,
+        "duelsWon": 17,
         "boxTouches": 16,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 2,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 39,
+        "possession": 41,
         "xg": 1.29,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 161,
-        "duelsWon": 17,
+        "accuratePasses": 175,
+        "duelsWon": 19,
         "boxTouches": 10,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 4,
         "offsides": 0,
         "saves": 0
@@ -157,25 +167,25 @@
   "PPL": {
     "567327": {
       "home": {
-        "possession": 38,
-        "xg": 0.47,
-        "shots": 9,
+        "possession": 37,
+        "xg": 0.66,
+        "shots": 10,
         "shotsOnTarget": 1,
-        "accuratePasses": 175,
-        "duelsWon": 43,
-        "boxTouches": 9,
-        "fouls": 6,
-        "corners": 3,
+        "accuratePasses": 188,
+        "duelsWon": 46,
+        "boxTouches": 10,
+        "fouls": 7,
+        "corners": 4,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 62,
+        "possession": 63,
         "xg": 0.36,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 312,
-        "duelsWon": 22,
+        "accuratePasses": 340,
+        "duelsWon": 24,
         "boxTouches": 11,
         "fouls": 10,
         "corners": 3,
@@ -194,6 +204,12 @@
           "type": "yellow-card",
           "teamId": "5533",
           "playerName": "Andreas Lausen"
+        },
+        {
+          "minute": "60'",
+          "type": "yellow-card",
+          "teamId": "583",
+          "playerName": "Manuel Mendonça"
         }
       ]
     }
