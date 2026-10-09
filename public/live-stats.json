@@ -2,12 +2,12 @@
   "ELC": {
     "561862": {
       "home": {
-        "possession": 56,
+        "possession": 55,
         "xg": 0.06,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 113,
-        "duelsWon": 5,
+        "accuratePasses": 123,
+        "duelsWon": 6,
         "boxTouches": 2,
         "fouls": 2,
         "corners": 0,
@@ -15,13 +15,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 44,
-        "xg": 0.79,
-        "shots": 1,
+        "possession": 45,
+        "xg": 0.85,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 86,
-        "duelsWon": 5,
-        "boxTouches": 2,
+        "accuratePasses": 101,
+        "duelsWon": 7,
+        "boxTouches": 4,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
@@ -40,6 +40,12 @@
           "teamId": "69",
           "playerName": "Nicolas Madsen",
           "penalty": true
+        },
+        {
+          "minute": "24'",
+          "type": "yellow-card",
+          "teamId": "69",
+          "playerName": "Boy Kemper"
         }
       ]
     }
@@ -51,24 +57,24 @@
         "xg": 0.15,
         "shots": 2,
         "shotsOnTarget": 2,
-        "accuratePasses": 103,
-        "duelsWon": 8,
+        "accuratePasses": 120,
+        "duelsWon": 10,
         "boxTouches": 5,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
         "possession": 50,
-        "xg": 0.12,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 94,
-        "duelsWon": 12,
-        "boxTouches": 4,
-        "fouls": 2,
-        "corners": 0,
+        "xg": 0.62,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 110,
+        "duelsWon": 16,
+        "boxTouches": 11,
+        "fouls": 3,
+        "corners": 1,
         "offsides": 0,
         "saves": 2
       },
@@ -79,6 +85,12 @@
           "teamId": "80",
           "playerName": "Bryan Zaragoza",
           "assist": "Javi Hernández"
+        },
+        {
+          "minute": "24'",
+          "type": "yellow-card",
+          "teamId": "80",
+          "playerName": "Javi Hernández"
         }
       ]
     }
@@ -90,8 +102,8 @@
         "xg": 0.51,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 397,
-        "duelsWon": 17,
+        "accuratePasses": 398,
+        "duelsWon": 18,
         "boxTouches": 19,
         "fouls": 3,
         "corners": 3,
@@ -116,26 +128,26 @@
   "FL1": {
     "559669": {
       "home": {
-        "possession": 64,
-        "xg": 0.32,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 216,
-        "duelsWon": 20,
-        "boxTouches": 15,
-        "fouls": 7,
+        "possession": 61,
+        "xg": 0.65,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 221,
+        "duelsWon": 23,
+        "boxTouches": 17,
+        "fouls": 8,
         "corners": 4,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 36,
-        "xg": 0.02,
-        "shots": 1,
+        "possession": 39,
+        "xg": 0.04,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 119,
-        "duelsWon": 17,
-        "boxTouches": 1,
+        "accuratePasses": 140,
+        "duelsWon": 19,
+        "boxTouches": 3,
         "fouls": 6,
         "corners": 0,
         "offsides": 0,
@@ -147,6 +159,13 @@
           "type": "yellow-card",
           "teamId": "523",
           "playerName": "Abner"
+        },
+        {
+          "minute": "37'",
+          "type": "goal",
+          "teamId": "546",
+          "playerName": "Florian Sotoca",
+          "assist": "Florian Thauvin"
         }
       ]
     }
@@ -154,25 +173,25 @@
   "DED": {
     "558881": {
       "home": {
-        "possession": 57,
+        "possession": 55,
         "xg": 1.19,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 309,
-        "duelsWon": 24,
+        "accuratePasses": 316,
+        "duelsWon": 25,
         "boxTouches": 20,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 3,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 43,
+        "possession": 45,
         "xg": 1.41,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 220,
-        "duelsWon": 25,
+        "accuratePasses": 254,
+        "duelsWon": 28,
         "boxTouches": 16,
         "fouls": 5,
         "corners": 6,
@@ -192,6 +211,12 @@
           "type": "yellow-card",
           "teamId": "674",
           "playerName": "Armando Obispo"
+        },
+        {
+          "minute": "60'",
+          "type": "yellow-card",
+          "teamId": "673",
+          "playerName": "Marcus Linday"
         }
       ]
     }
@@ -199,23 +224,24 @@
   "PPL": {
     "567326": {
       "home": {
-        "possession": 90,
+        "possession": 40,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 8,
-        "duelsWon": 0,
-        "fouls": 0,
+        "accuratePasses": 20,
+        "duelsWon": 4,
+        "boxTouches": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 10,
+        "possession": 60,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 1,
-        "duelsWon": 0,
-        "fouls": 0,
+        "accuratePasses": 33,
+        "duelsWon": 3,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -223,12 +249,12 @@
     },
     "567327": {
       "home": {
-        "possession": 39,
+        "possession": 38,
         "xg": 0.66,
         "shots": 10,
         "shotsOnTarget": 1,
-        "accuratePasses": 237,
-        "duelsWon": 51,
+        "accuratePasses": 242,
+        "duelsWon": 53,
         "boxTouches": 12,
         "fouls": 9,
         "corners": 4,
@@ -236,11 +262,11 @@
         "saves": 1
       },
       "away": {
-        "possession": 61,
-        "xg": 0.36,
-        "shots": 6,
+        "possession": 62,
+        "xg": 0.48,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 397,
+        "accuratePasses": 422,
         "duelsWon": 30,
         "boxTouches": 11,
         "fouls": 12,
@@ -278,6 +304,12 @@
           "type": "yellow-card",
           "teamId": "5533",
           "playerName": "Mohamed Kaba"
+        },
+        {
+          "minute": "75'",
+          "type": "yellow-card",
+          "teamId": "583",
+          "playerName": "Gilberto Batista"
         }
       ]
     }
