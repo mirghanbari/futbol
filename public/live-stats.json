@@ -324,26 +324,26 @@
     },
     "560600": {
       "home": {
-        "possession": 50,
-        "xg": 0.53,
-        "shots": 9,
+        "possession": 49,
+        "xg": 0.72,
+        "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 350,
-        "duelsWon": 52,
-        "boxTouches": 19,
+        "accuratePasses": 362,
+        "duelsWon": 54,
+        "boxTouches": 21,
         "fouls": 11,
         "corners": 4,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 50,
-        "xg": 1.33,
-        "shots": 11,
-        "shotsOnTarget": 2,
-        "accuratePasses": 351,
-        "duelsWon": 41,
-        "boxTouches": 27,
+        "possession": 51,
+        "xg": 1.56,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 369,
+        "duelsWon": 43,
+        "boxTouches": 32,
         "fouls": 15,
         "corners": 4,
         "offsides": 2,
@@ -392,6 +392,14 @@
           "type": "yellow-card",
           "teamId": "66",
           "playerName": "Lisandro Martínez"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "goal",
+          "teamId": "73",
+          "playerName": "Dominic Solanke",
+          "method": "header",
+          "assist": "Sandro Tonali"
         }
       ]
     },
@@ -1292,14 +1300,14 @@
     "564700": {
       "home": {
         "possession": 84,
-        "xg": 1.77,
-        "shots": 19,
+        "xg": 1.84,
+        "shots": 21,
         "shotsOnTarget": 8,
-        "accuratePasses": 672,
-        "duelsWon": 42,
-        "boxTouches": 24,
-        "fouls": 8,
-        "corners": 7,
+        "accuratePasses": 717,
+        "duelsWon": 48,
+        "boxTouches": 26,
+        "fouls": 9,
+        "corners": 8,
         "offsides": 1,
         "saves": 1
       },
@@ -1308,8 +1316,8 @@
         "xg": 0.1,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 78,
-        "duelsWon": 28,
+        "accuratePasses": 88,
+        "duelsWon": 29,
         "boxTouches": 3,
         "fouls": 9,
         "corners": 2,
@@ -1526,29 +1534,29 @@
     "565815": {
       "home": {
         "possession": 47,
-        "xg": 2.99,
-        "shots": 18,
-        "shotsOnTarget": 8,
-        "accuratePasses": 357,
-        "duelsWon": 52,
-        "boxTouches": 35,
+        "xg": 3.37,
+        "shots": 20,
+        "shotsOnTarget": 10,
+        "accuratePasses": 375,
+        "duelsWon": 53,
+        "boxTouches": 37,
         "fouls": 16,
         "corners": 3,
         "offsides": 1,
-        "saves": 8
+        "saves": 9
       },
       "away": {
         "possession": 53,
-        "xg": 1.28,
-        "shots": 17,
+        "xg": 1.32,
+        "shots": 18,
         "shotsOnTarget": 9,
-        "accuratePasses": 391,
-        "duelsWon": 48,
-        "boxTouches": 30,
+        "accuratePasses": 418,
+        "duelsWon": 51,
+        "boxTouches": 31,
         "fouls": 13,
         "corners": 6,
         "offsides": 2,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -1607,6 +1615,13 @@
           "type": "yellow-card",
           "teamId": "19",
           "playerName": "Raphael Onyedika"
+        },
+        {
+          "minute": "89'",
+          "type": "goal",
+          "teamId": "721",
+          "playerName": "Tidiam Gomis",
+          "assist": "Benjamin Henrichs"
         }
       ]
     },
@@ -2044,27 +2059,28 @@
   "DED": {
     "558877": {
       "home": {
-        "possession": 44,
+        "possession": 36,
         "xg": 0.32,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 39,
-        "duelsWon": 8,
-        "boxTouches": 2,
+        "accuratePasses": 46,
+        "duelsWon": 11,
+        "boxTouches": 3,
         "fouls": 0,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 56,
-        "xg": 0.02,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 49,
-        "duelsWon": 2,
-        "fouls": 6,
-        "corners": 0,
+        "possession": 64,
+        "xg": 0.06,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 83,
+        "duelsWon": 4,
+        "boxTouches": 6,
+        "fouls": 7,
+        "corners": 1,
         "offsides": 0,
         "saves": 1
       },
@@ -2085,8 +2101,8 @@
         "xg": 1.34,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 227,
-        "duelsWon": 35,
+        "accuratePasses": 238,
+        "duelsWon": 40,
         "boxTouches": 19,
         "fouls": 9,
         "corners": 6,
@@ -2095,14 +2111,14 @@
       },
       "away": {
         "possession": 57,
-        "xg": 0.41,
-        "shots": 5,
+        "xg": 0.49,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 314,
-        "duelsWon": 37,
-        "boxTouches": 13,
-        "fouls": 10,
-        "corners": 3,
+        "accuratePasses": 334,
+        "duelsWon": 42,
+        "boxTouches": 15,
+        "fouls": 12,
+        "corners": 4,
         "offsides": 3,
         "saves": 0
       },
@@ -2241,27 +2257,27 @@
   "PPL": {
     "567323": {
       "home": {
-        "possession": 43,
+        "possession": 44,
         "xg": 0.11,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 140,
-        "duelsWon": 35,
+        "accuratePasses": 164,
+        "duelsWon": 41,
         "boxTouches": 2,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 1,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 57,
-        "xg": 0.92,
-        "shots": 9,
+        "possession": 56,
+        "xg": 1.2,
+        "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 207,
-        "duelsWon": 35,
-        "boxTouches": 29,
-        "fouls": 7,
+        "accuratePasses": 225,
+        "duelsWon": 38,
+        "boxTouches": 31,
+        "fouls": 9,
         "corners": 5,
         "offsides": 0,
         "saves": 1
@@ -2285,6 +2301,12 @@
           "type": "goal",
           "teamId": "503",
           "playerName": "Victor Froholdt"
+        },
+        {
+          "minute": "57'",
+          "type": "yellow-card",
+          "teamId": "503",
+          "playerName": "Pepê"
         }
       ]
     }
