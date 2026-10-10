@@ -326,47 +326,89 @@
   "BL1": {
     "565812": {
       "home": {
-        "possession": 8,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 0,
-        "duelsWon": 1,
-        "fouls": 0,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 0
-      },
-      "away": {
-        "possession": 92,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 10,
-        "duelsWon": 0,
-        "fouls": 0,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 0
-      }
-    },
-    "565813": {
-      "home": {
-        "possession": 83,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 11,
-        "duelsWon": 0,
+        "possession": 19,
+        "xg": 0.11,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 6,
+        "duelsWon": 5,
+        "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 17,
+        "possession": 81,
+        "xg": 0.07,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 49,
+        "duelsWon": 3,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "5'",
+          "type": "goal",
+          "teamId": "3",
+          "playerName": "Robert Andrich"
+        }
+      ]
+    },
+    "565813": {
+      "home": {
+        "possession": 35,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 1,
-        "duelsWon": 3,
+        "accuratePasses": 16,
+        "duelsWon": 2,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 65,
+        "xg": 0.03,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 39,
+        "duelsWon": 4,
+        "boxTouches": 1,
         "fouls": 0,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "565817": {
+      "home": {
+        "possession": 64,
+        "xg": 0.05,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 25,
+        "duelsWon": 2,
+        "boxTouches": 5,
+        "fouls": 3,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 36,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 16,
+        "duelsWon": 4,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -374,54 +416,92 @@
     },
     "565818": {
       "home": {
-        "possession": 62,
-        "xg": 0.02,
-        "shots": 1,
+        "possession": 53,
+        "xg": 0.11,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 3,
-        "duelsWon": 0,
+        "accuratePasses": 21,
+        "duelsWon": 2,
+        "boxTouches": 2,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 38,
-        "xg": 0,
-        "shots": 0,
+        "possession": 47,
+        "xg": 0.22,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 1,
-        "duelsWon": 2,
-        "fouls": 0,
+        "accuratePasses": 16,
+        "duelsWon": 6,
+        "boxTouches": 1,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       }
+    },
+    "565819": {
+      "home": {
+        "possession": 9,
+        "xg": 0.87,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 2,
+        "duelsWon": 3,
+        "boxTouches": 2,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 91,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 33,
+        "duelsWon": 5,
+        "boxTouches": 3,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "1'",
+          "type": "goal",
+          "teamId": "16",
+          "playerName": "Robin Fellhauer"
+        }
+      ]
     }
   },
   "SA": {
     "558588": {
       "home": {
-        "possession": 48,
-        "xg": 1.3,
-        "shots": 8,
+        "possession": 52,
+        "xg": 1.35,
+        "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 95,
+        "accuratePasses": 138,
         "duelsWon": 15,
-        "boxTouches": 11,
+        "boxTouches": 13,
         "fouls": 1,
         "corners": 0,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 52,
-        "xg": 0.09,
-        "shots": 2,
+        "possession": 48,
+        "xg": 0.11,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 113,
-        "duelsWon": 13,
-        "boxTouches": 2,
+        "accuratePasses": 132,
+        "duelsWon": 17,
+        "boxTouches": 6,
         "fouls": 4,
         "corners": 0,
         "offsides": 1,
