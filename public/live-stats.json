@@ -1398,27 +1398,27 @@
     },
     "564702": {
       "home": {
-        "possession": 44,
+        "possession": 41,
         "xg": 0.25,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 49,
-        "duelsWon": 3,
-        "boxTouches": 5,
+        "accuratePasses": 71,
+        "duelsWon": 10,
+        "boxTouches": 6,
         "fouls": 1,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 56,
+        "possession": 59,
         "xg": 0.02,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 70,
-        "duelsWon": 4,
+        "accuratePasses": 119,
+        "duelsWon": 6,
         "boxTouches": 2,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -1950,30 +1950,30 @@
     },
     "558586": {
       "home": {
-        "possession": 48,
-        "xg": 1.12,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 107,
-        "duelsWon": 15,
-        "boxTouches": 11,
+        "possession": 53,
+        "xg": 1.93,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 138,
+        "duelsWon": 18,
+        "boxTouches": 20,
         "fouls": 3,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 52,
+        "possession": 47,
         "xg": 0.19,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 112,
+        "accuratePasses": 114,
         "duelsWon": 18,
         "boxTouches": 11,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 2,
         "offsides": 0,
-        "saves": 0
+        "saves": 2
       },
       "events": [
         {
@@ -1982,6 +1982,12 @@
           "teamId": "113",
           "playerName": "Kevin De Bruyne",
           "penalty": true
+        },
+        {
+          "minute": "32'",
+          "type": "goal",
+          "teamId": "113",
+          "playerName": "Noa Lang"
         }
       ]
     },
@@ -2089,12 +2095,12 @@
   "FL1": {
     "559666": {
       "home": {
-        "possession": 48,
-        "xg": 2.42,
-        "shots": 6,
+        "possession": 49,
+        "xg": 2.45,
+        "shots": 7,
         "shotsOnTarget": 5,
-        "accuratePasses": 110,
-        "duelsWon": 12,
+        "accuratePasses": 137,
+        "duelsWon": 16,
         "boxTouches": 10,
         "fouls": 2,
         "corners": 2,
@@ -2102,12 +2108,12 @@
         "saves": 1
       },
       "away": {
-        "possession": 52,
+        "possession": 51,
         "xg": 0.4,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 113,
-        "duelsWon": 11,
+        "accuratePasses": 136,
+        "duelsWon": 12,
         "boxTouches": 8,
         "fouls": 1,
         "corners": 3,
@@ -2148,56 +2154,56 @@
     },
     "559668": {
       "home": {
-        "possession": 43,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 177,
-        "duelsWon": 12,
-        "boxTouches": 2,
+        "possession": 44,
+        "xg": 0.23,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 212,
+        "duelsWon": 17,
+        "boxTouches": 8,
         "fouls": 3,
-        "corners": 0,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 57,
-        "xg": 0.1,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 242,
-        "duelsWon": 9,
-        "boxTouches": 6,
-        "fouls": 2,
+        "possession": 56,
+        "xg": 0.15,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 287,
+        "duelsWon": 11,
+        "boxTouches": 7,
+        "fouls": 3,
         "corners": 2,
         "offsides": 2,
-        "saves": 0
+        "saves": 1
       }
     },
     "559672": {
       "home": {
-        "possession": 65,
+        "possession": 67,
         "xg": 1.28,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 192,
-        "duelsWon": 12,
+        "accuratePasses": 242,
+        "duelsWon": 18,
         "boxTouches": 12,
         "fouls": 0,
         "corners": 0,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 35,
-        "xg": 0.16,
-        "shots": 3,
-        "shotsOnTarget": 0,
-        "accuratePasses": 82,
-        "duelsWon": 7,
-        "boxTouches": 3,
-        "fouls": 3,
-        "corners": 2,
+        "possession": 33,
+        "xg": 0.23,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 91,
+        "duelsWon": 10,
+        "boxTouches": 7,
+        "fouls": 6,
+        "corners": 3,
         "offsides": 2,
         "saves": 1
       },
@@ -2213,30 +2219,40 @@
     },
     "559673": {
       "home": {
-        "possession": 61,
-        "xg": 0.64,
-        "shots": 7,
-        "shotsOnTarget": 0,
-        "accuratePasses": 209,
-        "duelsWon": 17,
-        "boxTouches": 7,
+        "possession": 60,
+        "xg": 0.74,
+        "shots": 8,
+        "shotsOnTarget": 1,
+        "accuratePasses": 230,
+        "duelsWon": 20,
+        "boxTouches": 8,
         "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 39,
-        "xg": 0.06,
-        "shots": 1,
+        "possession": 40,
+        "xg": 0.08,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 128,
-        "duelsWon": 7,
-        "fouls": 3,
+        "accuratePasses": 148,
+        "duelsWon": 9,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "29'",
+          "type": "goal",
+          "teamId": "548",
+          "playerName": "Edan Diop",
+          "method": "header",
+          "assist": "Aleksandr Golovin"
+        }
+      ]
     },
     "559674": {
       "home": {
@@ -2304,30 +2320,30 @@
   "DED": {
     "558877": {
       "home": {
-        "possession": 40,
+        "possession": 41,
         "xg": 0.52,
-        "shots": 7,
-        "shotsOnTarget": 4,
-        "accuratePasses": 175,
-        "duelsWon": 33,
-        "boxTouches": 8,
-        "fouls": 5,
-        "corners": 2,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 183,
+        "duelsWon": 34,
+        "boxTouches": 9,
+        "fouls": 6,
+        "corners": 3,
         "offsides": 1,
         "saves": 4
       },
       "away": {
-        "possession": 60,
+        "possession": 59,
         "xg": 0.98,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 264,
-        "duelsWon": 23,
-        "boxTouches": 24,
-        "fouls": 13,
+        "accuratePasses": 278,
+        "duelsWon": 24,
+        "boxTouches": 25,
+        "fouls": 14,
         "corners": 6,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -2349,26 +2365,26 @@
     },
     "558878": {
       "home": {
-        "possession": 75,
+        "possession": 65,
         "xg": 0.05,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 66,
-        "duelsWon": 10,
+        "accuratePasses": 85,
+        "duelsWon": 11,
         "boxTouches": 2,
-        "fouls": 0,
-        "corners": 0,
+        "fouls": 2,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 25,
-        "xg": 0.05,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 17,
-        "duelsWon": 3,
-        "boxTouches": 1,
+        "possession": 35,
+        "xg": 0.84,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 43,
+        "duelsWon": 6,
+        "boxTouches": 6,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
@@ -2382,6 +2398,19 @@
           "playerName": "Tolu Arokodare",
           "method": "header",
           "assist": "Jorthy Mokio"
+        },
+        {
+          "minute": "18'",
+          "type": "yellow-card",
+          "teamId": "678",
+          "playerName": "Jorthy Mokio"
+        },
+        {
+          "minute": "19'",
+          "type": "goal",
+          "teamId": "1915",
+          "playerName": "Tjaronn Chery",
+          "penalty": true
         }
       ]
     },
