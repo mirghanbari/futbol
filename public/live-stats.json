@@ -1398,27 +1398,27 @@
     },
     "564702": {
       "home": {
-        "possession": 48,
+        "possession": 47,
         "xg": 0.95,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 332,
-        "duelsWon": 41,
+        "accuratePasses": 334,
+        "duelsWon": 44,
         "boxTouches": 28,
         "fouls": 8,
-        "corners": 8,
+        "corners": 9,
         "offsides": 3,
         "saves": 4
       },
       "away": {
-        "possession": 52,
-        "xg": 0.58,
+        "possession": 53,
+        "xg": 0.62,
         "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 384,
-        "duelsWon": 31,
+        "accuratePasses": 402,
+        "duelsWon": 33,
         "boxTouches": 21,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 3,
         "offsides": 1,
         "saves": 3
@@ -1478,6 +1478,12 @@
           "type": "yellow-card",
           "teamId": "86",
           "playerName": "Aurélien Tchouaméni"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "yellow-card",
+          "teamId": "86",
+          "playerName": "Kylian Mbappé"
         }
       ]
     }
@@ -2614,12 +2620,12 @@
     "558878": {
       "home": {
         "possession": 61,
-        "xg": 1.49,
-        "shots": 15,
-        "shotsOnTarget": 4,
-        "accuratePasses": 377,
-        "duelsWon": 45,
-        "boxTouches": 26,
+        "xg": 1.69,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 399,
+        "duelsWon": 54,
+        "boxTouches": 33,
         "fouls": 8,
         "corners": 4,
         "offsides": 1,
@@ -2630,13 +2636,13 @@
         "xg": 1.05,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 210,
-        "duelsWon": 39,
+        "accuratePasses": 213,
+        "duelsWon": 44,
         "boxTouches": 22,
         "fouls": 13,
         "corners": 4,
         "offsides": 5,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -2843,27 +2849,27 @@
   "PPL": {
     "567321": {
       "home": {
-        "possession": 47,
-        "xg": 0.34,
-        "shots": 2,
+        "possession": 45,
+        "xg": 0.35,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 182,
-        "duelsWon": 32,
-        "boxTouches": 7,
+        "accuratePasses": 194,
+        "duelsWon": 35,
+        "boxTouches": 8,
         "fouls": 11,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 53,
-        "xg": 0.16,
-        "shots": 4,
+        "possession": 55,
+        "xg": 0.19,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 208,
-        "duelsWon": 28,
+        "accuratePasses": 249,
+        "duelsWon": 30,
         "boxTouches": 5,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 2,
         "offsides": 1,
         "saves": 1
@@ -2889,22 +2895,22 @@
         "xg": 0.37,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 211,
+        "accuratePasses": 223,
         "duelsWon": 24,
         "boxTouches": 11,
-        "fouls": 17,
+        "fouls": 19,
         "corners": 1,
         "offsides": 1,
-        "saves": 5
+        "saves": 7
       },
       "away": {
         "possession": 52,
-        "xg": 0.92,
-        "shots": 9,
-        "shotsOnTarget": 5,
-        "accuratePasses": 238,
-        "duelsWon": 37,
-        "boxTouches": 12,
+        "xg": 1.2,
+        "shots": 12,
+        "shotsOnTarget": 8,
+        "accuratePasses": 256,
+        "duelsWon": 39,
+        "boxTouches": 16,
         "fouls": 6,
         "corners": 0,
         "offsides": 1,
@@ -2929,6 +2935,19 @@
           "type": "yellow-card",
           "teamId": "5527",
           "playerName": "Cihan Kahraman"
+        },
+        {
+          "minute": "56'",
+          "type": "goal",
+          "teamId": "582",
+          "playerName": "Rafik Guitane",
+          "assist": "João Carvalho"
+        },
+        {
+          "minute": "61'",
+          "type": "yellow-card",
+          "teamId": "5527",
+          "playerName": "Soufiane Messeguem"
         }
       ]
     },
