@@ -1141,12 +1141,12 @@
     },
     "564699": {
       "home": {
-        "possession": 31,
+        "possession": 32,
         "xg": 1.09,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 246,
-        "duelsWon": 48,
+        "accuratePasses": 269,
+        "duelsWon": 50,
         "boxTouches": 7,
         "fouls": 11,
         "corners": 0,
@@ -1154,14 +1154,14 @@
         "saves": 5
       },
       "away": {
-        "possession": 69,
-        "xg": 1.79,
-        "shots": 19,
+        "possession": 68,
+        "xg": 2.04,
+        "shots": 20,
         "shotsOnTarget": 7,
-        "accuratePasses": 611,
-        "duelsWon": 49,
-        "boxTouches": 29,
-        "fouls": 12,
+        "accuratePasses": 635,
+        "duelsWon": 52,
+        "boxTouches": 31,
+        "fouls": 14,
         "corners": 10,
         "offsides": 2,
         "saves": 2
@@ -1206,6 +1206,12 @@
           "playerName": "Cristian Romero",
           "method": "header",
           "assist": "Álex Baena"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "yellow-card",
+          "teamId": "78",
+          "playerName": "Johnny Cardoso"
         }
       ]
     }
@@ -1581,25 +1587,26 @@
   "SA": {
     "558582": {
       "home": {
-        "possession": 66,
-        "xg": 0.03,
-        "shots": 1,
+        "possession": 54,
+        "xg": 0.05,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 46,
-        "duelsWon": 7,
-        "boxTouches": 5,
-        "fouls": 0,
+        "accuratePasses": 54,
+        "duelsWon": 9,
+        "boxTouches": 6,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 34,
-        "xg": 0.02,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 20,
-        "duelsWon": 1,
+        "possession": 46,
+        "xg": 0.04,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 45,
+        "duelsWon": 5,
+        "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
@@ -1724,7 +1731,7 @@
       },
       "away": {
         "possession": 60,
-        "xg": 0.47,
+        "xg": 0.49,
         "shots": 7,
         "shotsOnTarget": 0,
         "accuratePasses": 236,
@@ -1749,28 +1756,28 @@
   "DED": {
     "558880": {
       "home": {
-        "possession": 64,
-        "xg": 0.83,
+        "possession": 63,
+        "xg": 1.18,
         "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 390,
-        "duelsWon": 21,
-        "boxTouches": 25,
-        "fouls": 2,
+        "accuratePasses": 396,
+        "duelsWon": 22,
+        "boxTouches": 27,
+        "fouls": 3,
         "corners": 6,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "away": {
-        "possession": 36,
-        "xg": 1.38,
-        "shots": 15,
-        "shotsOnTarget": 6,
-        "accuratePasses": 196,
-        "duelsWon": 27,
+        "possession": 37,
+        "xg": 1.4,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 216,
+        "duelsWon": 28,
         "boxTouches": 17,
-        "fouls": 6,
-        "corners": 5,
+        "fouls": 8,
+        "corners": 6,
         "offsides": 0,
         "saves": 3
       },
@@ -1822,6 +1829,12 @@
           "teamId": "718",
           "playerName": "Søren Tengstedt",
           "assist": "Melle Meulensteen"
+        },
+        {
+          "minute": "81'",
+          "type": "yellow-card",
+          "teamId": "6806",
+          "playerName": "Lushendry Martes"
         }
       ]
     }
