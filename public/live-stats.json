@@ -2,27 +2,27 @@
   "PL": {
     "560593": {
       "home": {
-        "possession": 60,
-        "xg": 1.49,
-        "shots": 10,
+        "possession": 62,
+        "xg": 2.06,
+        "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 385,
-        "duelsWon": 44,
-        "boxTouches": 26,
+        "accuratePasses": 426,
+        "duelsWon": 47,
+        "boxTouches": 33,
         "fouls": 10,
         "corners": 2,
         "offsides": 7,
         "saves": 4
       },
       "away": {
-        "possession": 40,
+        "possession": 38,
         "xg": 0.68,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 225,
+        "accuratePasses": 229,
         "duelsWon": 38,
         "boxTouches": 12,
-        "fouls": 19,
+        "fouls": 20,
         "corners": 4,
         "offsides": 4,
         "saves": 2
@@ -78,6 +78,12 @@
           "type": "yellow-card",
           "teamId": "341",
           "playerName": "James Justin"
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
+          "teamId": "57",
+          "playerName": "Martin Ødegaard"
         }
       ]
     }
@@ -85,25 +91,25 @@
   "ELC": {
     "561857": {
       "home": {
-        "possession": 52,
-        "xg": 0.92,
+        "possession": 53,
+        "xg": 1,
         "shots": 12,
         "shotsOnTarget": 2,
-        "accuratePasses": 353,
-        "duelsWon": 46,
+        "accuratePasses": 371,
+        "duelsWon": 47,
         "boxTouches": 21,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 7,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 48,
+        "possession": 47,
         "xg": 2.44,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 311,
-        "duelsWon": 47,
+        "accuratePasses": 312,
+        "duelsWon": 50,
         "boxTouches": 26,
         "fouls": 12,
         "corners": 8,
@@ -150,8 +156,8 @@
         "xg": 2.25,
         "shots": 12,
         "shotsOnTarget": 8,
-        "accuratePasses": 420,
-        "duelsWon": 49,
+        "accuratePasses": 441,
+        "duelsWon": 51,
         "boxTouches": 16,
         "fouls": 10,
         "corners": 2,
@@ -160,15 +166,15 @@
       },
       "away": {
         "possession": 41,
-        "xg": 0.21,
-        "shots": 5,
+        "xg": 0.25,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 254,
-        "duelsWon": 47,
-        "boxTouches": 12,
-        "fouls": 6,
+        "accuratePasses": 268,
+        "duelsWon": 49,
+        "boxTouches": 13,
+        "fouls": 7,
         "corners": 1,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 5
       },
       "events": [
@@ -210,12 +216,12 @@
     "561863": {
       "home": {
         "possession": 55,
-        "xg": 1.69,
-        "shots": 10,
+        "xg": 1.75,
+        "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 250,
-        "duelsWon": 39,
-        "boxTouches": 19,
+        "accuratePasses": 263,
+        "duelsWon": 42,
+        "boxTouches": 20,
         "fouls": 11,
         "corners": 4,
         "offsides": 0,
@@ -226,10 +232,10 @@
         "xg": 1.45,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 183,
-        "duelsWon": 51,
+        "accuratePasses": 198,
+        "duelsWon": 54,
         "boxTouches": 19,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 5,
         "offsides": 1,
         "saves": 2
@@ -292,26 +298,27 @@
   "SA": {
     "558588": {
       "home": {
-        "possession": 66,
-        "xg": 0.34,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 33,
-        "duelsWon": 3,
-        "boxTouches": 1,
-        "fouls": 0,
+        "possession": 46,
+        "xg": 0.51,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 39,
+        "duelsWon": 6,
+        "boxTouches": 3,
+        "fouls": 1,
         "corners": 0,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 34,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 11,
-        "duelsWon": 4,
-        "fouls": 0,
+        "possession": 54,
+        "xg": 0.07,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 46,
+        "duelsWon": 9,
+        "boxTouches": 1,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -321,7 +328,8 @@
           "minute": "8'",
           "type": "goal",
           "teamId": "107",
-          "playerName": "<TBD>"
+          "playerName": "Milutin Osmajić",
+          "assist": "Mikael Egill Ellertsson"
         }
       ]
     }
