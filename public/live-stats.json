@@ -326,12 +326,12 @@
   "BL1": {
     "565812": {
       "home": {
-        "possession": 19,
+        "possession": 23,
         "xg": 0.11,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 6,
-        "duelsWon": 5,
+        "accuratePasses": 21,
+        "duelsWon": 6,
         "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
@@ -339,13 +339,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 81,
-        "xg": 0.07,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 49,
-        "duelsWon": 3,
-        "boxTouches": 1,
+        "possession": 77,
+        "xg": 0.37,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 107,
+        "duelsWon": 6,
+        "boxTouches": 5,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
@@ -357,31 +357,39 @@
           "type": "goal",
           "teamId": "3",
           "playerName": "Robert Andrich"
+        },
+        {
+          "minute": "9'",
+          "type": "goal",
+          "teamId": "3",
+          "playerName": "Patrik Schick",
+          "assist": "Aleix García"
         }
       ]
     },
     "565813": {
       "home": {
-        "possession": 35,
-        "xg": 0,
-        "shots": 0,
+        "possession": 34,
+        "xg": 0.05,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 16,
-        "duelsWon": 2,
+        "accuratePasses": 33,
+        "duelsWon": 9,
+        "boxTouches": 2,
         "fouls": 1,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 65,
-        "xg": 0.03,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 39,
-        "duelsWon": 4,
-        "boxTouches": 1,
-        "fouls": 0,
+        "possession": 66,
+        "xg": 0.19,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 79,
+        "duelsWon": 7,
+        "boxTouches": 3,
+        "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -389,67 +397,84 @@
     },
     "565817": {
       "home": {
-        "possession": 64,
-        "xg": 0.05,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 25,
-        "duelsWon": 2,
-        "boxTouches": 5,
-        "fouls": 3,
+        "possession": 59,
+        "xg": 0.09,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 49,
+        "duelsWon": 3,
+        "boxTouches": 6,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 36,
+        "possession": 41,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 16,
-        "duelsWon": 4,
-        "fouls": 1,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 0
-      }
-    },
-    "565818": {
-      "home": {
-        "possession": 53,
-        "xg": 0.11,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 21,
-        "duelsWon": 2,
-        "boxTouches": 2,
-        "fouls": 1,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 0
-      },
-      "away": {
-        "possession": 47,
-        "xg": 0.22,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 16,
+        "accuratePasses": 35,
         "duelsWon": 6,
-        "boxTouches": 1,
+        "boxTouches": 2,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 1
-      }
+      },
+      "events": [
+        {
+          "minute": "7'",
+          "type": "yellow-card",
+          "teamId": "28",
+          "playerName": "Janik Haberer"
+        }
+      ]
+    },
+    "565818": {
+      "home": {
+        "possession": 54,
+        "xg": 0.15,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 31,
+        "duelsWon": 5,
+        "boxTouches": 3,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 46,
+        "xg": 0.24,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 21,
+        "duelsWon": 9,
+        "boxTouches": 4,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "12'",
+          "type": "goal",
+          "teamId": "7",
+          "playerName": "<TBD>"
+        }
+      ]
     },
     "565819": {
       "home": {
-        "possession": 9,
+        "possession": 35,
         "xg": 0.87,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 2,
-        "duelsWon": 3,
+        "accuratePasses": 32,
+        "duelsWon": 5,
         "boxTouches": 2,
         "fouls": 1,
         "corners": 0,
@@ -457,13 +482,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 91,
-        "xg": 0,
-        "shots": 0,
+        "possession": 65,
+        "xg": 0.05,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 33,
+        "accuratePasses": 69,
         "duelsWon": 5,
-        "boxTouches": 3,
+        "boxTouches": 6,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
@@ -482,26 +507,26 @@
   "SA": {
     "558588": {
       "home": {
-        "possession": 52,
+        "possession": 50,
         "xg": 1.35,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 138,
-        "duelsWon": 15,
+        "accuratePasses": 145,
+        "duelsWon": 16,
         "boxTouches": 13,
-        "fouls": 1,
-        "corners": 0,
+        "fouls": 3,
+        "corners": 1,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 48,
+        "possession": 50,
         "xg": 0.11,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 132,
-        "duelsWon": 17,
-        "boxTouches": 6,
+        "accuratePasses": 154,
+        "duelsWon": 21,
+        "boxTouches": 7,
         "fouls": 4,
         "corners": 0,
         "offsides": 1,
