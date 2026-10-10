@@ -2,30 +2,30 @@
   "PL": {
     "560593": {
       "home": {
-        "possession": 62,
-        "xg": 0.41,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 268,
-        "duelsWon": 30,
-        "boxTouches": 14,
+        "possession": 59,
+        "xg": 0.56,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 277,
+        "duelsWon": 32,
+        "boxTouches": 16,
         "fouls": 7,
         "corners": 0,
-        "offsides": 6,
+        "offsides": 7,
         "saves": 3
       },
       "away": {
-        "possession": 38,
-        "xg": 0.41,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 150,
-        "duelsWon": 24,
+        "possession": 41,
+        "xg": 0.44,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 172,
+        "duelsWon": 26,
         "boxTouches": 8,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 2,
-        "offsides": 3,
-        "saves": 1
+        "offsides": 4,
+        "saves": 2
       },
       "events": [
         {
@@ -52,29 +52,29 @@
   "ELC": {
     "561857": {
       "home": {
-        "possession": 42,
-        "xg": 0.38,
-        "shots": 5,
+        "possession": 47,
+        "xg": 0.43,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 155,
-        "duelsWon": 21,
-        "boxTouches": 11,
+        "accuratePasses": 200,
+        "duelsWon": 27,
+        "boxTouches": 12,
         "fouls": 3,
-        "corners": 3,
+        "corners": 4,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 58,
+        "possession": 53,
         "xg": 1.88,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 204,
-        "duelsWon": 25,
+        "accuratePasses": 217,
+        "duelsWon": 29,
         "boxTouches": 19,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 7,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "events": [
@@ -101,30 +101,30 @@
     },
     "561860": {
       "home": {
-        "possession": 62,
-        "xg": 0.6,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 293,
-        "duelsWon": 27,
-        "boxTouches": 7,
+        "possession": 63,
+        "xg": 1.06,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 314,
+        "duelsWon": 33,
+        "boxTouches": 10,
         "fouls": 5,
         "corners": 2,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 38,
+        "possession": 37,
         "xg": 0.19,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 156,
-        "duelsWon": 33,
+        "accuratePasses": 163,
+        "duelsWon": 35,
         "boxTouches": 8,
         "fouls": 3,
         "corners": 1,
         "offsides": 3,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -144,33 +144,34 @@
           "minute": "49'",
           "type": "goal",
           "teamId": "72",
-          "playerName": "Moussa Kounfolo Yeo"
+          "playerName": "Moussa Kounfolo Yeo",
+          "assist": "Josh Tymon"
         }
       ]
     },
     "561863": {
       "home": {
-        "possession": 49,
+        "possession": 46,
         "xg": 0.91,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 117,
-        "duelsWon": 28,
+        "accuratePasses": 120,
+        "duelsWon": 31,
         "boxTouches": 10,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 4,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 51,
-        "xg": 1.18,
+        "possession": 54,
+        "xg": 1.27,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 126,
-        "duelsWon": 34,
-        "boxTouches": 14,
-        "fouls": 5,
+        "accuratePasses": 150,
+        "duelsWon": 39,
+        "boxTouches": 16,
+        "fouls": 6,
         "corners": 4,
         "offsides": 1,
         "saves": 0
