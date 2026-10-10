@@ -324,12 +324,12 @@
     },
     "560600": {
       "home": {
-        "possession": 48,
+        "possession": 49,
         "xg": 0.06,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 244,
-        "duelsWon": 33,
+        "accuratePasses": 262,
+        "duelsWon": 37,
         "boxTouches": 10,
         "fouls": 8,
         "corners": 2,
@@ -337,15 +337,15 @@
         "saves": 2
       },
       "away": {
-        "possession": 52,
-        "xg": 1.18,
-        "shots": 8,
+        "possession": 51,
+        "xg": 1.23,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 271,
-        "duelsWon": 31,
-        "boxTouches": 20,
-        "fouls": 11,
-        "corners": 1,
+        "accuratePasses": 278,
+        "duelsWon": 32,
+        "boxTouches": 25,
+        "fouls": 12,
+        "corners": 3,
         "offsides": 1,
         "saves": 1
       },
@@ -1254,27 +1254,27 @@
     },
     "564700": {
       "home": {
-        "possession": 84,
-        "xg": 0.55,
-        "shots": 11,
+        "possession": 83,
+        "xg": 0.7,
+        "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 421,
-        "duelsWon": 28,
-        "boxTouches": 16,
-        "fouls": 3,
+        "accuratePasses": 451,
+        "duelsWon": 31,
+        "boxTouches": 18,
+        "fouls": 5,
         "corners": 3,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 16,
+        "possession": 17,
         "xg": 0.08,
-        "shots": 2,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 49,
-        "duelsWon": 14,
+        "accuratePasses": 55,
+        "duelsWon": 17,
         "boxTouches": 2,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 1,
         "saves": 3
@@ -1303,6 +1303,12 @@
           "type": "yellow-card",
           "teamId": "82",
           "playerName": "Johan Mojica"
+        },
+        {
+          "minute": "46'",
+          "type": "yellow-card",
+          "teamId": "81",
+          "playerName": "Dani Olmo"
         }
       ]
     }
@@ -1463,29 +1469,29 @@
     },
     "565815": {
       "home": {
-        "possession": 52,
-        "xg": 1.86,
-        "shots": 10,
-        "shotsOnTarget": 7,
-        "accuratePasses": 254,
-        "duelsWon": 32,
-        "boxTouches": 16,
-        "fouls": 11,
+        "possession": 50,
+        "xg": 2,
+        "shots": 11,
+        "shotsOnTarget": 8,
+        "accuratePasses": 262,
+        "duelsWon": 34,
+        "boxTouches": 17,
+        "fouls": 13,
         "corners": 1,
         "offsides": 1,
         "saves": 5
       },
       "away": {
-        "possession": 48,
-        "xg": 0.66,
-        "shots": 10,
+        "possession": 50,
+        "xg": 0.91,
+        "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 216,
-        "duelsWon": 33,
-        "boxTouches": 17,
+        "accuratePasses": 255,
+        "duelsWon": 35,
+        "boxTouches": 20,
         "fouls": 10,
-        "corners": 5,
-        "offsides": 0,
+        "corners": 6,
+        "offsides": 1,
         "saves": 3
       },
       "events": [
@@ -1520,6 +1526,13 @@
           "type": "goal",
           "teamId": "721",
           "playerName": "Christopher Nkunku"
+        },
+        {
+          "minute": "54'",
+          "type": "goal",
+          "teamId": "721",
+          "playerName": "Antonio Nusa",
+          "assist": "Ezechiel Banzuzi"
         }
       ]
     },
@@ -1741,25 +1754,25 @@
     "558582": {
       "home": {
         "possession": 60,
-        "xg": 1.87,
-        "shots": 16,
+        "xg": 1.97,
+        "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 529,
-        "duelsWon": 40,
-        "boxTouches": 38,
-        "fouls": 9,
+        "accuratePasses": 549,
+        "duelsWon": 44,
+        "boxTouches": 41,
+        "fouls": 10,
         "corners": 3,
         "offsides": 6,
         "saves": 1
       },
       "away": {
         "possession": 40,
-        "xg": 0.2,
-        "shots": 7,
+        "xg": 0.26,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 324,
-        "duelsWon": 33,
-        "boxTouches": 12,
+        "accuratePasses": 340,
+        "duelsWon": 37,
+        "boxTouches": 15,
         "fouls": 8,
         "corners": 1,
         "offsides": 2,
@@ -1956,11 +1969,11 @@
   "DED": {
     "558879": {
       "home": {
-        "possession": 49,
+        "possession": 50,
         "xg": 0.35,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 181,
+        "accuratePasses": 184,
         "duelsWon": 22,
         "boxTouches": 14,
         "fouls": 4,
@@ -1969,9 +1982,9 @@
         "saves": 1
       },
       "away": {
-        "possession": 51,
-        "xg": 0.28,
-        "shots": 2,
+        "possession": 50,
+        "xg": 0.3,
+        "shots": 3,
         "shotsOnTarget": 1,
         "accuratePasses": 187,
         "duelsWon": 26,
@@ -2103,26 +2116,26 @@
   "PPL": {
     "567323": {
       "home": {
-        "possession": 48,
+        "possession": 45,
         "xg": 0.08,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 120,
-        "duelsWon": 21,
+        "accuratePasses": 130,
+        "duelsWon": 25,
         "boxTouches": 2,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 0,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 52,
-        "xg": 0.18,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 140,
-        "duelsWon": 24,
-        "boxTouches": 19,
+        "possession": 55,
+        "xg": 0.82,
+        "shots": 6,
+        "shotsOnTarget": 4,
+        "accuratePasses": 176,
+        "duelsWon": 28,
+        "boxTouches": 21,
         "fouls": 6,
         "corners": 3,
         "offsides": 0,
@@ -2141,6 +2154,12 @@
           "type": "yellow-card",
           "teamId": "503",
           "playerName": "Alan Varela"
+        },
+        {
+          "minute": "42'",
+          "type": "goal",
+          "teamId": "503",
+          "playerName": "Victor Froholdt"
         }
       ]
     }
