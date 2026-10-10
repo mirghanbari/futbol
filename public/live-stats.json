@@ -1956,29 +1956,29 @@
     },
     "558586": {
       "home": {
-        "possession": 51,
-        "xg": 2,
-        "shots": 13,
+        "possession": 49,
+        "xg": 2.07,
+        "shots": 14,
         "shotsOnTarget": 4,
-        "accuratePasses": 168,
+        "accuratePasses": 186,
         "duelsWon": 23,
-        "boxTouches": 27,
+        "boxTouches": 28,
         "fouls": 4,
         "corners": 5,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 49,
-        "xg": 0.36,
-        "shots": 7,
+        "possession": 51,
+        "xg": 0.5,
+        "shots": 8,
         "shotsOnTarget": 0,
-        "accuratePasses": 163,
-        "duelsWon": 28,
-        "boxTouches": 15,
+        "accuratePasses": 199,
+        "duelsWon": 30,
+        "boxTouches": 17,
         "fouls": 6,
         "corners": 3,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 2
       },
       "events": [
@@ -2101,26 +2101,26 @@
   "FL1": {
     "559666": {
       "home": {
-        "possession": 45,
-        "xg": 2.92,
+        "possession": 46,
+        "xg": 2.69,
         "shots": 8,
         "shotsOnTarget": 6,
-        "accuratePasses": 170,
-        "duelsWon": 22,
+        "accuratePasses": 193,
+        "duelsWon": 26,
         "boxTouches": 18,
         "fouls": 3,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 55,
-        "xg": 0.62,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 209,
-        "duelsWon": 17,
-        "boxTouches": 12,
+        "possession": 54,
+        "xg": 1.35,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 231,
+        "duelsWon": 19,
+        "boxTouches": 13,
         "fouls": 3,
         "corners": 4,
         "offsides": 0,
@@ -2162,35 +2162,43 @@
           "teamId": "512",
           "playerName": "Mama Baldé",
           "assist": "Pathé Mboup"
+        },
+        {
+          "minute": "47'",
+          "type": "goal",
+          "teamId": "532",
+          "playerName": "Prosper Peter",
+          "method": "header",
+          "assist": "Joseph Kalulu"
         }
       ]
     },
     "559668": {
       "home": {
-        "possession": 40,
-        "xg": 0.23,
-        "shots": 3,
-        "shotsOnTarget": 2,
-        "accuratePasses": 250,
-        "duelsWon": 18,
-        "boxTouches": 7,
-        "fouls": 4,
+        "possession": 43,
+        "xg": 0.3,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 301,
+        "duelsWon": 22,
+        "boxTouches": 8,
+        "fouls": 5,
         "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 60,
+        "possession": 57,
         "xg": 0.27,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 384,
-        "duelsWon": 16,
-        "boxTouches": 12,
-        "fouls": 4,
+        "accuratePasses": 407,
+        "duelsWon": 17,
+        "boxTouches": 13,
+        "fouls": 6,
         "corners": 4,
         "offsides": 3,
-        "saves": 1
+        "saves": 2
       }
     },
     "559672": {
@@ -2199,8 +2207,8 @@
         "xg": 1.46,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 319,
-        "duelsWon": 21,
+        "accuratePasses": 342,
+        "duelsWon": 23,
         "boxTouches": 20,
         "fouls": 0,
         "corners": 1,
@@ -2212,12 +2220,12 @@
         "xg": 0.24,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 95,
-        "duelsWon": 15,
+        "accuratePasses": 102,
+        "duelsWon": 16,
         "boxTouches": 7,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 3,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 2
       },
       "events": [
@@ -2227,33 +2235,39 @@
           "teamId": "524",
           "playerName": "Lucas Beraldo",
           "penalty": true
+        },
+        {
+          "minute": "47'",
+          "type": "yellow-card",
+          "teamId": "535",
+          "playerName": "Dame Gueye"
         }
       ]
     },
     "559673": {
       "home": {
-        "possession": 54,
+        "possession": 53,
         "xg": 0.77,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 297,
+        "accuratePasses": 301,
         "duelsWon": 28,
         "boxTouches": 8,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 46,
-        "xg": 0.1,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 252,
-        "duelsWon": 18,
-        "boxTouches": 5,
+        "possession": 47,
+        "xg": 0.91,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 259,
+        "duelsWon": 20,
+        "boxTouches": 9,
         "fouls": 5,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
@@ -2272,6 +2286,19 @@
           "teamId": "548",
           "playerName": "Matthis Abline",
           "assist": "Edan Diop"
+        },
+        {
+          "minute": "47'",
+          "type": "yellow-card",
+          "teamId": "548",
+          "playerName": "Flávio Nazinho"
+        },
+        {
+          "minute": "48'",
+          "type": "goal",
+          "teamId": "511",
+          "playerName": "Casper Tengstedt",
+          "penalty": true
         }
       ]
     },
@@ -2341,27 +2368,27 @@
   "DED": {
     "558877": {
       "home": {
-        "possession": 41,
-        "xg": 0.76,
-        "shots": 12,
+        "possession": 43,
+        "xg": 0.85,
+        "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 270,
-        "duelsWon": 47,
-        "boxTouches": 14,
-        "fouls": 8,
+        "accuratePasses": 303,
+        "duelsWon": 49,
+        "boxTouches": 15,
+        "fouls": 9,
         "corners": 5,
         "offsides": 2,
         "saves": 5
       },
       "away": {
-        "possession": 59,
+        "possession": 57,
         "xg": 1.13,
-        "shots": 11,
+        "shots": 12,
         "shotsOnTarget": 6,
-        "accuratePasses": 405,
-        "duelsWon": 33,
-        "boxTouches": 33,
-        "fouls": 20,
+        "accuratePasses": 421,
+        "duelsWon": 35,
+        "boxTouches": 34,
+        "fouls": 21,
         "corners": 7,
         "offsides": 2,
         "saves": 4
@@ -2396,7 +2423,7 @@
         "xg": 0.52,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 231,
+        "accuratePasses": 233,
         "duelsWon": 24,
         "boxTouches": 12,
         "fouls": 6,
@@ -2410,7 +2437,7 @@
         "shots": 2,
         "shotsOnTarget": 1,
         "accuratePasses": 103,
-        "duelsWon": 18,
+        "duelsWon": 19,
         "boxTouches": 6,
         "fouls": 6,
         "corners": 0,
@@ -2440,7 +2467,7 @@
           "penalty": true
         },
         {
-          "minute": "34'",
+          "minute": "33'",
           "type": "yellow-card",
           "teamId": "1915",
           "playerName": "Bryan Linssen"
@@ -2610,53 +2637,61 @@
   "PPL": {
     "567321": {
       "home": {
-        "possession": 43,
+        "possession": 46,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 51,
-        "duelsWon": 13,
-        "fouls": 3,
+        "accuratePasses": 77,
+        "duelsWon": 17,
+        "fouls": 5,
         "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 57,
-        "xg": 0.03,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 73,
-        "duelsWon": 9,
-        "boxTouches": 2,
-        "fouls": 2,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 0
-      }
-    },
-    "567322": {
-      "home": {
-        "possession": 52,
-        "xg": 0.02,
+        "possession": 54,
+        "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 58,
-        "duelsWon": 3,
-        "boxTouches": 2,
-        "fouls": 6,
+        "accuratePasses": 90,
+        "duelsWon": 11,
+        "boxTouches": 3,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
-      "away": {
-        "possession": 48,
-        "xg": 0,
-        "shots": 0,
+      "events": [
+        {
+          "minute": "18'",
+          "type": "yellow-card",
+          "teamId": "5530",
+          "playerName": "Djé Tavares"
+        }
+      ]
+    },
+    "567322": {
+      "home": {
+        "possession": 45,
+        "xg": 0.02,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 52,
-        "duelsWon": 11,
-        "boxTouches": 1,
+        "accuratePasses": 72,
+        "duelsWon": 4,
+        "boxTouches": 2,
+        "fouls": 8,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 55,
+        "xg": 0.11,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 92,
+        "duelsWon": 14,
+        "boxTouches": 3,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
