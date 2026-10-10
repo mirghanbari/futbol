@@ -1255,12 +1255,12 @@
     "564700": {
       "home": {
         "possession": 84,
-        "xg": 0.53,
-        "shots": 10,
-        "shotsOnTarget": 4,
-        "accuratePasses": 369,
-        "duelsWon": 25,
-        "boxTouches": 14,
+        "xg": 0.55,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 421,
+        "duelsWon": 28,
+        "boxTouches": 16,
         "fouls": 3,
         "corners": 3,
         "offsides": 1,
@@ -1269,15 +1269,15 @@
       "away": {
         "possession": 16,
         "xg": 0.07,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 40,
-        "duelsWon": 13,
-        "boxTouches": 1,
-        "fouls": 3,
-        "corners": 0,
+        "accuratePasses": 49,
+        "duelsWon": 14,
+        "boxTouches": 2,
+        "fouls": 4,
+        "corners": 1,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -1297,6 +1297,12 @@
           "type": "yellow-card",
           "teamId": "82",
           "playerName": "Kiko"
+        },
+        {
+          "minute": "45'+2'",
+          "type": "yellow-card",
+          "teamId": "82",
+          "playerName": "Johan Mojica"
         }
       ]
     }
@@ -1734,29 +1740,29 @@
   "SA": {
     "558582": {
       "home": {
-        "possession": 56,
+        "possession": 57,
         "xg": 1.6,
         "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 358,
-        "duelsWon": 26,
-        "boxTouches": 26,
+        "accuratePasses": 413,
+        "duelsWon": 33,
+        "boxTouches": 29,
         "fouls": 8,
         "corners": 1,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 1
       },
       "away": {
-        "possession": 44,
-        "xg": 0.11,
-        "shots": 5,
+        "possession": 43,
+        "xg": 0.14,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 269,
-        "duelsWon": 21,
+        "accuratePasses": 296,
+        "duelsWon": 24,
         "boxTouches": 11,
         "fouls": 4,
         "corners": 1,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 3
       },
       "events": [
@@ -1952,13 +1958,13 @@
       "home": {
         "possession": 55,
         "xg": 0.32,
-        "shots": 6,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 150,
-        "duelsWon": 17,
-        "boxTouches": 11,
-        "fouls": 2,
-        "corners": 3,
+        "accuratePasses": 172,
+        "duelsWon": 19,
+        "boxTouches": 13,
+        "fouls": 3,
+        "corners": 4,
         "offsides": 0,
         "saves": 1
       },
@@ -1967,12 +1973,12 @@
         "xg": 0.26,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 118,
-        "duelsWon": 20,
+        "accuratePasses": 135,
+        "duelsWon": 23,
         "boxTouches": 4,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "events": [
@@ -2091,26 +2097,26 @@
   "PPL": {
     "567323": {
       "home": {
-        "possession": 48,
+        "possession": 49,
         "xg": 0.05,
         "shots": 2,
         "shotsOnTarget": 2,
-        "accuratePasses": 50,
-        "duelsWon": 8,
-        "fouls": 1,
+        "accuratePasses": 68,
+        "duelsWon": 12,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 52,
-        "xg": 0,
+        "possession": 51,
+        "xg": 0.03,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 59,
-        "duelsWon": 8,
-        "boxTouches": 6,
-        "fouls": 2,
+        "accuratePasses": 74,
+        "duelsWon": 10,
+        "boxTouches": 9,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 1
