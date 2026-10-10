@@ -324,28 +324,28 @@
     },
     "560600": {
       "home": {
-        "possession": 31,
+        "possession": 34,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 60,
-        "duelsWon": 14,
-        "fouls": 2,
+        "accuratePasses": 74,
+        "duelsWon": 16,
+        "fouls": 3,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 69,
-        "xg": 0.27,
+        "possession": 66,
+        "xg": 0.51,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 156,
-        "duelsWon": 8,
+        "accuratePasses": 173,
+        "duelsWon": 10,
         "boxTouches": 13,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "events": [
@@ -1254,13 +1254,13 @@
     "564700": {
       "home": {
         "possession": 86,
-        "xg": 0.18,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 140,
-        "duelsWon": 8,
-        "boxTouches": 2,
-        "fouls": 0,
+        "xg": 0.25,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 211,
+        "duelsWon": 12,
+        "boxTouches": 5,
+        "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -1270,13 +1270,13 @@
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 12,
-        "duelsWon": 4,
+        "accuratePasses": 19,
+        "duelsWon": 9,
         "boxTouches": 1,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -1444,12 +1444,12 @@
     },
     "565815": {
       "home": {
-        "possession": 65,
+        "possession": 55,
         "xg": 0.82,
         "shots": 3,
         "shotsOnTarget": 3,
-        "accuratePasses": 87,
-        "duelsWon": 12,
+        "accuratePasses": 91,
+        "duelsWon": 14,
         "boxTouches": 4,
         "fouls": 5,
         "corners": 1,
@@ -1457,14 +1457,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 35,
+        "possession": 45,
         "xg": 0.01,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 44,
-        "duelsWon": 12,
+        "accuratePasses": 75,
+        "duelsWon": 13,
         "boxTouches": 3,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -1857,25 +1857,25 @@
       "home": {
         "possession": 45,
         "xg": 1.13,
-        "shots": 3,
+        "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 252,
-        "duelsWon": 32,
-        "boxTouches": 9,
-        "fouls": 12,
+        "accuratePasses": 262,
+        "duelsWon": 36,
+        "boxTouches": 10,
+        "fouls": 14,
         "corners": 4,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 0
       },
       "away": {
         "possession": 55,
-        "xg": 1.05,
-        "shots": 12,
+        "xg": 1.11,
+        "shots": 13,
         "shotsOnTarget": 0,
-        "accuratePasses": 316,
-        "duelsWon": 45,
-        "boxTouches": 13,
-        "fouls": 9,
+        "accuratePasses": 333,
+        "duelsWon": 48,
+        "boxTouches": 15,
+        "fouls": 11,
         "corners": 4,
         "offsides": 1,
         "saves": 0
@@ -1899,6 +1899,12 @@
           "type": "yellow-card",
           "teamId": "533",
           "playerName": "Rassoul Ndiaye"
+        },
+        {
+          "minute": "76'",
+          "type": "yellow-card",
+          "teamId": "533",
+          "playerName": "Djibril Ouziad"
         }
       ]
     }
@@ -1906,23 +1912,25 @@
   "DED": {
     "558879": {
       "home": {
-        "possession": 40,
-        "shots": 0,
+        "possession": 54,
+        "xg": 0.09,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 13,
+        "accuratePasses": 46,
         "duelsWon": 5,
-        "boxTouches": 1,
+        "boxTouches": 3,
         "fouls": 1,
-        "corners": 0,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 60,
+        "possession": 46,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 21,
-        "duelsWon": 1,
+        "accuratePasses": 40,
+        "duelsWon": 5,
         "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
