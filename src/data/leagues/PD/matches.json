@@ -3869,7 +3869,7 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-10T14:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "263",
     "awayTeamId": "78",
     "homeTeam": {
@@ -3877,6 +3877,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 32,
+        "xg": 1.09,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 277,
+        "duelsWon": 50,
+        "boxTouches": 7,
+        "fouls": 11,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 68,
+        "xg": 2.12,
+        "shots": 22,
+        "shotsOnTarget": 7,
+        "accuratePasses": 643,
+        "duelsWon": 53,
+        "boxTouches": 33,
+        "fouls": 14,
+        "corners": 10,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Mendizorrotza, Vitoria-Gasteiz",
     "broadcasts": [
@@ -3897,14 +3925,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-10T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "81",
     "awayTeamId": "82",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 83,
+        "xg": 1.93,
+        "shots": 23,
+        "shotsOnTarget": 8,
+        "accuratePasses": 787,
+        "duelsWon": 54,
+        "boxTouches": 31,
+        "fouls": 9,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 17,
+        "xg": 0.12,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 106,
+        "duelsWon": 33,
+        "boxTouches": 3,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 5
+      }
     },
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
@@ -3925,7 +3981,7 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-10T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "86",
     "awayTeamId": "94",
     "homeTeam": {

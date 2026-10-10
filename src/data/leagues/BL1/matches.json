@@ -2190,14 +2190,42 @@
     "matchday": 5,
     "stage": "regular",
     "utcDate": "2026-10-10T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "721",
     "awayTeamId": "19",
     "homeTeam": {
-      "goals": 0
+      "goals": 6
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 3.28,
+        "shots": 20,
+        "shotsOnTarget": 10,
+        "accuratePasses": 376,
+        "duelsWon": 54,
+        "boxTouches": 37,
+        "fouls": 16,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 9
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1.44,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 424,
+        "duelsWon": 53,
+        "boxTouches": 31,
+        "fouls": 13,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Red Bull Arena, Leipzig",
     "broadcasts": [

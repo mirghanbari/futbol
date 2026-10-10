@@ -2982,14 +2982,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-10T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "66",
     "awayTeamId": "73",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 0.77,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 388,
+        "duelsWon": 61,
+        "boxTouches": 24,
+        "fouls": 13,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 50,
+        "xg": 1.56,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 385,
+        "duelsWon": 48,
+        "boxTouches": 32,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Old Trafford, Manchester",
     "broadcasts": [
