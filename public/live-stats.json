@@ -1399,26 +1399,26 @@
     "564702": {
       "home": {
         "possession": 53,
-        "xg": 0.61,
-        "shots": 9,
+        "xg": 0.82,
+        "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 295,
-        "duelsWon": 30,
-        "boxTouches": 26,
-        "fouls": 4,
+        "accuratePasses": 313,
+        "duelsWon": 33,
+        "boxTouches": 27,
+        "fouls": 5,
         "corners": 7,
         "offsides": 2,
         "saves": 2
       },
       "away": {
         "possession": 47,
-        "xg": 0.24,
+        "xg": 0.25,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 267,
-        "duelsWon": 21,
+        "accuratePasses": 288,
+        "duelsWon": 23,
         "boxTouches": 14,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 1,
         "offsides": 1,
         "saves": 2
@@ -1437,11 +1437,17 @@
           "playerName": "Jude Bellingham"
         },
         {
-          "minute": "63'",
+          "minute": "62'",
           "type": "goal",
           "teamId": "86",
           "playerName": "Yan Diomande",
           "assist": "Federico Valverde"
+        },
+        {
+          "minute": "68'",
+          "type": "yellow-card",
+          "teamId": "86",
+          "playerName": "José Mourinho"
         }
       ]
     }
@@ -1967,23 +1973,23 @@
         "xg": 2.13,
         "shots": 16,
         "shotsOnTarget": 6,
-        "accuratePasses": 296,
-        "duelsWon": 32,
+        "accuratePasses": 306,
+        "duelsWon": 36,
         "boxTouches": 31,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 6,
         "offsides": 1,
         "saves": 1
       },
       "away": {
         "possession": 51,
-        "xg": 0.89,
-        "shots": 15,
+        "xg": 1.01,
+        "shots": 17,
         "shotsOnTarget": 1,
-        "accuratePasses": 318,
-        "duelsWon": 43,
-        "boxTouches": 28,
-        "fouls": 9,
+        "accuratePasses": 336,
+        "duelsWon": 46,
+        "boxTouches": 32,
+        "fouls": 10,
         "corners": 4,
         "offsides": 2,
         "saves": 4
@@ -2007,6 +2013,12 @@
           "type": "yellow-card",
           "teamId": "113",
           "playerName": "Amir Rrahmani"
+        },
+        {
+          "minute": "86'",
+          "type": "yellow-card",
+          "teamId": "113",
+          "playerName": "Benoît Badiashile"
         }
       ]
     },
@@ -2201,12 +2213,12 @@
     },
     "559668": {
       "home": {
-        "possession": 42,
+        "possession": 41,
         "xg": 0.49,
         "shots": 8,
         "shotsOnTarget": 5,
         "accuratePasses": 381,
-        "duelsWon": 44,
+        "duelsWon": 46,
         "boxTouches": 11,
         "fouls": 7,
         "corners": 2,
@@ -2214,15 +2226,15 @@
         "saves": 3
       },
       "away": {
-        "possession": 58,
-        "xg": 0.55,
-        "shots": 12,
+        "possession": 59,
+        "xg": 0.67,
+        "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 548,
-        "duelsWon": 29,
-        "boxTouches": 15,
+        "accuratePasses": 572,
+        "duelsWon": 30,
+        "boxTouches": 19,
         "fouls": 11,
-        "corners": 6,
+        "corners": 8,
         "offsides": 3,
         "saves": 3
       },
@@ -2269,27 +2281,27 @@
     "559672": {
       "home": {
         "possession": 73,
-        "xg": 3.06,
-        "shots": 18,
+        "xg": 3.12,
+        "shots": 19,
         "shotsOnTarget": 7,
-        "accuratePasses": 522,
-        "duelsWon": 40,
+        "accuratePasses": 558,
+        "duelsWon": 43,
         "boxTouches": 30,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 2,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
         "possession": 27,
-        "xg": 0.94,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 145,
-        "duelsWon": 25,
-        "boxTouches": 11,
-        "fouls": 12,
-        "corners": 3,
+        "xg": 1.22,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 153,
+        "duelsWon": 27,
+        "boxTouches": 19,
+        "fouls": 15,
+        "corners": 4,
         "offsides": 4,
         "saves": 4
       },
@@ -2336,27 +2348,27 @@
     },
     "559673": {
       "home": {
-        "possession": 55,
-        "xg": 0.93,
-        "shots": 13,
+        "possession": 58,
+        "xg": 0.97,
+        "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 446,
-        "duelsWon": 42,
-        "boxTouches": 14,
+        "accuratePasses": 509,
+        "duelsWon": 46,
+        "boxTouches": 17,
         "fouls": 8,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 45,
+        "possession": 42,
         "xg": 1.32,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 355,
-        "duelsWon": 32,
+        "accuratePasses": 362,
+        "duelsWon": 34,
         "boxTouches": 15,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 4,
         "offsides": 1,
         "saves": 1
@@ -2529,27 +2541,27 @@
     },
     "558878": {
       "home": {
-        "possession": 61,
-        "xg": 0.9,
-        "shots": 10,
+        "possession": 64,
+        "xg": 0.96,
+        "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 282,
-        "duelsWon": 32,
-        "boxTouches": 18,
-        "fouls": 7,
+        "accuratePasses": 326,
+        "duelsWon": 36,
+        "boxTouches": 19,
+        "fouls": 8,
         "corners": 4,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 39,
+        "possession": 36,
         "xg": 0.97,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 158,
-        "duelsWon": 29,
+        "accuratePasses": 161,
+        "duelsWon": 31,
         "boxTouches": 18,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 0,
         "offsides": 4,
         "saves": 1
@@ -2587,6 +2599,12 @@
           "type": "yellow-card",
           "teamId": "1915",
           "playerName": "Gabriel Brás"
+        },
+        {
+          "minute": "67'",
+          "type": "yellow-card",
+          "teamId": "678",
+          "playerName": "Abdellah Ouazane"
         }
       ]
     },
