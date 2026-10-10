@@ -2851,27 +2851,27 @@
   "PPL": {
     "567321": {
       "home": {
-        "possession": 37,
+        "possession": 38,
         "xg": 0.39,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 208,
-        "duelsWon": 42,
+        "accuratePasses": 218,
+        "duelsWon": 44,
         "boxTouches": 8,
-        "fouls": 15,
+        "fouls": 17,
         "corners": 3,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 63,
-        "xg": 0.56,
+        "possession": 62,
+        "xg": 0.61,
         "shots": 14,
         "shotsOnTarget": 2,
-        "accuratePasses": 398,
-        "duelsWon": 49,
+        "accuratePasses": 405,
+        "duelsWon": 53,
         "boxTouches": 13,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 7,
         "offsides": 2,
         "saves": 1
@@ -2911,32 +2911,45 @@
           "minute": "90'+2'",
           "type": "goal",
           "teamId": "5530",
+          "playerName": "Vasconcelos",
+          "assist": "Lucas Soares"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "5530",
           "playerName": "Vasconcelos"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "6618",
+          "playerName": "André Geraldes"
         }
       ]
     },
     "567322": {
       "home": {
-        "possession": 52,
-        "xg": 0.69,
+        "possession": 51,
+        "xg": 0.73,
         "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 347,
-        "duelsWon": 38,
+        "accuratePasses": 359,
+        "duelsWon": 39,
         "boxTouches": 22,
-        "fouls": 22,
+        "fouls": 23,
         "corners": 2,
         "offsides": 1,
         "saves": 8
       },
       "away": {
-        "possession": 48,
+        "possession": 49,
         "xg": 1.36,
         "shots": 15,
         "shotsOnTarget": 9,
-        "accuratePasses": 319,
-        "duelsWon": 52,
-        "boxTouches": 25,
+        "accuratePasses": 335,
+        "duelsWon": 56,
+        "boxTouches": 26,
         "fouls": 9,
         "corners": 5,
         "offsides": 1,
