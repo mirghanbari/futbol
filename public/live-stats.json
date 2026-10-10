@@ -2,28 +2,28 @@
   "PL": {
     "560593": {
       "home": {
-        "possession": 61,
-        "xg": 0.18,
-        "shots": 1,
+        "possession": 60,
+        "xg": 0.2,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 133,
-        "duelsWon": 15,
+        "accuratePasses": 149,
+        "duelsWon": 17,
         "boxTouches": 6,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 0,
-        "offsides": 4,
-        "saves": 0
+        "offsides": 5,
+        "saves": 1
       },
       "away": {
-        "possession": 39,
-        "xg": 0.06,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 77,
-        "duelsWon": 10,
-        "boxTouches": 2,
-        "fouls": 5,
-        "corners": 1,
+        "possession": 40,
+        "xg": 0.33,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 92,
+        "duelsWon": 12,
+        "boxTouches": 6,
+        "fouls": 6,
+        "corners": 2,
         "offsides": 1,
         "saves": 1
       }
@@ -32,26 +32,26 @@
   "ELC": {
     "561857": {
       "home": {
-        "possession": 40,
-        "xg": 0.12,
-        "shots": 2,
+        "possession": 41,
+        "xg": 0.25,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 86,
-        "duelsWon": 9,
-        "boxTouches": 6,
+        "accuratePasses": 106,
+        "duelsWon": 15,
+        "boxTouches": 8,
         "fouls": 1,
         "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 60,
-        "xg": 0.98,
-        "shots": 5,
+        "possession": 59,
+        "xg": 1.16,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 123,
-        "duelsWon": 14,
-        "boxTouches": 13,
+        "accuratePasses": 146,
+        "duelsWon": 16,
+        "boxTouches": 14,
         "fouls": 1,
         "corners": 3,
         "offsides": 0,
@@ -72,25 +72,25 @@
         "xg": 0.02,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 148,
-        "duelsWon": 12,
+        "accuratePasses": 176,
+        "duelsWon": 13,
         "boxTouches": 2,
-        "fouls": 2,
+        "fouls": 4,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
         "possession": 42,
-        "xg": 0.03,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 96,
-        "duelsWon": 12,
-        "boxTouches": 2,
+        "xg": 0.17,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 117,
+        "duelsWon": 18,
+        "boxTouches": 5,
         "fouls": 1,
-        "corners": 0,
-        "offsides": 1,
+        "corners": 1,
+        "offsides": 2,
         "saves": 1
       },
       "events": [
@@ -99,33 +99,40 @@
           "type": "yellow-card",
           "teamId": "72",
           "playerName": "Jay Fulton"
+        },
+        {
+          "minute": "28'",
+          "type": "goal",
+          "teamId": "68",
+          "playerName": "Jacob Wright",
+          "assist": "Oscar Schwartau"
         }
       ]
     },
     "561863": {
       "home": {
-        "possession": 52,
-        "xg": 0.66,
+        "possession": 48,
+        "xg": 0.86,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 57,
-        "duelsWon": 9,
+        "accuratePasses": 60,
+        "duelsWon": 14,
         "boxTouches": 8,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 3,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 48,
-        "xg": 0.27,
-        "shots": 3,
-        "shotsOnTarget": 0,
-        "accuratePasses": 54,
-        "duelsWon": 15,
-        "boxTouches": 3,
-        "fouls": 2,
-        "corners": 0,
+        "possession": 52,
+        "xg": 1.08,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 72,
+        "duelsWon": 19,
+        "boxTouches": 6,
+        "fouls": 3,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
@@ -136,6 +143,13 @@
           "teamId": "348",
           "playerName": "Karlan Grant",
           "assist": "Tyreece Campbell"
+        },
+        {
+          "minute": "27'",
+          "type": "goal",
+          "teamId": "387",
+          "playerName": "Scott Twine",
+          "penalty": true
         }
       ]
     }
