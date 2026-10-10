@@ -324,27 +324,27 @@
     },
     "560600": {
       "home": {
-        "possession": 39,
+        "possession": 43,
         "xg": 0.05,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 143,
-        "duelsWon": 22,
+        "accuratePasses": 177,
+        "duelsWon": 25,
         "boxTouches": 6,
         "fouls": 7,
         "corners": 0,
         "offsides": 2,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 61,
-        "xg": 0.52,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 242,
-        "duelsWon": 23,
-        "boxTouches": 16,
-        "fouls": 8,
+        "possession": 57,
+        "xg": 0.96,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 256,
+        "duelsWon": 24,
+        "boxTouches": 17,
+        "fouls": 9,
         "corners": 1,
         "offsides": 1,
         "saves": 1
@@ -1255,14 +1255,14 @@
     "564700": {
       "home": {
         "possession": 84,
-        "xg": 0.45,
-        "shots": 8,
+        "xg": 0.53,
+        "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 325,
-        "duelsWon": 21,
-        "boxTouches": 12,
-        "fouls": 2,
-        "corners": 2,
+        "accuratePasses": 369,
+        "duelsWon": 25,
+        "boxTouches": 14,
+        "fouls": 3,
+        "corners": 3,
         "offsides": 1,
         "saves": 1
       },
@@ -1271,8 +1271,8 @@
         "xg": 0.07,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 37,
-        "duelsWon": 12,
+        "accuratePasses": 40,
+        "duelsWon": 13,
         "boxTouches": 1,
         "fouls": 3,
         "corners": 0,
@@ -1457,30 +1457,30 @@
     },
     "565815": {
       "home": {
-        "possession": 50,
-        "xg": 1.54,
-        "shots": 6,
-        "shotsOnTarget": 5,
-        "accuratePasses": 172,
+        "possession": 53,
+        "xg": 1.77,
+        "shots": 8,
+        "shotsOnTarget": 7,
+        "accuratePasses": 211,
         "duelsWon": 25,
-        "boxTouches": 10,
+        "boxTouches": 12,
         "fouls": 8,
         "corners": 1,
         "offsides": 1,
-        "saves": 4
+        "saves": 5
       },
       "away": {
-        "possession": 50,
+        "possession": 47,
         "xg": 0.72,
         "shots": 9,
-        "shotsOnTarget": 4,
-        "accuratePasses": 172,
-        "duelsWon": 22,
+        "shotsOnTarget": 5,
+        "accuratePasses": 178,
+        "duelsWon": 23,
         "boxTouches": 10,
         "fouls": 8,
         "corners": 4,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -1505,6 +1505,12 @@
         },
         {
           "minute": "41'",
+          "type": "goal",
+          "teamId": "721",
+          "playerName": "Christopher Nkunku"
+        },
+        {
+          "minute": "44'",
           "type": "goal",
           "teamId": "721",
           "playerName": "Christopher Nkunku"
@@ -1728,26 +1734,26 @@
   "SA": {
     "558582": {
       "home": {
-        "possession": 55,
-        "xg": 1.59,
-        "shots": 10,
+        "possession": 56,
+        "xg": 1.6,
+        "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 326,
-        "duelsWon": 25,
-        "boxTouches": 21,
-        "fouls": 7,
+        "accuratePasses": 358,
+        "duelsWon": 26,
+        "boxTouches": 26,
+        "fouls": 8,
         "corners": 1,
         "offsides": 4,
         "saves": 1
       },
       "away": {
-        "possession": 45,
-        "xg": 0.08,
-        "shots": 4,
+        "possession": 44,
+        "xg": 0.11,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 254,
-        "duelsWon": 19,
-        "boxTouches": 9,
+        "accuratePasses": 269,
+        "duelsWon": 21,
+        "boxTouches": 11,
         "fouls": 4,
         "corners": 1,
         "offsides": 2,
@@ -1944,25 +1950,25 @@
   "DED": {
     "558879": {
       "home": {
-        "possession": 52,
-        "xg": 0.31,
-        "shots": 5,
+        "possession": 55,
+        "xg": 0.32,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 114,
-        "duelsWon": 15,
-        "boxTouches": 10,
+        "accuratePasses": 150,
+        "duelsWon": 17,
+        "boxTouches": 11,
         "fouls": 2,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 48,
+        "possession": 45,
         "xg": 0.26,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 105,
-        "duelsWon": 16,
+        "accuratePasses": 118,
+        "duelsWon": 20,
         "boxTouches": 4,
         "fouls": 4,
         "corners": 1,
@@ -1983,7 +1989,7 @@
           "playerName": "Nacho Ferri"
         },
         {
-          "minute": "24'",
+          "minute": "23'",
           "type": "yellow-card",
           "teamId": "682",
           "playerName": "Ro-Zangelo Daal"
@@ -2085,28 +2091,39 @@
   "PPL": {
     "567323": {
       "home": {
-        "possession": 39,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 23,
-        "duelsWon": 4,
+        "possession": 48,
+        "xg": 0.05,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 50,
+        "duelsWon": 8,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 61,
+        "possession": 52,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 42,
-        "duelsWon": 6,
-        "boxTouches": 4,
+        "accuratePasses": 59,
+        "duelsWon": 8,
+        "boxTouches": 6,
         "fouls": 2,
         "corners": 1,
         "offsides": 0,
-        "saves": 0
-      }
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "16'",
+          "type": "goal",
+          "teamId": "5575",
+          "playerName": "Gábor Szalai",
+          "assist": "Maxime Dominguez"
+        }
+      ]
     }
   }
 }
