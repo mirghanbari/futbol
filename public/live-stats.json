@@ -1588,30 +1588,30 @@
   "SA": {
     "558582": {
       "home": {
-        "possession": 45,
-        "xg": 0.28,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 74,
-        "duelsWon": 10,
-        "boxTouches": 11,
-        "fouls": 2,
+        "possession": 51,
+        "xg": 1.13,
+        "shots": 6,
+        "shotsOnTarget": 4,
+        "accuratePasses": 104,
+        "duelsWon": 12,
+        "boxTouches": 13,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 55,
+        "possession": 49,
         "xg": 0.04,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 91,
-        "duelsWon": 5,
+        "accuratePasses": 101,
+        "duelsWon": 6,
         "boxTouches": 1,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -1619,6 +1619,13 @@
           "type": "goal",
           "teamId": "108",
           "playerName": "Petar Sučić"
+        },
+        {
+          "minute": "18'",
+          "type": "goal",
+          "teamId": "108",
+          "playerName": "Hakan Çalhanoglu",
+          "penalty": true
         }
       ]
     },
@@ -1765,30 +1772,30 @@
   "DED": {
     "558880": {
       "home": {
-        "possession": 62,
-        "xg": 1.18,
-        "shots": 14,
-        "shotsOnTarget": 5,
-        "accuratePasses": 415,
-        "duelsWon": 23,
-        "boxTouches": 28,
+        "possession": 63,
+        "xg": 1.29,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 443,
+        "duelsWon": 25,
+        "boxTouches": 33,
         "fouls": 4,
-        "corners": 6,
+        "corners": 9,
         "offsides": 0,
         "saves": 5
       },
       "away": {
-        "possession": 38,
+        "possession": 37,
         "xg": 1.85,
-        "shots": 17,
+        "shots": 18,
         "shotsOnTarget": 8,
-        "accuratePasses": 232,
-        "duelsWon": 34,
-        "boxTouches": 18,
+        "accuratePasses": 240,
+        "duelsWon": 37,
+        "boxTouches": 19,
         "fouls": 8,
         "corners": 6,
         "offsides": 0,
-        "saves": 3
+        "saves": 5
       },
       "events": [
         {
