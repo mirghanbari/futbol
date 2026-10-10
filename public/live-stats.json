@@ -322,6 +322,41 @@
       ],
       "final": true
     },
+    "560600": {
+      "home": {
+        "possession": 40,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 14,
+        "duelsWon": 4,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 60,
+        "xg": 0.15,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 23,
+        "duelsWon": 1,
+        "boxTouches": 1,
+        "fouls": 3,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "4'",
+          "type": "yellow-card",
+          "teamId": "73",
+          "playerName": "Conor Gallagher"
+        }
+      ]
+    },
     "560601": {
       "home": {
         "possession": 52,
@@ -1371,6 +1406,42 @@
       ],
       "final": true
     },
+    "565815": {
+      "home": {
+        "possession": 48,
+        "xg": 0.67,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 10,
+        "duelsWon": 2,
+        "boxTouches": 2,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 52,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 10,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "1'",
+          "type": "goal",
+          "teamId": "721",
+          "playerName": "Ezechiel Banzuzi",
+          "assist": "Ridle Baku"
+        }
+      ]
+    },
     "565817": {
       "home": {
         "possession": 43,
@@ -1588,29 +1659,29 @@
   "SA": {
     "558582": {
       "home": {
-        "possession": 53,
-        "xg": 1.16,
-        "shots": 6,
-        "shotsOnTarget": 4,
-        "accuratePasses": 135,
-        "duelsWon": 14,
-        "boxTouches": 14,
+        "possession": 51,
+        "xg": 1.3,
+        "shots": 7,
+        "shotsOnTarget": 5,
+        "accuratePasses": 167,
+        "duelsWon": 15,
+        "boxTouches": 16,
         "fouls": 3,
         "corners": 0,
         "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 47,
+        "possession": 49,
         "xg": 0.04,
-        "shots": 2,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 114,
-        "duelsWon": 8,
+        "accuratePasses": 156,
+        "duelsWon": 9,
         "boxTouches": 6,
         "fouls": 3,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 2
       },
       "events": [
@@ -1626,6 +1697,13 @@
           "teamId": "108",
           "playerName": "Hakan Çalhanoglu",
           "penalty": true
+        },
+        {
+          "minute": "31'",
+          "type": "goal",
+          "teamId": "108",
+          "playerName": "Marcus Thuram",
+          "assist": "Henrikh Mkhitaryan"
         }
       ]
     },
@@ -1737,10 +1815,10 @@
         "xg": 0.72,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 176,
-        "duelsWon": 20,
+        "accuratePasses": 199,
+        "duelsWon": 21,
         "boxTouches": 5,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 0,
         "offsides": 1,
         "saves": 0
@@ -1748,12 +1826,12 @@
       "away": {
         "possession": 58,
         "xg": 0.87,
-        "shots": 10,
+        "shots": 9,
         "shotsOnTarget": 0,
-        "accuratePasses": 262,
-        "duelsWon": 31,
-        "boxTouches": 10,
-        "fouls": 5,
+        "accuratePasses": 281,
+        "duelsWon": 35,
+        "boxTouches": 11,
+        "fouls": 6,
         "corners": 2,
         "offsides": 1,
         "saves": 0
