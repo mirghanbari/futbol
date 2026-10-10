@@ -1588,28 +1588,28 @@
   "SA": {
     "558582": {
       "home": {
-        "possession": 51,
-        "xg": 1.13,
+        "possession": 53,
+        "xg": 1.16,
         "shots": 6,
         "shotsOnTarget": 4,
-        "accuratePasses": 104,
-        "duelsWon": 12,
-        "boxTouches": 13,
+        "accuratePasses": 135,
+        "duelsWon": 14,
+        "boxTouches": 14,
         "fouls": 3,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 49,
+        "possession": 47,
         "xg": 0.04,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 101,
-        "duelsWon": 6,
-        "boxTouches": 1,
-        "fouls": 2,
-        "corners": 0,
+        "accuratePasses": 114,
+        "duelsWon": 8,
+        "boxTouches": 6,
+        "fouls": 3,
+        "corners": 1,
         "offsides": 0,
         "saves": 2
       },
@@ -1733,12 +1733,12 @@
   "FL1": {
     "559674": {
       "home": {
-        "possession": 40,
+        "possession": 42,
         "xg": 0.72,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 146,
-        "duelsWon": 18,
+        "accuratePasses": 176,
+        "duelsWon": 20,
         "boxTouches": 5,
         "fouls": 7,
         "corners": 0,
@@ -1746,13 +1746,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 60,
-        "xg": 0.49,
-        "shots": 7,
+        "possession": 58,
+        "xg": 0.87,
+        "shots": 10,
         "shotsOnTarget": 0,
-        "accuratePasses": 236,
-        "duelsWon": 28,
-        "boxTouches": 7,
+        "accuratePasses": 262,
+        "duelsWon": 31,
+        "boxTouches": 10,
         "fouls": 5,
         "corners": 2,
         "offsides": 1,
@@ -1776,7 +1776,7 @@
         "xg": 1.29,
         "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 443,
+        "accuratePasses": 444,
         "duelsWon": 25,
         "boxTouches": 33,
         "fouls": 4,
@@ -1786,12 +1786,12 @@
       },
       "away": {
         "possession": 37,
-        "xg": 1.85,
+        "xg": 2,
         "shots": 18,
         "shotsOnTarget": 8,
         "accuratePasses": 240,
         "duelsWon": 37,
-        "boxTouches": 19,
+        "boxTouches": 20,
         "fouls": 8,
         "corners": 6,
         "offsides": 0,
@@ -1858,7 +1858,8 @@
           "teamId": "6806",
           "playerName": "Casper Terho"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
