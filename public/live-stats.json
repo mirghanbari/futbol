@@ -2851,28 +2851,28 @@
   "PPL": {
     "567321": {
       "home": {
-        "possession": 42,
+        "possession": 40,
         "xg": 0.39,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 207,
-        "duelsWon": 38,
+        "accuratePasses": 208,
+        "duelsWon": 40,
         "boxTouches": 8,
-        "fouls": 13,
+        "fouls": 15,
         "corners": 3,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 58,
-        "xg": 0.25,
-        "shots": 8,
+        "possession": 60,
+        "xg": 0.45,
+        "shots": 10,
         "shotsOnTarget": 0,
-        "accuratePasses": 311,
-        "duelsWon": 35,
-        "boxTouches": 5,
+        "accuratePasses": 351,
+        "duelsWon": 45,
+        "boxTouches": 6,
         "fouls": 11,
-        "corners": 3,
+        "corners": 5,
         "offsides": 2,
         "saves": 1
       },
@@ -2900,35 +2900,41 @@
           "type": "yellow-card",
           "teamId": "5530",
           "playerName": "Emanuel Moreira"
+        },
+        {
+          "minute": "83'",
+          "type": "yellow-card",
+          "teamId": "6618",
+          "playerName": "Gabi Pereira"
         }
       ]
     },
     "567322": {
       "home": {
-        "possession": 48,
-        "xg": 0.56,
-        "shots": 11,
-        "shotsOnTarget": 4,
-        "accuratePasses": 269,
-        "duelsWon": 35,
-        "boxTouches": 18,
+        "possession": 50,
+        "xg": 0.6,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 316,
+        "duelsWon": 37,
+        "boxTouches": 19,
         "fouls": 22,
         "corners": 2,
         "offsides": 1,
         "saves": 8
       },
       "away": {
-        "possession": 52,
-        "xg": 1.35,
+        "possession": 50,
+        "xg": 1.36,
         "shots": 15,
         "shotsOnTarget": 9,
-        "accuratePasses": 299,
-        "duelsWon": 50,
-        "boxTouches": 23,
+        "accuratePasses": 317,
+        "duelsWon": 51,
+        "boxTouches": 24,
         "fouls": 9,
         "corners": 5,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
