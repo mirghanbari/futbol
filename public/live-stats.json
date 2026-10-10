@@ -324,27 +324,27 @@
     },
     "560600": {
       "home": {
-        "possession": 46,
-        "xg": 0.05,
-        "shots": 1,
+        "possession": 48,
+        "xg": 0.06,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 210,
-        "duelsWon": 26,
-        "boxTouches": 7,
-        "fouls": 7,
-        "corners": 0,
+        "accuratePasses": 244,
+        "duelsWon": 33,
+        "boxTouches": 10,
+        "fouls": 8,
+        "corners": 2,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 54,
-        "xg": 0.96,
-        "shots": 7,
+        "possession": 52,
+        "xg": 1.18,
+        "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 257,
-        "duelsWon": 25,
-        "boxTouches": 17,
-        "fouls": 9,
+        "accuratePasses": 271,
+        "duelsWon": 31,
+        "boxTouches": 20,
+        "fouls": 11,
         "corners": 1,
         "offsides": 1,
         "saves": 1
@@ -1464,13 +1464,13 @@
     "565815": {
       "home": {
         "possession": 52,
-        "xg": 1.77,
-        "shots": 8,
+        "xg": 1.86,
+        "shots": 10,
         "shotsOnTarget": 7,
-        "accuratePasses": 216,
-        "duelsWon": 26,
-        "boxTouches": 12,
-        "fouls": 10,
+        "accuratePasses": 254,
+        "duelsWon": 32,
+        "boxTouches": 16,
+        "fouls": 11,
         "corners": 1,
         "offsides": 1,
         "saves": 5
@@ -1478,13 +1478,13 @@
       "away": {
         "possession": 48,
         "xg": 0.66,
-        "shots": 9,
+        "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 187,
-        "duelsWon": 25,
-        "boxTouches": 10,
-        "fouls": 8,
-        "corners": 4,
+        "accuratePasses": 216,
+        "duelsWon": 33,
+        "boxTouches": 17,
+        "fouls": 10,
+        "corners": 5,
         "offsides": 0,
         "saves": 3
       },
@@ -1741,15 +1741,15 @@
     "558582": {
       "home": {
         "possession": 60,
-        "xg": 1.78,
-        "shots": 14,
+        "xg": 1.87,
+        "shots": 16,
         "shotsOnTarget": 6,
-        "accuratePasses": 502,
-        "duelsWon": 39,
-        "boxTouches": 36,
+        "accuratePasses": 529,
+        "duelsWon": 40,
+        "boxTouches": 38,
         "fouls": 9,
         "corners": 3,
-        "offsides": 5,
+        "offsides": 6,
         "saves": 1
       },
       "away": {
@@ -1757,10 +1757,10 @@
         "xg": 0.2,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 307,
-        "duelsWon": 30,
+        "accuratePasses": 324,
+        "duelsWon": 33,
         "boxTouches": 12,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 1,
         "offsides": 2,
         "saves": 4
@@ -1956,12 +1956,12 @@
   "DED": {
     "558879": {
       "home": {
-        "possession": 48,
+        "possession": 49,
         "xg": 0.35,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 177,
-        "duelsWon": 21,
+        "accuratePasses": 181,
+        "duelsWon": 22,
         "boxTouches": 14,
         "fouls": 4,
         "corners": 4,
@@ -1969,11 +1969,11 @@
         "saves": 1
       },
       "away": {
-        "possession": 52,
+        "possession": 51,
         "xg": 0.28,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 188,
+        "accuratePasses": 187,
         "duelsWon": 26,
         "boxTouches": 8,
         "fouls": 5,
@@ -2001,7 +2001,7 @@
           "playerName": "Ro-Zangelo Daal"
         },
         {
-          "minute": "45'+3'",
+          "minute": "45'+2'",
           "type": "yellow-card",
           "teamId": "675",
           "playerName": "Oussama Targhalline"
@@ -2103,27 +2103,27 @@
   "PPL": {
     "567323": {
       "home": {
-        "possession": 49,
-        "xg": 0.05,
-        "shots": 2,
+        "possession": 48,
+        "xg": 0.08,
+        "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 109,
-        "duelsWon": 17,
-        "boxTouches": 1,
-        "fouls": 4,
+        "accuratePasses": 120,
+        "duelsWon": 21,
+        "boxTouches": 2,
+        "fouls": 5,
         "corners": 0,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 51,
-        "xg": 0.11,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 115,
-        "duelsWon": 19,
-        "boxTouches": 14,
-        "fouls": 4,
+        "possession": 52,
+        "xg": 0.18,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 140,
+        "duelsWon": 24,
+        "boxTouches": 19,
+        "fouls": 6,
         "corners": 3,
         "offsides": 0,
         "saves": 1
@@ -2135,6 +2135,12 @@
           "teamId": "5575",
           "playerName": "Gábor Szalai",
           "assist": "Maxime Dominguez"
+        },
+        {
+          "minute": "36'",
+          "type": "yellow-card",
+          "teamId": "503",
+          "playerName": "Alan Varela"
         }
       ]
     }
