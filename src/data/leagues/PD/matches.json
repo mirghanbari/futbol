@@ -3841,7 +3841,7 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-10T12:00:00Z",
-    "status": "scheduled",
+    "status": "cancelled",
     "homeTeamId": "87",
     "awayTeamId": "77",
     "homeTeam": {
@@ -3869,14 +3869,14 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-10T14:15:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "263",
     "awayTeamId": "78",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Mendizorrotza, Vitoria-Gasteiz",
     "broadcasts": [

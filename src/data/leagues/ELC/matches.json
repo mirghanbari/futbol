@@ -99,7 +99,7 @@
         "saves": 3
       }
     },
-    "venue": "Toughsheet Community Stadium, Manchester",
+    "venue": "Toughsheet Community Stadium, Bolton",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -1535,7 +1535,7 @@
         "saves": 7
       }
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "561787",
@@ -3297,7 +3297,7 @@
         "saves": 4
       }
     },
-    "venue": "Toughsheet Community Stadium, Manchester",
+    "venue": "Toughsheet Community Stadium, Bolton",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -3603,7 +3603,7 @@
         "saves": 4
       }
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "561839",
@@ -4802,14 +4802,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-10T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "74",
     "awayTeamId": "332",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 1.05,
+        "shots": 14,
+        "shotsOnTarget": 2,
+        "accuratePasses": 418,
+        "duelsWon": 55,
+        "boxTouches": 23,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 6
+      },
+      "away": {
+        "possession": 46,
+        "xg": 2.54,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 335,
+        "duelsWon": 59,
+        "boxTouches": 31,
+        "fouls": 12,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "The Hawthorns, West Bromwich",
     "broadcasts": [
@@ -4826,14 +4854,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-10T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "72",
     "awayTeamId": "68",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 57,
+        "xg": 2.17,
+        "shots": 12,
+        "shotsOnTarget": 8,
+        "accuratePasses": 455,
+        "duelsWon": 52,
+        "boxTouches": 19,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 43,
+        "xg": 0.61,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 309,
+        "duelsWon": 65,
+        "boxTouches": 22,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 6,
+        "saves": 5
+      }
     },
     "venue": "Swansea.com Stadium, Swansea",
     "broadcasts": [
@@ -4854,14 +4910,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-10T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "348",
     "awayTeamId": "387",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 1.92,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 268,
+        "duelsWon": 52,
+        "boxTouches": 20,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.5,
+        "shots": 13,
+        "shotsOnTarget": 3,
+        "accuratePasses": 222,
+        "duelsWon": 60,
+        "boxTouches": 22,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "The Valley, London",
     "broadcasts": [
@@ -4878,14 +4962,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-10T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "356",
     "awayTeamId": "1126",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 0.57,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 377,
+        "duelsWon": 56,
+        "boxTouches": 13,
+        "fouls": 14,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 44,
+        "xg": 1.32,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 237,
+        "duelsWon": 60,
+        "boxTouches": 22,
+        "fouls": 17,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Bramall Lane, Sheffield",
     "broadcasts": [
@@ -4902,14 +5014,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-10T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "346",
     "awayTeamId": "328",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 0.61,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 397,
+        "duelsWon": 52,
+        "boxTouches": 14,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.84,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 349,
+        "duelsWon": 45,
+        "boxTouches": 36,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 5,
+        "saves": 6
+      }
     },
     "venue": "Vicarage Road, Watford",
     "broadcasts": [
@@ -4926,14 +5066,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-10T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "342",
     "awayTeamId": "404",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 0.52,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 303,
+        "duelsWon": 47,
+        "boxTouches": 17,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.3,
+        "shots": 13,
+        "shotsOnTarget": 3,
+        "accuratePasses": 377,
+        "duelsWon": 52,
+        "boxTouches": 28,
+        "fouls": 6,
+        "corners": 8,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Pride Park, Derby",
     "broadcasts": [
@@ -4950,14 +5118,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-10T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "59",
     "awayTeamId": "715",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 1.71,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 240,
+        "duelsWon": 46,
+        "boxTouches": 27,
+        "fouls": 9,
+        "corners": 11,
+        "offsides": 4,
+        "saves": 0
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1,
+        "shots": 10,
+        "shotsOnTarget": 1,
+        "accuratePasses": 385,
+        "duelsWon": 39,
+        "boxTouches": 24,
+        "fouls": 6,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Ewood Park, Blackburn",
     "broadcasts": [
@@ -4974,16 +5170,44 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-10T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "60",
     "awayTeamId": "70",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
-    "venue": "Toughsheet Community Stadium, Manchester",
+    "stats": {
+      "home": {
+        "possession": 68,
+        "xg": 2.96,
+        "shots": 30,
+        "shotsOnTarget": 5,
+        "accuratePasses": 499,
+        "duelsWon": 45,
+        "boxTouches": 57,
+        "fouls": 8,
+        "corners": 10,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 32,
+        "xg": 0.69,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 182,
+        "duelsWon": 41,
+        "boxTouches": 18,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 4
+      }
+    },
+    "venue": "Toughsheet Community Stadium, Bolton",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -4998,14 +5222,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-10T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1081",
     "awayTeamId": "384",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.58,
+        "shots": 12,
+        "shotsOnTarget": 1,
+        "accuratePasses": 247,
+        "duelsWon": 53,
+        "boxTouches": 18,
+        "fouls": 8,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 54,
+        "xg": 1.09,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 300,
+        "duelsWon": 52,
+        "boxTouches": 23,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 1
+      }
     },
     "venue": "Deepdale, Preston",
     "broadcasts": [
@@ -5022,14 +5274,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-10T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "343",
     "awayTeamId": "76",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 0.96,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 434,
+        "duelsWon": 38,
+        "boxTouches": 20,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 48,
+        "xg": 0.57,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 374,
+        "duelsWon": 52,
+        "boxTouches": 18,
+        "fouls": 12,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "Riverside Stadium, Middlesbrough",
     "broadcasts": [
@@ -5607,7 +5887,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "561895",
@@ -5949,7 +6229,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "561911",
@@ -6561,7 +6841,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "561946",
@@ -6849,7 +7129,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "561964",
@@ -7155,7 +7435,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "561988",
@@ -7551,7 +7831,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562003",
@@ -7983,7 +8263,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562026",
@@ -8811,7 +9091,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562072",
@@ -9063,7 +9343,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562086",
@@ -9405,7 +9685,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562105",
@@ -10071,7 +10351,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562142",
@@ -10323,7 +10603,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562156",
@@ -10665,7 +10945,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562174",
@@ -11187,7 +11467,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562204",
@@ -11709,7 +11989,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562233",
@@ -12159,7 +12439,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562258",
@@ -12519,7 +12799,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562278",
@@ -12807,7 +13087,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Toughsheet Community Stadium, Manchester"
+    "venue": "Toughsheet Community Stadium, Bolton"
   },
   {
     "id": "562294",
