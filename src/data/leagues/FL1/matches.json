@@ -2204,7 +2204,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-10T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "512",
     "awayTeamId": "532",
     "homeTeam": {
@@ -2212,6 +2212,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 3.82,
+        "shots": 19,
+        "shotsOnTarget": 9,
+        "accuratePasses": 466,
+        "duelsWon": 41,
+        "boxTouches": 40,
+        "fouls": 5,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 46,
+        "xg": 1.39,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 363,
+        "duelsWon": 38,
+        "boxTouches": 16,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "Stade Francis-Le Blé, Brest"
   },
@@ -2222,14 +2250,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-10T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "525",
     "awayTeamId": "1045",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 0.55,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 401,
+        "duelsWon": 55,
+        "boxTouches": 14,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 60,
+        "xg": 0.97,
+        "shots": 17,
+        "shotsOnTarget": 3,
+        "accuratePasses": 632,
+        "duelsWon": 36,
+        "boxTouches": 26,
+        "fouls": 13,
+        "corners": 9,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Stade du Moustoir - Yves Allainmat, Lorient"
   },
@@ -2240,14 +2296,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-10T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "524",
     "awayTeamId": "535",
     "homeTeam": {
-      "goals": 2
+      "goals": 3
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 73,
+        "xg": 4.25,
+        "shots": 22,
+        "shotsOnTarget": 8,
+        "accuratePasses": 626,
+        "duelsWon": 49,
+        "boxTouches": 39,
+        "fouls": 3,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 27,
+        "xg": 1.43,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 182,
+        "duelsWon": 29,
+        "boxTouches": 18,
+        "fouls": 17,
+        "corners": 4,
+        "offsides": 5,
+        "saves": 5
+      }
     },
     "venue": "Parc des Princes, Paris",
     "broadcasts": [
@@ -2264,7 +2348,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-10T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "548",
     "awayTeamId": "511",
     "homeTeam": {
@@ -2272,6 +2356,34 @@
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 1.17,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 574,
+        "duelsWon": 51,
+        "boxTouches": 21,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.43,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 403,
+        "duelsWon": 41,
+        "boxTouches": 15,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Stade Louis II, Monaco"
   },
