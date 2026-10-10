@@ -1145,7 +1145,7 @@
         "xg": 1.09,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 269,
+        "accuratePasses": 277,
         "duelsWon": 50,
         "boxTouches": 7,
         "fouls": 11,
@@ -1155,12 +1155,12 @@
       },
       "away": {
         "possession": 68,
-        "xg": 2.04,
-        "shots": 20,
+        "xg": 2.19,
+        "shots": 22,
         "shotsOnTarget": 7,
-        "accuratePasses": 635,
+        "accuratePasses": 645,
         "duelsWon": 52,
-        "boxTouches": 31,
+        "boxTouches": 33,
         "fouls": 14,
         "corners": 10,
         "offsides": 2,
@@ -1213,7 +1213,8 @@
           "teamId": "78",
           "playerName": "Johnny Cardoso"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
@@ -1587,31 +1588,39 @@
   "SA": {
     "558582": {
       "home": {
-        "possession": 54,
-        "xg": 0.05,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 54,
-        "duelsWon": 9,
-        "boxTouches": 6,
-        "fouls": 1,
+        "possession": 45,
+        "xg": 0.28,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 74,
+        "duelsWon": 10,
+        "boxTouches": 11,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 46,
+        "possession": 55,
         "xg": 0.04,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 45,
+        "accuratePasses": 91,
         "duelsWon": 5,
         "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 1
-      }
+      },
+      "events": [
+        {
+          "minute": "13'",
+          "type": "goal",
+          "teamId": "108",
+          "playerName": "Petar Sučić"
+        }
+      ]
     },
     "558588": {
       "home": {
@@ -1721,7 +1730,7 @@
         "xg": 0.72,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 144,
+        "accuratePasses": 146,
         "duelsWon": 18,
         "boxTouches": 5,
         "fouls": 7,
@@ -1756,26 +1765,26 @@
   "DED": {
     "558880": {
       "home": {
-        "possession": 63,
+        "possession": 62,
         "xg": 1.18,
         "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 396,
-        "duelsWon": 22,
-        "boxTouches": 27,
-        "fouls": 3,
+        "accuratePasses": 415,
+        "duelsWon": 23,
+        "boxTouches": 28,
+        "fouls": 4,
         "corners": 6,
         "offsides": 0,
         "saves": 5
       },
       "away": {
-        "possession": 37,
-        "xg": 1.4,
-        "shots": 16,
-        "shotsOnTarget": 7,
-        "accuratePasses": 216,
-        "duelsWon": 28,
-        "boxTouches": 17,
+        "possession": 38,
+        "xg": 1.85,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 232,
+        "duelsWon": 34,
+        "boxTouches": 18,
         "fouls": 8,
         "corners": 6,
         "offsides": 0,
@@ -1835,6 +1844,12 @@
           "type": "yellow-card",
           "teamId": "6806",
           "playerName": "Lushendry Martes"
+        },
+        {
+          "minute": "84'",
+          "type": "goal",
+          "teamId": "6806",
+          "playerName": "Casper Terho"
         }
       ]
     }
