@@ -2,27 +2,27 @@
   "PL": {
     "560593": {
       "home": {
-        "possession": 58,
-        "xg": 1.23,
-        "shots": 7,
+        "possession": 59,
+        "xg": 1.3,
+        "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 311,
-        "duelsWon": 34,
-        "boxTouches": 19,
+        "accuratePasses": 337,
+        "duelsWon": 38,
+        "boxTouches": 23,
         "fouls": 7,
-        "corners": 0,
+        "corners": 2,
         "offsides": 7,
         "saves": 4
       },
       "away": {
-        "possession": 42,
-        "xg": 0.66,
-        "shots": 10,
+        "possession": 41,
+        "xg": 0.68,
+        "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 207,
-        "duelsWon": 28,
+        "accuratePasses": 212,
+        "duelsWon": 30,
         "boxTouches": 11,
-        "fouls": 14,
+        "fouls": 16,
         "corners": 4,
         "offsides": 4,
         "saves": 2
@@ -72,30 +72,30 @@
   "ELC": {
     "561857": {
       "home": {
-        "possession": 49,
-        "xg": 0.43,
-        "shots": 7,
-        "shotsOnTarget": 0,
-        "accuratePasses": 249,
-        "duelsWon": 30,
-        "boxTouches": 16,
-        "fouls": 4,
-        "corners": 5,
+        "possession": 50,
+        "xg": 0.91,
+        "shots": 10,
+        "shotsOnTarget": 1,
+        "accuratePasses": 287,
+        "duelsWon": 35,
+        "boxTouches": 19,
+        "fouls": 6,
+        "corners": 6,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 51,
+        "possession": 50,
         "xg": 2.36,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 245,
-        "duelsWon": 39,
-        "boxTouches": 24,
-        "fouls": 6,
+        "accuratePasses": 281,
+        "duelsWon": 45,
+        "boxTouches": 25,
+        "fouls": 8,
         "corners": 8,
         "offsides": 2,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -122,13 +122,13 @@
     "561860": {
       "home": {
         "possession": 60,
-        "xg": 2.22,
-        "shots": 10,
+        "xg": 2.23,
+        "shots": 11,
         "shotsOnTarget": 7,
-        "accuratePasses": 350,
-        "duelsWon": 38,
-        "boxTouches": 15,
-        "fouls": 5,
+        "accuratePasses": 370,
+        "duelsWon": 40,
+        "boxTouches": 16,
+        "fouls": 7,
         "corners": 2,
         "offsides": 1,
         "saves": 2
@@ -138,10 +138,10 @@
         "xg": 0.21,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 210,
-        "duelsWon": 38,
+        "accuratePasses": 224,
+        "duelsWon": 40,
         "boxTouches": 10,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 3,
         "saves": 4
@@ -184,26 +184,26 @@
     },
     "561863": {
       "home": {
-        "possession": 49,
-        "xg": 0.97,
-        "shots": 6,
+        "possession": 53,
+        "xg": 1.01,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 153,
+        "accuratePasses": 211,
         "duelsWon": 35,
-        "boxTouches": 12,
+        "boxTouches": 14,
         "fouls": 9,
         "corners": 4,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 51,
-        "xg": 1.31,
-        "shots": 10,
+        "possession": 47,
+        "xg": 1.41,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 164,
-        "duelsWon": 44,
-        "boxTouches": 17,
+        "accuratePasses": 177,
+        "duelsWon": 49,
+        "boxTouches": 19,
         "fouls": 7,
         "corners": 5,
         "offsides": 1,
@@ -223,6 +223,12 @@
           "teamId": "387",
           "playerName": "Scott Twine",
           "penalty": true
+        },
+        {
+          "minute": "69'",
+          "type": "yellow-card",
+          "teamId": "348",
+          "playerName": "Billy Koumetio"
         }
       ]
     }
@@ -254,7 +260,8 @@
         "corners": 2,
         "offsides": 0,
         "saves": 1
-      }
+      },
+      "final": true
     }
   }
 }
