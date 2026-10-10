@@ -1956,11 +1956,11 @@
     },
     "558586": {
       "home": {
-        "possession": 50,
-        "xg": 2.07,
-        "shots": 14,
-        "shotsOnTarget": 4,
-        "accuratePasses": 225,
+        "possession": 49,
+        "xg": 2.09,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 240,
         "duelsWon": 26,
         "boxTouches": 28,
         "fouls": 4,
@@ -1969,17 +1969,17 @@
         "saves": 0
       },
       "away": {
-        "possession": 50,
-        "xg": 0.52,
-        "shots": 10,
+        "possession": 51,
+        "xg": 0.63,
+        "shots": 11,
         "shotsOnTarget": 0,
-        "accuratePasses": 226,
+        "accuratePasses": 257,
         "duelsWon": 32,
-        "boxTouches": 20,
-        "fouls": 7,
+        "boxTouches": 21,
+        "fouls": 8,
         "corners": 3,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -2101,12 +2101,12 @@
   "FL1": {
     "559666": {
       "home": {
-        "possession": 46,
+        "possession": 45,
         "xg": 2.94,
         "shots": 9,
         "shotsOnTarget": 7,
-        "accuratePasses": 213,
-        "duelsWon": 26,
+        "accuratePasses": 215,
+        "duelsWon": 28,
         "boxTouches": 22,
         "fouls": 4,
         "corners": 3,
@@ -2114,14 +2114,14 @@
         "saves": 1
       },
       "away": {
-        "possession": 54,
+        "possession": 55,
         "xg": 1.35,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 251,
-        "duelsWon": 24,
+        "accuratePasses": 266,
+        "duelsWon": 26,
         "boxTouches": 13,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 4,
         "offsides": 0,
         "saves": 2
@@ -2177,32 +2177,38 @@
           "teamId": "512",
           "playerName": "Pathé Mboup",
           "assist": "Ludovic Ajorque"
+        },
+        {
+          "minute": "60'",
+          "type": "red-card",
+          "teamId": "532",
+          "playerName": "Jordan Lefort"
         }
       ]
     },
     "559668": {
       "home": {
-        "possession": 44,
-        "xg": 0.33,
-        "shots": 5,
+        "possession": 43,
+        "xg": 0.35,
+        "shots": 6,
         "shotsOnTarget": 4,
-        "accuratePasses": 331,
-        "duelsWon": 27,
-        "boxTouches": 9,
+        "accuratePasses": 343,
+        "duelsWon": 30,
+        "boxTouches": 10,
         "fouls": 5,
         "corners": 2,
         "offsides": 0,
-        "saves": 1
+        "saves": 3
       },
       "away": {
-        "possession": 56,
-        "xg": 0.27,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 433,
-        "duelsWon": 19,
-        "boxTouches": 13,
-        "fouls": 8,
+        "possession": 57,
+        "xg": 0.42,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 464,
+        "duelsWon": 21,
+        "boxTouches": 14,
+        "fouls": 9,
         "corners": 4,
         "offsides": 3,
         "saves": 3
@@ -2230,29 +2236,29 @@
     },
     "559672": {
       "home": {
-        "possession": 71,
+        "possession": 72,
         "xg": 1.83,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 370,
-        "duelsWon": 28,
-        "boxTouches": 21,
+        "accuratePasses": 394,
+        "duelsWon": 31,
+        "boxTouches": 22,
         "fouls": 1,
         "corners": 1,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 29,
-        "xg": 0.24,
-        "shots": 4,
-        "shotsOnTarget": 1,
-        "accuratePasses": 112,
-        "duelsWon": 20,
-        "boxTouches": 7,
+        "possession": 28,
+        "xg": 0.86,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 114,
+        "duelsWon": 21,
+        "boxTouches": 8,
         "fouls": 9,
         "corners": 3,
-        "offsides": 5,
+        "offsides": 4,
         "saves": 3
       },
       "events": [
@@ -2268,33 +2274,40 @@
           "type": "yellow-card",
           "teamId": "535",
           "playerName": "Dame Gueye"
+        },
+        {
+          "minute": "54'",
+          "type": "goal",
+          "teamId": "535",
+          "playerName": "Louis Mafouta",
+          "assist": "Lucas Calodat"
         }
       ]
     },
     "559673": {
       "home": {
-        "possession": 52,
+        "possession": 51,
         "xg": 0.77,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 322,
-        "duelsWon": 31,
+        "accuratePasses": 337,
+        "duelsWon": 35,
         "boxTouches": 8,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 48,
-        "xg": 0.91,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 294,
-        "duelsWon": 22,
-        "boxTouches": 10,
-        "fouls": 7,
-        "corners": 3,
+        "possession": 49,
+        "xg": 1.03,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 323,
+        "duelsWon": 28,
+        "boxTouches": 15,
+        "fouls": 8,
+        "corners": 4,
         "offsides": 0,
         "saves": 0
       },
@@ -2326,6 +2339,19 @@
           "teamId": "511",
           "playerName": "Casper Tengstedt",
           "penalty": true
+        },
+        {
+          "minute": "54'",
+          "type": "yellow-card",
+          "teamId": "548",
+          "playerName": "Aleksandr Golovin"
+        },
+        {
+          "minute": "59'",
+          "type": "goal",
+          "teamId": "511",
+          "playerName": "Sion Oppong",
+          "assist": "Casper Tengstedt"
         }
       ]
     },
@@ -2665,25 +2691,25 @@
   "PPL": {
     "567321": {
       "home": {
-        "possession": 46,
+        "possession": 43,
         "xg": 0.3,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 89,
-        "duelsWon": 19,
-        "boxTouches": 2,
-        "fouls": 6,
+        "accuratePasses": 102,
+        "duelsWon": 20,
+        "boxTouches": 3,
+        "fouls": 7,
         "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 54,
+        "possession": 57,
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 106,
-        "duelsWon": 15,
+        "accuratePasses": 143,
+        "duelsWon": 17,
         "boxTouches": 3,
         "fouls": 5,
         "corners": 1,
@@ -2701,31 +2727,51 @@
     },
     "567322": {
       "home": {
-        "possession": 48,
-        "xg": 0.02,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 102,
-        "duelsWon": 10,
-        "boxTouches": 2,
-        "fouls": 9,
+        "possession": 51,
+        "xg": 0.11,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 132,
+        "duelsWon": 14,
+        "boxTouches": 7,
+        "fouls": 10,
         "corners": 1,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 52,
-        "xg": 0.53,
-        "shots": 3,
-        "shotsOnTarget": 2,
-        "accuratePasses": 119,
-        "duelsWon": 16,
-        "boxTouches": 5,
-        "fouls": 2,
+        "possession": 49,
+        "xg": 0.75,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 128,
+        "duelsWon": 20,
+        "boxTouches": 9,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "27'",
+          "type": "yellow-card",
+          "teamId": "582",
+          "playerName": "Jordan Holsgrove"
+        },
+        {
+          "minute": "29'",
+          "type": "goal",
+          "teamId": "5527",
+          "playerName": "Cihan Kahraman"
+        },
+        {
+          "minute": "31'",
+          "type": "yellow-card",
+          "teamId": "5527",
+          "playerName": "Cihan Kahraman"
+        }
+      ]
     },
     "567323": {
       "home": {
