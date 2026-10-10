@@ -1398,30 +1398,30 @@
     },
     "564702": {
       "home": {
-        "possession": 50,
-        "xg": 0.82,
-        "shots": 10,
-        "shotsOnTarget": 3,
-        "accuratePasses": 318,
-        "duelsWon": 36,
-        "boxTouches": 27,
-        "fouls": 6,
-        "corners": 7,
+        "possession": 49,
+        "xg": 0.95,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 323,
+        "duelsWon": 37,
+        "boxTouches": 28,
+        "fouls": 7,
+        "corners": 8,
         "offsides": 3,
         "saves": 3
       },
       "away": {
-        "possession": 50,
-        "xg": 0.33,
-        "shots": 10,
+        "possession": 51,
+        "xg": 0.46,
+        "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 327,
-        "duelsWon": 25,
-        "boxTouches": 18,
+        "accuratePasses": 354,
+        "duelsWon": 28,
+        "boxTouches": 20,
         "fouls": 8,
-        "corners": 1,
+        "corners": 3,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -1454,6 +1454,18 @@
           "type": "red-card",
           "teamId": "86",
           "playerName": "Vinícius Júnior"
+        },
+        {
+          "minute": "81'",
+          "type": "yellow-card",
+          "teamId": "86",
+          "playerName": "Ibrahima Konaté"
+        },
+        {
+          "minute": "83'",
+          "type": "yellow-card",
+          "teamId": "86",
+          "playerName": "Antonio Rüdiger"
         }
       ]
     }
@@ -1976,12 +1988,12 @@
     "558586": {
       "home": {
         "possession": 51,
-        "xg": 2.22,
-        "shots": 18,
-        "shotsOnTarget": 7,
-        "accuratePasses": 359,
+        "xg": 2.76,
+        "shots": 19,
+        "shotsOnTarget": 8,
+        "accuratePasses": 361,
         "duelsWon": 42,
-        "boxTouches": 31,
+        "boxTouches": 32,
         "fouls": 8,
         "corners": 6,
         "offsides": 1,
@@ -1992,10 +2004,10 @@
         "xg": 1.01,
         "shots": 17,
         "shotsOnTarget": 1,
-        "accuratePasses": 353,
-        "duelsWon": 48,
+        "accuratePasses": 354,
+        "duelsWon": 49,
         "boxTouches": 34,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 4,
         "offsides": 2,
         "saves": 5
@@ -2025,8 +2037,16 @@
           "type": "yellow-card",
           "teamId": "113",
           "playerName": "Benoît Badiashile"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "goal",
+          "teamId": "113",
+          "playerName": "Kevin De Bruyne",
+          "assist": "Giovane Nascimento"
         }
-      ]
+      ],
+      "final": true
     },
     "558588": {
       "home": {
@@ -2133,14 +2153,14 @@
     "559666": {
       "home": {
         "possession": 54,
-        "xg": 3.19,
-        "shots": 15,
-        "shotsOnTarget": 8,
-        "accuratePasses": 428,
-        "duelsWon": 41,
-        "boxTouches": 34,
-        "fouls": 5,
-        "corners": 3,
+        "xg": 3.71,
+        "shots": 19,
+        "shotsOnTarget": 9,
+        "accuratePasses": 466,
+        "duelsWon": 45,
+        "boxTouches": 39,
+        "fouls": 6,
+        "corners": 4,
         "offsides": 1,
         "saves": 2
       },
@@ -2149,13 +2169,13 @@
         "xg": 1.39,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 346,
-        "duelsWon": 36,
-        "boxTouches": 15,
-        "fouls": 9,
+        "accuratePasses": 363,
+        "duelsWon": 38,
+        "boxTouches": 16,
+        "fouls": 11,
         "corners": 5,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -2229,8 +2249,8 @@
         "xg": 0.49,
         "shots": 8,
         "shotsOnTarget": 5,
-        "accuratePasses": 398,
-        "duelsWon": 51,
+        "accuratePasses": 399,
+        "duelsWon": 54,
         "boxTouches": 14,
         "fouls": 9,
         "corners": 3,
@@ -2239,14 +2259,14 @@
       },
       "away": {
         "possession": 60,
-        "xg": 0.67,
-        "shots": 15,
+        "xg": 0.69,
+        "shots": 16,
         "shotsOnTarget": 3,
-        "accuratePasses": 619,
-        "duelsWon": 34,
-        "boxTouches": 22,
+        "accuratePasses": 629,
+        "duelsWon": 36,
+        "boxTouches": 25,
         "fouls": 13,
-        "corners": 8,
+        "corners": 9,
         "offsides": 3,
         "saves": 3
       },
@@ -2261,13 +2281,13 @@
           "minute": "58'",
           "type": "yellow-card",
           "teamId": "1045",
-          "playerName": "Hamari Traoré"
+          "playerName": "Samir Chergui"
         },
         {
           "minute": "58'",
           "type": "yellow-card",
           "teamId": "1045",
-          "playerName": "Samir Chergui"
+          "playerName": "Hamari Traoré"
         },
         {
           "minute": "68'",
@@ -2289,39 +2309,46 @@
           "playerName": "Patrick Zabi"
         },
         {
-          "minute": "90'+5'",
+          "minute": "90'+2'",
           "type": "yellow-card",
           "teamId": "1045",
           "playerName": "Maxime Lopez"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "yellow-card",
+          "teamId": "525",
+          "playerName": "Alexandre Dujeux"
         }
-      ]
+      ],
+      "final": true
     },
     "559672": {
       "home": {
-        "possession": 73,
-        "xg": 3.2,
-        "shots": 21,
-        "shotsOnTarget": 7,
-        "accuratePasses": 601,
-        "duelsWon": 48,
-        "boxTouches": 35,
-        "fouls": 2,
-        "corners": 3,
+        "possession": 72,
+        "xg": 3.99,
+        "shots": 22,
+        "shotsOnTarget": 8,
+        "accuratePasses": 612,
+        "duelsWon": 49,
+        "boxTouches": 37,
+        "fouls": 3,
+        "corners": 4,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 27,
-        "xg": 1.53,
+        "possession": 28,
+        "xg": 1.55,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 167,
+        "accuratePasses": 183,
         "duelsWon": 27,
         "boxTouches": 19,
-        "fouls": 16,
+        "fouls": 17,
         "corners": 4,
         "offsides": 5,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -2361,32 +2388,50 @@
           "type": "goal",
           "teamId": "524",
           "playerName": "Maghnes Akliouche"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "yellow-card",
+          "teamId": "535",
+          "playerName": "Billal Brahimi"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "535",
+          "playerName": "Noa Boissé"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "535",
+          "playerName": "Samuel Yohou"
         }
       ]
     },
     "559673": {
       "home": {
-        "possession": 60,
-        "xg": 1.02,
-        "shots": 15,
+        "possession": 58,
+        "xg": 1.06,
+        "shots": 16,
         "shotsOnTarget": 4,
-        "accuratePasses": 561,
-        "duelsWon": 50,
-        "boxTouches": 19,
-        "fouls": 9,
-        "corners": 3,
+        "accuratePasses": 574,
+        "duelsWon": 52,
+        "boxTouches": 22,
+        "fouls": 10,
+        "corners": 4,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 40,
-        "xg": 1.32,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 367,
-        "duelsWon": 37,
+        "possession": 42,
+        "xg": 1.37,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 408,
+        "duelsWon": 39,
         "boxTouches": 15,
-        "fouls": 15,
+        "fouls": 16,
         "corners": 4,
         "offsides": 1,
         "saves": 2
@@ -2439,7 +2484,8 @@
           "teamId": "511",
           "playerName": "Cristian Cásseres"
         }
-      ]
+      ],
+      "final": true
     },
     "559674": {
       "home": {
@@ -2559,30 +2605,30 @@
     },
     "558878": {
       "home": {
-        "possession": 62,
-        "xg": 0.96,
-        "shots": 11,
-        "shotsOnTarget": 2,
-        "accuratePasses": 337,
-        "duelsWon": 38,
-        "boxTouches": 19,
+        "possession": 60,
+        "xg": 1.27,
+        "shots": 14,
+        "shotsOnTarget": 3,
+        "accuratePasses": 355,
+        "duelsWon": 41,
+        "boxTouches": 25,
         "fouls": 8,
         "corners": 4,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 38,
+        "possession": 40,
         "xg": 1.03,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 173,
-        "duelsWon": 35,
+        "accuratePasses": 204,
+        "duelsWon": 36,
         "boxTouches": 22,
-        "fouls": 10,
-        "corners": 3,
-        "offsides": 4,
-        "saves": 1
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 5,
+        "saves": 3
       },
       "events": [
         {
@@ -2789,26 +2835,26 @@
   "PPL": {
     "567321": {
       "home": {
-        "possession": 44,
+        "possession": 45,
         "xg": 0.34,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 153,
-        "duelsWon": 27,
-        "boxTouches": 4,
-        "fouls": 10,
+        "accuratePasses": 164,
+        "duelsWon": 29,
+        "boxTouches": 6,
+        "fouls": 11,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 56,
+        "possession": 55,
         "xg": 0.05,
-        "shots": 2,
+        "shots": 3,
         "shotsOnTarget": 0,
         "accuratePasses": 202,
-        "duelsWon": 23,
-        "boxTouches": 3,
+        "duelsWon": 26,
+        "boxTouches": 4,
         "fouls": 6,
         "corners": 1,
         "offsides": 1,
@@ -2820,32 +2866,38 @@
           "type": "yellow-card",
           "teamId": "5530",
           "playerName": "Djé Tavares"
+        },
+        {
+          "minute": "53'",
+          "type": "red-card",
+          "teamId": "6618",
+          "playerName": "David Sousa"
         }
       ]
     },
     "567322": {
       "home": {
-        "possession": 50,
+        "possession": 47,
         "xg": 0.35,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 187,
-        "duelsWon": 18,
+        "accuratePasses": 190,
+        "duelsWon": 19,
         "boxTouches": 11,
-        "fouls": 15,
+        "fouls": 16,
         "corners": 1,
         "offsides": 1,
         "saves": 4
       },
       "away": {
-        "possession": 50,
-        "xg": 0.78,
-        "shots": 7,
+        "possession": 53,
+        "xg": 0.89,
+        "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 194,
-        "duelsWon": 28,
-        "boxTouches": 10,
-        "fouls": 3,
+        "accuratePasses": 219,
+        "duelsWon": 29,
+        "boxTouches": 11,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 1
