@@ -2,26 +2,26 @@
   "PL": {
     "560593": {
       "home": {
-        "possession": 62,
+        "possession": 59,
         "xg": 2.06,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 426,
-        "duelsWon": 47,
+        "accuratePasses": 429,
+        "duelsWon": 48,
         "boxTouches": 33,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 2,
         "offsides": 7,
         "saves": 4
       },
       "away": {
-        "possession": 38,
+        "possession": 41,
         "xg": 0.68,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 229,
-        "duelsWon": 38,
-        "boxTouches": 12,
+        "accuratePasses": 268,
+        "duelsWon": 40,
+        "boxTouches": 14,
         "fouls": 20,
         "corners": 4,
         "offsides": 4,
@@ -91,25 +91,25 @@
   "ELC": {
     "561857": {
       "home": {
-        "possession": 53,
-        "xg": 1,
-        "shots": 12,
+        "possession": 55,
+        "xg": 1.04,
+        "shots": 13,
         "shotsOnTarget": 2,
-        "accuratePasses": 371,
-        "duelsWon": 47,
-        "boxTouches": 21,
-        "fouls": 7,
+        "accuratePasses": 414,
+        "duelsWon": 51,
+        "boxTouches": 23,
+        "fouls": 8,
         "corners": 7,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 47,
+        "possession": 45,
         "xg": 2.44,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 312,
-        "duelsWon": 50,
+        "accuratePasses": 318,
+        "duelsWon": 56,
         "boxTouches": 26,
         "fouls": 12,
         "corners": 8,
@@ -147,33 +147,45 @@
           "type": "yellow-card",
           "teamId": "332",
           "playerName": "Jay Stansfield"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "332",
+          "playerName": "Bright Osayi-Samuel"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "74",
+          "playerName": "Jimmy-Jay Morgan"
         }
       ]
     },
     "561860": {
       "home": {
-        "possession": 59,
+        "possession": 57,
         "xg": 2.25,
         "shots": 12,
         "shotsOnTarget": 8,
-        "accuratePasses": 441,
-        "duelsWon": 51,
+        "accuratePasses": 448,
+        "duelsWon": 54,
         "boxTouches": 16,
         "fouls": 10,
         "corners": 2,
         "offsides": 2,
-        "saves": 2
+        "saves": 4
       },
       "away": {
-        "possession": 41,
-        "xg": 0.25,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 268,
-        "duelsWon": 49,
-        "boxTouches": 13,
-        "fouls": 7,
-        "corners": 1,
+        "possession": 43,
+        "xg": 0.27,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 303,
+        "duelsWon": 55,
+        "boxTouches": 19,
+        "fouls": 8,
+        "corners": 2,
         "offsides": 4,
         "saves": 5
       },
@@ -215,27 +227,27 @@
     },
     "561863": {
       "home": {
-        "possession": 55,
-        "xg": 1.75,
+        "possession": 54,
+        "xg": 1.79,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 263,
-        "duelsWon": 42,
+        "accuratePasses": 267,
+        "duelsWon": 48,
         "boxTouches": 20,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 4,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 45,
-        "xg": 1.45,
-        "shots": 12,
+        "possession": 46,
+        "xg": 1.5,
+        "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 198,
-        "duelsWon": 54,
-        "boxTouches": 19,
-        "fouls": 8,
+        "accuratePasses": 218,
+        "duelsWon": 57,
+        "boxTouches": 22,
+        "fouls": 10,
         "corners": 5,
         "offsides": 1,
         "saves": 2
@@ -298,27 +310,27 @@
   "SA": {
     "558588": {
       "home": {
-        "possession": 46,
-        "xg": 0.51,
-        "shots": 3,
-        "shotsOnTarget": 2,
-        "accuratePasses": 39,
-        "duelsWon": 6,
-        "boxTouches": 3,
+        "possession": 45,
+        "xg": 1.09,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 53,
+        "duelsWon": 9,
+        "boxTouches": 5,
         "fouls": 1,
         "corners": 0,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 54,
+        "possession": 55,
         "xg": 0.07,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 46,
-        "duelsWon": 9,
+        "accuratePasses": 69,
+        "duelsWon": 11,
         "boxTouches": 1,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -330,6 +342,19 @@
           "teamId": "107",
           "playerName": "Milutin Osmajić",
           "assist": "Mikael Egill Ellertsson"
+        },
+        {
+          "minute": "15'",
+          "type": "goal",
+          "teamId": "107",
+          "playerName": "Junior Messias",
+          "assist": "Milutin Osmajić"
+        },
+        {
+          "minute": "15'",
+          "type": "yellow-card",
+          "teamId": "99",
+          "playerName": "Luca Ranieri"
         }
       ]
     }
