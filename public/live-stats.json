@@ -2,25 +2,25 @@
   "PL": {
     "560594": {
       "home": {
-        "possession": 43,
-        "xg": 0.55,
-        "shots": 5,
-        "shotsOnTarget": 3,
-        "accuratePasses": 129,
-        "duelsWon": 19,
-        "boxTouches": 13,
+        "possession": 42,
+        "xg": 1.09,
+        "shots": 6,
+        "shotsOnTarget": 4,
+        "accuratePasses": 147,
+        "duelsWon": 20,
+        "boxTouches": 14,
         "fouls": 9,
-        "corners": 5,
+        "corners": 6,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 57,
-        "xg": 0.85,
-        "shots": 10,
-        "shotsOnTarget": 3,
-        "accuratePasses": 200,
-        "duelsWon": 31,
+        "possession": 58,
+        "xg": 0.87,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 237,
+        "duelsWon": 32,
         "boxTouches": 15,
         "fouls": 1,
         "corners": 5,
@@ -39,33 +39,40 @@
           "type": "yellow-card",
           "teamId": "322",
           "playerName": "Oli McBurnie"
+        },
+        {
+          "minute": "49'",
+          "type": "goal",
+          "teamId": "322",
+          "playerName": "Joe Gelhardt",
+          "assist": "Sorba Thomas"
         }
       ]
     },
     "560596": {
       "home": {
-        "possession": 48,
+        "possession": 46,
         "xg": 1.39,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 160,
-        "duelsWon": 28,
+        "accuratePasses": 168,
+        "duelsWon": 30,
         "boxTouches": 12,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 2,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 52,
-        "xg": 2.17,
-        "shots": 16,
-        "shotsOnTarget": 4,
-        "accuratePasses": 176,
-        "duelsWon": 24,
-        "boxTouches": 22,
+        "possession": 54,
+        "xg": 2.36,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 200,
+        "duelsWon": 31,
+        "boxTouches": 31,
         "fouls": 6,
-        "corners": 3,
+        "corners": 4,
         "offsides": 0,
         "saves": 2
       },
@@ -248,30 +255,30 @@
   "BL1": {
     "565814": {
       "home": {
-        "possession": 50,
-        "xg": 0.27,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 135,
-        "duelsWon": 22,
-        "boxTouches": 4,
+        "possession": 52,
+        "xg": 0.38,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 171,
+        "duelsWon": 26,
+        "boxTouches": 6,
         "fouls": 4,
         "corners": 0,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 50,
-        "xg": 0.3,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 127,
-        "duelsWon": 16,
-        "boxTouches": 8,
+        "possession": 48,
+        "xg": 0.7,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 149,
+        "duelsWon": 19,
+        "boxTouches": 12,
         "fouls": 7,
         "corners": 3,
         "offsides": 0,
-        "saves": 0
+        "saves": 2
       },
       "events": [
         {
@@ -291,6 +298,13 @@
           "type": "goal",
           "teamId": "1",
           "playerName": "Ísak Jóhannesson"
+        },
+        {
+          "minute": "39'",
+          "type": "goal",
+          "teamId": "18",
+          "playerName": "Joseph Scally",
+          "method": "header"
         }
       ]
     }
@@ -298,27 +312,27 @@
   "SA": {
     "558581": {
       "home": {
-        "possession": 54,
-        "xg": 0.06,
-        "shots": 2,
+        "possession": 55,
+        "xg": 0.38,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 183,
-        "duelsWon": 18,
-        "boxTouches": 10,
+        "accuratePasses": 211,
+        "duelsWon": 23,
+        "boxTouches": 13,
         "fouls": 16,
         "corners": 4,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 46,
+        "possession": 45,
         "xg": 0.24,
         "shots": 4,
         "shotsOnTarget": 3,
-        "accuratePasses": 154,
-        "duelsWon": 40,
-        "boxTouches": 8,
-        "fouls": 2,
+        "accuratePasses": 164,
+        "duelsWon": 44,
+        "boxTouches": 10,
+        "fouls": 4,
         "corners": 1,
         "offsides": 1,
         "saves": 0
@@ -360,26 +374,26 @@
     },
     "558583": {
       "home": {
-        "possession": 64,
+        "possession": 65,
         "xg": 0.57,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 290,
+        "accuratePasses": 331,
         "duelsWon": 24,
-        "boxTouches": 15,
-        "fouls": 5,
+        "boxTouches": 16,
+        "fouls": 6,
         "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 36,
-        "xg": 0.81,
-        "shots": 8,
+        "possession": 35,
+        "xg": 1.25,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 133,
-        "duelsWon": 24,
-        "boxTouches": 16,
+        "accuratePasses": 151,
+        "duelsWon": 25,
+        "boxTouches": 19,
         "fouls": 6,
         "corners": 5,
         "offsides": 1,
@@ -425,6 +439,12 @@
           "playerName": "Saba Goglichidze",
           "method": "header",
           "assist": "Dany Mota"
+        },
+        {
+          "minute": "56'",
+          "type": "yellow-card",
+          "teamId": "110",
+          "playerName": "Oliver Provstgaard"
         }
       ]
     },
@@ -499,30 +519,30 @@
   "FL1": {
     "559670": {
       "home": {
-        "possession": 45,
-        "xg": 0.19,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 205,
-        "duelsWon": 21,
-        "boxTouches": 7,
+        "possession": 48,
+        "xg": 0.84,
+        "shots": 7,
+        "shotsOnTarget": 5,
+        "accuratePasses": 251,
+        "duelsWon": 28,
+        "boxTouches": 16,
         "fouls": 0,
         "corners": 1,
         "offsides": 3,
         "saves": 2
       },
       "away": {
-        "possession": 55,
+        "possession": 52,
         "xg": 0.24,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 256,
-        "duelsWon": 21,
+        "accuratePasses": 284,
+        "duelsWon": 23,
         "boxTouches": 13,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 1,
         "offsides": 1,
-        "saves": 1
+        "saves": 4
       },
       "events": [
         {
@@ -551,27 +571,27 @@
   "DED": {
     "558874": {
       "home": {
-        "possession": 44,
-        "xg": 0.89,
-        "shots": 12,
+        "possession": 45,
+        "xg": 0.96,
+        "shots": 14,
         "shotsOnTarget": 6,
-        "accuratePasses": 218,
+        "accuratePasses": 238,
         "duelsWon": 49,
-        "boxTouches": 24,
-        "fouls": 15,
+        "boxTouches": 25,
+        "fouls": 14,
         "corners": 5,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 56,
-        "xg": 0.64,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 317,
+        "possession": 55,
+        "xg": 0.8,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 324,
         "duelsWon": 48,
-        "boxTouches": 26,
-        "fouls": 13,
+        "boxTouches": 28,
+        "fouls": 14,
         "corners": 5,
         "offsides": 3,
         "saves": 6
@@ -606,19 +626,25 @@
           "type": "yellow-card",
           "teamId": "1909",
           "playerName": "Morgan Costarelli"
+        },
+        {
+          "minute": "83'",
+          "type": "goal",
+          "teamId": "1909",
+          "playerName": "Nicolas Binder"
         }
       ]
     },
     "558875": {
       "home": {
         "possession": 67,
-        "xg": 2.65,
-        "shots": 26,
+        "xg": 2.86,
+        "shots": 29,
         "shotsOnTarget": 4,
-        "accuratePasses": 465,
-        "duelsWon": 40,
-        "boxTouches": 40,
-        "fouls": 7,
+        "accuratePasses": 496,
+        "duelsWon": 45,
+        "boxTouches": 44,
+        "fouls": 8,
         "corners": 7,
         "offsides": 2,
         "saves": 0
@@ -628,10 +654,10 @@
         "xg": 1.38,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 203,
-        "duelsWon": 30,
-        "boxTouches": 11,
-        "fouls": 9,
+        "accuratePasses": 210,
+        "duelsWon": 34,
+        "boxTouches": 12,
+        "fouls": 10,
         "corners": 0,
         "offsides": 2,
         "saves": 2
@@ -682,6 +708,12 @@
           "type": "yellow-card",
           "teamId": "680",
           "playerName": "Alex Pozo"
+        },
+        {
+          "minute": "85'",
+          "type": "yellow-card",
+          "teamId": "1912",
+          "playerName": "Abdelnor Soualhia"
         }
       ]
     },
