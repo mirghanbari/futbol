@@ -333,12 +333,12 @@
   "PD": {
     "564701": {
       "home": {
-        "possession": 55,
-        "xg": 2.13,
+        "possession": 56,
+        "xg": 1.99,
         "shots": 12,
-        "shotsOnTarget": 5,
-        "accuratePasses": 287,
-        "duelsWon": 28,
+        "shotsOnTarget": 4,
+        "accuratePasses": 326,
+        "duelsWon": 32,
         "boxTouches": 19,
         "fouls": 7,
         "corners": 7,
@@ -346,15 +346,15 @@
         "saves": 2
       },
       "away": {
-        "possession": 45,
-        "xg": 0.8,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 227,
-        "duelsWon": 32,
-        "boxTouches": 7,
-        "fouls": 8,
-        "corners": 1,
+        "possession": 44,
+        "xg": 1.42,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 244,
+        "duelsWon": 35,
+        "boxTouches": 9,
+        "fouls": 10,
+        "corners": 2,
         "offsides": 2,
         "saves": 2
       },
@@ -409,7 +409,8 @@
           "minute": "56'",
           "type": "goal",
           "teamId": "79",
-          "playerName": "<TBD>"
+          "playerName": "Raúl García",
+          "assist": "Alejandro Catena"
         }
       ]
     },
@@ -624,27 +625,27 @@
   "SA": {
     "558580": {
       "home": {
-        "possession": 42,
+        "possession": 41,
         "xg": 1.06,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 368,
-        "duelsWon": 35,
+        "accuratePasses": 378,
+        "duelsWon": 40,
         "boxTouches": 19,
-        "fouls": 9,
+        "fouls": 12,
         "corners": 3,
         "offsides": 1,
         "saves": 5
       },
       "away": {
-        "possession": 58,
+        "possession": 59,
         "xg": 1.16,
         "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 514,
-        "duelsWon": 33,
+        "accuratePasses": 546,
+        "duelsWon": 37,
         "boxTouches": 27,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 5,
         "offsides": 0,
         "saves": 2
@@ -674,6 +675,12 @@
           "type": "goal",
           "teamId": "471",
           "playerName": "Cas Odenthal"
+        },
+        {
+          "minute": "87'",
+          "type": "yellow-card",
+          "teamId": "98",
+          "playerName": "Gonçalo Ramos"
         }
       ]
     },
@@ -1410,7 +1417,7 @@
       "away": {
         "possession": 34,
         "xg": 0.3,
-        "shots": 4,
+        "shots": 3,
         "shotsOnTarget": 0,
         "accuratePasses": 109,
         "duelsWon": 27,
