@@ -1777,8 +1777,8 @@
         "xg": 0.74,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 244,
-        "duelsWon": 33,
+        "accuratePasses": 264,
+        "duelsWon": 37,
         "boxTouches": 14,
         "fouls": 10,
         "corners": 5,
@@ -1787,12 +1787,12 @@
       },
       "away": {
         "possession": 63,
-        "xg": 1.4,
-        "shots": 10,
+        "xg": 1.45,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 470,
+        "accuratePasses": 504,
         "duelsWon": 39,
-        "boxTouches": 22,
+        "boxTouches": 23,
         "fouls": 7,
         "corners": 6,
         "offsides": 3,
@@ -1815,14 +1815,14 @@
         {
           "minute": "45'+8'",
           "type": "yellow-card",
-          "teamId": "712",
-          "playerName": "Barbero"
+          "teamId": "9136",
+          "playerName": "Abraham Marcus"
         },
         {
           "minute": "45'+8'",
           "type": "yellow-card",
-          "teamId": "9136",
-          "playerName": "Abraham Marcus"
+          "teamId": "712",
+          "playerName": "Barbero"
         },
         {
           "minute": "50'",
