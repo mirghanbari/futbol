@@ -334,10 +334,10 @@
     "564701": {
       "home": {
         "possession": 58,
-        "xg": 1.83,
+        "xg": 1.91,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 257,
+        "accuratePasses": 258,
         "duelsWon": 24,
         "boxTouches": 16,
         "fouls": 6,
@@ -604,26 +604,26 @@
   "SA": {
     "558580": {
       "home": {
-        "possession": 41,
-        "xg": 0.84,
+        "possession": 40,
+        "xg": 1.06,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 275,
+        "accuratePasses": 292,
         "duelsWon": 33,
         "boxTouches": 19,
         "fouls": 9,
         "corners": 3,
         "offsides": 1,
-        "saves": 4
+        "saves": 5
       },
       "away": {
-        "possession": 59,
-        "xg": 0.99,
-        "shots": 10,
-        "shotsOnTarget": 5,
-        "accuratePasses": 404,
-        "duelsWon": 27,
-        "boxTouches": 22,
+        "possession": 60,
+        "xg": 1.16,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 450,
+        "duelsWon": 29,
+        "boxTouches": 23,
         "fouls": 6,
         "corners": 4,
         "offsides": 0,
@@ -1375,27 +1375,27 @@
   "PPL": {
     "567320": {
       "home": {
-        "possession": 80,
-        "xg": 1.52,
-        "shots": 13,
+        "possession": 78,
+        "xg": 1.66,
+        "shots": 15,
         "shotsOnTarget": 3,
-        "accuratePasses": 175,
-        "duelsWon": 21,
-        "boxTouches": 27,
+        "accuratePasses": 210,
+        "duelsWon": 25,
+        "boxTouches": 31,
         "fouls": 3,
-        "corners": 7,
-        "offsides": 0,
+        "corners": 8,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 20,
+        "possession": 22,
         "xg": 0.25,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 31,
-        "duelsWon": 19,
+        "accuratePasses": 41,
+        "duelsWon": 21,
         "boxTouches": 3,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 1,
         "offsides": 1,
         "saves": 2
@@ -1413,6 +1413,12 @@
           "teamId": "1903",
           "playerName": "Samuel Dahl",
           "assist": "Vangelis Pavlidis"
+        },
+        {
+          "minute": "33'",
+          "type": "yellow-card",
+          "teamId": "5543",
+          "playerName": "Gonçalo Nogueira"
         }
       ]
     },
