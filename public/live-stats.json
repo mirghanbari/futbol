@@ -1773,29 +1773,29 @@
     },
     "567324": {
       "home": {
-        "possession": 38,
-        "xg": 0.67,
-        "shots": 6,
+        "possession": 37,
+        "xg": 0.74,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 239,
+        "accuratePasses": 244,
         "duelsWon": 33,
         "boxTouches": 14,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 5,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 62,
+        "possession": 63,
         "xg": 1.4,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 432,
-        "duelsWon": 38,
+        "accuratePasses": 470,
+        "duelsWon": 39,
         "boxTouches": 22,
         "fouls": 7,
         "corners": 6,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 2
       },
       "events": [
@@ -1841,6 +1841,12 @@
           "type": "yellow-card",
           "teamId": "712",
           "playerName": "Taichi Fukui"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "712",
+          "playerName": "Jose Fontán"
         }
       ]
     },
