@@ -2,29 +2,29 @@
   "PL": {
     "560594": {
       "home": {
-        "possession": 41,
+        "possession": 38,
         "xg": 1.09,
         "shots": 6,
         "shotsOnTarget": 4,
-        "accuratePasses": 152,
-        "duelsWon": 21,
+        "accuratePasses": 161,
+        "duelsWon": 24,
         "boxTouches": 14,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 6,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 4
       },
       "away": {
-        "possession": 59,
+        "possession": 62,
         "xg": 1.41,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 253,
-        "duelsWon": 35,
-        "boxTouches": 17,
+        "accuratePasses": 314,
+        "duelsWon": 40,
+        "boxTouches": 20,
         "fouls": 1,
         "corners": 6,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 2
       },
       "events": [
@@ -59,30 +59,30 @@
     },
     "560596": {
       "home": {
-        "possession": 46,
-        "xg": 1.49,
-        "shots": 8,
-        "shotsOnTarget": 5,
-        "accuratePasses": 173,
-        "duelsWon": 32,
-        "boxTouches": 14,
+        "possession": 47,
+        "xg": 2.15,
+        "shots": 10,
+        "shotsOnTarget": 7,
+        "accuratePasses": 188,
+        "duelsWon": 33,
+        "boxTouches": 16,
         "fouls": 10,
         "corners": 3,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 54,
+        "possession": 53,
         "xg": 2.36,
         "shots": 19,
         "shotsOnTarget": 5,
-        "accuratePasses": 213,
-        "duelsWon": 34,
+        "accuratePasses": 221,
+        "duelsWon": 35,
         "boxTouches": 33,
         "fouls": 7,
         "corners": 5,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -111,6 +111,18 @@
           "playerName": "Jefferson Lerma",
           "method": "header",
           "assist": "Adam Wharton"
+        },
+        {
+          "minute": "59'",
+          "type": "goal",
+          "teamId": "354",
+          "playerName": "Yéremi Pino"
+        },
+        {
+          "minute": "60'",
+          "type": "yellow-card",
+          "teamId": "354",
+          "playerName": "Yéremi Pino"
         }
       ]
     }
@@ -263,12 +275,12 @@
   "BL1": {
     "565814": {
       "home": {
-        "possession": 52,
+        "possession": 51,
         "xg": 0.42,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 174,
-        "duelsWon": 27,
+        "accuratePasses": 176,
+        "duelsWon": 29,
         "boxTouches": 6,
         "fouls": 5,
         "corners": 0,
@@ -276,13 +288,13 @@
         "saves": 3
       },
       "away": {
-        "possession": 48,
+        "possession": 49,
         "xg": 0.77,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 152,
+        "accuratePasses": 157,
         "duelsWon": 20,
-        "boxTouches": 14,
+        "boxTouches": 15,
         "fouls": 8,
         "corners": 3,
         "offsides": 0,
@@ -320,28 +332,28 @@
   "SA": {
     "558581": {
       "home": {
-        "possession": 56,
-        "xg": 0.47,
+        "possession": 54,
+        "xg": 0.45,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 237,
-        "duelsWon": 25,
-        "boxTouches": 18,
+        "accuratePasses": 241,
+        "duelsWon": 27,
+        "boxTouches": 19,
         "fouls": 16,
         "corners": 4,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 44,
-        "xg": 0.24,
-        "shots": 4,
+        "possession": 46,
+        "xg": 0.33,
+        "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 175,
-        "duelsWon": 45,
-        "boxTouches": 10,
+        "accuratePasses": 191,
+        "duelsWon": 48,
+        "boxTouches": 14,
         "fouls": 4,
-        "corners": 1,
+        "corners": 3,
         "offsides": 1,
         "saves": 0
       },
@@ -382,25 +394,25 @@
     },
     "558583": {
       "home": {
-        "possession": 65,
-        "xg": 0.57,
-        "shots": 10,
+        "possession": 67,
+        "xg": 0.58,
+        "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 351,
-        "duelsWon": 27,
-        "boxTouches": 18,
+        "accuratePasses": 408,
+        "duelsWon": 28,
+        "boxTouches": 19,
         "fouls": 6,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 35,
+        "possession": 33,
         "xg": 1.72,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 158,
-        "duelsWon": 26,
+        "accuratePasses": 168,
+        "duelsWon": 28,
         "boxTouches": 21,
         "fouls": 7,
         "corners": 6,
@@ -527,28 +539,28 @@
   "FL1": {
     "559670": {
       "home": {
-        "possession": 47,
+        "possession": 45,
         "xg": 1.18,
         "shots": 8,
         "shotsOnTarget": 5,
-        "accuratePasses": 269,
+        "accuratePasses": 274,
         "duelsWon": 29,
         "boxTouches": 16,
         "fouls": 0,
         "corners": 1,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 2
       },
       "away": {
-        "possession": 53,
-        "xg": 0.24,
-        "shots": 7,
+        "possession": 55,
+        "xg": 0.31,
+        "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 317,
-        "duelsWon": 23,
-        "boxTouches": 14,
+        "accuratePasses": 347,
+        "duelsWon": 24,
+        "boxTouches": 15,
         "fouls": 7,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
         "saves": 4
       },
@@ -580,11 +592,11 @@
     "558874": {
       "home": {
         "possession": 46,
-        "xg": 0.96,
-        "shots": 14,
+        "xg": 0.98,
+        "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 250,
-        "duelsWon": 50,
+        "accuratePasses": 262,
+        "duelsWon": 55,
         "boxTouches": 25,
         "fouls": 16,
         "corners": 5,
@@ -596,8 +608,8 @@
         "xg": 0.82,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 334,
-        "duelsWon": 53,
+        "accuratePasses": 345,
+        "duelsWon": 55,
         "boxTouches": 30,
         "fouls": 15,
         "corners": 5,
@@ -608,14 +620,14 @@
         {
           "minute": "39'",
           "type": "yellow-card",
-          "teamId": "684",
-          "playerName": "Sherel Floranus"
+          "teamId": "1909",
+          "playerName": "Devid Eugene Bouah"
         },
         {
           "minute": "39'",
           "type": "yellow-card",
-          "teamId": "1909",
-          "playerName": "Devid Eugene Bouah"
+          "teamId": "684",
+          "playerName": "Sherel Floranus"
         },
         {
           "minute": "52'",
@@ -647,16 +659,17 @@
           "teamId": "684",
           "playerName": "Gabriël Reiziger"
         }
-      ]
+      ],
+      "final": true
     },
     "558875": {
       "home": {
-        "possession": 69,
+        "possession": 68,
         "xg": 2.86,
         "shots": 30,
         "shotsOnTarget": 4,
-        "accuratePasses": 541,
-        "duelsWon": 47,
+        "accuratePasses": 549,
+        "duelsWon": 48,
         "boxTouches": 48,
         "fouls": 8,
         "corners": 8,
@@ -664,12 +677,12 @@
         "saves": 0
       },
       "away": {
-        "possession": 31,
+        "possession": 32,
         "xg": 1.38,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 214,
-        "duelsWon": 36,
+        "accuratePasses": 218,
+        "duelsWon": 37,
         "boxTouches": 12,
         "fouls": 10,
         "corners": 0,
@@ -692,16 +705,16 @@
         },
         {
           "minute": "16'",
+          "type": "yellow-card",
+          "teamId": "1912",
+          "playerName": "Jelani Seedorf"
+        },
+        {
+          "minute": "16'",
           "type": "goal",
           "teamId": "680",
           "playerName": "Yannick Eduardo",
           "assist": "Evan Rottier"
-        },
-        {
-          "minute": "16'",
-          "type": "yellow-card",
-          "teamId": "1912",
-          "playerName": "Jelani Seedorf"
         },
         {
           "minute": "25'",
@@ -729,7 +742,8 @@
           "teamId": "1912",
           "playerName": "Abdelnor Soualhia"
         }
-      ]
+      ],
+      "final": true
     },
     "558876": {
       "home": {
