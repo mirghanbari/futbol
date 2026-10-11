@@ -2,25 +2,25 @@
   "PL": {
     "560594": {
       "home": {
-        "possession": 40,
+        "possession": 37,
         "xg": 1.21,
         "shots": 8,
         "shotsOnTarget": 5,
-        "accuratePasses": 200,
-        "duelsWon": 29,
-        "boxTouches": 18,
+        "accuratePasses": 204,
+        "duelsWon": 30,
+        "boxTouches": 19,
         "fouls": 13,
         "corners": 6,
         "offsides": 1,
         "saves": 4
       },
       "away": {
-        "possession": 60,
+        "possession": 63,
         "xg": 1.69,
         "shots": 14,
         "shotsOnTarget": 7,
-        "accuratePasses": 357,
-        "duelsWon": 46,
+        "accuratePasses": 412,
+        "duelsWon": 47,
         "boxTouches": 22,
         "fouls": 2,
         "corners": 6,
@@ -74,10 +74,10 @@
     "560596": {
       "home": {
         "possession": 47,
-        "xg": 2.15,
+        "xg": 2.3,
         "shots": 11,
         "shotsOnTarget": 7,
-        "accuratePasses": 238,
+        "accuratePasses": 250,
         "duelsWon": 36,
         "boxTouches": 20,
         "fouls": 10,
@@ -90,11 +90,11 @@
         "xg": 2.5,
         "shots": 22,
         "shotsOnTarget": 5,
-        "accuratePasses": 278,
+        "accuratePasses": 291,
         "duelsWon": 38,
         "boxTouches": 37,
         "fouls": 8,
-        "corners": 5,
+        "corners": 6,
         "offsides": 1,
         "saves": 4
       },
@@ -312,7 +312,7 @@
         "xg": 0.77,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 157,
+        "accuratePasses": 156,
         "duelsWon": 20,
         "boxTouches": 15,
         "fouls": 8,
@@ -353,11 +353,11 @@
     "558581": {
       "home": {
         "possession": 54,
-        "xg": 0.6,
-        "shots": 9,
-        "shotsOnTarget": 2,
-        "accuratePasses": 271,
-        "duelsWon": 35,
+        "xg": 0.49,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 288,
+        "duelsWon": 39,
         "boxTouches": 26,
         "fouls": 17,
         "corners": 7,
@@ -366,13 +366,13 @@
       },
       "away": {
         "possession": 46,
-        "xg": 1.07,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 226,
-        "duelsWon": 52,
-        "boxTouches": 22,
-        "fouls": 5,
+        "xg": 1.52,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 238,
+        "duelsWon": 55,
+        "boxTouches": 23,
+        "fouls": 6,
         "corners": 3,
         "offsides": 1,
         "saves": 1
@@ -419,39 +419,40 @@
           "assist": "Danilo Veiga"
         },
         {
-          "minute": "76'",
+          "minute": "75'",
           "type": "goal",
           "teamId": "103",
-          "playerName": "<TBD>"
+          "playerName": "Jay Enem",
+          "assist": "Nicolò Cambiaghi"
         }
       ]
     },
     "558583": {
       "home": {
-        "possession": 66,
+        "possession": 67,
         "xg": 0.59,
-        "shots": 12,
-        "shotsOnTarget": 5,
-        "accuratePasses": 465,
-        "duelsWon": 29,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 493,
+        "duelsWon": 33,
         "boxTouches": 23,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 5,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "away": {
-        "possession": 34,
-        "xg": 1.72,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 192,
-        "duelsWon": 37,
+        "possession": 33,
+        "xg": 1.8,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 199,
+        "duelsWon": 39,
         "boxTouches": 22,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 6,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -505,6 +506,12 @@
           "type": "yellow-card",
           "teamId": "110",
           "playerName": "Diogo Leite"
+        },
+        {
+          "minute": "79'",
+          "type": "yellow-card",
+          "teamId": "5911",
+          "playerName": "Ivan Jurić"
         }
       ]
     },
@@ -579,25 +586,25 @@
   "FL1": {
     "559670": {
       "home": {
-        "possession": 46,
-        "xg": 1.18,
-        "shots": 8,
-        "shotsOnTarget": 5,
-        "accuratePasses": 326,
-        "duelsWon": 34,
-        "boxTouches": 21,
-        "fouls": 1,
+        "possession": 49,
+        "xg": 1.26,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 380,
+        "duelsWon": 36,
+        "boxTouches": 23,
+        "fouls": 2,
         "corners": 2,
         "offsides": 5,
         "saves": 2
       },
       "away": {
-        "possession": 54,
+        "possession": 51,
         "xg": 0.48,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 391,
-        "duelsWon": 30,
+        "accuratePasses": 406,
+        "duelsWon": 33,
         "boxTouches": 17,
         "fouls": 8,
         "corners": 3,
@@ -630,6 +637,12 @@
           "type": "yellow-card",
           "teamId": "522",
           "playerName": "Sofiane Diop"
+        },
+        {
+          "minute": "81'",
+          "type": "goal",
+          "teamId": "522",
+          "playerName": "Jonathan Clauss"
         }
       ]
     }
@@ -865,22 +878,24 @@
   "PPL": {
     "567328": {
       "home": {
-        "possession": 84,
-        "shots": 0,
+        "possession": 83,
+        "xg": 0.03,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 18,
-        "duelsWon": 3,
-        "boxTouches": 1,
+        "accuratePasses": 70,
+        "duelsWon": 5,
+        "boxTouches": 2,
         "fouls": 0,
-        "corners": 0,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 16,
+        "possession": 17,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 1,
+        "accuratePasses": 7,
         "duelsWon": 1,
         "fouls": 1,
         "corners": 0,
