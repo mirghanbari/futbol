@@ -153,6 +153,30 @@
         }
       ],
       "final": true
+    },
+    "560598": {
+      "home": {
+        "possession": 67,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 2,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 33,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 1,
+        "duelsWon": 0,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   },
   "ELC": {
@@ -303,27 +327,27 @@
   "BL1": {
     "565814": {
       "home": {
-        "possession": 49,
-        "xg": 1.42,
-        "shots": 19,
+        "possession": 48,
+        "xg": 1.31,
+        "shots": 20,
         "shotsOnTarget": 7,
-        "accuratePasses": 308,
-        "duelsWon": 60,
-        "boxTouches": 27,
-        "fouls": 7,
+        "accuratePasses": 312,
+        "duelsWon": 64,
+        "boxTouches": 28,
+        "fouls": 8,
         "corners": 6,
         "offsides": 1,
         "saves": 6
       },
       "away": {
-        "possession": 51,
-        "xg": 1.14,
-        "shots": 15,
+        "possession": 52,
+        "xg": 1.16,
+        "shots": 16,
         "shotsOnTarget": 7,
-        "accuratePasses": 319,
-        "duelsWon": 40,
-        "boxTouches": 25,
-        "fouls": 16,
+        "accuratePasses": 339,
+        "duelsWon": 42,
+        "boxTouches": 26,
+        "fouls": 17,
         "corners": 6,
         "offsides": 1,
         "saves": 5
@@ -366,8 +390,42 @@
           "type": "yellow-card",
           "teamId": "18",
           "playerName": "Zento Uno"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "yellow-card",
+          "teamId": "18",
+          "playerName": "Shuto Machino"
         }
-      ]
+      ],
+      "final": true
+    },
+    "565816": {
+      "home": {
+        "possession": 44,
+        "xg": 0,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 3,
+        "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 56,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 7,
+        "duelsWon": 2,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      }
     }
   },
   "SA": {
@@ -622,31 +680,40 @@
   "FL1": {
     "559667": {
       "home": {
-        "possession": 45,
-        "xg": 0.02,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 34,
+        "possession": 53,
+        "xg": 0.29,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 80,
         "duelsWon": 2,
-        "boxTouches": 2,
-        "fouls": 2,
+        "boxTouches": 3,
+        "fouls": 3,
         "corners": 3,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 55,
+        "possession": 47,
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 47,
-        "duelsWon": 6,
+        "accuratePasses": 69,
+        "duelsWon": 8,
         "boxTouches": 4,
         "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "15'",
+          "type": "goal",
+          "teamId": "529",
+          "playerName": "Estéban Lepaul",
+          "assist": "Charlie Cresswell"
+        }
+      ]
     },
     "559670": {
       "home": {
@@ -715,27 +782,27 @@
   "DED": {
     "558873": {
       "home": {
-        "possession": 50,
-        "xg": 1.09,
-        "shots": 7,
+        "possession": 52,
+        "xg": 1.3,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 157,
-        "duelsWon": 21,
-        "boxTouches": 10,
+        "accuratePasses": 188,
+        "duelsWon": 25,
+        "boxTouches": 11,
         "fouls": 4,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 50,
+        "possession": 48,
         "xg": 1.38,
-        "shots": 7,
+        "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 154,
-        "duelsWon": 18,
-        "boxTouches": 12,
-        "fouls": 5,
+        "accuratePasses": 168,
+        "duelsWon": 19,
+        "boxTouches": 14,
+        "fouls": 6,
         "corners": 5,
         "offsides": 0,
         "saves": 0
