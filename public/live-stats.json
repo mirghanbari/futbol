@@ -1454,12 +1454,12 @@
     "567320": {
       "home": {
         "possession": 64,
-        "xg": 2.4,
-        "shots": 20,
-        "shotsOnTarget": 4,
-        "accuratePasses": 368,
-        "duelsWon": 48,
-        "boxTouches": 36,
+        "xg": 2.7,
+        "shots": 21,
+        "shotsOnTarget": 5,
+        "accuratePasses": 395,
+        "duelsWon": 49,
+        "boxTouches": 42,
         "fouls": 7,
         "corners": 10,
         "offsides": 1,
@@ -1470,10 +1470,10 @@
         "xg": 0.39,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 188,
-        "duelsWon": 42,
+        "accuratePasses": 192,
+        "duelsWon": 45,
         "boxTouches": 9,
-        "fouls": 17,
+        "fouls": 19,
         "corners": 4,
         "offsides": 2,
         "saves": 3
@@ -1521,6 +1521,19 @@
           "type": "yellow-card",
           "teamId": "5543",
           "playerName": "Samu"
+        },
+        {
+          "minute": "73'",
+          "type": "yellow-card",
+          "teamId": "5543",
+          "playerName": "Thiago Balieiro"
+        },
+        {
+          "minute": "75'",
+          "type": "goal",
+          "teamId": "1903",
+          "playerName": "Georgiy Sudakov",
+          "assist": "Claudio Echeverri"
         }
       ]
     },
