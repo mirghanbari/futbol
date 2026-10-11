@@ -509,25 +509,25 @@
     },
     "564705": {
       "home": {
-        "possession": 60,
-        "xg": 0.51,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 168,
+        "possession": 58,
+        "xg": 0.52,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 206,
         "duelsWon": 15,
-        "boxTouches": 15,
-        "fouls": 6,
+        "boxTouches": 17,
+        "fouls": 7,
         "corners": 4,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 40,
+        "possession": 42,
         "xg": 0.4,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 102,
-        "duelsWon": 21,
+        "accuratePasses": 134,
+        "duelsWon": 24,
         "boxTouches": 4,
         "fouls": 2,
         "corners": 0,
@@ -552,7 +552,8 @@
           "minute": "32'",
           "type": "goal",
           "teamId": "5335",
-          "playerName": "Yassir Zabiri"
+          "playerName": "Yassir Zabiri",
+          "assist": "Iñigo Vicente"
         }
       ]
     }
@@ -966,7 +967,7 @@
     },
     "558584": {
       "home": {
-        "possession": 29,
+        "possession": 28,
         "xg": 0.49,
         "shots": 3,
         "shotsOnTarget": 2,
@@ -979,21 +980,21 @@
         "saves": 1
       },
       "away": {
-        "possession": 71,
-        "xg": 0.22,
-        "shots": 7,
-        "shotsOnTarget": 0,
-        "accuratePasses": 387,
+        "possession": 72,
+        "xg": 0.3,
+        "shots": 9,
+        "shotsOnTarget": 1,
+        "accuratePasses": 389,
         "duelsWon": 19,
-        "boxTouches": 23,
+        "boxTouches": 26,
         "fouls": 5,
         "corners": 3,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "events": [
         {
-          "minute": "18'",
+          "minute": "17'",
           "type": "yellow-card",
           "teamId": "109",
           "playerName": "Weston McKennie"
@@ -1680,28 +1681,40 @@
     },
     "567324": {
       "home": {
-        "possession": 66,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 17,
-        "duelsWon": 2,
+        "possession": 76,
+        "xg": 0.05,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 38,
+        "duelsWon": 5,
+        "boxTouches": 4,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 34,
+        "possession": 24,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 5,
-        "duelsWon": 0,
+        "accuratePasses": 8,
+        "duelsWon": 1,
         "boxTouches": 1,
         "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "5'",
+          "type": "goal",
+          "teamId": "712",
+          "playerName": "Barbero",
+          "assist": "Naïs Djouahra"
+        }
+      ]
     },
     "567328": {
       "home": {
