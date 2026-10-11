@@ -2,27 +2,27 @@
   "PL": {
     "560594": {
       "home": {
-        "possession": 36,
-        "xg": 1.39,
+        "possession": 35,
+        "xg": 1.33,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 221,
-        "duelsWon": 34,
-        "boxTouches": 22,
-        "fouls": 14,
+        "accuratePasses": 223,
+        "duelsWon": 36,
+        "boxTouches": 23,
+        "fouls": 15,
         "corners": 7,
         "offsides": 1,
         "saves": 4
       },
       "away": {
-        "possession": 64,
+        "possession": 65,
         "xg": 1.71,
         "shots": 15,
         "shotsOnTarget": 7,
-        "accuratePasses": 487,
-        "duelsWon": 55,
-        "boxTouches": 25,
-        "fouls": 3,
+        "accuratePasses": 509,
+        "duelsWon": 57,
+        "boxTouches": 26,
+        "fouls": 4,
         "corners": 6,
         "offsides": 4,
         "saves": 2
@@ -69,32 +69,33 @@
           "playerName": "Mohamed Belloumi",
           "assist": "Elliot Stroud"
         }
-      ]
+      ],
+      "final": true
     },
     "560596": {
       "home": {
         "possession": 43,
-        "xg": 2.31,
-        "shots": 12,
+        "xg": 2.38,
+        "shots": 13,
         "shotsOnTarget": 7,
-        "accuratePasses": 281,
-        "duelsWon": 46,
-        "boxTouches": 20,
+        "accuratePasses": 288,
+        "duelsWon": 51,
+        "boxTouches": 23,
         "fouls": 11,
-        "corners": 4,
+        "corners": 5,
         "offsides": 2,
         "saves": 4
       },
       "away": {
         "possession": 57,
-        "xg": 2.94,
-        "shots": 23,
+        "xg": 2.97,
+        "shots": 24,
         "shotsOnTarget": 6,
-        "accuratePasses": 392,
-        "duelsWon": 45,
-        "boxTouches": 42,
-        "fouls": 9,
-        "corners": 7,
+        "accuratePasses": 401,
+        "duelsWon": 47,
+        "boxTouches": 44,
+        "fouls": 10,
+        "corners": 8,
         "offsides": 1,
         "saves": 4
       },
@@ -143,8 +144,15 @@
           "type": "yellow-card",
           "teamId": "351",
           "playerName": "Ola Aina"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "351",
+          "playerName": "Murillo"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "ELC": {
@@ -295,30 +303,30 @@
   "BL1": {
     "565814": {
       "home": {
-        "possession": 54,
-        "xg": 0.81,
+        "possession": 57,
+        "xg": 1.15,
         "shots": 17,
         "shotsOnTarget": 5,
-        "accuratePasses": 246,
-        "duelsWon": 36,
+        "accuratePasses": 286,
+        "duelsWon": 41,
         "boxTouches": 19,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 5,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 46,
+        "possession": 43,
         "xg": 0.77,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 187,
-        "duelsWon": 30,
+        "accuratePasses": 191,
+        "duelsWon": 33,
         "boxTouches": 17,
-        "fouls": 9,
+        "fouls": 11,
         "corners": 3,
-        "offsides": 0,
-        "saves": 4
+        "offsides": 1,
+        "saves": 5
       },
       "events": [
         {
@@ -352,30 +360,30 @@
   "SA": {
     "558581": {
       "home": {
-        "possession": 56,
-        "xg": 0.86,
-        "shots": 16,
-        "shotsOnTarget": 4,
-        "accuratePasses": 335,
-        "duelsWon": 47,
-        "boxTouches": 36,
+        "possession": 57,
+        "xg": 1.23,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 340,
+        "duelsWon": 52,
+        "boxTouches": 40,
         "fouls": 17,
         "corners": 10,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 44,
+        "possession": 43,
         "xg": 1.52,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 247,
-        "duelsWon": 61,
+        "accuratePasses": 249,
+        "duelsWon": 63,
         "boxTouches": 24,
-        "fouls": 6,
+        "fouls": 8,
         "corners": 3,
         "offsides": 4,
-        "saves": 2
+        "saves": 4
       },
       "events": [
         {
@@ -424,8 +432,15 @@
           "teamId": "103",
           "playerName": "Jay Enem",
           "assist": "Nicolò Cambiaghi"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "yellow-card",
+          "teamId": "103",
+          "playerName": "Oussama El Azzouzi"
         }
-      ]
+      ],
+      "final": true
     },
     "558583": {
       "home": {
@@ -659,27 +674,27 @@
   "DED": {
     "558873": {
       "home": {
-        "possession": 70,
-        "xg": 0.03,
-        "shots": 3,
+        "possession": 61,
+        "xg": 0.24,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 64,
-        "duelsWon": 6,
-        "boxTouches": 5,
-        "fouls": 2,
+        "accuratePasses": 88,
+        "duelsWon": 11,
+        "boxTouches": 6,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 30,
+        "possession": 39,
         "xg": 0.37,
         "shots": 2,
         "shotsOnTarget": 2,
-        "accuratePasses": 23,
-        "duelsWon": 9,
+        "accuratePasses": 51,
+        "duelsWon": 13,
         "boxTouches": 4,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -923,27 +938,27 @@
   "PPL": {
     "567328": {
       "home": {
-        "possession": 74,
-        "xg": 0.14,
-        "shots": 3,
+        "possession": 78,
+        "xg": 0.19,
+        "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 126,
-        "duelsWon": 9,
-        "boxTouches": 5,
+        "accuratePasses": 159,
+        "duelsWon": 10,
+        "boxTouches": 7,
         "fouls": 2,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 26,
+        "possession": 22,
         "xg": 0.07,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 30,
-        "duelsWon": 6,
+        "accuratePasses": 31,
+        "duelsWon": 8,
         "boxTouches": 3,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 1,
         "offsides": 0,
         "saves": 1
