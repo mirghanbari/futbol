@@ -509,12 +509,12 @@
     },
     "564705": {
       "home": {
-        "possession": 54,
+        "possession": 53,
         "xg": 0.95,
         "shots": 14,
         "shotsOnTarget": 7,
-        "accuratePasses": 326,
-        "duelsWon": 36,
+        "accuratePasses": 338,
+        "duelsWon": 37,
         "boxTouches": 20,
         "fouls": 13,
         "corners": 5,
@@ -522,12 +522,12 @@
         "saves": 0
       },
       "away": {
-        "possession": 46,
-        "xg": 0.92,
-        "shots": 7,
+        "possession": 47,
+        "xg": 0.95,
+        "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 254,
-        "duelsWon": 41,
+        "accuratePasses": 283,
+        "duelsWon": 43,
         "boxTouches": 8,
         "fouls": 9,
         "corners": 2,
@@ -585,6 +585,12 @@
           "teamId": "95",
           "playerName": "David Otorbi",
           "assist": "Javier Guerra"
+        },
+        {
+          "minute": "73'",
+          "type": "yellow-card",
+          "teamId": "95",
+          "playerName": "Pablo Maffeo"
         }
       ]
     }
@@ -1002,25 +1008,25 @@
         "xg": 0.49,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 257,
-        "duelsWon": 45,
+        "accuratePasses": 268,
+        "duelsWon": 47,
         "boxTouches": 4,
         "fouls": 8,
         "corners": 1,
         "offsides": 2,
-        "saves": 7
+        "saves": 9
       },
       "away": {
         "possession": 72,
-        "xg": 0.91,
-        "shots": 18,
-        "shotsOnTarget": 8,
-        "accuratePasses": 713,
-        "duelsWon": 37,
-        "boxTouches": 39,
+        "xg": 1.92,
+        "shots": 22,
+        "shotsOnTarget": 10,
+        "accuratePasses": 752,
+        "duelsWon": 41,
+        "boxTouches": 47,
         "fouls": 7,
-        "corners": 8,
-        "offsides": 1,
+        "corners": 9,
+        "offsides": 2,
         "saves": 1
       },
       "events": [
@@ -1284,25 +1290,25 @@
     },
     "559671": {
       "home": {
-        "possession": 34,
-        "xg": 0.5,
-        "shots": 13,
+        "possession": 36,
+        "xg": 1.14,
+        "shots": 15,
         "shotsOnTarget": 3,
-        "accuratePasses": 243,
-        "duelsWon": 47,
-        "boxTouches": 17,
-        "fouls": 10,
-        "corners": 4,
+        "accuratePasses": 274,
+        "duelsWon": 50,
+        "boxTouches": 19,
+        "fouls": 11,
+        "corners": 6,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 66,
+        "possession": 64,
         "xg": 0.38,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 546,
-        "duelsWon": 36,
+        "accuratePasses": 567,
+        "duelsWon": 41,
         "boxTouches": 16,
         "fouls": 14,
         "corners": 3,
@@ -1334,6 +1340,12 @@
           "type": "yellow-card",
           "teamId": "531",
           "playerName": "Dermane Karim"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "531",
+          "playerName": "Antoine Mille"
         }
       ]
     }
@@ -1741,7 +1753,7 @@
       "home": {
         "possession": 40,
         "xg": 0.4,
-        "shots": 6,
+        "shots": 5,
         "shotsOnTarget": 2,
         "accuratePasses": 148,
         "duelsWon": 17,
@@ -1754,9 +1766,9 @@
       "away": {
         "possession": 60,
         "xg": 1.05,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 235,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 236,
         "duelsWon": 19,
         "boxTouches": 14,
         "fouls": 3,
