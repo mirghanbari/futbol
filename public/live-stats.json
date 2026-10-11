@@ -156,27 +156,27 @@
     },
     "560598": {
       "home": {
-        "possession": 42,
+        "possession": 40,
         "xg": 0.79,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 213,
-        "duelsWon": 40,
-        "boxTouches": 14,
+        "accuratePasses": 224,
+        "duelsWon": 42,
+        "boxTouches": 15,
         "fouls": 14,
-        "corners": 4,
+        "corners": 5,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 58,
-        "xg": 0.29,
-        "shots": 9,
+        "possession": 60,
+        "xg": 0.38,
+        "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 310,
-        "duelsWon": 38,
-        "boxTouches": 16,
-        "fouls": 12,
+        "accuratePasses": 368,
+        "duelsWon": 41,
+        "boxTouches": 23,
+        "fouls": 13,
         "corners": 5,
         "offsides": 2,
         "saves": 5
@@ -218,6 +218,12 @@
           "teamId": "65",
           "playerName": "Jérémy Doku",
           "assist": "Elliot Anderson"
+        },
+        {
+          "minute": "78'",
+          "type": "goal",
+          "teamId": "65",
+          "playerName": "<TBD>"
         }
       ]
     }
@@ -313,28 +319,28 @@
   "PD": {
     "564701": {
       "home": {
-        "possession": 66,
-        "xg": 0.97,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 154,
-        "duelsWon": 14,
-        "boxTouches": 10,
+        "possession": 63,
+        "xg": 1.38,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 162,
+        "duelsWon": 15,
+        "boxTouches": 11,
         "fouls": 3,
-        "corners": 3,
+        "corners": 5,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 34,
+        "possession": 37,
         "xg": 0.24,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 74,
-        "duelsWon": 15,
+        "accuratePasses": 88,
+        "duelsWon": 16,
         "boxTouches": 1,
         "fouls": 2,
-        "corners": 0,
+        "corners": 1,
         "offsides": 2,
         "saves": 0
       },
@@ -345,6 +351,13 @@
           "teamId": "90",
           "playerName": "Isco",
           "penalty": true
+        },
+        {
+          "minute": "31'",
+          "type": "goal",
+          "teamId": "90",
+          "playerName": "Abdessamad Ezzalzouli",
+          "assist": "Juan Hernández"
         }
       ]
     },
@@ -482,26 +495,26 @@
     },
     "565816": {
       "home": {
-        "possession": 55,
-        "xg": 0.71,
-        "shots": 6,
+        "possession": 53,
+        "xg": 0.73,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 283,
-        "duelsWon": 44,
-        "boxTouches": 12,
+        "accuratePasses": 298,
+        "duelsWon": 50,
+        "boxTouches": 14,
         "fouls": 9,
         "corners": 6,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 45,
+        "possession": 47,
         "xg": 0.25,
         "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 227,
-        "duelsWon": 43,
-        "boxTouches": 14,
+        "shotsOnTarget": 1,
+        "accuratePasses": 266,
+        "duelsWon": 47,
+        "boxTouches": 15,
         "fouls": 9,
         "corners": 2,
         "offsides": 4,
@@ -836,13 +849,13 @@
     "559667": {
       "home": {
         "possession": 59,
-        "xg": 1.68,
-        "shots": 18,
-        "shotsOnTarget": 9,
-        "accuratePasses": 427,
-        "duelsWon": 41,
-        "boxTouches": 30,
-        "fouls": 9,
+        "xg": 1.72,
+        "shots": 20,
+        "shotsOnTarget": 10,
+        "accuratePasses": 452,
+        "duelsWon": 43,
+        "boxTouches": 33,
+        "fouls": 11,
         "corners": 12,
         "offsides": 2,
         "saves": 4
@@ -852,12 +865,12 @@
         "xg": 1.49,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 272,
-        "duelsWon": 48,
+        "accuratePasses": 286,
+        "duelsWon": 53,
         "boxTouches": 16,
         "fouls": 11,
         "corners": 5,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 7
       },
       "events": [
@@ -894,6 +907,18 @@
           "type": "yellow-card",
           "teamId": "529",
           "playerName": "Adrien Thomasson"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "529",
+          "playerName": "Djaoui Cissé"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "goal",
+          "teamId": "529",
+          "playerName": "Boulaye Dia"
         }
       ]
     },
@@ -1273,6 +1298,33 @@
     }
   },
   "PPL": {
+    "567320": {
+      "home": {
+        "possession": 72,
+        "xg": 0.07,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 18,
+        "duelsWon": 3,
+        "boxTouches": 2,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 28,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 5,
+        "duelsWon": 3,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      }
+    },
     "567328": {
       "home": {
         "possession": 56,
