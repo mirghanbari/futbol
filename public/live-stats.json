@@ -2,12 +2,12 @@
   "ELC": {
     "561859": {
       "home": {
-        "possession": 56,
-        "xg": 0.99,
-        "shots": 5,
+        "possession": 54,
+        "xg": 1.01,
+        "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 302,
-        "duelsWon": 27,
+        "accuratePasses": 305,
+        "duelsWon": 29,
         "boxTouches": 14,
         "fouls": 8,
         "corners": 2,
@@ -15,14 +15,14 @@
         "saves": 2
       },
       "away": {
-        "possession": 44,
-        "xg": 0.45,
-        "shots": 10,
+        "possession": 46,
+        "xg": 0.53,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 218,
-        "duelsWon": 26,
-        "boxTouches": 20,
-        "fouls": 7,
+        "accuratePasses": 241,
+        "duelsWon": 30,
+        "boxTouches": 23,
+        "fouls": 9,
         "corners": 1,
         "offsides": 2,
         "saves": 2
@@ -70,6 +70,12 @@
           "type": "yellow-card",
           "teamId": "340",
           "playerName": "Finn Azaz"
+        },
+        {
+          "minute": "69'",
+          "type": "yellow-card",
+          "teamId": "325",
+          "playerName": "Terry Devlin"
         }
       ]
     }
@@ -77,29 +83,29 @@
   "PD": {
     "564703": {
       "home": {
-        "possession": 72,
+        "possession": 64,
         "xg": 0.27,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 166,
-        "duelsWon": 12,
+        "accuratePasses": 188,
+        "duelsWon": 15,
         "boxTouches": 5,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 28,
-        "xg": 0,
-        "shots": 0,
+        "possession": 36,
+        "xg": 0.04,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 55,
-        "duelsWon": 11,
-        "boxTouches": 1,
-        "fouls": 4,
+        "accuratePasses": 102,
+        "duelsWon": 12,
+        "boxTouches": 3,
+        "fouls": 6,
         "corners": 2,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       }
     }
@@ -107,25 +113,25 @@
   "SA": {
     "558585": {
       "home": {
-        "possession": 65,
-        "xg": 1.41,
-        "shots": 16,
+        "possession": 66,
+        "xg": 1.42,
+        "shots": 19,
         "shotsOnTarget": 4,
-        "accuratePasses": 584,
-        "duelsWon": 44,
-        "boxTouches": 31,
+        "accuratePasses": 614,
+        "duelsWon": 47,
+        "boxTouches": 32,
         "fouls": 9,
-        "corners": 5,
+        "corners": 6,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 35,
+        "possession": 34,
         "xg": 1.1,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 268,
-        "duelsWon": 47,
+        "accuratePasses": 270,
+        "duelsWon": 50,
         "boxTouches": 10,
         "fouls": 9,
         "corners": 2,
@@ -164,15 +170,67 @@
           "playerName": "Matias Soulé"
         },
         {
-          "minute": "90'+1'",
+          "minute": "90'",
           "type": "yellow-card",
           "teamId": "7397",
           "playerName": "Martin Baturina"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "DED": {
+    "558874": {
+      "home": {
+        "possession": 68,
+        "xg": 0.03,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 11,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 32,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 4,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "558875": {
+      "home": {
+        "possession": 50,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 6,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 50,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 6,
+        "duelsWon": 0,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "558876": {
       "home": {
         "possession": 58,
