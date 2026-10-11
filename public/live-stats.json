@@ -156,27 +156,27 @@
     },
     "560598": {
       "home": {
-        "possession": 46,
-        "xg": 0.6,
-        "shots": 10,
+        "possession": 45,
+        "xg": 0.77,
+        "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 203,
-        "duelsWon": 33,
-        "boxTouches": 13,
-        "fouls": 12,
+        "accuratePasses": 206,
+        "duelsWon": 37,
+        "boxTouches": 14,
+        "fouls": 13,
         "corners": 4,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 54,
-        "xg": 0.07,
-        "shots": 3,
+        "possession": 55,
+        "xg": 0.15,
+        "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 244,
-        "duelsWon": 29,
-        "boxTouches": 9,
-        "fouls": 8,
+        "accuratePasses": 261,
+        "duelsWon": 32,
+        "boxTouches": 11,
+        "fouls": 11,
         "corners": 4,
         "offsides": 2,
         "saves": 4
@@ -193,6 +193,12 @@
           "type": "yellow-card",
           "teamId": "64",
           "playerName": "Ryan Gravenberch"
+        },
+        {
+          "minute": "58'",
+          "type": "yellow-card",
+          "teamId": "65",
+          "playerName": "Nico O'Reilly"
         }
       ]
     }
@@ -288,30 +294,39 @@
   "PD": {
     "564701": {
       "home": {
-        "possession": 87,
-        "xg": 0.07,
-        "shots": 2,
+        "possession": 72,
+        "xg": 0.89,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 87,
-        "duelsWon": 1,
-        "boxTouches": 5,
-        "fouls": 0,
+        "accuratePasses": 103,
+        "duelsWon": 8,
+        "boxTouches": 6,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 13,
+        "possession": 28,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 7,
-        "duelsWon": 7,
-        "fouls": 1,
+        "accuratePasses": 35,
+        "duelsWon": 9,
+        "fouls": 2,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "10'",
+          "type": "goal",
+          "teamId": "90",
+          "playerName": "Isco",
+          "penalty": true
+        }
+      ]
     },
     "564703": {
       "home": {
@@ -447,26 +462,26 @@
     },
     "565816": {
       "home": {
-        "possession": 56,
+        "possession": 55,
         "xg": 0.71,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 238,
-        "duelsWon": 40,
+        "accuratePasses": 255,
+        "duelsWon": 41,
         "boxTouches": 12,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 6,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 44,
-        "xg": 0.06,
-        "shots": 2,
+        "possession": 45,
+        "xg": 0.12,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 176,
-        "duelsWon": 37,
-        "boxTouches": 8,
+        "accuratePasses": 203,
+        "duelsWon": 39,
+        "boxTouches": 12,
         "fouls": 8,
         "corners": 1,
         "offsides": 3,
@@ -490,6 +505,12 @@
           "type": "yellow-card",
           "teamId": "17",
           "playerName": "Yuito Suzuki"
+        },
+        {
+          "minute": "58'",
+          "type": "yellow-card",
+          "teamId": "17",
+          "playerName": "Matthias Ginter"
         }
       ]
     }
@@ -497,28 +518,28 @@
   "SA": {
     "558580": {
       "home": {
-        "possession": 50,
+        "possession": 45,
         "xg": 0.09,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 184,
-        "duelsWon": 18,
-        "boxTouches": 9,
-        "fouls": 6,
+        "accuratePasses": 190,
+        "duelsWon": 20,
+        "boxTouches": 10,
+        "fouls": 8,
         "corners": 2,
         "offsides": 1,
-        "saves": 0
+        "saves": 2
       },
       "away": {
-        "possession": 50,
-        "xg": 0.33,
-        "shots": 3,
-        "shotsOnTarget": 0,
-        "accuratePasses": 181,
-        "duelsWon": 15,
-        "boxTouches": 6,
-        "fouls": 5,
-        "corners": 0,
+        "possession": 55,
+        "xg": 0.75,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 229,
+        "duelsWon": 16,
+        "boxTouches": 10,
+        "fouls": 6,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
@@ -528,6 +549,12 @@
           "type": "yellow-card",
           "teamId": "98",
           "playerName": "Pervis Estupinán"
+        },
+        {
+          "minute": "45'+3'",
+          "type": "yellow-card",
+          "teamId": "98",
+          "playerName": "Koni De Winter"
         }
       ]
     },
@@ -782,30 +809,30 @@
   "FL1": {
     "559667": {
       "home": {
-        "possession": 60,
-        "xg": 1.17,
-        "shots": 13,
-        "shotsOnTarget": 7,
-        "accuratePasses": 362,
-        "duelsWon": 32,
-        "boxTouches": 25,
+        "possession": 59,
+        "xg": 1.35,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 383,
+        "duelsWon": 36,
+        "boxTouches": 28,
         "fouls": 8,
-        "corners": 8,
+        "corners": 11,
         "offsides": 2,
         "saves": 4
       },
       "away": {
-        "possession": 40,
-        "xg": 1.42,
-        "shots": 9,
+        "possession": 41,
+        "xg": 1.45,
+        "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 223,
-        "duelsWon": 36,
-        "boxTouches": 16,
+        "accuratePasses": 238,
+        "duelsWon": 42,
+        "boxTouches": 15,
         "fouls": 9,
-        "corners": 4,
+        "corners": 5,
         "offsides": 2,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -829,7 +856,7 @@
           "playerName": "Anthony Rouault"
         },
         {
-          "minute": "54'",
+          "minute": "53'",
           "type": "goal",
           "teamId": "529",
           "playerName": "Adrien Thomasson",
