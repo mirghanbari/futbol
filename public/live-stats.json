@@ -2,25 +2,25 @@
   "PL": {
     "560594": {
       "home": {
-        "possession": 38,
-        "xg": 1.09,
-        "shots": 6,
-        "shotsOnTarget": 4,
-        "accuratePasses": 170,
-        "duelsWon": 26,
-        "boxTouches": 14,
-        "fouls": 12,
+        "possession": 40,
+        "xg": 1.21,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 200,
+        "duelsWon": 29,
+        "boxTouches": 18,
+        "fouls": 13,
         "corners": 6,
         "offsides": 1,
         "saves": 4
       },
       "away": {
-        "possession": 62,
-        "xg": 1.41,
+        "possession": 60,
+        "xg": 1.69,
         "shots": 14,
         "shotsOnTarget": 7,
-        "accuratePasses": 340,
-        "duelsWon": 44,
+        "accuratePasses": 357,
+        "duelsWon": 46,
         "boxTouches": 22,
         "fouls": 2,
         "corners": 6,
@@ -61,6 +61,13 @@
           "teamId": "62",
           "playerName": "Thierno Barry",
           "assist": "Kiernan Dewsbury-Hall"
+        },
+        {
+          "minute": "74'",
+          "type": "goal",
+          "teamId": "322",
+          "playerName": "Mohamed Belloumi",
+          "assist": "Elliot Stroud"
         }
       ]
     },
@@ -68,25 +75,25 @@
       "home": {
         "possession": 47,
         "xg": 2.15,
-        "shots": 10,
+        "shots": 11,
         "shotsOnTarget": 7,
-        "accuratePasses": 224,
-        "duelsWon": 32,
-        "boxTouches": 17,
+        "accuratePasses": 238,
+        "duelsWon": 36,
+        "boxTouches": 20,
         "fouls": 10,
-        "corners": 3,
+        "corners": 4,
         "offsides": 2,
         "saves": 3
       },
       "away": {
         "possession": 53,
-        "xg": 2.45,
-        "shots": 21,
+        "xg": 2.5,
+        "shots": 22,
         "shotsOnTarget": 5,
-        "accuratePasses": 265,
+        "accuratePasses": 278,
         "duelsWon": 38,
-        "boxTouches": 35,
-        "fouls": 7,
+        "boxTouches": 37,
+        "fouls": 8,
         "corners": 5,
         "offsides": 1,
         "saves": 4
@@ -130,6 +137,12 @@
           "type": "yellow-card",
           "teamId": "354",
           "playerName": "Yéremi Pino"
+        },
+        {
+          "minute": "73'",
+          "type": "yellow-card",
+          "teamId": "351",
+          "playerName": "Ola Aina"
         }
       ]
     }
@@ -339,26 +352,26 @@
   "SA": {
     "558581": {
       "home": {
-        "possession": 55,
-        "xg": 0.57,
-        "shots": 7,
+        "possession": 54,
+        "xg": 0.6,
+        "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 261,
-        "duelsWon": 33,
-        "boxTouches": 22,
-        "fouls": 16,
-        "corners": 6,
+        "accuratePasses": 271,
+        "duelsWon": 35,
+        "boxTouches": 26,
+        "fouls": 17,
+        "corners": 7,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 45,
-        "xg": 0.37,
-        "shots": 7,
-        "shotsOnTarget": 4,
-        "accuratePasses": 199,
-        "duelsWon": 50,
-        "boxTouches": 19,
+        "possession": 46,
+        "xg": 1.07,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 226,
+        "duelsWon": 52,
+        "boxTouches": 22,
         "fouls": 5,
         "corners": 3,
         "offsides": 1,
@@ -404,20 +417,26 @@
           "playerName": "Amar Fatah",
           "method": "header",
           "assist": "Danilo Veiga"
+        },
+        {
+          "minute": "76'",
+          "type": "goal",
+          "teamId": "103",
+          "playerName": "<TBD>"
         }
       ]
     },
     "558583": {
       "home": {
         "possession": 66,
-        "xg": 0.58,
-        "shots": 11,
-        "shotsOnTarget": 4,
-        "accuratePasses": 430,
+        "xg": 0.59,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 465,
         "duelsWon": 29,
-        "boxTouches": 20,
+        "boxTouches": 23,
         "fouls": 7,
-        "corners": 3,
+        "corners": 5,
         "offsides": 0,
         "saves": 3
       },
@@ -426,13 +445,13 @@
         "xg": 1.72,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 181,
-        "duelsWon": 33,
+        "accuratePasses": 192,
+        "duelsWon": 37,
         "boxTouches": 22,
         "fouls": 7,
         "corners": 6,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -560,27 +579,27 @@
   "FL1": {
     "559670": {
       "home": {
-        "possession": 45,
+        "possession": 46,
         "xg": 1.18,
         "shots": 8,
         "shotsOnTarget": 5,
-        "accuratePasses": 300,
-        "duelsWon": 32,
-        "boxTouches": 17,
+        "accuratePasses": 326,
+        "duelsWon": 34,
+        "boxTouches": 21,
         "fouls": 1,
-        "corners": 1,
+        "corners": 2,
         "offsides": 5,
         "saves": 2
       },
       "away": {
-        "possession": 55,
-        "xg": 0.36,
+        "possession": 54,
+        "xg": 0.48,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 383,
-        "duelsWon": 27,
+        "accuratePasses": 391,
+        "duelsWon": 30,
         "boxTouches": 17,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 3,
         "offsides": 1,
         "saves": 4
@@ -605,6 +624,12 @@
           "type": "yellow-card",
           "teamId": "576",
           "playerName": "Oso"
+        },
+        {
+          "minute": "77'",
+          "type": "yellow-card",
+          "teamId": "522",
+          "playerName": "Sofiane Diop"
         }
       ]
     }
@@ -835,6 +860,33 @@
         }
       ],
       "final": true
+    }
+  },
+  "PPL": {
+    "567328": {
+      "home": {
+        "possession": 84,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 18,
+        "duelsWon": 3,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 16,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 1,
+        "duelsWon": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   }
 }
