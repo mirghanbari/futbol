@@ -1777,12 +1777,12 @@
         "xg": 0.4,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 192,
-        "duelsWon": 25,
+        "accuratePasses": 203,
+        "duelsWon": 27,
         "boxTouches": 13,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 5,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 2
       },
       "away": {
@@ -1790,9 +1790,9 @@
         "xg": 1.38,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 291,
-        "duelsWon": 24,
-        "boxTouches": 18,
+        "accuratePasses": 308,
+        "duelsWon": 26,
+        "boxTouches": 17,
         "fouls": 4,
         "corners": 3,
         "offsides": 2,
@@ -1829,6 +1829,12 @@
           "type": "yellow-card",
           "teamId": "9136",
           "playerName": "Max Scholze"
+        },
+        {
+          "minute": "63'",
+          "type": "yellow-card",
+          "teamId": "712",
+          "playerName": "Pedro Santos"
         }
       ]
     },
