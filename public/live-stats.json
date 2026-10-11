@@ -333,27 +333,27 @@
   "PD": {
     "564701": {
       "home": {
-        "possession": 56,
+        "possession": 54,
         "xg": 1.99,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 326,
-        "duelsWon": 32,
+        "accuratePasses": 331,
+        "duelsWon": 34,
         "boxTouches": 19,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 7,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 44,
+        "possession": 46,
         "xg": 1.42,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 244,
-        "duelsWon": 35,
+        "accuratePasses": 270,
+        "duelsWon": 38,
         "boxTouches": 9,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 2,
         "offsides": 2,
         "saves": 2
@@ -411,6 +411,18 @@
           "teamId": "79",
           "playerName": "Raúl García",
           "assist": "Alejandro Catena"
+        },
+        {
+          "minute": "64'",
+          "type": "yellow-card",
+          "teamId": "79",
+          "playerName": "Lucas Torró"
+        },
+        {
+          "minute": "67'",
+          "type": "goal",
+          "teamId": "90",
+          "playerName": "<TBD>"
         }
       ]
     },
@@ -626,29 +638,29 @@
     "558580": {
       "home": {
         "possession": 41,
-        "xg": 1.06,
-        "shots": 9,
-        "shotsOnTarget": 3,
-        "accuratePasses": 378,
-        "duelsWon": 40,
+        "xg": 1.2,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 384,
+        "duelsWon": 43,
         "boxTouches": 19,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 3,
         "offsides": 1,
         "saves": 5
       },
       "away": {
         "possession": 59,
-        "xg": 1.16,
+        "xg": 1.17,
         "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 546,
-        "duelsWon": 37,
+        "accuratePasses": 565,
+        "duelsWon": 38,
         "boxTouches": 27,
-        "fouls": 9,
+        "fouls": 11,
         "corners": 5,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -681,8 +693,21 @@
           "type": "yellow-card",
           "teamId": "98",
           "playerName": "Gonçalo Ramos"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "98",
+          "playerName": "Strahinja Pavlović"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "yellow-card",
+          "teamId": "471",
+          "playerName": "Kristian Thorstvedt"
         }
-      ]
+      ],
+      "final": true
     },
     "558581": {
       "home": {
@@ -1407,7 +1432,7 @@
         "shots": 16,
         "shotsOnTarget": 3,
         "accuratePasses": 241,
-        "duelsWon": 33,
+        "duelsWon": 32,
         "boxTouches": 33,
         "fouls": 4,
         "corners": 9,
