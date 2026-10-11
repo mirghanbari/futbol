@@ -59,27 +59,27 @@
   "SA": {
     "558585": {
       "home": {
-        "possession": 56,
+        "possession": 58,
         "xg": 0.87,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 329,
-        "duelsWon": 30,
-        "boxTouches": 19,
+        "accuratePasses": 376,
+        "duelsWon": 32,
+        "boxTouches": 20,
         "fouls": 7,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 44,
-        "xg": 1.09,
+        "possession": 42,
+        "xg": 1.1,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 233,
-        "duelsWon": 30,
+        "accuratePasses": 245,
+        "duelsWon": 33,
         "boxTouches": 10,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 3,
         "saves": 2
@@ -108,6 +108,12 @@
           "type": "yellow-card",
           "teamId": "100",
           "playerName": "Manu Koné"
+        },
+        {
+          "minute": "62'",
+          "type": "yellow-card",
+          "teamId": "100",
+          "playerName": "Matias Soulé"
         }
       ]
     }
@@ -115,26 +121,26 @@
   "DED": {
     "558876": {
       "home": {
-        "possession": 61,
+        "possession": 58,
         "xg": 1.05,
         "shots": 20,
         "shotsOnTarget": 4,
         "accuratePasses": 383,
         "duelsWon": 36,
         "boxTouches": 29,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 6,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 39,
-        "xg": 0.32,
-        "shots": 5,
+        "possession": 42,
+        "xg": 0.4,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 226,
-        "duelsWon": 29,
-        "boxTouches": 5,
+        "accuratePasses": 253,
+        "duelsWon": 30,
+        "boxTouches": 6,
         "fouls": 10,
         "corners": 3,
         "offsides": 2,
@@ -167,6 +173,12 @@
           "teamId": "676",
           "playerName": "Yoann Cathline",
           "assist": "Oualid Agougil"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "676",
+          "playerName": "Nikolas Panayiotou"
         }
       ]
     }
