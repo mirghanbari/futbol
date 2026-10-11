@@ -2,12 +2,12 @@
   "PL": {
     "560594": {
       "home": {
-        "possession": 37,
+        "possession": 47,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 40,
-        "duelsWon": 4,
+        "accuratePasses": 72,
+        "duelsWon": 6,
         "boxTouches": 2,
         "fouls": 3,
         "corners": 2,
@@ -15,12 +15,12 @@
         "saves": 1
       },
       "away": {
-        "possession": 63,
+        "possession": 53,
         "xg": 0.05,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 87,
-        "duelsWon": 9,
+        "accuratePasses": 93,
+        "duelsWon": 11,
         "boxTouches": 1,
         "fouls": 0,
         "corners": 1,
@@ -38,25 +38,25 @@
     },
     "560596": {
       "home": {
-        "possession": 41,
+        "possession": 42,
         "xg": 0.63,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 48,
+        "accuratePasses": 50,
         "duelsWon": 5,
         "boxTouches": 3,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 59,
+        "possession": 58,
         "xg": 0.17,
         "shots": 2,
         "shotsOnTarget": 2,
-        "accuratePasses": 77,
-        "duelsWon": 8,
+        "accuratePasses": 78,
+        "duelsWon": 9,
         "boxTouches": 4,
         "fouls": 0,
         "corners": 0,
@@ -69,6 +69,12 @@
           "type": "goal",
           "teamId": "351",
           "playerName": "Dan Ndoye"
+        },
+        {
+          "minute": "16'",
+          "type": "yellow-card",
+          "teamId": "354",
+          "playerName": "Jefferson Lerma"
         }
       ]
     }
@@ -168,8 +174,8 @@
         "xg": 0.55,
         "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 346,
-        "duelsWon": 24,
+        "accuratePasses": 360,
+        "duelsWon": 28,
         "boxTouches": 12,
         "fouls": 13,
         "corners": 2,
@@ -181,10 +187,10 @@
         "xg": 0.12,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 208,
-        "duelsWon": 30,
-        "boxTouches": 8,
-        "fouls": 10,
+        "accuratePasses": 211,
+        "duelsWon": 31,
+        "boxTouches": 9,
+        "fouls": 13,
         "corners": 2,
         "offsides": 3,
         "saves": 1
@@ -195,6 +201,12 @@
           "type": "yellow-card",
           "teamId": "558",
           "playerName": "Yoel Lago"
+        },
+        {
+          "minute": "59'",
+          "type": "yellow-card",
+          "teamId": "558",
+          "playerName": "Javi Rueda"
         }
       ]
     }
@@ -202,26 +214,26 @@
   "SA": {
     "558581": {
       "home": {
-        "possession": 61,
+        "possession": 60,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 78,
+        "accuratePasses": 83,
         "duelsWon": 5,
         "boxTouches": 2,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 39,
+        "possession": 40,
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 45,
-        "duelsWon": 14,
-        "boxTouches": 1,
+        "accuratePasses": 51,
+        "duelsWon": 16,
+        "boxTouches": 3,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
@@ -350,24 +362,24 @@
   "FL1": {
     "559670": {
       "home": {
-        "possession": 52,
-        "xg": 0.2,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 73,
+        "possession": 53,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 84,
         "duelsWon": 8,
-        "boxTouches": 3,
+        "boxTouches": 2,
         "fouls": 0,
         "corners": 0,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 48,
+        "possession": 47,
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 69,
+        "accuratePasses": 75,
         "duelsWon": 5,
         "boxTouches": 2,
         "fouls": 0,
@@ -381,12 +393,12 @@
     "558874": {
       "home": {
         "possession": 48,
-        "xg": 0.55,
-        "shots": 8,
+        "xg": 0.6,
+        "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 148,
-        "duelsWon": 23,
-        "boxTouches": 12,
+        "accuratePasses": 153,
+        "duelsWon": 27,
+        "boxTouches": 14,
         "fouls": 7,
         "corners": 2,
         "offsides": 1,
@@ -397,10 +409,10 @@
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 165,
-        "duelsWon": 23,
+        "accuratePasses": 178,
+        "duelsWon": 24,
         "boxTouches": 8,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 3,
         "saves": 5
@@ -423,12 +435,12 @@
     "558875": {
       "home": {
         "possession": 63,
-        "xg": 0.65,
+        "xg": 0.7,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 231,
-        "duelsWon": 19,
-        "boxTouches": 13,
+        "accuratePasses": 240,
+        "duelsWon": 23,
+        "boxTouches": 14,
         "fouls": 4,
         "corners": 2,
         "offsides": 2,
@@ -439,8 +451,8 @@
         "xg": 0.87,
         "shots": 2,
         "shotsOnTarget": 2,
-        "accuratePasses": 124,
-        "duelsWon": 14,
+        "accuratePasses": 130,
+        "duelsWon": 18,
         "boxTouches": 9,
         "fouls": 7,
         "corners": 0,
