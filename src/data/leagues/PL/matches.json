@@ -3038,14 +3038,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "322",
     "awayTeamId": "62",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 35,
+        "xg": 1.33,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 223,
+        "duelsWon": 36,
+        "boxTouches": 23,
+        "fouls": 15,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 65,
+        "xg": 1.71,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 511,
+        "duelsWon": 57,
+        "boxTouches": 26,
+        "fouls": 4,
+        "corners": 6,
+        "offsides": 4,
+        "saves": 2
+      }
     },
     "venue": "The MKM Stadium, Hull",
     "broadcasts": [
@@ -3062,14 +3090,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "354",
     "awayTeamId": "351",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 2.38,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 288,
+        "duelsWon": 50,
+        "boxTouches": 23,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 57,
+        "xg": 2.97,
+        "shots": 24,
+        "shotsOnTarget": 6,
+        "accuratePasses": 402,
+        "duelsWon": 47,
+        "boxTouches": 44,
+        "fouls": 10,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Selhurst Park, London",
     "broadcasts": [
@@ -3090,7 +3146,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T15:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "64",
     "awayTeamId": "65",
     "homeTeam": {

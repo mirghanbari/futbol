@@ -2394,14 +2394,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "522",
     "awayTeamId": "576",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 1.3,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 396,
+        "duelsWon": 42,
+        "boxTouches": 24,
+        "fouls": 3,
+        "corners": 2,
+        "offsides": 5,
+        "saves": 2
+      },
+      "away": {
+        "possession": 54,
+        "xg": 0.54,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 490,
+        "duelsWon": 39,
+        "boxTouches": 20,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Allianz Riviera, Nice",
     "broadcasts": [
@@ -2418,14 +2446,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T15:15:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "529",
     "awayTeamId": "519",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Roazhon Park, Rennes",
     "broadcasts": [

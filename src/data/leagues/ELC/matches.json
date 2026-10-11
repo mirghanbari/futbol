@@ -5326,14 +5326,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-11T11:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "340",
     "awayTeamId": "325",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.28,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 329,
+        "duelsWon": 44,
+        "boxTouches": 16,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 49,
+        "xg": 0.75,
+        "shots": 15,
+        "shotsOnTarget": 2,
+        "accuratePasses": 304,
+        "duelsWon": 40,
+        "boxTouches": 34,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 2
+      }
     },
     "venue": "St. Mary's Stadium, Southampton",
     "broadcasts": [

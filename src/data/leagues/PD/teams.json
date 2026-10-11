@@ -40,6 +40,14 @@
     "competitionId": "PD"
   },
   {
+    "id": "92",
+    "name": "Real Sociedad de Fútbol",
+    "shortName": "Real Sociedad",
+    "tla": "RSO",
+    "crest": "https://crests.football-data.org/92.png",
+    "competitionId": "PD"
+  },
+  {
     "id": "263",
     "name": "Deportivo Alavés",
     "shortName": "Alavés",
@@ -56,11 +64,19 @@
     "competitionId": "PD"
   },
   {
-    "id": "92",
-    "name": "Real Sociedad de Fútbol",
-    "shortName": "Real Sociedad",
-    "tla": "RSO",
-    "crest": "https://crests.football-data.org/92.png",
+    "id": "79",
+    "name": "CA Osasuna",
+    "shortName": "Osasuna",
+    "tla": "OSA",
+    "crest": "https://crests.football-data.org/79.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "558",
+    "name": "RC Celta de Vigo",
+    "shortName": "Celta",
+    "tla": "CEL",
+    "crest": "https://crests.football-data.org/558.png",
     "competitionId": "PD"
   },
   {
@@ -104,22 +120,6 @@
     "competitionId": "PD"
   },
   {
-    "id": "79",
-    "name": "CA Osasuna",
-    "shortName": "Osasuna",
-    "tla": "OSA",
-    "crest": "https://crests.football-data.org/79.png",
-    "competitionId": "PD"
-  },
-  {
-    "id": "558",
-    "name": "RC Celta de Vigo",
-    "shortName": "Celta",
-    "tla": "CEL",
-    "crest": "https://crests.football-data.org/558.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "5335",
     "name": "Real Racing Club de Santander",
     "shortName": "Santander",
@@ -128,19 +128,19 @@
     "competitionId": "PD"
   },
   {
-    "id": "88",
-    "name": "Levante UD",
-    "shortName": "Levante",
-    "tla": "LEV",
-    "crest": "https://crests.football-data.org/88.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "285",
     "name": "Elche CF",
     "shortName": "Elche",
     "tla": "ELC",
     "crest": "https://crests.football-data.org/285.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "88",
+    "name": "Levante UD",
+    "shortName": "Levante",
+    "tla": "LEV",
+    "crest": "https://crests.football-data.org/88.png",
     "competitionId": "PD"
   },
   {
