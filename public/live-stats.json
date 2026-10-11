@@ -333,27 +333,27 @@
   "PD": {
     "564701": {
       "home": {
-        "possession": 53,
-        "xg": 2.51,
-        "shots": 14,
+        "possession": 52,
+        "xg": 2.6,
+        "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 344,
-        "duelsWon": 35,
-        "boxTouches": 24,
-        "fouls": 9,
+        "accuratePasses": 361,
+        "duelsWon": 37,
+        "boxTouches": 26,
+        "fouls": 10,
         "corners": 7,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 47,
-        "xg": 1.42,
-        "shots": 7,
+        "possession": 48,
+        "xg": 1.45,
+        "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 302,
-        "duelsWon": 39,
-        "boxTouches": 10,
-        "fouls": 11,
+        "accuratePasses": 329,
+        "duelsWon": 40,
+        "boxTouches": 12,
+        "fouls": 12,
         "corners": 3,
         "offsides": 2,
         "saves": 2
@@ -1428,12 +1428,12 @@
     "567320": {
       "home": {
         "possession": 66,
-        "xg": 1.7,
-        "shots": 16,
+        "xg": 2.03,
+        "shots": 17,
         "shotsOnTarget": 3,
-        "accuratePasses": 242,
-        "duelsWon": 32,
-        "boxTouches": 32,
+        "accuratePasses": 274,
+        "duelsWon": 38,
+        "boxTouches": 33,
         "fouls": 4,
         "corners": 9,
         "offsides": 1,
@@ -1441,13 +1441,13 @@
       },
       "away": {
         "possession": 34,
-        "xg": 0.3,
+        "xg": 0.28,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 109,
-        "duelsWon": 27,
+        "accuratePasses": 128,
+        "duelsWon": 30,
         "boxTouches": 5,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 1,
         "offsides": 2,
         "saves": 2
@@ -1471,6 +1471,12 @@
           "type": "yellow-card",
           "teamId": "5543",
           "playerName": "Gonçalo Nogueira"
+        },
+        {
+          "minute": "50'",
+          "type": "yellow-card",
+          "teamId": "5543",
+          "playerName": "Toni Borevković"
         }
       ]
     },
