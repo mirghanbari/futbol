@@ -509,25 +509,25 @@
     },
     "564705": {
       "home": {
-        "possession": 55,
-        "xg": 1.06,
-        "shots": 16,
-        "shotsOnTarget": 9,
-        "accuratePasses": 405,
+        "possession": 54,
+        "xg": 1.24,
+        "shots": 19,
+        "shotsOnTarget": 10,
+        "accuratePasses": 423,
         "duelsWon": 42,
-        "boxTouches": 27,
-        "fouls": 13,
-        "corners": 6,
+        "boxTouches": 29,
+        "fouls": 14,
+        "corners": 7,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 45,
+        "possession": 46,
         "xg": 1.08,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 315,
-        "duelsWon": 52,
+        "accuratePasses": 329,
+        "duelsWon": 56,
         "boxTouches": 10,
         "fouls": 10,
         "corners": 3,
@@ -1766,12 +1766,12 @@
     },
     "567324": {
       "home": {
-        "possession": 40,
+        "possession": 42,
         "xg": 0.4,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 149,
-        "duelsWon": 17,
+        "accuratePasses": 178,
+        "duelsWon": 23,
         "boxTouches": 12,
         "fouls": 7,
         "corners": 4,
@@ -1779,14 +1779,14 @@
         "saves": 2
       },
       "away": {
-        "possession": 60,
+        "possession": 58,
         "xg": 1.28,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 236,
+        "accuratePasses": 270,
         "duelsWon": 20,
-        "boxTouches": 14,
-        "fouls": 3,
+        "boxTouches": 15,
+        "fouls": 4,
         "corners": 3,
         "offsides": 2,
         "saves": 1
@@ -1816,6 +1816,12 @@
           "type": "yellow-card",
           "teamId": "9136",
           "playerName": "Abraham Marcus"
+        },
+        {
+          "minute": "50'",
+          "type": "yellow-card",
+          "teamId": "9136",
+          "playerName": "Max Scholze"
         }
       ]
     },
