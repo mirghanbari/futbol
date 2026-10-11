@@ -431,7 +431,7 @@
         "xg": 0.12,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 142,
+        "accuratePasses": 144,
         "duelsWon": 26,
         "boxTouches": 4,
         "fouls": 7,
@@ -458,24 +458,24 @@
   "SA": {
     "558580": {
       "home": {
-        "possession": 54,
-        "xg": 0.04,
-        "shots": 2,
+        "possession": 57,
+        "xg": 0.09,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 110,
-        "duelsWon": 12,
-        "boxTouches": 8,
+        "accuratePasses": 135,
+        "duelsWon": 13,
+        "boxTouches": 9,
         "fouls": 2,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 46,
+        "possession": 43,
         "xg": 0.11,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 91,
+        "accuratePasses": 98,
         "duelsWon": 9,
         "boxTouches": 5,
         "fouls": 3,
@@ -736,29 +736,29 @@
     "559667": {
       "home": {
         "possession": 62,
-        "xg": 0.48,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 283,
-        "duelsWon": 18,
-        "boxTouches": 16,
-        "fouls": 6,
-        "corners": 6,
+        "xg": 0.53,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 303,
+        "duelsWon": 21,
+        "boxTouches": 17,
+        "fouls": 7,
+        "corners": 7,
         "offsides": 1,
-        "saves": 1
+        "saves": 3
       },
       "away": {
         "possession": 38,
-        "xg": 1.24,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 161,
-        "duelsWon": 22,
+        "xg": 1.28,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 169,
+        "duelsWon": 27,
         "boxTouches": 10,
         "fouls": 7,
-        "corners": 1,
+        "corners": 2,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -774,6 +774,19 @@
           "teamId": "519",
           "playerName": "Cameron Archer",
           "assist": "Mamadou Diop"
+        },
+        {
+          "minute": "50'",
+          "type": "yellow-card",
+          "teamId": "529",
+          "playerName": "Anthony Rouault"
+        },
+        {
+          "minute": "54'",
+          "type": "goal",
+          "teamId": "529",
+          "playerName": "Adrien Thomasson",
+          "method": "header"
         }
       ]
     },
@@ -844,30 +857,30 @@
   "DED": {
     "558873": {
       "home": {
-        "possession": 51,
-        "xg": 1.43,
-        "shots": 10,
-        "shotsOnTarget": 1,
-        "accuratePasses": 278,
-        "duelsWon": 37,
-        "boxTouches": 15,
-        "fouls": 8,
+        "possession": 49,
+        "xg": 1.55,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 299,
+        "duelsWon": 39,
+        "boxTouches": 20,
+        "fouls": 9,
         "corners": 2,
         "offsides": 1,
         "saves": 4
       },
       "away": {
-        "possession": 49,
+        "possession": 51,
         "xg": 2.44,
         "shots": 11,
         "shotsOnTarget": 7,
-        "accuratePasses": 266,
-        "duelsWon": 29,
-        "boxTouches": 23,
-        "fouls": 9,
+        "accuratePasses": 317,
+        "duelsWon": 33,
+        "boxTouches": 24,
+        "fouls": 10,
         "corners": 5,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -909,6 +922,12 @@
           "teamId": "677",
           "playerName": "Brynjólfur Willumsson",
           "assist": "Pelle Clement"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "677",
+          "playerName": "Tygo Land"
         }
       ]
     },
@@ -1143,28 +1162,28 @@
     "567328": {
       "home": {
         "possession": 57,
-        "xg": 1.68,
-        "shots": 10,
-        "shotsOnTarget": 7,
-        "accuratePasses": 339,
-        "duelsWon": 38,
-        "boxTouches": 19,
+        "xg": 1.66,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 353,
+        "duelsWon": 43,
+        "boxTouches": 21,
         "fouls": 6,
-        "corners": 7,
+        "corners": 8,
         "offsides": 0,
         "saves": 3
       },
       "away": {
         "possession": 43,
-        "xg": 1.07,
-        "shots": 9,
+        "xg": 1.1,
+        "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 229,
-        "duelsWon": 42,
-        "boxTouches": 13,
+        "accuratePasses": 234,
+        "duelsWon": 47,
+        "boxTouches": 14,
         "fouls": 13,
-        "corners": 5,
-        "offsides": 2,
+        "corners": 6,
+        "offsides": 3,
         "saves": 4
       },
       "events": [
@@ -1218,6 +1237,12 @@
           "type": "yellow-card",
           "teamId": "496",
           "playerName": "Jalen Blesa"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "496",
+          "playerName": "Roland Galcík"
         }
       ]
     }
