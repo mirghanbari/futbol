@@ -2,30 +2,30 @@
   "ELC": {
     "561859": {
       "home": {
-        "possession": 63,
-        "xg": 0.53,
-        "shots": 2,
-        "shotsOnTarget": 2,
-        "accuratePasses": 266,
-        "duelsWon": 20,
-        "boxTouches": 11,
-        "fouls": 6,
-        "corners": 1,
+        "possession": 60,
+        "xg": 0.98,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 275,
+        "duelsWon": 23,
+        "boxTouches": 13,
+        "fouls": 7,
+        "corners": 2,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 37,
+        "possession": 40,
         "xg": 0.21,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 138,
-        "duelsWon": 16,
-        "boxTouches": 9,
-        "fouls": 4,
+        "accuratePasses": 163,
+        "duelsWon": 19,
+        "boxTouches": 10,
+        "fouls": 6,
         "corners": 1,
         "offsides": 2,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -52,6 +52,12 @@
           "type": "red-card",
           "teamId": "340",
           "playerName": "Cameron Bragg"
+        },
+        {
+          "minute": "51'",
+          "type": "yellow-card",
+          "teamId": "340",
+          "playerName": "Cyle Larin"
         }
       ]
     }
@@ -59,56 +65,59 @@
   "PD": {
     "564703": {
       "home": {
-        "possession": 62,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 16,
-        "duelsWon": 0,
-        "fouls": 1,
+        "possession": 66,
+        "xg": 0.14,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 47,
+        "duelsWon": 5,
+        "boxTouches": 1,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 38,
+        "possession": 34,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 10,
-        "duelsWon": 3,
-        "fouls": 0,
-        "corners": 0,
+        "accuratePasses": 21,
+        "duelsWon": 7,
+        "fouls": 1,
+        "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       }
     }
   },
   "SA": {
     "558585": {
       "home": {
-        "possession": 58,
-        "xg": 0.87,
-        "shots": 10,
-        "shotsOnTarget": 2,
-        "accuratePasses": 377,
-        "duelsWon": 33,
+        "possession": 59,
+        "xg": 0.91,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 414,
+        "duelsWon": 35,
         "boxTouches": 20,
         "fouls": 7,
-        "corners": 3,
+        "corners": 5,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 42,
+        "possession": 41,
         "xg": 1.1,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 247,
+        "accuratePasses": 256,
         "duelsWon": 34,
         "boxTouches": 10,
         "fouls": 7,
         "corners": 2,
         "offsides": 3,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -148,12 +157,12 @@
     "558876": {
       "home": {
         "possession": 58,
-        "xg": 1.11,
-        "shots": 21,
-        "shotsOnTarget": 4,
-        "accuratePasses": 400,
-        "duelsWon": 43,
-        "boxTouches": 32,
+        "xg": 1.27,
+        "shots": 23,
+        "shotsOnTarget": 5,
+        "accuratePasses": 411,
+        "duelsWon": 46,
+        "boxTouches": 33,
         "fouls": 14,
         "corners": 6,
         "offsides": 0,
@@ -161,13 +170,13 @@
       },
       "away": {
         "possession": 42,
-        "xg": 0.47,
-        "shots": 7,
+        "xg": 0.5,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 267,
-        "duelsWon": 33,
-        "boxTouches": 7,
-        "fouls": 12,
+        "accuratePasses": 273,
+        "duelsWon": 39,
+        "boxTouches": 9,
+        "fouls": 13,
         "corners": 3,
         "offsides": 2,
         "saves": 2
@@ -205,6 +214,12 @@
           "type": "yellow-card",
           "teamId": "676",
           "playerName": "Nikolas Panayiotou"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "goal",
+          "teamId": "676",
+          "playerName": "Ángel Alarcon"
         }
       ]
     }
