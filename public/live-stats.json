@@ -333,12 +333,12 @@
   "PD": {
     "564701": {
       "home": {
-        "possession": 51,
+        "possession": 50,
         "xg": 2.61,
         "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 372,
-        "duelsWon": 37,
+        "accuratePasses": 396,
+        "duelsWon": 39,
         "boxTouches": 26,
         "fouls": 11,
         "corners": 7,
@@ -346,15 +346,15 @@
         "saves": 2
       },
       "away": {
-        "possession": 49,
-        "xg": 1.45,
-        "shots": 8,
+        "possession": 50,
+        "xg": 1.48,
+        "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 353,
-        "duelsWon": 43,
-        "boxTouches": 12,
-        "fouls": 12,
-        "corners": 3,
+        "accuratePasses": 377,
+        "duelsWon": 44,
+        "boxTouches": 15,
+        "fouls": 13,
+        "corners": 4,
         "offsides": 2,
         "saves": 2
       },
@@ -429,6 +429,12 @@
           "type": "yellow-card",
           "teamId": "90",
           "playerName": "Marc Roca"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "79",
+          "playerName": "Valentin Rosier"
         }
       ]
     },
@@ -1433,12 +1439,12 @@
   "PPL": {
     "567320": {
       "home": {
-        "possession": 65,
+        "possession": 64,
         "xg": 2.03,
         "shots": 17,
         "shotsOnTarget": 3,
-        "accuratePasses": 283,
-        "duelsWon": 37,
+        "accuratePasses": 305,
+        "duelsWon": 40,
         "boxTouches": 34,
         "fouls": 7,
         "corners": 9,
@@ -1446,15 +1452,15 @@
         "saves": 0
       },
       "away": {
-        "possession": 35,
-        "xg": 0.32,
-        "shots": 4,
+        "possession": 36,
+        "xg": 0.39,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 137,
-        "duelsWon": 35,
-        "boxTouches": 7,
-        "fouls": 14,
-        "corners": 2,
+        "accuratePasses": 153,
+        "duelsWon": 36,
+        "boxTouches": 9,
+        "fouls": 15,
+        "corners": 4,
         "offsides": 2,
         "saves": 2
       },
@@ -1495,6 +1501,12 @@
           "type": "yellow-card",
           "teamId": "1903",
           "playerName": "Tomás Araújo"
+        },
+        {
+          "minute": "56'",
+          "type": "yellow-card",
+          "teamId": "5543",
+          "playerName": "Samu"
         }
       ]
     },
