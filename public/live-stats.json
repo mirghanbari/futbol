@@ -333,24 +333,24 @@
   "PD": {
     "564701": {
       "home": {
-        "possession": 51,
-        "xg": 2.69,
-        "shots": 18,
-        "shotsOnTarget": 5,
-        "accuratePasses": 427,
-        "duelsWon": 41,
+        "possession": 52,
+        "xg": 2.77,
+        "shots": 20,
+        "shotsOnTarget": 7,
+        "accuratePasses": 451,
+        "duelsWon": 42,
         "boxTouches": 29,
         "fouls": 11,
-        "corners": 7,
+        "corners": 8,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 49,
+        "possession": 48,
         "xg": 1.51,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 398,
+        "accuratePasses": 403,
         "duelsWon": 47,
         "boxTouches": 16,
         "fouls": 13,
@@ -435,8 +435,22 @@
           "type": "yellow-card",
           "teamId": "79",
           "playerName": "Valentin Rosier"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "goal",
+          "teamId": "90",
+          "playerName": "José Antonio Morante",
+          "assist": "Héctor Bellerín"
+        },
+        {
+          "minute": "90'+7'",
+          "type": "yellow-card",
+          "teamId": "79",
+          "playerName": "Alejandro Catena"
         }
-      ]
+      ],
+      "final": true
     },
     "564703": {
       "home": {
@@ -1441,10 +1455,10 @@
       "home": {
         "possession": 64,
         "xg": 2.4,
-        "shots": 19,
+        "shots": 20,
         "shotsOnTarget": 4,
-        "accuratePasses": 341,
-        "duelsWon": 42,
+        "accuratePasses": 368,
+        "duelsWon": 48,
         "boxTouches": 36,
         "fouls": 7,
         "corners": 10,
@@ -1456,10 +1470,10 @@
         "xg": 0.39,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 170,
-        "duelsWon": 39,
+        "accuratePasses": 188,
+        "duelsWon": 42,
         "boxTouches": 9,
-        "fouls": 16,
+        "fouls": 17,
         "corners": 4,
         "offsides": 2,
         "saves": 3
