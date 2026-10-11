@@ -1,5 +1,13 @@
 [
   {
+    "id": "17",
+    "name": "SC Freiburg",
+    "shortName": "Freiburg",
+    "tla": "SCF",
+    "crest": "https://crests.football-data.org/17.png",
+    "competitionId": "BL1"
+  },
+  {
     "id": "4",
     "name": "Borussia Dortmund",
     "shortName": "Dortmund",
@@ -13,14 +21,6 @@
     "shortName": "Bayern",
     "tla": "FCB",
     "crest": "https://crests.football-data.org/5.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "17",
-    "name": "SC Freiburg",
-    "shortName": "Freiburg",
-    "tla": "SCF",
-    "crest": "https://crests.football-data.org/17.png",
     "competitionId": "BL1"
   },
   {
@@ -88,19 +88,19 @@
     "competitionId": "BL1"
   },
   {
-    "id": "6",
-    "name": "FC Schalke 04",
-    "shortName": "Schalke",
-    "tla": "S04",
-    "crest": "https://crests.football-data.org/6.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "7",
     "name": "Hamburger SV",
     "shortName": "HSV",
     "tla": "HSV",
     "crest": "https://crests.football-data.org/7.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "6",
+    "name": "FC Schalke 04",
+    "shortName": "Schalke",
+    "tla": "S04",
+    "crest": "https://crests.football-data.org/6.png",
     "competitionId": "BL1"
   },
   {

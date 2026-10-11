@@ -16,19 +16,19 @@
     "competitionId": "PD"
   },
   {
-    "id": "86",
-    "name": "Real Madrid CF",
-    "shortName": "Real Madrid",
-    "tla": "RMA",
-    "crest": "https://crests.football-data.org/86.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "90",
     "name": "Real Betis Balompié",
     "shortName": "Real Betis",
     "tla": "BET",
     "crest": "https://crests.football-data.org/90.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "86",
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "tla": "RMA",
+    "crest": "https://crests.football-data.org/86.png",
     "competitionId": "PD"
   },
   {
@@ -61,14 +61,6 @@
     "shortName": "Deportivo",
     "tla": "DEP",
     "crest": "https://crests.football-data.org/560.png",
-    "competitionId": "PD"
-  },
-  {
-    "id": "79",
-    "name": "CA Osasuna",
-    "shortName": "Osasuna",
-    "tla": "OSA",
-    "crest": "https://crests.football-data.org/79.png",
     "competitionId": "PD"
   },
   {
@@ -128,6 +120,14 @@
     "competitionId": "PD"
   },
   {
+    "id": "79",
+    "name": "CA Osasuna",
+    "shortName": "Osasuna",
+    "tla": "OSA",
+    "crest": "https://crests.football-data.org/79.png",
+    "competitionId": "PD"
+  },
+  {
     "id": "285",
     "name": "Elche CF",
     "shortName": "Elche",
@@ -144,19 +144,19 @@
     "competitionId": "PD"
   },
   {
-    "id": "84",
-    "name": "Málaga CF",
-    "shortName": "Málaga",
-    "tla": "MAL",
-    "crest": "https://crests.football-data.org/84.png",
-    "competitionId": "PD"
-  },
-  {
     "id": "95",
     "name": "Valencia CF",
     "shortName": "Valencia",
     "tla": "VAL",
     "crest": "https://crests.football-data.org/95.png",
+    "competitionId": "PD"
+  },
+  {
+    "id": "84",
+    "name": "Málaga CF",
+    "shortName": "Málaga",
+    "tla": "MAL",
+    "crest": "https://crests.football-data.org/84.png",
     "competitionId": "PD"
   }
 ]

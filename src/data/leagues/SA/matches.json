@@ -2954,14 +2954,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T16:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "471",
     "awayTeamId": "98",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 1.16,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 384,
+        "duelsWon": 43,
+        "boxTouches": 19,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1.17,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 565,
+        "duelsWon": 39,
+        "boxTouches": 27,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Mapei Stadium, Reggio Emilia",
     "broadcasts": [
@@ -2978,14 +3006,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "104",
     "awayTeamId": "109",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 28,
+        "xg": 0.51,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 278,
+        "duelsWon": 49,
+        "boxTouches": 4,
+        "fouls": 8,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 9
+      },
+      "away": {
+        "possession": 72,
+        "xg": 1.92,
+        "shots": 22,
+        "shotsOnTarget": 10,
+        "accuratePasses": 781,
+        "duelsWon": 45,
+        "boxTouches": 51,
+        "fouls": 8,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 1
+      }
     },
     "venue": "Unipol Domus, Cagliari",
     "broadcasts": [

@@ -2446,14 +2446,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T15:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "529",
     "awayTeamId": "519",
     "homeTeam": {
-      "goals": 2
+      "goals": 4
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 2.17,
+        "shots": 21,
+        "shotsOnTarget": 11,
+        "accuratePasses": 459,
+        "duelsWon": 44,
+        "boxTouches": 34,
+        "fouls": 12,
+        "corners": 12,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.49,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 294,
+        "duelsWon": 54,
+        "boxTouches": 16,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 7
+      }
     },
     "venue": "Roazhon Park, Rennes",
     "broadcasts": [
@@ -2470,14 +2498,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "531",
     "awayTeamId": "516",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 37,
+        "xg": 1.14,
+        "shots": 15,
+        "shotsOnTarget": 3,
+        "accuratePasses": 281,
+        "duelsWon": 54,
+        "boxTouches": 21,
+        "fouls": 14,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 63,
+        "xg": 1.26,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 572,
+        "duelsWon": 43,
+        "boxTouches": 20,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Stade de l'Aube, Paris",
     "broadcasts": [

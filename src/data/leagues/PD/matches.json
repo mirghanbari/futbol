@@ -4134,14 +4134,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-11T16:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "90",
     "awayTeamId": "79",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.77,
+        "shots": 20,
+        "shotsOnTarget": 7,
+        "accuratePasses": 451,
+        "duelsWon": 42,
+        "boxTouches": 29,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.51,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 411,
+        "duelsWon": 52,
+        "boxTouches": 18,
+        "fouls": 13,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Estadio La Cartuja, Sevilla",
     "broadcasts": [
@@ -4162,14 +4190,14 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-11T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "5335",
     "awayTeamId": "95",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "El Sardineros, Santander",
     "broadcasts": [
