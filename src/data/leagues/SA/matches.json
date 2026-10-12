@@ -2790,7 +2790,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T10:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7397",
     "awayTeamId": "100",
     "homeTeam": {
@@ -2846,14 +2846,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5890",
     "awayTeamId": "103",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -2902,14 +2902,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "110",
     "awayTeamId": "5911",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -2954,14 +2954,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T16:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "471",
     "awayTeamId": "98",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -3006,14 +3006,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "104",
     "awayTeamId": "109",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -3058,14 +3058,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-12T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "102",
     "awayTeamId": "454",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 2.19,
+        "shots": 22,
+        "shotsOnTarget": 11,
+        "accuratePasses": 275,
+        "duelsWon": 27,
+        "boxTouches": 24,
+        "fouls": 14,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 64,
+        "xg": 2.48,
+        "shots": 19,
+        "shotsOnTarget": 4,
+        "accuratePasses": 526,
+        "duelsWon": 38,
+        "boxTouches": 27,
+        "fouls": 6,
+        "corners": 7,
+        "offsides": 5,
+        "saves": 7
+      }
     },
     "venue": "New Balance Arena, Bergamo",
     "broadcasts": [
@@ -3082,14 +3110,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-12T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "586",
     "awayTeamId": "115",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 2.42,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 332,
+        "duelsWon": 43,
+        "boxTouches": 13,
+        "fouls": 4,
+        "corners": 4,
+        "offsides": 7,
+        "saves": 0
+      },
+      "away": {
+        "possession": 62,
+        "xg": 0.7,
+        "shots": 15,
+        "shotsOnTarget": 1,
+        "accuratePasses": 583,
+        "duelsWon": 32,
+        "boxTouches": 20,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Stadio Olimpico Grande Torino, Torino",
     "broadcasts": [
