@@ -2,11 +2,11 @@
   "SA": {
     "558579": {
       "home": {
-        "possession": 43,
+        "possession": 46,
         "xg": 1.27,
         "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 101,
+        "accuratePasses": 143,
         "duelsWon": 7,
         "boxTouches": 13,
         "fouls": 4,
@@ -15,16 +15,16 @@
         "saves": 1
       },
       "away": {
-        "possession": 57,
-        "xg": 0.2,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 148,
+        "possession": 54,
+        "xg": 0.51,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 174,
         "duelsWon": 12,
-        "boxTouches": 5,
+        "boxTouches": 6,
         "fouls": 3,
         "corners": 1,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 2
       },
       "events": [
@@ -54,6 +54,14 @@
           "type": "goal",
           "teamId": "102",
           "playerName": "Nikola Krstović"
+        },
+        {
+          "minute": "37'",
+          "type": "goal",
+          "teamId": "454",
+          "playerName": "Antoine Hainaut",
+          "method": "header",
+          "assist": "Richie Sagrado"
         }
       ]
     }
