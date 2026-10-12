@@ -2,12 +2,12 @@
   "SA": {
     "558579": {
       "home": {
-        "possession": 56,
-        "xg": 0.76,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 61,
-        "duelsWon": 4,
+        "possession": 45,
+        "xg": 0.81,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 64,
+        "duelsWon": 7,
         "boxTouches": 10,
         "fouls": 2,
         "corners": 5,
@@ -15,14 +15,14 @@
         "saves": 1
       },
       "away": {
-        "possession": 44,
-        "xg": 0.11,
-        "shots": 2,
+        "possession": 55,
+        "xg": 0.2,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 48,
-        "duelsWon": 8,
-        "boxTouches": 4,
-        "fouls": 1,
+        "accuratePasses": 79,
+        "duelsWon": 10,
+        "boxTouches": 5,
+        "fouls": 3,
         "corners": 1,
         "offsides": 1,
         "saves": 1
@@ -42,6 +42,12 @@
           "playerName": "Nikola Krstović",
           "method": "header",
           "assist": "Eljif Elmas"
+        },
+        {
+          "minute": "18'",
+          "type": "yellow-card",
+          "teamId": "454",
+          "playerName": "Matías Moreno"
         }
       ]
     }
