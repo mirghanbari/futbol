@@ -342,27 +342,27 @@
   "PPL": {
     "567325": {
       "home": {
-        "possession": 64,
+        "possession": 65,
         "xg": 0.36,
         "shots": 13,
         "shotsOnTarget": 2,
-        "accuratePasses": 465,
-        "duelsWon": 66,
-        "boxTouches": 14,
+        "accuratePasses": 469,
+        "duelsWon": 67,
+        "boxTouches": 15,
         "fouls": 11,
         "corners": 8,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 36,
+        "possession": 35,
         "xg": 2.84,
-        "shots": 13,
+        "shots": 14,
         "shotsOnTarget": 5,
         "accuratePasses": 237,
         "duelsWon": 52,
-        "boxTouches": 19,
-        "fouls": 26,
+        "boxTouches": 20,
+        "fouls": 27,
         "corners": 3,
         "offsides": 0,
         "saves": 1
@@ -432,7 +432,8 @@
           "playerName": "André Vidigal",
           "penalty": true
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
