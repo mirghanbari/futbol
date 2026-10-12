@@ -81,30 +81,30 @@
   "PD": {
     "564704": {
       "home": {
-        "possession": 57,
-        "xg": 1.22,
-        "shots": 17,
-        "shotsOnTarget": 5,
-        "accuratePasses": 402,
-        "duelsWon": 57,
-        "boxTouches": 26,
+        "possession": 56,
+        "xg": 1.95,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 409,
+        "duelsWon": 59,
+        "boxTouches": 28,
         "fouls": 7,
         "corners": 5,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 43,
+        "possession": 44,
         "xg": 2.53,
         "shots": 18,
         "shotsOnTarget": 5,
-        "accuratePasses": 300,
-        "duelsWon": 62,
+        "accuratePasses": 305,
+        "duelsWon": 63,
         "boxTouches": 27,
-        "fouls": 16,
+        "fouls": 17,
         "corners": 2,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -165,15 +165,15 @@
         },
         {
           "minute": "90'+2'",
-          "type": "goal",
-          "teamId": "88",
-          "playerName": "Adrián De La Fuente"
-        },
-        {
-          "minute": "90'+2'",
           "type": "yellow-card",
           "teamId": "559",
           "playerName": "Isaac Romero"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "goal",
+          "teamId": "88",
+          "playerName": "Adrián De La Fuente"
         },
         {
           "minute": "90'+5'",
@@ -184,23 +184,24 @@
         },
         {
           "minute": "90'+6'",
-          "type": "yellow-card",
-          "teamId": "559",
-          "playerName": "Juan Iglesias"
-        },
-        {
-          "minute": "90'+6'",
           "type": "red-card",
           "teamId": "559",
           "playerName": "Isaac Romero"
         },
         {
+          "minute": "90'+6'",
+          "type": "yellow-card",
+          "teamId": "559",
+          "playerName": "Juan Iglesias"
+        },
+        {
           "minute": "90'+10'",
           "type": "goal",
           "teamId": "88",
-          "playerName": "<TBD>"
+          "playerName": "Ifeanyi Ndukwe"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "SA": {
@@ -341,27 +342,27 @@
   "PPL": {
     "567325": {
       "home": {
-        "possession": 66,
+        "possession": 65,
         "xg": 0.3,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 435,
-        "duelsWon": 61,
+        "accuratePasses": 439,
+        "duelsWon": 63,
         "boxTouches": 13,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 7,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 34,
-        "xg": 1.96,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 207,
-        "duelsWon": 47,
-        "boxTouches": 17,
-        "fouls": 22,
+        "possession": 35,
+        "xg": 2.84,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 214,
+        "duelsWon": 50,
+        "boxTouches": 19,
+        "fouls": 23,
         "corners": 3,
         "offsides": 0,
         "saves": 1
@@ -423,6 +424,13 @@
           "teamId": "7822",
           "playerName": "Vivaldo Semedo",
           "assist": "Matheus Mendes"
+        },
+        {
+          "minute": "85'",
+          "type": "goal",
+          "teamId": "7822",
+          "playerName": "André Vidigal",
+          "penalty": true
         }
       ]
     }
