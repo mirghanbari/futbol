@@ -2,30 +2,30 @@
   "SA": {
     "558579": {
       "home": {
-        "possession": 44,
-        "xg": 0.81,
-        "shots": 9,
-        "shotsOnTarget": 4,
-        "accuratePasses": 81,
-        "duelsWon": 8,
-        "boxTouches": 11,
+        "possession": 43,
+        "xg": 1.27,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 101,
+        "duelsWon": 7,
+        "boxTouches": 13,
         "fouls": 4,
         "corners": 5,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 56,
+        "possession": 57,
         "xg": 0.2,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 110,
-        "duelsWon": 11,
+        "accuratePasses": 148,
+        "duelsWon": 12,
         "boxTouches": 5,
         "fouls": 3,
         "corners": 1,
-        "offsides": 1,
-        "saves": 1
+        "offsides": 2,
+        "saves": 2
       },
       "events": [
         {
@@ -48,6 +48,12 @@
           "type": "yellow-card",
           "teamId": "454",
           "playerName": "Matías Moreno"
+        },
+        {
+          "minute": "31'",
+          "type": "goal",
+          "teamId": "102",
+          "playerName": "Nikola Krstović"
         }
       ]
     }
