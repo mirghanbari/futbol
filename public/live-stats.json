@@ -2,12 +2,12 @@
   "SA": {
     "558579": {
       "home": {
-        "possession": 46,
-        "xg": 1.27,
-        "shots": 11,
+        "possession": 43,
+        "xg": 1.31,
+        "shots": 12,
         "shotsOnTarget": 6,
-        "accuratePasses": 143,
-        "duelsWon": 7,
+        "accuratePasses": 155,
+        "duelsWon": 9,
         "boxTouches": 13,
         "fouls": 4,
         "corners": 5,
@@ -15,14 +15,14 @@
         "saves": 1
       },
       "away": {
-        "possession": 54,
-        "xg": 0.51,
-        "shots": 5,
+        "possession": 57,
+        "xg": 0.54,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 174,
-        "duelsWon": 12,
-        "boxTouches": 6,
-        "fouls": 3,
+        "accuratePasses": 223,
+        "duelsWon": 15,
+        "boxTouches": 8,
+        "fouls": 4,
         "corners": 1,
         "offsides": 3,
         "saves": 2
@@ -62,6 +62,12 @@
           "playerName": "Antoine Hainaut",
           "method": "header",
           "assist": "Richie Sagrado"
+        },
+        {
+          "minute": "42'",
+          "type": "yellow-card",
+          "teamId": "454",
+          "playerName": "Juan Jesus"
         }
       ]
     }
