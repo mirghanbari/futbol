@@ -6,8 +6,8 @@
         "xg": 0.86,
         "shots": 2,
         "shotsOnTarget": 2,
-        "accuratePasses": 105,
-        "duelsWon": 17,
+        "accuratePasses": 107,
+        "duelsWon": 18,
         "boxTouches": 5,
         "fouls": 3,
         "corners": 0,
@@ -41,11 +41,11 @@
   "PD": {
     "564704": {
       "home": {
-        "possession": 56,
+        "possession": 53,
         "xg": 0.44,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 194,
+        "accuratePasses": 195,
         "duelsWon": 22,
         "boxTouches": 10,
         "fouls": 3,
@@ -54,15 +54,15 @@
         "saves": 2
       },
       "away": {
-        "possession": 44,
-        "xg": 1.29,
-        "shots": 9,
+        "possession": 47,
+        "xg": 1.34,
+        "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 151,
-        "duelsWon": 29,
-        "boxTouches": 12,
+        "accuratePasses": 170,
+        "duelsWon": 31,
+        "boxTouches": 13,
         "fouls": 7,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 1
       },
@@ -163,27 +163,27 @@
     },
     "558587": {
       "home": {
-        "possession": 39,
+        "possession": 38,
         "xg": 0.92,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 194,
-        "duelsWon": 19,
+        "accuratePasses": 198,
+        "duelsWon": 20,
         "boxTouches": 3,
         "fouls": 1,
         "corners": 1,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 0
       },
       "away": {
-        "possession": 61,
+        "possession": 62,
         "xg": 0.4,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 319,
+        "accuratePasses": 333,
         "duelsWon": 14,
         "boxTouches": 11,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 3,
         "offsides": 0,
         "saves": 0
@@ -211,23 +211,23 @@
         "xg": 0.03,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 156,
-        "duelsWon": 22,
-        "boxTouches": 2,
+        "accuratePasses": 183,
+        "duelsWon": 25,
+        "boxTouches": 3,
         "fouls": 2,
         "corners": 2,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
         "possession": 36,
-        "xg": 0.2,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 80,
-        "duelsWon": 15,
-        "boxTouches": 4,
-        "fouls": 6,
+        "xg": 0.57,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 94,
+        "duelsWon": 17,
+        "boxTouches": 6,
+        "fouls": 8,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -250,6 +250,12 @@
           "type": "goal",
           "teamId": "7822",
           "playerName": "Chiquinho"
+        },
+        {
+          "minute": "34'",
+          "type": "yellow-card",
+          "teamId": "7822",
+          "playerName": "Francisco Chissumba"
         }
       ]
     }
