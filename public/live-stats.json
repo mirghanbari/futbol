@@ -81,24 +81,24 @@
   "PD": {
     "564704": {
       "home": {
-        "possession": 56,
-        "xg": 1.2,
-        "shots": 16,
+        "possession": 57,
+        "xg": 1.22,
+        "shots": 17,
         "shotsOnTarget": 5,
-        "accuratePasses": 392,
-        "duelsWon": 56,
-        "boxTouches": 25,
+        "accuratePasses": 402,
+        "duelsWon": 57,
+        "boxTouches": 26,
         "fouls": 7,
         "corners": 5,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 44,
-        "xg": 2.48,
-        "shots": 17,
-        "shotsOnTarget": 4,
-        "accuratePasses": 299,
+        "possession": 43,
+        "xg": 2.53,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 300,
         "duelsWon": 62,
         "boxTouches": 27,
         "fouls": 16,
@@ -174,6 +174,31 @@
           "type": "yellow-card",
           "teamId": "559",
           "playerName": "Isaac Romero"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "goal",
+          "teamId": "559",
+          "playerName": "Isaac Romero",
+          "assist": "Youssouf Fofana"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "yellow-card",
+          "teamId": "559",
+          "playerName": "Juan Iglesias"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "red-card",
+          "teamId": "559",
+          "playerName": "Isaac Romero"
+        },
+        {
+          "minute": "90'+10'",
+          "type": "goal",
+          "teamId": "88",
+          "playerName": "<TBD>"
         }
       ]
     }
@@ -320,9 +345,9 @@
         "xg": 0.3,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 406,
-        "duelsWon": 56,
-        "boxTouches": 12,
+        "accuratePasses": 435,
+        "duelsWon": 61,
+        "boxTouches": 13,
         "fouls": 8,
         "corners": 7,
         "offsides": 1,
@@ -330,14 +355,14 @@
       },
       "away": {
         "possession": 34,
-        "xg": 0.93,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 196,
-        "duelsWon": 44,
-        "boxTouches": 12,
-        "fouls": 20,
-        "corners": 2,
+        "xg": 1.96,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 207,
+        "duelsWon": 47,
+        "boxTouches": 17,
+        "fouls": 22,
+        "corners": 3,
         "offsides": 0,
         "saves": 1
       },
@@ -396,7 +421,8 @@
           "minute": "77'",
           "type": "goal",
           "teamId": "7822",
-          "playerName": "Vivaldo Semedo"
+          "playerName": "Vivaldo Semedo",
+          "assist": "Matheus Mendes"
         }
       ]
     }
