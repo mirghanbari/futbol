@@ -2,26 +2,26 @@
   "PL": {
     "560597": {
       "home": {
-        "possession": 35,
-        "xg": 0.86,
-        "shots": 2,
-        "shotsOnTarget": 2,
-        "accuratePasses": 109,
+        "possession": 37,
+        "xg": 0.9,
+        "shots": 3,
+        "shotsOnTarget": 3,
+        "accuratePasses": 127,
         "duelsWon": 19,
-        "boxTouches": 5,
+        "boxTouches": 6,
         "fouls": 3,
         "corners": 0,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 65,
-        "xg": 1.22,
-        "shots": 9,
+        "possession": 63,
+        "xg": 1.37,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 236,
-        "duelsWon": 27,
-        "boxTouches": 17,
+        "accuratePasses": 243,
+        "duelsWon": 28,
+        "boxTouches": 18,
         "fouls": 7,
         "corners": 3,
         "offsides": 4,
@@ -34,6 +34,12 @@
           "teamId": "1076",
           "playerName": "Jack Rudoni",
           "penalty": true
+        },
+        {
+          "minute": "48'",
+          "type": "goal",
+          "teamId": "1076",
+          "playerName": "Sidiki Cherif"
         }
       ]
     }
@@ -41,12 +47,12 @@
   "PD": {
     "564704": {
       "home": {
-        "possession": 54,
-        "xg": 0.47,
-        "shots": 7,
+        "possession": 52,
+        "xg": 0.5,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 199,
-        "duelsWon": 22,
+        "accuratePasses": 208,
+        "duelsWon": 27,
         "boxTouches": 10,
         "fouls": 3,
         "corners": 4,
@@ -54,14 +60,14 @@
         "saves": 2
       },
       "away": {
-        "possession": 46,
-        "xg": 1.36,
-        "shots": 10,
+        "possession": 48,
+        "xg": 1.38,
+        "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 171,
-        "duelsWon": 34,
-        "boxTouches": 13,
-        "fouls": 7,
+        "accuratePasses": 196,
+        "duelsWon": 35,
+        "boxTouches": 16,
+        "fouls": 8,
         "corners": 1,
         "offsides": 0,
         "saves": 1
@@ -78,6 +84,12 @@
           "type": "yellow-card",
           "teamId": "88",
           "playerName": "Adrián De La Fuente"
+        },
+        {
+          "minute": "48'",
+          "type": "yellow-card",
+          "teamId": "559",
+          "playerName": "Félix Correia"
         }
       ]
     }
@@ -163,26 +175,26 @@
     },
     "558587": {
       "home": {
-        "possession": 38,
-        "xg": 1.07,
-        "shots": 7,
+        "possession": 39,
+        "xg": 1.39,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 241,
-        "duelsWon": 23,
-        "boxTouches": 5,
+        "accuratePasses": 262,
+        "duelsWon": 24,
+        "boxTouches": 7,
         "fouls": 2,
-        "corners": 1,
+        "corners": 2,
         "offsides": 5,
         "saves": 0
       },
       "away": {
-        "possession": 62,
-        "xg": 0.41,
-        "shots": 8,
+        "possession": 61,
+        "xg": 0.46,
+        "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 407,
+        "accuratePasses": 434,
         "duelsWon": 17,
-        "boxTouches": 11,
+        "boxTouches": 12,
         "fouls": 5,
         "corners": 3,
         "offsides": 0,
@@ -207,27 +219,27 @@
   "PPL": {
     "567325": {
       "home": {
-        "possession": 66,
+        "possession": 67,
         "xg": 0.18,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 228,
-        "duelsWon": 33,
-        "boxTouches": 4,
+        "accuratePasses": 239,
+        "duelsWon": 35,
+        "boxTouches": 5,
         "fouls": 4,
         "corners": 6,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 34,
+        "possession": 33,
         "xg": 0.71,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 105,
+        "accuratePasses": 106,
         "duelsWon": 24,
         "boxTouches": 7,
-        "fouls": 10,
+        "fouls": 12,
         "corners": 2,
         "offsides": 0,
         "saves": 0
@@ -252,7 +264,7 @@
           "playerName": "Chiquinho"
         },
         {
-          "minute": "34'",
+          "minute": "33'",
           "type": "yellow-card",
           "teamId": "7822",
           "playerName": "Francisco Chissumba"
@@ -267,7 +279,8 @@
           "minute": "39'",
           "type": "goal",
           "teamId": "5531",
-          "playerName": "Víctor Rofino"
+          "playerName": "Víctor Rofino",
+          "assist": "Marcos Peña"
         },
         {
           "minute": "45'+2'",
