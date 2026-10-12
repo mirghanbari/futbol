@@ -8,14 +8,6 @@
     "competitionId": "ELC"
   },
   {
-    "id": "563",
-    "name": "West Ham United FC",
-    "shortName": "West Ham",
-    "tla": "WHU",
-    "crest": "https://crests.football-data.org/563.png",
-    "competitionId": "ELC"
-  },
-  {
     "id": "343",
     "name": "Middlesbrough FC",
     "shortName": "Middlesbrough",
@@ -24,27 +16,11 @@
     "competitionId": "ELC"
   },
   {
-    "id": "76",
-    "name": "Wolverhampton Wanderers FC",
-    "shortName": "Wolverhampton",
-    "tla": "WOL",
-    "crest": "https://crests.football-data.org/76.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "74",
-    "name": "West Bromwich Albion FC",
-    "shortName": "West Brom",
-    "tla": "WBA",
-    "crest": "https://crests.football-data.org/74.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "69",
-    "name": "Queens Park Rangers FC",
-    "shortName": "QPR",
-    "tla": "QPR",
-    "crest": "https://crests.football-data.org/69.png",
+    "id": "563",
+    "name": "West Ham United FC",
+    "shortName": "West Ham",
+    "tla": "WHU",
+    "crest": "https://crests.football-data.org/563.png",
     "competitionId": "ELC"
   },
   {
@@ -56,19 +32,19 @@
     "competitionId": "ELC"
   },
   {
-    "id": "387",
-    "name": "Bristol City FC",
-    "shortName": "Bristol City",
-    "tla": "BRI",
-    "crest": "https://crests.football-data.org/387.png",
+    "id": "76",
+    "name": "Wolverhampton Wanderers FC",
+    "shortName": "Wolverhampton",
+    "tla": "WOL",
+    "crest": "https://crests.football-data.org/76.png",
     "competitionId": "ELC"
   },
   {
-    "id": "348",
-    "name": "Charlton Athletic FC",
-    "shortName": "Charlton",
-    "tla": "CHA",
-    "crest": "https://crests.football-data.org/348.png",
+    "id": "69",
+    "name": "Queens Park Rangers FC",
+    "shortName": "QPR",
+    "tla": "QPR",
+    "crest": "https://crests.football-data.org/69.png",
     "competitionId": "ELC"
   },
   {
@@ -88,11 +64,19 @@
     "competitionId": "ELC"
   },
   {
-    "id": "1126",
-    "name": "Lincoln City FC",
-    "shortName": "Lincoln City",
-    "tla": "LIN",
-    "crest": "https://crests.football-data.org/1126.png",
+    "id": "74",
+    "name": "West Bromwich Albion FC",
+    "shortName": "West Brom",
+    "tla": "WBA",
+    "crest": "https://crests.football-data.org/74.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "387",
+    "name": "Bristol City FC",
+    "shortName": "Bristol City",
+    "tla": "BRI",
+    "crest": "https://crests.football-data.org/387.png",
     "competitionId": "ELC"
   },
   {
@@ -104,19 +88,11 @@
     "competitionId": "ELC"
   },
   {
-    "id": "404",
-    "name": "Wrexham AFC",
-    "shortName": "Wrexham",
-    "tla": "WRE",
-    "crest": "https://crests.football-data.org/404.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "60",
-    "name": "Bolton Wanderers FC",
-    "shortName": "Bolton",
-    "tla": "BOL",
-    "crest": "https://crests.football-data.org/60.png",
+    "id": "348",
+    "name": "Charlton Athletic FC",
+    "shortName": "Charlton",
+    "tla": "CHA",
+    "crest": "https://crests.football-data.org/348.png",
     "competitionId": "ELC"
   },
   {
@@ -128,19 +104,43 @@
     "competitionId": "ELC"
   },
   {
-    "id": "68",
-    "name": "Norwich City FC",
-    "shortName": "Norwich",
-    "tla": "NOR",
-    "crest": "https://crests.football-data.org/68.png",
-    "competitionId": "ELC"
-  },
-  {
     "id": "356",
     "name": "Sheffield United FC",
     "shortName": "Sheffield Utd",
     "tla": "SHE",
     "crest": "https://crests.football-data.org/356.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "404",
+    "name": "Wrexham AFC",
+    "shortName": "Wrexham",
+    "tla": "WRE",
+    "crest": "https://crests.football-data.org/404.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "1126",
+    "name": "Lincoln City FC",
+    "shortName": "Lincoln City",
+    "tla": "LIN",
+    "crest": "https://crests.football-data.org/1126.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "60",
+    "name": "Bolton Wanderers FC",
+    "shortName": "Bolton",
+    "tla": "BOL",
+    "crest": "https://crests.football-data.org/60.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "68",
+    "name": "Norwich City FC",
+    "shortName": "Norwich",
+    "tla": "NOR",
+    "crest": "https://crests.football-data.org/68.png",
     "competitionId": "ELC"
   },
   {
@@ -168,6 +168,14 @@
     "competitionId": "ELC"
   },
   {
+    "id": "328",
+    "name": "Burnley FC",
+    "shortName": "Burnley",
+    "tla": "BUR",
+    "crest": "https://crests.football-data.org/328.png",
+    "competitionId": "ELC"
+  },
+  {
     "id": "342",
     "name": "Derby County FC",
     "shortName": "Derby County",
@@ -181,14 +189,6 @@
     "shortName": "Preston NE",
     "tla": "PNE",
     "crest": "https://crests.football-data.org/1081.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "328",
-    "name": "Burnley FC",
-    "shortName": "Burnley",
-    "tla": "BUR",
-    "crest": "https://crests.football-data.org/328.png",
     "competitionId": "ELC"
   }
 ]
