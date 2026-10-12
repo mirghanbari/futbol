@@ -2,28 +2,28 @@
   "SA": {
     "558579": {
       "home": {
-        "possession": 38,
+        "possession": 36,
         "xg": 2.08,
         "shots": 22,
         "shotsOnTarget": 11,
-        "accuratePasses": 272,
-        "duelsWon": 24,
+        "accuratePasses": 276,
+        "duelsWon": 26,
         "boxTouches": 25,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 8,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 62,
-        "xg": 2.35,
-        "shots": 16,
+        "possession": 64,
+        "xg": 2.62,
+        "shots": 19,
         "shotsOnTarget": 4,
-        "accuratePasses": 478,
-        "duelsWon": 33,
-        "boxTouches": 22,
+        "accuratePasses": 526,
+        "duelsWon": 38,
+        "boxTouches": 27,
         "fouls": 6,
-        "corners": 6,
+        "corners": 7,
         "offsides": 5,
         "saves": 7
       },
@@ -75,7 +75,8 @@
           "teamId": "102",
           "playerName": "Eljif Elmas"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
