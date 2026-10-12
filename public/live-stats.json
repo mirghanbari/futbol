@@ -2,30 +2,30 @@
   "SA": {
     "558579": {
       "home": {
-        "possession": 57,
-        "xg": 0.34,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 27,
-        "duelsWon": 1,
-        "boxTouches": 3,
-        "fouls": 0,
-        "corners": 1,
+        "possession": 58,
+        "xg": 0.56,
+        "shots": 3,
+        "shotsOnTarget": 3,
+        "accuratePasses": 43,
+        "duelsWon": 2,
+        "boxTouches": 5,
+        "fouls": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 43,
+        "possession": 42,
         "xg": 0.07,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 21,
-        "duelsWon": 2,
+        "accuratePasses": 32,
+        "duelsWon": 4,
         "boxTouches": 3,
         "fouls": 0,
         "corners": 0,
-        "offsides": 0,
-        "saves": 0
+        "offsides": 1,
+        "saves": 1
       },
       "events": [
         {
@@ -34,6 +34,14 @@
           "teamId": "102",
           "playerName": "Franck Kessié",
           "assist": "Nikola Krstović"
+        },
+        {
+          "minute": "7'",
+          "type": "goal",
+          "teamId": "102",
+          "playerName": "Nikola Krstović",
+          "method": "header",
+          "assist": "Eljif Elmas"
         }
       ]
     }
