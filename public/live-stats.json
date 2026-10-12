@@ -2,12 +2,12 @@
   "PL": {
     "560597": {
       "home": {
-        "possession": 34,
+        "possession": 33,
         "xg": 1.43,
         "shots": 9,
         "shotsOnTarget": 6,
-        "accuratePasses": 183,
-        "duelsWon": 35,
+        "accuratePasses": 185,
+        "duelsWon": 38,
         "boxTouches": 16,
         "fouls": 3,
         "corners": 2,
@@ -15,14 +15,14 @@
         "saves": 4
       },
       "away": {
-        "possession": 66,
-        "xg": 1.82,
-        "shots": 18,
+        "possession": 67,
+        "xg": 1.84,
+        "shots": 19,
         "shotsOnTarget": 6,
-        "accuratePasses": 426,
-        "duelsWon": 41,
-        "boxTouches": 38,
-        "fouls": 9,
+        "accuratePasses": 451,
+        "duelsWon": 43,
+        "boxTouches": 39,
+        "fouls": 10,
         "corners": 6,
         "offsides": 5,
         "saves": 2
@@ -56,16 +56,16 @@
         },
         {
           "minute": "81'",
-          "type": "yellow-card",
-          "teamId": "67",
-          "playerName": "Joelinton"
-        },
-        {
-          "minute": "81'",
           "type": "goal",
           "teamId": "1076",
           "playerName": "Ellis Simms",
           "assist": "Brandon Thomas-Asante"
+        },
+        {
+          "minute": "81'",
+          "type": "yellow-card",
+          "teamId": "67",
+          "playerName": "Joelinton"
         },
         {
           "minute": "86'",
@@ -74,19 +74,20 @@
           "playerName": "Stephen Mfuni",
           "assist": "Jay Dasilva"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PD": {
     "564704": {
       "home": {
         "possession": 56,
-        "xg": 1.15,
-        "shots": 15,
-        "shotsOnTarget": 4,
-        "accuratePasses": 376,
-        "duelsWon": 53,
-        "boxTouches": 22,
+        "xg": 1.2,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 392,
+        "duelsWon": 56,
+        "boxTouches": 25,
         "fouls": 7,
         "corners": 5,
         "offsides": 0,
@@ -97,13 +98,13 @@
         "xg": 2.48,
         "shots": 17,
         "shotsOnTarget": 4,
-        "accuratePasses": 288,
-        "duelsWon": 59,
-        "boxTouches": 26,
-        "fouls": 14,
-        "corners": 1,
+        "accuratePasses": 299,
+        "duelsWon": 62,
+        "boxTouches": 27,
+        "fouls": 16,
+        "corners": 2,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -161,6 +162,18 @@
           "type": "yellow-card",
           "teamId": "559",
           "playerName": "Alfon González"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "goal",
+          "teamId": "88",
+          "playerName": "Adrián De La Fuente"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "yellow-card",
+          "teamId": "559",
+          "playerName": "Isaac Romero"
         }
       ]
     }
@@ -303,27 +316,27 @@
   "PPL": {
     "567325": {
       "home": {
-        "possession": 67,
-        "xg": 0.25,
-        "shots": 9,
+        "possession": 66,
+        "xg": 0.3,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 386,
-        "duelsWon": 53,
-        "boxTouches": 10,
-        "fouls": 7,
-        "corners": 6,
+        "accuratePasses": 406,
+        "duelsWon": 56,
+        "boxTouches": 12,
+        "fouls": 8,
+        "corners": 7,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 33,
+        "possession": 34,
         "xg": 0.93,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 172,
-        "duelsWon": 41,
+        "accuratePasses": 196,
+        "duelsWon": 44,
         "boxTouches": 12,
-        "fouls": 18,
+        "fouls": 20,
         "corners": 2,
         "offsides": 0,
         "saves": 1
@@ -378,6 +391,12 @@
           "teamId": "7822",
           "playerName": "Lucas Figueiredo",
           "assist": "Diogo Spencer"
+        },
+        {
+          "minute": "77'",
+          "type": "goal",
+          "teamId": "7822",
+          "playerName": "Vivaldo Semedo"
         }
       ]
     }
