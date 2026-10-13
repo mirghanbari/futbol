@@ -794,17 +794,21 @@
     "matchday": 2,
     "stage": "league-phase",
     "utcDate": "2026-10-13T16:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "546",
     "awayTeamId": "498",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stade Bollaert-Delelis, Lens",
     "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
       {
         "name": "Paramount+",
         "kind": "streaming"
@@ -818,11 +822,11 @@
     "matchday": 2,
     "stage": "league-phase",
     "utcDate": "2026-10-13T16:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "10233",
     "awayTeamId": "930",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -974,6 +978,10 @@
     "venue": "Red Bull Arena, Leipzig",
     "broadcasts": [
       {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
         "name": "Paramount+",
         "kind": "streaming"
       }
@@ -1046,6 +1054,10 @@
     "venue": "De Kuip, Rotterdam",
     "broadcasts": [
       {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
         "name": "Paramount+",
         "kind": "streaming"
       }
@@ -1117,6 +1129,10 @@
     },
     "venue": "Aspmyra Stadion, Bodø/Glimt",
     "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
       {
         "name": "Paramount+",
         "kind": "streaming"
