@@ -2,55 +2,61 @@
   "CL": {
     "575341": {
       "home": {
-        "possession": 67,
+        "possession": 51,
         "xg": 0.84,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 97,
-        "duelsWon": 9,
+        "accuratePasses": 110,
+        "duelsWon": 10,
         "boxTouches": 9,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 33,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 43,
-        "duelsWon": 9,
-        "boxTouches": 1,
-        "fouls": 3,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 1
-      }
-    },
-    "575342": {
-      "home": {
-        "possession": 68,
-        "xg": 0.06,
+        "possession": 49,
+        "xg": 0.44,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 95,
-        "duelsWon": 5,
+        "accuratePasses": 101,
+        "duelsWon": 10,
         "boxTouches": 2,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "22'",
+          "type": "goal",
+          "teamId": "498",
+          "playerName": "Luis Suárez"
+        }
+      ]
+    },
+    "575342": {
+      "home": {
+        "possession": 62,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 114,
+        "duelsWon": 9,
+        "boxTouches": 1,
+        "fouls": 4,
+        "corners": 0,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 32,
-        "xg": 0,
+        "possession": 38,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 32,
-        "duelsWon": 8,
+        "accuratePasses": 55,
+        "duelsWon": 10,
         "boxTouches": 5,
-        "fouls": 3,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -61,12 +67,6 @@
           "type": "yellow-card",
           "teamId": "10233",
           "playerName": "Veljko Simić"
-        },
-        {
-          "minute": "17'",
-          "type": "goal",
-          "teamId": "10233",
-          "playerName": "Kaheem Parris"
         }
       ]
     }
