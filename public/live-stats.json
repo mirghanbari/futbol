@@ -2,26 +2,26 @@
   "CL": {
     "575341": {
       "home": {
-        "possession": 57,
-        "xg": 1.5,
-        "shots": 17,
+        "possession": 56,
+        "xg": 1.61,
+        "shots": 18,
         "shotsOnTarget": 5,
-        "accuratePasses": 358,
-        "duelsWon": 33,
-        "boxTouches": 25,
-        "fouls": 4,
+        "accuratePasses": 390,
+        "duelsWon": 37,
+        "boxTouches": 27,
+        "fouls": 5,
         "corners": 5,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 43,
+        "possession": 44,
         "xg": 1.01,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 252,
-        "duelsWon": 29,
-        "boxTouches": 20,
+        "accuratePasses": 290,
+        "duelsWon": 36,
+        "boxTouches": 23,
         "fouls": 10,
         "corners": 3,
         "offsides": 0,
@@ -34,6 +34,12 @@
           "teamId": "498",
           "playerName": "Luis Suárez",
           "assist": "Nestory Irankunda"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "546",
+          "playerName": "Michaël Cuisance"
         }
       ]
     },
@@ -43,26 +49,26 @@
         "xg": 0.32,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 208,
-        "duelsWon": 32,
-        "boxTouches": 9,
+        "accuratePasses": 213,
+        "duelsWon": 36,
+        "boxTouches": 11,
         "fouls": 14,
         "corners": 1,
         "offsides": 2,
-        "saves": 3
+        "saves": 4
       },
       "away": {
         "possession": 56,
-        "xg": 1.46,
-        "shots": 11,
-        "shotsOnTarget": 5,
-        "accuratePasses": 256,
-        "duelsWon": 36,
-        "boxTouches": 24,
+        "xg": 1.63,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 269,
+        "duelsWon": 38,
+        "boxTouches": 28,
         "fouls": 9,
         "corners": 5,
         "offsides": 4,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
