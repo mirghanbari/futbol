@@ -2,30 +2,30 @@
   "CL": {
     "575341": {
       "home": {
-        "possession": 55,
-        "xg": 1.7,
-        "shots": 20,
-        "shotsOnTarget": 5,
-        "accuratePasses": 452,
-        "duelsWon": 43,
+        "possession": 56,
+        "xg": 1.72,
+        "shots": 21,
+        "shotsOnTarget": 6,
+        "accuratePasses": 482,
+        "duelsWon": 45,
         "boxTouches": 30,
         "fouls": 8,
-        "corners": 5,
-        "offsides": 0,
+        "corners": 6,
+        "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 45,
-        "xg": 1.58,
+        "possession": 44,
+        "xg": 1.67,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 361,
-        "duelsWon": 47,
+        "accuratePasses": 367,
+        "duelsWon": 49,
         "boxTouches": 26,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 3,
         "offsides": 0,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -54,34 +54,35 @@
           "teamId": "546",
           "playerName": "Florian Thauvin"
         }
-      ]
+      ],
+      "final": true
     },
     "575342": {
       "home": {
-        "possession": 44,
-        "xg": 0.9,
-        "shots": 9,
-        "shotsOnTarget": 5,
-        "accuratePasses": 236,
-        "duelsWon": 46,
-        "boxTouches": 13,
+        "possession": 45,
+        "xg": 1.45,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 252,
+        "duelsWon": 51,
+        "boxTouches": 17,
         "fouls": 15,
-        "corners": 2,
+        "corners": 3,
         "offsides": 2,
-        "saves": 5
+        "saves": 6
       },
       "away": {
-        "possession": 56,
-        "xg": 1.72,
-        "shots": 17,
-        "shotsOnTarget": 7,
-        "accuratePasses": 305,
-        "duelsWon": 46,
-        "boxTouches": 30,
+        "possession": 55,
+        "xg": 2.04,
+        "shots": 18,
+        "shotsOnTarget": 8,
+        "accuratePasses": 315,
+        "duelsWon": 50,
+        "boxTouches": 32,
         "fouls": 14,
         "corners": 6,
         "offsides": 4,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -128,7 +129,8 @@
           "playerName": "Joy-Lance Mickels",
           "assist": "Orphé Mbina"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
