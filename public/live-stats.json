@@ -2,28 +2,28 @@
   "CL": {
     "575341": {
       "home": {
-        "possession": 56,
-        "xg": 1.23,
-        "shots": 12,
+        "possession": 55,
+        "xg": 1.27,
+        "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 242,
-        "duelsWon": 21,
-        "boxTouches": 19,
+        "accuratePasses": 260,
+        "duelsWon": 24,
+        "boxTouches": 20,
         "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 44,
-        "xg": 0.54,
-        "shots": 5,
+        "possession": 45,
+        "xg": 0.81,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 181,
-        "duelsWon": 20,
-        "boxTouches": 11,
-        "fouls": 4,
-        "corners": 2,
+        "accuratePasses": 201,
+        "duelsWon": 23,
+        "boxTouches": 14,
+        "fouls": 6,
+        "corners": 3,
         "offsides": 0,
         "saves": 3
       },
@@ -39,28 +39,28 @@
     },
     "575342": {
       "home": {
-        "possession": 48,
-        "xg": 0.15,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 167,
-        "duelsWon": 20,
-        "boxTouches": 5,
-        "fouls": 10,
+        "possession": 47,
+        "xg": 0.32,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 179,
+        "duelsWon": 26,
+        "boxTouches": 8,
+        "fouls": 11,
         "corners": 1,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 52,
+        "possession": 53,
         "xg": 0.43,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 177,
-        "duelsWon": 25,
+        "accuratePasses": 192,
+        "duelsWon": 29,
         "boxTouches": 13,
         "fouls": 7,
-        "corners": 3,
+        "corners": 4,
         "offsides": 3,
         "saves": 0
       },
@@ -70,6 +70,13 @@
           "type": "yellow-card",
           "teamId": "10233",
           "playerName": "Veljko Simić"
+        },
+        {
+          "minute": "49'",
+          "type": "goal",
+          "teamId": "10233",
+          "playerName": "Kaheem Parris",
+          "assist": "Ivan Lepinjica"
         }
       ]
     }
