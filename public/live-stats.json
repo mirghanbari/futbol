@@ -2,24 +2,24 @@
   "CL": {
     "575341": {
       "home": {
-        "possession": 51,
+        "possession": 54,
         "xg": 0.84,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 110,
-        "duelsWon": 10,
-        "boxTouches": 9,
+        "accuratePasses": 144,
+        "duelsWon": 11,
+        "boxTouches": 10,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 49,
-        "xg": 0.44,
+        "possession": 46,
+        "xg": 0.25,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 101,
+        "accuratePasses": 117,
         "duelsWon": 10,
         "boxTouches": 2,
         "fouls": 3,
@@ -32,31 +32,32 @@
           "minute": "22'",
           "type": "goal",
           "teamId": "498",
-          "playerName": "Luis Suárez"
+          "playerName": "Luis Suárez",
+          "assist": "Nestory Irankunda"
         }
       ]
     },
     "575342": {
       "home": {
-        "possession": 62,
+        "possession": 56,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 114,
-        "duelsWon": 9,
+        "accuratePasses": 132,
+        "duelsWon": 12,
         "boxTouches": 1,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 0,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 38,
+        "possession": 44,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 55,
-        "duelsWon": 10,
+        "accuratePasses": 89,
+        "duelsWon": 11,
         "boxTouches": 5,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 1,
         "offsides": 0,
         "saves": 0
