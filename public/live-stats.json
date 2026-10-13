@@ -444,27 +444,27 @@
     },
     "561875": {
       "home": {
-        "possession": 75,
-        "xg": 1.78,
-        "shots": 15,
+        "possession": 76,
+        "xg": 2.12,
+        "shots": 19,
         "shotsOnTarget": 7,
-        "accuratePasses": 527,
-        "duelsWon": 42,
-        "boxTouches": 35,
+        "accuratePasses": 578,
+        "duelsWon": 49,
+        "boxTouches": 41,
         "fouls": 9,
-        "corners": 3,
-        "offsides": 2,
+        "corners": 6,
+        "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 25,
+        "possession": 24,
         "xg": 0.49,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 123,
-        "duelsWon": 46,
+        "accuratePasses": 130,
+        "duelsWon": 45,
         "boxTouches": 10,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 3,
         "offsides": 2,
         "saves": 3
@@ -516,7 +516,8 @@
           "playerName": "Demarai Gray",
           "assist": "Max Bird"
         }
-      ]
+      ],
+      "final": true
     },
     "561876": {
       "home": {
@@ -524,10 +525,10 @@
         "xg": 0.65,
         "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 221,
-        "duelsWon": 30,
+        "accuratePasses": 223,
+        "duelsWon": 32,
         "boxTouches": 11,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 4,
         "offsides": 1,
         "saves": 7
@@ -537,10 +538,10 @@
         "xg": 2.57,
         "shots": 20,
         "shotsOnTarget": 9,
-        "accuratePasses": 517,
-        "duelsWon": 45,
+        "accuratePasses": 526,
+        "duelsWon": 51,
         "boxTouches": 36,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 3,
         "offsides": 1,
         "saves": 0
@@ -591,7 +592,8 @@
           "teamId": "343",
           "playerName": "Neto Borges"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "CL": {
@@ -729,28 +731,28 @@
     },
     "575343": {
       "home": {
-        "possession": 54,
-        "xg": 3.79,
-        "shots": 29,
-        "shotsOnTarget": 11,
-        "accuratePasses": 453,
-        "duelsWon": 40,
-        "boxTouches": 34,
+        "possession": 53,
+        "xg": 3.93,
+        "shots": 30,
+        "shotsOnTarget": 12,
+        "accuratePasses": 463,
+        "duelsWon": 42,
+        "boxTouches": 36,
         "fouls": 6,
         "corners": 4,
         "offsides": 2,
-        "saves": 2
+        "saves": 4
       },
       "away": {
-        "possession": 46,
-        "xg": 3.68,
-        "shots": 14,
-        "shotsOnTarget": 6,
-        "accuratePasses": 390,
-        "duelsWon": 33,
-        "boxTouches": 39,
-        "fouls": 12,
-        "corners": 3,
+        "possession": 47,
+        "xg": 4.47,
+        "shots": 18,
+        "shotsOnTarget": 8,
+        "accuratePasses": 411,
+        "duelsWon": 36,
+        "boxTouches": 44,
+        "fouls": 13,
+        "corners": 4,
         "offsides": 2,
         "saves": 9
       },
@@ -832,6 +834,19 @@
           "teamId": "851",
           "playerName": "Romeo Vermant",
           "assist": "Carlos Forbs"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "goal",
+          "teamId": "108",
+          "playerName": "Ange-Yoan Bonny",
+          "assist": "Aleksandar Stanković"
+        },
+        {
+          "minute": "90'+7'",
+          "type": "yellow-card",
+          "teamId": "851",
+          "playerName": "Félix Lemaréchal"
         }
       ]
     },
@@ -841,8 +856,8 @@
         "xg": 0.43,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 191,
-        "duelsWon": 31,
+        "accuratePasses": 202,
+        "duelsWon": 34,
         "boxTouches": 9,
         "fouls": 12,
         "corners": 1,
@@ -851,11 +866,11 @@
       },
       "away": {
         "possession": 71,
-        "xg": 2.76,
+        "xg": 2.83,
         "shots": 22,
         "shotsOnTarget": 11,
-        "accuratePasses": 592,
-        "duelsWon": 42,
+        "accuratePasses": 625,
+        "duelsWon": 45,
         "boxTouches": 35,
         "fouls": 10,
         "corners": 6,
@@ -911,33 +926,34 @@
           "teamId": "610",
           "playerName": "Roland Sallai"
         }
-      ]
+      ],
+      "final": true
     },
     "575345": {
       "home": {
-        "possession": 59,
+        "possession": 58,
         "xg": 1.42,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 558,
-        "duelsWon": 24,
-        "boxTouches": 14,
+        "accuratePasses": 577,
+        "duelsWon": 25,
+        "boxTouches": 17,
         "fouls": 11,
         "corners": 2,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "away": {
-        "possession": 41,
-        "xg": 0.89,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 371,
-        "duelsWon": 43,
-        "boxTouches": 9,
+        "possession": 42,
+        "xg": 0.98,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 398,
+        "duelsWon": 45,
+        "boxTouches": 12,
         "fouls": 13,
-        "corners": 4,
-        "offsides": 1,
+        "corners": 5,
+        "offsides": 2,
         "saves": 3
       },
       "events": [
@@ -979,7 +995,8 @@
           "teamId": "78",
           "playerName": "Robin Le Normand"
         }
-      ]
+      ],
+      "final": true
     },
     "575346": {
       "home": {
@@ -1053,28 +1070,28 @@
     },
     "575348": {
       "home": {
-        "possession": 44,
+        "possession": 43,
         "xg": 2.1,
         "shots": 19,
         "shotsOnTarget": 7,
         "accuratePasses": 287,
-        "duelsWon": 36,
+        "duelsWon": 39,
         "boxTouches": 33,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 6,
         "offsides": 0,
         "saves": 5
       },
       "away": {
-        "possession": 56,
-        "xg": 1.3,
-        "shots": 9,
+        "possession": 57,
+        "xg": 1.4,
+        "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 374,
-        "duelsWon": 58,
-        "boxTouches": 19,
+        "accuratePasses": 387,
+        "duelsWon": 64,
+        "boxTouches": 23,
         "fouls": 12,
-        "corners": 9,
+        "corners": 12,
         "offsides": 6,
         "saves": 6
       },
@@ -1103,7 +1120,8 @@
           "teamId": "674",
           "playerName": "Armando Obispo"
         }
-      ]
+      ],
+      "final": true
     },
     "575349": {
       "home": {
@@ -1112,7 +1130,7 @@
         "shots": 17,
         "shotsOnTarget": 4,
         "accuratePasses": 417,
-        "duelsWon": 42,
+        "duelsWon": 43,
         "boxTouches": 26,
         "fouls": 8,
         "corners": 4,
@@ -1189,7 +1207,8 @@
           "playerName": "Tani Oluwaseyi",
           "assist": "Ayoze Pérez"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
