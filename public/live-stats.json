@@ -1,24 +1,54 @@
 {
   "CL": {
-    "575342": {
+    "575341": {
       "home": {
-        "possession": 29,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 3,
-        "duelsWon": 1,
+        "possession": 77,
+        "xg": 0.14,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 42,
+        "duelsWon": 0,
+        "boxTouches": 2,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 71,
+        "possession": 23,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 13,
-        "duelsWon": 2,
+        "accuratePasses": 8,
+        "duelsWon": 4,
         "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "575342": {
+      "home": {
+        "possession": 66,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 40,
+        "duelsWon": 2,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 34,
+        "xg": 0.08,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 17,
+        "duelsWon": 2,
+        "boxTouches": 2,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
