@@ -2,26 +2,26 @@
   "CL": {
     "575341": {
       "home": {
-        "possession": 54,
-        "xg": 1.61,
-        "shots": 19,
+        "possession": 55,
+        "xg": 1.7,
+        "shots": 20,
         "shotsOnTarget": 5,
-        "accuratePasses": 419,
-        "duelsWon": 39,
-        "boxTouches": 28,
-        "fouls": 7,
+        "accuratePasses": 452,
+        "duelsWon": 43,
+        "boxTouches": 30,
+        "fouls": 8,
         "corners": 5,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 46,
+        "possession": 45,
         "xg": 1.58,
-        "shots": 10,
+        "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 354,
-        "duelsWon": 41,
-        "boxTouches": 25,
+        "accuratePasses": 361,
+        "duelsWon": 47,
+        "boxTouches": 26,
         "fouls": 11,
         "corners": 3,
         "offsides": 0,
@@ -59,29 +59,29 @@
     "575342": {
       "home": {
         "possession": 44,
-        "xg": 0.49,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 235,
-        "duelsWon": 42,
-        "boxTouches": 12,
+        "xg": 0.9,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 236,
+        "duelsWon": 46,
+        "boxTouches": 13,
         "fouls": 15,
-        "corners": 1,
+        "corners": 2,
         "offsides": 2,
-        "saves": 4
+        "saves": 5
       },
       "away": {
         "possession": 56,
-        "xg": 1.69,
-        "shots": 16,
-        "shotsOnTarget": 6,
-        "accuratePasses": 300,
-        "duelsWon": 43,
+        "xg": 1.72,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 305,
+        "duelsWon": 46,
         "boxTouches": 30,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 6,
         "offsides": 4,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -120,6 +120,13 @@
           "type": "yellow-card",
           "teamId": "930",
           "playerName": "Oskar Kubiak"
+        },
+        {
+          "minute": "88'",
+          "type": "goal",
+          "teamId": "10233",
+          "playerName": "Joy-Lance Mickels",
+          "assist": "Orphé Mbina"
         }
       ]
     }
