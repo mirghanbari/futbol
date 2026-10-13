@@ -2,26 +2,27 @@
   "CL": {
     "575341": {
       "home": {
-        "possession": 75,
-        "xg": 0.17,
-        "shots": 5,
+        "possession": 67,
+        "xg": 0.84,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 74,
-        "duelsWon": 5,
-        "boxTouches": 6,
+        "accuratePasses": 97,
+        "duelsWon": 9,
+        "boxTouches": 9,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 25,
+        "possession": 33,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 19,
-        "duelsWon": 8,
-        "fouls": 2,
+        "accuratePasses": 43,
+        "duelsWon": 9,
+        "boxTouches": 1,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -29,28 +30,45 @@
     },
     "575342": {
       "home": {
-        "possession": 69,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 81,
-        "duelsWon": 4,
-        "fouls": 2,
+        "possession": 68,
+        "xg": 0.06,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 95,
+        "duelsWon": 5,
+        "boxTouches": 2,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 31,
+        "possession": 32,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 27,
-        "duelsWon": 6,
-        "boxTouches": 3,
-        "fouls": 2,
-        "corners": 0,
+        "accuratePasses": 32,
+        "duelsWon": 8,
+        "boxTouches": 5,
+        "fouls": 3,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "14'",
+          "type": "yellow-card",
+          "teamId": "10233",
+          "playerName": "Veljko Simić"
+        },
+        {
+          "minute": "17'",
+          "type": "goal",
+          "teamId": "10233",
+          "playerName": "Kaheem Parris"
+        }
+      ]
     }
   }
 }
