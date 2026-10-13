@@ -2,27 +2,27 @@
   "CL": {
     "575341": {
       "home": {
-        "possession": 57,
+        "possession": 54,
         "xg": 1.61,
-        "shots": 18,
+        "shots": 19,
         "shotsOnTarget": 5,
-        "accuratePasses": 400,
-        "duelsWon": 37,
-        "boxTouches": 27,
-        "fouls": 5,
+        "accuratePasses": 419,
+        "duelsWon": 39,
+        "boxTouches": 28,
+        "fouls": 7,
         "corners": 5,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 43,
+        "possession": 46,
         "xg": 1.58,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 293,
-        "duelsWon": 38,
-        "boxTouches": 24,
-        "fouls": 10,
+        "accuratePasses": 354,
+        "duelsWon": 41,
+        "boxTouches": 25,
+        "fouls": 11,
         "corners": 3,
         "offsides": 0,
         "saves": 5
@@ -47,17 +47,23 @@
           "teamId": "498",
           "playerName": "Issa Doumbia",
           "assist": "Silas Andersen"
+        },
+        {
+          "minute": "81'",
+          "type": "yellow-card",
+          "teamId": "546",
+          "playerName": "Florian Thauvin"
         }
       ]
     },
     "575342": {
       "home": {
-        "possession": 45,
+        "possession": 44,
         "xg": 0.49,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 220,
-        "duelsWon": 37,
+        "accuratePasses": 235,
+        "duelsWon": 42,
         "boxTouches": 12,
         "fouls": 15,
         "corners": 1,
@@ -65,14 +71,14 @@
         "saves": 4
       },
       "away": {
-        "possession": 55,
-        "xg": 1.63,
-        "shots": 14,
+        "possession": 56,
+        "xg": 1.69,
+        "shots": 16,
         "shotsOnTarget": 6,
-        "accuratePasses": 271,
-        "duelsWon": 40,
-        "boxTouches": 28,
-        "fouls": 11,
+        "accuratePasses": 300,
+        "duelsWon": 43,
+        "boxTouches": 30,
+        "fouls": 13,
         "corners": 6,
         "offsides": 4,
         "saves": 2
@@ -110,7 +116,7 @@
           "playerName": "Akim Zedadka"
         },
         {
-          "minute": "78'",
+          "minute": "77'",
           "type": "yellow-card",
           "teamId": "930",
           "playerName": "Oskar Kubiak"
