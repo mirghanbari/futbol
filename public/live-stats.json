@@ -3,27 +3,27 @@
     "561877": {
       "home": {
         "possession": 65,
-        "xg": 1.74,
-        "shots": 17,
-        "shotsOnTarget": 3,
-        "accuratePasses": 252,
-        "duelsWon": 29,
-        "boxTouches": 32,
-        "fouls": 4,
+        "xg": 1.78,
+        "shots": 19,
+        "shotsOnTarget": 4,
+        "accuratePasses": 269,
+        "duelsWon": 31,
+        "boxTouches": 34,
+        "fouls": 5,
         "corners": 5,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 2
       },
       "away": {
         "possession": 35,
-        "xg": 1.43,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 105,
-        "duelsWon": 31,
-        "boxTouches": 9,
+        "xg": 1.48,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 113,
+        "duelsWon": 32,
+        "boxTouches": 12,
         "fouls": 5,
-        "corners": 4,
+        "corners": 5,
         "offsides": 1,
         "saves": 2
       },
@@ -58,6 +58,25 @@
           "teamId": "325",
           "playerName": "Adrian Segečić",
           "assist": "Ryan Kavuma-McQueen"
+        },
+        {
+          "minute": "59'",
+          "type": "goal",
+          "teamId": "356",
+          "playerName": "Japhet Tanganga",
+          "assist": "Tahith Chong"
+        },
+        {
+          "minute": "60'",
+          "type": "yellow-card",
+          "teamId": "356",
+          "playerName": "Sam McCallum"
+        },
+        {
+          "minute": "60'",
+          "type": "yellow-card",
+          "teamId": "325",
+          "playerName": "Nicolas Schmid"
         }
       ]
     },
@@ -67,8 +86,8 @@
         "xg": 0.09,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 29,
-        "duelsWon": 22,
+        "accuratePasses": 33,
+        "duelsWon": 23,
         "boxTouches": 7,
         "fouls": 4,
         "corners": 2,
@@ -77,12 +96,12 @@
       },
       "away": {
         "possession": 81,
-        "xg": 1.16,
-        "shots": 13,
-        "shotsOnTarget": 3,
-        "accuratePasses": 236,
+        "xg": 1.27,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 263,
         "duelsWon": 29,
-        "boxTouches": 24,
+        "boxTouches": 27,
         "fouls": 8,
         "corners": 6,
         "offsides": 3,
@@ -107,31 +126,38 @@
           "teamId": "563",
           "playerName": "Konstantinos Mavropanos",
           "assist": "Jarrod Bowen"
+        },
+        {
+          "minute": "48'",
+          "type": "goal",
+          "teamId": "563",
+          "playerName": "Edvin Austbø",
+          "assist": "Joël Piroe"
         }
       ]
     },
     "561879": {
       "home": {
-        "possession": 49,
-        "xg": 0.69,
-        "shots": 5,
+        "possession": 50,
+        "xg": 0.77,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 224,
-        "duelsWon": 24,
-        "boxTouches": 11,
-        "fouls": 7,
-        "corners": 2,
+        "accuratePasses": 246,
+        "duelsWon": 27,
+        "boxTouches": 14,
+        "fouls": 8,
+        "corners": 4,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 51,
-        "xg": 1.61,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 248,
-        "duelsWon": 19,
-        "boxTouches": 14,
+        "possession": 50,
+        "xg": 1.74,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 260,
+        "duelsWon": 21,
+        "boxTouches": 15,
         "fouls": 7,
         "corners": 2,
         "offsides": 2,
@@ -167,13 +193,13 @@
     "561880": {
       "home": {
         "possession": 53,
-        "xg": 1.13,
-        "shots": 6,
-        "shotsOnTarget": 5,
-        "accuratePasses": 232,
-        "duelsWon": 27,
+        "xg": 1.14,
+        "shots": 7,
+        "shotsOnTarget": 6,
+        "accuratePasses": 256,
+        "duelsWon": 28,
         "boxTouches": 19,
-        "fouls": 4,
+        "fouls": 6,
         "corners": 1,
         "offsides": 0,
         "saves": 1
@@ -183,13 +209,13 @@
         "xg": 0.12,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 186,
-        "duelsWon": 27,
-        "boxTouches": 13,
-        "fouls": 6,
+        "accuratePasses": 201,
+        "duelsWon": 30,
+        "boxTouches": 12,
+        "fouls": 7,
         "corners": 1,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -227,6 +253,18 @@
         {
           "minute": "45'",
           "type": "goal",
+          "teamId": "69",
+          "playerName": "Harvey Vale"
+        },
+        {
+          "minute": "56'",
+          "type": "yellow-card",
+          "teamId": "342",
+          "playerName": "Carlton Morris"
+        },
+        {
+          "minute": "57'",
+          "type": "yellow-card",
           "teamId": "69",
           "playerName": "Harvey Vale"
         }
@@ -331,25 +369,25 @@
     },
     "575352": {
       "home": {
-        "possession": 54,
+        "possession": 53,
         "xg": 0.62,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 248,
+        "accuratePasses": 252,
         "duelsWon": 11,
         "boxTouches": 15,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 4,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 46,
+        "possession": 47,
         "xg": 0.24,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 207,
-        "duelsWon": 19,
+        "accuratePasses": 219,
+        "duelsWon": 20,
         "boxTouches": 10,
         "fouls": 2,
         "corners": 3,
@@ -375,30 +413,30 @@
     },
     "575353": {
       "home": {
-        "possession": 46,
-        "xg": 0.79,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 192,
+        "possession": 48,
+        "xg": 0.81,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 208,
         "duelsWon": 24,
-        "boxTouches": 23,
+        "boxTouches": 27,
         "fouls": 4,
-        "corners": 6,
+        "corners": 7,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 54,
+        "possession": 52,
         "xg": 0.87,
         "shots": 10,
         "shotsOnTarget": 7,
-        "accuratePasses": 241,
-        "duelsWon": 16,
+        "accuratePasses": 246,
+        "duelsWon": 17,
         "boxTouches": 12,
         "fouls": 4,
         "corners": 2,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -427,25 +465,25 @@
     },
     "575354": {
       "home": {
-        "possession": 59,
-        "xg": 0.93,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 309,
-        "duelsWon": 32,
-        "boxTouches": 10,
+        "possession": 61,
+        "xg": 1.09,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 351,
+        "duelsWon": 34,
+        "boxTouches": 18,
         "fouls": 4,
-        "corners": 2,
+        "corners": 4,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 41,
+        "possession": 39,
         "xg": 0.01,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 202,
-        "duelsWon": 19,
+        "accuratePasses": 210,
+        "duelsWon": 20,
         "boxTouches": 7,
         "fouls": 6,
         "corners": 2,
@@ -464,29 +502,36 @@
           "type": "yellow-card",
           "teamId": "4",
           "playerName": "Fábio Silva"
+        },
+        {
+          "minute": "52'",
+          "type": "goal",
+          "teamId": "5721",
+          "playerName": "Fredrik Sjøvold",
+          "assist": "Sondre Auklend"
         }
       ]
     },
     "575356": {
       "home": {
-        "possession": 53,
+        "possession": 54,
         "xg": 0.65,
-        "shots": 13,
-        "shotsOnTarget": 4,
-        "accuratePasses": 230,
-        "duelsWon": 16,
-        "boxTouches": 23,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 245,
+        "duelsWon": 18,
+        "boxTouches": 24,
         "fouls": 7,
         "corners": 4,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 47,
+        "possession": 46,
         "xg": 0.28,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 195,
+        "accuratePasses": 197,
         "duelsWon": 21,
         "boxTouches": 8,
         "fouls": 7,
@@ -496,10 +541,17 @@
       },
       "events": [
         {
-          "minute": "41'",
-          "type": "goal",
+          "minute": "43'",
+          "type": "yellow-card",
           "teamId": "503",
-          "playerName": "<TBD>"
+          "playerName": "Francesco Farioli"
+        },
+        {
+          "minute": "47'",
+          "type": "goal",
+          "teamId": "90",
+          "playerName": "Abdessamad Ezzalzouli",
+          "assist": "Fran García"
         }
       ]
     }
