@@ -106,7 +106,7 @@
         "xg": 0.35,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 61,
+        "accuratePasses": 62,
         "duelsWon": 35,
         "boxTouches": 10,
         "fouls": 7,
@@ -117,9 +117,9 @@
       "away": {
         "possession": 83,
         "xg": 3.21,
-        "shots": 33,
+        "shots": 32,
         "shotsOnTarget": 12,
-        "accuratePasses": 555,
+        "accuratePasses": 558,
         "duelsWon": 43,
         "boxTouches": 63,
         "fouls": 14,
@@ -193,7 +193,8 @@
           "teamId": "563",
           "playerName": "Pablo"
         }
-      ]
+      ],
+      "final": true
     },
     "561879": {
       "home": {
@@ -456,26 +457,26 @@
     "575352": {
       "home": {
         "possession": 54,
-        "xg": 1.42,
+        "xg": 1.43,
         "shots": 14,
         "shotsOnTarget": 7,
-        "accuratePasses": 466,
-        "duelsWon": 32,
+        "accuratePasses": 471,
+        "duelsWon": 34,
         "boxTouches": 24,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 5,
         "offsides": 1,
         "saves": 4
       },
       "away": {
         "possession": 46,
-        "xg": 1.8,
-        "shots": 15,
+        "xg": 1.83,
+        "shots": 16,
         "shotsOnTarget": 8,
-        "accuratePasses": 377,
-        "duelsWon": 45,
-        "boxTouches": 34,
-        "fouls": 7,
+        "accuratePasses": 384,
+        "duelsWon": 48,
+        "boxTouches": 35,
+        "fouls": 8,
         "corners": 9,
         "offsides": 1,
         "saves": 4
@@ -548,32 +549,39 @@
           "teamId": "86",
           "playerName": "Antonio Rüdiger",
           "assist": "Arda Güler"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "86",
+          "playerName": "Alvaro Carreras"
         }
-      ]
+      ],
+      "final": true
     },
     "575353": {
       "home": {
-        "possession": 53,
-        "xg": 2.48,
+        "possession": 54,
+        "xg": 2.57,
         "shots": 27,
         "shotsOnTarget": 9,
-        "accuratePasses": 410,
-        "duelsWon": 54,
+        "accuratePasses": 423,
+        "duelsWon": 59,
         "boxTouches": 52,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 11,
         "offsides": 2,
         "saves": 6
       },
       "away": {
-        "possession": 47,
-        "xg": 1.86,
+        "possession": 46,
+        "xg": 1.83,
         "shots": 15,
         "shotsOnTarget": 10,
-        "accuratePasses": 368,
-        "duelsWon": 38,
+        "accuratePasses": 373,
+        "duelsWon": 44,
         "boxTouches": 17,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 2,
         "offsides": 0,
         "saves": 6
@@ -635,7 +643,8 @@
           "playerName": "Erling Haaland",
           "assist": "Ayyoub Bouaddi"
         }
-      ]
+      ],
+      "final": true
     },
     "575354": {
       "home": {
@@ -689,28 +698,28 @@
     },
     "575356": {
       "home": {
-        "possession": 57,
+        "possession": 56,
         "xg": 1.59,
         "shots": 17,
         "shotsOnTarget": 7,
-        "accuratePasses": 434,
-        "duelsWon": 45,
+        "accuratePasses": 437,
+        "duelsWon": 52,
         "boxTouches": 30,
-        "fouls": 12,
+        "fouls": 14,
         "corners": 5,
         "offsides": 0,
-        "saves": 0
+        "saves": 3
       },
       "away": {
-        "possession": 43,
-        "xg": 0.64,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 302,
-        "duelsWon": 39,
-        "boxTouches": 19,
-        "fouls": 13,
-        "corners": 0,
+        "possession": 44,
+        "xg": 0.91,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 321,
+        "duelsWon": 45,
+        "boxTouches": 23,
+        "fouls": 15,
+        "corners": 1,
         "offsides": 0,
         "saves": 4
       },
@@ -738,8 +747,8 @@
         {
           "minute": "57'",
           "type": "yellow-card",
-          "teamId": "90",
-          "playerName": "Abdessamad Ezzalzouli"
+          "teamId": "503",
+          "playerName": "André Silva"
         },
         {
           "minute": "57'",
@@ -750,8 +759,8 @@
         {
           "minute": "57'",
           "type": "yellow-card",
-          "teamId": "503",
-          "playerName": "André Silva"
+          "teamId": "90",
+          "playerName": "Abdessamad Ezzalzouli"
         },
         {
           "minute": "61'",
@@ -791,8 +800,15 @@
           "type": "yellow-card",
           "teamId": "503",
           "playerName": "Santiago Giménez"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "90",
+          "playerName": "Ángel Ortiz"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
