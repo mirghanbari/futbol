@@ -2790,7 +2790,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T10:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "7397",
     "awayTeamId": "100",
     "homeTeam": {
@@ -2846,14 +2846,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T13:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "5890",
     "awayTeamId": "103",
     "homeTeam": {
-      "goals": 1
+      "goals": 0
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 0
     },
     "stats": {
       "home": {
@@ -2902,14 +2902,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T13:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "110",
     "awayTeamId": "5911",
     "homeTeam": {
-      "goals": 3
+      "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 0
     },
     "stats": {
       "home": {
@@ -2954,14 +2954,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T16:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "471",
     "awayTeamId": "98",
     "homeTeam": {
-      "goals": 1
+      "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 0
     },
     "stats": {
       "home": {
@@ -3006,14 +3006,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-11T18:45:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "104",
     "awayTeamId": "109",
     "homeTeam": {
-      "goals": 1
+      "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 0
     },
     "stats": {
       "home": {
@@ -3058,14 +3058,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-12T16:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "102",
     "awayTeamId": "454",
     "homeTeam": {
-      "goals": 3
+      "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 0
     },
     "stats": {
       "home": {
@@ -3110,14 +3110,14 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-12T18:45:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "586",
     "awayTeamId": "115",
     "homeTeam": {
-      "goals": 2
+      "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 0
     },
     "stats": {
       "home": {
@@ -3173,6 +3173,10 @@
     },
     "venue": "Stadio Benito Stirpe, Frosinone",
     "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
       {
         "name": "Paramount+",
         "kind": "streaming"

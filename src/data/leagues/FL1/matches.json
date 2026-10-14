@@ -2559,7 +2559,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade Marie-Marvingt, Le Mans"
+    "venue": "Stade Marie-Marvingt, Le Mans",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      },
+      {
+        "name": "FuboTV",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "559662",
@@ -2577,7 +2587,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade de la Meinau, Strasbourg"
+    "venue": "Stade de la Meinau, Strasbourg",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      },
+      {
+        "name": "FuboTV",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "559659",
@@ -2595,7 +2615,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade de l'Aube, Paris"
+    "venue": "Stade de l'Aube, Paris",
+    "broadcasts": [
+      {
+        "name": "FuboTV",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "559660",
@@ -2613,7 +2639,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
+    "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      },
+      {
+        "name": "FuboTV",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "559664",
@@ -2631,7 +2667,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade Raymond Kopa, Angers"
+    "venue": "Stade Raymond Kopa, Angers",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      },
+      {
+        "name": "FuboTV",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "559657",
@@ -2649,7 +2695,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade du Moustoir - Yves Allainmat, Lorient"
+    "venue": "Stade du Moustoir - Yves Allainmat, Lorient",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      },
+      {
+        "name": "FuboTV",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "559658",
@@ -2667,7 +2723,21 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade Jean Bouin, Paris"
+    "venue": "Stade Jean Bouin, Paris",
+    "broadcasts": [
+      {
+        "name": "Prime Video",
+        "kind": "streaming"
+      },
+      {
+        "name": "TUBI",
+        "kind": "tv"
+      },
+      {
+        "name": "FuboTV",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "559663",
@@ -2685,7 +2755,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade Océane, Le Havre"
+    "venue": "Stade Océane, Le Havre",
+    "broadcasts": [
+      {
+        "name": "FuboTV",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "559665",
@@ -2703,7 +2779,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Groupama Stadium, Lyon"
+    "venue": "Groupama Stadium, Lyon",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      },
+      {
+        "name": "FuboTV",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "559654",

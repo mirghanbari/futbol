@@ -3395,7 +3395,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Vitality Stadium, Bournemouth"
+    "venue": "Vitality Stadium, Bournemouth",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560605",
@@ -3413,7 +3419,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Elland Road, Leeds"
+    "venue": "Elland Road, Leeds",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560609",
@@ -3431,7 +3447,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "American Express Stadium, Falmer"
+    "venue": "American Express Stadium, Falmer",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560608",
@@ -3449,7 +3471,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "The City Ground, Nottingham"
+    "venue": "The City Ground, Nottingham",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560606",
@@ -3467,7 +3495,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Tottenham Hotspur Stadium, London"
+    "venue": "Tottenham Hotspur Stadium, London",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560620",
