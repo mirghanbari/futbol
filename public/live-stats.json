@@ -3,14 +3,14 @@
     "575351": {
       "home": {
         "possession": 48,
-        "xg": 0.41,
-        "shots": 9,
-        "shotsOnTarget": 3,
-        "accuratePasses": 413,
-        "duelsWon": 37,
-        "boxTouches": 17,
-        "fouls": 17,
-        "corners": 2,
+        "xg": 0.51,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 431,
+        "duelsWon": 40,
+        "boxTouches": 20,
+        "fouls": 18,
+        "corners": 3,
         "offsides": 1,
         "saves": 2
       },
@@ -19,13 +19,13 @@
         "xg": 1.03,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 462,
-        "duelsWon": 44,
+        "accuratePasses": 476,
+        "duelsWon": 45,
         "boxTouches": 6,
-        "fouls": 14,
+        "fouls": 16,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 3
       },
       "events": [
         {
@@ -72,6 +72,19 @@
           "type": "yellow-card",
           "teamId": "7397",
           "playerName": "Lucas Da Cunha"
+        },
+        {
+          "minute": "82'",
+          "type": "goal",
+          "teamId": "675",
+          "playerName": "Robert Sánchez",
+          "ownGoal": true
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
+          "teamId": "675",
+          "playerName": "Givairo Read"
         }
       ]
     }
