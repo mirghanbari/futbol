@@ -5764,14 +5764,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-14T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "325",
     "awayTeamId": "356",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 2.22,
+        "shots": 24,
+        "shotsOnTarget": 7,
+        "accuratePasses": 406,
+        "duelsWon": 45,
+        "boxTouches": 46,
+        "fouls": 6,
+        "corners": 10,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 33,
+        "xg": 2.01,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 157,
+        "duelsWon": 46,
+        "boxTouches": 17,
+        "fouls": 7,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Fratton Park, Portsmouth",
     "broadcasts": [
@@ -5788,14 +5816,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-14T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "68",
     "awayTeamId": "340",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 1.07,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 361,
+        "duelsWon": 45,
+        "boxTouches": 21,
+        "fouls": 15,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 51,
+        "xg": 2.34,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 391,
+        "duelsWon": 45,
+        "boxTouches": 19,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Carrow Road, Norwich",
     "broadcasts": [
@@ -5812,14 +5868,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-14T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "69",
     "awayTeamId": "342",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 1.52,
+        "shots": 9,
+        "shotsOnTarget": 7,
+        "accuratePasses": 362,
+        "duelsWon": 41,
+        "boxTouches": 21,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 52,
+        "xg": 0.86,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 365,
+        "duelsWon": 51,
+        "boxTouches": 30,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "MATRADE Loftus Road, London"
   },
@@ -5830,14 +5914,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-14T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1126",
     "awayTeamId": "563",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 6
+    },
+    "stats": {
+      "home": {
+        "possession": 17,
+        "xg": 0.35,
+        "shots": 5,
+        "shotsOnTarget": 0,
+        "accuratePasses": 62,
+        "duelsWon": 35,
+        "boxTouches": 10,
+        "fouls": 7,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 83,
+        "xg": 3.21,
+        "shots": 32,
+        "shotsOnTarget": 12,
+        "accuratePasses": 556,
+        "duelsWon": 43,
+        "boxTouches": 63,
+        "fouls": 14,
+        "corners": 11,
+        "offsides": 5,
+        "saves": 0
+      }
     },
     "venue": "LNER Stadium, Lincoln",
     "broadcasts": [
