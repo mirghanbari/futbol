@@ -2,65 +2,98 @@
   "ELC": {
     "561877": {
       "home": {
-        "possession": 53,
+        "possession": 56,
         "xg": 0.23,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 18,
-        "duelsWon": 13,
+        "accuratePasses": 41,
+        "duelsWon": 15,
         "boxTouches": 13,
         "fouls": 1,
         "corners": 3,
         "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.51,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 29,
+        "duelsWon": 10,
+        "boxTouches": 4,
+        "fouls": 2,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 0
+      }
+    },
+    "561878": {
+      "home": {
+        "possession": 7,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 0,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 47,
-        "xg": 0,
+        "possession": 93,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 15,
-        "duelsWon": 8,
-        "fouls": 2,
-        "corners": 1,
+        "accuratePasses": 9,
+        "duelsWon": 1,
+        "fouls": 1,
+        "corners": 0,
         "offsides": 0,
         "saves": 0
       }
     },
     "561879": {
       "home": {
-        "possession": 51,
-        "xg": 0.1,
+        "possession": 50,
+        "xg": 0.13,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 66,
+        "accuratePasses": 69,
         "duelsWon": 6,
         "boxTouches": 1,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 49,
-        "xg": 0.07,
-        "shots": 1,
+        "possession": 50,
+        "xg": 0.13,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 58,
-        "duelsWon": 3,
+        "accuratePasses": 67,
+        "duelsWon": 4,
         "boxTouches": 2,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "15'",
+          "type": "yellow-card",
+          "teamId": "340",
+          "playerName": "Ryan Manning"
+        }
+      ]
     },
     "561880": {
       "home": {
         "possession": 76,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 44,
+        "accuratePasses": 51,
         "duelsWon": 3,
         "boxTouches": 2,
         "fouls": 1,
@@ -73,7 +106,7 @@
         "shots": 0,
         "shotsOnTarget": 0,
         "accuratePasses": 10,
-        "duelsWon": 5,
+        "duelsWon": 6,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
@@ -176,6 +209,83 @@
         }
       ],
       "final": true
+    },
+    "575352": {
+      "home": {
+        "possession": 87,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 10,
+        "duelsWon": 0,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 13,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 0,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "575354": {
+      "home": {
+        "possession": 54,
+        "xg": 0.05,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 9,
+        "duelsWon": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 46,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 7,
+        "duelsWon": 3,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "575356": {
+      "home": {
+        "possession": 60,
+        "xg": 0.04,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 10,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 40,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 7,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      }
     }
   }
 }
