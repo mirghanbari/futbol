@@ -6,23 +6,23 @@
         "xg": 0.54,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 444,
-        "duelsWon": 43,
+        "accuratePasses": 451,
+        "duelsWon": 47,
         "boxTouches": 20,
-        "fouls": 18,
+        "fouls": 19,
         "corners": 4,
         "offsides": 2,
         "saves": 3
       },
       "away": {
         "possession": 52,
-        "xg": 1.05,
-        "shots": 9,
-        "shotsOnTarget": 3,
-        "accuratePasses": 502,
-        "duelsWon": 48,
-        "boxTouches": 7,
-        "fouls": 17,
+        "xg": 1.24,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 512,
+        "duelsWon": 50,
+        "boxTouches": 9,
+        "fouls": 18,
         "corners": 1,
         "offsides": 0,
         "saves": 3
@@ -85,8 +85,15 @@
           "type": "yellow-card",
           "teamId": "675",
           "playerName": "Givairo Read"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "goal",
+          "teamId": "7397",
+          "playerName": "Anastasios Douvikas"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
