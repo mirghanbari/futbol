@@ -106,25 +106,25 @@
         "xg": 0.35,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 59,
-        "duelsWon": 33,
+        "accuratePasses": 61,
+        "duelsWon": 35,
         "boxTouches": 10,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 3,
         "offsides": 0,
         "saves": 5
       },
       "away": {
         "possession": 83,
-        "xg": 2.52,
-        "shots": 32,
-        "shotsOnTarget": 11,
-        "accuratePasses": 535,
-        "duelsWon": 41,
-        "boxTouches": 57,
-        "fouls": 13,
-        "corners": 10,
-        "offsides": 4,
+        "xg": 3.21,
+        "shots": 33,
+        "shotsOnTarget": 12,
+        "accuratePasses": 555,
+        "duelsWon": 43,
+        "boxTouches": 63,
+        "fouls": 14,
+        "corners": 11,
+        "offsides": 5,
         "saves": 0
       },
       "events": [
@@ -180,6 +180,18 @@
           "teamId": "563",
           "playerName": "Tomás Souček",
           "assist": "Jarrod Bowen"
+        },
+        {
+          "minute": "89'",
+          "type": "goal",
+          "teamId": "563",
+          "playerName": "Tomás Souček"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "563",
+          "playerName": "Pablo"
         }
       ]
     },
@@ -246,26 +258,26 @@
     },
     "561880": {
       "home": {
-        "possession": 50,
+        "possession": 48,
         "xg": 1.52,
         "shots": 9,
         "shotsOnTarget": 7,
-        "accuratePasses": 356,
-        "duelsWon": 39,
+        "accuratePasses": 363,
+        "duelsWon": 41,
         "boxTouches": 21,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 1,
         "offsides": 0,
         "saves": 5
       },
       "away": {
-        "possession": 50,
-        "xg": 0.73,
-        "shots": 14,
-        "shotsOnTarget": 5,
-        "accuratePasses": 332,
-        "duelsWon": 48,
-        "boxTouches": 28,
+        "possession": 52,
+        "xg": 0.85,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 364,
+        "duelsWon": 51,
+        "boxTouches": 31,
         "fouls": 10,
         "corners": 3,
         "offsides": 2,
@@ -334,8 +346,15 @@
           "teamId": "69",
           "playerName": "Paul Smyth",
           "assist": "Nicolas Madsen"
+        },
+        {
+          "minute": "90'+10'",
+          "type": "goal",
+          "teamId": "342",
+          "playerName": "Lars-Jørgen Salvesen"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "CL": {
@@ -436,28 +455,28 @@
     },
     "575352": {
       "home": {
-        "possession": 53,
+        "possession": 54,
         "xg": 1.42,
-        "shots": 13,
+        "shots": 14,
         "shotsOnTarget": 7,
-        "accuratePasses": 426,
-        "duelsWon": 29,
+        "accuratePasses": 466,
+        "duelsWon": 32,
         "boxTouches": 24,
-        "fouls": 12,
+        "fouls": 14,
         "corners": 5,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "away": {
-        "possession": 47,
-        "xg": 1.5,
-        "shots": 13,
-        "shotsOnTarget": 6,
-        "accuratePasses": 372,
-        "duelsWon": 40,
-        "boxTouches": 33,
+        "possession": 46,
+        "xg": 1.8,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 377,
+        "duelsWon": 45,
+        "boxTouches": 34,
         "fouls": 7,
-        "corners": 8,
+        "corners": 9,
         "offsides": 1,
         "saves": 4
       },
@@ -503,10 +522,11 @@
           "playerName": "Wesley"
         },
         {
-          "minute": "84'",
+          "minute": "83'",
           "type": "goal",
           "teamId": "86",
-          "playerName": "Carlos Espí"
+          "playerName": "Carlos Espí",
+          "assist": "Endrick"
         },
         {
           "minute": "85'",
@@ -515,32 +535,45 @@
           "playerName": "Endrick",
           "method": "header",
           "assist": "Arda Güler"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "100",
+          "playerName": "Lorenzo Pellegrini"
+        },
+        {
+          "minute": "90'",
+          "type": "goal",
+          "teamId": "86",
+          "playerName": "Antonio Rüdiger",
+          "assist": "Arda Güler"
         }
       ]
     },
     "575353": {
       "home": {
-        "possession": 52,
-        "xg": 2.31,
-        "shots": 26,
+        "possession": 53,
+        "xg": 2.48,
+        "shots": 27,
         "shotsOnTarget": 9,
-        "accuratePasses": 385,
-        "duelsWon": 52,
-        "boxTouches": 51,
-        "fouls": 8,
-        "corners": 10,
+        "accuratePasses": 410,
+        "duelsWon": 54,
+        "boxTouches": 52,
+        "fouls": 9,
+        "corners": 11,
         "offsides": 2,
-        "saves": 5
+        "saves": 6
       },
       "away": {
-        "possession": 48,
-        "xg": 1.07,
-        "shots": 14,
-        "shotsOnTarget": 9,
-        "accuratePasses": 359,
-        "duelsWon": 33,
-        "boxTouches": 15,
-        "fouls": 9,
+        "possession": 47,
+        "xg": 1.86,
+        "shots": 15,
+        "shotsOnTarget": 10,
+        "accuratePasses": 368,
+        "duelsWon": 38,
+        "boxTouches": 17,
+        "fouls": 10,
         "corners": 2,
         "offsides": 0,
         "saves": 6
@@ -610,24 +643,24 @@
         "xg": 1.13,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 466,
-        "duelsWon": 54,
+        "accuratePasses": 467,
+        "duelsWon": 56,
         "boxTouches": 21,
         "fouls": 7,
         "corners": 4,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "away": {
         "possession": 52,
-        "xg": 0.72,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 494,
-        "duelsWon": 40,
+        "xg": 0.78,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 504,
+        "duelsWon": 41,
         "boxTouches": 25,
         "fouls": 8,
-        "corners": 6,
+        "corners": 9,
         "offsides": 3,
         "saves": 2
       },
@@ -651,16 +684,17 @@
           "playerName": "Fredrik Sjøvold",
           "assist": "Sondre Auklend"
         }
-      ]
+      ],
+      "final": true
     },
     "575356": {
       "home": {
-        "possession": 56,
+        "possession": 57,
         "xg": 1.59,
         "shots": 17,
         "shotsOnTarget": 7,
-        "accuratePasses": 404,
-        "duelsWon": 42,
+        "accuratePasses": 434,
+        "duelsWon": 45,
         "boxTouches": 30,
         "fouls": 12,
         "corners": 5,
@@ -668,14 +702,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 44,
-        "xg": 0.59,
-        "shots": 6,
+        "possession": 43,
+        "xg": 0.64,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 293,
-        "duelsWon": 36,
-        "boxTouches": 17,
-        "fouls": 12,
+        "accuratePasses": 302,
+        "duelsWon": 39,
+        "boxTouches": 19,
+        "fouls": 13,
         "corners": 0,
         "offsides": 0,
         "saves": 4
@@ -751,6 +785,12 @@
           "teamId": "90",
           "playerName": "Isco",
           "penalty": true
+        },
+        {
+          "minute": "86'",
+          "type": "yellow-card",
+          "teamId": "503",
+          "playerName": "Santiago Giménez"
         }
       ]
     }
