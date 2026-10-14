@@ -2,27 +2,27 @@
   "ELC": {
     "561877": {
       "home": {
-        "possession": 68,
-        "xg": 2.02,
-        "shots": 22,
-        "shotsOnTarget": 6,
-        "accuratePasses": 361,
-        "duelsWon": 41,
-        "boxTouches": 41,
+        "possession": 69,
+        "xg": 2.22,
+        "shots": 24,
+        "shotsOnTarget": 7,
+        "accuratePasses": 395,
+        "duelsWon": 44,
+        "boxTouches": 46,
         "fouls": 6,
-        "corners": 8,
+        "corners": 10,
         "offsides": 3,
         "saves": 2
       },
       "away": {
-        "possession": 32,
+        "possession": 31,
         "xg": 2,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 128,
+        "accuratePasses": 135,
         "duelsWon": 42,
         "boxTouches": 15,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 6,
         "offsides": 1,
         "saves": 4
@@ -90,34 +90,40 @@
           "type": "yellow-card",
           "teamId": "325",
           "playerName": "Ebou Adams"
+        },
+        {
+          "minute": "89'",
+          "type": "goal",
+          "teamId": "325",
+          "playerName": "Ebou Adams"
         }
       ]
     },
     "561878": {
       "home": {
-        "possession": 16,
+        "possession": 17,
         "xg": 0.35,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 43,
-        "duelsWon": 30,
+        "accuratePasses": 51,
+        "duelsWon": 31,
         "boxTouches": 10,
-        "fouls": 5,
-        "corners": 2,
+        "fouls": 6,
+        "corners": 3,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "away": {
-        "possession": 84,
-        "xg": 1.63,
-        "shots": 23,
-        "shotsOnTarget": 6,
-        "accuratePasses": 418,
-        "duelsWon": 34,
-        "boxTouches": 43,
+        "possession": 83,
+        "xg": 2.08,
+        "shots": 25,
+        "shotsOnTarget": 8,
+        "accuratePasses": 450,
+        "duelsWon": 39,
+        "boxTouches": 44,
         "fouls": 12,
-        "corners": 9,
-        "offsides": 3,
+        "corners": 10,
+        "offsides": 4,
         "saves": 0
       },
       "events": [
@@ -159,32 +165,39 @@
           "type": "yellow-card",
           "teamId": "563",
           "playerName": "Konstantinos Mavropanos"
+        },
+        {
+          "minute": "75'",
+          "type": "goal",
+          "teamId": "563",
+          "playerName": "Pablo",
+          "assist": "Edvin Austbø"
         }
       ]
     },
     "561879": {
       "home": {
-        "possession": 48,
-        "xg": 0.87,
-        "shots": 10,
+        "possession": 49,
+        "xg": 0.99,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 332,
-        "duelsWon": 38,
-        "boxTouches": 16,
-        "fouls": 14,
+        "accuratePasses": 354,
+        "duelsWon": 42,
+        "boxTouches": 20,
+        "fouls": 15,
         "corners": 4,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 52,
-        "xg": 1.82,
-        "shots": 13,
+        "possession": 51,
+        "xg": 2.37,
+        "shots": 14,
         "shotsOnTarget": 4,
-        "accuratePasses": 378,
-        "duelsWon": 39,
-        "boxTouches": 17,
-        "fouls": 8,
+        "accuratePasses": 383,
+        "duelsWon": 42,
+        "boxTouches": 18,
+        "fouls": 9,
         "corners": 3,
         "offsides": 2,
         "saves": 3
@@ -241,7 +254,7 @@
         "xg": 0.63,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 263,
+        "accuratePasses": 266,
         "duelsWon": 40,
         "boxTouches": 21,
         "fouls": 8,
@@ -415,12 +428,12 @@
     "575352": {
       "home": {
         "possession": 54,
-        "xg": 1.28,
-        "shots": 10,
-        "shotsOnTarget": 6,
-        "accuratePasses": 371,
-        "duelsWon": 21,
-        "boxTouches": 21,
+        "xg": 1.39,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 413,
+        "duelsWon": 24,
+        "boxTouches": 23,
         "fouls": 11,
         "corners": 5,
         "offsides": 1,
@@ -431,13 +444,13 @@
         "xg": 0.41,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 311,
-        "duelsWon": 34,
-        "boxTouches": 23,
-        "fouls": 5,
+        "accuratePasses": 341,
+        "duelsWon": 35,
+        "boxTouches": 25,
+        "fouls": 6,
         "corners": 4,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -484,30 +497,30 @@
     },
     "575353": {
       "home": {
-        "possession": 49,
-        "xg": 1.58,
-        "shots": 17,
-        "shotsOnTarget": 4,
-        "accuratePasses": 299,
-        "duelsWon": 41,
-        "boxTouches": 41,
+        "possession": 50,
+        "xg": 1.8,
+        "shots": 22,
+        "shotsOnTarget": 7,
+        "accuratePasses": 323,
+        "duelsWon": 47,
+        "boxTouches": 46,
         "fouls": 7,
-        "corners": 9,
-        "offsides": 1,
+        "corners": 10,
+        "offsides": 2,
         "saves": 5
       },
       "away": {
-        "possession": 51,
+        "possession": 50,
         "xg": 0.95,
         "shots": 12,
         "shotsOnTarget": 9,
-        "accuratePasses": 326,
+        "accuratePasses": 334,
         "duelsWon": 28,
         "boxTouches": 14,
         "fouls": 8,
         "corners": 2,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -558,17 +571,24 @@
           "type": "yellow-card",
           "teamId": "524",
           "playerName": "Warren Zaïre-Emery"
+        },
+        {
+          "minute": "75'",
+          "type": "goal",
+          "teamId": "65",
+          "playerName": "Erling Haaland",
+          "assist": "Ayyoub Bouaddi"
         }
       ]
     },
     "575354": {
       "home": {
-        "possession": 51,
+        "possession": 52,
         "xg": 1.13,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 407,
-        "duelsWon": 45,
+        "accuratePasses": 448,
+        "duelsWon": 47,
         "boxTouches": 21,
         "fouls": 6,
         "corners": 4,
@@ -576,12 +596,12 @@
         "saves": 2
       },
       "away": {
-        "possession": 49,
-        "xg": 0.35,
-        "shots": 7,
+        "possession": 48,
+        "xg": 0.51,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 392,
-        "duelsWon": 29,
+        "accuratePasses": 411,
+        "duelsWon": 32,
         "boxTouches": 18,
         "fouls": 7,
         "corners": 5,
@@ -612,27 +632,27 @@
     },
     "575356": {
       "home": {
-        "possession": 56,
-        "xg": 0.75,
-        "shots": 15,
-        "shotsOnTarget": 5,
-        "accuratePasses": 334,
-        "duelsWon": 29,
-        "boxTouches": 26,
+        "possession": 55,
+        "xg": 0.8,
+        "shots": 16,
+        "shotsOnTarget": 6,
+        "accuratePasses": 352,
+        "duelsWon": 35,
+        "boxTouches": 28,
         "fouls": 10,
         "corners": 5,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 44,
-        "xg": 0.51,
-        "shots": 5,
+        "possession": 45,
+        "xg": 0.59,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 249,
-        "duelsWon": 30,
-        "boxTouches": 12,
-        "fouls": 9,
+        "accuratePasses": 273,
+        "duelsWon": 34,
+        "boxTouches": 15,
+        "fouls": 10,
         "corners": 0,
         "offsides": 0,
         "saves": 4
@@ -682,6 +702,19 @@
           "teamId": "503",
           "playerName": "Samuel Aghehowa",
           "assist": "Pepê"
+        },
+        {
+          "minute": "73'",
+          "type": "yellow-card",
+          "teamId": "503",
+          "playerName": "Victor Froholdt"
+        },
+        {
+          "minute": "74'",
+          "type": "goal",
+          "teamId": "90",
+          "playerName": "Juan Hernández",
+          "assist": "Antony"
         }
       ]
     }
