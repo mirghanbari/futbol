@@ -2,26 +2,26 @@
   "ELC": {
     "561883": {
       "home": {
-        "possession": 53,
-        "xg": 0.82,
-        "shots": 10,
+        "possession": 49,
+        "xg": 0.84,
+        "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 176,
-        "duelsWon": 12,
-        "boxTouches": 14,
-        "fouls": 4,
+        "accuratePasses": 190,
+        "duelsWon": 14,
+        "boxTouches": 16,
+        "fouls": 8,
         "corners": 2,
         "offsides": 3,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 47,
-        "xg": 0.19,
-        "shots": 7,
-        "shotsOnTarget": 0,
-        "accuratePasses": 155,
-        "duelsWon": 13,
-        "boxTouches": 2,
+        "possession": 51,
+        "xg": 0.48,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 198,
+        "duelsWon": 19,
+        "boxTouches": 5,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
@@ -34,6 +34,13 @@
           "teamId": "328",
           "playerName": "Jamie Vardy",
           "assist": "Jacob Bruun Larsen"
+        },
+        {
+          "minute": "39'",
+          "type": "goal",
+          "teamId": "76",
+          "playerName": "Fer López",
+          "assist": "Sean Neave"
         }
       ]
     }
@@ -41,27 +48,27 @@
   "BL1": {
     "565828": {
       "home": {
-        "possession": 61,
-        "xg": 0.42,
-        "shots": 5,
+        "possession": 62,
+        "xg": 0.9,
+        "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 220,
-        "duelsWon": 42,
-        "boxTouches": 14,
+        "accuratePasses": 252,
+        "duelsWon": 44,
+        "boxTouches": 16,
         "fouls": 6,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 39,
+        "possession": 38,
         "xg": 0.46,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 124,
-        "duelsWon": 27,
+        "accuratePasses": 131,
+        "duelsWon": 31,
         "boxTouches": 13,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 2,
         "offsides": 0,
         "saves": 3
@@ -108,7 +115,7 @@
         "xg": 1.37,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 200,
+        "accuratePasses": 202,
         "duelsWon": 18,
         "boxTouches": 13,
         "fouls": 3,
@@ -187,11 +194,11 @@
       "home": {
         "possession": 52,
         "xg": 1.82,
-        "shots": 11,
-        "shotsOnTarget": 4,
-        "accuratePasses": 399,
-        "duelsWon": 29,
-        "boxTouches": 24,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 416,
+        "duelsWon": 30,
+        "boxTouches": 26,
         "fouls": 9,
         "corners": 4,
         "offsides": 3,
@@ -200,12 +207,12 @@
       "away": {
         "possession": 48,
         "xg": 0.42,
-        "shots": 4,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 352,
-        "duelsWon": 33,
-        "boxTouches": 14,
-        "fouls": 6,
+        "accuratePasses": 379,
+        "duelsWon": 34,
+        "boxTouches": 16,
+        "fouls": 7,
         "corners": 1,
         "offsides": 0,
         "saves": 2
@@ -230,6 +237,12 @@
           "teamId": "673",
           "playerName": "Oliver Braude",
           "assist": "Jacob Trenskow"
+        },
+        {
+          "minute": "84'",
+          "type": "goal",
+          "teamId": "673",
+          "playerName": "Luca Oyen"
         }
       ]
     }
