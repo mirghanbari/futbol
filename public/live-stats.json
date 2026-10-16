@@ -3,11 +3,11 @@
     "561883": {
       "home": {
         "possession": 48,
-        "xg": 0.88,
+        "xg": 0.85,
         "shots": 12,
         "shotsOnTarget": 3,
         "accuratePasses": 196,
-        "duelsWon": 18,
+        "duelsWon": 19,
         "boxTouches": 18,
         "fouls": 9,
         "corners": 2,
@@ -48,27 +48,27 @@
   "BL1": {
     "565828": {
       "home": {
-        "possession": 63,
-        "xg": 1.1,
-        "shots": 11,
+        "possession": 61,
+        "xg": 1.16,
+        "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 313,
-        "duelsWon": 51,
-        "boxTouches": 21,
+        "accuratePasses": 334,
+        "duelsWon": 53,
+        "boxTouches": 22,
         "fouls": 7,
-        "corners": 6,
+        "corners": 7,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 37,
+        "possession": 39,
         "xg": 0.46,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 160,
-        "duelsWon": 40,
+        "accuratePasses": 191,
+        "duelsWon": 42,
         "boxTouches": 14,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 2,
         "offsides": 0,
         "saves": 5
@@ -99,14 +99,14 @@
     "558573": {
       "home": {
         "possession": 45,
-        "xg": 1.43,
-        "shots": 13,
-        "shotsOnTarget": 7,
-        "accuratePasses": 178,
-        "duelsWon": 19,
-        "boxTouches": 29,
-        "fouls": 6,
-        "corners": 3,
+        "xg": 1.9,
+        "shots": 16,
+        "shotsOnTarget": 9,
+        "accuratePasses": 187,
+        "duelsWon": 20,
+        "boxTouches": 34,
+        "fouls": 8,
+        "corners": 4,
         "offsides": 2,
         "saves": 2
       },
@@ -115,13 +115,13 @@
         "xg": 1.54,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 231,
-        "duelsWon": 24,
+        "accuratePasses": 250,
+        "duelsWon": 26,
         "boxTouches": 13,
         "fouls": 4,
         "corners": 1,
         "offsides": 1,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -155,6 +155,12 @@
           "teamId": "471",
           "playerName": "Kristian Thorstvedt",
           "assist": "Sebastiano Esposito"
+        },
+        {
+          "minute": "57'",
+          "type": "goal",
+          "teamId": "470",
+          "playerName": "Antonio Raimondo"
         }
       ]
     }
@@ -166,8 +172,8 @@
         "xg": 0.18,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 305,
-        "duelsWon": 18,
+        "accuratePasses": 329,
+        "duelsWon": 20,
         "boxTouches": 5,
         "fouls": 10,
         "corners": 0,
@@ -176,13 +182,13 @@
       },
       "away": {
         "possession": 52,
-        "xg": 0.35,
+        "xg": 0.6,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 338,
-        "duelsWon": 34,
+        "accuratePasses": 353,
+        "duelsWon": 35,
         "boxTouches": 11,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 2,
         "offsides": 2,
         "saves": 0
@@ -200,6 +206,12 @@
           "type": "yellow-card",
           "teamId": "511",
           "playerName": "Jacen Russell-Rowe"
+        },
+        {
+          "minute": "59'",
+          "type": "goal",
+          "teamId": "511",
+          "playerName": "Aron Dønnum"
         }
       ]
     }
