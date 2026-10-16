@@ -6020,6 +6020,10 @@
     "venue": "Riverside Stadium, Middlesbrough",
     "broadcasts": [
       {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
         "name": "Paramount+",
         "kind": "streaming"
       }
@@ -6169,6 +6173,10 @@
     },
     "venue": "Swansea.com Stadium, Swansea",
     "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
       {
         "name": "Paramount+",
         "kind": "streaming"
