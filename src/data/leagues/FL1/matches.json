@@ -2550,14 +2550,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-16T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "535",
     "awayTeamId": "511",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 0.9,
+        "shots": 11,
+        "shotsOnTarget": 1,
+        "accuratePasses": 490,
+        "duelsWon": 36,
+        "boxTouches": 21,
+        "fouls": 15,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.81,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 450,
+        "duelsWon": 54,
+        "boxTouches": 17,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "Stade Marie-Marvingt, Le Mans",
     "broadcasts": [

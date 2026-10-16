@@ -3510,14 +3510,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-16T18:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "673",
     "awayTeamId": "670",
     "homeTeam": {
-      "goals": 1
+      "goals": 4
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.25,
+        "shots": 14,
+        "shotsOnTarget": 7,
+        "accuratePasses": 444,
+        "duelsWon": 35,
+        "boxTouches": 33,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 48,
+        "xg": 0.67,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 399,
+        "duelsWon": 41,
+        "boxTouches": 16,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Abe Lenstra Stadion, Heerenveen"
   },

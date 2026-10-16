@@ -3162,14 +3162,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-16T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "470",
     "awayTeamId": "471",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 2.08,
+        "shots": 21,
+        "shotsOnTarget": 10,
+        "accuratePasses": 246,
+        "duelsWon": 44,
+        "boxTouches": 44,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 4
+      },
+      "away": {
+        "possession": 58,
+        "xg": 1.92,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 377,
+        "duelsWon": 41,
+        "boxTouches": 34,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 6
+      }
     },
     "venue": "Stadio Benito Stirpe, Frosinone",
     "broadcasts": [

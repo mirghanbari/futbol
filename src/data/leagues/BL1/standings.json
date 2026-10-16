@@ -119,11 +119,11 @@
     "goalDifference": 0
   },
   {
-    "id": "1",
-    "name": "1. FC Köln",
-    "shortName": "1. FC Köln",
-    "tla": "KOE",
-    "crest": "https://crests.football-data.org/1.png",
+    "id": "19",
+    "name": "Eintracht Frankfurt",
+    "shortName": "Frankfurt",
+    "tla": "SGE",
+    "crest": "https://crests.football-data.org/19.png",
     "competitionId": "BL1",
     "position": 8,
     "playedGames": 6,
@@ -131,9 +131,9 @@
     "draw": 2,
     "lost": 2,
     "points": 8,
-    "goalsFor": 8,
-    "goalsAgainst": 10,
-    "goalDifference": -2
+    "goalsFor": 10,
+    "goalsAgainst": 16,
+    "goalDifference": -6
   },
   {
     "id": "15",
@@ -170,13 +170,30 @@
     "goalDifference": 0
   },
   {
+    "id": "1",
+    "name": "1. FC Köln",
+    "shortName": "1. FC Köln",
+    "tla": "KOE",
+    "crest": "https://crests.football-data.org/1.png",
+    "competitionId": "BL1",
+    "position": 11,
+    "playedGames": 6,
+    "won": 2,
+    "draw": 1,
+    "lost": 3,
+    "points": 7,
+    "goalsFor": 8,
+    "goalsAgainst": 11,
+    "goalDifference": -3
+  },
+  {
     "id": "10",
     "name": "VfB Stuttgart",
     "shortName": "Stuttgart",
     "tla": "VFB",
     "crest": "https://crests.football-data.org/10.png",
     "competitionId": "BL1",
-    "position": 11,
+    "position": 12,
     "playedGames": 5,
     "won": 2,
     "draw": 0,
@@ -185,23 +202,6 @@
     "goalsFor": 8,
     "goalsAgainst": 9,
     "goalDifference": -1
-  },
-  {
-    "id": "19",
-    "name": "Eintracht Frankfurt",
-    "shortName": "Frankfurt",
-    "tla": "SGE",
-    "crest": "https://crests.football-data.org/19.png",
-    "competitionId": "BL1",
-    "position": 12,
-    "playedGames": 6,
-    "won": 1,
-    "draw": 3,
-    "lost": 2,
-    "points": 6,
-    "goalsFor": 9,
-    "goalsAgainst": 16,
-    "goalDifference": -7
   },
   {
     "id": "7",

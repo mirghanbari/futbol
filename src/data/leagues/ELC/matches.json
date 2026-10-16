@@ -5966,14 +5966,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-16T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "328",
     "awayTeamId": "76",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 1,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 350,
+        "duelsWon": 43,
+        "boxTouches": 25,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 7,
+        "saves": 5
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1.82,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 417,
+        "duelsWon": 52,
+        "boxTouches": 20,
+        "fouls": 9,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Turf Moor, Burnley",
     "broadcasts": [
