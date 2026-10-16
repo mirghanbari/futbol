@@ -2,25 +2,25 @@
   "ELC": {
     "561883": {
       "home": {
-        "possession": 60,
-        "xg": 0.28,
-        "shots": 6,
+        "possession": 54,
+        "xg": 0.71,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 118,
-        "duelsWon": 5,
-        "boxTouches": 8,
-        "fouls": 2,
+        "accuratePasses": 140,
+        "duelsWon": 6,
+        "boxTouches": 12,
+        "fouls": 3,
         "corners": 2,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 40,
+        "possession": 46,
         "xg": 0.07,
-        "shots": 3,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 79,
-        "duelsWon": 8,
+        "accuratePasses": 118,
+        "duelsWon": 9,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
@@ -90,30 +90,30 @@
   "SA": {
     "558573": {
       "home": {
-        "possession": 45,
-        "xg": 1.19,
-        "shots": 7,
-        "shotsOnTarget": 5,
-        "accuratePasses": 98,
-        "duelsWon": 12,
-        "boxTouches": 16,
-        "fouls": 4,
+        "possession": 43,
+        "xg": 1.3,
+        "shots": 8,
+        "shotsOnTarget": 6,
+        "accuratePasses": 117,
+        "duelsWon": 13,
+        "boxTouches": 18,
+        "fouls": 5,
         "corners": 1,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 55,
-        "xg": 1.28,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 125,
-        "duelsWon": 12,
-        "boxTouches": 9,
+        "possession": 57,
+        "xg": 1.37,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 161,
+        "duelsWon": 14,
+        "boxTouches": 11,
         "fouls": 1,
         "corners": 1,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -140,6 +140,13 @@
           "type": "goal",
           "teamId": "470",
           "playerName": "Antonio Raimondo"
+        },
+        {
+          "minute": "37'",
+          "type": "goal",
+          "teamId": "471",
+          "playerName": "Kristian Thorstvedt",
+          "assist": "Sebastiano Esposito"
         }
       ]
     }
@@ -147,27 +154,27 @@
   "FL1": {
     "559661": {
       "home": {
-        "possession": 45,
+        "possession": 44,
         "xg": 0.18,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 180,
-        "duelsWon": 12,
+        "accuratePasses": 205,
+        "duelsWon": 16,
         "boxTouches": 5,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 55,
+        "possession": 56,
         "xg": 0.22,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 230,
-        "duelsWon": 19,
+        "accuratePasses": 278,
+        "duelsWon": 25,
         "boxTouches": 5,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 1,
         "offsides": 2,
         "saves": 0
@@ -177,30 +184,30 @@
   "DED": {
     "558872": {
       "home": {
-        "possession": 52,
-        "xg": 1.59,
-        "shots": 9,
-        "shotsOnTarget": 3,
-        "accuratePasses": 306,
-        "duelsWon": 22,
-        "boxTouches": 21,
+        "possession": 53,
+        "xg": 1.65,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 344,
+        "duelsWon": 25,
+        "boxTouches": 23,
         "fouls": 6,
         "corners": 3,
         "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 48,
+        "possession": 47,
         "xg": 0.42,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 267,
-        "duelsWon": 22,
+        "accuratePasses": 283,
+        "duelsWon": 23,
         "boxTouches": 11,
         "fouls": 5,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
