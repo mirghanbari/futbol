@@ -2,28 +2,28 @@
   "ELC": {
     "561883": {
       "home": {
-        "possession": 46,
+        "possession": 47,
         "xg": 1,
         "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 337,
+        "accuratePasses": 351,
         "duelsWon": 41,
         "boxTouches": 26,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 3,
         "offsides": 7,
-        "saves": 4
+        "saves": 5
       },
       "away": {
-        "possession": 54,
-        "xg": 1.7,
-        "shots": 18,
-        "shotsOnTarget": 6,
-        "accuratePasses": 410,
-        "duelsWon": 45,
-        "boxTouches": 19,
+        "possession": 53,
+        "xg": 1.82,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 417,
+        "duelsWon": 50,
+        "boxTouches": 20,
         "fouls": 9,
-        "corners": 5,
+        "corners": 6,
         "offsides": 0,
         "saves": 3
       },
@@ -60,8 +60,15 @@
           "teamId": "76",
           "playerName": "Tawanda Chirewa",
           "assist": "Mateus Mané"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "328",
+          "playerName": "Kyle Walker"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
