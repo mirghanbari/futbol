@@ -2564,10 +2564,6 @@
       {
         "name": "beIn Sports",
         "kind": "tv"
-      },
-      {
-        "name": "FuboTV",
-        "kind": "streaming"
       }
     ]
   },
@@ -2592,10 +2588,6 @@
       {
         "name": "beIn Sports",
         "kind": "tv"
-      },
-      {
-        "name": "FuboTV",
-        "kind": "streaming"
       }
     ]
   },
@@ -2615,13 +2607,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade de l'Aube, Paris",
-    "broadcasts": [
-      {
-        "name": "FuboTV",
-        "kind": "streaming"
-      }
-    ]
+    "venue": "Stade de l'Aube, Paris"
   },
   {
     "id": "559660",
@@ -2644,10 +2630,6 @@
       {
         "name": "beIn Sports",
         "kind": "tv"
-      },
-      {
-        "name": "FuboTV",
-        "kind": "streaming"
       }
     ]
   },
@@ -2672,10 +2654,6 @@
       {
         "name": "beIn Sports",
         "kind": "tv"
-      },
-      {
-        "name": "FuboTV",
-        "kind": "streaming"
       }
     ]
   },
@@ -2700,10 +2678,6 @@
       {
         "name": "beIn Sports",
         "kind": "tv"
-      },
-      {
-        "name": "FuboTV",
-        "kind": "streaming"
       }
     ]
   },
@@ -2723,21 +2697,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade Jean Bouin, Paris",
-    "broadcasts": [
-      {
-        "name": "Prime Video",
-        "kind": "streaming"
-      },
-      {
-        "name": "TUBI",
-        "kind": "tv"
-      },
-      {
-        "name": "FuboTV",
-        "kind": "streaming"
-      }
-    ]
+    "venue": "Stade Jean Bouin, Paris"
   },
   {
     "id": "559663",
@@ -2755,13 +2715,7 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade Océane, Le Havre",
-    "broadcasts": [
-      {
-        "name": "FuboTV",
-        "kind": "streaming"
-      }
-    ]
+    "venue": "Stade Océane, Le Havre"
   },
   {
     "id": "559665",
@@ -2784,10 +2738,6 @@
       {
         "name": "beIn Sports",
         "kind": "tv"
-      },
-      {
-        "name": "FuboTV",
-        "kind": "streaming"
       }
     ]
   },
