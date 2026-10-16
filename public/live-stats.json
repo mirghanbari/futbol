@@ -49,12 +49,12 @@
     "565828": {
       "home": {
         "possession": 64,
-        "xg": 1.04,
-        "shots": 8,
-        "shotsOnTarget": 4,
-        "accuratePasses": 278,
-        "duelsWon": 47,
-        "boxTouches": 18,
+        "xg": 1.08,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 311,
+        "duelsWon": 49,
+        "boxTouches": 21,
         "fouls": 6,
         "corners": 5,
         "offsides": 1,
@@ -65,10 +65,10 @@
         "xg": 0.46,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 136,
-        "duelsWon": 35,
+        "accuratePasses": 151,
+        "duelsWon": 38,
         "boxTouches": 13,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 2,
         "offsides": 0,
         "saves": 5
@@ -98,29 +98,29 @@
   "SA": {
     "558573": {
       "home": {
-        "possession": 42,
-        "xg": 1.38,
+        "possession": 44,
+        "xg": 1.36,
         "shots": 10,
         "shotsOnTarget": 6,
-        "accuratePasses": 140,
-        "duelsWon": 14,
-        "boxTouches": 23,
+        "accuratePasses": 156,
+        "duelsWon": 17,
+        "boxTouches": 24,
         "fouls": 5,
         "corners": 1,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 58,
-        "xg": 1.37,
+        "possession": 56,
+        "xg": 1.54,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 201,
+        "accuratePasses": 204,
         "duelsWon": 18,
         "boxTouches": 13,
         "fouls": 3,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 3
       },
       "events": [
@@ -162,28 +162,28 @@
   "FL1": {
     "559661": {
       "home": {
-        "possession": 43,
+        "possession": 46,
         "xg": 0.18,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 217,
-        "duelsWon": 15,
+        "accuratePasses": 253,
+        "duelsWon": 17,
         "boxTouches": 5,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 0,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 57,
-        "xg": 0.32,
-        "shots": 6,
+        "possession": 54,
+        "xg": 0.35,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 297,
-        "duelsWon": 28,
-        "boxTouches": 8,
-        "fouls": 4,
-        "corners": 1,
+        "accuratePasses": 314,
+        "duelsWon": 33,
+        "boxTouches": 9,
+        "fouls": 6,
+        "corners": 2,
         "offsides": 2,
         "saves": 0
       },
@@ -194,6 +194,12 @@
           "teamId": "511",
           "playerName": "Jacen Russell-Rowe",
           "assist": "Aron Dønnum"
+        },
+        {
+          "minute": "49'",
+          "type": "yellow-card",
+          "teamId": "511",
+          "playerName": "Jacen Russell-Rowe"
         }
       ]
     }
@@ -202,12 +208,12 @@
     "558872": {
       "home": {
         "possession": 52,
-        "xg": 2.24,
+        "xg": 2.25,
         "shots": 14,
         "shotsOnTarget": 7,
-        "accuratePasses": 434,
-        "duelsWon": 32,
-        "boxTouches": 31,
+        "accuratePasses": 444,
+        "duelsWon": 35,
+        "boxTouches": 33,
         "fouls": 9,
         "corners": 4,
         "offsides": 3,
@@ -218,10 +224,10 @@
         "xg": 0.67,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 390,
-        "duelsWon": 38,
+        "accuratePasses": 399,
+        "duelsWon": 40,
         "boxTouches": 16,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 1,
         "offsides": 0,
         "saves": 3
@@ -260,7 +266,8 @@
           "teamId": "673",
           "playerName": "Jacob Trenskow"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
