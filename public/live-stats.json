@@ -2,25 +2,25 @@
   "ELC": {
     "561883": {
       "home": {
-        "possession": 49,
-        "xg": 0.84,
-        "shots": 11,
+        "possession": 48,
+        "xg": 0.88,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 190,
-        "duelsWon": 14,
-        "boxTouches": 16,
-        "fouls": 8,
+        "accuratePasses": 196,
+        "duelsWon": 18,
+        "boxTouches": 18,
+        "fouls": 9,
         "corners": 2,
         "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 51,
+        "possession": 52,
         "xg": 0.48,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 198,
-        "duelsWon": 19,
+        "accuratePasses": 221,
+        "duelsWon": 20,
         "boxTouches": 5,
         "fouls": 3,
         "corners": 0,
@@ -48,30 +48,30 @@
   "BL1": {
     "565828": {
       "home": {
-        "possession": 62,
-        "xg": 0.9,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 252,
-        "duelsWon": 44,
-        "boxTouches": 16,
+        "possession": 64,
+        "xg": 1.04,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 278,
+        "duelsWon": 47,
+        "boxTouches": 18,
         "fouls": 6,
-        "corners": 3,
+        "corners": 5,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 38,
+        "possession": 36,
         "xg": 0.46,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 131,
-        "duelsWon": 31,
+        "accuratePasses": 136,
+        "duelsWon": 35,
         "boxTouches": 13,
         "fouls": 11,
         "corners": 2,
         "offsides": 0,
-        "saves": 3
+        "saves": 5
       },
       "events": [
         {
@@ -115,7 +115,7 @@
         "xg": 1.37,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 202,
+        "accuratePasses": 201,
         "duelsWon": 18,
         "boxTouches": 13,
         "fouls": 3,
@@ -166,8 +166,8 @@
         "xg": 0.18,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 210,
-        "duelsWon": 16,
+        "accuratePasses": 217,
+        "duelsWon": 15,
         "boxTouches": 5,
         "fouls": 9,
         "corners": 0,
@@ -176,29 +176,38 @@
       },
       "away": {
         "possession": 57,
-        "xg": 0.27,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 295,
+        "xg": 0.32,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 297,
         "duelsWon": 28,
-        "boxTouches": 7,
+        "boxTouches": 8,
         "fouls": 4,
         "corners": 1,
         "offsides": 2,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "46'",
+          "type": "goal",
+          "teamId": "511",
+          "playerName": "Jacen Russell-Rowe",
+          "assist": "Aron Dønnum"
+        }
+      ]
     }
   },
   "DED": {
     "558872": {
       "home": {
         "possession": 52,
-        "xg": 1.82,
-        "shots": 12,
-        "shotsOnTarget": 5,
-        "accuratePasses": 416,
-        "duelsWon": 30,
-        "boxTouches": 26,
+        "xg": 2.24,
+        "shots": 14,
+        "shotsOnTarget": 7,
+        "accuratePasses": 434,
+        "duelsWon": 32,
+        "boxTouches": 31,
         "fouls": 9,
         "corners": 4,
         "offsides": 3,
@@ -206,16 +215,16 @@
       },
       "away": {
         "possession": 48,
-        "xg": 0.42,
+        "xg": 0.67,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 379,
-        "duelsWon": 34,
+        "accuratePasses": 390,
+        "duelsWon": 38,
         "boxTouches": 16,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 1,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -242,7 +251,14 @@
           "minute": "84'",
           "type": "goal",
           "teamId": "673",
-          "playerName": "Luca Oyen"
+          "playerName": "Luca Oyen",
+          "assist": "Ringo Meerveld"
+        },
+        {
+          "minute": "88'",
+          "type": "goal",
+          "teamId": "673",
+          "playerName": "Jacob Trenskow"
         }
       ]
     }
