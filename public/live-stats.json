@@ -2,28 +2,28 @@
   "ELC": {
     "561883": {
       "home": {
-        "possession": 49,
-        "xg": 0.95,
+        "possession": 47,
+        "xg": 0.96,
         "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 227,
-        "duelsWon": 20,
+        "accuratePasses": 242,
+        "duelsWon": 24,
         "boxTouches": 21,
         "fouls": 10,
         "corners": 2,
         "offsides": 3,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 51,
-        "xg": 0.52,
-        "shots": 10,
-        "shotsOnTarget": 2,
-        "accuratePasses": 247,
-        "duelsWon": 24,
+        "possession": 53,
+        "xg": 0.56,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 287,
+        "duelsWon": 25,
         "boxTouches": 7,
-        "fouls": 3,
-        "corners": 0,
+        "fouls": 5,
+        "corners": 1,
         "offsides": 0,
         "saves": 2
       },
@@ -48,12 +48,12 @@
   "BL1": {
     "565828": {
       "home": {
-        "possession": 60,
+        "possession": 59,
         "xg": 1.23,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 345,
-        "duelsWon": 57,
+        "accuratePasses": 349,
+        "duelsWon": 64,
         "boxTouches": 24,
         "fouls": 7,
         "corners": 7,
@@ -61,15 +61,15 @@
         "saves": 3
       },
       "away": {
-        "possession": 40,
-        "xg": 0.59,
-        "shots": 8,
+        "possession": 41,
+        "xg": 0.65,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 216,
-        "duelsWon": 48,
-        "boxTouches": 18,
-        "fouls": 13,
-        "corners": 2,
+        "accuratePasses": 228,
+        "duelsWon": 50,
+        "boxTouches": 20,
+        "fouls": 15,
+        "corners": 3,
         "offsides": 0,
         "saves": 5
       },
@@ -109,9 +109,9 @@
         "xg": 2.01,
         "shots": 19,
         "shotsOnTarget": 10,
-        "accuratePasses": 209,
-        "duelsWon": 24,
-        "boxTouches": 35,
+        "accuratePasses": 220,
+        "duelsWon": 27,
+        "boxTouches": 36,
         "fouls": 9,
         "corners": 4,
         "offsides": 2,
@@ -119,13 +119,13 @@
       },
       "away": {
         "possession": 56,
-        "xg": 1.54,
+        "xg": 1.62,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 278,
+        "accuratePasses": 301,
         "duelsWon": 29,
         "boxTouches": 17,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 1,
         "offsides": 1,
         "saves": 6
@@ -179,10 +179,10 @@
         "xg": 0.59,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 360,
-        "duelsWon": 23,
-        "boxTouches": 9,
-        "fouls": 10,
+        "accuratePasses": 392,
+        "duelsWon": 27,
+        "boxTouches": 10,
+        "fouls": 13,
         "corners": 0,
         "offsides": 0,
         "saves": 2
@@ -190,11 +190,11 @@
       "away": {
         "possession": 50,
         "xg": 0.6,
-        "shots": 8,
-        "shotsOnTarget": 4,
-        "accuratePasses": 361,
-        "duelsWon": 36,
-        "boxTouches": 11,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 395,
+        "duelsWon": 45,
+        "boxTouches": 12,
         "fouls": 8,
         "corners": 2,
         "offsides": 2,
@@ -219,6 +219,12 @@
           "type": "goal",
           "teamId": "511",
           "playerName": "Aron Dønnum"
+        },
+        {
+          "minute": "76'",
+          "type": "goal",
+          "teamId": "511",
+          "playerName": "<TBD>"
         }
       ]
     }
