@@ -3,29 +3,29 @@
     "561883": {
       "home": {
         "possession": 45,
-        "xg": 0.96,
-        "shots": 13,
-        "shotsOnTarget": 3,
-        "accuratePasses": 264,
-        "duelsWon": 28,
+        "xg": 1,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 275,
+        "duelsWon": 32,
         "boxTouches": 23,
-        "fouls": 11,
-        "corners": 2,
+        "fouls": 12,
+        "corners": 3,
         "offsides": 4,
         "saves": 3
       },
       "away": {
         "possession": 55,
         "xg": 0.88,
-        "shots": 14,
-        "shotsOnTarget": 4,
-        "accuratePasses": 335,
-        "duelsWon": 33,
-        "boxTouches": 11,
-        "fouls": 5,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 350,
+        "duelsWon": 37,
+        "boxTouches": 12,
+        "fouls": 6,
         "corners": 4,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -47,6 +47,19 @@
           "type": "yellow-card",
           "teamId": "328",
           "playerName": "Reo Hatate"
+        },
+        {
+          "minute": "70'",
+          "type": "yellow-card",
+          "teamId": "76",
+          "playerName": "Sean Neave"
+        },
+        {
+          "minute": "72'",
+          "type": "goal",
+          "teamId": "76",
+          "playerName": "Tawanda Chirewa",
+          "assist": "Mateus Mané"
         }
       ]
     }
@@ -118,27 +131,27 @@
   "SA": {
     "558573": {
       "home": {
-        "possession": 43,
-        "xg": 2.01,
-        "shots": 19,
+        "possession": 42,
+        "xg": 2.03,
+        "shots": 20,
         "shotsOnTarget": 10,
-        "accuratePasses": 236,
-        "duelsWon": 37,
-        "boxTouches": 40,
-        "fouls": 11,
-        "corners": 4,
+        "accuratePasses": 243,
+        "duelsWon": 40,
+        "boxTouches": 43,
+        "fouls": 12,
+        "corners": 5,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 57,
+        "possession": 58,
         "xg": 1.77,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 341,
-        "duelsWon": 36,
-        "boxTouches": 25,
-        "fouls": 9,
+        "accuratePasses": 359,
+        "duelsWon": 38,
+        "boxTouches": 27,
+        "fouls": 10,
         "corners": 2,
         "offsides": 3,
         "saves": 6
@@ -194,26 +207,26 @@
   "FL1": {
     "559661": {
       "home": {
-        "possession": 53,
-        "xg": 0.64,
-        "shots": 7,
+        "possession": 54,
+        "xg": 0.77,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 448,
-        "duelsWon": 30,
-        "boxTouches": 17,
-        "fouls": 13,
+        "accuratePasses": 472,
+        "duelsWon": 32,
+        "boxTouches": 18,
+        "fouls": 14,
         "corners": 1,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 47,
-        "xg": 0.6,
-        "shots": 8,
-        "shotsOnTarget": 4,
-        "accuratePasses": 407,
-        "duelsWon": 45,
-        "boxTouches": 12,
+        "possession": 46,
+        "xg": 1.63,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 414,
+        "duelsWon": 49,
+        "boxTouches": 16,
         "fouls": 9,
         "corners": 2,
         "offsides": 3,
@@ -238,6 +251,19 @@
           "type": "goal",
           "teamId": "511",
           "playerName": "Aron Dønnum"
+        },
+        {
+          "minute": "87'",
+          "type": "goal",
+          "teamId": "511",
+          "playerName": "Casper Tengstedt",
+          "assist": "Cristian Cásseres"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "535",
+          "playerName": "Samuel Yohou"
         }
       ]
     }
