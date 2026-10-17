@@ -1418,30 +1418,30 @@
     },
     "564711": {
       "home": {
-        "possession": 36,
-        "xg": 1.17,
-        "shots": 12,
+        "possession": 38,
+        "xg": 1.14,
+        "shots": 13,
         "shotsOnTarget": 2,
-        "accuratePasses": 184,
-        "duelsWon": 38,
-        "boxTouches": 13,
-        "fouls": 8,
+        "accuratePasses": 208,
+        "duelsWon": 39,
+        "boxTouches": 15,
+        "fouls": 9,
         "corners": 2,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 64,
+        "possession": 62,
         "xg": 0.59,
         "shots": 9,
-        "shotsOnTarget": 1,
-        "accuratePasses": 340,
+        "shotsOnTarget": 2,
+        "accuratePasses": 357,
         "duelsWon": 33,
-        "boxTouches": 23,
-        "fouls": 12,
+        "boxTouches": 24,
+        "fouls": 11,
         "corners": 4,
-        "offsides": 0,
-        "saves": 1
+        "offsides": 1,
+        "saves": 3
       },
       "events": [
         {
@@ -2151,9 +2151,9 @@
         "xg": 1.14,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 416,
-        "duelsWon": 44,
-        "boxTouches": 23,
+        "accuratePasses": 451,
+        "duelsWon": 46,
+        "boxTouches": 24,
         "fouls": 10,
         "corners": 3,
         "offsides": 2,
@@ -2162,14 +2162,14 @@
       "away": {
         "possession": 36,
         "xg": 0.47,
-        "shots": 10,
+        "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 200,
-        "duelsWon": 42,
+        "accuratePasses": 213,
+        "duelsWon": 44,
         "boxTouches": 15,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 3,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 3
       },
       "events": [
@@ -2204,7 +2204,7 @@
           "playerName": "Emanuele Lulli"
         },
         {
-          "minute": "76'",
+          "minute": "77'",
           "type": "yellow-card",
           "teamId": "100",
           "playerName": "Niccolò Pisilli"
@@ -2271,27 +2271,27 @@
   "FL1": {
     "559659": {
       "home": {
-        "possession": 38,
+        "possession": 39,
         "xg": 0.88,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 221,
-        "duelsWon": 25,
-        "boxTouches": 21,
+        "accuratePasses": 237,
+        "duelsWon": 27,
+        "boxTouches": 24,
         "fouls": 9,
         "corners": 6,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 62,
+        "possession": 61,
         "xg": 1.53,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 386,
-        "duelsWon": 29,
+        "accuratePasses": 395,
+        "duelsWon": 31,
         "boxTouches": 18,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 4,
         "offsides": 1,
         "saves": 4
@@ -2337,32 +2337,44 @@
           "type": "yellow-card",
           "teamId": "531",
           "playerName": "Michel Diaz"
+        },
+        {
+          "minute": "77'",
+          "type": "yellow-card",
+          "teamId": "546",
+          "playerName": "Samson Baidoo"
+        },
+        {
+          "minute": "82'",
+          "type": "yellow-card",
+          "teamId": "546",
+          "playerName": "Amadou Haidara"
         }
       ]
     },
     "559660": {
       "home": {
-        "possession": 67,
-        "xg": 1.47,
-        "shots": 13,
+        "possession": 68,
+        "xg": 1.49,
+        "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 524,
-        "duelsWon": 54,
-        "boxTouches": 39,
+        "accuratePasses": 558,
+        "duelsWon": 58,
+        "boxTouches": 41,
         "fouls": 10,
-        "corners": 2,
+        "corners": 4,
         "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 33,
-        "xg": 0.28,
-        "shots": 6,
+        "possession": 32,
+        "xg": 0.65,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 224,
+        "accuratePasses": 229,
         "duelsWon": 42,
-        "boxTouches": 9,
-        "fouls": 18,
+        "boxTouches": 10,
+        "fouls": 19,
         "corners": 2,
         "offsides": 0,
         "saves": 4
@@ -2474,24 +2486,24 @@
         "xg": 2.94,
         "shots": 16,
         "shotsOnTarget": 7,
-        "accuratePasses": 257,
+        "accuratePasses": 269,
         "duelsWon": 36,
-        "boxTouches": 24,
-        "fouls": 6,
+        "boxTouches": 26,
+        "fouls": 7,
         "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
         "possession": 50,
-        "xg": 1.1,
-        "shots": 10,
-        "shotsOnTarget": 2,
-        "accuratePasses": 249,
-        "duelsWon": 36,
-        "boxTouches": 6,
+        "xg": 1.14,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 256,
+        "duelsWon": 39,
+        "boxTouches": 7,
         "fouls": 6,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 4
       },
@@ -2527,6 +2539,25 @@
           "playerName": "Milan Zonneveld",
           "method": "header",
           "assist": "Jens Toornstra"
+        },
+        {
+          "minute": "68'",
+          "type": "goal",
+          "teamId": "672",
+          "playerName": "Uriël van Aalst",
+          "assist": "Vito van Crooij"
+        },
+        {
+          "minute": "70'",
+          "type": "yellow-card",
+          "teamId": "6806",
+          "playerName": "Lushendry Martes"
+        },
+        {
+          "minute": "70'",
+          "type": "yellow-card",
+          "teamId": "672",
+          "playerName": "Vito van Crooij"
         }
       ]
     },
