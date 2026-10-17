@@ -2217,28 +2217,28 @@
   "DED": {
     "558869": {
       "home": {
-        "possession": 42,
-        "xg": 0.29,
-        "shots": 9,
-        "shotsOnTarget": 5,
-        "accuratePasses": 113,
-        "duelsWon": 9,
-        "boxTouches": 5,
+        "possession": 41,
+        "xg": 0.68,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 125,
+        "duelsWon": 11,
+        "boxTouches": 8,
         "fouls": 7,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 58,
-        "xg": 2.33,
-        "shots": 10,
-        "shotsOnTarget": 7,
-        "accuratePasses": 171,
-        "duelsWon": 19,
-        "boxTouches": 19,
+        "possession": 59,
+        "xg": 2.58,
+        "shots": 11,
+        "shotsOnTarget": 8,
+        "accuratePasses": 196,
+        "duelsWon": 21,
+        "boxTouches": 23,
         "fouls": 1,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 4
       },
@@ -2275,6 +2275,13 @@
           "teamId": "675",
           "playerName": "Sem Steijn",
           "assist": "Givairo Read"
+        },
+        {
+          "minute": "38'",
+          "type": "goal",
+          "teamId": "1912",
+          "playerName": "Patrick Brouwer",
+          "assist": "Tyrone Owusu"
         }
       ]
     },
