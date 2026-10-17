@@ -2,30 +2,30 @@
   "PL": {
     "560603": {
       "home": {
-        "possession": 30,
-        "xg": 0.06,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 52,
-        "duelsWon": 8,
-        "boxTouches": 2,
+        "possession": 31,
+        "xg": 0.27,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 66,
+        "duelsWon": 11,
+        "boxTouches": 6,
         "fouls": 3,
-        "corners": 1,
+        "corners": 3,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 70,
+        "possession": 69,
         "xg": 0.18,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 149,
-        "duelsWon": 16,
-        "boxTouches": 6,
-        "fouls": 5,
+        "accuratePasses": 175,
+        "duelsWon": 18,
+        "boxTouches": 7,
+        "fouls": 6,
         "corners": 0,
         "offsides": 0,
-        "saves": 1
+        "saves": 3
       },
       "events": [
         {
@@ -33,6 +33,12 @@
           "type": "yellow-card",
           "teamId": "62",
           "playerName": "Harrison Armstrong"
+        },
+        {
+          "minute": "27'",
+          "type": "yellow-card",
+          "teamId": "61",
+          "playerName": "Pedro Neto"
         }
       ]
     }
@@ -40,28 +46,28 @@
   "ELC": {
     "561884": {
       "home": {
-        "possession": 59,
+        "possession": 60,
         "xg": 0.02,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 51,
-        "duelsWon": 15,
+        "accuratePasses": 71,
+        "duelsWon": 19,
         "boxTouches": 2,
-        "fouls": 3,
-        "corners": 5,
+        "fouls": 4,
+        "corners": 6,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 41,
-        "xg": 0.01,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 28,
-        "duelsWon": 17,
-        "boxTouches": 2,
-        "fouls": 4,
-        "corners": 0,
+        "possession": 40,
+        "xg": 0.21,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 38,
+        "duelsWon": 23,
+        "boxTouches": 5,
+        "fouls": 6,
+        "corners": 1,
         "offsides": 1,
         "saves": 0
       },
@@ -71,35 +77,42 @@
           "type": "goal",
           "teamId": "1126",
           "playerName": "Andrei Coubiș"
+        },
+        {
+          "minute": "33'",
+          "type": "goal",
+          "teamId": "1126",
+          "playerName": "Robert Street",
+          "assist": "Sonny Bradley"
         }
       ]
     },
     "561887": {
       "home": {
-        "possession": 41,
-        "xg": 0.58,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 88,
-        "duelsWon": 12,
-        "boxTouches": 13,
-        "fouls": 2,
+        "possession": 44,
+        "xg": 0.73,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 119,
+        "duelsWon": 17,
+        "boxTouches": 18,
+        "fouls": 3,
         "corners": 3,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 59,
+        "possession": 56,
         "xg": 0.27,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 141,
-        "duelsWon": 16,
-        "boxTouches": 7,
+        "accuratePasses": 158,
+        "duelsWon": 19,
+        "boxTouches": 8,
         "fouls": 3,
         "corners": 1,
-        "offsides": 0,
-        "saves": 2
+        "offsides": 1,
+        "saves": 3
       },
       "events": [
         {
@@ -126,13 +139,13 @@
     "561889": {
       "home": {
         "possession": 63,
-        "xg": 0.4,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 135,
-        "duelsWon": 19,
+        "xg": 0.49,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 160,
+        "duelsWon": 23,
         "boxTouches": 5,
-        "fouls": 2,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -142,13 +155,13 @@
         "xg": 0.15,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 65,
-        "duelsWon": 7,
-        "boxTouches": 1,
-        "fouls": 6,
+        "accuratePasses": 77,
+        "duelsWon": 11,
+        "boxTouches": 2,
+        "fouls": 9,
         "corners": 0,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -162,8 +175,49 @@
           "type": "yellow-card",
           "teamId": "346",
           "playerName": "Myron Boadu"
+        },
+        {
+          "minute": "31'",
+          "type": "yellow-card",
+          "teamId": "346",
+          "playerName": "Iker Bravo"
+        },
+        {
+          "minute": "32'",
+          "type": "yellow-card",
+          "teamId": "348",
+          "playerName": "Oliver Skipp"
         }
       ]
+    }
+  },
+  "PD": {
+    "564710": {
+      "home": {
+        "possession": 12,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 2,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 88,
+        "xg": 0.08,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 27,
+        "duelsWon": 0,
+        "boxTouches": 3,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   }
 }
