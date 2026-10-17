@@ -1419,13 +1419,13 @@
     "564711": {
       "home": {
         "possession": 38,
-        "xg": 1.14,
-        "shots": 13,
+        "xg": 1.29,
+        "shots": 14,
         "shotsOnTarget": 2,
-        "accuratePasses": 208,
-        "duelsWon": 39,
-        "boxTouches": 15,
-        "fouls": 9,
+        "accuratePasses": 218,
+        "duelsWon": 40,
+        "boxTouches": 16,
+        "fouls": 10,
         "corners": 2,
         "offsides": 2,
         "saves": 1
@@ -1435,9 +1435,9 @@
         "xg": 0.59,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 357,
-        "duelsWon": 33,
-        "boxTouches": 24,
+        "accuratePasses": 376,
+        "duelsWon": 35,
+        "boxTouches": 25,
         "fouls": 11,
         "corners": 4,
         "offsides": 1,
@@ -2147,26 +2147,26 @@
     },
     "558572": {
       "home": {
-        "possession": 64,
-        "xg": 1.14,
-        "shots": 11,
+        "possession": 65,
+        "xg": 1.29,
+        "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 451,
-        "duelsWon": 46,
-        "boxTouches": 24,
+        "accuratePasses": 485,
+        "duelsWon": 49,
+        "boxTouches": 26,
         "fouls": 10,
-        "corners": 3,
-        "offsides": 2,
+        "corners": 4,
+        "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 36,
+        "possession": 35,
         "xg": 0.47,
         "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 213,
-        "duelsWon": 44,
-        "boxTouches": 15,
+        "accuratePasses": 218,
+        "duelsWon": 46,
+        "boxTouches": 16,
         "fouls": 7,
         "corners": 3,
         "offsides": 2,
@@ -2271,27 +2271,27 @@
   "FL1": {
     "559659": {
       "home": {
-        "possession": 39,
+        "possession": 41,
         "xg": 0.88,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 237,
-        "duelsWon": 27,
-        "boxTouches": 24,
-        "fouls": 9,
+        "accuratePasses": 277,
+        "duelsWon": 28,
+        "boxTouches": 25,
+        "fouls": 11,
         "corners": 6,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 61,
+        "possession": 59,
         "xg": 1.53,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 395,
-        "duelsWon": 31,
-        "boxTouches": 18,
-        "fouls": 10,
+        "accuratePasses": 422,
+        "duelsWon": 33,
+        "boxTouches": 19,
+        "fouls": 11,
         "corners": 4,
         "offsides": 1,
         "saves": 4
@@ -2358,26 +2358,26 @@
         "xg": 1.49,
         "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 558,
-        "duelsWon": 58,
-        "boxTouches": 41,
-        "fouls": 10,
-        "corners": 4,
+        "accuratePasses": 575,
+        "duelsWon": 60,
+        "boxTouches": 42,
+        "fouls": 11,
+        "corners": 5,
         "offsides": 3,
-        "saves": 0
+        "saves": 1
       },
       "away": {
         "possession": 32,
-        "xg": 0.65,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 229,
-        "duelsWon": 42,
-        "boxTouches": 10,
-        "fouls": 19,
+        "xg": 0.76,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 242,
+        "duelsWon": 44,
+        "boxTouches": 12,
+        "fouls": 20,
         "corners": 2,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -2405,6 +2405,12 @@
           "teamId": "521",
           "playerName": "Olivier Giroud",
           "penalty": true
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "521",
+          "playerName": "Calvin Verdonk"
         }
       ]
     },
@@ -2483,27 +2489,27 @@
     "558868": {
       "home": {
         "possession": 50,
-        "xg": 2.94,
-        "shots": 16,
+        "xg": 2.97,
+        "shots": 17,
         "shotsOnTarget": 7,
-        "accuratePasses": 269,
-        "duelsWon": 36,
-        "boxTouches": 26,
+        "accuratePasses": 280,
+        "duelsWon": 40,
+        "boxTouches": 30,
         "fouls": 7,
         "corners": 2,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
         "possession": 50,
-        "xg": 1.14,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 256,
-        "duelsWon": 39,
-        "boxTouches": 7,
-        "fouls": 6,
-        "corners": 3,
+        "xg": 1.15,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 259,
+        "duelsWon": 40,
+        "boxTouches": 9,
+        "fouls": 7,
+        "corners": 4,
         "offsides": 0,
         "saves": 4
       },
@@ -2558,6 +2564,12 @@
           "type": "yellow-card",
           "teamId": "672",
           "playerName": "Vito van Crooij"
+        },
+        {
+          "minute": "76'",
+          "type": "yellow-card",
+          "teamId": "672",
+          "playerName": "Thomas Verheijdt"
         }
       ]
     },
