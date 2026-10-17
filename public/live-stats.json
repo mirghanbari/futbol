@@ -155,27 +155,27 @@
     },
     "560607": {
       "home": {
-        "possession": 44,
-        "xg": 0.05,
-        "shots": 1,
+        "possession": 43,
+        "xg": 0.07,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 36,
-        "duelsWon": 8,
-        "boxTouches": 2,
-        "fouls": 2,
+        "accuratePasses": 47,
+        "duelsWon": 13,
+        "boxTouches": 4,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 56,
+        "possession": 57,
         "xg": 0.14,
-        "shots": 1,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 49,
-        "duelsWon": 11,
-        "boxTouches": 1,
-        "fouls": 2,
+        "accuratePasses": 72,
+        "duelsWon": 12,
+        "boxTouches": 3,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -1359,11 +1359,12 @@
     },
     "564713": {
       "home": {
-        "possession": 36,
+        "possession": 29,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 28,
-        "duelsWon": 5,
+        "accuratePasses": 35,
+        "duelsWon": 6,
         "boxTouches": 2,
         "fouls": 0,
         "corners": 0,
@@ -1371,17 +1372,27 @@
         "saves": 0
       },
       "away": {
-        "possession": 64,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 61,
-        "duelsWon": 4,
-        "boxTouches": 2,
+        "possession": 71,
+        "xg": 0.07,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 107,
+        "duelsWon": 6,
+        "boxTouches": 3,
         "fouls": 1,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "10'",
+          "type": "goal",
+          "teamId": "81",
+          "playerName": "Lamine Yamal",
+          "assist": "Jules Koundé"
+        }
+      ]
     }
   },
   "BL1": {
@@ -1702,31 +1713,40 @@
     },
     "565825": {
       "home": {
-        "possession": 63,
-        "xg": 0.13,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 65,
-        "duelsWon": 4,
-        "boxTouches": 4,
+        "possession": 66,
+        "xg": 0.27,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 109,
+        "duelsWon": 5,
+        "boxTouches": 6,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 37,
+        "possession": 34,
         "xg": 0.25,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 34,
+        "accuratePasses": 49,
         "duelsWon": 8,
         "boxTouches": 6,
         "fouls": 2,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
-      }
+        "saves": 2
+      },
+      "events": [
+        {
+          "minute": "12'",
+          "type": "goal",
+          "teamId": "5",
+          "playerName": "Luis Díaz",
+          "assist": "Joshua Kimmich"
+        }
+      ]
     },
     "565829": {
       "home": {
@@ -1782,26 +1802,26 @@
   "SA": {
     "558571": {
       "home": {
-        "possession": 34,
-        "xg": 0.18,
-        "shots": 5,
+        "possession": 33,
+        "xg": 0.53,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 121,
-        "duelsWon": 10,
-        "boxTouches": 7,
+        "accuratePasses": 127,
+        "duelsWon": 11,
+        "boxTouches": 10,
         "fouls": 4,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 66,
+        "possession": 67,
         "xg": 0.52,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 273,
-        "duelsWon": 11,
-        "boxTouches": 7,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 314,
+        "duelsWon": 12,
+        "boxTouches": 8,
         "fouls": 5,
         "corners": 1,
         "offsides": 0,
@@ -1826,6 +1846,14 @@
           "type": "yellow-card",
           "teamId": "108",
           "playerName": "Francesco Pio Esposito"
+        },
+        {
+          "minute": "44'",
+          "type": "goal",
+          "teamId": "108",
+          "playerName": "Marcus Thuram",
+          "method": "header",
+          "assist": "Nicolò Barella"
         }
       ]
     },
@@ -1883,30 +1911,30 @@
   "FL1": {
     "559662": {
       "home": {
-        "possession": 26,
-        "xg": 0.67,
-        "shots": 12,
-        "shotsOnTarget": 6,
+        "possession": 25,
+        "xg": 0.9,
+        "shots": 14,
+        "shotsOnTarget": 8,
         "accuratePasses": 146,
-        "duelsWon": 25,
-        "boxTouches": 18,
-        "fouls": 7,
+        "duelsWon": 27,
+        "boxTouches": 19,
+        "fouls": 9,
         "corners": 3,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 74,
-        "xg": 0.81,
-        "shots": 8,
+        "possession": 75,
+        "xg": 1.63,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 501,
-        "duelsWon": 31,
-        "boxTouches": 27,
+        "accuratePasses": 522,
+        "duelsWon": 32,
+        "boxTouches": 29,
         "fouls": 4,
         "corners": 3,
         "offsides": 0,
-        "saves": 6
+        "saves": 7
       },
       "events": [
         {
