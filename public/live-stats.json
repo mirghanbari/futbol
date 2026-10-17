@@ -2093,24 +2093,27 @@
     },
     "558572": {
       "home": {
-        "possession": 66,
+        "possession": 59,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 46,
-        "duelsWon": 1,
+        "accuratePasses": 63,
+        "duelsWon": 6,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 34,
-        "shots": 0,
+        "possession": 41,
+        "xg": 0.13,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 20,
-        "duelsWon": 2,
-        "fouls": 0,
-        "corners": 0,
+        "accuratePasses": 38,
+        "duelsWon": 4,
+        "boxTouches": 4,
+        "fouls": 2,
+        "corners": 1,
         "offsides": 1,
         "saves": 0
       }
@@ -2169,12 +2172,12 @@
   "FL1": {
     "559659": {
       "home": {
-        "possession": 31,
-        "xg": 0.03,
-        "shots": 1,
+        "possession": 26,
+        "xg": 0.05,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 17,
-        "duelsWon": 2,
+        "accuratePasses": 29,
+        "duelsWon": 7,
         "boxTouches": 2,
         "fouls": 1,
         "corners": 1,
@@ -2182,13 +2185,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 69,
+        "possession": 74,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 46,
-        "duelsWon": 2,
-        "fouls": 0,
+        "accuratePasses": 103,
+        "duelsWon": 4,
+        "boxTouches": 2,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -2196,26 +2200,27 @@
     },
     "559660": {
       "home": {
-        "possession": 62,
+        "possession": 68,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 36,
-        "duelsWon": 2,
+        "accuratePasses": 61,
+        "duelsWon": 6,
+        "boxTouches": 2,
         "fouls": 1,
         "corners": 0,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 38,
-        "xg": 0.06,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 17,
-        "duelsWon": 2,
-        "boxTouches": 2,
-        "fouls": 1,
+        "possession": 32,
+        "xg": 0.13,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 20,
+        "duelsWon": 4,
+        "boxTouches": 5,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -2225,7 +2230,8 @@
           "minute": "6'",
           "type": "goal",
           "teamId": "512",
-          "playerName": "<TBD>"
+          "playerName": "Mama Baldé",
+          "assist": "Gautier Lloris"
         }
       ]
     },
@@ -2303,7 +2309,7 @@
   "DED": {
     "558869": {
       "home": {
-        "possession": 46,
+        "possession": 47,
         "xg": 0.72,
         "shots": 12,
         "shotsOnTarget": 6,
@@ -2316,12 +2322,12 @@
         "saves": 5
       },
       "away": {
-        "possession": 54,
+        "possession": 53,
         "xg": 2.6,
         "shots": 12,
         "shotsOnTarget": 9,
         "accuratePasses": 209,
-        "duelsWon": 23,
+        "duelsWon": 24,
         "boxTouches": 23,
         "fouls": 2,
         "corners": 4,
