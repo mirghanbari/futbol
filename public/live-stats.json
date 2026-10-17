@@ -1397,9 +1397,9 @@
         "xg": 0.52,
         "shots": 2,
         "shotsOnTarget": 2,
-        "accuratePasses": 104,
+        "accuratePasses": 111,
         "duelsWon": 16,
-        "boxTouches": 7,
+        "boxTouches": 8,
         "fouls": 8,
         "corners": 1,
         "offsides": 1,
@@ -1410,11 +1410,11 @@
         "xg": 0.35,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 335,
-        "duelsWon": 25,
+        "accuratePasses": 372,
+        "duelsWon": 26,
         "boxTouches": 13,
         "fouls": 4,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 1
       },
@@ -1894,10 +1894,10 @@
         "xg": 0.9,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 174,
+        "accuratePasses": 178,
         "duelsWon": 18,
         "boxTouches": 15,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 1,
         "saves": 4
@@ -1907,12 +1907,12 @@
         "xg": 0.94,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 457,
-        "duelsWon": 19,
-        "boxTouches": 13,
-        "fouls": 7,
+        "accuratePasses": 483,
+        "duelsWon": 22,
+        "boxTouches": 16,
+        "fouls": 8,
         "corners": 2,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 3
       },
       "events": [
@@ -1948,6 +1948,12 @@
           "type": "yellow-card",
           "teamId": "103",
           "playerName": "Tommaso Pobega"
+        },
+        {
+          "minute": "61'",
+          "type": "yellow-card",
+          "teamId": "108",
+          "playerName": "Marcus Thuram"
         }
       ]
     },
