@@ -8,19 +8,19 @@
     "competitionId": "SA"
   },
   {
-    "id": "110",
-    "name": "SS Lazio",
-    "shortName": "Lazio",
-    "tla": "LAZ",
-    "crest": "https://crests.football-data.org/110.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "100",
     "name": "AS Roma",
     "shortName": "Roma",
     "tla": "ROM",
     "crest": "https://crests.football-data.org/100.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "110",
+    "name": "SS Lazio",
+    "shortName": "Lazio",
+    "tla": "LAZ",
+    "crest": "https://crests.football-data.org/110.png",
     "competitionId": "SA"
   },
   {
@@ -112,14 +112,6 @@
     "competitionId": "SA"
   },
   {
-    "id": "107",
-    "name": "Genoa CFC",
-    "shortName": "Genoa",
-    "tla": "GEN",
-    "crest": "https://crests.football-data.org/107.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "115",
     "name": "Udinese Calcio",
     "shortName": "Udinese",
@@ -149,6 +141,14 @@
     "shortName": "Fiorentina",
     "tla": "FIO",
     "crest": "https://crests.football-data.org/99.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "107",
+    "name": "Genoa CFC",
+    "shortName": "Genoa",
+    "tla": "GEN",
+    "crest": "https://crests.football-data.org/107.png",
     "competitionId": "SA"
   },
   {

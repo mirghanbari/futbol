@@ -2654,14 +2654,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-17T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "531",
     "awayTeamId": "546",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 0.88,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 304,
+        "duelsWon": 35,
+        "boxTouches": 30,
+        "fouls": 13,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1.54,
+        "shots": 13,
+        "shotsOnTarget": 3,
+        "accuratePasses": 451,
+        "duelsWon": 39,
+        "boxTouches": 19,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Stade de l'Aube, Paris"
   },
@@ -2672,14 +2700,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-17T18:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "521",
     "awayTeamId": "512",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 1.79,
+        "shots": 17,
+        "shotsOnTarget": 5,
+        "accuratePasses": 588,
+        "duelsWon": 61,
+        "boxTouches": 44,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 33,
+        "xg": 0.76,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 250,
+        "duelsWon": 46,
+        "boxTouches": 12,
+        "fouls": 20,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
     "broadcasts": [
