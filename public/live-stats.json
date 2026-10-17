@@ -1700,37 +1700,38 @@
   "SA": {
     "558571": {
       "home": {
-        "possession": 35,
-        "xg": 0.07,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 40,
-        "duelsWon": 3,
-        "boxTouches": 2,
-        "fouls": 0,
-        "corners": 0,
+        "possession": 33,
+        "xg": 0.08,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 54,
+        "duelsWon": 4,
+        "boxTouches": 4,
+        "fouls": 1,
+        "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 65,
+        "possession": 67,
         "xg": 0.14,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 84,
-        "duelsWon": 2,
+        "accuratePasses": 126,
+        "duelsWon": 4,
         "boxTouches": 1,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
           "minute": "10'",
           "type": "goal",
           "teamId": "103",
-          "playerName": "Tommaso Pobega"
+          "playerName": "Tommaso Pobega",
+          "assist": "Juan Miranda"
         }
       ]
     },
@@ -1788,26 +1789,26 @@
   "FL1": {
     "559662": {
       "home": {
-        "possession": 25,
+        "possession": 26,
         "xg": 0.42,
-        "shots": 8,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 104,
-        "duelsWon": 16,
-        "boxTouches": 11,
+        "accuratePasses": 112,
+        "duelsWon": 17,
+        "boxTouches": 14,
         "fouls": 4,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 75,
-        "xg": 0.88,
+        "possession": 74,
+        "xg": 0.78,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 365,
-        "duelsWon": 23,
-        "boxTouches": 19,
+        "accuratePasses": 375,
+        "duelsWon": 24,
+        "boxTouches": 20,
         "fouls": 2,
         "corners": 3,
         "offsides": 0,
@@ -1827,26 +1828,26 @@
   "DED": {
     "558871": {
       "home": {
-        "possession": 50,
-        "xg": 0.75,
-        "shots": 12,
+        "possession": 52,
+        "xg": 0.8,
+        "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 343,
-        "duelsWon": 32,
-        "boxTouches": 16,
-        "fouls": 18,
+        "accuratePasses": 374,
+        "duelsWon": 35,
+        "boxTouches": 18,
+        "fouls": 19,
         "corners": 3,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 50,
-        "xg": 0.83,
-        "shots": 10,
-        "shotsOnTarget": 2,
-        "accuratePasses": 347,
-        "duelsWon": 46,
-        "boxTouches": 22,
+        "possession": 48,
+        "xg": 0.92,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 354,
+        "duelsWon": 48,
+        "boxTouches": 23,
         "fouls": 8,
         "corners": 1,
         "offsides": 5,
