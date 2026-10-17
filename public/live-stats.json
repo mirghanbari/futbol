@@ -1700,25 +1700,25 @@
   "SA": {
     "558571": {
       "home": {
-        "possession": 33,
-        "xg": 0.08,
+        "possession": 37,
+        "xg": 0.09,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 54,
+        "accuratePasses": 86,
         "duelsWon": 4,
         "boxTouches": 4,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 67,
-        "xg": 0.14,
-        "shots": 2,
+        "possession": 63,
+        "xg": 0.18,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 126,
-        "duelsWon": 4,
+        "accuratePasses": 161,
+        "duelsWon": 6,
         "boxTouches": 1,
         "fouls": 3,
         "corners": 1,
@@ -1790,15 +1790,15 @@
     "559662": {
       "home": {
         "possession": 26,
-        "xg": 0.42,
-        "shots": 9,
-        "shotsOnTarget": 3,
-        "accuratePasses": 112,
-        "duelsWon": 17,
-        "boxTouches": 14,
-        "fouls": 4,
+        "xg": 0.55,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 119,
+        "duelsWon": 20,
+        "boxTouches": 16,
+        "fouls": 5,
         "corners": 2,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 2
       },
       "away": {
@@ -1806,13 +1806,13 @@
         "xg": 0.78,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 375,
-        "duelsWon": 24,
-        "boxTouches": 20,
-        "fouls": 2,
+        "accuratePasses": 407,
+        "duelsWon": 27,
+        "boxTouches": 22,
+        "fouls": 3,
         "corners": 3,
         "offsides": 0,
-        "saves": 2
+        "saves": 4
       },
       "events": [
         {
@@ -1828,28 +1828,28 @@
   "DED": {
     "558871": {
       "home": {
-        "possession": 52,
-        "xg": 0.8,
-        "shots": 13,
-        "shotsOnTarget": 4,
-        "accuratePasses": 374,
-        "duelsWon": 35,
-        "boxTouches": 18,
-        "fouls": 19,
+        "possession": 53,
+        "xg": 0.92,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 405,
+        "duelsWon": 37,
+        "boxTouches": 22,
+        "fouls": 20,
         "corners": 3,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 48,
-        "xg": 0.92,
-        "shots": 11,
+        "possession": 47,
+        "xg": 1.01,
+        "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 354,
-        "duelsWon": 48,
-        "boxTouches": 23,
-        "fouls": 8,
-        "corners": 1,
+        "accuratePasses": 357,
+        "duelsWon": 50,
+        "boxTouches": 26,
+        "fouls": 9,
+        "corners": 2,
         "offsides": 5,
         "saves": 3
       },
@@ -1897,6 +1897,12 @@
           "type": "yellow-card",
           "teamId": "680",
           "playerName": "Pascal Mulder"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "goal",
+          "teamId": "680",
+          "playerName": "<TBD>"
         }
       ]
     }
