@@ -1418,28 +1418,28 @@
     },
     "564711": {
       "home": {
-        "possession": 36,
-        "xg": 1.49,
+        "possession": 37,
+        "xg": 1.41,
         "shots": 16,
         "shotsOnTarget": 3,
-        "accuratePasses": 263,
+        "accuratePasses": 265,
         "duelsWon": 50,
-        "boxTouches": 19,
+        "boxTouches": 20,
         "fouls": 14,
         "corners": 2,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 64,
+        "possession": 63,
         "xg": 0.59,
         "shots": 9,
         "shotsOnTarget": 2,
         "accuratePasses": 482,
-        "duelsWon": 43,
+        "duelsWon": 44,
         "boxTouches": 30,
         "fouls": 13,
-        "corners": 5,
+        "corners": 6,
         "offsides": 1,
         "saves": 3
       },
@@ -1480,7 +1480,8 @@
           "teamId": "95",
           "playerName": "César Tárrega"
         }
-      ]
+      ],
+      "final": true
     },
     "564713": {
       "home": {
@@ -2503,26 +2504,26 @@
   "DED": {
     "558868": {
       "home": {
-        "possession": 50,
+        "possession": 49,
         "xg": 3.38,
         "shots": 22,
         "shotsOnTarget": 8,
         "accuratePasses": 300,
-        "duelsWon": 53,
+        "duelsWon": 54,
         "boxTouches": 37,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 3,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 50,
+        "possession": 51,
         "xg": 1.17,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 292,
-        "duelsWon": 53,
-        "boxTouches": 10,
+        "accuratePasses": 294,
+        "duelsWon": 55,
+        "boxTouches": 11,
         "fouls": 12,
         "corners": 4,
         "offsides": 0,
@@ -2571,14 +2572,14 @@
         {
           "minute": "70'",
           "type": "yellow-card",
-          "teamId": "6806",
-          "playerName": "Lushendry Martes"
+          "teamId": "672",
+          "playerName": "Vito van Crooij"
         },
         {
           "minute": "70'",
           "type": "yellow-card",
-          "teamId": "672",
-          "playerName": "Vito van Crooij"
+          "teamId": "6806",
+          "playerName": "Lushendry Martes"
         },
         {
           "minute": "76'",
@@ -2610,7 +2611,8 @@
           "teamId": "672",
           "playerName": "Chido Obi"
         }
-      ]
+      ],
+      "final": true
     },
     "558869": {
       "home": {
