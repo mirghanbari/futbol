@@ -2,25 +2,25 @@
   "PL": {
     "560603": {
       "home": {
-        "possession": 26,
+        "possession": 25,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 20,
-        "duelsWon": 6,
+        "accuratePasses": 34,
+        "duelsWon": 5,
         "fouls": 2,
-        "corners": 0,
+        "corners": 1,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 74,
+        "possession": 75,
         "xg": 0.03,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 89,
-        "duelsWon": 8,
-        "boxTouches": 3,
+        "accuratePasses": 138,
+        "duelsWon": 14,
+        "boxTouches": 6,
         "fouls": 4,
         "corners": 0,
         "offsides": 0,
@@ -31,29 +31,29 @@
   "ELC": {
     "561884": {
       "home": {
-        "possession": 44,
+        "possession": 49,
         "xg": 0.02,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 10,
-        "duelsWon": 10,
+        "accuratePasses": 23,
+        "duelsWon": 14,
         "boxTouches": 1,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 56,
+        "possession": 51,
         "xg": 0.01,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 15,
-        "duelsWon": 5,
-        "boxTouches": 1,
-        "fouls": 2,
+        "accuratePasses": 25,
+        "duelsWon": 12,
+        "boxTouches": 2,
+        "fouls": 3,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "events": [
@@ -68,54 +68,69 @@
     "561887": {
       "home": {
         "possession": 36,
-        "xg": 0.2,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 51,
-        "duelsWon": 10,
-        "boxTouches": 6,
-        "fouls": 0,
-        "corners": 1,
+        "xg": 0.58,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 58,
+        "duelsWon": 11,
+        "boxTouches": 11,
+        "fouls": 2,
+        "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
         "possession": 64,
         "xg": 0.19,
-        "shots": 3,
-        "shotsOnTarget": 0,
-        "accuratePasses": 105,
-        "duelsWon": 7,
-        "boxTouches": 3,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 119,
+        "duelsWon": 15,
+        "boxTouches": 7,
         "fouls": 2,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
-      }
+        "saves": 2
+      },
+      "events": [
+        {
+          "minute": "19'",
+          "type": "yellow-card",
+          "teamId": "715",
+          "playerName": "Brian Barry-Murphy"
+        },
+        {
+          "minute": "22'",
+          "type": "goal",
+          "teamId": "715",
+          "playerName": "Jack Moylan",
+          "assist": "Ollie Tanner"
+        }
+      ]
     },
     "561889": {
       "home": {
-        "possession": 63,
-        "xg": 0.07,
-        "shots": 3,
+        "possession": 60,
+        "xg": 0.14,
+        "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 92,
-        "duelsWon": 14,
+        "accuratePasses": 105,
+        "duelsWon": 18,
         "boxTouches": 3,
-        "fouls": 0,
+        "fouls": 2,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 37,
+        "possession": 40,
         "xg": 0.15,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 47,
-        "duelsWon": 5,
+        "accuratePasses": 60,
+        "duelsWon": 6,
         "boxTouches": 1,
-        "fouls": 4,
+        "fouls": 6,
         "corners": 0,
         "offsides": 0,
         "saves": 2
