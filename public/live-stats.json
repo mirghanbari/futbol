@@ -1411,7 +1411,7 @@
         "shots": 5,
         "shotsOnTarget": 3,
         "accuratePasses": 372,
-        "duelsWon": 26,
+        "duelsWon": 25,
         "boxTouches": 13,
         "fouls": 4,
         "corners": 3,
@@ -1459,12 +1459,6 @@
           "type": "yellow-card",
           "teamId": "90",
           "playerName": "Manuel Pellegrini"
-        },
-        {
-          "minute": "45'",
-          "type": "yellow-card",
-          "teamId": "90",
-          "playerName": "Diego Llorente"
         }
       ]
     }
@@ -1894,8 +1888,8 @@
         "xg": 0.9,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 178,
-        "duelsWon": 18,
+        "accuratePasses": 189,
+        "duelsWon": 19,
         "boxTouches": 15,
         "fouls": 7,
         "corners": 2,
@@ -1904,14 +1898,14 @@
       },
       "away": {
         "possession": 69,
-        "xg": 0.94,
-        "shots": 10,
-        "shotsOnTarget": 5,
-        "accuratePasses": 483,
+        "xg": 1.93,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 511,
         "duelsWon": 22,
-        "boxTouches": 16,
+        "boxTouches": 21,
         "fouls": 8,
-        "corners": 2,
+        "corners": 4,
         "offsides": 1,
         "saves": 3
       },
@@ -1954,6 +1948,13 @@
           "type": "yellow-card",
           "teamId": "108",
           "playerName": "Marcus Thuram"
+        },
+        {
+          "minute": "70'",
+          "type": "goal",
+          "teamId": "108",
+          "playerName": "Carlos Augusto",
+          "assist": "Piotr Zieliński"
         }
       ]
     },
