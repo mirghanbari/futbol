@@ -155,26 +155,26 @@
     },
     "560607": {
       "home": {
-        "possession": 51,
-        "xg": 0.12,
-        "shots": 4,
+        "possession": 48,
+        "xg": 0.21,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 107,
-        "duelsWon": 26,
-        "boxTouches": 8,
+        "accuratePasses": 121,
+        "duelsWon": 27,
+        "boxTouches": 11,
         "fouls": 6,
         "corners": 2,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 49,
-        "xg": 0.31,
-        "shots": 4,
-        "shotsOnTarget": 1,
-        "accuratePasses": 103,
+        "possession": 52,
+        "xg": 0.68,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 136,
         "duelsWon": 17,
-        "boxTouches": 4,
+        "boxTouches": 7,
         "fouls": 8,
         "corners": 1,
         "offsides": 0,
@@ -204,6 +204,14 @@
           "type": "yellow-card",
           "teamId": "58",
           "playerName": "Alysson Edward"
+        },
+        {
+          "minute": "36'",
+          "type": "goal",
+          "teamId": "58",
+          "playerName": "Johan Manzambi",
+          "method": "header",
+          "assist": "João Gomes"
         }
       ]
     },
@@ -1385,12 +1393,12 @@
     },
     "564713": {
       "home": {
-        "possession": 25,
+        "possession": 24,
         "xg": 0.26,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 67,
-        "duelsWon": 10,
+        "accuratePasses": 75,
+        "duelsWon": 12,
         "boxTouches": 4,
         "fouls": 5,
         "corners": 1,
@@ -1398,13 +1406,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 75,
+        "possession": 76,
         "xg": 0.13,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 242,
-        "duelsWon": 14,
-        "boxTouches": 5,
+        "accuratePasses": 299,
+        "duelsWon": 21,
+        "boxTouches": 7,
         "fouls": 3,
         "corners": 1,
         "offsides": 1,
@@ -1759,25 +1767,25 @@
     },
     "565825": {
       "home": {
-        "possession": 66,
-        "xg": 1.19,
-        "shots": 13,
-        "shotsOnTarget": 7,
-        "accuratePasses": 214,
-        "duelsWon": 8,
-        "boxTouches": 19,
-        "fouls": 5,
+        "possession": 67,
+        "xg": 1.42,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 251,
+        "duelsWon": 9,
+        "boxTouches": 23,
+        "fouls": 7,
         "corners": 3,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 34,
+        "possession": 33,
         "xg": 0.25,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 92,
-        "duelsWon": 18,
+        "accuratePasses": 104,
+        "duelsWon": 22,
         "boxTouches": 6,
         "fouls": 4,
         "corners": 1,
@@ -1798,6 +1806,13 @@
           "teamId": "5",
           "playerName": "Aleksandar Pavlović",
           "assist": "Luis Díaz"
+        },
+        {
+          "minute": "34'",
+          "type": "goal",
+          "teamId": "5",
+          "playerName": "Michael Olise",
+          "assist": "Harry Kane"
         }
       ]
     },
@@ -1855,26 +1870,26 @@
   "SA": {
     "558571": {
       "home": {
-        "possession": 34,
+        "possession": 32,
         "xg": 0.85,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 136,
+        "accuratePasses": 140,
         "duelsWon": 12,
         "boxTouches": 15,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 2,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 66,
+        "possession": 68,
         "xg": 0.9,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 322,
-        "duelsWon": 14,
-        "boxTouches": 10,
+        "accuratePasses": 353,
+        "duelsWon": 16,
+        "boxTouches": 11,
         "fouls": 5,
         "corners": 2,
         "offsides": 0,
@@ -1964,27 +1979,27 @@
   "FL1": {
     "559662": {
       "home": {
-        "possession": 26,
-        "xg": 0.9,
-        "shots": 15,
+        "possession": 27,
+        "xg": 0.98,
+        "shots": 16,
         "shotsOnTarget": 8,
-        "accuratePasses": 184,
-        "duelsWon": 34,
-        "boxTouches": 20,
-        "fouls": 11,
+        "accuratePasses": 193,
+        "duelsWon": 37,
+        "boxTouches": 21,
+        "fouls": 12,
         "corners": 3,
         "offsides": 2,
-        "saves": 3
+        "saves": 4
       },
       "away": {
-        "possession": 74,
-        "xg": 2.36,
-        "shots": 17,
-        "shotsOnTarget": 6,
-        "accuratePasses": 606,
-        "duelsWon": 40,
-        "boxTouches": 40,
-        "fouls": 5,
+        "possession": 73,
+        "xg": 2.61,
+        "shots": 18,
+        "shotsOnTarget": 7,
+        "accuratePasses": 613,
+        "duelsWon": 42,
+        "boxTouches": 43,
+        "fouls": 6,
         "corners": 6,
         "offsides": 0,
         "saves": 7
@@ -2021,8 +2036,16 @@
           "type": "goal",
           "teamId": "524",
           "playerName": "Ousmane Dembélé"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "goal",
+          "teamId": "524",
+          "playerName": "Désiré Doué",
+          "assist": "Ferrán Torres"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "DED": {
