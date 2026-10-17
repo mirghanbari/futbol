@@ -155,26 +155,26 @@
     },
     "560607": {
       "home": {
-        "possession": 49,
-        "xg": 0.55,
-        "shots": 11,
+        "possession": 50,
+        "xg": 0.85,
+        "shots": 13,
         "shotsOnTarget": 1,
-        "accuratePasses": 272,
+        "accuratePasses": 294,
         "duelsWon": 46,
-        "boxTouches": 28,
+        "boxTouches": 32,
         "fouls": 13,
         "corners": 4,
         "offsides": 3,
         "saves": 2
       },
       "away": {
-        "possession": 51,
-        "xg": 1.12,
-        "shots": 11,
+        "possession": 50,
+        "xg": 1.21,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 287,
-        "duelsWon": 41,
-        "boxTouches": 16,
+        "accuratePasses": 302,
+        "duelsWon": 44,
+        "boxTouches": 17,
         "fouls": 10,
         "corners": 5,
         "offsides": 0,
@@ -226,7 +226,7 @@
           "playerName": "Yoane Wissa"
         },
         {
-          "minute": "79'",
+          "minute": "78'",
           "type": "yellow-card",
           "teamId": "67",
           "playerName": "William Osula"
@@ -1411,30 +1411,30 @@
     },
     "564713": {
       "home": {
-        "possession": 29,
-        "xg": 0.92,
-        "shots": 4,
-        "shotsOnTarget": 4,
-        "accuratePasses": 172,
-        "duelsWon": 28,
+        "possession": 30,
+        "xg": 0.94,
+        "shots": 5,
+        "shotsOnTarget": 5,
+        "accuratePasses": 193,
+        "duelsWon": 33,
         "boxTouches": 9,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 1,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 71,
-        "xg": 2.34,
-        "shots": 10,
-        "shotsOnTarget": 6,
-        "accuratePasses": 499,
-        "duelsWon": 32,
-        "boxTouches": 20,
+        "possession": 70,
+        "xg": 2.36,
+        "shots": 11,
+        "shotsOnTarget": 7,
+        "accuratePasses": 545,
+        "duelsWon": 35,
+        "boxTouches": 23,
         "fouls": 9,
         "corners": 3,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -1838,27 +1838,27 @@
     },
     "565825": {
       "home": {
-        "possession": 65,
-        "xg": 3.6,
-        "shots": 26,
+        "possession": 63,
+        "xg": 3.65,
+        "shots": 27,
         "shotsOnTarget": 17,
-        "accuratePasses": 506,
-        "duelsWon": 18,
+        "accuratePasses": 521,
+        "duelsWon": 19,
         "boxTouches": 45,
-        "fouls": 14,
-        "corners": 9,
+        "fouls": 15,
+        "corners": 10,
         "offsides": 4,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 35,
-        "xg": 0.31,
-        "shots": 5,
-        "shotsOnTarget": 0,
-        "accuratePasses": 239,
-        "duelsWon": 37,
-        "boxTouches": 8,
-        "fouls": 5,
+        "possession": 37,
+        "xg": 0.35,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 269,
+        "duelsWon": 41,
+        "boxTouches": 13,
+        "fouls": 6,
         "corners": 3,
         "offsides": 2,
         "saves": 11
@@ -2194,30 +2194,30 @@
   "DED": {
     "558869": {
       "home": {
-        "possession": 37,
-        "xg": 0.07,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 23,
+        "possession": 35,
+        "xg": 0.1,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 34,
         "duelsWon": 3,
         "boxTouches": 1,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 63,
-        "xg": 0.66,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 48,
-        "duelsWon": 8,
-        "boxTouches": 3,
+        "possession": 65,
+        "xg": 0.71,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 76,
+        "duelsWon": 10,
+        "boxTouches": 5,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
