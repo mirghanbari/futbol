@@ -1418,28 +1418,28 @@
     },
     "564711": {
       "home": {
-        "possession": 38,
+        "possession": 36,
         "xg": 1.49,
         "shots": 16,
         "shotsOnTarget": 3,
-        "accuratePasses": 262,
-        "duelsWon": 48,
-        "boxTouches": 18,
-        "fouls": 13,
+        "accuratePasses": 263,
+        "duelsWon": 50,
+        "boxTouches": 19,
+        "fouls": 14,
         "corners": 2,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 62,
+        "possession": 64,
         "xg": 0.59,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 459,
-        "duelsWon": 40,
-        "boxTouches": 27,
-        "fouls": 12,
-        "corners": 4,
+        "accuratePasses": 482,
+        "duelsWon": 43,
+        "boxTouches": 30,
+        "fouls": 13,
+        "corners": 5,
         "offsides": 1,
         "saves": 3
       },
@@ -1473,6 +1473,12 @@
           "type": "yellow-card",
           "teamId": "95",
           "playerName": "Pepelu"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "95",
+          "playerName": "César Tárrega"
         }
       ]
     },
@@ -2498,12 +2504,12 @@
     "558868": {
       "home": {
         "possession": 50,
-        "xg": 3.28,
-        "shots": 21,
+        "xg": 3.38,
+        "shots": 22,
         "shotsOnTarget": 8,
-        "accuratePasses": 296,
-        "duelsWon": 49,
-        "boxTouches": 35,
+        "accuratePasses": 300,
+        "duelsWon": 53,
+        "boxTouches": 37,
         "fouls": 11,
         "corners": 3,
         "offsides": 0,
@@ -2514,10 +2520,10 @@
         "xg": 1.17,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 281,
-        "duelsWon": 49,
+        "accuratePasses": 292,
+        "duelsWon": 53,
         "boxTouches": 10,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 4,
         "offsides": 0,
         "saves": 5
@@ -2597,6 +2603,12 @@
           "type": "yellow-card",
           "teamId": "6806",
           "playerName": "Teo Quintero"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "672",
+          "playerName": "Chido Obi"
         }
       ]
     },
