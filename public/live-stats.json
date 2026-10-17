@@ -1419,7 +1419,7 @@
     "564713": {
       "home": {
         "possession": 31,
-        "xg": 0.97,
+        "xg": 0.98,
         "shots": 6,
         "shotsOnTarget": 5,
         "accuratePasses": 256,
@@ -1432,10 +1432,10 @@
       },
       "away": {
         "possession": 69,
-        "xg": 3.05,
-        "shots": 17,
+        "xg": 3.04,
+        "shots": 18,
         "shotsOnTarget": 10,
-        "accuratePasses": 679,
+        "accuratePasses": 694,
         "duelsWon": 41,
         "boxTouches": 31,
         "fouls": 11,
@@ -1493,17 +1493,17 @@
           "assist": "Lamine Yamal"
         },
         {
-          "minute": "54'",
-          "type": "red-card",
-          "teamId": "90",
-          "playerName": "Facundo Bernal"
-        },
-        {
-          "minute": "54'",
+          "minute": "53'",
           "type": "goal",
           "teamId": "90",
           "playerName": "Abdessamad Ezzalzouli",
           "assist": "Giovani Lo Celso"
+        },
+        {
+          "minute": "54'",
+          "type": "red-card",
+          "teamId": "90",
+          "playerName": "Facundo Bernal"
         },
         {
           "minute": "55'",
@@ -1531,7 +1531,8 @@
           "playerName": "Dani Olmo",
           "assist": "Pau Cubarsí"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
@@ -2216,30 +2217,30 @@
   "DED": {
     "558869": {
       "home": {
-        "possession": 45,
-        "xg": 0.26,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 107,
-        "duelsWon": 7,
+        "possession": 42,
+        "xg": 0.29,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 113,
+        "duelsWon": 9,
         "boxTouches": 5,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 1,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 55,
-        "xg": 1.75,
-        "shots": 9,
-        "shotsOnTarget": 6,
-        "accuratePasses": 142,
-        "duelsWon": 17,
-        "boxTouches": 17,
+        "possession": 58,
+        "xg": 2.33,
+        "shots": 10,
+        "shotsOnTarget": 7,
+        "accuratePasses": 171,
+        "duelsWon": 19,
+        "boxTouches": 19,
         "fouls": 1,
         "corners": 2,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -2254,6 +2255,26 @@
           "teamId": "675",
           "playerName": "Nacho Ferri",
           "method": "header"
+        },
+        {
+          "minute": "29'",
+          "type": "yellow-card",
+          "teamId": "1912",
+          "playerName": "Gerald Alders"
+        },
+        {
+          "minute": "30'",
+          "type": "goal",
+          "teamId": "1912",
+          "playerName": "Tyrone Owusu",
+          "assist": "Noach Shenkman"
+        },
+        {
+          "minute": "33'",
+          "type": "goal",
+          "teamId": "675",
+          "playerName": "Sem Steijn",
+          "assist": "Givairo Read"
         }
       ]
     },
