@@ -1419,13 +1419,13 @@
     "564711": {
       "home": {
         "possession": 38,
-        "xg": 1.42,
-        "shots": 15,
+        "xg": 1.49,
+        "shots": 16,
         "shotsOnTarget": 3,
-        "accuratePasses": 244,
-        "duelsWon": 45,
-        "boxTouches": 17,
-        "fouls": 12,
+        "accuratePasses": 262,
+        "duelsWon": 48,
+        "boxTouches": 18,
+        "fouls": 13,
         "corners": 2,
         "offsides": 2,
         "saves": 1
@@ -1435,8 +1435,8 @@
         "xg": 0.59,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 425,
-        "duelsWon": 38,
+        "accuratePasses": 459,
+        "duelsWon": 40,
         "boxTouches": 27,
         "fouls": 12,
         "corners": 4,
@@ -1467,6 +1467,12 @@
           "type": "yellow-card",
           "teamId": "77",
           "playerName": "Íñigo Ruíz de Galarreta"
+        },
+        {
+          "minute": "87'",
+          "type": "yellow-card",
+          "teamId": "95",
+          "playerName": "Pepelu"
         }
       ]
     },
@@ -2276,9 +2282,9 @@
         "xg": 0.88,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 300,
-        "duelsWon": 30,
-        "boxTouches": 29,
+        "accuratePasses": 305,
+        "duelsWon": 35,
+        "boxTouches": 31,
         "fouls": 13,
         "corners": 6,
         "offsides": 0,
@@ -2289,9 +2295,9 @@
         "xg": 1.54,
         "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 449,
-        "duelsWon": 36,
-        "boxTouches": 19,
+        "accuratePasses": 450,
+        "duelsWon": 38,
+        "boxTouches": 20,
         "fouls": 11,
         "corners": 4,
         "offsides": 1,
@@ -2331,13 +2337,13 @@
           "minute": "76'",
           "type": "yellow-card",
           "teamId": "531",
-          "playerName": "Renaud Ripart"
+          "playerName": "Michel Diaz"
         },
         {
           "minute": "76'",
           "type": "yellow-card",
           "teamId": "531",
-          "playerName": "Michel Diaz"
+          "playerName": "Renaud Ripart"
         },
         {
           "minute": "77'",
@@ -2351,7 +2357,8 @@
           "teamId": "546",
           "playerName": "Amadou Haidara"
         }
-      ]
+      ],
+      "final": true
     },
     "559660": {
       "home": {
@@ -2491,26 +2498,26 @@
     "558868": {
       "home": {
         "possession": 50,
-        "xg": 3.19,
-        "shots": 20,
+        "xg": 3.28,
+        "shots": 21,
         "shotsOnTarget": 8,
-        "accuratePasses": 287,
-        "duelsWon": 45,
-        "boxTouches": 32,
-        "fouls": 8,
+        "accuratePasses": 296,
+        "duelsWon": 49,
+        "boxTouches": 35,
+        "fouls": 11,
         "corners": 3,
         "offsides": 0,
         "saves": 2
       },
       "away": {
         "possession": 50,
-        "xg": 1.15,
-        "shots": 12,
+        "xg": 1.17,
+        "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 274,
-        "duelsWon": 44,
-        "boxTouches": 9,
-        "fouls": 9,
+        "accuratePasses": 281,
+        "duelsWon": 49,
+        "boxTouches": 10,
+        "fouls": 11,
         "corners": 4,
         "offsides": 0,
         "saves": 5
@@ -2578,6 +2585,18 @@
           "type": "yellow-card",
           "teamId": "6806",
           "playerName": "Alwande Roaldsøy"
+        },
+        {
+          "minute": "85'",
+          "type": "yellow-card",
+          "teamId": "6806",
+          "playerName": "Milan Zonneveld"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "6806",
+          "playerName": "Teo Quintero"
         }
       ]
     },
