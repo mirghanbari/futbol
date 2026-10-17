@@ -1184,28 +1184,28 @@
   "PD": {
     "564708": {
       "home": {
-        "possession": 56,
-        "xg": 2.14,
-        "shots": 19,
+        "possession": 58,
+        "xg": 2.15,
+        "shots": 20,
         "shotsOnTarget": 7,
-        "accuratePasses": 419,
-        "duelsWon": 35,
-        "boxTouches": 45,
+        "accuratePasses": 454,
+        "duelsWon": 36,
+        "boxTouches": 47,
         "fouls": 12,
         "corners": 10,
         "offsides": 6,
         "saves": 1
       },
       "away": {
-        "possession": 44,
-        "xg": 0.25,
+        "possession": 42,
+        "xg": 0.26,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 309,
-        "duelsWon": 36,
+        "accuratePasses": 310,
+        "duelsWon": 37,
         "boxTouches": 11,
         "fouls": 7,
-        "corners": 6,
+        "corners": 5,
         "offsides": 0,
         "saves": 6
       },
@@ -1237,16 +1237,17 @@
         {
           "minute": "90'+1'",
           "type": "yellow-card",
-          "teamId": "285",
-          "playerName": "Víctor Chust"
+          "teamId": "94",
+          "playerName": "Juan Foyth"
         },
         {
           "minute": "90'+1'",
           "type": "yellow-card",
-          "teamId": "94",
-          "playerName": "Juan Foyth"
+          "teamId": "285",
+          "playerName": "Víctor Chust"
         }
-      ]
+      ],
+      "final": true
     },
     "564710": {
       "home": {
@@ -1699,30 +1700,39 @@
   "SA": {
     "558571": {
       "home": {
-        "possession": 24,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 13,
-        "duelsWon": 1,
-        "boxTouches": 1,
+        "possession": 35,
+        "xg": 0.07,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 40,
+        "duelsWon": 3,
+        "boxTouches": 2,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 76,
-        "xg": 0.11,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 59,
-        "duelsWon": 1,
-        "fouls": 1,
-        "corners": 0,
+        "possession": 65,
+        "xg": 0.14,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 84,
+        "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 2,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "10'",
+          "type": "goal",
+          "teamId": "103",
+          "playerName": "Tommaso Pobega"
+        }
+      ]
     },
     "558575": {
       "home": {
@@ -1817,29 +1827,29 @@
   "DED": {
     "558871": {
       "home": {
-        "possession": 49,
-        "xg": 0.71,
-        "shots": 10,
+        "possession": 50,
+        "xg": 0.75,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 314,
-        "duelsWon": 30,
-        "boxTouches": 15,
+        "accuratePasses": 343,
+        "duelsWon": 32,
+        "boxTouches": 16,
         "fouls": 18,
         "corners": 3,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 51,
-        "xg": 0.79,
-        "shots": 9,
+        "possession": 50,
+        "xg": 0.83,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 341,
-        "duelsWon": 45,
-        "boxTouches": 21,
-        "fouls": 7,
+        "accuratePasses": 347,
+        "duelsWon": 46,
+        "boxTouches": 22,
+        "fouls": 8,
         "corners": 1,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 3
       },
       "events": [
