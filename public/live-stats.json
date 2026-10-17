@@ -1418,12 +1418,12 @@
     },
     "564711": {
       "home": {
-        "possession": 33,
-        "xg": 0.51,
-        "shots": 4,
+        "possession": 34,
+        "xg": 0.54,
+        "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 88,
-        "duelsWon": 15,
+        "accuratePasses": 103,
+        "duelsWon": 21,
         "boxTouches": 6,
         "fouls": 5,
         "corners": 2,
@@ -1431,15 +1431,15 @@
         "saves": 0
       },
       "away": {
-        "possession": 67,
-        "xg": 0.12,
-        "shots": 4,
+        "possession": 66,
+        "xg": 0.37,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 205,
-        "duelsWon": 17,
-        "boxTouches": 9,
-        "fouls": 3,
-        "corners": 1,
+        "accuratePasses": 231,
+        "duelsWon": 20,
+        "boxTouches": 13,
+        "fouls": 5,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
@@ -1449,6 +1449,12 @@
           "type": "yellow-card",
           "teamId": "95",
           "playerName": "Dani Raba"
+        },
+        {
+          "minute": "39'",
+          "type": "yellow-card",
+          "teamId": "77",
+          "playerName": "Aymeric Laporte"
         }
       ]
     },
@@ -2217,24 +2223,24 @@
   "FL1": {
     "559659": {
       "home": {
-        "possession": 36,
-        "xg": 0.49,
+        "possession": 35,
+        "xg": 0.54,
         "shots": 7,
         "shotsOnTarget": 4,
         "accuratePasses": 145,
         "duelsWon": 18,
-        "boxTouches": 11,
+        "boxTouches": 12,
         "fouls": 4,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 64,
+        "possession": 65,
         "xg": 0.98,
         "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 276,
+        "accuratePasses": 285,
         "duelsWon": 17,
         "boxTouches": 14,
         "fouls": 7,
@@ -2384,12 +2390,12 @@
     "558868": {
       "home": {
         "possession": 46,
-        "xg": 0.62,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 134,
-        "duelsWon": 16,
-        "boxTouches": 5,
+        "xg": 0.64,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 152,
+        "duelsWon": 20,
+        "boxTouches": 9,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
@@ -2400,8 +2406,8 @@
         "xg": 0.86,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 152,
-        "duelsWon": 19,
+        "accuratePasses": 173,
+        "duelsWon": 22,
         "boxTouches": 4,
         "fouls": 2,
         "corners": 2,
@@ -2414,17 +2420,23 @@
           "type": "goal",
           "teamId": "672",
           "playerName": "Tonny Vilhena"
+        },
+        {
+          "minute": "39'",
+          "type": "goal",
+          "teamId": "6806",
+          "playerName": "<TBD>"
         }
       ]
     },
     "558869": {
       "home": {
-        "possession": 50,
+        "possession": 52,
         "xg": 1.07,
         "shots": 18,
         "shotsOnTarget": 8,
-        "accuratePasses": 334,
-        "duelsWon": 29,
+        "accuratePasses": 367,
+        "duelsWon": 31,
         "boxTouches": 15,
         "fouls": 10,
         "corners": 2,
@@ -2432,15 +2444,15 @@
         "saves": 5
       },
       "away": {
-        "possession": 50,
+        "possession": 48,
         "xg": 3.59,
         "shots": 17,
         "shotsOnTarget": 10,
-        "accuratePasses": 326,
-        "duelsWon": 37,
+        "accuratePasses": 332,
+        "duelsWon": 39,
         "boxTouches": 35,
         "fouls": 5,
-        "corners": 4,
+        "corners": 5,
         "offsides": 1,
         "saves": 5
       },
