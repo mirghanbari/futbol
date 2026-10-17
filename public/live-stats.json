@@ -6,12 +6,12 @@
         "xg": 0.45,
         "shots": 6,
         "shotsOnTarget": 5,
-        "accuratePasses": 283,
-        "duelsWon": 35,
+        "accuratePasses": 306,
+        "duelsWon": 38,
         "boxTouches": 18,
         "fouls": 8,
-        "corners": 4,
-        "offsides": 3,
+        "corners": 5,
+        "offsides": 4,
         "saves": 4
       },
       "away": {
@@ -19,10 +19,10 @@
         "xg": 1.49,
         "shots": 18,
         "shotsOnTarget": 7,
-        "accuratePasses": 357,
-        "duelsWon": 45,
+        "accuratePasses": 382,
+        "duelsWon": 46,
         "boxTouches": 22,
-        "fouls": 12,
+        "fouls": 14,
         "corners": 7,
         "offsides": 1,
         "saves": 5
@@ -382,11 +382,11 @@
     "564710": {
       "home": {
         "possession": 30,
-        "xg": 0.27,
+        "xg": 0.33,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 152,
-        "duelsWon": 27,
+        "accuratePasses": 155,
+        "duelsWon": 29,
         "boxTouches": 8,
         "fouls": 7,
         "corners": 3,
@@ -395,14 +395,14 @@
       },
       "away": {
         "possession": 70,
-        "xg": 0.75,
-        "shots": 12,
+        "xg": 0.78,
+        "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 436,
-        "duelsWon": 32,
+        "accuratePasses": 464,
+        "duelsWon": 33,
         "boxTouches": 20,
-        "fouls": 7,
-        "corners": 9,
+        "fouls": 8,
+        "corners": 10,
         "offsides": 1,
         "saves": 0
       },
@@ -424,35 +424,154 @@
           "type": "yellow-card",
           "teamId": "78",
           "playerName": "Cristian Romero"
+        },
+        {
+          "minute": "68'",
+          "type": "yellow-card",
+          "teamId": "78",
+          "playerName": "Álex Baena"
         }
       ]
     }
   },
-  "SA": {
-    "558575": {
+  "BL1": {
+    "565821": {
       "home": {
-        "possession": 34,
-        "xg": 0.09,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 97,
-        "duelsWon": 12,
-        "boxTouches": 4,
-        "fouls": 1,
+        "possession": 50,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 4,
+        "duelsWon": 1,
+        "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 66,
-        "xg": 0.07,
-        "shots": 2,
+        "possession": 50,
+        "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 215,
-        "duelsWon": 5,
-        "boxTouches": 3,
+        "accuratePasses": 6,
+        "duelsWon": 2,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "1'",
+          "type": "yellow-card",
+          "teamId": "4",
+          "playerName": "Ethan Nwaneri"
+        }
+      ]
+    },
+    "565822": {
+      "home": {
+        "possession": 40,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 1,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 60,
+        "xg": 0.03,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 1,
+        "duelsWon": 1,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "565824": {
+      "home": {
+        "possession": 82,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 10,
+        "duelsWon": 0,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 18,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 0,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "565829": {
+      "home": {
+        "possession": 35,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 3,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 65,
+        "xg": 0.25,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 11,
+        "duelsWon": 0,
+        "boxTouches": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    }
+  },
+  "SA": {
+    "558575": {
+      "home": {
+        "possession": 32,
+        "xg": 0.09,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 103,
+        "duelsWon": 14,
+        "boxTouches": 4,
+        "fouls": 3,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 68,
+        "xg": 0.2,
+        "shots": 3,
+        "shotsOnTarget": 0,
+        "accuratePasses": 247,
+        "duelsWon": 9,
+        "boxTouches": 5,
         "fouls": 2,
-        "corners": 2,
+        "corners": 4,
         "offsides": 1,
         "saves": 1
       }
