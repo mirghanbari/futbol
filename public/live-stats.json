@@ -1418,27 +1418,27 @@
     },
     "564711": {
       "home": {
-        "possession": 34,
-        "xg": 0.54,
-        "shots": 5,
+        "possession": 37,
+        "xg": 0.59,
+        "shots": 7,
         "shotsOnTarget": 0,
-        "accuratePasses": 103,
+        "accuratePasses": 130,
         "duelsWon": 21,
-        "boxTouches": 6,
+        "boxTouches": 7,
         "fouls": 5,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 66,
+        "possession": 63,
         "xg": 0.37,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 231,
-        "duelsWon": 20,
+        "accuratePasses": 238,
+        "duelsWon": 23,
         "boxTouches": 13,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 2,
         "offsides": 0,
         "saves": 0
@@ -1455,6 +1455,12 @@
           "type": "yellow-card",
           "teamId": "77",
           "playerName": "Aymeric Laporte"
+        },
+        {
+          "minute": "43'",
+          "type": "yellow-card",
+          "teamId": "77",
+          "playerName": "Beñat Gerenabarrena"
         }
       ]
     },
@@ -2135,11 +2141,11 @@
     },
     "558572": {
       "home": {
-        "possession": 62,
+        "possession": 61,
         "xg": 0.47,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 222,
+        "accuratePasses": 223,
         "duelsWon": 29,
         "boxTouches": 11,
         "fouls": 5,
@@ -2148,13 +2154,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 38,
+        "possession": 39,
         "xg": 0.35,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 125,
+        "accuratePasses": 128,
         "duelsWon": 25,
-        "boxTouches": 11,
+        "boxTouches": 12,
         "fouls": 4,
         "corners": 1,
         "offsides": 1,
@@ -2389,30 +2395,30 @@
   "DED": {
     "558868": {
       "home": {
-        "possession": 46,
-        "xg": 0.64,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 152,
-        "duelsWon": 20,
-        "boxTouches": 9,
+        "possession": 49,
+        "xg": 1.58,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 176,
+        "duelsWon": 22,
+        "boxTouches": 15,
         "fouls": 3,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 54,
+        "possession": 51,
         "xg": 0.86,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 173,
-        "duelsWon": 22,
+        "accuratePasses": 175,
+        "duelsWon": 24,
         "boxTouches": 4,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 2,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -2425,34 +2431,40 @@
           "minute": "39'",
           "type": "goal",
           "teamId": "6806",
-          "playerName": "<TBD>"
+          "playerName": "Jens Toornstra"
+        },
+        {
+          "minute": "41'",
+          "type": "yellow-card",
+          "teamId": "672",
+          "playerName": "Finn Stam"
         }
       ]
     },
     "558869": {
       "home": {
         "possession": 52,
-        "xg": 1.07,
-        "shots": 18,
+        "xg": 1.12,
+        "shots": 19,
         "shotsOnTarget": 8,
-        "accuratePasses": 367,
-        "duelsWon": 31,
-        "boxTouches": 15,
-        "fouls": 10,
+        "accuratePasses": 398,
+        "duelsWon": 35,
+        "boxTouches": 17,
+        "fouls": 11,
         "corners": 2,
         "offsides": 0,
         "saves": 5
       },
       "away": {
         "possession": 48,
-        "xg": 3.59,
-        "shots": 17,
-        "shotsOnTarget": 10,
-        "accuratePasses": 332,
-        "duelsWon": 39,
-        "boxTouches": 35,
+        "xg": 3.67,
+        "shots": 19,
+        "shotsOnTarget": 11,
+        "accuratePasses": 365,
+        "duelsWon": 41,
+        "boxTouches": 42,
         "fouls": 5,
-        "corners": 5,
+        "corners": 7,
         "offsides": 1,
         "saves": 5
       },
