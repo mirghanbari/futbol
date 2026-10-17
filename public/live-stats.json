@@ -3,29 +3,29 @@
     "560603": {
       "home": {
         "possession": 44,
-        "xg": 0.32,
-        "shots": 4,
-        "shotsOnTarget": 4,
-        "accuratePasses": 247,
-        "duelsWon": 31,
-        "boxTouches": 14,
-        "fouls": 7,
+        "xg": 0.42,
+        "shots": 6,
+        "shotsOnTarget": 6,
+        "accuratePasses": 261,
+        "duelsWon": 33,
+        "boxTouches": 17,
+        "fouls": 8,
         "corners": 4,
         "offsides": 3,
-        "saves": 2
+        "saves": 4
       },
       "away": {
         "possession": 56,
-        "xg": 1.18,
-        "shots": 13,
-        "shotsOnTarget": 4,
-        "accuratePasses": 336,
-        "duelsWon": 40,
-        "boxTouches": 16,
+        "xg": 1.33,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 351,
+        "duelsWon": 42,
+        "boxTouches": 20,
         "fouls": 12,
         "corners": 7,
         "offsides": 1,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -69,6 +69,12 @@
           "type": "yellow-card",
           "teamId": "61",
           "playerName": "Cole Palmer"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "62",
+          "playerName": "Christian Nørgaard"
         }
       ]
     }
@@ -76,29 +82,29 @@
   "ELC": {
     "561884": {
       "home": {
-        "possession": 69,
-        "xg": 1.57,
-        "shots": 14,
+        "possession": 70,
+        "xg": 1.64,
+        "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 274,
-        "duelsWon": 48,
-        "boxTouches": 27,
-        "fouls": 11,
+        "accuratePasses": 294,
+        "duelsWon": 54,
+        "boxTouches": 28,
+        "fouls": 13,
         "corners": 12,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 31,
+        "possession": 30,
         "xg": 0.73,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 92,
-        "duelsWon": 44,
-        "boxTouches": 16,
-        "fouls": 8,
+        "accuratePasses": 94,
+        "duelsWon": 46,
+        "boxTouches": 18,
+        "fouls": 9,
         "corners": 2,
-        "offsides": 5,
+        "offsides": 6,
         "saves": 4
       },
       "events": [
@@ -168,35 +174,53 @@
           "type": "yellow-card",
           "teamId": "384",
           "playerName": "Zak Sturge"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "1126",
+          "playerName": "Callum Elder"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "384",
+          "playerName": "Ryan Leonard"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "yellow-card",
+          "teamId": "384",
+          "playerName": "Camiel Neghli"
         }
       ]
     },
     "561887": {
       "home": {
-        "possession": 55,
-        "xg": 2.51,
-        "shots": 30,
-        "shotsOnTarget": 11,
-        "accuratePasses": 380,
-        "duelsWon": 51,
+        "possession": 56,
+        "xg": 2.6,
+        "shots": 33,
+        "shotsOnTarget": 12,
+        "accuratePasses": 390,
+        "duelsWon": 55,
         "boxTouches": 48,
         "fouls": 9,
-        "corners": 8,
+        "corners": 10,
         "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 45,
+        "possession": 44,
         "xg": 0.85,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 306,
-        "duelsWon": 40,
+        "accuratePasses": 308,
+        "duelsWon": 42,
         "boxTouches": 13,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 4,
         "offsides": 4,
-        "saves": 7
+        "saves": 8
       },
       "events": [
         {
@@ -244,18 +268,24 @@
           "type": "red-card",
           "teamId": "715",
           "playerName": "Gabriel Osho"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "715",
+          "playerName": "Jack Moylan"
         }
       ]
     },
     "561889": {
       "home": {
         "possession": 50,
-        "xg": 2.3,
-        "shots": 20,
-        "shotsOnTarget": 9,
-        "accuratePasses": 258,
-        "duelsWon": 58,
-        "boxTouches": 16,
+        "xg": 2.32,
+        "shots": 22,
+        "shotsOnTarget": 10,
+        "accuratePasses": 272,
+        "duelsWon": 67,
+        "boxTouches": 17,
         "fouls": 10,
         "corners": 4,
         "offsides": 0,
@@ -263,13 +293,13 @@
       },
       "away": {
         "possession": 50,
-        "xg": 1.21,
-        "shots": 12,
+        "xg": 1.3,
+        "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 241,
-        "duelsWon": 50,
-        "boxTouches": 25,
-        "fouls": 19,
+        "accuratePasses": 256,
+        "duelsWon": 52,
+        "boxTouches": 26,
+        "fouls": 21,
         "corners": 3,
         "offsides": 1,
         "saves": 8
@@ -322,6 +352,19 @@
           "type": "yellow-card",
           "teamId": "346",
           "playerName": "Jordan Zemura"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "yellow-card",
+          "teamId": "348",
+          "playerName": "Alan Mwamba"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "goal",
+          "teamId": "346",
+          "playerName": "Jordan Zemura",
+          "assist": "Rocco Vata"
         }
       ]
     }
@@ -333,24 +376,24 @@
         "xg": 0.27,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 133,
-        "duelsWon": 20,
-        "boxTouches": 4,
+        "accuratePasses": 147,
+        "duelsWon": 23,
+        "boxTouches": 5,
         "fouls": 5,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
         "possession": 69,
         "xg": 0.66,
-        "shots": 10,
-        "shotsOnTarget": 2,
-        "accuratePasses": 371,
-        "duelsWon": 25,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 413,
+        "duelsWon": 28,
         "boxTouches": 18,
         "fouls": 6,
-        "corners": 8,
+        "corners": 9,
         "offsides": 0,
         "saves": 0
       },
@@ -373,12 +416,12 @@
   "SA": {
     "558575": {
       "home": {
-        "possession": 43,
-        "xg": 0.03,
-        "shots": 1,
+        "possession": 35,
+        "xg": 0.07,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 61,
-        "duelsWon": 4,
+        "accuratePasses": 82,
+        "duelsWon": 6,
         "boxTouches": 3,
         "fouls": 1,
         "corners": 0,
@@ -386,16 +429,16 @@
         "saves": 0
       },
       "away": {
-        "possession": 57,
+        "possession": 65,
         "xg": 0.07,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 77,
-        "duelsWon": 3,
+        "accuratePasses": 163,
+        "duelsWon": 4,
         "boxTouches": 1,
         "fouls": 1,
         "corners": 2,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       }
     }
