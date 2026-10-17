@@ -2217,27 +2217,27 @@
   "DED": {
     "558869": {
       "home": {
-        "possession": 41,
-        "xg": 0.68,
-        "shots": 11,
+        "possession": 44,
+        "xg": 0.72,
+        "shots": 12,
         "shotsOnTarget": 6,
-        "accuratePasses": 125,
-        "duelsWon": 11,
-        "boxTouches": 8,
+        "accuratePasses": 154,
+        "duelsWon": 12,
+        "boxTouches": 9,
         "fouls": 7,
         "corners": 2,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "away": {
-        "possession": 59,
-        "xg": 2.58,
-        "shots": 11,
-        "shotsOnTarget": 8,
-        "accuratePasses": 196,
-        "duelsWon": 21,
+        "possession": 56,
+        "xg": 2.6,
+        "shots": 12,
+        "shotsOnTarget": 9,
+        "accuratePasses": 208,
+        "duelsWon": 23,
         "boxTouches": 23,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 3,
         "offsides": 0,
         "saves": 4
@@ -2277,11 +2277,17 @@
           "assist": "Givairo Read"
         },
         {
-          "minute": "38'",
+          "minute": "37'",
           "type": "goal",
           "teamId": "1912",
           "playerName": "Patrick Brouwer",
           "assist": "Tyrone Owusu"
+        },
+        {
+          "minute": "41'",
+          "type": "yellow-card",
+          "teamId": "675",
+          "playerName": "Charles Vanhoutte"
         }
       ]
     },
