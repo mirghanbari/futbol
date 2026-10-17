@@ -155,26 +155,26 @@
     },
     "560607": {
       "home": {
-        "possession": 50,
-        "xg": 1.01,
-        "shots": 14,
+        "possession": 49,
+        "xg": 1.05,
+        "shots": 16,
         "shotsOnTarget": 1,
-        "accuratePasses": 321,
-        "duelsWon": 49,
-        "boxTouches": 36,
+        "accuratePasses": 331,
+        "duelsWon": 54,
+        "boxTouches": 37,
         "fouls": 14,
         "corners": 4,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 2
       },
       "away": {
-        "possession": 50,
-        "xg": 1.42,
-        "shots": 14,
+        "possession": 51,
+        "xg": 1.5,
+        "shots": 15,
         "shotsOnTarget": 3,
-        "accuratePasses": 327,
-        "duelsWon": 50,
-        "boxTouches": 22,
+        "accuratePasses": 345,
+        "duelsWon": 51,
+        "boxTouches": 27,
         "fouls": 11,
         "corners": 5,
         "offsides": 0,
@@ -1421,8 +1421,8 @@
         "xg": 0.97,
         "shots": 6,
         "shotsOnTarget": 5,
-        "accuratePasses": 218,
-        "duelsWon": 34,
+        "accuratePasses": 234,
+        "duelsWon": 37,
         "boxTouches": 9,
         "fouls": 10,
         "corners": 2,
@@ -1431,12 +1431,12 @@
       },
       "away": {
         "possession": 69,
-        "xg": 2.9,
-        "shots": 15,
+        "xg": 2.99,
+        "shots": 16,
         "shotsOnTarget": 10,
-        "accuratePasses": 570,
-        "duelsWon": 35,
-        "boxTouches": 27,
+        "accuratePasses": 634,
+        "duelsWon": 40,
+        "boxTouches": 29,
         "fouls": 10,
         "corners": 5,
         "offsides": 2,
@@ -1852,25 +1852,25 @@
     "565825": {
       "home": {
         "possession": 62,
-        "xg": 3.65,
-        "shots": 28,
+        "xg": 3.69,
+        "shots": 29,
         "shotsOnTarget": 17,
-        "accuratePasses": 576,
-        "duelsWon": 21,
-        "boxTouches": 46,
+        "accuratePasses": 601,
+        "duelsWon": 24,
+        "boxTouches": 48,
         "fouls": 15,
         "corners": 11,
         "offsides": 4,
-        "saves": 2
+        "saves": 3
       },
       "away": {
         "possession": 38,
-        "xg": 0.52,
-        "shots": 9,
-        "shotsOnTarget": 2,
-        "accuratePasses": 311,
-        "duelsWon": 44,
-        "boxTouches": 16,
+        "xg": 0.8,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 337,
+        "duelsWon": 49,
+        "boxTouches": 22,
         "fouls": 6,
         "corners": 3,
         "offsides": 2,
@@ -1924,6 +1924,13 @@
           "teamId": "5",
           "playerName": "Luis Díaz",
           "assist": "Michael Olise"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "goal",
+          "teamId": "721",
+          "playerName": "Andrija Maksimović",
+          "assist": "Brajan Gruda"
         }
       ]
     },
@@ -2207,30 +2214,30 @@
   "DED": {
     "558869": {
       "home": {
-        "possession": 35,
-        "xg": 0.12,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 47,
-        "duelsWon": 6,
-        "boxTouches": 1,
-        "fouls": 4,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 2
-      },
-      "away": {
-        "possession": 65,
-        "xg": 0.72,
-        "shots": 5,
+        "possession": 38,
+        "xg": 0.22,
+        "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 110,
-        "duelsWon": 11,
-        "boxTouches": 8,
-        "fouls": 1,
+        "accuratePasses": 64,
+        "duelsWon": 7,
+        "boxTouches": 3,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 4
+      },
+      "away": {
+        "possession": 62,
+        "xg": 1.65,
+        "shots": 9,
+        "shotsOnTarget": 6,
+        "accuratePasses": 123,
+        "duelsWon": 13,
+        "boxTouches": 13,
+        "fouls": 1,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 3
       },
       "events": [
         {
@@ -2238,6 +2245,13 @@
           "type": "goal",
           "teamId": "675",
           "playerName": "Gaoussou Diarra"
+        },
+        {
+          "minute": "21'",
+          "type": "goal",
+          "teamId": "675",
+          "playerName": "Nacho Ferri",
+          "method": "header"
         }
       ]
     },
