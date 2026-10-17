@@ -156,12 +156,12 @@
     "560607": {
       "home": {
         "possession": 49,
-        "xg": 1.05,
+        "xg": 1.06,
         "shots": 16,
         "shotsOnTarget": 1,
-        "accuratePasses": 331,
+        "accuratePasses": 333,
         "duelsWon": 54,
-        "boxTouches": 37,
+        "boxTouches": 39,
         "fouls": 14,
         "corners": 4,
         "offsides": 5,
@@ -172,8 +172,8 @@
         "xg": 1.5,
         "shots": 15,
         "shotsOnTarget": 3,
-        "accuratePasses": 345,
-        "duelsWon": 51,
+        "accuratePasses": 347,
+        "duelsWon": 53,
         "boxTouches": 27,
         "fouls": 11,
         "corners": 5,
@@ -185,13 +185,13 @@
           "minute": "18'",
           "type": "yellow-card",
           "teamId": "67",
-          "playerName": "Sven Botman"
+          "playerName": "Joelinton"
         },
         {
           "minute": "18'",
           "type": "yellow-card",
           "teamId": "67",
-          "playerName": "Joelinton"
+          "playerName": "Sven Botman"
         },
         {
           "minute": "25'",
@@ -237,7 +237,8 @@
           "teamId": "67",
           "playerName": "Malick Thiaw"
         }
-      ]
+      ],
+      "final": true
     },
     "560610": {
       "home": {
@@ -1421,9 +1422,9 @@
         "xg": 0.97,
         "shots": 6,
         "shotsOnTarget": 5,
-        "accuratePasses": 234,
-        "duelsWon": 37,
-        "boxTouches": 9,
+        "accuratePasses": 256,
+        "duelsWon": 38,
+        "boxTouches": 11,
         "fouls": 10,
         "corners": 2,
         "offsides": 1,
@@ -1431,13 +1432,13 @@
       },
       "away": {
         "possession": 69,
-        "xg": 2.99,
-        "shots": 16,
+        "xg": 3.05,
+        "shots": 17,
         "shotsOnTarget": 10,
-        "accuratePasses": 634,
-        "duelsWon": 40,
-        "boxTouches": 29,
-        "fouls": 10,
+        "accuratePasses": 679,
+        "duelsWon": 41,
+        "boxTouches": 31,
+        "fouls": 11,
         "corners": 5,
         "offsides": 2,
         "saves": 3
@@ -1852,7 +1853,7 @@
     "565825": {
       "home": {
         "possession": 62,
-        "xg": 3.69,
+        "xg": 3.76,
         "shots": 29,
         "shotsOnTarget": 17,
         "accuratePasses": 601,
@@ -1865,12 +1866,12 @@
       },
       "away": {
         "possession": 38,
-        "xg": 0.8,
+        "xg": 0.84,
         "shots": 12,
         "shotsOnTarget": 4,
         "accuratePasses": 337,
-        "duelsWon": 49,
-        "boxTouches": 22,
+        "duelsWon": 50,
+        "boxTouches": 23,
         "fouls": 6,
         "corners": 3,
         "offsides": 2,
@@ -1932,7 +1933,8 @@
           "playerName": "Andrija Maksimović",
           "assist": "Brajan Gruda"
         }
-      ]
+      ],
+      "final": true
     },
     "565829": {
       "home": {
@@ -2214,26 +2216,26 @@
   "DED": {
     "558869": {
       "home": {
-        "possession": 38,
-        "xg": 0.22,
-        "shots": 6,
+        "possession": 45,
+        "xg": 0.26,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 64,
+        "accuratePasses": 107,
         "duelsWon": 7,
-        "boxTouches": 3,
-        "fouls": 4,
+        "boxTouches": 5,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 62,
-        "xg": 1.65,
+        "possession": 55,
+        "xg": 1.75,
         "shots": 9,
         "shotsOnTarget": 6,
-        "accuratePasses": 123,
-        "duelsWon": 13,
-        "boxTouches": 13,
+        "accuratePasses": 142,
+        "duelsWon": 17,
+        "boxTouches": 17,
         "fouls": 1,
         "corners": 2,
         "offsides": 0,
