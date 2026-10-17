@@ -155,29 +155,29 @@
     },
     "560610": {
       "home": {
-        "possession": 71,
-        "xg": 3.43,
+        "possession": 70,
+        "xg": 3.53,
         "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 658,
-        "duelsWon": 44,
+        "accuratePasses": 670,
+        "duelsWon": 46,
         "boxTouches": 40,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 2,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 29,
+        "possession": 30,
         "xg": 1.66,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 237,
-        "duelsWon": 47,
-        "boxTouches": 13,
+        "accuratePasses": 250,
+        "duelsWon": 51,
+        "boxTouches": 14,
         "fouls": 15,
-        "corners": 2,
-        "offsides": 4,
+        "corners": 3,
+        "offsides": 5,
         "saves": 4
       },
       "events": [
@@ -222,30 +222,42 @@
           "teamId": "349",
           "playerName": "Zian Flemming",
           "penalty": true
+        },
+        {
+          "minute": "90'+7'",
+          "type": "yellow-card",
+          "teamId": "65",
+          "playerName": "Joško Gvardiol"
+        },
+        {
+          "minute": "90'+12'",
+          "type": "yellow-card",
+          "teamId": "349",
+          "playerName": "Leif Davis"
         }
       ]
     },
     "560611": {
       "home": {
-        "possession": 38,
+        "possession": 40,
         "xg": 0.85,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 209,
-        "duelsWon": 43,
+        "accuratePasses": 233,
+        "duelsWon": 45,
         "boxTouches": 24,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 3,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 62,
-        "xg": 1.39,
-        "shots": 19,
-        "shotsOnTarget": 4,
-        "accuratePasses": 391,
-        "duelsWon": 50,
+        "possession": 60,
+        "xg": 1.46,
+        "shots": 21,
+        "shotsOnTarget": 5,
+        "accuratePasses": 399,
+        "duelsWon": 54,
         "boxTouches": 36,
         "fouls": 13,
         "corners": 9,
@@ -316,6 +328,12 @@
           "teamId": "64",
           "playerName": "Alexander Isak",
           "assist": "Bradley Barcola"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "red-card",
+          "teamId": "402",
+          "playerName": "Vitaly Janelt"
         }
       ]
     }
@@ -574,28 +592,28 @@
     },
     "561885": {
       "home": {
-        "possession": 52,
+        "possession": 53,
         "xg": 0.5,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 266,
-        "duelsWon": 60,
+        "accuratePasses": 267,
+        "duelsWon": 64,
         "boxTouches": 19,
-        "fouls": 15,
-        "corners": 2,
+        "fouls": 16,
+        "corners": 3,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 48,
+        "possession": 47,
         "xg": 1.16,
-        "shots": 15,
+        "shots": 16,
         "shotsOnTarget": 2,
-        "accuratePasses": 225,
-        "duelsWon": 60,
+        "accuratePasses": 229,
+        "duelsWon": 63,
         "boxTouches": 25,
-        "fouls": 9,
-        "corners": 4,
+        "fouls": 10,
+        "corners": 5,
         "offsides": 2,
         "saves": 1
       },
@@ -611,8 +629,15 @@
           "type": "yellow-card",
           "teamId": "387",
           "playerName": "Brian De Keersmaecker"
+        },
+        {
+          "minute": "90'+10'",
+          "type": "yellow-card",
+          "teamId": "356",
+          "playerName": "Patrick Bamford"
         }
-      ]
+      ],
+      "final": true
     },
     "561886": {
       "home": {
@@ -962,11 +987,11 @@
     "561891": {
       "home": {
         "possession": 64,
-        "xg": 3.44,
-        "shots": 24,
+        "xg": 3.68,
+        "shots": 25,
         "shotsOnTarget": 4,
-        "accuratePasses": 458,
-        "duelsWon": 78,
+        "accuratePasses": 457,
+        "duelsWon": 79,
         "boxTouches": 36,
         "fouls": 9,
         "corners": 8,
@@ -978,8 +1003,8 @@
         "xg": 0.82,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 216,
-        "duelsWon": 62,
+        "accuratePasses": 215,
+        "duelsWon": 61,
         "boxTouches": 13,
         "fouls": 16,
         "corners": 4,
@@ -1050,7 +1075,8 @@
           "playerName": "Felix Horn Myhre",
           "assist": "Aune Selland Heggebø"
         }
-      ]
+      ],
+      "final": true
     },
     "561892": {
       "home": {
@@ -1156,28 +1182,28 @@
   "PD": {
     "564708": {
       "home": {
-        "possession": 58,
-        "xg": 2.1,
-        "shots": 18,
+        "possession": 56,
+        "xg": 2.14,
+        "shots": 19,
         "shotsOnTarget": 7,
-        "accuratePasses": 399,
-        "duelsWon": 32,
+        "accuratePasses": 409,
+        "duelsWon": 34,
         "boxTouches": 45,
-        "fouls": 10,
+        "fouls": 12,
         "corners": 10,
         "offsides": 5,
         "saves": 1
       },
       "away": {
-        "possession": 42,
+        "possession": 44,
         "xg": 0.18,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 276,
-        "duelsWon": 31,
-        "boxTouches": 8,
+        "accuratePasses": 301,
+        "duelsWon": 34,
+        "boxTouches": 10,
         "fouls": 6,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 6
       },
@@ -1657,6 +1683,30 @@
     }
   },
   "SA": {
+    "558571": {
+      "home": {
+        "possession": 100,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 1,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 0,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "558575": {
       "home": {
         "possession": 29,
@@ -1711,30 +1761,30 @@
   "FL1": {
     "559662": {
       "home": {
-        "possession": 23,
-        "xg": 0.4,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 76,
-        "duelsWon": 13,
-        "boxTouches": 8,
+        "possession": 25,
+        "xg": 0.42,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 104,
+        "duelsWon": 16,
+        "boxTouches": 11,
         "fouls": 4,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 77,
+        "possession": 75,
         "xg": 0.88,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 316,
-        "duelsWon": 20,
-        "boxTouches": 18,
+        "accuratePasses": 365,
+        "duelsWon": 23,
+        "boxTouches": 19,
         "fouls": 2,
         "corners": 3,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -1750,25 +1800,25 @@
   "DED": {
     "558871": {
       "home": {
-        "possession": 46,
-        "xg": 0.57,
-        "shots": 6,
+        "possession": 48,
+        "xg": 0.65,
+        "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 265,
-        "duelsWon": 21,
-        "boxTouches": 12,
-        "fouls": 16,
+        "accuratePasses": 291,
+        "duelsWon": 26,
+        "boxTouches": 15,
+        "fouls": 17,
         "corners": 3,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 54,
+        "possession": 52,
         "xg": 0.72,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 328,
-        "duelsWon": 41,
+        "accuratePasses": 335,
+        "duelsWon": 44,
         "boxTouches": 21,
         "fouls": 6,
         "corners": 0,
@@ -1807,6 +1857,12 @@
           "teamId": "680",
           "playerName": "Juho Kilo",
           "assist": "Yannick Eduardo"
+        },
+        {
+          "minute": "69'",
+          "type": "yellow-card",
+          "teamId": "680",
+          "playerName": "Othniël Raterink"
         }
       ]
     }
