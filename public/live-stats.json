@@ -1419,13 +1419,13 @@
     "564711": {
       "home": {
         "possession": 38,
-        "xg": 1.29,
-        "shots": 14,
-        "shotsOnTarget": 2,
-        "accuratePasses": 218,
-        "duelsWon": 40,
-        "boxTouches": 16,
-        "fouls": 10,
+        "xg": 1.42,
+        "shots": 15,
+        "shotsOnTarget": 3,
+        "accuratePasses": 244,
+        "duelsWon": 45,
+        "boxTouches": 17,
+        "fouls": 12,
         "corners": 2,
         "offsides": 2,
         "saves": 1
@@ -1435,10 +1435,10 @@
         "xg": 0.59,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 376,
-        "duelsWon": 35,
-        "boxTouches": 25,
-        "fouls": 11,
+        "accuratePasses": 425,
+        "duelsWon": 38,
+        "boxTouches": 27,
+        "fouls": 12,
         "corners": 4,
         "offsides": 1,
         "saves": 3
@@ -2147,24 +2147,24 @@
     },
     "558572": {
       "home": {
-        "possession": 65,
-        "xg": 1.29,
-        "shots": 14,
+        "possession": 66,
+        "xg": 1.4,
+        "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 485,
-        "duelsWon": 49,
-        "boxTouches": 26,
+        "accuratePasses": 500,
+        "duelsWon": 51,
+        "boxTouches": 27,
         "fouls": 10,
-        "corners": 4,
+        "corners": 5,
         "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 35,
+        "possession": 34,
         "xg": 0.47,
         "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 218,
+        "accuratePasses": 220,
         "duelsWon": 46,
         "boxTouches": 16,
         "fouls": 7,
@@ -2215,7 +2215,8 @@
           "teamId": "107",
           "playerName": "Mikael Egill Ellertsson"
         }
-      ]
+      ],
+      "final": true
     },
     "558575": {
       "home": {
@@ -2275,21 +2276,21 @@
         "xg": 0.88,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 277,
-        "duelsWon": 28,
-        "boxTouches": 25,
-        "fouls": 11,
+        "accuratePasses": 300,
+        "duelsWon": 30,
+        "boxTouches": 29,
+        "fouls": 13,
         "corners": 6,
         "offsides": 0,
         "saves": 1
       },
       "away": {
         "possession": 59,
-        "xg": 1.53,
-        "shots": 12,
+        "xg": 1.54,
+        "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 422,
-        "duelsWon": 33,
+        "accuratePasses": 449,
+        "duelsWon": 36,
         "boxTouches": 19,
         "fouls": 11,
         "corners": 4,
@@ -2354,25 +2355,25 @@
     },
     "559660": {
       "home": {
-        "possession": 68,
-        "xg": 1.49,
-        "shots": 14,
-        "shotsOnTarget": 5,
-        "accuratePasses": 575,
-        "duelsWon": 60,
-        "boxTouches": 42,
-        "fouls": 11,
+        "possession": 67,
+        "xg": 1.79,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 588,
+        "duelsWon": 62,
+        "boxTouches": 44,
+        "fouls": 12,
         "corners": 5,
         "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 32,
+        "possession": 33,
         "xg": 0.76,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 242,
-        "duelsWon": 44,
+        "accuratePasses": 249,
+        "duelsWon": 45,
         "boxTouches": 12,
         "fouls": 20,
         "corners": 2,
@@ -2407,12 +2408,13 @@
           "penalty": true
         },
         {
-          "minute": "90'+1'",
+          "minute": "90'",
           "type": "yellow-card",
           "teamId": "521",
           "playerName": "Calvin Verdonk"
         }
-      ]
+      ],
+      "final": true
     },
     "559662": {
       "home": {
@@ -2489,14 +2491,14 @@
     "558868": {
       "home": {
         "possession": 50,
-        "xg": 2.97,
-        "shots": 17,
-        "shotsOnTarget": 7,
-        "accuratePasses": 280,
-        "duelsWon": 40,
-        "boxTouches": 30,
-        "fouls": 7,
-        "corners": 2,
+        "xg": 3.19,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 287,
+        "duelsWon": 45,
+        "boxTouches": 32,
+        "fouls": 8,
+        "corners": 3,
         "offsides": 0,
         "saves": 2
       },
@@ -2505,13 +2507,13 @@
         "xg": 1.15,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 259,
-        "duelsWon": 40,
+        "accuratePasses": 274,
+        "duelsWon": 44,
         "boxTouches": 9,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 4,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -2570,6 +2572,12 @@
           "type": "yellow-card",
           "teamId": "672",
           "playerName": "Thomas Verheijdt"
+        },
+        {
+          "minute": "79'",
+          "type": "yellow-card",
+          "teamId": "6806",
+          "playerName": "Alwande Roaldsøy"
         }
       ]
     },
