@@ -1419,11 +1419,11 @@
     "564711": {
       "home": {
         "possession": 37,
-        "xg": 0.59,
+        "xg": 0.41,
         "shots": 7,
         "shotsOnTarget": 0,
-        "accuratePasses": 134,
-        "duelsWon": 23,
+        "accuratePasses": 145,
+        "duelsWon": 27,
         "boxTouches": 7,
         "fouls": 6,
         "corners": 2,
@@ -1432,13 +1432,13 @@
       },
       "away": {
         "possession": 63,
-        "xg": 0.41,
+        "xg": 0.46,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 247,
-        "duelsWon": 25,
-        "boxTouches": 14,
-        "fouls": 7,
+        "accuratePasses": 264,
+        "duelsWon": 26,
+        "boxTouches": 17,
+        "fouls": 9,
         "corners": 3,
         "offsides": 0,
         "saves": 0
@@ -2141,12 +2141,12 @@
     },
     "558572": {
       "home": {
-        "possession": 66,
+        "possession": 65,
         "xg": 0.68,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 333,
-        "duelsWon": 36,
+        "accuratePasses": 350,
+        "duelsWon": 38,
         "boxTouches": 18,
         "fouls": 6,
         "corners": 3,
@@ -2154,15 +2154,15 @@
         "saves": 0
       },
       "away": {
-        "possession": 34,
-        "xg": 0.37,
+        "possession": 35,
+        "xg": 0.41,
         "shots": 7,
         "shotsOnTarget": 0,
-        "accuratePasses": 145,
-        "duelsWon": 32,
+        "accuratePasses": 162,
+        "duelsWon": 33,
         "boxTouches": 13,
-        "fouls": 4,
-        "corners": 2,
+        "fouls": 6,
+        "corners": 3,
         "offsides": 1,
         "saves": 3
       },
@@ -2245,10 +2245,10 @@
         "xg": 0.86,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 171,
+        "accuratePasses": 186,
         "duelsWon": 20,
-        "boxTouches": 16,
-        "fouls": 4,
+        "boxTouches": 18,
+        "fouls": 6,
         "corners": 6,
         "offsides": 0,
         "saves": 0
@@ -2258,12 +2258,12 @@
         "xg": 1.4,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 317,
-        "duelsWon": 19,
+        "accuratePasses": 341,
+        "duelsWon": 23,
         "boxTouches": 16,
         "fouls": 7,
         "corners": 4,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 4
       },
       "events": [
@@ -2300,27 +2300,27 @@
     },
     "559660": {
       "home": {
-        "possession": 71,
-        "xg": 0.48,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 437,
-        "duelsWon": 36,
-        "boxTouches": 25,
-        "fouls": 6,
+        "possession": 70,
+        "xg": 1.32,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 454,
+        "duelsWon": 41,
+        "boxTouches": 29,
+        "fouls": 7,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 29,
+        "possession": 30,
         "xg": 0.26,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 151,
-        "duelsWon": 28,
-        "boxTouches": 8,
-        "fouls": 12,
+        "accuratePasses": 163,
+        "duelsWon": 33,
+        "boxTouches": 9,
+        "fouls": 14,
         "corners": 2,
         "offsides": 0,
         "saves": 2
@@ -2344,6 +2344,13 @@
           "type": "yellow-card",
           "teamId": "512",
           "playerName": "Bradley Locko"
+        },
+        {
+          "minute": "64'",
+          "type": "goal",
+          "teamId": "521",
+          "playerName": "Olivier Giroud",
+          "penalty": true
         }
       ]
     },
@@ -2421,30 +2428,30 @@
   "DED": {
     "558868": {
       "home": {
-        "possession": 50,
-        "xg": 1.58,
-        "shots": 10,
-        "shotsOnTarget": 4,
-        "accuratePasses": 186,
-        "duelsWon": 24,
-        "boxTouches": 15,
+        "possession": 51,
+        "xg": 1.62,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 210,
+        "duelsWon": 30,
+        "boxTouches": 20,
         "fouls": 3,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 50,
-        "xg": 0.86,
+        "possession": 49,
+        "xg": 0.83,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 179,
-        "duelsWon": 24,
+        "accuratePasses": 190,
+        "duelsWon": 27,
         "boxTouches": 4,
         "fouls": 3,
         "corners": 2,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -2464,6 +2471,12 @@
           "type": "yellow-card",
           "teamId": "672",
           "playerName": "Finn Stam"
+        },
+        {
+          "minute": "50'",
+          "type": "goal",
+          "teamId": "6806",
+          "playerName": "<TBD>"
         }
       ]
     },
