@@ -155,28 +155,28 @@
     },
     "560607": {
       "home": {
-        "possession": 48,
+        "possession": 45,
         "xg": 0.21,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 121,
-        "duelsWon": 27,
-        "boxTouches": 11,
+        "accuratePasses": 135,
+        "duelsWon": 29,
+        "boxTouches": 13,
         "fouls": 6,
         "corners": 2,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 52,
-        "xg": 0.68,
+        "possession": 55,
+        "xg": 0.87,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 136,
-        "duelsWon": 17,
-        "boxTouches": 7,
-        "fouls": 8,
-        "corners": 1,
+        "accuratePasses": 171,
+        "duelsWon": 18,
+        "boxTouches": 9,
+        "fouls": 9,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
@@ -1393,30 +1393,30 @@
     },
     "564713": {
       "home": {
-        "possession": 24,
-        "xg": 0.26,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 75,
-        "duelsWon": 12,
-        "boxTouches": 4,
-        "fouls": 5,
+        "possession": 25,
+        "xg": 0.57,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 91,
+        "duelsWon": 15,
+        "boxTouches": 7,
+        "fouls": 7,
         "corners": 1,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 76,
-        "xg": 0.13,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 299,
-        "duelsWon": 21,
-        "boxTouches": 7,
+        "possession": 75,
+        "xg": 0.35,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 331,
+        "duelsWon": 25,
+        "boxTouches": 13,
         "fouls": 3,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -1445,6 +1445,14 @@
           "playerName": "Valentín Gómez",
           "method": "header",
           "assist": "Pablo Fornals"
+        },
+        {
+          "minute": "41'",
+          "type": "goal",
+          "teamId": "81",
+          "playerName": "Rodri",
+          "method": "header",
+          "assist": "Fermín López"
         }
       ]
     }
@@ -1768,14 +1776,14 @@
     "565825": {
       "home": {
         "possession": 67,
-        "xg": 1.42,
-        "shots": 14,
-        "shotsOnTarget": 8,
-        "accuratePasses": 251,
+        "xg": 1.51,
+        "shots": 15,
+        "shotsOnTarget": 9,
+        "accuratePasses": 285,
         "duelsWon": 9,
-        "boxTouches": 23,
-        "fouls": 7,
-        "corners": 3,
+        "boxTouches": 26,
+        "fouls": 8,
+        "corners": 5,
         "offsides": 1,
         "saves": 0
       },
@@ -1784,13 +1792,13 @@
         "xg": 0.25,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 104,
-        "duelsWon": 22,
+        "accuratePasses": 119,
+        "duelsWon": 24,
         "boxTouches": 6,
         "fouls": 4,
         "corners": 1,
         "offsides": 0,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -1870,27 +1878,27 @@
   "SA": {
     "558571": {
       "home": {
-        "possession": 32,
+        "possession": 34,
         "xg": 0.85,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 140,
-        "duelsWon": 12,
+        "accuratePasses": 168,
+        "duelsWon": 14,
         "boxTouches": 15,
         "fouls": 5,
         "corners": 2,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 68,
+        "possession": 66,
         "xg": 0.9,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 353,
-        "duelsWon": 16,
-        "boxTouches": 11,
-        "fouls": 5,
+        "accuratePasses": 388,
+        "duelsWon": 17,
+        "boxTouches": 13,
+        "fouls": 6,
         "corners": 2,
         "offsides": 0,
         "saves": 2
