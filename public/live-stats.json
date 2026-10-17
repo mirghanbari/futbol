@@ -156,26 +156,26 @@
     "560607": {
       "home": {
         "possession": 50,
-        "xg": 0.85,
-        "shots": 13,
+        "xg": 1.01,
+        "shots": 14,
         "shotsOnTarget": 1,
-        "accuratePasses": 294,
-        "duelsWon": 46,
-        "boxTouches": 32,
-        "fouls": 13,
+        "accuratePasses": 321,
+        "duelsWon": 49,
+        "boxTouches": 36,
+        "fouls": 14,
         "corners": 4,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 2
       },
       "away": {
         "possession": 50,
-        "xg": 1.21,
-        "shots": 12,
+        "xg": 1.42,
+        "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 302,
-        "duelsWon": 44,
-        "boxTouches": 17,
-        "fouls": 10,
+        "accuratePasses": 327,
+        "duelsWon": 50,
+        "boxTouches": 22,
+        "fouls": 11,
         "corners": 5,
         "offsides": 0,
         "saves": 1
@@ -230,6 +230,12 @@
           "type": "yellow-card",
           "teamId": "67",
           "playerName": "William Osula"
+        },
+        {
+          "minute": "86'",
+          "type": "yellow-card",
+          "teamId": "67",
+          "playerName": "Malick Thiaw"
         }
       ]
     },
@@ -1411,28 +1417,28 @@
     },
     "564713": {
       "home": {
-        "possession": 30,
-        "xg": 0.94,
-        "shots": 5,
+        "possession": 31,
+        "xg": 0.97,
+        "shots": 6,
         "shotsOnTarget": 5,
-        "accuratePasses": 193,
-        "duelsWon": 33,
+        "accuratePasses": 218,
+        "duelsWon": 34,
         "boxTouches": 9,
         "fouls": 10,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
-        "saves": 3
+        "saves": 5
       },
       "away": {
-        "possession": 70,
-        "xg": 2.36,
-        "shots": 11,
-        "shotsOnTarget": 7,
-        "accuratePasses": 545,
+        "possession": 69,
+        "xg": 2.9,
+        "shots": 15,
+        "shotsOnTarget": 10,
+        "accuratePasses": 570,
         "duelsWon": 35,
-        "boxTouches": 23,
-        "fouls": 9,
-        "corners": 3,
+        "boxTouches": 27,
+        "fouls": 10,
+        "corners": 5,
         "offsides": 2,
         "saves": 3
       },
@@ -1515,6 +1521,13 @@
           "type": "goal",
           "teamId": "81",
           "playerName": "Eric García",
+          "assist": "Pau Cubarsí"
+        },
+        {
+          "minute": "81'",
+          "type": "goal",
+          "teamId": "81",
+          "playerName": "Dani Olmo",
           "assist": "Pau Cubarsí"
         }
       ]
@@ -1838,26 +1851,26 @@
     },
     "565825": {
       "home": {
-        "possession": 63,
+        "possession": 62,
         "xg": 3.65,
-        "shots": 27,
+        "shots": 28,
         "shotsOnTarget": 17,
-        "accuratePasses": 521,
-        "duelsWon": 19,
-        "boxTouches": 45,
+        "accuratePasses": 576,
+        "duelsWon": 21,
+        "boxTouches": 46,
         "fouls": 15,
-        "corners": 10,
+        "corners": 11,
         "offsides": 4,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 37,
-        "xg": 0.35,
-        "shots": 7,
+        "possession": 38,
+        "xg": 0.52,
+        "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 269,
-        "duelsWon": 41,
-        "boxTouches": 13,
+        "accuratePasses": 311,
+        "duelsWon": 44,
+        "boxTouches": 16,
         "fouls": 6,
         "corners": 3,
         "offsides": 2,
@@ -2195,27 +2208,27 @@
     "558869": {
       "home": {
         "possession": 35,
-        "xg": 0.1,
+        "xg": 0.12,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 34,
-        "duelsWon": 3,
+        "accuratePasses": 47,
+        "duelsWon": 6,
         "boxTouches": 1,
         "fouls": 4,
         "corners": 0,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
         "possession": 65,
-        "xg": 0.71,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 76,
-        "duelsWon": 10,
-        "boxTouches": 5,
-        "fouls": 0,
-        "corners": 0,
+        "xg": 0.72,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 110,
+        "duelsWon": 11,
+        "boxTouches": 8,
+        "fouls": 1,
+        "corners": 1,
         "offsides": 0,
         "saves": 1
       },
