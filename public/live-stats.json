@@ -157,10 +157,10 @@
       "home": {
         "possession": 70,
         "xg": 3.53,
-        "shots": 18,
+        "shots": 19,
         "shotsOnTarget": 6,
-        "accuratePasses": 670,
-        "duelsWon": 46,
+        "accuratePasses": 673,
+        "duelsWon": 48,
         "boxTouches": 40,
         "fouls": 8,
         "corners": 2,
@@ -172,10 +172,10 @@
         "xg": 1.66,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 250,
-        "duelsWon": 51,
-        "boxTouches": 14,
-        "fouls": 15,
+        "accuratePasses": 253,
+        "duelsWon": 52,
+        "boxTouches": 15,
+        "fouls": 16,
         "corners": 3,
         "offsides": 5,
         "saves": 4
@@ -235,7 +235,8 @@
           "teamId": "349",
           "playerName": "Leif Davis"
         }
-      ]
+      ],
+      "final": true
     },
     "560611": {
       "home": {
@@ -243,22 +244,22 @@
         "xg": 0.85,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 233,
-        "duelsWon": 45,
-        "boxTouches": 24,
+        "accuratePasses": 244,
+        "duelsWon": 48,
+        "boxTouches": 25,
         "fouls": 7,
         "corners": 3,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "away": {
         "possession": 60,
-        "xg": 1.46,
+        "xg": 1.51,
         "shots": 21,
         "shotsOnTarget": 5,
-        "accuratePasses": 399,
-        "duelsWon": 54,
-        "boxTouches": 36,
+        "accuratePasses": 412,
+        "duelsWon": 57,
+        "boxTouches": 39,
         "fouls": 13,
         "corners": 9,
         "offsides": 2,
@@ -335,7 +336,8 @@
           "teamId": "402",
           "playerName": "Vitaly Janelt"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "ELC": {
@@ -1186,24 +1188,24 @@
         "xg": 2.14,
         "shots": 19,
         "shotsOnTarget": 7,
-        "accuratePasses": 409,
-        "duelsWon": 34,
+        "accuratePasses": 419,
+        "duelsWon": 35,
         "boxTouches": 45,
         "fouls": 12,
         "corners": 10,
-        "offsides": 5,
+        "offsides": 6,
         "saves": 1
       },
       "away": {
         "possession": 44,
-        "xg": 0.18,
-        "shots": 5,
+        "xg": 0.25,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 301,
-        "duelsWon": 34,
-        "boxTouches": 10,
-        "fouls": 6,
-        "corners": 3,
+        "accuratePasses": 309,
+        "duelsWon": 36,
+        "boxTouches": 11,
+        "fouls": 7,
+        "corners": 6,
         "offsides": 0,
         "saves": 6
       },
@@ -1231,6 +1233,18 @@
           "type": "yellow-card",
           "teamId": "94",
           "playerName": "Alex Freeman"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "285",
+          "playerName": "Víctor Chust"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "94",
+          "playerName": "Juan Foyth"
         }
       ]
     },
@@ -1685,23 +1699,26 @@
   "SA": {
     "558571": {
       "home": {
-        "possession": 100,
+        "possession": 24,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 1,
-        "duelsWon": 0,
+        "accuratePasses": 13,
+        "duelsWon": 1,
+        "boxTouches": 1,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 0,
+        "possession": 76,
+        "xg": 0.11,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 0,
-        "duelsWon": 0,
-        "fouls": 0,
+        "accuratePasses": 59,
+        "duelsWon": 1,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -1800,29 +1817,29 @@
   "DED": {
     "558871": {
       "home": {
-        "possession": 48,
-        "xg": 0.65,
+        "possession": 49,
+        "xg": 0.71,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 291,
-        "duelsWon": 26,
+        "accuratePasses": 314,
+        "duelsWon": 30,
         "boxTouches": 15,
-        "fouls": 17,
+        "fouls": 18,
         "corners": 3,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 52,
-        "xg": 0.72,
-        "shots": 8,
+        "possession": 51,
+        "xg": 0.79,
+        "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 335,
-        "duelsWon": 44,
+        "accuratePasses": 341,
+        "duelsWon": 45,
         "boxTouches": 21,
-        "fouls": 6,
-        "corners": 0,
-        "offsides": 3,
+        "fouls": 7,
+        "corners": 1,
+        "offsides": 4,
         "saves": 3
       },
       "events": [
@@ -1863,6 +1880,12 @@
           "type": "yellow-card",
           "teamId": "680",
           "playerName": "Othniël Raterink"
+        },
+        {
+          "minute": "73'",
+          "type": "yellow-card",
+          "teamId": "680",
+          "playerName": "Pascal Mulder"
         }
       ]
     }
