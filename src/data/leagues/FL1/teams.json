@@ -1,5 +1,13 @@
 [
   {
+    "id": "524",
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "548",
     "name": "AS Monaco FC",
     "shortName": "Monaco",
@@ -32,6 +40,14 @@
     "competitionId": "FL1"
   },
   {
+    "id": "512",
+    "name": "Stade Brestois 29",
+    "shortName": "Brest",
+    "tla": "BRE",
+    "crest": "https://crests.football-data.org/512.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "1045",
     "name": "Paris FC",
     "shortName": "Paris FC",
@@ -40,19 +56,11 @@
     "competitionId": "FL1"
   },
   {
-    "id": "524",
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png",
-    "competitionId": "FL1"
-  },
-  {
-    "id": "576",
-    "name": "RC Strasbourg Alsace",
-    "shortName": "Strasbourg",
-    "tla": "RC ",
-    "crest": "https://crests.football-data.org/576.png",
+    "id": "546",
+    "name": "Racing Club de Lens",
+    "shortName": "RC Lens",
+    "tla": "RCL",
+    "crest": "https://crests.football-data.org/546.png",
     "competitionId": "FL1"
   },
   {
@@ -61,14 +69,6 @@
     "shortName": "Toulouse",
     "tla": "TOU",
     "crest": "https://crests.football-data.org/511.png",
-    "competitionId": "FL1"
-  },
-  {
-    "id": "512",
-    "name": "Stade Brestois 29",
-    "shortName": "Brest",
-    "tla": "BRE",
-    "crest": "https://crests.football-data.org/512.png",
     "competitionId": "FL1"
   },
   {
@@ -88,11 +88,11 @@
     "competitionId": "FL1"
   },
   {
-    "id": "546",
-    "name": "Racing Club de Lens",
-    "shortName": "RC Lens",
-    "tla": "RCL",
-    "crest": "https://crests.football-data.org/546.png",
+    "id": "576",
+    "name": "RC Strasbourg Alsace",
+    "shortName": "Strasbourg",
+    "tla": "RC ",
+    "crest": "https://crests.football-data.org/576.png",
     "competitionId": "FL1"
   },
   {

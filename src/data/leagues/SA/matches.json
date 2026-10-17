@@ -3270,14 +3270,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-17T16:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "103",
     "awayTeamId": "108",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 35,
+        "xg": 0.9,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 301,
+        "duelsWon": 30,
+        "boxTouches": 19,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 5
+      },
+      "away": {
+        "possession": 65,
+        "xg": 3.35,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 624,
+        "duelsWon": 32,
+        "boxTouches": 29,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Renato Dall'Ara, Bologna",
     "broadcasts": [
@@ -3294,7 +3322,7 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-17T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "100",
     "awayTeamId": "107",
     "homeTeam": {

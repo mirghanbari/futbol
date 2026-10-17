@@ -1,5 +1,13 @@
 [
   {
+    "id": "5",
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/5.png",
+    "competitionId": "BL1"
+  },
+  {
     "id": "4",
     "name": "Borussia Dortmund",
     "shortName": "Dortmund",
@@ -13,22 +21,6 @@
     "shortName": "Freiburg",
     "tla": "SCF",
     "crest": "https://crests.football-data.org/17.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "5",
-    "name": "FC Bayern München",
-    "shortName": "Bayern",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/5.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "721",
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL",
-    "crest": "https://crests.football-data.org/721.png",
     "competitionId": "BL1"
   },
   {
@@ -53,6 +45,14 @@
     "shortName": "Elversberg",
     "tla": "ELV",
     "crest": "https://crests.football-data.org/719.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "721",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
     "competitionId": "BL1"
   },
   {

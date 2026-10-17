@@ -2602,14 +2602,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-17T15:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "576",
     "awayTeamId": "524",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 27,
+        "xg": 0.97,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 194,
+        "duelsWon": 37,
+        "boxTouches": 21,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 73,
+        "xg": 2.61,
+        "shots": 18,
+        "shotsOnTarget": 7,
+        "accuratePasses": 615,
+        "duelsWon": 42,
+        "boxTouches": 43,
+        "fouls": 6,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 7
+      }
     },
     "venue": "Stade de la Meinau, Strasbourg",
     "broadcasts": [
@@ -2626,14 +2654,14 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-17T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "531",
     "awayTeamId": "546",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stade de l'Aube, Paris"
   },
@@ -2644,14 +2672,14 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-17T18:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "521",
     "awayTeamId": "512",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
     "broadcasts": [

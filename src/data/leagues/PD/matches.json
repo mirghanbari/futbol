@@ -4459,14 +4459,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-17T16:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "90",
     "awayTeamId": "81",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 31,
+        "xg": 0.98,
+        "shots": 6,
+        "shotsOnTarget": 5,
+        "accuratePasses": 256,
+        "duelsWon": 38,
+        "boxTouches": 11,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 69,
+        "xg": 3.04,
+        "shots": 18,
+        "shotsOnTarget": 10,
+        "accuratePasses": 693,
+        "duelsWon": 41,
+        "boxTouches": 31,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Estadio La Cartuja, Sevilla",
     "broadcasts": [
