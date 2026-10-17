@@ -1720,6 +1720,10 @@
     "venue": "Estádio do Dragão, Porto",
     "broadcasts": [
       {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
         "name": "Paramount+",
         "kind": "streaming"
       }

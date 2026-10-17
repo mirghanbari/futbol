@@ -6018,14 +6018,14 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-17T11:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "384",
     "awayTeamId": "1126",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "The Den, London"
   },
@@ -6036,14 +6036,14 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-17T11:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "343",
     "awayTeamId": "715",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Riverside Stadium, Middlesbrough",
     "broadcasts": [
@@ -6064,11 +6064,11 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-17T11:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "346",
     "awayTeamId": "348",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
