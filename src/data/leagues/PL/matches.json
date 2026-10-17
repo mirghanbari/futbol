@@ -3254,14 +3254,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-17T11:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "62",
     "awayTeamId": "61",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 0.45,
+        "shots": 6,
+        "shotsOnTarget": 5,
+        "accuratePasses": 323,
+        "duelsWon": 40,
+        "boxTouches": 18,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 4
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1.54,
+        "shots": 18,
+        "shotsOnTarget": 7,
+        "accuratePasses": 384,
+        "duelsWon": 47,
+        "boxTouches": 22,
+        "fouls": 15,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Hill Dickinson Stadium, Liverpool",
     "broadcasts": [
@@ -3282,14 +3310,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-17T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "63",
     "awayTeamId": "322",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 76,
+        "xg": 1.44,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 653,
+        "duelsWon": 53,
+        "boxTouches": 53,
+        "fouls": 13,
+        "corners": 11,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 24,
+        "xg": 0.16,
+        "shots": 5,
+        "shotsOnTarget": 0,
+        "accuratePasses": 139,
+        "duelsWon": 44,
+        "boxTouches": 8,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "Craven Cottage, London",
     "broadcasts": [
@@ -3306,14 +3362,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-17T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "65",
     "awayTeamId": "349",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 70,
+        "xg": 3.53,
+        "shots": 19,
+        "shotsOnTarget": 6,
+        "accuratePasses": 674,
+        "duelsWon": 48,
+        "boxTouches": 40,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 30,
+        "xg": 1.66,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 253,
+        "duelsWon": 52,
+        "boxTouches": 15,
+        "fouls": 16,
+        "corners": 3,
+        "offsides": 5,
+        "saves": 4
+      }
     },
     "venue": "Etihad Stadium, Manchester",
     "broadcasts": [
@@ -3334,14 +3418,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-17T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "402",
     "awayTeamId": "64",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 0.85,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 244,
+        "duelsWon": 49,
+        "boxTouches": 25,
+        "fouls": 7,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 60,
+        "xg": 1.51,
+        "shots": 21,
+        "shotsOnTarget": 5,
+        "accuratePasses": 413,
+        "duelsWon": 57,
+        "boxTouches": 39,
+        "fouls": 13,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 1
+      }
     },
     "venue": "Gtech Community Stadium, Brentford",
     "broadcasts": [

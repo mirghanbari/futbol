@@ -2398,7 +2398,7 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-17T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "28",
     "awayTeamId": "4",
     "homeTeam": {
@@ -2406,6 +2406,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 37,
+        "xg": 0.82,
+        "shots": 11,
+        "shotsOnTarget": 0,
+        "accuratePasses": 246,
+        "duelsWon": 53,
+        "boxTouches": 12,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 63,
+        "xg": 1.36,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 500,
+        "duelsWon": 52,
+        "boxTouches": 31,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 0
+      }
     },
     "venue": "Stadion An der Alten Försterei, Berlin",
     "broadcasts": [
@@ -2422,14 +2450,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-17T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7",
     "awayTeamId": "10",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 34,
+        "xg": 1.42,
+        "shots": 14,
+        "shotsOnTarget": 3,
+        "accuratePasses": 240,
+        "duelsWon": 52,
+        "boxTouches": 21,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 66,
+        "xg": 1.69,
+        "shots": 24,
+        "shotsOnTarget": 5,
+        "accuratePasses": 573,
+        "duelsWon": 52,
+        "boxTouches": 38,
+        "fouls": 9,
+        "corners": 9,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Volksparkstadion, Hamburg Norderstedt",
     "broadcasts": [
@@ -2446,14 +2502,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-17T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "12",
     "awayTeamId": "29",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 2.79,
+        "shots": 18,
+        "shotsOnTarget": 11,
+        "accuratePasses": 537,
+        "duelsWon": 59,
+        "boxTouches": 36,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 39,
+        "xg": 0.95,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 320,
+        "duelsWon": 63,
+        "boxTouches": 22,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 9
+      }
     },
     "venue": "Weserstadion, Bremen",
     "broadcasts": [
@@ -2470,14 +2554,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-17T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "719",
     "awayTeamId": "16",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 3.61,
+        "shots": 19,
+        "shotsOnTarget": 8,
+        "accuratePasses": 252,
+        "duelsWon": 65,
+        "boxTouches": 34,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 5
+      },
+      "away": {
+        "possession": 60,
+        "xg": 3.45,
+        "shots": 29,
+        "shotsOnTarget": 8,
+        "accuratePasses": 379,
+        "duelsWon": 46,
+        "boxTouches": 49,
+        "fouls": 14,
+        "corners": 12,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg",
     "broadcasts": [
@@ -2494,14 +2606,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-17T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "6",
     "awayTeamId": "15",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 0.29,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 259,
+        "duelsWon": 62,
+        "boxTouches": 23,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 5
+      },
+      "away": {
+        "possession": 54,
+        "xg": 1.51,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 340,
+        "duelsWon": 60,
+        "boxTouches": 16,
+        "fouls": 20,
+        "corners": 1,
+        "offsides": 7,
+        "saves": 3
+      }
     },
     "venue": "Veltins Arena, Gelsenkirchen",
     "broadcasts": [
