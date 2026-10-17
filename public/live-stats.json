@@ -161,7 +161,7 @@
         "shotsOnTarget": 0,
         "accuratePasses": 136,
         "duelsWon": 32,
-        "boxTouches": 13,
+        "boxTouches": 14,
         "fouls": 6,
         "corners": 2,
         "offsides": 2,
@@ -172,8 +172,8 @@
         "xg": 0.87,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 219,
-        "duelsWon": 19,
+        "accuratePasses": 218,
+        "duelsWon": 21,
         "boxTouches": 9,
         "fouls": 9,
         "corners": 3,
@@ -1888,23 +1888,23 @@
         "xg": 0.9,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 189,
-        "duelsWon": 19,
+        "accuratePasses": 192,
+        "duelsWon": 22,
         "boxTouches": 15,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 2,
         "offsides": 1,
         "saves": 4
       },
       "away": {
         "possession": 69,
-        "xg": 1.93,
-        "shots": 13,
+        "xg": 1.99,
+        "shots": 14,
         "shotsOnTarget": 6,
-        "accuratePasses": 511,
+        "accuratePasses": 520,
         "duelsWon": 22,
         "boxTouches": 21,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 4,
         "offsides": 1,
         "saves": 3
@@ -1950,11 +1950,23 @@
           "playerName": "Marcus Thuram"
         },
         {
-          "minute": "70'",
+          "minute": "69'",
           "type": "goal",
           "teamId": "108",
           "playerName": "Carlos Augusto",
           "assist": "Piotr Zieliński"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "103",
+          "playerName": "Juan Miranda"
+        },
+        {
+          "minute": "72'",
+          "type": "yellow-card",
+          "teamId": "103",
+          "playerName": "Federico Bernardeschi"
         }
       ]
     },
