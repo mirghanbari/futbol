@@ -153,12 +153,12 @@
     "560608": {
       "home": {
         "possession": 26,
-        "xg": 0.24,
+        "xg": 0.26,
         "shots": 5,
         "shotsOnTarget": 0,
         "accuratePasses": 84,
         "duelsWon": 20,
-        "boxTouches": 8,
+        "boxTouches": 7,
         "fouls": 10,
         "corners": 3,
         "offsides": 0,
@@ -522,12 +522,12 @@
     "558569": {
       "home": {
         "possession": 69,
-        "xg": 0.04,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 144,
+        "xg": 0.91,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 165,
         "duelsWon": 9,
-        "boxTouches": 6,
+        "boxTouches": 7,
         "fouls": 0,
         "corners": 0,
         "offsides": 1,
@@ -538,14 +538,23 @@
         "xg": 0.1,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 63,
-        "duelsWon": 5,
+        "accuratePasses": 74,
+        "duelsWon": 6,
         "boxTouches": 2,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 0,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "25'",
+          "type": "goal",
+          "teamId": "98",
+          "playerName": "Gonçalo Ramos",
+          "penalty": true
+        }
+      ]
     },
     "558574": {
       "home": {
@@ -698,25 +707,25 @@
   "FL1": {
     "559657": {
       "home": {
-        "possession": 44,
-        "xg": 0.31,
-        "shots": 2,
+        "possession": 45,
+        "xg": 0.34,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 256,
+        "accuratePasses": 292,
         "duelsWon": 23,
         "boxTouches": 13,
-        "fouls": 3,
-        "corners": 2,
+        "fouls": 4,
+        "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 56,
-        "xg": 0.28,
+        "possession": 55,
+        "xg": 0.27,
         "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 354,
-        "duelsWon": 21,
+        "accuratePasses": 382,
+        "duelsWon": 24,
         "boxTouches": 5,
         "fouls": 6,
         "corners": 0,
@@ -726,26 +735,26 @@
     },
     "559658": {
       "home": {
-        "possession": 57,
-        "xg": 2.36,
+        "possession": 54,
+        "xg": 2.34,
         "shots": 14,
         "shotsOnTarget": 6,
         "accuratePasses": 250,
-        "duelsWon": 27,
-        "boxTouches": 24,
+        "duelsWon": 26,
+        "boxTouches": 23,
         "fouls": 8,
         "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 43,
+        "possession": 46,
         "xg": 0.92,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 170,
-        "duelsWon": 27,
-        "boxTouches": 7,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 195,
+        "duelsWon": 29,
+        "boxTouches": 8,
         "fouls": 11,
         "corners": 1,
         "offsides": 0,
@@ -807,27 +816,27 @@
     },
     "559663": {
       "home": {
-        "possession": 52,
+        "possession": 53,
         "xg": 0.74,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 190,
-        "duelsWon": 33,
+        "accuratePasses": 218,
+        "duelsWon": 36,
         "boxTouches": 15,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 4,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 48,
-        "xg": 1.28,
-        "shots": 5,
+        "possession": 47,
+        "xg": 1.33,
+        "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 190,
-        "duelsWon": 19,
-        "boxTouches": 8,
-        "fouls": 12,
+        "accuratePasses": 211,
+        "duelsWon": 26,
+        "boxTouches": 9,
+        "fouls": 14,
         "corners": 3,
         "offsides": 1,
         "saves": 4
@@ -845,6 +854,18 @@
           "type": "yellow-card",
           "teamId": "519",
           "playerName": "Clément Akpa"
+        },
+        {
+          "minute": "50'",
+          "type": "yellow-card",
+          "teamId": "519",
+          "playerName": "Naouirou Ahamada"
+        },
+        {
+          "minute": "54'",
+          "type": "yellow-card",
+          "teamId": "533",
+          "playerName": "Lamine N'Diaye"
         }
       ]
     },
@@ -945,26 +966,26 @@
   "DED": {
     "558864": {
       "home": {
-        "possession": 45,
-        "xg": 0.71,
-        "shots": 10,
+        "possession": 49,
+        "xg": 0.73,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 270,
-        "duelsWon": 39,
-        "boxTouches": 19,
+        "accuratePasses": 335,
+        "duelsWon": 42,
+        "boxTouches": 21,
         "fouls": 9,
         "corners": 5,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 55,
-        "xg": 2.48,
-        "shots": 12,
+        "possession": 51,
+        "xg": 2.78,
+        "shots": 14,
         "shotsOnTarget": 9,
-        "accuratePasses": 349,
-        "duelsWon": 34,
-        "boxTouches": 22,
+        "accuratePasses": 360,
+        "duelsWon": 36,
+        "boxTouches": 24,
         "fouls": 15,
         "corners": 4,
         "offsides": 4,
