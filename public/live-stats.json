@@ -2,28 +2,28 @@
   "SA": {
     "558574": {
       "home": {
-        "possession": 66,
+        "possession": 64,
         "xg": 0.07,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 200,
-        "duelsWon": 10,
-        "boxTouches": 7,
-        "fouls": 4,
+        "accuratePasses": 210,
+        "duelsWon": 12,
+        "boxTouches": 8,
+        "fouls": 7,
         "corners": 0,
         "offsides": 2,
-        "saves": 1
+        "saves": 4
       },
       "away": {
-        "possession": 34,
-        "xg": 1.2,
-        "shots": 5,
-        "shotsOnTarget": 3,
-        "accuratePasses": 80,
-        "duelsWon": 20,
-        "boxTouches": 12,
+        "possession": 36,
+        "xg": 1.5,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 96,
+        "duelsWon": 24,
+        "boxTouches": 20,
         "fouls": 4,
-        "corners": 2,
+        "corners": 3,
         "offsides": 3,
         "saves": 2
       },
@@ -42,6 +42,12 @@
           "teamId": "5890",
           "playerName": "Konan N’Dri",
           "assist": "Tiago Gabriel"
+        },
+        {
+          "minute": "43'",
+          "type": "yellow-card",
+          "teamId": "115",
+          "playerName": "Hassane Kamara"
         }
       ]
     }
