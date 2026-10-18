@@ -290,8 +290,8 @@
         "xg": 2.15,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 424,
-        "duelsWon": 34,
+        "accuratePasses": 455,
+        "duelsWon": 38,
         "boxTouches": 36,
         "fouls": 6,
         "corners": 1,
@@ -303,10 +303,10 @@
         "xg": 0.52,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 204,
-        "duelsWon": 34,
-        "boxTouches": 16,
-        "fouls": 11,
+        "accuratePasses": 224,
+        "duelsWon": 35,
+        "boxTouches": 19,
+        "fouls": 12,
         "corners": 2,
         "offsides": 0,
         "saves": 2
@@ -344,6 +344,12 @@
           "teamId": "86",
           "playerName": "Kylian Mbappé",
           "penalty": true
+        },
+        {
+          "minute": "69'",
+          "type": "yellow-card",
+          "teamId": "559",
+          "playerName": "Juan Iglesias"
         }
       ]
     },
@@ -806,24 +812,24 @@
     "558570": {
       "home": {
         "possession": 58,
-        "xg": 0.71,
-        "shots": 8,
+        "xg": 0.78,
+        "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 425,
+        "accuratePasses": 436,
         "duelsWon": 54,
-        "boxTouches": 25,
-        "fouls": 6,
+        "boxTouches": 27,
+        "fouls": 8,
         "corners": 5,
         "offsides": 6,
         "saves": 0
       },
       "away": {
         "possession": 42,
-        "xg": 0.51,
+        "xg": 0.53,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 302,
-        "duelsWon": 33,
+        "accuratePasses": 306,
+        "duelsWon": 36,
         "boxTouches": 25,
         "fouls": 7,
         "corners": 7,
@@ -865,7 +871,8 @@
           "playerName": "Fisayo Dele-Bashiru",
           "assist": "Andrea Pinamonti"
         }
-      ]
+      ],
+      "final": true
     },
     "558574": {
       "home": {
@@ -1389,8 +1396,8 @@
         "xg": 1.46,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 398,
-        "duelsWon": 34,
+        "accuratePasses": 399,
+        "duelsWon": 37,
         "boxTouches": 21,
         "fouls": 6,
         "corners": 1,
@@ -1399,15 +1406,15 @@
       },
       "away": {
         "possession": 52,
-        "xg": 1.48,
+        "xg": 1.5,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 427,
+        "accuratePasses": 435,
         "duelsWon": 41,
-        "boxTouches": 25,
-        "fouls": 13,
+        "boxTouches": 27,
+        "fouls": 14,
         "corners": 9,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 2
       },
       "events": [
@@ -1455,6 +1462,12 @@
           "type": "red-card",
           "teamId": "523",
           "playerName": "Keito Nakamura"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "yellow-card",
+          "teamId": "522",
+          "playerName": "Elye Wahi"
         }
       ]
     }
