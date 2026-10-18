@@ -2,26 +2,26 @@
   "PD": {
     "564715": {
       "home": {
-        "possession": 50,
-        "xg": 0.7,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 12,
-        "duelsWon": 2,
-        "boxTouches": 3,
+        "possession": 44,
+        "xg": 1.33,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 14,
+        "duelsWon": 3,
+        "boxTouches": 5,
         "fouls": 1,
         "corners": 1,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 50,
+        "possession": 56,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 11,
+        "accuratePasses": 17,
         "duelsWon": 2,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -31,7 +31,14 @@
           "minute": "7'",
           "type": "yellow-card",
           "teamId": "5335",
-          "playerName": "Jeanuël Belocian"
+          "playerName": "Álvaro Mantilla"
+        },
+        {
+          "minute": "9'",
+          "type": "goal",
+          "teamId": "79",
+          "playerName": "Ante Budimir",
+          "penalty": true
         }
       ]
     }
@@ -39,29 +46,29 @@
   "SA": {
     "558574": {
       "home": {
-        "possession": 65,
+        "possession": 66,
         "xg": 0.25,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 353,
-        "duelsWon": 27,
-        "boxTouches": 19,
-        "fouls": 9,
+        "accuratePasses": 377,
+        "duelsWon": 30,
+        "boxTouches": 20,
+        "fouls": 10,
         "corners": 1,
         "offsides": 3,
         "saves": 7
       },
       "away": {
-        "possession": 35,
+        "possession": 34,
         "xg": 2.99,
         "shots": 15,
         "shotsOnTarget": 9,
-        "accuratePasses": 158,
-        "duelsWon": 35,
+        "accuratePasses": 164,
+        "duelsWon": 37,
         "boxTouches": 29,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 4,
-        "offsides": 7,
+        "offsides": 8,
         "saves": 2
       },
       "events": [
@@ -93,15 +100,15 @@
     "558867": {
       "home": {
         "possession": 41,
-        "xg": 1.75,
-        "shots": 18,
-        "shotsOnTarget": 7,
-        "accuratePasses": 276,
+        "xg": 1.77,
+        "shots": 19,
+        "shotsOnTarget": 9,
+        "accuratePasses": 279,
         "duelsWon": 43,
-        "boxTouches": 24,
+        "boxTouches": 25,
         "fouls": 7,
         "corners": 5,
-        "offsides": 3,
+        "offsides": 2,
         "saves": 4
       },
       "away": {
@@ -109,7 +116,7 @@
         "xg": 2.74,
         "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 429,
+        "accuratePasses": 432,
         "duelsWon": 54,
         "boxTouches": 27,
         "fouls": 8,
@@ -126,7 +133,7 @@
           "method": "header"
         },
         {
-          "minute": "48'",
+          "minute": "47'",
           "type": "goal",
           "teamId": "684",
           "playerName": "Sydney van Hooijdonk",
@@ -144,8 +151,16 @@
           "teamId": "684",
           "playerName": "Thijs Oosting",
           "assist": "Damian van der Haar"
+        },
+        {
+          "minute": "89'",
+          "type": "goal",
+          "teamId": "684",
+          "playerName": "Koen Kostons",
+          "assist": "Ibrahim Cissoko"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
