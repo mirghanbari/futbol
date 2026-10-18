@@ -156,23 +156,23 @@
         "xg": 0.49,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 136,
-        "duelsWon": 37,
+        "accuratePasses": 140,
+        "duelsWon": 43,
         "boxTouches": 14,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 7,
         "offsides": 2,
         "saves": 0
       },
       "away": {
         "possession": 74,
-        "xg": 0.98,
-        "shots": 8,
+        "xg": 1.07,
+        "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 492,
-        "duelsWon": 41,
-        "boxTouches": 26,
-        "fouls": 7,
+        "accuratePasses": 534,
+        "duelsWon": 44,
+        "boxTouches": 29,
+        "fouls": 8,
         "corners": 6,
         "offsides": 1,
         "saves": 2
@@ -349,28 +349,28 @@
     },
     "564714": {
       "home": {
-        "possession": 41,
+        "possession": 43,
         "xg": 0.21,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 166,
-        "duelsWon": 24,
-        "boxTouches": 7,
+        "accuratePasses": 192,
+        "duelsWon": 26,
+        "boxTouches": 9,
         "fouls": 2,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 59,
-        "xg": 1.09,
-        "shots": 7,
-        "shotsOnTarget": 4,
-        "accuratePasses": 262,
-        "duelsWon": 13,
-        "boxTouches": 10,
-        "fouls": 4,
-        "corners": 2,
+        "possession": 57,
+        "xg": 1.26,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 279,
+        "duelsWon": 17,
+        "boxTouches": 13,
+        "fouls": 5,
+        "corners": 3,
         "offsides": 1,
         "saves": 1
       },
@@ -474,27 +474,27 @@
   "BL1": {
     "565826": {
       "home": {
-        "possession": 47,
-        "xg": 0.27,
-        "shots": 8,
+        "possession": 48,
+        "xg": 0.34,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 290,
-        "duelsWon": 50,
-        "boxTouches": 15,
-        "fouls": 11,
-        "corners": 2,
+        "accuratePasses": 309,
+        "duelsWon": 58,
+        "boxTouches": 17,
+        "fouls": 12,
+        "corners": 3,
         "offsides": 3,
         "saves": 6
       },
       "away": {
-        "possession": 53,
+        "possession": 52,
         "xg": 1.71,
         "shots": 14,
         "shotsOnTarget": 8,
-        "accuratePasses": 319,
-        "duelsWon": 59,
+        "accuratePasses": 338,
+        "duelsWon": 64,
         "boxTouches": 34,
-        "fouls": 9,
+        "fouls": 11,
         "corners": 6,
         "offsides": 2,
         "saves": 2
@@ -597,30 +597,30 @@
   "SA": {
     "558569": {
       "home": {
-        "possession": 60,
-        "xg": 1.05,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 343,
-        "duelsWon": 21,
-        "boxTouches": 12,
+        "possession": 61,
+        "xg": 1.09,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 358,
+        "duelsWon": 22,
+        "boxTouches": 13,
         "fouls": 3,
         "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 40,
-        "xg": 0.54,
+        "possession": 39,
+        "xg": 0.52,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 228,
+        "accuratePasses": 232,
         "duelsWon": 15,
         "boxTouches": 5,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -642,6 +642,12 @@
           "teamId": "98",
           "playerName": "Adrien Rabiot",
           "assist": "Diego Moreira"
+        },
+        {
+          "minute": "58'",
+          "type": "goal",
+          "teamId": "98",
+          "playerName": "<TBD>"
         }
       ]
     },
@@ -870,27 +876,27 @@
     },
     "559658": {
       "home": {
-        "possession": 52,
+        "possession": 53,
         "xg": 2.88,
-        "shots": 18,
-        "shotsOnTarget": 8,
-        "accuratePasses": 410,
-        "duelsWon": 46,
-        "boxTouches": 37,
+        "shots": 19,
+        "shotsOnTarget": 9,
+        "accuratePasses": 440,
+        "duelsWon": 48,
+        "boxTouches": 42,
         "fouls": 13,
         "corners": 3,
         "offsides": 1,
         "saves": 4
       },
       "away": {
-        "possession": 48,
+        "possession": 47,
         "xg": 3.12,
         "shots": 12,
         "shotsOnTarget": 7,
         "accuratePasses": 374,
         "duelsWon": 41,
         "boxTouches": 24,
-        "fouls": 15,
+        "fouls": 16,
         "corners": 4,
         "offsides": 0,
         "saves": 4
@@ -973,6 +979,19 @@
           "type": "goal",
           "teamId": "529",
           "playerName": "Estéban Lepaul",
+          "penalty": true
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "1045",
+          "playerName": "Hamari Traoré"
+        },
+        {
+          "minute": "90'+7'",
+          "type": "goal",
+          "teamId": "1045",
+          "playerName": "Lassine Sinayoko",
           "penalty": true
         }
       ]
