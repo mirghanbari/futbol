@@ -286,27 +286,27 @@
   "PD": {
     "564709": {
       "home": {
-        "possession": 71,
+        "possession": 59,
         "xg": 0.13,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 96,
-        "duelsWon": 8,
+        "accuratePasses": 109,
+        "duelsWon": 11,
         "boxTouches": 4,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 29,
-        "xg": 0.01,
-        "shots": 1,
+        "possession": 41,
+        "xg": 0.05,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 32,
-        "duelsWon": 7,
-        "boxTouches": 2,
-        "fouls": 2,
+        "accuratePasses": 69,
+        "duelsWon": 9,
+        "boxTouches": 5,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -770,12 +770,12 @@
     },
     "558570": {
       "home": {
-        "possession": 48,
+        "possession": 44,
         "xg": 0.11,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 108,
-        "duelsWon": 15,
+        "accuratePasses": 131,
+        "duelsWon": 18,
         "boxTouches": 13,
         "fouls": 2,
         "corners": 3,
@@ -783,14 +783,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 52,
-        "xg": 0,
-        "shots": 0,
+        "possession": 56,
+        "xg": 0.04,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 129,
-        "duelsWon": 12,
-        "boxTouches": 14,
-        "fouls": 1,
+        "accuratePasses": 183,
+        "duelsWon": 13,
+        "boxTouches": 17,
+        "fouls": 2,
         "corners": 1,
         "offsides": 1,
         "saves": 1
@@ -1315,12 +1315,12 @@
     "559665": {
       "home": {
         "possession": 66,
-        "xg": 0.15,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 239,
-        "duelsWon": 8,
-        "boxTouches": 11,
+        "xg": 1.08,
+        "shots": 6,
+        "shotsOnTarget": 4,
+        "accuratePasses": 254,
+        "duelsWon": 11,
+        "boxTouches": 15,
         "fouls": 1,
         "corners": 1,
         "offsides": 0,
@@ -1331,13 +1331,13 @@
         "xg": 0.42,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 115,
+        "accuratePasses": 126,
         "duelsWon": 16,
         "boxTouches": 3,
-        "fouls": 3,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -1352,6 +1352,20 @@
           "teamId": "522",
           "playerName": "Elye Wahi",
           "assist": "Jonathan Clauss"
+        },
+        {
+          "minute": "33'",
+          "type": "goal",
+          "teamId": "523",
+          "playerName": "Pavel Šulc"
+        },
+        {
+          "minute": "37'",
+          "type": "goal",
+          "teamId": "523",
+          "playerName": "Tanner Tessmann",
+          "method": "header",
+          "assist": "Zachary Athekame"
         }
       ]
     }
@@ -1541,26 +1555,26 @@
     },
     "558866": {
       "home": {
-        "possession": 58,
-        "xg": 0.49,
-        "shots": 12,
+        "possession": 57,
+        "xg": 0.59,
+        "shots": 13,
         "shotsOnTarget": 2,
-        "accuratePasses": 344,
-        "duelsWon": 23,
-        "boxTouches": 11,
-        "fouls": 7,
+        "accuratePasses": 355,
+        "duelsWon": 24,
+        "boxTouches": 13,
+        "fouls": 8,
         "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 42,
-        "xg": 0.6,
-        "shots": 10,
-        "shotsOnTarget": 3,
-        "accuratePasses": 230,
-        "duelsWon": 36,
-        "boxTouches": 13,
+        "possession": 43,
+        "xg": 0.62,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 244,
+        "duelsWon": 40,
+        "boxTouches": 14,
         "fouls": 6,
         "corners": 3,
         "offsides": 0,
@@ -1586,6 +1600,13 @@
           "type": "yellow-card",
           "teamId": "676",
           "playerName": "Siebe Horemans"
+        },
+        {
+          "minute": "63'",
+          "type": "goal",
+          "teamId": "676",
+          "playerName": "Ángel Alarcon",
+          "assist": "Arthur Zagré"
         }
       ]
     },
@@ -1656,25 +1677,25 @@
     },
     "558870": {
       "home": {
-        "possession": 71,
+        "possession": 70,
         "xg": 1.09,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 330,
-        "duelsWon": 34,
-        "boxTouches": 18,
-        "fouls": 7,
-        "corners": 4,
+        "accuratePasses": 362,
+        "duelsWon": 37,
+        "boxTouches": 20,
+        "fouls": 8,
+        "corners": 5,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 29,
+        "possession": 30,
         "xg": 0.34,
         "shots": 4,
         "shotsOnTarget": 3,
-        "accuratePasses": 115,
-        "duelsWon": 33,
+        "accuratePasses": 128,
+        "duelsWon": 34,
         "boxTouches": 5,
         "fouls": 5,
         "corners": 0,
