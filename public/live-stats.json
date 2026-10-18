@@ -286,26 +286,26 @@
   "PD": {
     "564709": {
       "home": {
-        "possession": 64,
+        "possession": 63,
         "xg": 2.15,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 455,
-        "duelsWon": 38,
+        "accuratePasses": 468,
+        "duelsWon": 40,
         "boxTouches": 36,
-        "fouls": 6,
+        "fouls": 8,
         "corners": 1,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 36,
-        "xg": 0.52,
-        "shots": 8,
+        "possession": 37,
+        "xg": 0.59,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 224,
-        "duelsWon": 35,
-        "boxTouches": 19,
+        "accuratePasses": 241,
+        "duelsWon": 40,
+        "boxTouches": 20,
         "fouls": 12,
         "corners": 2,
         "offsides": 0,
@@ -350,6 +350,12 @@
           "type": "yellow-card",
           "teamId": "559",
           "playerName": "Juan Iglesias"
+        },
+        {
+          "minute": "73'",
+          "type": "yellow-card",
+          "teamId": "86",
+          "playerName": "Marc Cucurella"
         }
       ]
     },
@@ -1396,7 +1402,7 @@
         "xg": 1.46,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 399,
+        "accuratePasses": 400,
         "duelsWon": 37,
         "boxTouches": 21,
         "fouls": 6,
@@ -1409,7 +1415,7 @@
         "xg": 1.5,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 435,
+        "accuratePasses": 436,
         "duelsWon": 41,
         "boxTouches": 27,
         "fouls": 14,
@@ -1464,12 +1470,13 @@
           "playerName": "Keito Nakamura"
         },
         {
-          "minute": "90'+6'",
+          "minute": "90'+4'",
           "type": "yellow-card",
           "teamId": "522",
           "playerName": "Elye Wahi"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "DED": {
