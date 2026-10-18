@@ -350,30 +350,30 @@
     },
     "564714": {
       "home": {
-        "possession": 47,
-        "xg": 0.65,
-        "shots": 10,
-        "shotsOnTarget": 4,
-        "accuratePasses": 306,
-        "duelsWon": 37,
-        "boxTouches": 16,
+        "possession": 48,
+        "xg": 0.77,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 330,
+        "duelsWon": 38,
+        "boxTouches": 19,
         "fouls": 2,
         "corners": 4,
         "offsides": 1,
         "saves": 4
       },
       "away": {
-        "possession": 53,
-        "xg": 1.61,
-        "shots": 15,
-        "shotsOnTarget": 8,
-        "accuratePasses": 361,
-        "duelsWon": 22,
-        "boxTouches": 17,
+        "possession": 52,
+        "xg": 1.64,
+        "shots": 16,
+        "shotsOnTarget": 9,
+        "accuratePasses": 381,
+        "duelsWon": 23,
+        "boxTouches": 18,
         "fouls": 7,
         "corners": 4,
-        "offsides": 1,
-        "saves": 2
+        "offsides": 2,
+        "saves": 3
       },
       "events": [
         {
@@ -425,7 +425,14 @@
           "minute": "67'",
           "type": "goal",
           "teamId": "92",
-          "playerName": "Mikel Oyarzabal"
+          "playerName": "Mikel Oyarzabal",
+          "assist": "Jon Martín"
+        },
+        {
+          "minute": "73'",
+          "type": "goal",
+          "teamId": "92",
+          "playerName": "<TBD>"
         }
       ]
     },
@@ -650,12 +657,12 @@
     "558569": {
       "home": {
         "possession": 56,
-        "xg": 2.3,
-        "shots": 10,
-        "shotsOnTarget": 5,
-        "accuratePasses": 546,
+        "xg": 2.41,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 547,
         "duelsWon": 37,
-        "boxTouches": 21,
+        "boxTouches": 22,
         "fouls": 3,
         "corners": 2,
         "offsides": 1,
@@ -663,20 +670,20 @@
       },
       "away": {
         "possession": 44,
-        "xg": 1.54,
+        "xg": 1.65,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 419,
+        "accuratePasses": 423,
         "duelsWon": 29,
-        "boxTouches": 14,
+        "boxTouches": 15,
         "fouls": 10,
         "corners": 2,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
-          "minute": "25'",
+          "minute": "24'",
           "type": "goal",
           "teamId": "98",
           "playerName": "Gonçalo Ramos",
@@ -729,7 +736,8 @@
           "playerName": "Nikola Krstović",
           "assist": "Raoul Bellanova"
         }
-      ]
+      ],
+      "final": true
     },
     "558574": {
       "home": {
