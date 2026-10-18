@@ -152,26 +152,26 @@
     },
     "560608": {
       "home": {
-        "possession": 25,
-        "xg": 0.04,
-        "shots": 1,
+        "possession": 27,
+        "xg": 0.08,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 62,
-        "duelsWon": 14,
+        "accuratePasses": 77,
+        "duelsWon": 17,
         "boxTouches": 6,
-        "fouls": 8,
-        "corners": 1,
+        "fouls": 9,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 75,
-        "xg": 0.17,
-        "shots": 1,
+        "possession": 73,
+        "xg": 0.4,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 239,
-        "duelsWon": 22,
-        "boxTouches": 9,
+        "accuratePasses": 254,
+        "duelsWon": 25,
+        "boxTouches": 10,
         "fouls": 2,
         "corners": 2,
         "offsides": 1,
@@ -276,24 +276,24 @@
         "xg": 0.87,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 368,
-        "duelsWon": 47,
+        "accuratePasses": 380,
+        "duelsWon": 49,
         "boxTouches": 12,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 0,
         "offsides": 0,
-        "saves": 6
+        "saves": 8
       },
       "away": {
         "possession": 52,
-        "xg": 0.93,
-        "shots": 17,
-        "shotsOnTarget": 7,
-        "accuratePasses": 377,
-        "duelsWon": 48,
-        "boxTouches": 28,
+        "xg": 1.03,
+        "shots": 20,
+        "shotsOnTarget": 9,
+        "accuratePasses": 394,
+        "duelsWon": 52,
+        "boxTouches": 32,
         "fouls": 17,
-        "corners": 3,
+        "corners": 4,
         "offsides": 3,
         "saves": 1
       },
@@ -311,7 +311,7 @@
           "playerName": "Toni Martínez"
         },
         {
-          "minute": "54'",
+          "minute": "53'",
           "type": "goal",
           "teamId": "558",
           "playerName": "Ferrán Jutglà",
@@ -331,7 +331,8 @@
           "playerName": "Hugo Novoa",
           "assist": "Mariano Díaz"
         }
-      ]
+      ],
+      "final": true
     },
     "564715": {
       "home": {
@@ -415,23 +416,23 @@
         "xg": 0.19,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 141,
-        "duelsWon": 19,
-        "boxTouches": 5,
-        "fouls": 6,
-        "corners": 1,
+        "accuratePasses": 164,
+        "duelsWon": 24,
+        "boxTouches": 9,
+        "fouls": 7,
+        "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
         "possession": 50,
-        "xg": 0.24,
-        "shots": 4,
+        "xg": 0.3,
+        "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 134,
-        "duelsWon": 21,
-        "boxTouches": 10,
-        "fouls": 3,
+        "accuratePasses": 157,
+        "duelsWon": 24,
+        "boxTouches": 12,
+        "fouls": 4,
         "corners": 1,
         "offsides": 2,
         "saves": 2
@@ -506,6 +507,31 @@
     }
   },
   "SA": {
+    "558569": {
+      "home": {
+        "possession": 68,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 61,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 32,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 26,
+        "duelsWon": 0,
+        "boxTouches": 1,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "558574": {
       "home": {
         "possession": 67,
@@ -662,10 +688,10 @@
         "shots": 2,
         "shotsOnTarget": 0,
         "accuratePasses": 241,
-        "duelsWon": 21,
-        "boxTouches": 9,
+        "duelsWon": 22,
+        "boxTouches": 10,
         "fouls": 3,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
@@ -674,7 +700,7 @@
         "xg": 0.14,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 331,
+        "accuratePasses": 332,
         "duelsWon": 16,
         "boxTouches": 2,
         "fouls": 5,
@@ -685,28 +711,28 @@
     },
     "559658": {
       "home": {
-        "possession": 60,
-        "xg": 1.39,
-        "shots": 11,
-        "shotsOnTarget": 4,
-        "accuratePasses": 239,
-        "duelsWon": 26,
-        "boxTouches": 21,
+        "possession": 57,
+        "xg": 1.45,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 251,
+        "duelsWon": 27,
+        "boxTouches": 23,
         "fouls": 8,
         "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 40,
+        "possession": 43,
         "xg": 0.92,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 142,
-        "duelsWon": 22,
+        "accuratePasses": 169,
+        "duelsWon": 27,
         "boxTouches": 7,
         "fouls": 11,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 4
       },
@@ -754,6 +780,13 @@
           "type": "yellow-card",
           "teamId": "1045",
           "playerName": "Samir Chergui"
+        },
+        {
+          "minute": "45'+4'",
+          "type": "goal",
+          "teamId": "1045",
+          "playerName": "Maxime Lopez",
+          "assist": "Lassine Sinayoko"
         }
       ]
     },
@@ -897,29 +930,29 @@
   "DED": {
     "558864": {
       "home": {
-        "possession": 46,
-        "xg": 0.66,
-        "shots": 9,
+        "possession": 44,
+        "xg": 0.71,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 197,
-        "duelsWon": 32,
-        "boxTouches": 18,
-        "fouls": 8,
+        "accuratePasses": 206,
+        "duelsWon": 34,
+        "boxTouches": 19,
+        "fouls": 9,
         "corners": 4,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 54,
-        "xg": 1.74,
+        "possession": 56,
+        "xg": 1.84,
         "shots": 8,
         "shotsOnTarget": 6,
-        "accuratePasses": 243,
-        "duelsWon": 28,
+        "accuratePasses": 285,
+        "duelsWon": 33,
         "boxTouches": 15,
         "fouls": 14,
         "corners": 3,
-        "offsides": 2,
+        "offsides": 4,
         "saves": 1
       },
       "events": [
@@ -952,6 +985,13 @@
           "type": "goal",
           "teamId": "677",
           "playerName": "Brynjólfur Willumsson"
+        },
+        {
+          "minute": "60'",
+          "type": "goal",
+          "teamId": "678",
+          "playerName": "Julian Brandt",
+          "assist": "Owen Wijndal"
         }
       ]
     },
