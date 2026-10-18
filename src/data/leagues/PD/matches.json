@@ -4675,14 +4675,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-18T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "84",
     "awayTeamId": "92",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.06,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 412,
+        "duelsWon": 48,
+        "boxTouches": 31,
+        "fouls": 4,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 55,
+        "xg": 2.41,
+        "shots": 21,
+        "shotsOnTarget": 9,
+        "accuratePasses": 525,
+        "duelsWon": 30,
+        "boxTouches": 24,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "La Rosaleda, Malaga",
     "broadcasts": [

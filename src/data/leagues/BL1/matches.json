@@ -2762,14 +2762,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-18T15:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "18",
     "awayTeamId": "2",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 0.34,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 310,
+        "duelsWon": 61,
+        "boxTouches": 19,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 6
+      },
+      "away": {
+        "possession": 52,
+        "xg": 1.78,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 343,
+        "duelsWon": 71,
+        "boxTouches": 34,
+        "fouls": 13,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "BORUSSIA-PARK, Mönchengladbach",
     "broadcasts": [

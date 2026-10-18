@@ -3804,14 +3804,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-18T14:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "677",
     "awayTeamId": "678",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 4
+      "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 2.22,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 376,
+        "duelsWon": 48,
+        "boxTouches": 30,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 50,
+        "xg": 2.97,
+        "shots": 15,
+        "shotsOnTarget": 11,
+        "accuratePasses": 391,
+        "duelsWon": 45,
+        "boxTouches": 25,
+        "fouls": 17,
+        "corners": 4,
+        "offsides": 4,
+        "saves": 3
+      }
     },
     "venue": "Euroborg, Groningen",
     "broadcasts": [
@@ -3828,11 +3856,11 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-18T18:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "666",
     "awayTeamId": "676",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -3846,14 +3874,14 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-18T18:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1915",
     "awayTeamId": "1920",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Goffertstadion, Nijmegen"
   },
