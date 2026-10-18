@@ -350,30 +350,30 @@
     },
     "564714": {
       "home": {
-        "possession": 46,
-        "xg": 0.49,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 290,
-        "duelsWon": 35,
-        "boxTouches": 13,
+        "possession": 47,
+        "xg": 0.65,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 306,
+        "duelsWon": 37,
+        "boxTouches": 16,
         "fouls": 2,
-        "corners": 3,
+        "corners": 4,
         "offsides": 1,
         "saves": 4
       },
       "away": {
-        "possession": 54,
+        "possession": 53,
         "xg": 1.61,
-        "shots": 14,
-        "shotsOnTarget": 7,
-        "accuratePasses": 358,
-        "duelsWon": 20,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 361,
+        "duelsWon": 22,
         "boxTouches": 17,
         "fouls": 7,
         "corners": 4,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -410,10 +410,22 @@
           "assist": "Takefusa Kubo"
         },
         {
-          "minute": "63'",
+          "minute": "62'",
           "type": "yellow-card",
           "teamId": "92",
           "playerName": "Mamadou Sarr"
+        },
+        {
+          "minute": "66'",
+          "type": "goal",
+          "teamId": "84",
+          "playerName": "Pablo Martínez"
+        },
+        {
+          "minute": "67'",
+          "type": "goal",
+          "teamId": "92",
+          "playerName": "Mikel Oyarzabal"
         }
       ]
     },
@@ -637,26 +649,26 @@
   "SA": {
     "558569": {
       "home": {
-        "possession": 58,
-        "xg": 2.25,
+        "possession": 56,
+        "xg": 2.3,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 538,
-        "duelsWon": 34,
-        "boxTouches": 18,
+        "accuratePasses": 546,
+        "duelsWon": 37,
+        "boxTouches": 21,
         "fouls": 3,
         "corners": 2,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 42,
-        "xg": 1.51,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 384,
-        "duelsWon": 25,
-        "boxTouches": 11,
+        "possession": 44,
+        "xg": 1.54,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 419,
+        "duelsWon": 29,
+        "boxTouches": 14,
         "fouls": 10,
         "corners": 2,
         "offsides": 1,
