@@ -287,24 +287,24 @@
     "564709": {
       "home": {
         "possession": 61,
-        "xg": 1.41,
-        "shots": 9,
+        "xg": 1.48,
+        "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 271,
+        "accuratePasses": 273,
         "duelsWon": 22,
-        "boxTouches": 23,
+        "boxTouches": 25,
         "fouls": 3,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
         "possession": 39,
-        "xg": 0.08,
+        "xg": 0.21,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 153,
-        "duelsWon": 17,
+        "accuratePasses": 156,
+        "duelsWon": 20,
         "boxTouches": 12,
         "fouls": 5,
         "corners": 1,
@@ -315,14 +315,14 @@
         {
           "minute": "23'",
           "type": "yellow-card",
-          "teamId": "559",
-          "playerName": "Félix Correia"
+          "teamId": "86",
+          "playerName": "Dean Huijsen"
         },
         {
           "minute": "23'",
           "type": "yellow-card",
-          "teamId": "86",
-          "playerName": "Dean Huijsen"
+          "teamId": "559",
+          "playerName": "Félix Correia"
         },
         {
           "minute": "30'",
@@ -798,27 +798,27 @@
     },
     "558570": {
       "home": {
-        "possession": 48,
-        "xg": 0.14,
-        "shots": 4,
+        "possession": 51,
+        "xg": 0.11,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 190,
-        "duelsWon": 28,
-        "boxTouches": 19,
-        "fouls": 3,
+        "accuratePasses": 222,
+        "duelsWon": 26,
+        "boxTouches": 13,
+        "fouls": 4,
         "corners": 3,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 0
       },
       "away": {
-        "possession": 52,
+        "possession": 49,
         "xg": 0.27,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 221,
-        "duelsWon": 21,
+        "accuratePasses": 230,
+        "duelsWon": 20,
         "boxTouches": 19,
-        "fouls": 2,
+        "fouls": 4,
         "corners": 3,
         "offsides": 1,
         "saves": 1
@@ -1364,12 +1364,12 @@
     },
     "559665": {
       "home": {
-        "possession": 60,
+        "possession": 58,
         "xg": 1.37,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 284,
-        "duelsWon": 15,
+        "accuratePasses": 319,
+        "duelsWon": 18,
         "boxTouches": 18,
         "fouls": 3,
         "corners": 1,
@@ -1377,14 +1377,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 40,
+        "possession": 42,
         "xg": 0.42,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 184,
-        "duelsWon": 25,
-        "boxTouches": 4,
-        "fouls": 6,
+        "accuratePasses": 226,
+        "duelsWon": 28,
+        "boxTouches": 6,
+        "fouls": 8,
         "corners": 1,
         "offsides": 2,
         "saves": 2
@@ -1416,6 +1416,12 @@
           "playerName": "Tanner Tessmann",
           "method": "header",
           "assist": "Zachary Athekame"
+        },
+        {
+          "minute": "49'",
+          "type": "yellow-card",
+          "teamId": "522",
+          "playerName": "Mohamed Abdelmonem"
         }
       ]
     }
@@ -1606,13 +1612,13 @@
     "558866": {
       "home": {
         "possession": 63,
-        "xg": 1.27,
+        "xg": 1.32,
         "shots": 24,
         "shotsOnTarget": 5,
-        "accuratePasses": 535,
-        "duelsWon": 39,
+        "accuratePasses": 546,
+        "duelsWon": 41,
         "boxTouches": 30,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 5,
         "offsides": 0,
         "saves": 2
@@ -1622,10 +1628,10 @@
         "xg": 1.23,
         "shots": 16,
         "shotsOnTarget": 5,
-        "accuratePasses": 280,
-        "duelsWon": 58,
+        "accuratePasses": 287,
+        "duelsWon": 60,
         "boxTouches": 18,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 4,
         "offsides": 0,
         "saves": 4
@@ -1664,7 +1670,8 @@
           "teamId": "676",
           "playerName": "Davy van den Berg"
         }
-      ]
+      ],
+      "final": true
     },
     "558867": {
       "home": {
@@ -1734,14 +1741,14 @@
     "558870": {
       "home": {
         "possession": 74,
-        "xg": 2.46,
-        "shots": 18,
-        "shotsOnTarget": 6,
-        "accuratePasses": 537,
-        "duelsWon": 48,
-        "boxTouches": 43,
+        "xg": 2.99,
+        "shots": 24,
+        "shotsOnTarget": 7,
+        "accuratePasses": 545,
+        "duelsWon": 50,
+        "boxTouches": 49,
         "fouls": 11,
-        "corners": 12,
+        "corners": 13,
         "offsides": 1,
         "saves": 1
       },
@@ -1750,7 +1757,7 @@
         "xg": 0.39,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 158,
+        "accuratePasses": 159,
         "duelsWon": 50,
         "boxTouches": 7,
         "fouls": 10,
@@ -1792,8 +1799,17 @@
           "type": "yellow-card",
           "teamId": "1920",
           "playerName": "Rodrigo Guth"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "goal",
+          "teamId": "1915",
+          "playerName": "Willum Willumsson",
+          "method": "header",
+          "assist": "Perr Schuurs"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
