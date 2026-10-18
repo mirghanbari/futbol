@@ -286,27 +286,27 @@
   "PD": {
     "564709": {
       "home": {
-        "possession": 63,
+        "possession": 67,
         "xg": 0.23,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 153,
-        "duelsWon": 14,
-        "boxTouches": 10,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 189,
+        "duelsWon": 15,
+        "boxTouches": 12,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 37,
+        "possession": 33,
         "xg": 0.05,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 74,
-        "duelsWon": 12,
+        "accuratePasses": 80,
+        "duelsWon": 13,
         "boxTouches": 5,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -323,6 +323,13 @@
           "type": "yellow-card",
           "teamId": "86",
           "playerName": "Dean Huijsen"
+        },
+        {
+          "minute": "30'",
+          "type": "goal",
+          "teamId": "86",
+          "playerName": "Arda Güler",
+          "assist": "Yan Diomande"
         }
       ]
     },
@@ -784,28 +791,28 @@
     },
     "558570": {
       "home": {
-        "possession": 48,
+        "possession": 47,
         "xg": 0.11,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 163,
-        "duelsWon": 20,
-        "boxTouches": 14,
+        "accuratePasses": 172,
+        "duelsWon": 22,
+        "boxTouches": 13,
         "fouls": 3,
         "corners": 3,
-        "offsides": 1,
+        "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 52,
-        "xg": 0.26,
-        "shots": 3,
+        "possession": 53,
+        "xg": 0.42,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 195,
+        "accuratePasses": 212,
         "duelsWon": 17,
-        "boxTouches": 18,
+        "boxTouches": 19,
         "fouls": 2,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 1
       },
@@ -1344,29 +1351,29 @@
     },
     "559665": {
       "home": {
-        "possession": 62,
+        "possession": 60,
         "xg": 1.38,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 281,
+        "accuratePasses": 283,
         "duelsWon": 14,
-        "boxTouches": 16,
-        "fouls": 1,
+        "boxTouches": 18,
+        "fouls": 3,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 38,
+        "possession": 40,
         "xg": 0.42,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 163,
-        "duelsWon": 19,
-        "boxTouches": 3,
+        "accuratePasses": 184,
+        "duelsWon": 22,
+        "boxTouches": 4,
         "fouls": 6,
         "corners": 1,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 2
       },
       "events": [
@@ -1586,27 +1593,27 @@
     "558866": {
       "home": {
         "possession": 59,
-        "xg": 0.66,
-        "shots": 16,
+        "xg": 0.87,
+        "shots": 18,
         "shotsOnTarget": 4,
-        "accuratePasses": 372,
-        "duelsWon": 28,
+        "accuratePasses": 396,
+        "duelsWon": 29,
         "boxTouches": 19,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 5,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
         "possession": 41,
-        "xg": 0.66,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 246,
-        "duelsWon": 47,
-        "boxTouches": 15,
+        "xg": 1.09,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 253,
+        "duelsWon": 49,
+        "boxTouches": 16,
         "fouls": 8,
-        "corners": 3,
+        "corners": 4,
         "offsides": 0,
         "saves": 3
       },
@@ -1639,7 +1646,7 @@
           "assist": "Arthur Zagré"
         },
         {
-          "minute": "70'",
+          "minute": "66'",
           "type": "yellow-card",
           "teamId": "676",
           "playerName": "Davy van den Berg"
@@ -1714,14 +1721,14 @@
     "558870": {
       "home": {
         "possession": 72,
-        "xg": 1.39,
-        "shots": 14,
+        "xg": 1.61,
+        "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 417,
-        "duelsWon": 42,
-        "boxTouches": 31,
-        "fouls": 8,
-        "corners": 8,
+        "accuratePasses": 444,
+        "duelsWon": 44,
+        "boxTouches": 36,
+        "fouls": 9,
+        "corners": 9,
         "offsides": 0,
         "saves": 1
       },
@@ -1730,8 +1737,8 @@
         "xg": 0.34,
         "shots": 4,
         "shotsOnTarget": 3,
-        "accuratePasses": 133,
-        "duelsWon": 38,
+        "accuratePasses": 146,
+        "duelsWon": 41,
         "boxTouches": 5,
         "fouls": 7,
         "corners": 0,
