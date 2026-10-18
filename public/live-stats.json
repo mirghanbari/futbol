@@ -2,30 +2,30 @@
   "PL": {
     "560604": {
       "home": {
-        "possession": 62,
-        "xg": 3.18,
-        "shots": 21,
+        "possession": 60,
+        "xg": 3.83,
+        "shots": 22,
         "shotsOnTarget": 6,
-        "accuratePasses": 292,
-        "duelsWon": 32,
-        "boxTouches": 40,
-        "fouls": 11,
-        "corners": 4,
+        "accuratePasses": 298,
+        "duelsWon": 36,
+        "boxTouches": 44,
+        "fouls": 13,
+        "corners": 5,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 38,
+        "possession": 40,
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 145,
-        "duelsWon": 30,
-        "boxTouches": 5,
-        "fouls": 4,
+        "accuratePasses": 157,
+        "duelsWon": 33,
+        "boxTouches": 6,
+        "fouls": 5,
         "corners": 2,
         "offsides": 2,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -65,31 +65,37 @@
           "type": "goal",
           "teamId": "1044",
           "playerName": "Evanilson"
+        },
+        {
+          "minute": "65'",
+          "type": "yellow-card",
+          "teamId": "71",
+          "playerName": "Chris Rigg"
         }
       ]
     },
     "560605": {
       "home": {
-        "possession": 66,
+        "possession": 63,
         "xg": 0.89,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 328,
-        "duelsWon": 31,
+        "accuratePasses": 338,
+        "duelsWon": 33,
         "boxTouches": 16,
-        "fouls": 10,
+        "fouls": 12,
         "corners": 2,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 34,
-        "xg": 0.67,
-        "shots": 5,
+        "possession": 37,
+        "xg": 0.71,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 146,
-        "duelsWon": 36,
-        "boxTouches": 5,
+        "accuratePasses": 179,
+        "duelsWon": 40,
+        "boxTouches": 7,
         "fouls": 4,
         "corners": 1,
         "offsides": 0,
@@ -126,27 +132,27 @@
     },
     "560609": {
       "home": {
-        "possession": 55,
-        "xg": 0.98,
+        "possession": 56,
+        "xg": 0.99,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 302,
-        "duelsWon": 30,
+        "accuratePasses": 330,
+        "duelsWon": 37,
         "boxTouches": 18,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 3,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 45,
-        "xg": 0.55,
+        "possession": 44,
+        "xg": 0.58,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 231,
-        "duelsWon": 31,
+        "accuratePasses": 238,
+        "duelsWon": 33,
         "boxTouches": 7,
-        "fouls": 8,
+        "fouls": 11,
         "corners": 2,
         "offsides": 0,
         "saves": 3
@@ -192,7 +198,7 @@
           "playerName": "Daichi Kamada"
         },
         {
-          "minute": "65'",
+          "minute": "64'",
           "type": "yellow-card",
           "teamId": "397",
           "playerName": "Chema Andrés"
@@ -203,23 +209,23 @@
   "PD": {
     "564712": {
       "home": {
-        "possession": 41,
+        "possession": 55,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 24,
-        "duelsWon": 1,
+        "accuratePasses": 48,
+        "duelsWon": 3,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 59,
+        "possession": 45,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 32,
-        "duelsWon": 2,
-        "fouls": 1,
+        "accuratePasses": 35,
+        "duelsWon": 5,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -413,12 +419,12 @@
     },
     "558577": {
       "home": {
-        "possession": 43,
-        "xg": 1.6,
+        "possession": 45,
+        "xg": 1.63,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 194,
-        "duelsWon": 27,
+        "accuratePasses": 235,
+        "duelsWon": 31,
         "boxTouches": 24,
         "fouls": 6,
         "corners": 4,
@@ -426,17 +432,17 @@
         "saves": 3
       },
       "away": {
-        "possession": 57,
-        "xg": 1.12,
-        "shots": 9,
-        "shotsOnTarget": 5,
-        "accuratePasses": 276,
-        "duelsWon": 30,
-        "boxTouches": 11,
-        "fouls": 8,
+        "possession": 55,
+        "xg": 1.29,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 306,
+        "duelsWon": 33,
+        "boxTouches": 13,
+        "fouls": 9,
         "corners": 4,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -477,6 +483,13 @@
           "type": "yellow-card",
           "teamId": "7397",
           "playerName": "Jacobo Ramón"
+        },
+        {
+          "minute": "57'",
+          "type": "goal",
+          "teamId": "7397",
+          "playerName": "Anastasios Douvikas",
+          "assist": "Nico Paz"
         }
       ]
     }
@@ -488,10 +501,10 @@
         "xg": 1.01,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 241,
-        "duelsWon": 29,
-        "boxTouches": 12,
-        "fouls": 6,
+        "accuratePasses": 254,
+        "duelsWon": 30,
+        "boxTouches": 13,
+        "fouls": 7,
         "corners": 0,
         "offsides": 0,
         "saves": 3
@@ -501,9 +514,9 @@
         "xg": 2.34,
         "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 363,
-        "duelsWon": 19,
-        "boxTouches": 27,
+        "accuratePasses": 384,
+        "duelsWon": 20,
+        "boxTouches": 28,
         "fouls": 10,
         "corners": 5,
         "offsides": 0,
@@ -538,6 +551,12 @@
           "type": "goal",
           "teamId": "516",
           "playerName": "Amine Gouiri"
+        },
+        {
+          "minute": "68'",
+          "type": "yellow-card",
+          "teamId": "532",
+          "playerName": "Emmanuel Biumla"
         }
       ]
     }
@@ -546,11 +565,11 @@
     "558865": {
       "home": {
         "possession": 36,
-        "xg": 1.36,
+        "xg": 1.45,
         "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 218,
-        "duelsWon": 55,
+        "accuratePasses": 219,
+        "duelsWon": 59,
         "boxTouches": 22,
         "fouls": 11,
         "corners": 3,
@@ -562,11 +581,11 @@
         "xg": 1.5,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 431,
-        "duelsWon": 51,
+        "accuratePasses": 451,
+        "duelsWon": 53,
         "boxTouches": 27,
-        "fouls": 13,
-        "corners": 5,
+        "fouls": 15,
+        "corners": 6,
         "offsides": 0,
         "saves": 4
       },
