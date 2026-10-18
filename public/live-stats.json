@@ -2,29 +2,29 @@
   "PD": {
     "564715": {
       "home": {
-        "possession": 44,
-        "xg": 1.33,
-        "shots": 3,
-        "shotsOnTarget": 2,
-        "accuratePasses": 14,
-        "duelsWon": 3,
-        "boxTouches": 5,
-        "fouls": 1,
+        "possession": 36,
+        "xg": 1.45,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 34,
+        "duelsWon": 4,
+        "boxTouches": 7,
+        "fouls": 2,
         "corners": 1,
         "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 56,
-        "xg": 0,
-        "shots": 0,
+        "possession": 64,
+        "xg": 0.03,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 17,
-        "duelsWon": 2,
+        "accuratePasses": 62,
+        "duelsWon": 5,
         "fouls": 1,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -46,26 +46,26 @@
   "SA": {
     "558574": {
       "home": {
-        "possession": 66,
+        "possession": 67,
         "xg": 0.25,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 377,
-        "duelsWon": 30,
-        "boxTouches": 20,
+        "accuratePasses": 409,
+        "duelsWon": 32,
+        "boxTouches": 21,
         "fouls": 10,
         "corners": 1,
         "offsides": 3,
-        "saves": 7
+        "saves": 8
       },
       "away": {
-        "possession": 34,
-        "xg": 2.99,
-        "shots": 15,
-        "shotsOnTarget": 9,
-        "accuratePasses": 164,
-        "duelsWon": 37,
-        "boxTouches": 29,
+        "possession": 33,
+        "xg": 3.25,
+        "shots": 17,
+        "shotsOnTarget": 11,
+        "accuratePasses": 170,
+        "duelsWon": 40,
+        "boxTouches": 31,
         "fouls": 9,
         "corners": 4,
         "offsides": 8,
@@ -92,6 +92,12 @@
           "type": "yellow-card",
           "teamId": "115",
           "playerName": "Hassane Kamara"
+        },
+        {
+          "minute": "86'",
+          "type": "goal",
+          "teamId": "5890",
+          "playerName": "Jamil Siebert"
         }
       ]
     }
