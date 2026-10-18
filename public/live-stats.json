@@ -6,25 +6,25 @@
         "xg": 0.07,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 211,
+        "accuratePasses": 221,
         "duelsWon": 13,
         "boxTouches": 8,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 0,
         "offsides": 2,
-        "saves": 4
+        "saves": 5
       },
       "away": {
         "possession": 37,
-        "xg": 1.99,
-        "shots": 10,
-        "shotsOnTarget": 6,
-        "accuratePasses": 101,
-        "duelsWon": 25,
-        "boxTouches": 22,
+        "xg": 2.14,
+        "shots": 11,
+        "shotsOnTarget": 7,
+        "accuratePasses": 110,
+        "duelsWon": 28,
+        "boxTouches": 24,
         "fouls": 4,
         "corners": 3,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 2
       },
       "events": [
@@ -55,27 +55,27 @@
   "DED": {
     "558867": {
       "home": {
-        "possession": 47,
-        "xg": 1.24,
-        "shots": 13,
-        "shotsOnTarget": 4,
-        "accuratePasses": 213,
+        "possession": 45,
+        "xg": 1.4,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 223,
         "duelsWon": 32,
-        "boxTouches": 17,
+        "boxTouches": 18,
         "fouls": 5,
         "corners": 5,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 53,
-        "xg": 1.41,
-        "shots": 7,
+        "possession": 55,
+        "xg": 1.53,
+        "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 250,
-        "duelsWon": 31,
-        "boxTouches": 12,
-        "fouls": 6,
+        "accuratePasses": 284,
+        "duelsWon": 36,
+        "boxTouches": 14,
+        "fouls": 7,
         "corners": 2,
         "offsides": 0,
         "saves": 3
@@ -94,6 +94,12 @@
           "teamId": "684",
           "playerName": "Sydney van Hooijdonk",
           "assist": "Dylan Mbayo"
+        },
+        {
+          "minute": "58'",
+          "type": "goal",
+          "teamId": "684",
+          "playerName": "Thijs Oosting"
         }
       ]
     }
