@@ -3526,14 +3526,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1044",
     "awayTeamId": "71",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 65,
+        "xg": 4.32,
+        "shots": 29,
+        "shotsOnTarget": 6,
+        "accuratePasses": 475,
+        "duelsWon": 46,
+        "boxTouches": 56,
+        "fouls": 16,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 35,
+        "xg": 0.07,
+        "shots": 3,
+        "shotsOnTarget": 0,
+        "accuratePasses": 190,
+        "duelsWon": 45,
+        "boxTouches": 14,
+        "fouls": 7,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Vitality Stadium, Bournemouth",
     "broadcasts": [
@@ -3550,14 +3578,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "341",
     "awayTeamId": "66",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 1.44,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 443,
+        "duelsWon": 47,
+        "boxTouches": 21,
+        "fouls": 16,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 39,
+        "xg": 0.91,
+        "shots": 13,
+        "shotsOnTarget": 3,
+        "accuratePasses": 256,
+        "duelsWon": 54,
+        "boxTouches": 13,
+        "fouls": 5,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Elland Road, Leeds",
     "broadcasts": [
@@ -3578,14 +3634,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "397",
     "awayTeamId": "354",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 57,
+        "xg": 1.98,
+        "shots": 17,
+        "shotsOnTarget": 9,
+        "accuratePasses": 440,
+        "duelsWon": 43,
+        "boxTouches": 28,
+        "fouls": 13,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 43,
+        "xg": 0.75,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 301,
+        "duelsWon": 41,
+        "boxTouches": 10,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "American Express Stadium, Falmer",
     "broadcasts": [
@@ -3602,7 +3686,7 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T15:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "351",
     "awayTeamId": "57",
     "homeTeam": {

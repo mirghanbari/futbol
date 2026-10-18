@@ -3426,14 +3426,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "99",
     "awayTeamId": "7397",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 2.25,
+        "shots": 19,
+        "shotsOnTarget": 7,
+        "accuratePasses": 383,
+        "duelsWon": 48,
+        "boxTouches": 32,
+        "fouls": 12,
+        "corners": 10,
+        "offsides": 4,
+        "saves": 5
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1.77,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 459,
+        "duelsWon": 54,
+        "boxTouches": 16,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "Stadio Artemio Franchi, Firenze",
     "broadcasts": [
@@ -3450,11 +3478,11 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T16:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "98",
     "awayTeamId": "102",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0

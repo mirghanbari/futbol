@@ -2752,14 +2752,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "532",
     "awayTeamId": "516",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 2.02,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 328,
+        "duelsWon": 40,
+        "boxTouches": 18,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 58,
+        "xg": 2.74,
+        "shots": 21,
+        "shotsOnTarget": 8,
+        "accuratePasses": 494,
+        "duelsWon": 31,
+        "boxTouches": 33,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Stade Raymond Kopa, Angers",
     "broadcasts": [
@@ -2776,7 +2804,7 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T15:15:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "525",
     "awayTeamId": "548",
     "homeTeam": {
@@ -2800,14 +2828,14 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T15:15:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1045",
     "awayTeamId": "529",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stade Jean Bouin, Paris"
   },
@@ -2818,14 +2846,14 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T15:15:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "533",
     "awayTeamId": "519",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stade Océane, Le Havre"
   },

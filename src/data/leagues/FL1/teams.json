@@ -1,13 +1,5 @@
 [
   {
-    "id": "524",
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "548",
     "name": "AS Monaco FC",
     "shortName": "Monaco",
@@ -16,11 +8,27 @@
     "competitionId": "FL1"
   },
   {
+    "id": "524",
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "521",
     "name": "Lille OSC",
     "shortName": "Lille",
     "tla": "LIL",
     "crest": "https://crests.football-data.org/521.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "1045",
+    "name": "Paris FC",
+    "shortName": "Paris FC",
+    "tla": "PFC",
+    "crest": "https://crests.football-data.org/1045.png",
     "competitionId": "FL1"
   },
   {
@@ -40,19 +48,19 @@
     "competitionId": "FL1"
   },
   {
-    "id": "1045",
-    "name": "Paris FC",
-    "shortName": "Paris FC",
-    "tla": "PFC",
-    "crest": "https://crests.football-data.org/1045.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "546",
     "name": "Racing Club de Lens",
     "shortName": "RC Lens",
     "tla": "RCL",
     "crest": "https://crests.football-data.org/546.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "516",
+    "name": "Olympique de Marseille",
+    "shortName": "Marseille",
+    "tla": "MAR",
+    "crest": "https://crests.football-data.org/516.png",
     "competitionId": "FL1"
   },
   {
@@ -80,6 +88,14 @@
     "competitionId": "FL1"
   },
   {
+    "id": "519",
+    "name": "AJ Auxerre",
+    "shortName": "Auxerre",
+    "tla": "AJA",
+    "crest": "https://crests.football-data.org/519.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "522",
     "name": "OGC Nice",
     "shortName": "Nice",
@@ -104,27 +120,11 @@
     "competitionId": "FL1"
   },
   {
-    "id": "516",
-    "name": "Olympique de Marseille",
-    "shortName": "Marseille",
-    "tla": "MAR",
-    "crest": "https://crests.football-data.org/516.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "535",
     "name": "Le Mans FC",
     "shortName": "Le Mans",
     "tla": "LMF",
     "crest": "https://crests.football-data.org/535.png",
-    "competitionId": "FL1"
-  },
-  {
-    "id": "519",
-    "name": "AJ Auxerre",
-    "shortName": "Auxerre",
-    "tla": "AJA",
-    "crest": "https://crests.football-data.org/519.png",
     "competitionId": "FL1"
   },
   {
