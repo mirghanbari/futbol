@@ -2,29 +2,29 @@
   "SA": {
     "558574": {
       "home": {
-        "possession": 65,
-        "xg": 0.03,
-        "shots": 2,
+        "possession": 66,
+        "xg": 0.07,
+        "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 178,
-        "duelsWon": 8,
-        "boxTouches": 6,
+        "accuratePasses": 200,
+        "duelsWon": 10,
+        "boxTouches": 7,
         "fouls": 4,
         "corners": 0,
         "offsides": 2,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 35,
+        "possession": 34,
         "xg": 1.2,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 75,
-        "duelsWon": 18,
-        "boxTouches": 10,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 80,
+        "duelsWon": 20,
+        "boxTouches": 12,
         "fouls": 4,
         "corners": 2,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 2
       },
       "events": [
@@ -40,7 +40,8 @@
           "minute": "33'",
           "type": "goal",
           "teamId": "5890",
-          "playerName": "Konan N’Dri"
+          "playerName": "Konan N’Dri",
+          "assist": "Tiago Gabriel"
         }
       ]
     }
@@ -49,7 +50,7 @@
     "558867": {
       "home": {
         "possession": 47,
-        "xg": 0.34,
+        "xg": 0.3,
         "shots": 8,
         "shotsOnTarget": 2,
         "accuratePasses": 190,
@@ -64,7 +65,7 @@
         "possession": 53,
         "xg": 0.75,
         "shots": 4,
-        "shotsOnTarget": 2,
+        "shotsOnTarget": 3,
         "accuratePasses": 223,
         "duelsWon": 23,
         "boxTouches": 7,
