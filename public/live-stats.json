@@ -350,34 +350,34 @@
     },
     "564714": {
       "home": {
-        "possession": 43,
+        "possession": 44,
         "xg": 0.21,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 194,
-        "duelsWon": 27,
+        "accuratePasses": 236,
+        "duelsWon": 30,
         "boxTouches": 9,
         "fouls": 2,
         "corners": 3,
-        "offsides": 0,
-        "saves": 3
+        "offsides": 1,
+        "saves": 4
       },
       "away": {
-        "possession": 57,
-        "xg": 1.34,
-        "shots": 11,
-        "shotsOnTarget": 5,
-        "accuratePasses": 283,
+        "possession": 56,
+        "xg": 1.46,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 321,
         "duelsWon": 18,
-        "boxTouches": 14,
-        "fouls": 5,
+        "boxTouches": 15,
+        "fouls": 6,
         "corners": 4,
         "offsides": 1,
         "saves": 1
       },
       "events": [
         {
-          "minute": "4'",
+          "minute": "3'",
           "type": "goal",
           "teamId": "92",
           "playerName": "Takefusa Kubo",
@@ -617,11 +617,11 @@
   "SA": {
     "558569": {
       "home": {
-        "possession": 61,
+        "possession": 59,
         "xg": 2.25,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 452,
+        "accuratePasses": 485,
         "duelsWon": 30,
         "boxTouches": 17,
         "fouls": 3,
@@ -630,12 +630,12 @@
         "saves": 0
       },
       "away": {
-        "possession": 39,
-        "xg": 1.06,
-        "shots": 7,
+        "possession": 41,
+        "xg": 1.21,
+        "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 284,
-        "duelsWon": 18,
+        "accuratePasses": 335,
+        "duelsWon": 24,
         "boxTouches": 8,
         "fouls": 8,
         "corners": 2,
@@ -683,6 +683,12 @@
           "type": "yellow-card",
           "teamId": "102",
           "playerName": "Éderson"
+        },
+        {
+          "minute": "78'",
+          "type": "yellow-card",
+          "teamId": "102",
+          "playerName": "Relja Obrić"
         }
       ]
     },
