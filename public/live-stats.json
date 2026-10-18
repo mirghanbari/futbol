@@ -287,13 +287,13 @@
     "564709": {
       "home": {
         "possession": 65,
-        "xg": 2.2,
+        "xg": 2.24,
         "shots": 15,
         "shotsOnTarget": 8,
         "accuratePasses": 604,
         "duelsWon": 47,
         "boxTouches": 36,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 1,
         "offsides": 1,
         "saves": 4
@@ -303,26 +303,26 @@
         "xg": 0.75,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 277,
-        "duelsWon": 45,
+        "accuratePasses": 281,
+        "duelsWon": 46,
         "boxTouches": 24,
         "fouls": 14,
         "corners": 2,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
           "minute": "23'",
           "type": "yellow-card",
-          "teamId": "86",
-          "playerName": "Dean Huijsen"
+          "teamId": "559",
+          "playerName": "Félix Correia"
         },
         {
           "minute": "23'",
           "type": "yellow-card",
-          "teamId": "559",
-          "playerName": "Félix Correia"
+          "teamId": "86",
+          "playerName": "Dean Huijsen"
         },
         {
           "minute": "30'",
@@ -371,7 +371,8 @@
           "playerName": "Yan Diomande",
           "assist": "Aurélien Tchouaméni"
         }
-      ]
+      ],
+      "final": true
     },
     "564712": {
       "home": {
