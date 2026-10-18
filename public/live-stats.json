@@ -4,12 +4,12 @@
       "home": {
         "possession": 64,
         "xg": 1.6,
-        "shots": 14,
+        "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 224,
+        "accuratePasses": 232,
         "duelsWon": 21,
         "boxTouches": 20,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 4,
         "offsides": 0,
         "saves": 0
@@ -19,9 +19,9 @@
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 101,
-        "duelsWon": 22,
-        "boxTouches": 2,
+        "accuratePasses": 104,
+        "duelsWon": 24,
+        "boxTouches": 3,
         "fouls": 3,
         "corners": 1,
         "offsides": 2,
@@ -53,6 +53,12 @@
           "type": "yellow-card",
           "teamId": "71",
           "playerName": "Omar Alderete"
+        },
+        {
+          "minute": "45'+6'",
+          "type": "yellow-card",
+          "teamId": "1044",
+          "playerName": "Lewis Cook"
         }
       ]
     },
@@ -167,23 +173,23 @@
     "564715": {
       "home": {
         "possession": 44,
-        "xg": 2.79,
-        "shots": 19,
+        "xg": 3.38,
+        "shots": 20,
         "shotsOnTarget": 7,
-        "accuratePasses": 240,
-        "duelsWon": 39,
-        "boxTouches": 28,
+        "accuratePasses": 245,
+        "duelsWon": 41,
+        "boxTouches": 30,
         "fouls": 21,
-        "corners": 6,
+        "corners": 7,
         "offsides": 4,
         "saves": 1
       },
       "away": {
         "possession": 56,
-        "xg": 0.27,
-        "shots": 8,
+        "xg": 0.28,
+        "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 353,
+        "accuratePasses": 363,
         "duelsWon": 50,
         "boxTouches": 5,
         "fouls": 9,
@@ -235,30 +241,32 @@
           "teamId": "79",
           "playerName": "Asier Osambela"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
     "565827": {
       "home": {
-        "possession": 55,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 73,
-        "duelsWon": 3,
-        "fouls": 1,
+        "possession": 52,
+        "xg": 0.12,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 89,
+        "duelsWon": 5,
+        "boxTouches": 3,
+        "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 45,
+        "possession": 48,
         "xg": 0.29,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 52,
-        "duelsWon": 10,
+        "accuratePasses": 79,
+        "duelsWon": 12,
         "boxTouches": 4,
         "fouls": 0,
         "corners": 1,
@@ -277,7 +285,8 @@
           "minute": "19'",
           "type": "goal",
           "teamId": "3",
-          "playerName": "<TBD>"
+          "playerName": "Ibrahim Maza",
+          "assist": "Patrik Schick"
         }
       ]
     }
@@ -347,7 +356,7 @@
         "xg": 1,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 152,
+        "accuratePasses": 153,
         "duelsWon": 19,
         "boxTouches": 22,
         "fouls": 5,
@@ -360,7 +369,7 @@
         "xg": 0.92,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 239,
+        "accuratePasses": 240,
         "duelsWon": 20,
         "boxTouches": 11,
         "fouls": 8,
@@ -401,6 +410,12 @@
           "type": "goal",
           "teamId": "99",
           "playerName": "Marin Pongračić"
+        },
+        {
+          "minute": "45'+3'",
+          "type": "yellow-card",
+          "teamId": "7397",
+          "playerName": "Jacobo Ramón"
         }
       ]
     }
@@ -467,11 +482,11 @@
         "xg": 0.9,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 193,
-        "duelsWon": 36,
-        "boxTouches": 17,
-        "fouls": 9,
-        "corners": 1,
+        "accuratePasses": 196,
+        "duelsWon": 37,
+        "boxTouches": 20,
+        "fouls": 10,
+        "corners": 2,
         "offsides": 0,
         "saves": 1
       },
@@ -480,9 +495,9 @@
         "xg": 0.51,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 246,
-        "duelsWon": 35,
-        "boxTouches": 13,
+        "accuratePasses": 260,
+        "duelsWon": 38,
+        "boxTouches": 14,
         "fouls": 12,
         "corners": 3,
         "offsides": 0,
@@ -527,6 +542,12 @@
           "type": "red-card",
           "teamId": "1909",
           "playerName": "Devid Eugene Bouah"
+        },
+        {
+          "minute": "59'",
+          "type": "yellow-card",
+          "teamId": "682",
+          "playerName": "Ayoub Oufkir"
         }
       ]
     },
