@@ -2,27 +2,27 @@
   "PL": {
     "560604": {
       "home": {
-        "possession": 60,
-        "xg": 3.83,
-        "shots": 22,
+        "possession": 61,
+        "xg": 3.93,
+        "shots": 24,
         "shotsOnTarget": 6,
-        "accuratePasses": 298,
-        "duelsWon": 36,
-        "boxTouches": 44,
+        "accuratePasses": 317,
+        "duelsWon": 40,
+        "boxTouches": 46,
         "fouls": 13,
         "corners": 5,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 40,
+        "possession": 39,
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 157,
-        "duelsWon": 33,
+        "accuratePasses": 161,
+        "duelsWon": 35,
         "boxTouches": 6,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 2,
         "offsides": 2,
         "saves": 4
@@ -77,26 +77,26 @@
     "560605": {
       "home": {
         "possession": 63,
-        "xg": 0.89,
-        "shots": 9,
+        "xg": 0.97,
+        "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 338,
-        "duelsWon": 33,
-        "boxTouches": 16,
+        "accuratePasses": 375,
+        "duelsWon": 37,
+        "boxTouches": 17,
         "fouls": 12,
         "corners": 2,
         "offsides": 2,
-        "saves": 1
+        "saves": 2
       },
       "away": {
         "possession": 37,
-        "xg": 0.71,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 179,
-        "duelsWon": 40,
-        "boxTouches": 7,
-        "fouls": 4,
+        "xg": 0.75,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 193,
+        "duelsWon": 41,
+        "boxTouches": 8,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 3
@@ -133,29 +133,29 @@
     "560609": {
       "home": {
         "possession": 56,
-        "xg": 0.99,
-        "shots": 13,
-        "shotsOnTarget": 6,
-        "accuratePasses": 330,
-        "duelsWon": 37,
-        "boxTouches": 18,
+        "xg": 1.02,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 350,
+        "duelsWon": 36,
+        "boxTouches": 20,
         "fouls": 10,
-        "corners": 3,
+        "corners": 4,
         "offsides": 2,
         "saves": 1
       },
       "away": {
         "possession": 44,
-        "xg": 0.58,
-        "shots": 4,
+        "xg": 0.75,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 238,
-        "duelsWon": 33,
-        "boxTouches": 7,
+        "accuratePasses": 258,
+        "duelsWon": 34,
+        "boxTouches": 10,
         "fouls": 11,
-        "corners": 2,
-        "offsides": 0,
-        "saves": 3
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
       },
       "events": [
         {
@@ -209,27 +209,36 @@
   "PD": {
     "564712": {
       "home": {
-        "possession": 55,
+        "possession": 47,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 48,
-        "duelsWon": 3,
-        "fouls": 0,
+        "accuratePasses": 78,
+        "duelsWon": 8,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 45,
+        "possession": 53,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 35,
-        "duelsWon": 5,
-        "fouls": 2,
+        "accuratePasses": 81,
+        "duelsWon": 9,
+        "boxTouches": 1,
+        "fouls": 5,
         "corners": 0,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "15'",
+          "type": "yellow-card",
+          "teamId": "558",
+          "playerName": "Sebastián Cáceres"
+        }
+      ]
     },
     "564715": {
       "home": {
@@ -419,28 +428,28 @@
     },
     "558577": {
       "home": {
-        "possession": 45,
+        "possession": 44,
         "xg": 1.63,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 235,
-        "duelsWon": 31,
+        "accuratePasses": 249,
+        "duelsWon": 32,
         "boxTouches": 24,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 4,
         "offsides": 3,
-        "saves": 3
+        "saves": 4
       },
       "away": {
-        "possession": 55,
-        "xg": 1.29,
-        "shots": 11,
-        "shotsOnTarget": 6,
-        "accuratePasses": 306,
-        "duelsWon": 33,
-        "boxTouches": 13,
+        "possession": 56,
+        "xg": 1.5,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 331,
+        "duelsWon": 37,
+        "boxTouches": 14,
         "fouls": 9,
-        "corners": 4,
+        "corners": 5,
         "offsides": 0,
         "saves": 3
       },
@@ -498,14 +507,14 @@
     "559664": {
       "home": {
         "possession": 41,
-        "xg": 1.01,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 254,
-        "duelsWon": 30,
-        "boxTouches": 13,
-        "fouls": 7,
-        "corners": 0,
+        "xg": 1.8,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 265,
+        "duelsWon": 32,
+        "boxTouches": 15,
+        "fouls": 8,
+        "corners": 1,
         "offsides": 0,
         "saves": 3
       },
@@ -514,10 +523,10 @@
         "xg": 2.34,
         "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 384,
-        "duelsWon": 20,
+        "accuratePasses": 402,
+        "duelsWon": 21,
         "boxTouches": 28,
-        "fouls": 10,
+        "fouls": 12,
         "corners": 5,
         "offsides": 0,
         "saves": 0
@@ -557,6 +566,19 @@
           "type": "yellow-card",
           "teamId": "532",
           "playerName": "Emmanuel Biumla"
+        },
+        {
+          "minute": "74'",
+          "type": "yellow-card",
+          "teamId": "516",
+          "playerName": "Tochukwu Nnadi"
+        },
+        {
+          "minute": "75'",
+          "type": "goal",
+          "teamId": "532",
+          "playerName": "Amine El Ouazzani",
+          "penalty": true
         }
       ]
     }
@@ -569,7 +591,7 @@
         "shots": 11,
         "shotsOnTarget": 6,
         "accuratePasses": 219,
-        "duelsWon": 59,
+        "duelsWon": 58,
         "boxTouches": 22,
         "fouls": 11,
         "corners": 3,
@@ -582,7 +604,7 @@
         "shots": 7,
         "shotsOnTarget": 4,
         "accuratePasses": 451,
-        "duelsWon": 53,
+        "duelsWon": 54,
         "boxTouches": 27,
         "fouls": 15,
         "corners": 6,
@@ -648,7 +670,8 @@
           "playerName": "Mexx Meerdink",
           "penalty": true
         }
-      ]
+      ],
+      "final": true
     },
     "558867": {
       "home": {
