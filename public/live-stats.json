@@ -3,10 +3,10 @@
     "560604": {
       "home": {
         "possession": 65,
-        "xg": 4.46,
+        "xg": 4.32,
         "shots": 29,
         "shotsOnTarget": 6,
-        "accuratePasses": 466,
+        "accuratePasses": 473,
         "duelsWon": 46,
         "boxTouches": 56,
         "fouls": 16,
@@ -78,7 +78,8 @@
           "teamId": "1044",
           "playerName": "Ryan Christie"
         }
-      ]
+      ],
+      "final": true
     },
     "560605": {
       "home": {
@@ -235,27 +236,27 @@
   "PD": {
     "564712": {
       "home": {
-        "possession": 46,
+        "possession": 48,
         "xg": 0.19,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 168,
-        "duelsWon": 21,
-        "boxTouches": 4,
-        "fouls": 5,
+        "accuratePasses": 192,
+        "duelsWon": 25,
+        "boxTouches": 5,
+        "fouls": 6,
         "corners": 0,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 54,
-        "xg": 0.17,
-        "shots": 2,
+        "possession": 52,
+        "xg": 0.19,
+        "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 191,
-        "duelsWon": 20,
+        "accuratePasses": 205,
+        "duelsWon": 21,
         "boxTouches": 8,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 0,
         "offsides": 1,
         "saves": 0
@@ -266,6 +267,12 @@
           "type": "yellow-card",
           "teamId": "558",
           "playerName": "Sebastián Cáceres"
+        },
+        {
+          "minute": "45'",
+          "type": "yellow-card",
+          "teamId": "263",
+          "playerName": "Toni Martínez"
         }
       ]
     },
@@ -351,10 +358,10 @@
         "xg": 0.5,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 278,
+        "accuratePasses": 290,
         "duelsWon": 23,
         "boxTouches": 12,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 2,
         "offsides": 1,
         "saves": 1
@@ -364,9 +371,9 @@
         "xg": 0.69,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 328,
-        "duelsWon": 36,
-        "boxTouches": 14,
+        "accuratePasses": 342,
+        "duelsWon": 37,
+        "boxTouches": 15,
         "fouls": 4,
         "corners": 3,
         "offsides": 0,
@@ -457,27 +464,27 @@
     },
     "558577": {
       "home": {
-        "possession": 45,
-        "xg": 1.96,
+        "possession": 46,
+        "xg": 2,
         "shots": 19,
         "shotsOnTarget": 7,
-        "accuratePasses": 342,
-        "duelsWon": 41,
+        "accuratePasses": 369,
+        "duelsWon": 48,
         "boxTouches": 32,
         "fouls": 12,
-        "corners": 9,
+        "corners": 10,
         "offsides": 4,
         "saves": 5
       },
       "away": {
-        "possession": 55,
+        "possession": 54,
         "xg": 1.77,
         "shots": 16,
         "shotsOnTarget": 8,
-        "accuratePasses": 450,
-        "duelsWon": 51,
+        "accuratePasses": 455,
+        "duelsWon": 54,
         "boxTouches": 16,
-        "fouls": 10,
+        "fouls": 12,
         "corners": 5,
         "offsides": 0,
         "saves": 5
@@ -642,27 +649,27 @@
   "DED": {
     "558864": {
       "home": {
-        "possession": 34,
+        "possession": 43,
         "xg": 0.02,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 26,
-        "duelsWon": 5,
-        "boxTouches": 3,
+        "accuratePasses": 49,
+        "duelsWon": 8,
+        "boxTouches": 4,
         "fouls": 3,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 66,
+        "possession": 57,
         "xg": 1.11,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 63,
-        "duelsWon": 5,
+        "accuratePasses": 72,
+        "duelsWon": 8,
         "boxTouches": 7,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 1,
         "offsides": 0,
         "saves": 0
