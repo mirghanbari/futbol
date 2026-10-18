@@ -153,14 +153,14 @@
     "560608": {
       "home": {
         "possession": 26,
-        "xg": 0.68,
-        "shots": 13,
+        "xg": 0.75,
+        "shots": 14,
         "shotsOnTarget": 2,
         "accuratePasses": 152,
         "duelsWon": 48,
-        "boxTouches": 16,
-        "fouls": 13,
-        "corners": 7,
+        "boxTouches": 17,
+        "fouls": 14,
+        "corners": 8,
         "offsides": 2,
         "saves": 0
       },
@@ -170,7 +170,7 @@
         "shots": 9,
         "shotsOnTarget": 1,
         "accuratePasses": 565,
-        "duelsWon": 48,
+        "duelsWon": 49,
         "boxTouches": 29,
         "fouls": 8,
         "corners": 6,
@@ -197,7 +197,8 @@
           "playerName": "Noni Madueke",
           "assist": "Declan Rice"
         }
-      ]
+      ],
+      "final": true
     },
     "560609": {
       "home": {
@@ -551,7 +552,8 @@
           "teamId": "18",
           "playerName": "Robin Hack"
         }
-      ]
+      ],
+      "final": true
     },
     "565827": {
       "home": {
@@ -619,9 +621,9 @@
         "xg": 2.25,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 375,
-        "duelsWon": 23,
-        "boxTouches": 15,
+        "accuratePasses": 440,
+        "duelsWon": 27,
+        "boxTouches": 17,
         "fouls": 3,
         "corners": 2,
         "offsides": 1,
@@ -629,14 +631,14 @@
       },
       "away": {
         "possession": 39,
-        "xg": 0.52,
-        "shots": 4,
-        "shotsOnTarget": 0,
-        "accuratePasses": 244,
-        "duelsWon": 15,
-        "boxTouches": 5,
+        "xg": 1.07,
+        "shots": 7,
+        "shotsOnTarget": 1,
+        "accuratePasses": 276,
+        "duelsWon": 18,
+        "boxTouches": 8,
         "fouls": 7,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 1
       },
@@ -668,6 +670,19 @@
           "playerName": "Mario Gila",
           "method": "header",
           "assist": "Adrien Rabiot"
+        },
+        {
+          "minute": "66'",
+          "type": "goal",
+          "teamId": "102",
+          "playerName": "Gianluca Gaetano",
+          "assist": "Nicola Zalewski"
+        },
+        {
+          "minute": "69'",
+          "type": "yellow-card",
+          "teamId": "102",
+          "playerName": "Éderson"
         }
       ]
     },
