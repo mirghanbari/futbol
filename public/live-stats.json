@@ -152,12 +152,12 @@
     },
     "560608": {
       "home": {
-        "possession": 27,
+        "possession": 26,
         "xg": 0.49,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 133,
-        "duelsWon": 34,
+        "accuratePasses": 136,
+        "duelsWon": 37,
         "boxTouches": 14,
         "fouls": 11,
         "corners": 7,
@@ -165,13 +165,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 73,
-        "xg": 0.87,
-        "shots": 6,
-        "shotsOnTarget": 0,
-        "accuratePasses": 452,
-        "duelsWon": 40,
-        "boxTouches": 19,
+        "possession": 74,
+        "xg": 0.98,
+        "shots": 8,
+        "shotsOnTarget": 1,
+        "accuratePasses": 492,
+        "duelsWon": 41,
+        "boxTouches": 26,
         "fouls": 7,
         "corners": 6,
         "offsides": 1,
@@ -189,6 +189,13 @@
           "type": "yellow-card",
           "teamId": "57",
           "playerName": "Noni Madueke"
+        },
+        {
+          "minute": "80'",
+          "type": "goal",
+          "teamId": "57",
+          "playerName": "Noni Madueke",
+          "assist": "Declan Rice"
         }
       ]
     },
@@ -342,27 +349,27 @@
     },
     "564714": {
       "home": {
-        "possession": 40,
-        "xg": 0.15,
-        "shots": 3,
+        "possession": 41,
+        "xg": 0.21,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 146,
-        "duelsWon": 20,
-        "boxTouches": 5,
-        "fouls": 1,
+        "accuratePasses": 166,
+        "duelsWon": 24,
+        "boxTouches": 7,
+        "fouls": 2,
         "corners": 2,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 60,
-        "xg": 0.74,
-        "shots": 6,
+        "possession": 59,
+        "xg": 1.09,
+        "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 242,
-        "duelsWon": 15,
-        "boxTouches": 9,
-        "fouls": 3,
+        "accuratePasses": 262,
+        "duelsWon": 13,
+        "boxTouches": 10,
+        "fouls": 4,
         "corners": 2,
         "offsides": 1,
         "saves": 1
@@ -372,13 +379,20 @@
           "minute": "4'",
           "type": "goal",
           "teamId": "92",
-          "playerName": "Takefusa Kubo"
+          "playerName": "Takefusa Kubo",
+          "assist": "Héctor Fort"
         },
         {
           "minute": "26'",
           "type": "goal",
           "teamId": "92",
           "playerName": "Orri Óskarsson"
+        },
+        {
+          "minute": "37'",
+          "type": "yellow-card",
+          "teamId": "92",
+          "playerName": "Jon Martín"
         }
       ]
     },
@@ -464,24 +478,24 @@
         "xg": 0.27,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 257,
-        "duelsWon": 45,
-        "boxTouches": 14,
-        "fouls": 10,
+        "accuratePasses": 290,
+        "duelsWon": 50,
+        "boxTouches": 15,
+        "fouls": 11,
         "corners": 2,
         "offsides": 3,
-        "saves": 5
+        "saves": 6
       },
       "away": {
         "possession": 53,
-        "xg": 1.62,
-        "shots": 12,
-        "shotsOnTarget": 7,
-        "accuratePasses": 295,
-        "duelsWon": 51,
-        "boxTouches": 29,
+        "xg": 1.71,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 319,
+        "duelsWon": 59,
+        "boxTouches": 34,
         "fouls": 9,
-        "corners": 5,
+        "corners": 6,
         "offsides": 2,
         "saves": 2
       },
@@ -583,26 +597,26 @@
   "SA": {
     "558569": {
       "home": {
-        "possession": 61,
-        "xg": 1,
-        "shots": 5,
+        "possession": 60,
+        "xg": 1.05,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 291,
-        "duelsWon": 18,
-        "boxTouches": 10,
+        "accuratePasses": 343,
+        "duelsWon": 21,
+        "boxTouches": 12,
         "fouls": 3,
         "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 39,
-        "xg": 0.4,
-        "shots": 3,
+        "possession": 40,
+        "xg": 0.54,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 188,
+        "accuratePasses": 228,
         "duelsWon": 15,
-        "boxTouches": 3,
+        "boxTouches": 5,
         "fouls": 5,
         "corners": 1,
         "offsides": 0,
@@ -782,12 +796,12 @@
   "FL1": {
     "559657": {
       "home": {
-        "possession": 41,
+        "possession": 42,
         "xg": 1.63,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 380,
-        "duelsWon": 43,
+        "accuratePasses": 399,
+        "duelsWon": 46,
         "boxTouches": 26,
         "fouls": 10,
         "corners": 3,
@@ -795,14 +809,14 @@
         "saves": 4
       },
       "away": {
-        "possession": 59,
+        "possession": 58,
         "xg": 0.69,
         "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 595,
+        "accuratePasses": 597,
         "duelsWon": 38,
         "boxTouches": 17,
-        "fouls": 14,
+        "fouls": 16,
         "corners": 4,
         "offsides": 0,
         "saves": 2
@@ -818,13 +832,13 @@
           "minute": "60'",
           "type": "yellow-card",
           "teamId": "548",
-          "playerName": "Flávio Nazinho"
+          "playerName": "Denis Zakaria"
         },
         {
           "minute": "60'",
           "type": "yellow-card",
           "teamId": "548",
-          "playerName": "Denis Zakaria"
+          "playerName": "Flávio Nazinho"
         },
         {
           "minute": "61'",
@@ -851,7 +865,8 @@
           "teamId": "548",
           "playerName": "Christian Mawissa"
         }
-      ]
+      ],
+      "final": true
     },
     "559658": {
       "home": {
@@ -859,24 +874,24 @@
         "xg": 2.88,
         "shots": 18,
         "shotsOnTarget": 8,
-        "accuratePasses": 402,
-        "duelsWon": 44,
+        "accuratePasses": 410,
+        "duelsWon": 46,
         "boxTouches": 37,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 3,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "away": {
         "possession": 48,
-        "xg": 2.1,
-        "shots": 9,
-        "shotsOnTarget": 5,
-        "accuratePasses": 358,
+        "xg": 3.12,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 374,
         "duelsWon": 41,
-        "boxTouches": 21,
-        "fouls": 14,
-        "corners": 2,
+        "boxTouches": 24,
+        "fouls": 15,
+        "corners": 4,
         "offsides": 0,
         "saves": 4
       },
@@ -952,18 +967,25 @@
           "playerName": "Lassine Sinayoko",
           "method": "overhead kick",
           "assist": "Ilan Kebbal"
+        },
+        {
+          "minute": "88'",
+          "type": "goal",
+          "teamId": "529",
+          "playerName": "Estéban Lepaul",
+          "penalty": true
         }
       ]
     },
     "559663": {
       "home": {
         "possession": 52,
-        "xg": 1.32,
-        "shots": 14,
-        "shotsOnTarget": 6,
+        "xg": 1.41,
+        "shots": 15,
+        "shotsOnTarget": 7,
         "accuratePasses": 341,
-        "duelsWon": 63,
-        "boxTouches": 27,
+        "duelsWon": 64,
+        "boxTouches": 28,
         "fouls": 16,
         "corners": 7,
         "offsides": 2,
@@ -974,7 +996,7 @@
         "xg": 2.73,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 346,
+        "accuratePasses": 350,
         "duelsWon": 58,
         "boxTouches": 18,
         "fouls": 22,
@@ -1029,7 +1051,8 @@
           "playerName": "Romain Faivre",
           "assist": "Danny Namaso"
         }
-      ]
+      ],
+      "final": true
     },
     "559664": {
       "home": {
