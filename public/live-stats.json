@@ -2,26 +2,26 @@
   "SA": {
     "558574": {
       "home": {
-        "possession": 65,
+        "possession": 63,
         "xg": 0.13,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 281,
-        "duelsWon": 20,
-        "boxTouches": 15,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 286,
+        "duelsWon": 22,
+        "boxTouches": 14,
         "fouls": 9,
         "corners": 1,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 6
       },
       "away": {
-        "possession": 35,
+        "possession": 37,
         "xg": 2.44,
         "shots": 13,
         "shotsOnTarget": 8,
-        "accuratePasses": 127,
-        "duelsWon": 30,
-        "boxTouches": 26,
+        "accuratePasses": 141,
+        "duelsWon": 33,
+        "boxTouches": 27,
         "fouls": 5,
         "corners": 3,
         "offsides": 5,
@@ -48,12 +48,6 @@
           "type": "yellow-card",
           "teamId": "115",
           "playerName": "Hassane Kamara"
-        },
-        {
-          "minute": "60'",
-          "type": "goal",
-          "teamId": "115",
-          "playerName": "Jakub Piotrowski"
         }
       ]
     }
@@ -61,12 +55,12 @@
   "DED": {
     "558867": {
       "home": {
-        "possession": 44,
+        "possession": 43,
         "xg": 1.67,
         "shots": 17,
         "shotsOnTarget": 7,
-        "accuratePasses": 245,
-        "duelsWon": 37,
+        "accuratePasses": 262,
+        "duelsWon": 40,
         "boxTouches": 20,
         "fouls": 5,
         "corners": 5,
@@ -74,15 +68,15 @@
         "saves": 2
       },
       "away": {
-        "possession": 56,
-        "xg": 1.6,
-        "shots": 11,
+        "possession": 57,
+        "xg": 1.73,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 324,
-        "duelsWon": 41,
-        "boxTouches": 17,
+        "accuratePasses": 367,
+        "duelsWon": 45,
+        "boxTouches": 20,
         "fouls": 7,
-        "corners": 4,
+        "corners": 5,
         "offsides": 0,
         "saves": 3
       },
