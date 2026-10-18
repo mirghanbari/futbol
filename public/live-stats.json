@@ -286,31 +286,45 @@
   "PD": {
     "564709": {
       "home": {
-        "possession": 59,
-        "xg": 0.18,
-        "shots": 4,
-        "shotsOnTarget": 0,
-        "accuratePasses": 118,
-        "duelsWon": 12,
-        "boxTouches": 8,
-        "fouls": 2,
+        "possession": 63,
+        "xg": 0.23,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 153,
+        "duelsWon": 14,
+        "boxTouches": 10,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 41,
+        "possession": 37,
         "xg": 0.05,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 72,
-        "duelsWon": 9,
+        "accuratePasses": 74,
+        "duelsWon": 12,
         "boxTouches": 5,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
-      }
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "23'",
+          "type": "yellow-card",
+          "teamId": "559",
+          "playerName": "Félix Correia"
+        },
+        {
+          "minute": "23'",
+          "type": "yellow-card",
+          "teamId": "86",
+          "playerName": "Dean Huijsen"
+        }
+      ]
     },
     "564712": {
       "home": {
@@ -770,25 +784,25 @@
     },
     "558570": {
       "home": {
-        "possession": 44,
+        "possession": 48,
         "xg": 0.11,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 131,
-        "duelsWon": 18,
-        "boxTouches": 13,
-        "fouls": 2,
+        "accuratePasses": 163,
+        "duelsWon": 20,
+        "boxTouches": 14,
+        "fouls": 3,
         "corners": 3,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 56,
-        "xg": 0.07,
+        "possession": 52,
+        "xg": 0.26,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 184,
-        "duelsWon": 14,
+        "accuratePasses": 195,
+        "duelsWon": 17,
         "boxTouches": 18,
         "fouls": 2,
         "corners": 2,
@@ -801,7 +815,14 @@
           "type": "goal",
           "teamId": "110",
           "playerName": "Oliver Provstgaard",
-          "method": "header"
+          "method": "header",
+          "assist": "Mattia Zaccagni"
+        },
+        {
+          "minute": "41'",
+          "type": "yellow-card",
+          "teamId": "110",
+          "playerName": "Kenneth Taylor"
         }
       ]
     },
@@ -1323,29 +1344,29 @@
     },
     "559665": {
       "home": {
-        "possession": 65,
-        "xg": 1.32,
-        "shots": 6,
+        "possession": 62,
+        "xg": 1.38,
+        "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 257,
-        "duelsWon": 12,
-        "boxTouches": 15,
+        "accuratePasses": 281,
+        "duelsWon": 14,
+        "boxTouches": 16,
         "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 35,
+        "possession": 38,
         "xg": 0.42,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 131,
-        "duelsWon": 18,
+        "accuratePasses": 163,
+        "duelsWon": 19,
         "boxTouches": 3,
         "fouls": 6,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 2
       },
       "events": [
@@ -1564,30 +1585,30 @@
     },
     "558866": {
       "home": {
-        "possession": 57,
-        "xg": 0.59,
-        "shots": 13,
-        "shotsOnTarget": 2,
-        "accuratePasses": 355,
-        "duelsWon": 24,
-        "boxTouches": 13,
-        "fouls": 8,
-        "corners": 3,
+        "possession": 59,
+        "xg": 0.66,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 372,
+        "duelsWon": 28,
+        "boxTouches": 19,
+        "fouls": 9,
+        "corners": 5,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 43,
-        "xg": 0.62,
-        "shots": 11,
+        "possession": 41,
+        "xg": 0.66,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 244,
-        "duelsWon": 40,
-        "boxTouches": 14,
-        "fouls": 6,
+        "accuratePasses": 246,
+        "duelsWon": 47,
+        "boxTouches": 15,
+        "fouls": 8,
         "corners": 3,
         "offsides": 0,
-        "saves": 1
+        "saves": 3
       },
       "events": [
         {
@@ -1616,6 +1637,12 @@
           "teamId": "676",
           "playerName": "Ángel Alarcon",
           "assist": "Arthur Zagré"
+        },
+        {
+          "minute": "70'",
+          "type": "yellow-card",
+          "teamId": "676",
+          "playerName": "Davy van den Berg"
         }
       ]
     },
@@ -1686,27 +1713,27 @@
     },
     "558870": {
       "home": {
-        "possession": 71,
-        "xg": 1.14,
-        "shots": 9,
+        "possession": 72,
+        "xg": 1.39,
+        "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 377,
-        "duelsWon": 38,
-        "boxTouches": 21,
+        "accuratePasses": 417,
+        "duelsWon": 42,
+        "boxTouches": 31,
         "fouls": 8,
-        "corners": 5,
+        "corners": 8,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 29,
+        "possession": 28,
         "xg": 0.34,
         "shots": 4,
         "shotsOnTarget": 3,
-        "accuratePasses": 128,
-        "duelsWon": 35,
+        "accuratePasses": 133,
+        "duelsWon": 38,
         "boxTouches": 5,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 0,
         "offsides": 1,
         "saves": 4
