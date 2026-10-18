@@ -3804,14 +3804,14 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-18T14:45:00Z",
-    "status": "finished",
+    "status": "in-play",
     "homeTeamId": "677",
     "awayTeamId": "678",
     "homeTeam": {
-      "goals": 2
+      "goals": 0
     },
     "awayTeam": {
-      "goals": 5
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -3856,11 +3856,11 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-18T18:00:00Z",
-    "status": "in-play",
+    "status": "scheduled",
     "homeTeamId": "666",
     "awayTeamId": "676",
     "homeTeam": {
-      "goals": 1
+      "goals": 0
     },
     "awayTeam": {
       "goals": 0
@@ -3874,14 +3874,14 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-18T18:00:00Z",
-    "status": "in-play",
+    "status": "scheduled",
     "homeTeamId": "1915",
     "awayTeamId": "1920",
     "homeTeam": {
-      "goals": 1
+      "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 0
     },
     "venue": "Goffertstadion, Nijmegen"
   },

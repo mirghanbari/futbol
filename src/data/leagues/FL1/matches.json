@@ -2804,14 +2804,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T15:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "525",
     "awayTeamId": "548",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 1.63,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 399,
+        "duelsWon": 47,
+        "boxTouches": 26,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 58,
+        "xg": 0.69,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 597,
+        "duelsWon": 38,
+        "boxTouches": 17,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Stade du Moustoir - Yves Allainmat, Lorient",
     "broadcasts": [
@@ -2828,14 +2856,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T15:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "1045",
     "awayTeamId": "529",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 3.67,
+        "shots": 19,
+        "shotsOnTarget": 9,
+        "accuratePasses": 447,
+        "duelsWon": 52,
+        "boxTouches": 42,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 47,
+        "xg": 3.06,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 384,
+        "duelsWon": 42,
+        "boxTouches": 24,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "Stade Jean Bouin, Paris"
   },
@@ -2846,14 +2902,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T15:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "533",
     "awayTeamId": "519",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.41,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 339,
+        "duelsWon": 65,
+        "boxTouches": 28,
+        "fouls": 16,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 48,
+        "xg": 2.73,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 350,
+        "duelsWon": 59,
+        "boxTouches": 18,
+        "fouls": 22,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 6
+      }
     },
     "venue": "Stade Océane, Le Havre"
   },
@@ -2864,14 +2948,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "523",
     "awayTeamId": "522",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 1.46,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 400,
+        "duelsWon": 37,
+        "boxTouches": 21,
+        "fouls": 6,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 52,
+        "xg": 1.5,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 436,
+        "duelsWon": 41,
+        "boxTouches": 27,
+        "fouls": 14,
+        "corners": 9,
+        "offsides": 3,
+        "saves": 2
+      }
     },
     "venue": "Groupama Stadium, Lyon",
     "broadcasts": [
