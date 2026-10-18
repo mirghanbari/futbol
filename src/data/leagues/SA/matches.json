@@ -3374,14 +3374,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-18T10:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "115",
     "awayTeamId": "5890",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 0.55,
+        "shots": 14,
+        "shotsOnTarget": 2,
+        "accuratePasses": 435,
+        "duelsWon": 38,
+        "boxTouches": 22,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 8
+      },
+      "away": {
+        "possession": 33,
+        "xg": 3.4,
+        "shots": 17,
+        "shotsOnTarget": 11,
+        "accuratePasses": 182,
+        "duelsWon": 43,
+        "boxTouches": 33,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 8,
+        "saves": 2
+      }
     },
     "venue": "Stadio Friuli, Udine",
     "broadcasts": [
