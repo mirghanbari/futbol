@@ -153,13 +153,13 @@
     "560608": {
       "home": {
         "possession": 26,
-        "xg": 0.49,
-        "shots": 11,
+        "xg": 0.68,
+        "shots": 13,
         "shotsOnTarget": 2,
-        "accuratePasses": 140,
-        "duelsWon": 43,
-        "boxTouches": 14,
-        "fouls": 12,
+        "accuratePasses": 152,
+        "duelsWon": 48,
+        "boxTouches": 16,
+        "fouls": 13,
         "corners": 7,
         "offsides": 2,
         "saves": 0
@@ -169,8 +169,8 @@
         "xg": 1.07,
         "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 534,
-        "duelsWon": 44,
+        "accuratePasses": 565,
+        "duelsWon": 48,
         "boxTouches": 29,
         "fouls": 8,
         "corners": 6,
@@ -366,7 +366,7 @@
         "xg": 1.26,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 279,
+        "accuratePasses": 278,
         "duelsWon": 17,
         "boxTouches": 13,
         "fouls": 5,
@@ -478,10 +478,10 @@
         "xg": 0.34,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 309,
-        "duelsWon": 58,
-        "boxTouches": 17,
-        "fouls": 12,
+        "accuratePasses": 312,
+        "duelsWon": 62,
+        "boxTouches": 19,
+        "fouls": 13,
         "corners": 3,
         "offsides": 3,
         "saves": 6
@@ -491,10 +491,10 @@
         "xg": 1.71,
         "shots": 14,
         "shotsOnTarget": 8,
-        "accuratePasses": 338,
-        "duelsWon": 64,
+        "accuratePasses": 342,
+        "duelsWon": 69,
         "boxTouches": 34,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 6,
         "offsides": 2,
         "saves": 2
@@ -532,6 +532,24 @@
           "teamId": "2",
           "playerName": "Alexander Prass",
           "assist": "Adam Hložek"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "2",
+          "playerName": "Alexander Prass"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "2",
+          "playerName": "Leon Avdullahu"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "18",
+          "playerName": "Robin Hack"
         }
       ]
     },
@@ -598,14 +616,14 @@
     "558569": {
       "home": {
         "possession": 61,
-        "xg": 1.09,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 358,
-        "duelsWon": 22,
-        "boxTouches": 13,
+        "xg": 2.25,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 375,
+        "duelsWon": 23,
+        "boxTouches": 15,
         "fouls": 3,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
         "saves": 0
       },
@@ -614,7 +632,7 @@
         "xg": 0.52,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 232,
+        "accuratePasses": 244,
         "duelsWon": 15,
         "boxTouches": 5,
         "fouls": 7,
@@ -644,10 +662,12 @@
           "assist": "Diego Moreira"
         },
         {
-          "minute": "58'",
+          "minute": "57'",
           "type": "goal",
           "teamId": "98",
-          "playerName": "<TBD>"
+          "playerName": "Mario Gila",
+          "method": "header",
+          "assist": "Adrien Rabiot"
         }
       ]
     },
@@ -877,11 +897,11 @@
     "559658": {
       "home": {
         "possession": 53,
-        "xg": 2.88,
+        "xg": 3.67,
         "shots": 19,
         "shotsOnTarget": 9,
-        "accuratePasses": 440,
-        "duelsWon": 48,
+        "accuratePasses": 446,
+        "duelsWon": 51,
         "boxTouches": 42,
         "fouls": 13,
         "corners": 3,
@@ -893,8 +913,8 @@
         "xg": 3.12,
         "shots": 12,
         "shotsOnTarget": 7,
-        "accuratePasses": 374,
-        "duelsWon": 41,
+        "accuratePasses": 381,
+        "duelsWon": 42,
         "boxTouches": 24,
         "fouls": 16,
         "corners": 4,
@@ -932,13 +952,13 @@
           "minute": "36'",
           "type": "yellow-card",
           "teamId": "529",
-          "playerName": "Anthony Rouault"
+          "playerName": "Adrien Thomasson"
         },
         {
           "minute": "36'",
           "type": "yellow-card",
           "teamId": "529",
-          "playerName": "Adrien Thomasson"
+          "playerName": "Anthony Rouault"
         },
         {
           "minute": "42'",
@@ -994,7 +1014,8 @@
           "playerName": "Lassine Sinayoko",
           "penalty": true
         }
-      ]
+      ],
+      "final": true
     },
     "559663": {
       "home": {
