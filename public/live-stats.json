@@ -2,27 +2,27 @@
   "PD": {
     "564715": {
       "home": {
-        "possession": 45,
-        "xg": 1.36,
-        "shots": 4,
+        "possession": 46,
+        "xg": 1.42,
+        "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 60,
-        "duelsWon": 10,
-        "boxTouches": 7,
-        "fouls": 7,
+        "accuratePasses": 85,
+        "duelsWon": 13,
+        "boxTouches": 8,
+        "fouls": 8,
         "corners": 1,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 0
       },
       "away": {
-        "possession": 55,
+        "possession": 54,
         "xg": 0.03,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 83,
-        "duelsWon": 12,
+        "accuratePasses": 106,
+        "duelsWon": 16,
         "boxTouches": 1,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 2,
         "offsides": 1,
         "saves": 1
@@ -40,6 +40,12 @@
           "teamId": "79",
           "playerName": "Ante Budimir",
           "penalty": true
+        },
+        {
+          "minute": "28'",
+          "type": "yellow-card",
+          "teamId": "79",
+          "playerName": "Valentin Rosier"
         }
       ]
     }
@@ -105,6 +111,30 @@
     }
   },
   "DED": {
+    "558865": {
+      "home": {
+        "possession": 41,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 6,
+        "duelsWon": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 59,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 8,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "558867": {
       "home": {
         "possession": 41,
