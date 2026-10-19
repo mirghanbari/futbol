@@ -3582,14 +3582,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-19T16:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5911",
     "awayTeamId": "104",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 2.06,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 347,
+        "duelsWon": 57,
+        "boxTouches": 26,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 54,
+        "xg": 2.37,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 431,
+        "duelsWon": 50,
+        "boxTouches": 26,
+        "fouls": 14,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "U-Power Stadium, Monza",
     "broadcasts": [
@@ -3606,14 +3634,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-19T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "112",
     "awayTeamId": "586",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.39,
+        "shots": 25,
+        "shotsOnTarget": 8,
+        "accuratePasses": 384,
+        "duelsWon": 59,
+        "boxTouches": 50,
+        "fouls": 7,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.35,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 377,
+        "duelsWon": 34,
+        "boxTouches": 20,
+        "fouls": 16,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 8
+      }
     },
     "venue": "Ennio Tardini, Parma",
     "broadcasts": [

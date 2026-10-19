@@ -4791,14 +4791,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-19T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "82",
     "awayTeamId": "87",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 32,
+        "xg": 0.63,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 183,
+        "duelsWon": 37,
+        "boxTouches": 11,
+        "fouls": 12,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 4
+      },
+      "away": {
+        "possession": 68,
+        "xg": 2.14,
+        "shots": 21,
+        "shotsOnTarget": 5,
+        "accuratePasses": 521,
+        "duelsWon": 37,
+        "boxTouches": 18,
+        "fouls": 9,
+        "corners": 8,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Estadio Coliseum, Getafe",
     "broadcasts": [
