@@ -2,26 +2,26 @@
   "SA": {
     "558576": {
       "home": {
-        "possession": 48,
-        "xg": 1.82,
+        "possession": 47,
+        "xg": 1.83,
         "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 319,
-        "duelsWon": 48,
+        "accuratePasses": 337,
+        "duelsWon": 52,
         "boxTouches": 22,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 0,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 52,
-        "xg": 1.15,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 352,
-        "duelsWon": 44,
-        "boxTouches": 19,
+        "possession": 53,
+        "xg": 1.24,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 381,
+        "duelsWon": 48,
+        "boxTouches": 23,
         "fouls": 13,
         "corners": 7,
         "offsides": 1,
@@ -60,6 +60,18 @@
           "type": "goal",
           "teamId": "5911",
           "playerName": "Gustavo Varela"
+        },
+        {
+          "minute": "82'",
+          "type": "yellow-card",
+          "teamId": "104",
+          "playerName": "Alieu Fadera"
+        },
+        {
+          "minute": "82'",
+          "type": "yellow-card",
+          "teamId": "5911",
+          "playerName": "Samuele Birindelli"
         }
       ]
     }
