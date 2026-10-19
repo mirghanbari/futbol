@@ -2,30 +2,30 @@
   "PL": {
     "560606": {
       "home": {
-        "possession": 72,
-        "xg": 0.43,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 312,
-        "duelsWon": 31,
-        "boxTouches": 13,
+        "possession": 73,
+        "xg": 0.58,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 339,
+        "duelsWon": 32,
+        "boxTouches": 17,
         "fouls": 9,
-        "corners": 1,
+        "corners": 2,
         "offsides": 4,
         "saves": 0
       },
       "away": {
-        "possession": 28,
-        "xg": 0.32,
-        "shots": 5,
+        "possession": 27,
+        "xg": 0.43,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 105,
-        "duelsWon": 27,
+        "accuratePasses": 106,
+        "duelsWon": 28,
         "boxTouches": 14,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 3,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -66,27 +66,27 @@
   "PD": {
     "564717": {
       "home": {
-        "possession": 33,
+        "possession": 32,
         "xg": 0.27,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 107,
-        "duelsWon": 18,
+        "accuratePasses": 114,
+        "duelsWon": 21,
         "boxTouches": 8,
-        "fouls": 6,
-        "corners": 5,
+        "fouls": 7,
+        "corners": 7,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 67,
+        "possession": 68,
         "xg": 1.2,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 283,
-        "duelsWon": 22,
-        "boxTouches": 4,
-        "fouls": 4,
+        "accuratePasses": 317,
+        "duelsWon": 24,
+        "boxTouches": 6,
+        "fouls": 5,
         "corners": 2,
         "offsides": 3,
         "saves": 1
@@ -122,6 +122,12 @@
           "type": "yellow-card",
           "teamId": "87",
           "playerName": "Iván Balliu"
+        },
+        {
+          "minute": "51'",
+          "type": "yellow-card",
+          "teamId": "82",
+          "playerName": "Francho Serrano"
         }
       ]
     }
@@ -205,12 +211,12 @@
     },
     "558578": {
       "home": {
-        "possession": 52,
+        "possession": 50,
         "xg": 1.01,
         "shots": 16,
         "shotsOnTarget": 6,
-        "accuratePasses": 295,
-        "duelsWon": 45,
+        "accuratePasses": 309,
+        "duelsWon": 46,
         "boxTouches": 35,
         "fouls": 3,
         "corners": 4,
@@ -218,16 +224,16 @@
         "saves": 0
       },
       "away": {
-        "possession": 48,
-        "xg": 1.31,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 283,
+        "possession": 50,
+        "xg": 1.35,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 316,
         "duelsWon": 24,
-        "boxTouches": 16,
+        "boxTouches": 17,
         "fouls": 13,
         "corners": 2,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 6
       },
       "events": [
@@ -262,6 +268,13 @@
           "type": "yellow-card",
           "teamId": "112",
           "playerName": "Sascha Britschgi"
+        },
+        {
+          "minute": "69'",
+          "type": "goal",
+          "teamId": "586",
+          "playerName": "Giovanni Simeone",
+          "assist": "Rafik Belghali"
         }
       ]
     }
