@@ -3,13 +3,13 @@
     "558576": {
       "home": {
         "possession": 48,
-        "xg": 0.99,
-        "shots": 9,
-        "shotsOnTarget": 5,
-        "accuratePasses": 304,
-        "duelsWon": 43,
-        "boxTouches": 20,
-        "fouls": 7,
+        "xg": 1.82,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 319,
+        "duelsWon": 48,
+        "boxTouches": 22,
+        "fouls": 8,
         "corners": 0,
         "offsides": 2,
         "saves": 3
@@ -19,12 +19,12 @@
         "xg": 1.15,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 333,
-        "duelsWon": 38,
-        "boxTouches": 16,
-        "fouls": 11,
+        "accuratePasses": 352,
+        "duelsWon": 44,
+        "boxTouches": 19,
+        "fouls": 13,
         "corners": 7,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 2
       },
       "events": [
@@ -48,6 +48,18 @@
           "teamId": "5911",
           "playerName": "Jay Robinson",
           "assist": "Gustavo Varela"
+        },
+        {
+          "minute": "76'",
+          "type": "yellow-card",
+          "teamId": "104",
+          "playerName": "Harry Winks"
+        },
+        {
+          "minute": "79'",
+          "type": "goal",
+          "teamId": "5911",
+          "playerName": "Gustavo Varela"
         }
       ]
     }
