@@ -2,28 +2,28 @@
   "PL": {
     "560606": {
       "home": {
-        "possession": 69,
-        "xg": 0.8,
-        "shots": 14,
+        "possession": 65,
+        "xg": 0.82,
+        "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 475,
-        "duelsWon": 48,
-        "boxTouches": 21,
-        "fouls": 12,
+        "accuratePasses": 488,
+        "duelsWon": 53,
+        "boxTouches": 23,
+        "fouls": 15,
         "corners": 4,
         "offsides": 6,
         "saves": 0
       },
       "away": {
-        "possession": 31,
-        "xg": 0.6,
-        "shots": 10,
+        "possession": 35,
+        "xg": 0.65,
+        "shots": 12,
         "shotsOnTarget": 1,
-        "accuratePasses": 181,
-        "duelsWon": 47,
-        "boxTouches": 20,
-        "fouls": 12,
-        "corners": 3,
+        "accuratePasses": 219,
+        "duelsWon": 56,
+        "boxTouches": 25,
+        "fouls": 13,
+        "corners": 4,
         "offsides": 1,
         "saves": 2
       },
@@ -81,26 +81,26 @@
       "home": {
         "possession": 32,
         "xg": 0.6,
-        "shots": 11,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 172,
-        "duelsWon": 35,
+        "accuratePasses": 184,
+        "duelsWon": 37,
         "boxTouches": 11,
-        "fouls": 10,
+        "fouls": 12,
         "corners": 8,
         "offsides": 0,
         "saves": 4
       },
       "away": {
         "possession": 68,
-        "xg": 2.01,
-        "shots": 19,
+        "xg": 2.25,
+        "shots": 21,
         "shotsOnTarget": 5,
-        "accuratePasses": 486,
-        "duelsWon": 35,
-        "boxTouches": 15,
-        "fouls": 8,
-        "corners": 7,
+        "accuratePasses": 518,
+        "duelsWon": 38,
+        "boxTouches": 18,
+        "fouls": 9,
+        "corners": 8,
         "offsides": 3,
         "saves": 3
       },
@@ -172,6 +172,12 @@
           "type": "yellow-card",
           "teamId": "82",
           "playerName": "Nemanja Gudelj"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "yellow-card",
+          "teamId": "87",
+          "playerName": "Sergio Camello"
         }
       ]
     }
@@ -339,26 +345,26 @@
   "PPL": {
     "567271": {
       "home": {
-        "possession": 55,
+        "possession": 57,
         "xg": 0.71,
-        "shots": 9,
+        "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 426,
-        "duelsWon": 21,
-        "boxTouches": 22,
-        "fouls": 7,
+        "accuratePasses": 470,
+        "duelsWon": 22,
+        "boxTouches": 24,
+        "fouls": 8,
         "corners": 1,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 45,
-        "xg": 1.32,
-        "shots": 7,
+        "possession": 43,
+        "xg": 1.41,
+        "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 330,
-        "duelsWon": 23,
-        "boxTouches": 11,
+        "accuratePasses": 338,
+        "duelsWon": 24,
+        "boxTouches": 12,
         "fouls": 7,
         "corners": 1,
         "offsides": 1,
@@ -401,6 +407,13 @@
           "type": "yellow-card",
           "teamId": "5533",
           "playerName": "Marvin Gilbert"
+        },
+        {
+          "minute": "72'",
+          "type": "goal",
+          "teamId": "5533",
+          "playerName": "Diogo Travassos",
+          "ownGoal": true
         }
       ]
     }
