@@ -2,25 +2,25 @@
   "SA": {
     "558576": {
       "home": {
-        "possession": 46,
-        "xg": 1.83,
-        "shots": 11,
+        "possession": 45,
+        "xg": 2.04,
+        "shots": 14,
         "shotsOnTarget": 6,
-        "accuratePasses": 343,
-        "duelsWon": 54,
-        "boxTouches": 23,
-        "fouls": 9,
-        "corners": 1,
+        "accuratePasses": 345,
+        "duelsWon": 56,
+        "boxTouches": 27,
+        "fouls": 10,
+        "corners": 2,
         "offsides": 2,
         "saves": 5
       },
       "away": {
-        "possession": 54,
-        "xg": 1.82,
-        "shots": 15,
+        "possession": 55,
+        "xg": 1.84,
+        "shots": 16,
         "shotsOnTarget": 5,
-        "accuratePasses": 410,
-        "duelsWon": 49,
+        "accuratePasses": 431,
+        "duelsWon": 50,
         "boxTouches": 26,
         "fouls": 14,
         "corners": 7,
@@ -64,16 +64,17 @@
         {
           "minute": "82'",
           "type": "yellow-card",
-          "teamId": "104",
-          "playerName": "Alieu Fadera"
+          "teamId": "5911",
+          "playerName": "Samuele Birindelli"
         },
         {
           "minute": "82'",
           "type": "yellow-card",
-          "teamId": "5911",
-          "playerName": "Samuele Birindelli"
+          "teamId": "104",
+          "playerName": "Alieu Fadera"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
