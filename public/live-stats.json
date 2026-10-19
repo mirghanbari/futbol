@@ -3,15 +3,15 @@
     "560606": {
       "home": {
         "possession": 69,
-        "xg": 0.72,
-        "shots": 12,
-        "shotsOnTarget": 3,
-        "accuratePasses": 416,
-        "duelsWon": 44,
-        "boxTouches": 19,
-        "fouls": 11,
+        "xg": 0.8,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 452,
+        "duelsWon": 48,
+        "boxTouches": 21,
+        "fouls": 12,
         "corners": 4,
-        "offsides": 5,
+        "offsides": 6,
         "saves": 0
       },
       "away": {
@@ -19,13 +19,13 @@
         "xg": 0.56,
         "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 164,
-        "duelsWon": 40,
-        "boxTouches": 18,
+        "accuratePasses": 172,
+        "duelsWon": 44,
+        "boxTouches": 19,
         "fouls": 12,
         "corners": 3,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -80,29 +80,29 @@
     "564717": {
       "home": {
         "possession": 33,
-        "xg": 0.58,
-        "shots": 10,
-        "shotsOnTarget": 3,
-        "accuratePasses": 163,
-        "duelsWon": 29,
+        "xg": 0.6,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 168,
+        "duelsWon": 32,
         "boxTouches": 11,
         "fouls": 8,
-        "corners": 7,
+        "corners": 8,
         "offsides": 0,
         "saves": 4
       },
       "away": {
         "possession": 67,
-        "xg": 1.87,
-        "shots": 16,
+        "xg": 1.99,
+        "shots": 18,
         "shotsOnTarget": 5,
-        "accuratePasses": 433,
-        "duelsWon": 29,
-        "boxTouches": 13,
-        "fouls": 7,
-        "corners": 6,
+        "accuratePasses": 443,
+        "duelsWon": 32,
+        "boxTouches": 14,
+        "fouls": 8,
+        "corners": 7,
         "offsides": 3,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -154,6 +154,12 @@
           "type": "yellow-card",
           "teamId": "87",
           "playerName": "Pathé Ciss"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "82",
+          "playerName": "Daniel Carvajal"
         }
       ]
     }
@@ -321,30 +327,30 @@
   "PPL": {
     "567271": {
       "home": {
-        "possession": 56,
-        "xg": 0.57,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 369,
+        "possession": 55,
+        "xg": 0.65,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 400,
         "duelsWon": 20,
-        "boxTouches": 19,
+        "boxTouches": 20,
         "fouls": 6,
         "corners": 1,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 44,
+        "possession": 45,
         "xg": 1.32,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 270,
-        "duelsWon": 20,
+        "accuratePasses": 311,
+        "duelsWon": 22,
         "boxTouches": 11,
         "fouls": 7,
         "corners": 1,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
