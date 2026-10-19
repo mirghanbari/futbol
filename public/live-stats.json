@@ -3,10 +3,10 @@
     "560606": {
       "home": {
         "possession": 72,
-        "xg": 0.39,
+        "xg": 0.43,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 289,
+        "accuratePasses": 288,
         "duelsWon": 27,
         "boxTouches": 13,
         "fouls": 6,
@@ -16,7 +16,7 @@
       },
       "away": {
         "possession": 28,
-        "xg": 0.42,
+        "xg": 0.32,
         "shots": 4,
         "shotsOnTarget": 0,
         "accuratePasses": 92,
@@ -111,7 +111,7 @@
           "playerName": "Djené"
         },
         {
-          "minute": "45'+2'",
+          "minute": "45'+1'",
           "type": "yellow-card",
           "teamId": "87",
           "playerName": "Iván Balliu"
@@ -198,30 +198,30 @@
     },
     "558578": {
       "home": {
-        "possession": 54,
-        "xg": 0.79,
-        "shots": 13,
-        "shotsOnTarget": 5,
-        "accuratePasses": 261,
-        "duelsWon": 38,
-        "boxTouches": 31,
+        "possession": 52,
+        "xg": 0.88,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 276,
+        "duelsWon": 42,
+        "boxTouches": 33,
         "fouls": 3,
-        "corners": 3,
+        "corners": 4,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 46,
+        "possession": 48,
         "xg": 1.31,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 219,
-        "duelsWon": 21,
+        "accuratePasses": 256,
+        "duelsWon": 22,
         "boxTouches": 16,
-        "fouls": 10,
+        "fouls": 12,
         "corners": 2,
         "offsides": 1,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -262,27 +262,27 @@
   "PPL": {
     "567271": {
       "home": {
-        "possession": 58,
-        "xg": 0.49,
-        "shots": 3,
+        "possession": 61,
+        "xg": 0.53,
+        "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 263,
-        "duelsWon": 14,
-        "boxTouches": 10,
+        "accuratePasses": 312,
+        "duelsWon": 15,
+        "boxTouches": 14,
         "fouls": 5,
         "corners": 1,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 42,
+        "possession": 39,
         "xg": 0.25,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 176,
-        "duelsWon": 15,
+        "accuratePasses": 179,
+        "duelsWon": 16,
         "boxTouches": 6,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 1,
         "offsides": 0,
         "saves": 1
