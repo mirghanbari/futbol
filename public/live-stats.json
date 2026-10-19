@@ -355,12 +355,12 @@
     "567271": {
       "home": {
         "possession": 60,
-        "xg": 1.23,
+        "xg": 1.25,
         "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 604,
-        "duelsWon": 33,
-        "boxTouches": 41,
+        "accuratePasses": 610,
+        "duelsWon": 34,
+        "boxTouches": 40,
         "fouls": 13,
         "corners": 4,
         "offsides": 2,
@@ -371,8 +371,8 @@
         "xg": 1.52,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 379,
-        "duelsWon": 37,
+        "accuratePasses": 382,
+        "duelsWon": 40,
         "boxTouches": 13,
         "fouls": 9,
         "corners": 1,
@@ -435,8 +435,15 @@
           "type": "yellow-card",
           "teamId": "5533",
           "playerName": "Zé Carlos"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "yellow-card",
+          "teamId": "5613",
+          "playerName": "Ricardo Horta"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
