@@ -2,27 +2,27 @@
   "PL": {
     "560606": {
       "home": {
-        "possession": 77,
+        "possession": 79,
         "xg": 0.18,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 135,
-        "duelsWon": 13,
+        "accuratePasses": 171,
+        "duelsWon": 16,
         "boxTouches": 8,
-        "fouls": 2,
+        "fouls": 4,
         "corners": 0,
         "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 23,
+        "possession": 21,
         "xg": 0.4,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 32,
-        "duelsWon": 8,
-        "boxTouches": 6,
-        "fouls": 1,
+        "accuratePasses": 35,
+        "duelsWon": 12,
+        "boxTouches": 8,
+        "fouls": 3,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -34,6 +34,18 @@
           "teamId": "73",
           "playerName": "James Maddison",
           "assist": "Mohammed Kudus"
+        },
+        {
+          "minute": "20'",
+          "type": "yellow-card",
+          "teamId": "1076",
+          "playerName": "Caleb Yirenkyi"
+        },
+        {
+          "minute": "22'",
+          "type": "yellow-card",
+          "teamId": "73",
+          "playerName": "Dominic Solanke"
         }
       ]
     }
@@ -41,29 +53,29 @@
   "PD": {
     "564717": {
       "home": {
-        "possession": 42,
+        "possession": 37,
         "xg": 0.14,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 48,
+        "accuratePasses": 55,
         "duelsWon": 6,
-        "boxTouches": 3,
-        "fouls": 2,
+        "boxTouches": 5,
+        "fouls": 3,
         "corners": 3,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 58,
-        "xg": 0.64,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 83,
-        "duelsWon": 7,
-        "boxTouches": 2,
+        "possession": 63,
+        "xg": 0.73,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 123,
+        "duelsWon": 9,
+        "boxTouches": 3,
         "fouls": 1,
-        "corners": 0,
-        "offsides": 1,
+        "corners": 1,
+        "offsides": 2,
         "saves": 0
       },
       "events": [
@@ -169,12 +181,12 @@
     "558578": {
       "home": {
         "possession": 47,
-        "xg": 0.6,
-        "shots": 6,
+        "xg": 0.45,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 168,
-        "duelsWon": 18,
-        "boxTouches": 10,
+        "accuratePasses": 186,
+        "duelsWon": 22,
+        "boxTouches": 13,
         "fouls": 2,
         "corners": 1,
         "offsides": 0,
@@ -185,13 +197,13 @@
         "xg": 1.31,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 187,
-        "duelsWon": 15,
-        "boxTouches": 14,
-        "fouls": 5,
+        "accuratePasses": 208,
+        "duelsWon": 16,
+        "boxTouches": 16,
+        "fouls": 6,
         "corners": 2,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -213,6 +225,12 @@
           "type": "yellow-card",
           "teamId": "112",
           "playerName": "Diego Carlos"
+        },
+        {
+          "minute": "37'",
+          "type": "yellow-card",
+          "teamId": "586",
+          "playerName": "Ardian Ismajli"
         }
       ]
     }
@@ -220,23 +238,27 @@
   "PPL": {
     "567271": {
       "home": {
-        "possession": 76,
+        "possession": 77,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 44,
-        "duelsWon": 1,
-        "fouls": 1,
+        "accuratePasses": 97,
+        "duelsWon": 3,
+        "boxTouches": 3,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 24,
-        "shots": 0,
+        "possession": 23,
+        "xg": 0.06,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 11,
-        "duelsWon": 2,
-        "fouls": 1,
+        "accuratePasses": 22,
+        "duelsWon": 4,
+        "boxTouches": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
