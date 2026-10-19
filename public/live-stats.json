@@ -2,27 +2,27 @@
   "PL": {
     "560606": {
       "home": {
-        "possession": 65,
-        "xg": 0.82,
-        "shots": 15,
-        "shotsOnTarget": 4,
-        "accuratePasses": 488,
-        "duelsWon": 53,
-        "boxTouches": 23,
+        "possession": 66,
+        "xg": 0.87,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 499,
+        "duelsWon": 55,
+        "boxTouches": 24,
         "fouls": 15,
         "corners": 4,
         "offsides": 6,
         "saves": 0
       },
       "away": {
-        "possession": 35,
-        "xg": 0.65,
+        "possession": 34,
+        "xg": 0.82,
         "shots": 12,
         "shotsOnTarget": 1,
-        "accuratePasses": 219,
-        "duelsWon": 56,
-        "boxTouches": 25,
-        "fouls": 13,
+        "accuratePasses": 222,
+        "duelsWon": 58,
+        "boxTouches": 26,
+        "fouls": 14,
         "corners": 4,
         "offsides": 1,
         "saves": 2
@@ -72,15 +72,23 @@
           "type": "yellow-card",
           "teamId": "1076",
           "playerName": "Jack Rudoni"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "goal",
+          "teamId": "73",
+          "playerName": "Ben Davies",
+          "assist": "Dominic Solanke"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PD": {
     "564717": {
       "home": {
         "possession": 32,
-        "xg": 0.6,
+        "xg": 0.63,
         "shots": 12,
         "shotsOnTarget": 4,
         "accuratePasses": 184,
@@ -93,10 +101,10 @@
       },
       "away": {
         "possession": 68,
-        "xg": 2.25,
+        "xg": 2.14,
         "shots": 21,
         "shotsOnTarget": 5,
-        "accuratePasses": 518,
+        "accuratePasses": 520,
         "duelsWon": 38,
         "boxTouches": 18,
         "fouls": 9,
@@ -179,7 +187,8 @@
           "teamId": "87",
           "playerName": "Sergio Camello"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "SA": {
@@ -345,25 +354,25 @@
   "PPL": {
     "567271": {
       "home": {
-        "possession": 57,
-        "xg": 0.71,
+        "possession": 58,
+        "xg": 0.73,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 470,
-        "duelsWon": 22,
-        "boxTouches": 24,
-        "fouls": 8,
+        "accuratePasses": 510,
+        "duelsWon": 24,
+        "boxTouches": 25,
+        "fouls": 9,
         "corners": 1,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 43,
+        "possession": 42,
         "xg": 1.41,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 338,
-        "duelsWon": 24,
+        "accuratePasses": 347,
+        "duelsWon": 27,
         "boxTouches": 12,
         "fouls": 7,
         "corners": 1,
