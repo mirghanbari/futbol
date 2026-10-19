@@ -78,30 +78,39 @@
     },
     "558578": {
       "home": {
-        "possession": 17,
+        "possession": 38,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 2,
-        "duelsWon": 1,
+        "accuratePasses": 24,
+        "duelsWon": 5,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 83,
-        "xg": 0.05,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 14,
-        "duelsWon": 2,
-        "boxTouches": 1,
-        "fouls": 0,
+        "possession": 62,
+        "xg": 0.37,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 42,
+        "duelsWon": 4,
+        "boxTouches": 3,
+        "fouls": 2,
         "corners": 1,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "4'",
+          "type": "goal",
+          "teamId": "586",
+          "playerName": "Giovanni Simeone",
+          "assist": "Rafik Belghali"
+        }
+      ]
     }
   }
 }
