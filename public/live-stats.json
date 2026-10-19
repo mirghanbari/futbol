@@ -354,27 +354,27 @@
   "PPL": {
     "567271": {
       "home": {
-        "possession": 59,
-        "xg": 0.77,
-        "shots": 12,
+        "possession": 60,
+        "xg": 0.8,
+        "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 529,
-        "duelsWon": 27,
-        "boxTouches": 30,
-        "fouls": 11,
+        "accuratePasses": 574,
+        "duelsWon": 30,
+        "boxTouches": 34,
+        "fouls": 12,
         "corners": 3,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 41,
+        "possession": 40,
         "xg": 1.52,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 351,
-        "duelsWon": 32,
+        "accuratePasses": 368,
+        "duelsWon": 35,
         "boxTouches": 13,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 1,
         "offsides": 1,
         "saves": 2
@@ -429,6 +429,12 @@
           "type": "yellow-card",
           "teamId": "5613",
           "playerName": "Víctor Gómez"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "5533",
+          "playerName": "Zé Carlos"
         }
       ]
     }
