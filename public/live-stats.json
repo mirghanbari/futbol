@@ -2,28 +2,28 @@
   "PL": {
     "560606": {
       "home": {
-        "possession": 83,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 58,
-        "duelsWon": 7,
-        "boxTouches": 2,
+        "possession": 76,
+        "xg": 0.08,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 106,
+        "duelsWon": 10,
+        "boxTouches": 6,
         "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 17,
-        "xg": 0.04,
-        "shots": 1,
+        "possession": 24,
+        "xg": 0.4,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 8,
-        "duelsWon": 4,
-        "boxTouches": 1,
-        "fouls": 0,
-        "corners": 0,
+        "accuratePasses": 27,
+        "duelsWon": 5,
+        "boxTouches": 6,
+        "fouls": 1,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       }
@@ -32,12 +32,12 @@
   "PD": {
     "564717": {
       "home": {
-        "possession": 38,
+        "possession": 43,
         "xg": 0.14,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 22,
-        "duelsWon": 3,
+        "accuratePasses": 41,
+        "duelsWon": 5,
         "boxTouches": 3,
         "fouls": 1,
         "corners": 1,
@@ -45,14 +45,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 62,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 44,
-        "duelsWon": 5,
-        "boxTouches": 1,
-        "fouls": 0,
+        "possession": 57,
+        "xg": 0.64,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 62,
+        "duelsWon": 6,
+        "boxTouches": 2,
+        "fouls": 1,
         "corners": 0,
         "offsides": 1,
         "saves": 0
@@ -63,6 +63,13 @@
           "type": "yellow-card",
           "teamId": "82",
           "playerName": "Kiko"
+        },
+        {
+          "minute": "11'",
+          "type": "goal",
+          "teamId": "87",
+          "playerName": "Álvaro Garcia",
+          "assist": "Jorge de Frutos"
         }
       ]
     }
@@ -146,25 +153,25 @@
     },
     "558578": {
       "home": {
-        "possession": 44,
+        "possession": 48,
         "xg": 0.14,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 108,
-        "duelsWon": 11,
+        "accuratePasses": 143,
+        "duelsWon": 12,
         "boxTouches": 5,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 56,
-        "xg": 0.68,
+        "possession": 52,
+        "xg": 1.31,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 141,
-        "duelsWon": 12,
+        "accuratePasses": 156,
+        "duelsWon": 14,
         "boxTouches": 14,
         "fouls": 4,
         "corners": 2,
@@ -183,7 +190,14 @@
           "minute": "24'",
           "type": "goal",
           "teamId": "586",
-          "playerName": "<TBD>"
+          "playerName": "Ché Adams",
+          "method": "header"
+        },
+        {
+          "minute": "28'",
+          "type": "yellow-card",
+          "teamId": "112",
+          "playerName": "Diego Carlos"
         }
       ]
     }
