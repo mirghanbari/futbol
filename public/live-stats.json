@@ -354,26 +354,26 @@
   "PPL": {
     "567271": {
       "home": {
-        "possession": 58,
-        "xg": 0.73,
-        "shots": 10,
+        "possession": 59,
+        "xg": 0.77,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 510,
-        "duelsWon": 24,
-        "boxTouches": 25,
-        "fouls": 9,
-        "corners": 1,
+        "accuratePasses": 529,
+        "duelsWon": 27,
+        "boxTouches": 30,
+        "fouls": 11,
+        "corners": 3,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 42,
-        "xg": 1.41,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 347,
-        "duelsWon": 27,
-        "boxTouches": 12,
+        "possession": 41,
+        "xg": 1.52,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 351,
+        "duelsWon": 32,
+        "boxTouches": 13,
         "fouls": 7,
         "corners": 1,
         "offsides": 1,
@@ -423,6 +423,12 @@
           "teamId": "5533",
           "playerName": "Diogo Travassos",
           "ownGoal": true
+        },
+        {
+          "minute": "83'",
+          "type": "yellow-card",
+          "teamId": "5613",
+          "playerName": "Víctor Gómez"
         }
       ]
     }
