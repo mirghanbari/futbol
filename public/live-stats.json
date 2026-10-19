@@ -2,25 +2,25 @@
   "SA": {
     "558576": {
       "home": {
-        "possession": 46,
-        "xg": 0.59,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 206,
-        "duelsWon": 21,
-        "boxTouches": 12,
+        "possession": 48,
+        "xg": 0.67,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 226,
+        "duelsWon": 25,
+        "boxTouches": 14,
         "fouls": 5,
         "corners": 0,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 54,
+        "possession": 52,
         "xg": 0.51,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 238,
-        "duelsWon": 22,
+        "accuratePasses": 240,
+        "duelsWon": 24,
         "boxTouches": 7,
         "fouls": 3,
         "corners": 3,
@@ -34,6 +34,13 @@
           "teamId": "5911",
           "playerName": "Eddy Kouadio",
           "assist": "Dany Mota"
+        },
+        {
+          "minute": "47'",
+          "type": "goal",
+          "teamId": "5911",
+          "playerName": "Gustavo Varela",
+          "assist": "Foe Ondoa"
         }
       ]
     }
