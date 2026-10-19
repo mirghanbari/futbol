@@ -3,14 +3,14 @@
     "560606": {
       "home": {
         "possession": 73,
-        "xg": 0.58,
-        "shots": 9,
-        "shotsOnTarget": 2,
-        "accuratePasses": 339,
-        "duelsWon": 32,
+        "xg": 0.63,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 362,
+        "duelsWon": 33,
         "boxTouches": 17,
         "fouls": 9,
-        "corners": 2,
+        "corners": 3,
         "offsides": 4,
         "saves": 0
       },
@@ -19,8 +19,8 @@
         "xg": 0.43,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 106,
-        "duelsWon": 28,
+        "accuratePasses": 109,
+        "duelsWon": 30,
         "boxTouches": 14,
         "fouls": 10,
         "corners": 3,
@@ -59,6 +59,13 @@
           "teamId": "1076",
           "playerName": "Jack Rudoni",
           "assist": "Brandon Thomas-Asante"
+        },
+        {
+          "minute": "58'",
+          "type": "goal",
+          "teamId": "73",
+          "playerName": "Omar Marmoush",
+          "assist": "Andrew Robertson"
         }
       ]
     }
@@ -66,24 +73,24 @@
   "PD": {
     "564717": {
       "home": {
-        "possession": 32,
-        "xg": 0.27,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 114,
-        "duelsWon": 21,
-        "boxTouches": 8,
+        "possession": 33,
+        "xg": 0.49,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 127,
+        "duelsWon": 23,
+        "boxTouches": 9,
         "fouls": 7,
         "corners": 7,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 68,
+        "possession": 67,
         "xg": 1.2,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 317,
+        "accuratePasses": 341,
         "duelsWon": 24,
         "boxTouches": 6,
         "fouls": 5,
@@ -128,6 +135,13 @@
           "type": "yellow-card",
           "teamId": "82",
           "playerName": "Francho Serrano"
+        },
+        {
+          "minute": "57'",
+          "type": "goal",
+          "teamId": "82",
+          "playerName": "Martín Satriano",
+          "assist": "Francho Serrano"
         }
       ]
     }
@@ -213,13 +227,13 @@
       "home": {
         "possession": 50,
         "xg": 1.01,
-        "shots": 16,
-        "shotsOnTarget": 6,
-        "accuratePasses": 309,
-        "duelsWon": 46,
-        "boxTouches": 35,
-        "fouls": 3,
-        "corners": 4,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 320,
+        "duelsWon": 50,
+        "boxTouches": 39,
+        "fouls": 4,
+        "corners": 6,
         "offsides": 1,
         "saves": 0
       },
@@ -228,13 +242,13 @@
         "xg": 1.35,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 316,
-        "duelsWon": 24,
+        "accuratePasses": 330,
+        "duelsWon": 28,
         "boxTouches": 17,
-        "fouls": 13,
+        "fouls": 15,
         "corners": 2,
         "offsides": 2,
-        "saves": 6
+        "saves": 7
       },
       "events": [
         {
@@ -275,6 +289,12 @@
           "teamId": "586",
           "playerName": "Giovanni Simeone",
           "assist": "Rafik Belghali"
+        },
+        {
+          "minute": "75'",
+          "type": "yellow-card",
+          "teamId": "586",
+          "playerName": "Pietro Comuzzo"
         }
       ]
     }
