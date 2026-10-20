@@ -472,12 +472,12 @@
     "575367": {
       "home": {
         "possession": 47,
-        "xg": 3.79,
+        "xg": 3.73,
         "shots": 22,
         "shotsOnTarget": 15,
-        "accuratePasses": 402,
-        "duelsWon": 32,
-        "boxTouches": 30,
+        "accuratePasses": 409,
+        "duelsWon": 33,
+        "boxTouches": 32,
         "fouls": 11,
         "corners": 2,
         "offsides": 2,
@@ -485,11 +485,11 @@
       },
       "away": {
         "possession": 53,
-        "xg": 2.2,
+        "xg": 2.19,
         "shots": 18,
         "shotsOnTarget": 5,
-        "accuratePasses": 470,
-        "duelsWon": 32,
+        "accuratePasses": 471,
+        "duelsWon": 33,
         "boxTouches": 31,
         "fouls": 10,
         "corners": 3,
@@ -544,7 +544,8 @@
           "playerName": "Fabián Ruiz",
           "assist": "Achraf Hakimi"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
