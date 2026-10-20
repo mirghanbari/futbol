@@ -2,30 +2,38 @@
   "ELC": {
     "561826": {
       "home": {
-        "possession": 53,
+        "possession": 48,
         "xg": 0.1,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 29,
-        "duelsWon": 3,
+        "accuratePasses": 87,
+        "duelsWon": 5,
         "boxTouches": 1,
-        "fouls": 0,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 0
-      },
-      "away": {
-        "possession": 47,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 24,
-        "duelsWon": 7,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 0
-      }
+      },
+      "away": {
+        "possession": 52,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 92,
+        "duelsWon": 16,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "22'",
+          "type": "yellow-card",
+          "teamId": "76",
+          "playerName": "Sean Neave"
+        }
+      ]
     }
   },
   "CL": {
@@ -108,12 +116,74 @@
     },
     "575362": {
       "home": {
-        "possession": 60,
-        "xg": 0.1,
+        "possession": 50,
+        "xg": 0.16,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 43,
+        "duelsWon": 2,
+        "boxTouches": 5,
+        "fouls": 0,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 50,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 42,
+        "duelsWon": 3,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 2
+      }
+    },
+    "575363": {
+      "home": {
+        "possession": 34,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 12,
+        "duelsWon": 4,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 66,
+        "xg": 0.24,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 2,
-        "duelsWon": 0,
+        "accuratePasses": 27,
+        "duelsWon": 2,
+        "boxTouches": 3,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "4'",
+          "type": "goal",
+          "teamId": "94",
+          "playerName": "Georges Mikautadze"
+        }
+      ]
+    },
+    "575365": {
+      "home": {
+        "possession": 30,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 27,
+        "duelsWon": 1,
         "boxTouches": 1,
         "fouls": 0,
         "corners": 0,
@@ -121,16 +191,80 @@
         "saves": 0
       },
       "away": {
-        "possession": 40,
+        "possession": 70,
+        "xg": 0.09,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 69,
+        "duelsWon": 3,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "575366": {
+      "home": {
+        "possession": 75,
+        "xg": 0.11,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 23,
+        "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 25,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 0,
+        "accuratePasses": 6,
+        "duelsWon": 4,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "1'",
+          "type": "goal",
+          "teamId": "113",
+          "playerName": "Matteo Politano",
+          "assist": "Leonardo Spinazzola"
+        }
+      ]
+    },
+    "575367": {
+      "home": {
+        "possession": 53,
+        "xg": 0.07,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 20,
+        "duelsWon": 2,
+        "boxTouches": 2,
+        "fouls": 0,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 47,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 18,
         "duelsWon": 0,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
-        "saves": 1
+        "saves": 0
       }
     }
   }
