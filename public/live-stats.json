@@ -2,30 +2,30 @@
   "CL": {
     "575359": {
       "home": {
-        "possession": 44,
-        "xg": 0.12,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 159,
-        "duelsWon": 11,
-        "boxTouches": 9,
+        "possession": 46,
+        "xg": 0.93,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 174,
+        "duelsWon": 14,
+        "boxTouches": 11,
         "fouls": 4,
-        "corners": 1,
-        "offsides": 2,
+        "corners": 2,
+        "offsides": 3,
         "saves": 4
       },
       "away": {
-        "possession": 56,
+        "possession": 54,
         "xg": 2.27,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 197,
-        "duelsWon": 21,
-        "boxTouches": 22,
+        "accuratePasses": 207,
+        "duelsWon": 22,
+        "boxTouches": 23,
         "fouls": 3,
-        "corners": 4,
-        "offsides": 0,
-        "saves": 0
+        "corners": 6,
+        "offsides": 1,
+        "saves": 1
       },
       "events": [
         {
@@ -46,7 +46,8 @@
           "type": "goal",
           "teamId": "10233",
           "playerName": "Aden McCarthy",
-          "method": "header"
+          "method": "header",
+          "assist": "Tymoteusz Puchacz"
         }
       ]
     }
