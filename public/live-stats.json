@@ -2,24 +2,24 @@
   "CL": {
     "575359": {
       "home": {
-        "possession": 43,
-        "xg": 1.45,
+        "possession": 45,
+        "xg": 1.46,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 300,
-        "duelsWon": 31,
-        "boxTouches": 22,
+        "accuratePasses": 332,
+        "duelsWon": 34,
+        "boxTouches": 24,
         "fouls": 8,
-        "corners": 3,
+        "corners": 4,
         "offsides": 6,
         "saves": 6
       },
       "away": {
-        "possession": 57,
-        "xg": 3.71,
+        "possession": 55,
+        "xg": 3.72,
         "shots": 22,
         "shotsOnTarget": 9,
-        "accuratePasses": 407,
+        "accuratePasses": 418,
         "duelsWon": 38,
         "boxTouches": 38,
         "fouls": 12,
@@ -67,6 +67,12 @@
           "type": "yellow-card",
           "teamId": "10233",
           "playerName": "Aden McCarthy"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "10233",
+          "playerName": "Akim Zedadka"
         }
       ]
     }
