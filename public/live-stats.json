@@ -2,26 +2,26 @@
   "CL": {
     "575359": {
       "home": {
-        "possession": 37,
-        "xg": 0.03,
-        "shots": 1,
+        "possession": 38,
+        "xg": 0.04,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 57,
-        "duelsWon": 4,
-        "boxTouches": 1,
-        "fouls": 1,
-        "corners": 0,
+        "accuratePasses": 73,
+        "duelsWon": 7,
+        "boxTouches": 4,
+        "fouls": 3,
+        "corners": 1,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "away": {
-        "possession": 63,
+        "possession": 62,
         "xg": 1.55,
         "shots": 6,
         "shotsOnTarget": 4,
-        "accuratePasses": 108,
-        "duelsWon": 9,
-        "boxTouches": 9,
+        "accuratePasses": 131,
+        "duelsWon": 15,
+        "boxTouches": 13,
         "fouls": 1,
         "corners": 2,
         "offsides": 0,
@@ -34,6 +34,12 @@
           "teamId": "4",
           "playerName": "Serhou Guirassy",
           "assist": "Felix Nmecha"
+        },
+        {
+          "minute": "22'",
+          "type": "yellow-card",
+          "teamId": "10233",
+          "playerName": "Steve Solvet"
         }
       ]
     }
