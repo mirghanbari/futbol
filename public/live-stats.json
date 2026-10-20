@@ -167,30 +167,30 @@
     },
     "575362": {
       "home": {
-        "possession": 52,
-        "xg": 1.16,
-        "shots": 16,
-        "shotsOnTarget": 4,
-        "accuratePasses": 405,
-        "duelsWon": 42,
-        "boxTouches": 35,
-        "fouls": 14,
+        "possession": 54,
+        "xg": 1.32,
+        "shots": 17,
+        "shotsOnTarget": 5,
+        "accuratePasses": 450,
+        "duelsWon": 43,
+        "boxTouches": 38,
+        "fouls": 15,
         "corners": 9,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 48,
+        "possession": 46,
         "xg": 0.87,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 367,
-        "duelsWon": 44,
+        "accuratePasses": 379,
+        "duelsWon": 49,
         "boxTouches": 21,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 4,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -228,26 +228,26 @@
     },
     "575363": {
       "home": {
-        "possession": 56,
-        "xg": 2.32,
-        "shots": 21,
+        "possession": 53,
+        "xg": 2.37,
+        "shots": 22,
         "shotsOnTarget": 7,
-        "accuratePasses": 449,
-        "duelsWon": 58,
-        "boxTouches": 42,
+        "accuratePasses": 458,
+        "duelsWon": 59,
+        "boxTouches": 43,
         "fouls": 12,
         "corners": 7,
-        "offsides": 0,
+        "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 44,
-        "xg": 1.3,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 344,
-        "duelsWon": 38,
-        "boxTouches": 20,
+        "possession": 47,
+        "xg": 1.53,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 407,
+        "duelsWon": 40,
+        "boxTouches": 22,
         "fouls": 10,
         "corners": 2,
         "offsides": 4,
@@ -313,31 +313,32 @@
           "minute": "87'",
           "type": "goal",
           "teamId": "94",
-          "playerName": "<TBD>"
+          "playerName": "Tani Oluwaseyi",
+          "assist": "Ayoze Pérez"
         }
       ]
     },
     "575365": {
       "home": {
-        "possession": 38,
-        "xg": 1.28,
-        "shots": 11,
+        "possession": 40,
+        "xg": 1.32,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 295,
-        "duelsWon": 34,
-        "boxTouches": 13,
-        "fouls": 6,
+        "accuratePasses": 336,
+        "duelsWon": 35,
+        "boxTouches": 17,
+        "fouls": 7,
         "corners": 2,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 2
       },
       "away": {
-        "possession": 62,
-        "xg": 1.59,
-        "shots": 17,
+        "possession": 60,
+        "xg": 1.63,
+        "shots": 18,
         "shotsOnTarget": 3,
-        "accuratePasses": 515,
-        "duelsWon": 33,
+        "accuratePasses": 529,
+        "duelsWon": 39,
         "boxTouches": 19,
         "fouls": 9,
         "corners": 3,
@@ -368,28 +369,28 @@
     },
     "575366": {
       "home": {
-        "possession": 46,
+        "possession": 44,
         "xg": 1.52,
         "shots": 17,
         "shotsOnTarget": 8,
-        "accuratePasses": 427,
-        "duelsWon": 31,
-        "boxTouches": 27,
+        "accuratePasses": 437,
+        "duelsWon": 35,
+        "boxTouches": 28,
         "fouls": 7,
         "corners": 2,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 54,
+        "possession": 56,
         "xg": 1.52,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 521,
-        "duelsWon": 25,
-        "boxTouches": 21,
+        "accuratePasses": 570,
+        "duelsWon": 28,
+        "boxTouches": 22,
         "fouls": 5,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 5
       },
@@ -441,30 +442,43 @@
           "playerName": "Scott McTominay",
           "method": "header",
           "assist": "Matteo Politano"
+        },
+        {
+          "minute": "85'",
+          "type": "yellow-card",
+          "teamId": "113",
+          "playerName": "Giovanni Di Lorenzo"
+        },
+        {
+          "minute": "89'",
+          "type": "goal",
+          "teamId": "113",
+          "playerName": "Odin Lurås Bjørtuft",
+          "ownGoal": true
         }
       ]
     },
     "575367": {
       "home": {
-        "possession": 48,
-        "xg": 2.97,
-        "shots": 21,
-        "shotsOnTarget": 14,
-        "accuratePasses": 360,
-        "duelsWon": 30,
-        "boxTouches": 27,
-        "fouls": 10,
+        "possession": 46,
+        "xg": 3.79,
+        "shots": 22,
+        "shotsOnTarget": 15,
+        "accuratePasses": 370,
+        "duelsWon": 32,
+        "boxTouches": 29,
+        "fouls": 11,
         "corners": 2,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 52,
+        "possession": 54,
         "xg": 1.79,
         "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 401,
-        "duelsWon": 28,
+        "accuratePasses": 455,
+        "duelsWon": 30,
         "boxTouches": 27,
         "fouls": 10,
         "corners": 2,
@@ -511,6 +525,13 @@
           "type": "goal",
           "teamId": "524",
           "playerName": "Vítinha"
+        },
+        {
+          "minute": "86'",
+          "type": "goal",
+          "teamId": "524",
+          "playerName": "Fabián Ruiz",
+          "assist": "Achraf Hakimi"
         }
       ]
     }
