@@ -2,30 +2,30 @@
   "ELC": {
     "561826": {
       "home": {
-        "possession": 57,
-        "xg": 0.87,
-        "shots": 13,
-        "shotsOnTarget": 1,
-        "accuratePasses": 400,
-        "duelsWon": 35,
-        "boxTouches": 16,
+        "possession": 58,
+        "xg": 1.01,
+        "shots": 15,
+        "shotsOnTarget": 2,
+        "accuratePasses": 422,
+        "duelsWon": 38,
+        "boxTouches": 18,
         "fouls": 11,
-        "corners": 5,
+        "corners": 6,
         "offsides": 4,
         "saves": 0
       },
       "away": {
-        "possession": 43,
-        "xg": 0.62,
+        "possession": 42,
+        "xg": 0.65,
         "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 269,
-        "duelsWon": 54,
+        "accuratePasses": 272,
+        "duelsWon": 61,
         "boxTouches": 11,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 2,
         "offsides": 4,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -76,6 +76,12 @@
           "type": "goal",
           "teamId": "325",
           "playerName": "Terry Devlin"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "325",
+          "playerName": "Ryan Kavuma-McQueen"
         }
       ]
     }
@@ -161,15 +167,15 @@
     "575362": {
       "home": {
         "possession": 52,
-        "xg": 0.79,
-        "shots": 13,
+        "xg": 1.16,
+        "shots": 16,
         "shotsOnTarget": 4,
-        "accuratePasses": 377,
-        "duelsWon": 38,
-        "boxTouches": 31,
-        "fouls": 12,
-        "corners": 8,
-        "offsides": 1,
+        "accuratePasses": 394,
+        "duelsWon": 41,
+        "boxTouches": 35,
+        "fouls": 13,
+        "corners": 9,
+        "offsides": 2,
         "saves": 2
       },
       "away": {
@@ -177,9 +183,9 @@
         "xg": 0.87,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 353,
-        "duelsWon": 41,
-        "boxTouches": 19,
+        "accuratePasses": 363,
+        "duelsWon": 43,
+        "boxTouches": 20,
         "fouls": 6,
         "corners": 3,
         "offsides": 0,
@@ -215,12 +221,12 @@
     },
     "575363": {
       "home": {
-        "possession": 58,
-        "xg": 2.27,
+        "possession": 57,
+        "xg": 2.32,
         "shots": 21,
         "shotsOnTarget": 7,
-        "accuratePasses": 407,
-        "duelsWon": 46,
+        "accuratePasses": 434,
+        "duelsWon": 52,
         "boxTouches": 40,
         "fouls": 11,
         "corners": 7,
@@ -228,14 +234,14 @@
         "saves": 2
       },
       "away": {
-        "possession": 42,
+        "possession": 43,
         "xg": 1.25,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 280,
-        "duelsWon": 33,
-        "boxTouches": 16,
-        "fouls": 9,
+        "accuratePasses": 310,
+        "duelsWon": 35,
+        "boxTouches": 18,
+        "fouls": 10,
         "corners": 2,
         "offsides": 3,
         "saves": 4
@@ -300,12 +306,12 @@
     },
     "575365": {
       "home": {
-        "possession": 35,
-        "xg": 1.19,
-        "shots": 9,
-        "shotsOnTarget": 2,
-        "accuratePasses": 243,
-        "duelsWon": 29,
+        "possession": 37,
+        "xg": 1.28,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 283,
+        "duelsWon": 32,
         "boxTouches": 13,
         "fouls": 5,
         "corners": 2,
@@ -313,17 +319,17 @@
         "saves": 2
       },
       "away": {
-        "possession": 65,
-        "xg": 1.55,
-        "shots": 16,
+        "possession": 63,
+        "xg": 1.59,
+        "shots": 17,
         "shotsOnTarget": 3,
-        "accuratePasses": 488,
-        "duelsWon": 24,
-        "boxTouches": 18,
-        "fouls": 7,
+        "accuratePasses": 510,
+        "duelsWon": 28,
+        "boxTouches": 19,
+        "fouls": 8,
         "corners": 3,
         "offsides": 2,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -349,25 +355,25 @@
     },
     "575366": {
       "home": {
-        "possession": 47,
-        "xg": 1.42,
-        "shots": 16,
-        "shotsOnTarget": 7,
-        "accuratePasses": 409,
-        "duelsWon": 25,
-        "boxTouches": 26,
-        "fouls": 5,
+        "possession": 46,
+        "xg": 1.52,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 416,
+        "duelsWon": 29,
+        "boxTouches": 27,
+        "fouls": 6,
         "corners": 1,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 53,
+        "possession": 54,
         "xg": 1.52,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 468,
-        "duelsWon": 22,
+        "accuratePasses": 513,
+        "duelsWon": 23,
         "boxTouches": 21,
         "fouls": 5,
         "corners": 2,
@@ -414,20 +420,28 @@
           "teamId": "5721",
           "playerName": "Andreas Helmersen",
           "assist": "Sondre Brunstad Fet"
+        },
+        {
+          "minute": "75'",
+          "type": "goal",
+          "teamId": "113",
+          "playerName": "Scott McTominay",
+          "method": "header",
+          "assist": "Matteo Politano"
         }
       ]
     },
     "575367": {
       "home": {
         "possession": 47,
-        "xg": 2.22,
-        "shots": 17,
-        "shotsOnTarget": 12,
-        "accuratePasses": 321,
-        "duelsWon": 28,
-        "boxTouches": 25,
-        "fouls": 9,
-        "corners": 1,
+        "xg": 2.83,
+        "shots": 19,
+        "shotsOnTarget": 13,
+        "accuratePasses": 337,
+        "duelsWon": 30,
+        "boxTouches": 26,
+        "fouls": 10,
+        "corners": 2,
         "offsides": 2,
         "saves": 3
       },
@@ -436,10 +450,10 @@
         "xg": 1.73,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 369,
-        "duelsWon": 25,
+        "accuratePasses": 390,
+        "duelsWon": 27,
         "boxTouches": 25,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 2,
         "offsides": 1,
         "saves": 10
@@ -464,6 +478,14 @@
           "teamId": "81",
           "playerName": "Xavi Espart",
           "assist": "Fermín López"
+        },
+        {
+          "minute": "72'",
+          "type": "goal",
+          "teamId": "524",
+          "playerName": "Lucas Hernández",
+          "method": "header",
+          "assist": "Désiré Doué"
         }
       ]
     }
