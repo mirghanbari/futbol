@@ -2,26 +2,26 @@
   "CL": {
     "575359": {
       "home": {
-        "possession": 45,
+        "possession": 43,
         "xg": 1.01,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 176,
+        "accuratePasses": 181,
         "duelsWon": 14,
         "boxTouches": 13,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 3,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 4
       },
       "away": {
-        "possession": 55,
-        "xg": 2.27,
-        "shots": 11,
+        "possession": 57,
+        "xg": 2.39,
+        "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 215,
-        "duelsWon": 22,
-        "boxTouches": 24,
+        "accuratePasses": 245,
+        "duelsWon": 24,
+        "boxTouches": 28,
         "fouls": 3,
         "corners": 6,
         "offsides": 1,
@@ -48,6 +48,12 @@
           "playerName": "Aden McCarthy",
           "method": "header",
           "assist": "Tymoteusz Puchacz"
+        },
+        {
+          "minute": "50'",
+          "type": "yellow-card",
+          "teamId": "10233",
+          "playerName": "Ivan Lepinjica"
         }
       ]
     }
