@@ -6,25 +6,25 @@
         "xg": 1.01,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 188,
-        "duelsWon": 16,
+        "accuratePasses": 202,
+        "duelsWon": 18,
         "boxTouches": 13,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 3,
-        "offsides": 4,
-        "saves": 4
+        "offsides": 5,
+        "saves": 5
       },
       "away": {
         "possession": 58,
-        "xg": 2.73,
-        "shots": 14,
-        "shotsOnTarget": 6,
-        "accuratePasses": 267,
-        "duelsWon": 25,
-        "boxTouches": 29,
-        "fouls": 4,
+        "xg": 2.81,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 299,
+        "duelsWon": 27,
+        "boxTouches": 30,
+        "fouls": 5,
         "corners": 7,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 2
       },
       "events": [
@@ -61,6 +61,12 @@
           "teamId": "4",
           "playerName": "Serhou Guirassy",
           "assist": "Joey Veerman"
+        },
+        {
+          "minute": "57'",
+          "type": "yellow-card",
+          "teamId": "10233",
+          "playerName": "Aden McCarthy"
         }
       ]
     }
