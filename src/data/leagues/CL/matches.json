@@ -1585,14 +1585,42 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "10233",
     "awayTeamId": "4",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.47,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 332,
+        "duelsWon": 35,
+        "boxTouches": 24,
+        "fouls": 8,
+        "corners": 4,
+        "offsides": 6,
+        "saves": 6
+      },
+      "away": {
+        "possession": 55,
+        "xg": 3.72,
+        "shots": 22,
+        "shotsOnTarget": 9,
+        "accuratePasses": 417,
+        "duelsWon": 37,
+        "boxTouches": 38,
+        "fouls": 12,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Baku Olympic Stadium, Baku",
     "broadcasts": [
@@ -1609,14 +1637,14 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "613",
     "awayTeamId": "930",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     }
   },
   {
@@ -1626,11 +1654,11 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "65",
     "awayTeamId": "1899",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -1643,11 +1671,11 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "10",
     "awayTeamId": "78",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -1667,14 +1695,14 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "64",
     "awayTeamId": "94",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Anfield, Liverpool",
     "broadcasts": [
@@ -1691,11 +1719,11 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "100",
     "awayTeamId": "7509",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -1708,7 +1736,7 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "503",
     "awayTeamId": "674",
     "homeTeam": {
@@ -1736,14 +1764,14 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "113",
     "awayTeamId": "5721",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stadio Diego Armando Maradona, Napoli",
     "broadcasts": [
@@ -1760,11 +1788,11 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "524",
     "awayTeamId": "81",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
