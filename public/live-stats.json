@@ -6,8 +6,8 @@
         "xg": 0.08,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 166,
-        "duelsWon": 8,
+        "accuratePasses": 209,
+        "duelsWon": 11,
         "boxTouches": 7,
         "fouls": 0,
         "corners": 0,
@@ -19,10 +19,10 @@
         "xg": 0.07,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 95,
-        "duelsWon": 9,
-        "boxTouches": 4,
-        "fouls": 4,
+        "accuratePasses": 119,
+        "duelsWon": 11,
+        "boxTouches": 5,
+        "fouls": 6,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -34,35 +34,41 @@
           "teamId": "7397",
           "playerName": "Nico Paz",
           "assist": "Lucas Da Cunha"
+        },
+        {
+          "minute": "25'",
+          "type": "yellow-card",
+          "teamId": "66",
+          "playerName": "Andrey Santos"
         }
       ]
     },
     "575369": {
       "home": {
-        "possession": 49,
-        "xg": 0.56,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 91,
-        "duelsWon": 10,
-        "boxTouches": 3,
-        "fouls": 3,
-        "corners": 0,
+        "possession": 50,
+        "xg": 0.82,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 115,
+        "duelsWon": 12,
+        "boxTouches": 6,
+        "fouls": 4,
+        "corners": 1,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 51,
+        "possession": 50,
         "xg": 0.58,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 96,
-        "duelsWon": 13,
-        "boxTouches": 7,
+        "accuratePasses": 116,
+        "duelsWon": 16,
+        "boxTouches": 8,
         "fouls": 2,
         "corners": 0,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
