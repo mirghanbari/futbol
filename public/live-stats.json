@@ -236,11 +236,11 @@
     "575370": {
       "home": {
         "possession": 61,
-        "xg": 2.65,
-        "shots": 12,
-        "shotsOnTarget": 8,
-        "accuratePasses": 445,
-        "duelsWon": 28,
+        "xg": 2.72,
+        "shots": 14,
+        "shotsOnTarget": 9,
+        "accuratePasses": 491,
+        "duelsWon": 30,
         "boxTouches": 29,
         "fouls": 12,
         "corners": 5,
@@ -249,16 +249,16 @@
       },
       "away": {
         "possession": 39,
-        "xg": 0.83,
-        "shots": 6,
+        "xg": 0.89,
+        "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 274,
+        "accuratePasses": 296,
         "duelsWon": 29,
-        "boxTouches": 23,
-        "fouls": 5,
+        "boxTouches": 24,
+        "fouls": 7,
         "corners": 1,
         "offsides": 2,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -273,18 +273,30 @@
           "teamId": "86",
           "playerName": "Arda Güler",
           "assist": "Kylian Mbappé"
+        },
+        {
+          "minute": "68'",
+          "type": "yellow-card",
+          "teamId": "86",
+          "playerName": "Alvaro Carreras"
+        },
+        {
+          "minute": "70'",
+          "type": "yellow-card",
+          "teamId": "721",
+          "playerName": "Rocco Reitz"
         }
       ]
     },
     "575372": {
       "home": {
         "possession": 48,
-        "xg": 2.37,
-        "shots": 11,
+        "xg": 2.47,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 273,
-        "duelsWon": 23,
-        "boxTouches": 24,
+        "accuratePasses": 282,
+        "duelsWon": 24,
+        "boxTouches": 25,
         "fouls": 12,
         "corners": 3,
         "offsides": 1,
@@ -292,12 +304,12 @@
       },
       "away": {
         "possession": 52,
-        "xg": 0.85,
-        "shots": 8,
+        "xg": 1.15,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 284,
-        "duelsWon": 44,
-        "boxTouches": 15,
+        "accuratePasses": 296,
+        "duelsWon": 45,
+        "boxTouches": 16,
         "fouls": 3,
         "corners": 4,
         "offsides": 1,
@@ -341,27 +353,27 @@
     },
     "575373": {
       "home": {
-        "possession": 56,
+        "possession": 55,
         "xg": 1.77,
         "shots": 6,
         "shotsOnTarget": 4,
-        "accuratePasses": 437,
-        "duelsWon": 35,
+        "accuratePasses": 456,
+        "duelsWon": 40,
         "boxTouches": 15,
         "fouls": 3,
         "corners": 1,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 5
       },
       "away": {
-        "possession": 44,
+        "possession": 45,
         "xg": 1.89,
         "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 316,
+        "accuratePasses": 346,
         "duelsWon": 34,
-        "boxTouches": 29,
-        "fouls": 5,
+        "boxTouches": 28,
+        "fouls": 6,
         "corners": 5,
         "offsides": 0,
         "saves": 2
@@ -390,35 +402,41 @@
           "type": "yellow-card",
           "teamId": "851",
           "playerName": "Félix Lemaréchal"
+        },
+        {
+          "minute": "72'",
+          "type": "goal",
+          "teamId": "851",
+          "playerName": "Carlos Forbs"
         }
       ]
     },
     "575376": {
       "home": {
-        "possession": 50,
+        "possession": 47,
         "xg": 1.76,
-        "shots": 16,
-        "shotsOnTarget": 7,
-        "accuratePasses": 338,
-        "duelsWon": 27,
-        "boxTouches": 29,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 359,
+        "duelsWon": 31,
+        "boxTouches": 30,
         "fouls": 6,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 50,
+        "possession": 53,
         "xg": 0.6,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 349,
-        "duelsWon": 23,
-        "boxTouches": 11,
+        "accuratePasses": 413,
+        "duelsWon": 28,
+        "boxTouches": 16,
         "fouls": 7,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
-        "saves": 6
+        "saves": 7
       },
       "events": [
         {
