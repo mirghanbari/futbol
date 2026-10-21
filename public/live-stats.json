@@ -237,12 +237,12 @@
       "home": {
         "possession": 60,
         "xg": 1.37,
-        "shots": 7,
-        "shotsOnTarget": 5,
-        "accuratePasses": 343,
-        "duelsWon": 21,
-        "boxTouches": 20,
-        "fouls": 8,
+        "shots": 8,
+        "shotsOnTarget": 6,
+        "accuratePasses": 356,
+        "duelsWon": 22,
+        "boxTouches": 24,
+        "fouls": 9,
         "corners": 4,
         "offsides": 2,
         "saves": 4
@@ -252,37 +252,37 @@
         "xg": 0.7,
         "shots": 5,
         "shotsOnTarget": 4,
-        "accuratePasses": 225,
-        "duelsWon": 21,
+        "accuratePasses": 232,
+        "duelsWon": 22,
         "boxTouches": 19,
         "fouls": 3,
         "corners": 1,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 4
       }
     },
     "575372": {
       "home": {
-        "possession": 44,
-        "xg": 1.24,
-        "shots": 6,
+        "possession": 45,
+        "xg": 1.28,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 182,
-        "duelsWon": 17,
-        "boxTouches": 14,
+        "accuratePasses": 212,
+        "duelsWon": 18,
+        "boxTouches": 16,
         "fouls": 9,
         "corners": 2,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 56,
+        "possession": 55,
         "xg": 0.77,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 222,
-        "duelsWon": 31,
-        "boxTouches": 13,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 254,
+        "duelsWon": 36,
+        "boxTouches": 15,
         "fouls": 1,
         "corners": 4,
         "offsides": 0,
@@ -300,13 +300,13 @@
     "575373": {
       "home": {
         "possession": 57,
-        "xg": 1,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 347,
-        "duelsWon": 24,
-        "boxTouches": 11,
-        "fouls": 1,
+        "xg": 1.77,
+        "shots": 6,
+        "shotsOnTarget": 4,
+        "accuratePasses": 377,
+        "duelsWon": 27,
+        "boxTouches": 15,
+        "fouls": 2,
         "corners": 1,
         "offsides": 1,
         "saves": 3
@@ -316,8 +316,8 @@
         "xg": 1.49,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 247,
-        "duelsWon": 27,
+        "accuratePasses": 265,
+        "duelsWon": 29,
         "boxTouches": 13,
         "fouls": 4,
         "corners": 2,
@@ -328,10 +328,10 @@
     "575376": {
       "home": {
         "possession": 51,
-        "xg": 0.87,
-        "shots": 12,
-        "shotsOnTarget": 5,
-        "accuratePasses": 297,
+        "xg": 0.89,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 313,
         "duelsWon": 24,
         "boxTouches": 25,
         "fouls": 6,
@@ -341,23 +341,29 @@
       },
       "away": {
         "possession": 49,
-        "xg": 0.58,
-        "shots": 6,
+        "xg": 0.6,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 281,
-        "duelsWon": 22,
+        "accuratePasses": 299,
+        "duelsWon": 23,
         "boxTouches": 10,
         "fouls": 5,
         "corners": 2,
         "offsides": 1,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
-          "minute": "15'",
+          "minute": "14'",
           "type": "yellow-card",
           "teamId": "675",
           "playerName": "Mika Mármol"
+        },
+        {
+          "minute": "52'",
+          "type": "yellow-card",
+          "teamId": "675",
+          "playerName": "Charles Vanhoutte"
         }
       ]
     }
