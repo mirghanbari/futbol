@@ -1952,11 +1952,11 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-21T16:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "7397",
     "awayTeamId": "66",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -1976,14 +1976,14 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-21T16:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "521",
     "awayTeamId": "610",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
     "broadcasts": [
