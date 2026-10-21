@@ -2,27 +2,27 @@
   "PD": {
     "564685": {
       "home": {
-        "possession": 36,
-        "xg": 0.76,
-        "shots": 4,
+        "possession": 40,
+        "xg": 0.78,
+        "shots": 6,
         "shotsOnTarget": 4,
-        "accuratePasses": 94,
-        "duelsWon": 10,
-        "boxTouches": 10,
+        "accuratePasses": 125,
+        "duelsWon": 15,
+        "boxTouches": 13,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 64,
+        "possession": 60,
         "xg": 0.48,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 175,
-        "duelsWon": 11,
+        "accuratePasses": 201,
+        "duelsWon": 13,
         "boxTouches": 8,
-        "fouls": 2,
+        "fouls": 4,
         "corners": 3,
         "offsides": 0,
         "saves": 2
@@ -47,28 +47,28 @@
   "CL": {
     "575368": {
       "home": {
-        "possession": 57,
+        "possession": 55,
         "xg": 2.04,
         "shots": 11,
         "shotsOnTarget": 8,
-        "accuratePasses": 588,
-        "duelsWon": 38,
+        "accuratePasses": 592,
+        "duelsWon": 39,
         "boxTouches": 19,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 1,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 43,
-        "xg": 0.35,
-        "shots": 12,
-        "shotsOnTarget": 3,
-        "accuratePasses": 428,
-        "duelsWon": 44,
-        "boxTouches": 15,
+        "possession": 45,
+        "xg": 1.05,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 459,
+        "duelsWon": 46,
+        "boxTouches": 16,
         "fouls": 11,
-        "corners": 3,
+        "corners": 4,
         "offsides": 1,
         "saves": 4
       },
@@ -124,32 +124,39 @@
           "type": "yellow-card",
           "teamId": "66",
           "playerName": "Shea Lacey"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "goal",
+          "teamId": "66",
+          "playerName": "Joshua Zirkzee",
+          "assist": "Amad Diallo"
         }
       ]
     },
     "575369": {
       "home": {
-        "possession": 55,
-        "xg": 1.72,
-        "shots": 14,
+        "possession": 56,
+        "xg": 1.88,
+        "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 429,
-        "duelsWon": 45,
-        "boxTouches": 21,
+        "accuratePasses": 448,
+        "duelsWon": 51,
+        "boxTouches": 22,
         "fouls": 9,
         "corners": 3,
         "offsides": 6,
         "saves": 1
       },
       "away": {
-        "possession": 45,
+        "possession": 44,
         "xg": 1.64,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 327,
-        "duelsWon": 49,
-        "boxTouches": 26,
-        "fouls": 8,
+        "accuratePasses": 331,
+        "duelsWon": 51,
+        "boxTouches": 27,
+        "fouls": 10,
         "corners": 3,
         "offsides": 2,
         "saves": 4
@@ -193,9 +200,8 @@
           "minute": "52'",
           "type": "goal",
           "teamId": "610",
-          "playerName": "Lucas Torreira",
-          "method": "header",
-          "assist": "Gabriel Sara"
+          "playerName": "Nabil Bentaleb",
+          "ownGoal": true
         },
         {
           "minute": "59'",
@@ -222,7 +228,8 @@
           "teamId": "521",
           "playerName": "Gaëtan Perrin"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
