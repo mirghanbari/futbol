@@ -236,14 +236,14 @@
     "575370": {
       "home": {
         "possession": 64,
-        "xg": 2.88,
+        "xg": 2.91,
         "shots": 18,
         "shotsOnTarget": 11,
-        "accuratePasses": 668,
-        "duelsWon": 37,
-        "boxTouches": 36,
+        "accuratePasses": 675,
+        "duelsWon": 40,
+        "boxTouches": 37,
         "fouls": 13,
-        "corners": 6,
+        "corners": 7,
         "offsides": 3,
         "saves": 5
       },
@@ -252,10 +252,10 @@
         "xg": 1.44,
         "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 347,
-        "duelsWon": 32,
+        "accuratePasses": 351,
+        "duelsWon": 35,
         "boxTouches": 28,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 1,
         "offsides": 2,
         "saves": 6
@@ -307,7 +307,8 @@
           "playerName": "Yan Diomande",
           "assist": "Brahim Díaz"
         }
-      ]
+      ],
+      "final": true
     },
     "575372": {
       "home": {
