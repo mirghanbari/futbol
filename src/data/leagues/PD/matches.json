@@ -4847,14 +4847,42 @@
     "matchday": 6,
     "stage": "regular",
     "utcDate": "2026-10-21T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "88",
     "awayTeamId": "77",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 1.98,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 254,
+        "duelsWon": 38,
+        "boxTouches": 30,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 62,
+        "xg": 1.9,
+        "shots": 21,
+        "shotsOnTarget": 4,
+        "accuratePasses": 458,
+        "duelsWon": 49,
+        "boxTouches": 29,
+        "fouls": 12,
+        "corners": 9,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "Estadi Ciutat de València, Manises",
     "broadcasts": [
