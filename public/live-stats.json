@@ -1,31 +1,57 @@
 {
-  "CL": {
-    "575368": {
+  "PD": {
+    "564685": {
       "home": {
-        "possession": 59,
-        "xg": 1.04,
-        "shots": 7,
-        "shotsOnTarget": 4,
-        "accuratePasses": 420,
-        "duelsWon": 23,
-        "boxTouches": 12,
-        "fouls": 5,
-        "corners": 1,
-        "offsides": 2,
+        "possession": 50,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 9,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 41,
-        "xg": 0.13,
-        "shots": 5,
+        "possession": 50,
+        "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 282,
-        "duelsWon": 29,
-        "boxTouches": 8,
+        "accuratePasses": 7,
+        "duelsWon": 0,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    }
+  },
+  "CL": {
+    "575368": {
+      "home": {
+        "possession": 58,
+        "xg": 1.47,
+        "shots": 9,
+        "shotsOnTarget": 6,
+        "accuratePasses": 452,
+        "duelsWon": 25,
+        "boxTouches": 13,
+        "fouls": 5,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 42,
+        "xg": 0.17,
+        "shots": 7,
+        "shotsOnTarget": 1,
+        "accuratePasses": 306,
+        "duelsWon": 31,
+        "boxTouches": 10,
         "fouls": 10,
         "corners": 1,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -53,31 +79,37 @@
           "type": "yellow-card",
           "teamId": "66",
           "playerName": "Carlos Baleba"
+        },
+        {
+          "minute": "57'",
+          "type": "goal",
+          "teamId": "7397",
+          "playerName": "Nico Paz"
         }
       ]
     },
     "575369": {
       "home": {
-        "possession": 52,
+        "possession": 53,
         "xg": 1.48,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 272,
-        "duelsWon": 29,
-        "boxTouches": 15,
-        "fouls": 5,
+        "accuratePasses": 291,
+        "duelsWon": 30,
+        "boxTouches": 16,
+        "fouls": 7,
         "corners": 1,
         "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 48,
-        "xg": 1.32,
-        "shots": 8,
+        "possession": 47,
+        "xg": 1.61,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 241,
-        "duelsWon": 32,
-        "boxTouches": 18,
+        "accuratePasses": 248,
+        "duelsWon": 37,
+        "boxTouches": 20,
         "fouls": 5,
         "corners": 2,
         "offsides": 1,
@@ -125,6 +157,19 @@
           "playerName": "Lucas Torreira",
           "method": "header",
           "assist": "Gabriel Sara"
+        },
+        {
+          "minute": "59'",
+          "type": "yellow-card",
+          "teamId": "521",
+          "playerName": "Benjamin André"
+        },
+        {
+          "minute": "61'",
+          "type": "goal",
+          "teamId": "610",
+          "playerName": "Victor Osimhen",
+          "assist": "Barış Alper Yılmaz"
         }
       ]
     }
