@@ -1585,14 +1585,14 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "10233",
     "awayTeamId": "4",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -1637,14 +1637,14 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "613",
     "awayTeamId": "930",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     }
   },
   {
@@ -1654,14 +1654,14 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "65",
     "awayTeamId": "1899",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     }
   },
   {
@@ -1671,14 +1671,42 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "10",
     "awayTeamId": "78",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 1.5,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 457,
+        "duelsWon": 43,
+        "boxTouches": 39,
+        "fouls": 15,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 46,
+        "xg": 0.87,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 379,
+        "duelsWon": 50,
+        "boxTouches": 21,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "MHPArena, Stuttgart",
     "broadcasts": [
@@ -1695,14 +1723,42 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "64",
     "awayTeamId": "94",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.37,
+        "shots": 22,
+        "shotsOnTarget": 7,
+        "accuratePasses": 464,
+        "duelsWon": 59,
+        "boxTouches": 44,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.58,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 417,
+        "duelsWon": 39,
+        "boxTouches": 22,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 4,
+        "saves": 4
+      }
     },
     "venue": "Anfield, Liverpool",
     "broadcasts": [
@@ -1719,11 +1775,11 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "100",
     "awayTeamId": "7509",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
       "goals": 0
@@ -1736,14 +1792,42 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "503",
     "awayTeamId": "674",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 1.4,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 342,
+        "duelsWon": 35,
+        "boxTouches": 18,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 5,
+        "saves": 2
+      },
+      "away": {
+        "possession": 60,
+        "xg": 1.63,
+        "shots": 18,
+        "shotsOnTarget": 3,
+        "accuratePasses": 529,
+        "duelsWon": 39,
+        "boxTouches": 19,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Estádio do Dragão, Porto",
     "broadcasts": [
@@ -1764,14 +1848,42 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "113",
     "awayTeamId": "5721",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 1.53,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 441,
+        "duelsWon": 40,
+        "boxTouches": 29,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 57,
+        "xg": 2.67,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 601,
+        "duelsWon": 29,
+        "boxTouches": 29,
+        "fouls": 5,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "Stadio Diego Armando Maradona, Napoli",
     "broadcasts": [
@@ -1788,14 +1900,42 @@
     "matchday": 3,
     "stage": "league-phase",
     "utcDate": "2026-10-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "524",
     "awayTeamId": "81",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 3.7,
+        "shots": 22,
+        "shotsOnTarget": 14,
+        "accuratePasses": 406,
+        "duelsWon": 32,
+        "boxTouches": 32,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 53,
+        "xg": 2.23,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 472,
+        "duelsWon": 33,
+        "boxTouches": 32,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 10
+      }
     },
     "venue": "Parc des Princes, Paris",
     "broadcasts": [
