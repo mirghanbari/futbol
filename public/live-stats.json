@@ -236,12 +236,12 @@
     "575370": {
       "home": {
         "possession": 64,
-        "xg": 2.73,
-        "shots": 15,
-        "shotsOnTarget": 9,
-        "accuratePasses": 603,
-        "duelsWon": 34,
-        "boxTouches": 31,
+        "xg": 2.78,
+        "shots": 17,
+        "shotsOnTarget": 11,
+        "accuratePasses": 633,
+        "duelsWon": 36,
+        "boxTouches": 35,
         "fouls": 13,
         "corners": 6,
         "offsides": 3,
@@ -249,13 +249,13 @@
       },
       "away": {
         "possession": 36,
-        "xg": 0.9,
-        "shots": 8,
-        "shotsOnTarget": 5,
-        "accuratePasses": 315,
-        "duelsWon": 30,
-        "boxTouches": 26,
-        "fouls": 9,
+        "xg": 1.35,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 337,
+        "duelsWon": 31,
+        "boxTouches": 28,
+        "fouls": 10,
         "corners": 1,
         "offsides": 2,
         "saves": 6
@@ -285,32 +285,52 @@
           "type": "yellow-card",
           "teamId": "721",
           "playerName": "Rocco Reitz"
+        },
+        {
+          "minute": "83'",
+          "type": "goal",
+          "teamId": "86",
+          "playerName": "Kylian Mbappé",
+          "assist": "Yan Diomande"
+        },
+        {
+          "minute": "85'",
+          "type": "goal",
+          "teamId": "721",
+          "playerName": "Tidiam Gomis",
+          "assist": "Christoph Baumgartner"
+        },
+        {
+          "minute": "87'",
+          "type": "goal",
+          "teamId": "86",
+          "playerName": "Yan Diomande"
         }
       ]
     },
     "575372": {
       "home": {
-        "possession": 46,
+        "possession": 47,
         "xg": 2.51,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 330,
-        "duelsWon": 27,
+        "accuratePasses": 353,
+        "duelsWon": 31,
         "boxTouches": 29,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 3,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 54,
+        "possession": 53,
         "xg": 1.29,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 383,
-        "duelsWon": 49,
-        "boxTouches": 19,
-        "fouls": 4,
+        "accuratePasses": 399,
+        "duelsWon": 51,
+        "boxTouches": 20,
+        "fouls": 6,
         "corners": 4,
         "offsides": 1,
         "saves": 3
@@ -360,27 +380,27 @@
     },
     "575373": {
       "home": {
-        "possession": 58,
-        "xg": 2.02,
-        "shots": 8,
+        "possession": 59,
+        "xg": 2.22,
+        "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 554,
-        "duelsWon": 44,
-        "boxTouches": 18,
-        "fouls": 4,
+        "accuratePasses": 583,
+        "duelsWon": 49,
+        "boxTouches": 20,
+        "fouls": 5,
         "corners": 1,
         "offsides": 2,
         "saves": 5
       },
       "away": {
-        "possession": 42,
+        "possession": 41,
         "xg": 1.89,
         "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 370,
-        "duelsWon": 43,
+        "accuratePasses": 382,
+        "duelsWon": 45,
         "boxTouches": 29,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 5,
         "offsides": 0,
         "saves": 2
@@ -433,30 +453,30 @@
     },
     "575376": {
       "home": {
-        "possession": 47,
-        "xg": 1.88,
-        "shots": 19,
-        "shotsOnTarget": 9,
-        "accuratePasses": 417,
-        "duelsWon": 32,
-        "boxTouches": 32,
-        "fouls": 6,
-        "corners": 2,
+        "possession": 48,
+        "xg": 1.93,
+        "shots": 21,
+        "shotsOnTarget": 10,
+        "accuratePasses": 441,
+        "duelsWon": 36,
+        "boxTouches": 35,
+        "fouls": 7,
+        "corners": 3,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 53,
-        "xg": 0.71,
-        "shots": 9,
+        "possession": 52,
+        "xg": 0.81,
+        "shots": 12,
         "shotsOnTarget": 2,
-        "accuratePasses": 467,
-        "duelsWon": 36,
-        "boxTouches": 21,
-        "fouls": 7,
+        "accuratePasses": 474,
+        "duelsWon": 39,
+        "boxTouches": 25,
+        "fouls": 10,
         "corners": 4,
         "offsides": 1,
-        "saves": 8
+        "saves": 9
       },
       "events": [
         {
@@ -477,6 +497,12 @@
           "teamId": "90",
           "playerName": "Isco",
           "penalty": true
+        },
+        {
+          "minute": "86'",
+          "type": "yellow-card",
+          "teamId": "90",
+          "playerName": "Rodrigo Riquelme"
         }
       ]
     }
