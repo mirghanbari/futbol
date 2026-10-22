@@ -378,15 +378,6 @@
     "competitionId": "PD"
   },
   {
-    "id": "191151",
-    "name": "Pablo Barrios",
-    "position": "Midfielder",
-    "nationality": "Spain",
-    "dateOfBirth": "2025-06-30",
-    "teamId": "78",
-    "competitionId": "PD"
-  },
-  {
     "id": "213217",
     "name": "Kang-in Lee",
     "position": "Midfielder",
@@ -752,15 +743,6 @@
     "position": "Defender",
     "nationality": "Netherlands",
     "dateOfBirth": "2001-11-14",
-    "teamId": "80",
-    "competitionId": "PD"
-  },
-  {
-    "id": "191152",
-    "name": "Omar El Hilali",
-    "position": "Defender",
-    "nationality": "Morocco",
-    "dateOfBirth": "2025-06-30",
     "teamId": "80",
     "competitionId": "PD"
   },
@@ -1273,7 +1255,7 @@
     "name": "Davinchi",
     "position": "Defender",
     "nationality": "Spain",
-    "dateOfBirth": null,
+    "dateOfBirth": "2007-10-16",
     "teamId": "82",
     "competitionId": "PD"
   },
@@ -1450,10 +1432,10 @@
   },
   {
     "id": "169393",
-    "name": "Angel Recio",
+    "name": "Ángel Recio",
     "position": "Defender",
     "nationality": "Spain",
-    "dateOfBirth": null,
+    "dateOfBirth": "2003-01-05",
     "teamId": "84",
     "competitionId": "PD"
   },
@@ -3573,15 +3555,6 @@
     "competitionId": "PD"
   },
   {
-    "id": "191165",
-    "name": "Rubén Sánchez",
-    "position": "Defender",
-    "nationality": "Spain",
-    "dateOfBirth": "2024-06-30",
-    "teamId": "285",
-    "competitionId": "PD"
-  },
-  {
     "id": "244544",
     "name": "Buba",
     "position": "Defender",
@@ -3758,6 +3731,15 @@
     "position": "Forward",
     "nationality": "Spain",
     "dateOfBirth": "2005-10-13",
+    "teamId": "285",
+    "competitionId": "PD"
+  },
+  {
+    "id": "175763",
+    "name": "Ruben Sanchez",
+    "position": null,
+    "nationality": "Spain",
+    "dateOfBirth": "2001-02-04",
     "teamId": "285",
     "competitionId": "PD"
   },
