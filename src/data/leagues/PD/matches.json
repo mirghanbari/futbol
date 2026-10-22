@@ -5673,7 +5673,7 @@
     "season": "2026",
     "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-20T20:00:00Z",
     "status": "scheduled",
     "homeTeamId": "77",
     "awayTeamId": "80",
@@ -5692,12 +5692,101 @@
     ]
   },
   {
+    "id": "564755",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 13,
+    "stage": "regular",
+    "utcDate": "2026-11-21T13:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "263",
+    "awayTeamId": "560",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    }
+  },
+  {
+    "id": "564751",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 13,
+    "stage": "regular",
+    "utcDate": "2026-11-21T15:15:00Z",
+    "status": "scheduled",
+    "homeTeamId": "87",
+    "awayTeamId": "95",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio de Vallecas, Madrid",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564756",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 13,
+    "stage": "regular",
+    "utcDate": "2026-11-21T17:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "559",
+    "awayTeamId": "90",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564754",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 13,
+    "stage": "regular",
+    "utcDate": "2026-11-21T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "86",
+    "awayTeamId": "558",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Santiago Bernabéu, Madrid",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
     "id": "564749",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-22T13:00:00Z",
     "status": "scheduled",
     "homeTeamId": "81",
     "awayTeamId": "94",
@@ -5721,7 +5810,7 @@
     "season": "2026",
     "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-22T15:15:00Z",
     "status": "scheduled",
     "homeTeamId": "5335",
     "awayTeamId": "92",
@@ -5740,36 +5829,12 @@
     ]
   },
   {
-    "id": "564751",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 13,
-    "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "87",
-    "awayTeamId": "95",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estadio de Vallecas, Madrid",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "564752",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-22T17:30:00Z",
     "status": "scheduled",
     "homeTeamId": "79",
     "awayTeamId": "84",
@@ -5793,7 +5858,7 @@
     "season": "2026",
     "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-22T20:00:00Z",
     "status": "scheduled",
     "homeTeamId": "82",
     "awayTeamId": "78",
@@ -5812,77 +5877,12 @@
     ]
   },
   {
-    "id": "564754",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 13,
-    "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "86",
-    "awayTeamId": "558",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Santiago Bernabéu, Madrid",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564755",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 13,
-    "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "263",
-    "awayTeamId": "560",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    }
-  },
-  {
-    "id": "564756",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 13,
-    "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "559",
-    "awayTeamId": "90",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "564757",
     "competitionId": "PD",
     "season": "2026",
     "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-11-22T00:00:00Z",
+    "utcDate": "2026-11-23T20:00:00Z",
     "status": "scheduled",
     "homeTeamId": "88",
     "awayTeamId": "285",
