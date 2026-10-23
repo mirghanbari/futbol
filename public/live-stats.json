@@ -6,9 +6,9 @@
         "xg": 0.46,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 370,
-        "duelsWon": 41,
-        "boxTouches": 13,
+        "accuratePasses": 374,
+        "duelsWon": 44,
+        "boxTouches": 14,
         "fouls": 9,
         "corners": 0,
         "offsides": 2,
@@ -19,10 +19,10 @@
         "xg": 2.31,
         "shots": 17,
         "shotsOnTarget": 5,
-        "accuratePasses": 371,
-        "duelsWon": 47,
+        "accuratePasses": 374,
+        "duelsWon": 49,
         "boxTouches": 24,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 5,
         "offsides": 1,
         "saves": 2
@@ -53,7 +53,8 @@
           "teamId": "351",
           "playerName": "Murillo"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "ELC": {
@@ -575,30 +576,30 @@
   "PPL": {
     "567329": {
       "home": {
-        "possession": 64,
-        "xg": 0.85,
-        "shots": 9,
-        "shotsOnTarget": 3,
-        "accuratePasses": 209,
-        "duelsWon": 25,
-        "boxTouches": 14,
+        "possession": 61,
+        "xg": 0.98,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 222,
+        "duelsWon": 28,
+        "boxTouches": 17,
         "fouls": 7,
         "corners": 2,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 36,
+        "possession": 39,
         "xg": 0.1,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 107,
-        "duelsWon": 26,
+        "accuratePasses": 132,
+        "duelsWon": 32,
         "boxTouches": 5,
         "fouls": 8,
         "corners": 2,
-        "offsides": 4,
-        "saves": 1
+        "offsides": 5,
+        "saves": 2
       },
       "events": [
         {
@@ -641,7 +642,8 @@
           "minute": "48'",
           "type": "goal",
           "teamId": "5543",
-          "playerName": "<TBD>"
+          "playerName": "Paulo Henrique",
+          "ownGoal": true
         }
       ]
     }
