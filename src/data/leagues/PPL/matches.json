@@ -3318,14 +3318,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-23T19:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5543",
     "awayTeamId": "5575",
     "homeTeam": {
-      "goals": 2
+      "goals": 5
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 1.78,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 355,
+        "duelsWon": 45,
+        "boxTouches": 26,
+        "fouls": 15,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 42,
+        "xg": 0.52,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 243,
+        "duelsWon": 54,
+        "boxTouches": 15,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 6,
+        "saves": 3
+      }
     },
     "venue": "Estádio D. Afonso Henriques, Guimarães"
   },
