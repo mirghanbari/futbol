@@ -6,12 +6,12 @@
         "xg": 0.4,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 259,
+        "accuratePasses": 273,
         "duelsWon": 25,
-        "boxTouches": 7,
+        "boxTouches": 11,
         "fouls": 4,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "away": {
@@ -19,10 +19,10 @@
         "xg": 1.39,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 165,
-        "duelsWon": 24,
-        "boxTouches": 8,
-        "fouls": 7,
+        "accuratePasses": 181,
+        "duelsWon": 25,
+        "boxTouches": 9,
+        "fouls": 8,
         "corners": 2,
         "offsides": 0,
         "saves": 2
@@ -40,6 +40,18 @@
           "type": "goal",
           "teamId": "349",
           "playerName": "Julio Enciso"
+        },
+        {
+          "minute": "51'",
+          "type": "yellow-card",
+          "teamId": "349",
+          "playerName": "Issa Diop"
+        },
+        {
+          "minute": "54'",
+          "type": "yellow-card",
+          "teamId": "351",
+          "playerName": "Murillo"
         }
       ]
     }
@@ -47,29 +59,29 @@
   "ELC": {
     "561894": {
       "home": {
-        "possession": 35,
+        "possession": 34,
         "xg": 0.79,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 138,
-        "duelsWon": 17,
+        "accuratePasses": 147,
+        "duelsWon": 18,
         "boxTouches": 14,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 1,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 65,
+        "possession": 66,
         "xg": 2.86,
         "shots": 20,
         "shotsOnTarget": 6,
-        "accuratePasses": 272,
-        "duelsWon": 18,
-        "boxTouches": 32,
+        "accuratePasses": 298,
+        "duelsWon": 19,
+        "boxTouches": 34,
         "fouls": 5,
         "corners": 9,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 3
       },
       "events": [
@@ -107,12 +119,12 @@
   "PD": {
     "564719": {
       "home": {
-        "possession": 44,
+        "possession": 47,
         "xg": 0.3,
-        "shots": 6,
+        "shots": 7,
         "shotsOnTarget": 0,
-        "accuratePasses": 192,
-        "duelsWon": 26,
+        "accuratePasses": 242,
+        "duelsWon": 29,
         "boxTouches": 5,
         "fouls": 11,
         "corners": 3,
@@ -120,14 +132,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 56,
+        "possession": 53,
         "xg": 0.42,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 261,
-        "duelsWon": 32,
+        "accuratePasses": 280,
+        "duelsWon": 37,
         "boxTouches": 4,
-        "fouls": 6,
+        "fouls": 9,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -153,29 +165,29 @@
     "565833": {
       "home": {
         "possession": 69,
-        "xg": 0.98,
-        "shots": 11,
-        "shotsOnTarget": 2,
-        "accuratePasses": 506,
-        "duelsWon": 39,
-        "boxTouches": 18,
+        "xg": 1.38,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 532,
+        "duelsWon": 42,
+        "boxTouches": 20,
         "fouls": 9,
-        "corners": 3,
+        "corners": 4,
         "offsides": 2,
         "saves": 2
       },
       "away": {
         "possession": 31,
         "xg": 2.47,
-        "shots": 14,
+        "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 175,
-        "duelsWon": 35,
-        "boxTouches": 18,
-        "fouls": 10,
-        "corners": 3,
+        "accuratePasses": 182,
+        "duelsWon": 37,
+        "boxTouches": 20,
+        "fouls": 12,
+        "corners": 4,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -242,6 +254,14 @@
           "type": "yellow-card",
           "teamId": "18",
           "playerName": "Lukas Ullrich"
+        },
+        {
+          "minute": "84'",
+          "type": "goal",
+          "teamId": "10",
+          "playerName": "Ermedin Demirović",
+          "method": "header",
+          "assist": "Jamie Leweling"
         }
       ]
     }
@@ -249,30 +269,30 @@
   "SA": {
     "558567": {
       "home": {
-        "possession": 55,
-        "xg": 0.55,
-        "shots": 9,
-        "shotsOnTarget": 4,
-        "accuratePasses": 279,
-        "duelsWon": 36,
-        "boxTouches": 16,
+        "possession": 53,
+        "xg": 0.71,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 287,
+        "duelsWon": 39,
+        "boxTouches": 18,
         "fouls": 7,
         "corners": 2,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 45,
-        "xg": 0.5,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 231,
-        "duelsWon": 33,
-        "boxTouches": 9,
+        "possession": 47,
+        "xg": 0.56,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 266,
+        "duelsWon": 34,
+        "boxTouches": 11,
         "fouls": 4,
         "corners": 4,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -311,23 +331,23 @@
         "xg": 1.57,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 285,
-        "duelsWon": 33,
+        "accuratePasses": 312,
+        "duelsWon": 34,
         "boxTouches": 14,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
         "possession": 52,
-        "xg": 0.39,
-        "shots": 8,
-        "shotsOnTarget": 1,
-        "accuratePasses": 316,
-        "duelsWon": 29,
-        "boxTouches": 10,
-        "fouls": 8,
+        "xg": 0.4,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 344,
+        "duelsWon": 32,
+        "boxTouches": 12,
+        "fouls": 9,
         "corners": 7,
         "offsides": 3,
         "saves": 3
@@ -365,10 +385,16 @@
           "playerName": "Ludovic Ajorque"
         },
         {
-          "minute": "69'",
+          "minute": "68'",
           "type": "yellow-card",
           "teamId": "522",
           "playerName": "Elye Wahi"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "512",
+          "playerName": "Bradley Locko"
         }
       ]
     }
@@ -457,30 +483,30 @@
   "PPL": {
     "567329": {
       "home": {
-        "possession": 70,
-        "xg": 0.25,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 98,
-        "duelsWon": 10,
-        "boxTouches": 6,
+        "possession": 68,
+        "xg": 0.35,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 133,
+        "duelsWon": 13,
+        "boxTouches": 9,
         "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 30,
+        "possession": 32,
         "xg": 0.02,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 35,
-        "duelsWon": 13,
+        "accuratePasses": 52,
+        "duelsWon": 16,
         "boxTouches": 3,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 0,
         "offsides": 3,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
