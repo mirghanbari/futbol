@@ -3890,6 +3890,10 @@
     "venue": "Coventry Building Society Arena, Coventry",
     "broadcasts": [
       {
+        "name": "NBCSN",
+        "kind": "tv"
+      },
+      {
         "name": "Peacock",
         "kind": "streaming"
       }
@@ -3913,6 +3917,10 @@
     },
     "venue": "Stamford Bridge, London",
     "broadcasts": [
+      {
+        "name": "NBCSN",
+        "kind": "tv"
+      },
       {
         "name": "Tele",
         "kind": "tv"

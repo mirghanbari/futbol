@@ -3818,6 +3818,10 @@
     "venue": "San Siro, Milano",
     "broadcasts": [
       {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
         "name": "Paramount+",
         "kind": "streaming"
       }
