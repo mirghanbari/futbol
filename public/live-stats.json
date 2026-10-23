@@ -1,23 +1,86 @@
 {
-  "PD": {
-    "564719": {
+  "PL": {
+    "560620": {
       "home": {
-        "possession": 100,
+        "possession": 23,
+        "xg": 0.03,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 9,
+        "duelsWon": 2,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 77,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 12,
-        "duelsWon": 1,
+        "accuratePasses": 46,
+        "duelsWon": 4,
+        "boxTouches": 1,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
-      },
-      "away": {
-        "possession": 0,
+      }
+    }
+  },
+  "ELC": {
+    "561894": {
+      "home": {
+        "possession": 22,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 0,
+        "accuratePasses": 9,
         "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 78,
+        "xg": 0.16,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 44,
+        "duelsWon": 1,
+        "boxTouches": 3,
+        "fouls": 1,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 0
+      }
+    }
+  },
+  "PD": {
+    "564719": {
+      "home": {
+        "possession": 67,
+        "xg": 0.11,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 30,
+        "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 33,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 13,
+        "duelsWon": 5,
+        "boxTouches": 2,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
@@ -28,26 +91,26 @@
   "BL1": {
     "565833": {
       "home": {
-        "possession": 69,
-        "xg": 0.43,
-        "shots": 6,
+        "possession": 66,
+        "xg": 0.57,
+        "shots": 7,
         "shotsOnTarget": 2,
         "accuratePasses": 214,
         "duelsWon": 14,
-        "boxTouches": 8,
-        "fouls": 3,
+        "boxTouches": 9,
+        "fouls": 4,
         "corners": 3,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 31,
-        "xg": 0.25,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 76,
-        "duelsWon": 14,
-        "boxTouches": 2,
+        "possession": 34,
+        "xg": 0.5,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 90,
+        "duelsWon": 15,
+        "boxTouches": 4,
         "fouls": 1,
         "corners": 1,
         "offsides": 0,
@@ -60,6 +123,13 @@
           "teamId": "10",
           "playerName": "Ermedin Demirović",
           "assist": "Dženan Pejčinović"
+        },
+        {
+          "minute": "38'",
+          "type": "goal",
+          "teamId": "18",
+          "playerName": "Joseph Scally",
+          "assist": "Zento Uno"
         }
       ]
     }
@@ -67,27 +137,27 @@
   "SA": {
     "558567": {
       "home": {
-        "possession": 57,
+        "possession": 61,
         "xg": 0.12,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 72,
-        "duelsWon": 10,
-        "boxTouches": 3,
+        "accuratePasses": 122,
+        "duelsWon": 14,
+        "boxTouches": 4,
         "fouls": 2,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 43,
+        "possession": 39,
         "xg": 0.07,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 63,
-        "duelsWon": 8,
+        "accuratePasses": 82,
+        "duelsWon": 12,
         "boxTouches": 1,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -97,12 +167,12 @@
   "FL1": {
     "559654": {
       "home": {
-        "possession": 49,
-        "xg": 1.05,
+        "possession": 43,
+        "xg": 1.07,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 74,
-        "duelsWon": 7,
+        "accuratePasses": 92,
+        "duelsWon": 6,
         "boxTouches": 4,
         "fouls": 2,
         "corners": 0,
@@ -110,13 +180,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 51,
-        "xg": 0.04,
-        "shots": 2,
+        "possession": 57,
+        "xg": 0.07,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 74,
-        "duelsWon": 5,
-        "boxTouches": 2,
+        "accuratePasses": 125,
+        "duelsWon": 6,
+        "boxTouches": 4,
         "fouls": 1,
         "corners": 2,
         "offsides": 0,
@@ -136,25 +206,25 @@
     "558863": {
       "home": {
         "possession": 49,
-        "xg": 0.63,
+        "xg": 0.64,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 187,
-        "duelsWon": 11,
+        "accuratePasses": 212,
+        "duelsWon": 13,
         "boxTouches": 10,
         "fouls": 5,
         "corners": 2,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "away": {
         "possession": 51,
-        "xg": 0.19,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 209,
-        "duelsWon": 18,
-        "boxTouches": 5,
+        "xg": 0.31,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 228,
+        "duelsWon": 19,
+        "boxTouches": 7,
         "fouls": 1,
         "corners": 1,
         "offsides": 1,
@@ -174,6 +244,12 @@
           "teamId": "718",
           "playerName": "Søren Tengstedt",
           "assist": "Mathis Suray"
+        },
+        {
+          "minute": "48'",
+          "type": "goal",
+          "teamId": "1912",
+          "playerName": "Tyrone Owusu"
         }
       ]
     }
