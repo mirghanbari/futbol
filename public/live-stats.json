@@ -2,26 +2,26 @@
   "PL": {
     "560620": {
       "home": {
-        "possession": 51,
+        "possession": 50,
         "xg": 0.4,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 326,
-        "duelsWon": 34,
+        "accuratePasses": 343,
+        "duelsWon": 37,
         "boxTouches": 11,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 0,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 49,
-        "xg": 2.14,
+        "possession": 50,
+        "xg": 2.11,
         "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 297,
-        "duelsWon": 34,
-        "boxTouches": 21,
+        "accuratePasses": 332,
+        "duelsWon": 38,
+        "boxTouches": 22,
         "fouls": 9,
         "corners": 5,
         "offsides": 1,
@@ -59,26 +59,26 @@
   "ELC": {
     "561894": {
       "home": {
-        "possession": 44,
-        "xg": 0.82,
-        "shots": 10,
+        "possession": 41,
+        "xg": 0.87,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 293,
+        "accuratePasses": 300,
         "duelsWon": 28,
         "boxTouches": 20,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 0,
         "saves": 8
       },
       "away": {
-        "possession": 56,
-        "xg": 4.06,
-        "shots": 28,
+        "possession": 59,
+        "xg": 4.17,
+        "shots": 30,
         "shotsOnTarget": 12,
-        "accuratePasses": 381,
-        "duelsWon": 28,
-        "boxTouches": 41,
+        "accuratePasses": 438,
+        "duelsWon": 31,
+        "boxTouches": 45,
         "fouls": 7,
         "corners": 12,
         "offsides": 4,
@@ -139,27 +139,27 @@
   "PD": {
     "564719": {
       "home": {
-        "possession": 46,
-        "xg": 1.17,
-        "shots": 12,
+        "possession": 48,
+        "xg": 0.88,
+        "shots": 13,
         "shotsOnTarget": 1,
-        "accuratePasses": 314,
-        "duelsWon": 45,
+        "accuratePasses": 340,
+        "duelsWon": 48,
         "boxTouches": 17,
         "fouls": 13,
         "corners": 5,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 54,
-        "xg": 0.57,
+        "possession": 52,
+        "xg": 0.61,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 375,
-        "duelsWon": 55,
-        "boxTouches": 8,
-        "fouls": 10,
+        "accuratePasses": 378,
+        "duelsWon": 58,
+        "boxTouches": 9,
+        "fouls": 11,
         "corners": 2,
         "offsides": 2,
         "saves": 1
@@ -183,6 +183,12 @@
           "type": "yellow-card",
           "teamId": "263",
           "playerName": "Nahuel Tenaglia"
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
+          "teamId": "84",
+          "playerName": "Carlos Dotor"
         }
       ]
     }
@@ -300,9 +306,9 @@
         "xg": 1.22,
         "shots": 17,
         "shotsOnTarget": 7,
-        "accuratePasses": 357,
-        "duelsWon": 49,
-        "boxTouches": 26,
+        "accuratePasses": 359,
+        "duelsWon": 51,
+        "boxTouches": 27,
         "fouls": 8,
         "corners": 3,
         "offsides": 1,
@@ -358,38 +364,40 @@
           "minute": "90'+4'",
           "type": "goal",
           "teamId": "5911",
-          "playerName": "<TBD>"
+          "playerName": "Nathan Patterson",
+          "ownGoal": true
         }
-      ]
+      ],
+      "final": true
     }
   },
   "FL1": {
     "559654": {
       "home": {
         "possession": 50,
-        "xg": 1.64,
-        "shots": 11,
-        "shotsOnTarget": 6,
-        "accuratePasses": 372,
-        "duelsWon": 48,
-        "boxTouches": 20,
-        "fouls": 14,
+        "xg": 2.46,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 373,
+        "duelsWon": 51,
+        "boxTouches": 21,
+        "fouls": 15,
         "corners": 3,
         "offsides": 1,
         "saves": 0
       },
       "away": {
         "possession": 50,
-        "xg": 0.7,
-        "shots": 10,
-        "shotsOnTarget": 3,
-        "accuratePasses": 367,
-        "duelsWon": 43,
-        "boxTouches": 17,
-        "fouls": 14,
+        "xg": 0.47,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 370,
+        "duelsWon": 42,
+        "boxTouches": 15,
+        "fouls": 15,
         "corners": 7,
         "offsides": 4,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -458,8 +466,15 @@
           "type": "yellow-card",
           "teamId": "522",
           "playerName": "Olivier Pantaloni"
+        },
+        {
+          "minute": "90'+8'",
+          "type": "yellow-card",
+          "teamId": "522",
+          "playerName": "Isak Jansson"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "DED": {
