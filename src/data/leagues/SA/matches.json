@@ -3686,14 +3686,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-23T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "586",
     "awayTeamId": "5911",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.22,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 359,
+        "duelsWon": 51,
+        "boxTouches": 27,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 49,
+        "xg": 0.58,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 365,
+        "duelsWon": 47,
+        "boxTouches": 13,
+        "fouls": 4,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Stadio Olimpico Grande Torino, Torino",
     "broadcasts": [

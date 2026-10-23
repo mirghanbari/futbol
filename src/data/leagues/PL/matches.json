@@ -3794,14 +3794,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-23T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "349",
     "awayTeamId": "351",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 0.46,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 377,
+        "duelsWon": 43,
+        "boxTouches": 14,
+        "fouls": 9,
+        "corners": 0,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 51,
+        "xg": 2.31,
+        "shots": 17,
+        "shotsOnTarget": 5,
+        "accuratePasses": 374,
+        "duelsWon": 49,
+        "boxTouches": 24,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Portman Road, Ipswich",
     "broadcasts": [

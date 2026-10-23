@@ -3948,14 +3948,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-23T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "718",
     "awayTeamId": "1912",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.1,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 349,
+        "duelsWon": 33,
+        "boxTouches": 14,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.05,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 436,
+        "duelsWon": 47,
+        "boxTouches": 13,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "De Adelaarshorst, Deventer"
   },

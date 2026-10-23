@@ -4903,14 +4903,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-23T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "263",
     "awayTeamId": "84",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 1.84,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 367,
+        "duelsWon": 51,
+        "boxTouches": 27,
+        "fouls": 14,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 50,
+        "xg": 0.71,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 384,
+        "duelsWon": 64,
+        "boxTouches": 10,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Mendizorrotza, Vitoria-Gasteiz",
     "broadcasts": [
