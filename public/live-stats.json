@@ -2,12 +2,12 @@
   "PL": {
     "560620": {
       "home": {
-        "possession": 54,
+        "possession": 55,
         "xg": 0.22,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 152,
-        "duelsWon": 15,
+        "accuratePasses": 174,
+        "duelsWon": 19,
         "boxTouches": 6,
         "fouls": 1,
         "corners": 0,
@@ -15,15 +15,15 @@
         "saves": 1
       },
       "away": {
-        "possession": 46,
-        "xg": 0.56,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 124,
-        "duelsWon": 15,
-        "boxTouches": 5,
-        "fouls": 2,
-        "corners": 0,
+        "possession": 45,
+        "xg": 1.39,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 129,
+        "duelsWon": 17,
+        "boxTouches": 9,
+        "fouls": 4,
+        "corners": 2,
         "offsides": 0,
         "saves": 2
       },
@@ -41,12 +41,12 @@
   "ELC": {
     "561894": {
       "home": {
-        "possession": 30,
+        "possession": 32,
         "xg": 0.21,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 70,
-        "duelsWon": 11,
+        "accuratePasses": 85,
+        "duelsWon": 12,
         "boxTouches": 3,
         "fouls": 2,
         "corners": 1,
@@ -54,15 +54,15 @@
         "saves": 4
       },
       "away": {
-        "possession": 70,
-        "xg": 1.45,
-        "shots": 13,
-        "shotsOnTarget": 4,
-        "accuratePasses": 177,
+        "possession": 68,
+        "xg": 2.44,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 194,
         "duelsWon": 12,
-        "boxTouches": 23,
-        "fouls": 2,
-        "corners": 5,
+        "boxTouches": 26,
+        "fouls": 3,
+        "corners": 6,
         "offsides": 2,
         "saves": 2
       },
@@ -73,6 +73,13 @@
           "teamId": "343",
           "playerName": "Aidan Morris",
           "assist": "Amario Cozier-Duberry"
+        },
+        {
+          "minute": "31'",
+          "type": "goal",
+          "teamId": "343",
+          "playerName": "Will Lankshear",
+          "assist": "Tommy Conway"
         }
       ]
     }
@@ -80,27 +87,27 @@
   "PD": {
     "564719": {
       "home": {
-        "possession": 44,
-        "xg": 0.15,
-        "shots": 4,
+        "possession": 46,
+        "xg": 0.23,
+        "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 123,
-        "duelsWon": 13,
-        "boxTouches": 2,
-        "fouls": 5,
-        "corners": 2,
+        "accuratePasses": 149,
+        "duelsWon": 16,
+        "boxTouches": 3,
+        "fouls": 6,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 56,
+        "possession": 54,
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 166,
-        "duelsWon": 18,
+        "accuratePasses": 189,
+        "duelsWon": 21,
         "boxTouches": 2,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -114,7 +121,7 @@
         "xg": 0.57,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 259,
+        "accuratePasses": 257,
         "duelsWon": 22,
         "boxTouches": 9,
         "fouls": 7,
@@ -124,7 +131,7 @@
       },
       "away": {
         "possession": 36,
-        "xg": 1.1,
+        "xg": 1.15,
         "shots": 11,
         "shotsOnTarget": 3,
         "accuratePasses": 120,
@@ -174,11 +181,11 @@
   "SA": {
     "558567": {
       "home": {
-        "possession": 53,
+        "possession": 49,
         "xg": 0.42,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 172,
+        "accuratePasses": 177,
         "duelsWon": 23,
         "boxTouches": 6,
         "fouls": 6,
@@ -187,13 +194,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 47,
+        "possession": 51,
         "xg": 0.13,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 160,
-        "duelsWon": 19,
-        "boxTouches": 5,
+        "accuratePasses": 196,
+        "duelsWon": 25,
+        "boxTouches": 6,
         "fouls": 2,
         "corners": 4,
         "offsides": 0,
@@ -219,12 +226,12 @@
   "FL1": {
     "559654": {
       "home": {
-        "possession": 48,
+        "possession": 47,
         "xg": 1.52,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 196,
-        "duelsWon": 21,
+        "accuratePasses": 200,
+        "duelsWon": 22,
         "boxTouches": 11,
         "fouls": 4,
         "corners": 1,
@@ -232,11 +239,11 @@
         "saves": 0
       },
       "away": {
-        "possession": 52,
+        "possession": 53,
         "xg": 0.14,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 220,
+        "accuratePasses": 228,
         "duelsWon": 12,
         "boxTouches": 7,
         "fouls": 5,
@@ -257,12 +264,12 @@
   "DED": {
     "558863": {
       "home": {
-        "possession": 49,
+        "possession": 48,
         "xg": 1.02,
         "shots": 14,
         "shotsOnTarget": 7,
-        "accuratePasses": 318,
-        "duelsWon": 26,
+        "accuratePasses": 328,
+        "duelsWon": 30,
         "boxTouches": 14,
         "fouls": 11,
         "corners": 4,
@@ -270,12 +277,12 @@
         "saves": 1
       },
       "away": {
-        "possession": 51,
-        "xg": 0.31,
+        "possession": 52,
+        "xg": 0.35,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 336,
-        "duelsWon": 33,
+        "accuratePasses": 363,
+        "duelsWon": 38,
         "boxTouches": 9,
         "fouls": 5,
         "corners": 2,
