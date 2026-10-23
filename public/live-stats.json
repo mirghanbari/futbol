@@ -576,28 +576,28 @@
   "PPL": {
     "567329": {
       "home": {
-        "possession": 61,
-        "xg": 0.98,
-        "shots": 10,
-        "shotsOnTarget": 4,
-        "accuratePasses": 222,
-        "duelsWon": 29,
-        "boxTouches": 17,
-        "fouls": 7,
+        "possession": 59,
+        "xg": 1.02,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 238,
+        "duelsWon": 31,
+        "boxTouches": 19,
+        "fouls": 8,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 39,
-        "xg": 0.1,
-        "shots": 3,
+        "possession": 41,
+        "xg": 0.39,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 134,
-        "duelsWon": 32,
-        "boxTouches": 5,
+        "accuratePasses": 158,
+        "duelsWon": 34,
+        "boxTouches": 10,
         "fouls": 9,
-        "corners": 2,
+        "corners": 4,
         "offsides": 5,
         "saves": 2
       },
@@ -644,6 +644,12 @@
           "teamId": "5543",
           "playerName": "Paulo Henrique",
           "ownGoal": true
+        },
+        {
+          "minute": "60'",
+          "type": "goal",
+          "teamId": "5543",
+          "playerName": "Oumar Camara"
         }
       ]
     }
