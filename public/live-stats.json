@@ -576,25 +576,25 @@
   "PPL": {
     "567329": {
       "home": {
-        "possession": 55,
-        "xg": 1.07,
+        "possession": 54,
+        "xg": 1.65,
         "shots": 14,
         "shotsOnTarget": 6,
-        "accuratePasses": 273,
-        "duelsWon": 37,
+        "accuratePasses": 285,
+        "duelsWon": 42,
         "boxTouches": 23,
-        "fouls": 12,
+        "fouls": 14,
         "corners": 4,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 45,
+        "possession": 46,
         "xg": 0.52,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 214,
-        "duelsWon": 47,
+        "accuratePasses": 235,
+        "duelsWon": 50,
         "boxTouches": 15,
         "fouls": 10,
         "corners": 5,
@@ -667,7 +667,8 @@
           "minute": "76'",
           "type": "goal",
           "teamId": "5543",
-          "playerName": "<TBD>"
+          "playerName": "Arnel Jakupović",
+          "assist": "Samu"
         }
       ]
     }
