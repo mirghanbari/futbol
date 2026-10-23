@@ -2,12 +2,12 @@
   "PL": {
     "560620": {
       "home": {
-        "possession": 56,
+        "possession": 54,
         "xg": 0.4,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 317,
-        "duelsWon": 31,
+        "accuratePasses": 322,
+        "duelsWon": 33,
         "boxTouches": 11,
         "fouls": 4,
         "corners": 0,
@@ -15,13 +15,13 @@
         "saves": 2
       },
       "away": {
-        "possession": 44,
-        "xg": 1.7,
-        "shots": 11,
+        "possession": 46,
+        "xg": 1.98,
+        "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 226,
-        "duelsWon": 31,
-        "boxTouches": 18,
+        "accuratePasses": 254,
+        "duelsWon": 33,
+        "boxTouches": 21,
         "fouls": 9,
         "corners": 5,
         "offsides": 0,
@@ -59,27 +59,27 @@
   "ELC": {
     "561894": {
       "home": {
-        "possession": 38,
-        "xg": 0.79,
-        "shots": 9,
+        "possession": 40,
+        "xg": 0.82,
+        "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 206,
-        "duelsWon": 24,
-        "boxTouches": 18,
+        "accuratePasses": 244,
+        "duelsWon": 25,
+        "boxTouches": 20,
         "fouls": 6,
         "corners": 2,
         "offsides": 0,
         "saves": 8
       },
       "away": {
-        "possession": 62,
-        "xg": 3.27,
-        "shots": 26,
-        "shotsOnTarget": 10,
-        "accuratePasses": 351,
-        "duelsWon": 24,
-        "boxTouches": 38,
-        "fouls": 6,
+        "possession": 60,
+        "xg": 3.44,
+        "shots": 27,
+        "shotsOnTarget": 11,
+        "accuratePasses": 377,
+        "duelsWon": 28,
+        "boxTouches": 39,
+        "fouls": 7,
         "corners": 12,
         "offsides": 4,
         "saves": 3
@@ -118,6 +118,13 @@
           "type": "yellow-card",
           "teamId": "343",
           "playerName": "Riley McGree"
+        },
+        {
+          "minute": "73'",
+          "type": "goal",
+          "teamId": "343",
+          "playerName": "Amario Cozier-Duberry",
+          "assist": "Riley McGree"
         }
       ]
     }
@@ -126,29 +133,29 @@
     "564719": {
       "home": {
         "possession": 48,
-        "xg": 0.35,
-        "shots": 8,
-        "shotsOnTarget": 0,
-        "accuratePasses": 285,
-        "duelsWon": 37,
-        "boxTouches": 9,
+        "xg": 0.78,
+        "shots": 11,
+        "shotsOnTarget": 1,
+        "accuratePasses": 306,
+        "duelsWon": 38,
+        "boxTouches": 14,
         "fouls": 13,
-        "corners": 4,
+        "corners": 5,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
         "possession": 52,
-        "xg": 0.47,
-        "shots": 4,
+        "xg": 0.57,
+        "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 314,
-        "duelsWon": 50,
-        "boxTouches": 5,
+        "accuratePasses": 340,
+        "duelsWon": 54,
+        "boxTouches": 7,
         "fouls": 9,
-        "corners": 1,
-        "offsides": 0,
-        "saves": 0
+        "corners": 2,
+        "offsides": 1,
+        "saves": 1
       },
       "events": [
         {
@@ -284,10 +291,10 @@
       "home": {
         "possession": 52,
         "xg": 0.87,
-        "shots": 13,
+        "shots": 14,
         "shotsOnTarget": 6,
-        "accuratePasses": 328,
-        "duelsWon": 42,
+        "accuratePasses": 343,
+        "duelsWon": 47,
         "boxTouches": 21,
         "fouls": 8,
         "corners": 2,
@@ -299,9 +306,9 @@
         "xg": 0.58,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 319,
-        "duelsWon": 43,
-        "boxTouches": 12,
+        "accuratePasses": 344,
+        "duelsWon": 44,
+        "boxTouches": 13,
         "fouls": 4,
         "corners": 4,
         "offsides": 2,
@@ -346,27 +353,27 @@
   "FL1": {
     "559654": {
       "home": {
-        "possession": 49,
+        "possession": 50,
         "xg": 1.62,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 347,
-        "duelsWon": 44,
-        "boxTouches": 15,
-        "fouls": 13,
+        "accuratePasses": 363,
+        "duelsWon": 46,
+        "boxTouches": 17,
+        "fouls": 14,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 51,
+        "possession": 50,
         "xg": 0.47,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 363,
-        "duelsWon": 36,
-        "boxTouches": 14,
-        "fouls": 13,
+        "accuratePasses": 367,
+        "duelsWon": 40,
+        "boxTouches": 15,
+        "fouls": 14,
         "corners": 7,
         "offsides": 4,
         "saves": 4
@@ -426,6 +433,18 @@
           "type": "yellow-card",
           "teamId": "522",
           "playerName": "Yéhvann Diouf"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "522",
+          "playerName": "Niels Nkounkou"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "522",
+          "playerName": "Olivier Pantaloni"
         }
       ]
     }
@@ -514,25 +533,25 @@
   "PPL": {
     "567329": {
       "home": {
-        "possession": 67,
-        "xg": 0.66,
-        "shots": 8,
+        "possession": 64,
+        "xg": 0.77,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 175,
-        "duelsWon": 16,
-        "boxTouches": 12,
-        "fouls": 4,
+        "accuratePasses": 190,
+        "duelsWon": 22,
+        "boxTouches": 15,
+        "fouls": 6,
         "corners": 2,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 33,
+        "possession": 36,
         "xg": 0.1,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 75,
-        "duelsWon": 17,
+        "accuratePasses": 98,
+        "duelsWon": 25,
         "boxTouches": 4,
         "fouls": 5,
         "corners": 2,
