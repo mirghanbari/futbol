@@ -3,15 +3,15 @@
     "560620": {
       "home": {
         "possession": 49,
-        "xg": 0.4,
-        "shots": 6,
+        "xg": 0.46,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 352,
-        "duelsWon": 39,
-        "boxTouches": 11,
-        "fouls": 7,
+        "accuratePasses": 370,
+        "duelsWon": 41,
+        "boxTouches": 13,
+        "fouls": 9,
         "corners": 0,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 3
       },
       "away": {
@@ -19,10 +19,10 @@
         "xg": 2.31,
         "shots": 17,
         "shotsOnTarget": 5,
-        "accuratePasses": 364,
-        "duelsWon": 44,
+        "accuratePasses": 371,
+        "duelsWon": 47,
         "boxTouches": 24,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 5,
         "offsides": 1,
         "saves": 2
@@ -59,27 +59,27 @@
   "ELC": {
     "561894": {
       "home": {
-        "possession": 40,
-        "xg": 0.87,
+        "possession": 39,
+        "xg": 0.91,
         "shots": 12,
         "shotsOnTarget": 4,
         "accuratePasses": 308,
-        "duelsWon": 31,
+        "duelsWon": 34,
         "boxTouches": 20,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 2,
         "offsides": 0,
         "saves": 8
       },
       "away": {
-        "possession": 60,
-        "xg": 4.14,
+        "possession": 61,
+        "xg": 4.17,
         "shots": 31,
         "shotsOnTarget": 12,
-        "accuratePasses": 481,
+        "accuratePasses": 491,
         "duelsWon": 34,
         "boxTouches": 45,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 12,
         "offsides": 4,
         "saves": 3
@@ -133,36 +133,37 @@
           "playerName": "Will Lankshear",
           "assist": "Riley McGree"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PD": {
     "564719": {
       "home": {
-        "possession": 49,
+        "possession": 50,
         "xg": 1.84,
-        "shots": 16,
-        "shotsOnTarget": 3,
-        "accuratePasses": 354,
-        "duelsWon": 50,
-        "boxTouches": 21,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 368,
+        "duelsWon": 53,
+        "boxTouches": 27,
         "fouls": 14,
-        "corners": 6,
+        "corners": 7,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 51,
-        "xg": 0.61,
+        "possession": 50,
+        "xg": 0.6,
         "shots": 6,
         "shotsOnTarget": 3,
         "accuratePasses": 384,
-        "duelsWon": 61,
+        "duelsWon": 62,
         "boxTouches": 10,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 2,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -202,7 +203,8 @@
           "teamId": "84",
           "playerName": "Juan Funes"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
@@ -577,10 +579,10 @@
         "xg": 0.85,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 202,
-        "duelsWon": 21,
+        "accuratePasses": 209,
+        "duelsWon": 25,
         "boxTouches": 14,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 0,
         "saves": 2
@@ -590,10 +592,10 @@
         "xg": 0.1,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 103,
-        "duelsWon": 24,
+        "accuratePasses": 107,
+        "duelsWon": 26,
         "boxTouches": 5,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 2,
         "offsides": 4,
         "saves": 1
@@ -634,6 +636,12 @@
           "type": "goal",
           "teamId": "5543",
           "playerName": "Arnel Jakupović"
+        },
+        {
+          "minute": "48'",
+          "type": "goal",
+          "teamId": "5543",
+          "playerName": "<TBD>"
         }
       ]
     }
