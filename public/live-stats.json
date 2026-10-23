@@ -576,27 +576,27 @@
   "PPL": {
     "567329": {
       "home": {
-        "possession": 59,
-        "xg": 1.02,
+        "possession": 57,
+        "xg": 1.05,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 238,
-        "duelsWon": 31,
+        "accuratePasses": 240,
+        "duelsWon": 32,
         "boxTouches": 19,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 41,
-        "xg": 0.39,
-        "shots": 6,
+        "possession": 43,
+        "xg": 0.45,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 158,
-        "duelsWon": 34,
-        "boxTouches": 10,
-        "fouls": 9,
+        "accuratePasses": 172,
+        "duelsWon": 35,
+        "boxTouches": 11,
+        "fouls": 10,
         "corners": 4,
         "offsides": 5,
         "saves": 2
@@ -650,6 +650,18 @@
           "type": "goal",
           "teamId": "5543",
           "playerName": "Oumar Camara"
+        },
+        {
+          "minute": "63'",
+          "type": "yellow-card",
+          "teamId": "5575",
+          "playerName": "Rodrigo Andrade"
+        },
+        {
+          "minute": "64'",
+          "type": "yellow-card",
+          "teamId": "5543",
+          "playerName": "Samu"
         }
       ]
     }
