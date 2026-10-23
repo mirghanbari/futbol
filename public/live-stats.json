@@ -577,14 +577,14 @@
     "567329": {
       "home": {
         "possession": 57,
-        "xg": 1.7,
-        "shots": 15,
-        "shotsOnTarget": 7,
-        "accuratePasses": 336,
+        "xg": 1.78,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 339,
         "duelsWon": 43,
-        "boxTouches": 25,
+        "boxTouches": 26,
         "fouls": 15,
-        "corners": 5,
+        "corners": 6,
         "offsides": 1,
         "saves": 2
       },
@@ -593,12 +593,12 @@
         "xg": 0.52,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 242,
-        "duelsWon": 52,
+        "accuratePasses": 244,
+        "duelsWon": 53,
         "boxTouches": 15,
         "fouls": 11,
         "corners": 5,
-        "offsides": 5,
+        "offsides": 6,
         "saves": 3
       },
       "events": [
@@ -669,6 +669,13 @@
           "teamId": "5543",
           "playerName": "Arnel Jakupović",
           "assist": "Samu"
+        },
+        {
+          "minute": "90'",
+          "type": "goal",
+          "teamId": "5543",
+          "playerName": "Yeimar Mosquera",
+          "assist": "Alan"
         }
       ]
     }
