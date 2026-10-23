@@ -576,12 +576,12 @@
   "PPL": {
     "567329": {
       "home": {
-        "possession": 57,
+        "possession": 58,
         "xg": 1.78,
         "shots": 16,
         "shotsOnTarget": 8,
-        "accuratePasses": 339,
-        "duelsWon": 43,
+        "accuratePasses": 355,
+        "duelsWon": 45,
         "boxTouches": 26,
         "fouls": 15,
         "corners": 6,
@@ -589,12 +589,12 @@
         "saves": 2
       },
       "away": {
-        "possession": 43,
+        "possession": 42,
         "xg": 0.52,
         "shots": 10,
         "shotsOnTarget": 2,
         "accuratePasses": 244,
-        "duelsWon": 53,
+        "duelsWon": 54,
         "boxTouches": 15,
         "fouls": 11,
         "corners": 5,
@@ -624,13 +624,13 @@
           "minute": "37'",
           "type": "yellow-card",
           "teamId": "5575",
-          "playerName": "Raphael Guzzo"
+          "playerName": "Tomás Tavares"
         },
         {
           "minute": "37'",
           "type": "yellow-card",
           "teamId": "5575",
-          "playerName": "Tomás Tavares"
+          "playerName": "Raphael Guzzo"
         },
         {
           "minute": "38'",
@@ -677,7 +677,8 @@
           "playerName": "Yeimar Mosquera",
           "assist": "Alan"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
