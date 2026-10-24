@@ -179,28 +179,28 @@
     },
     "560617": {
       "home": {
-        "possession": 31,
+        "possession": 32,
         "xg": 0.43,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 175,
-        "duelsWon": 41,
+        "accuratePasses": 191,
+        "duelsWon": 42,
         "boxTouches": 17,
         "fouls": 13,
         "corners": 4,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 69,
-        "xg": 0.63,
-        "shots": 11,
-        "shotsOnTarget": 2,
-        "accuratePasses": 450,
-        "duelsWon": 50,
-        "boxTouches": 22,
+        "possession": 68,
+        "xg": 0.72,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 466,
+        "duelsWon": 54,
+        "boxTouches": 25,
         "fouls": 12,
-        "corners": 5,
+        "corners": 6,
         "offsides": 1,
         "saves": 4
       },
@@ -253,6 +253,12 @@
           "type": "red-card",
           "teamId": "61",
           "playerName": "Cole Palmer"
+        },
+        {
+          "minute": "87'",
+          "type": "goal",
+          "teamId": "73",
+          "playerName": "Mathys Tel"
         }
       ]
     },
@@ -1226,11 +1232,11 @@
         "xg": 1.02,
         "shots": 6,
         "shotsOnTarget": 4,
-        "accuratePasses": 163,
-        "duelsWon": 29,
+        "accuratePasses": 171,
+        "duelsWon": 31,
         "boxTouches": 14,
         "fouls": 16,
-        "corners": 4,
+        "corners": 5,
         "offsides": 2,
         "saves": 1
       },
@@ -1239,12 +1245,12 @@
         "xg": 1.19,
         "shots": 18,
         "shotsOnTarget": 2,
-        "accuratePasses": 398,
-        "duelsWon": 35,
+        "accuratePasses": 408,
+        "duelsWon": 39,
         "boxTouches": 40,
         "fouls": 8,
         "corners": 9,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 3
       },
       "events": [
@@ -1298,6 +1304,12 @@
           "playerName": "Alex Freeman",
           "method": "header",
           "assist": "Sergi Cardona"
+        },
+        {
+          "minute": "79'",
+          "type": "red-card",
+          "teamId": "94",
+          "playerName": "Pape Gueye"
         }
       ]
     },
@@ -1697,12 +1709,12 @@
     },
     "565837": {
       "home": {
-        "possession": 60,
+        "possession": 59,
         "xg": 1.56,
         "shots": 18,
         "shotsOnTarget": 5,
-        "accuratePasses": 369,
-        "duelsWon": 40,
+        "accuratePasses": 379,
+        "duelsWon": 47,
         "boxTouches": 36,
         "fouls": 6,
         "corners": 13,
@@ -1710,16 +1722,16 @@
         "saves": 3
       },
       "away": {
-        "possession": 40,
+        "possession": 41,
         "xg": 0.82,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 235,
-        "duelsWon": 44,
-        "boxTouches": 10,
-        "fouls": 9,
+        "accuratePasses": 258,
+        "duelsWon": 46,
+        "boxTouches": 11,
+        "fouls": 10,
         "corners": 1,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 4
       },
       "events": [
@@ -2075,27 +2087,27 @@
   "DED": {
     "558861": {
       "home": {
-        "possession": 47,
-        "xg": 0.54,
-        "shots": 7,
+        "possession": 48,
+        "xg": 0.56,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 165,
-        "duelsWon": 46,
-        "boxTouches": 14,
+        "accuratePasses": 188,
+        "duelsWon": 51,
+        "boxTouches": 17,
         "fouls": 15,
-        "corners": 8,
+        "corners": 10,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 53,
+        "possession": 52,
         "xg": 1.66,
         "shots": 15,
         "shotsOnTarget": 8,
-        "accuratePasses": 215,
-        "duelsWon": 47,
-        "boxTouches": 20,
-        "fouls": 7,
+        "accuratePasses": 222,
+        "duelsWon": 50,
+        "boxTouches": 21,
+        "fouls": 8,
         "corners": 3,
         "offsides": 0,
         "saves": 1
@@ -2222,25 +2234,25 @@
   "PPL": {
     "567333": {
       "home": {
-        "possession": 21,
-        "xg": 0.07,
-        "shots": 2,
+        "possession": 25,
+        "xg": 0.13,
+        "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 82,
-        "duelsWon": 16,
-        "boxTouches": 4,
+        "accuratePasses": 113,
+        "duelsWon": 20,
+        "boxTouches": 7,
         "fouls": 4,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 79,
-        "xg": 1.22,
+        "possession": 75,
+        "xg": 1.25,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 408,
-        "duelsWon": 20,
+        "accuratePasses": 432,
+        "duelsWon": 22,
         "boxTouches": 12,
         "fouls": 8,
         "corners": 2,
@@ -2266,6 +2278,12 @@
           "teamId": "712",
           "playerName": "Taichi Fukui",
           "assist": "Javi Sánchez"
+        },
+        {
+          "minute": "54'",
+          "type": "yellow-card",
+          "teamId": "712",
+          "playerName": "Pedro Santos"
         }
       ]
     },
