@@ -40,6 +40,14 @@
     "competitionId": "SA"
   },
   {
+    "id": "104",
+    "name": "Cagliari Calcio",
+    "shortName": "Cagliari",
+    "tla": "CAG",
+    "crest": "https://crests.football-data.org/104.png",
+    "competitionId": "SA"
+  },
+  {
     "id": "470",
     "name": "Frosinone Calcio",
     "shortName": "Frosinone",
@@ -53,14 +61,6 @@
     "shortName": "Torino",
     "tla": "TOR",
     "crest": "https://crests.football-data.org/586.png",
-    "competitionId": "SA"
-  },
-  {
-    "id": "104",
-    "name": "Cagliari Calcio",
-    "shortName": "Cagliari",
-    "tla": "CAG",
-    "crest": "https://crests.football-data.org/104.png",
     "competitionId": "SA"
   },
   {
@@ -88,19 +88,19 @@
     "competitionId": "SA"
   },
   {
-    "id": "5890",
-    "name": "US Lecce",
-    "shortName": "Lecce",
-    "tla": "USL",
-    "crest": "https://crests.football-data.org/5890.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "471",
     "name": "US Sassuolo Calcio",
     "shortName": "Sassuolo",
     "tla": "SAS",
     "crest": "https://crests.football-data.org/471.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "5890",
+    "name": "US Lecce",
+    "shortName": "Lecce",
+    "tla": "USL",
+    "crest": "https://crests.football-data.org/5890.png",
     "competitionId": "SA"
   },
   {
