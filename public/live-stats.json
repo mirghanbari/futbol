@@ -1144,27 +1144,27 @@
     "564727": {
       "home": {
         "possession": 55,
-        "xg": 2.62,
+        "xg": 2.46,
         "shots": 23,
         "shotsOnTarget": 9,
         "accuratePasses": 378,
-        "duelsWon": 55,
-        "boxTouches": 43,
-        "fouls": 9,
+        "duelsWon": 56,
+        "boxTouches": 44,
+        "fouls": 10,
         "corners": 9,
         "offsides": 1,
         "saves": 0
       },
       "away": {
         "possession": 45,
-        "xg": 0.51,
-        "shots": 9,
+        "xg": 0.59,
+        "shots": 11,
         "shotsOnTarget": 1,
-        "accuratePasses": 284,
-        "duelsWon": 41,
-        "boxTouches": 28,
+        "accuratePasses": 290,
+        "duelsWon": 45,
+        "boxTouches": 31,
         "fouls": 17,
-        "corners": 2,
+        "corners": 4,
         "offsides": 4,
         "saves": 7
       },
@@ -1230,8 +1230,15 @@
           "type": "yellow-card",
           "teamId": "80",
           "playerName": "Edu Expósito"
+        },
+        {
+          "minute": "90'+7'",
+          "type": "yellow-card",
+          "teamId": "5335",
+          "playerName": "Jorge Salinas"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
@@ -1746,26 +1753,27 @@
     },
     "558564": {
       "home": {
-        "possession": 38,
+        "possession": 53,
         "xg": 0.05,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 27,
-        "duelsWon": 4,
-        "boxTouches": 2,
-        "fouls": 1,
-        "corners": 0,
+        "accuratePasses": 76,
+        "duelsWon": 10,
+        "boxTouches": 4,
+        "fouls": 2,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 62,
-        "xg": 0,
-        "shots": 0,
+        "possession": 47,
+        "xg": 0.04,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 54,
-        "duelsWon": 6,
-        "fouls": 1,
+        "accuratePasses": 69,
+        "duelsWon": 10,
+        "boxTouches": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -1787,9 +1795,9 @@
         "xg": 0.95,
         "shots": 17,
         "shotsOnTarget": 4,
-        "accuratePasses": 345,
-        "duelsWon": 48,
-        "boxTouches": 30,
+        "accuratePasses": 367,
+        "duelsWon": 52,
+        "boxTouches": 33,
         "fouls": 9,
         "corners": 7,
         "offsides": 2,
@@ -1800,10 +1808,10 @@
         "xg": 0.89,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 238,
-        "duelsWon": 32,
-        "boxTouches": 17,
-        "fouls": 6,
+        "accuratePasses": 243,
+        "duelsWon": 37,
+        "boxTouches": 18,
+        "fouls": 7,
         "corners": 2,
         "offsides": 1,
         "saves": 4
@@ -1823,7 +1831,7 @@
           "assist": "Thijs Oosting"
         },
         {
-          "minute": "75'",
+          "minute": "76'",
           "type": "yellow-card",
           "teamId": "684",
           "playerName": "Gilles van der Wal"
@@ -1834,12 +1842,12 @@
   "PPL": {
     "567337": {
       "home": {
-        "possession": 64,
-        "xg": 1.42,
-        "shots": 13,
+        "possession": 63,
+        "xg": 1.46,
+        "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 372,
-        "duelsWon": 39,
+        "accuratePasses": 380,
+        "duelsWon": 45,
         "boxTouches": 23,
         "fouls": 10,
         "corners": 7,
@@ -1847,17 +1855,17 @@
         "saves": 2
       },
       "away": {
-        "possession": 36,
-        "xg": 0.32,
-        "shots": 5,
+        "possession": 37,
+        "xg": 0.45,
+        "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 198,
-        "duelsWon": 47,
-        "boxTouches": 8,
+        "accuratePasses": 207,
+        "duelsWon": 49,
+        "boxTouches": 12,
         "fouls": 11,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
