@@ -2,27 +2,27 @@
   "PL": {
     "560614": {
       "home": {
-        "possession": 39,
+        "possession": 38,
         "xg": 0.56,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 226,
-        "duelsWon": 51,
+        "accuratePasses": 237,
+        "duelsWon": 52,
         "boxTouches": 12,
-        "fouls": 15,
+        "fouls": 17,
         "corners": 4,
         "offsides": 1,
         "saves": 5
       },
       "away": {
-        "possession": 61,
+        "possession": 62,
         "xg": 1.5,
         "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 366,
-        "duelsWon": 40,
-        "boxTouches": 41,
-        "fouls": 13,
+        "accuratePasses": 407,
+        "duelsWon": 46,
+        "boxTouches": 42,
+        "fouls": 14,
         "corners": 7,
         "offsides": 1,
         "saves": 0
@@ -92,30 +92,30 @@
   "ELC": {
     "561895": {
       "home": {
-        "possession": 55,
-        "xg": 0.43,
-        "shots": 10,
-        "shotsOnTarget": 1,
-        "accuratePasses": 229,
-        "duelsWon": 48,
-        "boxTouches": 15,
-        "fouls": 6,
-        "corners": 1,
+        "possession": 56,
+        "xg": 0.52,
+        "shots": 13,
+        "shotsOnTarget": 3,
+        "accuratePasses": 246,
+        "duelsWon": 51,
+        "boxTouches": 20,
+        "fouls": 7,
+        "corners": 6,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 45,
-        "xg": 1.04,
+        "possession": 44,
+        "xg": 1.09,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 163,
-        "duelsWon": 37,
+        "accuratePasses": 172,
+        "duelsWon": 40,
         "boxTouches": 11,
         "fouls": 14,
         "corners": 7,
         "offsides": 4,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -147,31 +147,44 @@
           "type": "red-card",
           "teamId": "342",
           "playerName": "Dion Sanderson"
+        },
+        {
+          "minute": "75'",
+          "type": "yellow-card",
+          "teamId": "356",
+          "playerName": "Sydie Peck"
+        },
+        {
+          "minute": "79'",
+          "type": "goal",
+          "teamId": "356",
+          "playerName": "Patrick Bamford",
+          "assist": "Romelle Donovan"
         }
       ]
     },
     "561901": {
       "home": {
-        "possession": 35,
+        "possession": 36,
         "xg": 0.79,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 132,
-        "duelsWon": 42,
-        "boxTouches": 23,
+        "accuratePasses": 141,
+        "duelsWon": 45,
+        "boxTouches": 24,
         "fouls": 11,
         "corners": 3,
         "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 65,
-        "xg": 1.05,
-        "shots": 10,
+        "possession": 64,
+        "xg": 1.15,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 335,
-        "duelsWon": 42,
-        "boxTouches": 18,
+        "accuratePasses": 343,
+        "duelsWon": 45,
+        "boxTouches": 21,
         "fouls": 4,
         "corners": 3,
         "offsides": 3,
@@ -222,19 +235,32 @@
           "type": "yellow-card",
           "teamId": "348",
           "playerName": "Harvey Knibbs"
+        },
+        {
+          "minute": "76'",
+          "type": "goal",
+          "teamId": "68",
+          "playerName": "Ivan Mesík",
+          "ownGoal": true
+        },
+        {
+          "minute": "78'",
+          "type": "yellow-card",
+          "teamId": "68",
+          "playerName": "Ante Crnac"
         }
       ]
     },
     "561904": {
       "home": {
         "possession": 49,
-        "xg": 0.53,
-        "shots": 6,
+        "xg": 0.52,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 214,
-        "duelsWon": 41,
+        "accuratePasses": 219,
+        "duelsWon": 46,
         "boxTouches": 17,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 4,
         "offsides": 1,
         "saves": 0
@@ -242,13 +268,13 @@
       "away": {
         "possession": 51,
         "xg": 0.66,
-        "shots": 9,
+        "shots": 10,
         "shotsOnTarget": 1,
-        "accuratePasses": 234,
-        "duelsWon": 40,
+        "accuratePasses": 251,
+        "duelsWon": 44,
         "boxTouches": 15,
-        "fouls": 8,
-        "corners": 3,
+        "fouls": 10,
+        "corners": 4,
         "offsides": 5,
         "saves": 1
       },
@@ -283,6 +309,12 @@
           "type": "yellow-card",
           "teamId": "325",
           "playerName": "Marezi"
+        },
+        {
+          "minute": "82'",
+          "type": "goal",
+          "teamId": "325",
+          "playerName": "Thomas Waddingham"
         }
       ]
     }
@@ -360,23 +392,23 @@
   "SA": {
     "558560": {
       "home": {
-        "possession": 56,
+        "possession": 67,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 14,
-        "duelsWon": 5,
+        "accuratePasses": 68,
+        "duelsWon": 9,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 44,
+        "possession": 33,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 13,
-        "duelsWon": 1,
-        "fouls": 2,
+        "accuratePasses": 31,
+        "duelsWon": 2,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -384,22 +416,25 @@
     },
     "558561": {
       "home": {
-        "possession": 44,
-        "shots": 0,
+        "possession": 60,
+        "xg": 0.03,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 7,
-        "duelsWon": 0,
-        "fouls": 0,
-        "corners": 0,
-        "offsides": 0,
+        "accuratePasses": 57,
+        "duelsWon": 4,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 1,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 56,
+        "possession": 40,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 10,
-        "duelsWon": 0,
+        "accuratePasses": 38,
+        "duelsWon": 1,
         "fouls": 0,
         "corners": 0,
         "offsides": 1,
