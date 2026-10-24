@@ -1754,12 +1754,12 @@
     "558564": {
       "home": {
         "possession": 53,
-        "xg": 0.05,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 76,
-        "duelsWon": 10,
-        "boxTouches": 4,
+        "xg": 0.26,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 102,
+        "duelsWon": 12,
+        "boxTouches": 5,
         "fouls": 2,
         "corners": 1,
         "offsides": 0,
@@ -1767,16 +1767,16 @@
       },
       "away": {
         "possession": 47,
-        "xg": 0.04,
-        "shots": 1,
+        "xg": 0.09,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 69,
-        "duelsWon": 10,
-        "boxTouches": 1,
+        "accuratePasses": 92,
+        "duelsWon": 12,
+        "boxTouches": 6,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -1791,25 +1791,25 @@
   "DED": {
     "558862": {
       "home": {
-        "possession": 58,
-        "xg": 0.95,
-        "shots": 17,
+        "possession": 60,
+        "xg": 1.02,
+        "shots": 18,
         "shotsOnTarget": 4,
-        "accuratePasses": 367,
-        "duelsWon": 52,
+        "accuratePasses": 398,
+        "duelsWon": 57,
         "boxTouches": 33,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 7,
         "offsides": 2,
         "saves": 4
       },
       "away": {
-        "possession": 42,
+        "possession": 40,
         "xg": 0.89,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 243,
-        "duelsWon": 37,
+        "accuratePasses": 249,
+        "duelsWon": 42,
         "boxTouches": 18,
         "fouls": 7,
         "corners": 2,
@@ -1835,6 +1835,18 @@
           "type": "yellow-card",
           "teamId": "684",
           "playerName": "Gilles van der Wal"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "684",
+          "playerName": "Tobias Sommer"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "676",
+          "playerName": "Joris van Overeem"
         }
       ]
     }
@@ -1842,30 +1854,30 @@
   "PPL": {
     "567337": {
       "home": {
-        "possession": 63,
-        "xg": 1.46,
-        "shots": 15,
-        "shotsOnTarget": 4,
-        "accuratePasses": 380,
-        "duelsWon": 45,
-        "boxTouches": 23,
-        "fouls": 10,
+        "possession": 62,
+        "xg": 1.55,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 398,
+        "duelsWon": 46,
+        "boxTouches": 24,
+        "fouls": 12,
         "corners": 7,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 37,
-        "xg": 0.45,
-        "shots": 6,
+        "possession": 38,
+        "xg": 0.5,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 207,
-        "duelsWon": 49,
-        "boxTouches": 12,
+        "accuratePasses": 214,
+        "duelsWon": 56,
+        "boxTouches": 13,
         "fouls": 11,
-        "corners": 3,
+        "corners": 4,
         "offsides": 0,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
