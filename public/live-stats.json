@@ -179,27 +179,27 @@
     },
     "560617": {
       "home": {
-        "possession": 30,
+        "possession": 31,
         "xg": 0.43,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 166,
-        "duelsWon": 38,
+        "accuratePasses": 175,
+        "duelsWon": 41,
         "boxTouches": 17,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 4,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 70,
-        "xg": 0.57,
-        "shots": 10,
+        "possession": 69,
+        "xg": 0.63,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 446,
-        "duelsWon": 47,
+        "accuratePasses": 450,
+        "duelsWon": 50,
         "boxTouches": 22,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 5,
         "offsides": 1,
         "saves": 4
@@ -241,6 +241,18 @@
           "teamId": "73",
           "playerName": "Mike Penders",
           "ownGoal": true
+        },
+        {
+          "minute": "79'",
+          "type": "yellow-card",
+          "teamId": "61",
+          "playerName": "Pedro Neto"
+        },
+        {
+          "minute": "80'",
+          "type": "red-card",
+          "teamId": "61",
+          "playerName": "Cole Palmer"
         }
       ]
     },
@@ -1210,12 +1222,12 @@
     },
     "564722": {
       "home": {
-        "possession": 33,
+        "possession": 34,
         "xg": 1.02,
         "shots": 6,
         "shotsOnTarget": 4,
-        "accuratePasses": 144,
-        "duelsWon": 26,
+        "accuratePasses": 163,
+        "duelsWon": 29,
         "boxTouches": 14,
         "fouls": 16,
         "corners": 4,
@@ -1223,14 +1235,14 @@
         "saves": 1
       },
       "away": {
-        "possession": 67,
-        "xg": 1.05,
-        "shots": 17,
+        "possession": 66,
+        "xg": 1.19,
+        "shots": 18,
         "shotsOnTarget": 2,
-        "accuratePasses": 363,
-        "duelsWon": 33,
-        "boxTouches": 39,
-        "fouls": 7,
+        "accuratePasses": 398,
+        "duelsWon": 35,
+        "boxTouches": 40,
+        "fouls": 8,
         "corners": 9,
         "offsides": 1,
         "saves": 3
@@ -1685,27 +1697,27 @@
     },
     "565837": {
       "home": {
-        "possession": 59,
-        "xg": 1.52,
-        "shots": 17,
-        "shotsOnTarget": 4,
-        "accuratePasses": 318,
-        "duelsWon": 38,
+        "possession": 60,
+        "xg": 1.56,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 369,
+        "duelsWon": 40,
         "boxTouches": 36,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 13,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 41,
+        "possession": 40,
         "xg": 0.82,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 221,
-        "duelsWon": 40,
+        "accuratePasses": 235,
+        "duelsWon": 44,
         "boxTouches": 10,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 1,
         "offsides": 3,
         "saves": 4
@@ -1722,6 +1734,13 @@
           "type": "yellow-card",
           "teamId": "19",
           "playerName": "Farès Chaïbi"
+        },
+        {
+          "minute": "80'",
+          "type": "goal",
+          "teamId": "4",
+          "playerName": "Maximilian Beier",
+          "assist": "Jobe Bellingham"
         }
       ]
     },
@@ -2056,25 +2075,25 @@
   "DED": {
     "558861": {
       "home": {
-        "possession": 44,
-        "xg": 0.28,
-        "shots": 6,
+        "possession": 47,
+        "xg": 0.54,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 145,
-        "duelsWon": 41,
-        "boxTouches": 10,
+        "accuratePasses": 165,
+        "duelsWon": 46,
+        "boxTouches": 14,
         "fouls": 15,
-        "corners": 6,
+        "corners": 8,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 56,
-        "xg": 1.14,
+        "possession": 53,
+        "xg": 1.66,
         "shots": 15,
         "shotsOnTarget": 8,
-        "accuratePasses": 212,
-        "duelsWon": 45,
+        "accuratePasses": 215,
+        "duelsWon": 47,
         "boxTouches": 20,
         "fouls": 7,
         "corners": 3,
@@ -2127,7 +2146,7 @@
           "minute": "62'",
           "type": "goal",
           "teamId": "1909",
-          "playerName": "<TBD>"
+          "playerName": "Rafik El Arguioui"
         }
       ]
     },
@@ -2203,26 +2222,26 @@
   "PPL": {
     "567333": {
       "home": {
-        "possession": 22,
+        "possession": 21,
         "xg": 0.07,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 79,
-        "duelsWon": 15,
+        "accuratePasses": 82,
+        "duelsWon": 16,
         "boxTouches": 4,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 1,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 78,
-        "xg": 1.21,
-        "shots": 11,
+        "possession": 79,
+        "xg": 1.22,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 357,
-        "duelsWon": 17,
-        "boxTouches": 10,
+        "accuratePasses": 408,
+        "duelsWon": 20,
+        "boxTouches": 12,
         "fouls": 8,
         "corners": 2,
         "offsides": 0,
