@@ -179,27 +179,27 @@
     },
     "560617": {
       "home": {
-        "possession": 32,
+        "possession": 31,
         "xg": 0.43,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 191,
-        "duelsWon": 42,
+        "accuratePasses": 204,
+        "duelsWon": 44,
         "boxTouches": 17,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 4,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 68,
-        "xg": 0.72,
-        "shots": 14,
+        "possession": 69,
+        "xg": 0.74,
+        "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 466,
-        "duelsWon": 54,
-        "boxTouches": 25,
-        "fouls": 12,
+        "accuratePasses": 534,
+        "duelsWon": 59,
+        "boxTouches": 27,
+        "fouls": 13,
         "corners": 6,
         "offsides": 1,
         "saves": 4
@@ -259,6 +259,12 @@
           "type": "goal",
           "teamId": "73",
           "playerName": "Mathys Tel"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "61",
+          "playerName": "Morgan Rogers"
         }
       ]
     },
@@ -1228,25 +1234,25 @@
     },
     "564722": {
       "home": {
-        "possession": 34,
-        "xg": 1.02,
-        "shots": 6,
+        "possession": 37,
+        "xg": 1.11,
+        "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 171,
-        "duelsWon": 31,
-        "boxTouches": 14,
-        "fouls": 16,
-        "corners": 5,
+        "accuratePasses": 209,
+        "duelsWon": 36,
+        "boxTouches": 18,
+        "fouls": 18,
+        "corners": 6,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 66,
+        "possession": 63,
         "xg": 1.19,
         "shots": 18,
         "shotsOnTarget": 2,
-        "accuratePasses": 408,
-        "duelsWon": 39,
+        "accuratePasses": 416,
+        "duelsWon": 42,
         "boxTouches": 40,
         "fouls": 8,
         "corners": 9,
@@ -1310,6 +1316,12 @@
           "type": "red-card",
           "teamId": "94",
           "playerName": "Pape Gueye"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "95",
+          "playerName": "Harvey Elliott"
         }
       ]
     },
@@ -1709,27 +1721,27 @@
     },
     "565837": {
       "home": {
-        "possession": 59,
+        "possession": 58,
         "xg": 1.56,
         "shots": 18,
         "shotsOnTarget": 5,
-        "accuratePasses": 379,
-        "duelsWon": 47,
+        "accuratePasses": 385,
+        "duelsWon": 52,
         "boxTouches": 36,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 13,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 41,
+        "possession": 42,
         "xg": 0.82,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 258,
-        "duelsWon": 46,
-        "boxTouches": 11,
-        "fouls": 10,
+        "accuratePasses": 271,
+        "duelsWon": 48,
+        "boxTouches": 13,
+        "fouls": 12,
         "corners": 1,
         "offsides": 4,
         "saves": 4
@@ -2087,27 +2099,27 @@
   "DED": {
     "558861": {
       "home": {
-        "possession": 48,
+        "possession": 50,
         "xg": 0.56,
         "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 188,
-        "duelsWon": 51,
-        "boxTouches": 17,
-        "fouls": 15,
-        "corners": 10,
+        "accuratePasses": 222,
+        "duelsWon": 57,
+        "boxTouches": 18,
+        "fouls": 17,
+        "corners": 11,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 52,
+        "possession": 50,
         "xg": 1.66,
         "shots": 15,
         "shotsOnTarget": 8,
-        "accuratePasses": 222,
-        "duelsWon": 50,
-        "boxTouches": 21,
-        "fouls": 8,
+        "accuratePasses": 236,
+        "duelsWon": 52,
+        "boxTouches": 23,
+        "fouls": 10,
         "corners": 3,
         "offsides": 0,
         "saves": 1
@@ -2234,26 +2246,26 @@
   "PPL": {
     "567333": {
       "home": {
-        "possession": 25,
-        "xg": 0.13,
+        "possession": 24,
+        "xg": 0.26,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 113,
+        "accuratePasses": 125,
         "duelsWon": 20,
-        "boxTouches": 7,
+        "boxTouches": 8,
         "fouls": 4,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 75,
+        "possession": 76,
         "xg": 1.25,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 432,
-        "duelsWon": 22,
-        "boxTouches": 12,
+        "accuratePasses": 500,
+        "duelsWon": 23,
+        "boxTouches": 13,
         "fouls": 8,
         "corners": 2,
         "offsides": 0,
