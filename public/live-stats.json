@@ -2574,22 +2574,22 @@
         "xg": 0.35,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 252,
-        "duelsWon": 38,
-        "boxTouches": 15,
-        "fouls": 15,
+        "accuratePasses": 258,
+        "duelsWon": 39,
+        "boxTouches": 16,
+        "fouls": 16,
         "corners": 3,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "away": {
         "possession": 58,
-        "xg": 1.03,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 353,
-        "duelsWon": 40,
-        "boxTouches": 15,
+        "xg": 1.08,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 360,
+        "duelsWon": 41,
+        "boxTouches": 17,
         "fouls": 16,
         "corners": 8,
         "offsides": 2,
@@ -2607,6 +2607,12 @@
           "type": "goal",
           "teamId": "503",
           "playerName": "Borja Sainz"
+        },
+        {
+          "minute": "85'",
+          "type": "red-card",
+          "teamId": "5533",
+          "playerName": "Marvin Gilbert"
         }
       ]
     },
