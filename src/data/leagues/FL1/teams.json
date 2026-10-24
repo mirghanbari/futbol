@@ -1,13 +1,5 @@
 [
   {
-    "id": "1045",
-    "name": "Paris FC",
-    "shortName": "Paris FC",
-    "tla": "PFC",
-    "crest": "https://crests.football-data.org/1045.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "523",
     "name": "Olympique Lyonnais",
     "shortName": "Olympique Lyon",
@@ -32,6 +24,14 @@
     "competitionId": "FL1"
   },
   {
+    "id": "1045",
+    "name": "Paris FC",
+    "shortName": "Paris FC",
+    "tla": "PFC",
+    "crest": "https://crests.football-data.org/1045.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "548",
     "name": "AS Monaco FC",
     "shortName": "Monaco",
@@ -40,19 +40,19 @@
     "competitionId": "FL1"
   },
   {
-    "id": "529",
-    "name": "Stade Rennais FC 1901",
-    "shortName": "Stade Rennais",
-    "tla": "REN",
-    "crest": "https://crests.football-data.org/529.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "546",
     "name": "Racing Club de Lens",
     "shortName": "RC Lens",
     "tla": "RCL",
     "crest": "https://crests.football-data.org/546.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "529",
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png",
     "competitionId": "FL1"
   },
   {
