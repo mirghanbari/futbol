@@ -1144,14 +1144,14 @@
     "564727": {
       "home": {
         "possession": 57,
-        "xg": 1.8,
-        "shots": 19,
-        "shotsOnTarget": 7,
-        "accuratePasses": 361,
-        "duelsWon": 46,
-        "boxTouches": 35,
-        "fouls": 8,
-        "corners": 7,
+        "xg": 2.59,
+        "shots": 22,
+        "shotsOnTarget": 8,
+        "accuratePasses": 372,
+        "duelsWon": 50,
+        "boxTouches": 40,
+        "fouls": 9,
+        "corners": 9,
         "offsides": 1,
         "saves": 0
       },
@@ -1160,8 +1160,8 @@
         "xg": 0.51,
         "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 252,
-        "duelsWon": 33,
+        "accuratePasses": 266,
+        "duelsWon": 36,
         "boxTouches": 26,
         "fouls": 15,
         "corners": 1,
@@ -1217,7 +1217,13 @@
           "minute": "84'",
           "type": "goal",
           "teamId": "5335",
-          "playerName": "<TBD>"
+          "playerName": "Yassir Zabiri"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "80",
+          "playerName": "Javi Puado"
         }
       ]
     }
@@ -1731,31 +1737,55 @@
         }
       ],
       "final": true
+    },
+    "558564": {
+      "home": {
+        "possession": 60,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 7,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 40,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 4,
+        "duelsWon": 0,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   },
   "DED": {
     "558862": {
       "home": {
-        "possession": 57,
-        "xg": 0.69,
-        "shots": 15,
+        "possession": 58,
+        "xg": 0.95,
+        "shots": 17,
         "shotsOnTarget": 4,
-        "accuratePasses": 311,
-        "duelsWon": 36,
-        "boxTouches": 25,
+        "accuratePasses": 326,
+        "duelsWon": 39,
+        "boxTouches": 30,
         "fouls": 7,
-        "corners": 6,
+        "corners": 7,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 43,
-        "xg": 0.44,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 217,
-        "duelsWon": 27,
-        "boxTouches": 10,
+        "possession": 42,
+        "xg": 0.65,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 225,
+        "duelsWon": 28,
+        "boxTouches": 14,
         "fouls": 3,
         "corners": 2,
         "offsides": 1,
@@ -1767,6 +1797,13 @@
           "type": "yellow-card",
           "teamId": "676",
           "playerName": "Oualid Agougil"
+        },
+        {
+          "minute": "72'",
+          "type": "goal",
+          "teamId": "684",
+          "playerName": "Elias Sørensen",
+          "assist": "Thijs Oosting"
         }
       ]
     }
@@ -1774,28 +1811,28 @@
   "PPL": {
     "567337": {
       "home": {
-        "possession": 66,
+        "possession": 65,
         "xg": 1.42,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 341,
-        "duelsWon": 31,
+        "accuratePasses": 350,
+        "duelsWon": 34,
         "boxTouches": 21,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 7,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 34,
+        "possession": 35,
         "xg": 0.18,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 164,
-        "duelsWon": 41,
-        "boxTouches": 4,
-        "fouls": 8,
-        "corners": 1,
+        "accuratePasses": 178,
+        "duelsWon": 43,
+        "boxTouches": 7,
+        "fouls": 10,
+        "corners": 2,
         "offsides": 0,
         "saves": 4
       },
@@ -1806,6 +1843,12 @@
           "teamId": "6618",
           "playerName": "João Rego",
           "assist": "Mohamed El Boukammiri"
+        },
+        {
+          "minute": "68'",
+          "type": "yellow-card",
+          "teamId": "6618",
+          "playerName": "Patrick Sequeira"
         }
       ]
     }
