@@ -179,30 +179,30 @@
     },
     "560617": {
       "home": {
-        "possession": 27,
-        "xg": 0.02,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 53,
+        "possession": 28,
+        "xg": 0.15,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 75,
         "duelsWon": 18,
-        "boxTouches": 2,
-        "fouls": 4,
+        "boxTouches": 9,
+        "fouls": 5,
         "corners": 2,
-        "offsides": 0,
+        "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 73,
-        "xg": 0.3,
-        "shots": 4,
+        "possession": 72,
+        "xg": 0.34,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 199,
-        "duelsWon": 19,
+        "accuratePasses": 241,
+        "duelsWon": 22,
         "boxTouches": 13,
         "fouls": 4,
         "corners": 2,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       }
     },
     "560618": {
@@ -1171,31 +1171,45 @@
     },
     "564722": {
       "home": {
-        "possession": 35,
+        "possession": 34,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
         "accuratePasses": 83,
-        "duelsWon": 13,
+        "duelsWon": 15,
         "boxTouches": 1,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 65,
+        "possession": 66,
         "xg": 0.51,
         "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 165,
-        "duelsWon": 12,
+        "accuratePasses": 181,
+        "duelsWon": 14,
         "boxTouches": 16,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 5,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "34'",
+          "type": "yellow-card",
+          "teamId": "95",
+          "playerName": "Dani Raba"
+        },
+        {
+          "minute": "38'",
+          "type": "yellow-card",
+          "teamId": "94",
+          "playerName": "Renato Veiga"
+        }
+      ]
     },
     "564727": {
       "home": {
@@ -1594,28 +1608,28 @@
     "565837": {
       "home": {
         "possession": 61,
-        "xg": 0.69,
+        "xg": 0.76,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 151,
-        "duelsWon": 18,
+        "accuratePasses": 176,
+        "duelsWon": 20,
         "boxTouches": 12,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 6,
         "offsides": 0,
         "saves": 1
       },
       "away": {
         "possession": 39,
-        "xg": 0.18,
-        "shots": 4,
-        "shotsOnTarget": 0,
-        "accuratePasses": 93,
-        "duelsWon": 22,
-        "boxTouches": 4,
+        "xg": 0.53,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 112,
+        "duelsWon": 23,
+        "boxTouches": 6,
         "fouls": 2,
         "corners": 0,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 2
       }
     },
@@ -1837,26 +1851,26 @@
     },
     "558564": {
       "home": {
-        "possession": 44,
-        "xg": 1.24,
-        "shots": 8,
-        "shotsOnTarget": 4,
-        "accuratePasses": 180,
-        "duelsWon": 22,
-        "boxTouches": 11,
-        "fouls": 5,
+        "possession": 43,
+        "xg": 1.77,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 185,
+        "duelsWon": 25,
+        "boxTouches": 12,
+        "fouls": 6,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 56,
+        "possession": 57,
         "xg": 0.66,
-        "shots": 11,
+        "shots": 12,
         "shotsOnTarget": 1,
-        "accuratePasses": 249,
-        "duelsWon": 25,
-        "boxTouches": 23,
+        "accuratePasses": 274,
+        "duelsWon": 27,
+        "boxTouches": 24,
         "fouls": 6,
         "corners": 3,
         "offsides": 0,
@@ -1887,6 +1901,14 @@
           "type": "yellow-card",
           "teamId": "100",
           "playerName": "Devyne Rensch"
+        },
+        {
+          "minute": "48'",
+          "type": "goal",
+          "teamId": "113",
+          "playerName": "Scott McTominay",
+          "method": "header",
+          "assist": "Matteo Politano"
         }
       ]
     }
@@ -1894,27 +1916,27 @@
   "DED": {
     "558861": {
       "home": {
-        "possession": 37,
+        "possession": 43,
         "xg": 0.02,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 30,
-        "duelsWon": 7,
-        "boxTouches": 2,
-        "fouls": 5,
+        "accuratePasses": 52,
+        "duelsWon": 12,
+        "boxTouches": 3,
+        "fouls": 6,
         "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 63,
-        "xg": 0.74,
+        "possession": 57,
+        "xg": 0.81,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 73,
-        "duelsWon": 14,
-        "boxTouches": 11,
-        "fouls": 2,
+        "accuratePasses": 89,
+        "duelsWon": 20,
+        "boxTouches": 10,
+        "fouls": 3,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -1933,6 +1955,14 @@
           "teamId": "1909",
           "playerName": "Ilyès Hamache",
           "assist": "Morgan Costarelli"
+        },
+        {
+          "minute": "18'",
+          "type": "goal",
+          "teamId": "1909",
+          "playerName": "Ismaël Baouf",
+          "method": "header",
+          "assist": "Rafik El Arguioui"
         }
       ]
     },
@@ -2008,27 +2038,35 @@
   "PPL": {
     "567333": {
       "home": {
-        "possession": 38,
+        "possession": 22,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 8,
-        "duelsWon": 0,
-        "fouls": 0,
+        "accuratePasses": 12,
+        "duelsWon": 1,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 62,
+        "possession": 78,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 14,
-        "duelsWon": 0,
+        "accuratePasses": 41,
+        "duelsWon": 3,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "6'",
+          "type": "red-card",
+          "teamId": "7822",
+          "playerName": "Steven Baseya"
+        }
+      ]
     },
     "567337": {
       "home": {
