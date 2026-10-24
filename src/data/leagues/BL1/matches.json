@@ -2938,14 +2938,42 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-24T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "29",
     "awayTeamId": "7",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 1.13,
+        "shots": 16,
+        "shotsOnTarget": 6,
+        "accuratePasses": 449,
+        "duelsWon": 57,
+        "boxTouches": 36,
+        "fouls": 12,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 38,
+        "xg": 0.43,
+        "shots": 8,
+        "shotsOnTarget": 1,
+        "accuratePasses": 241,
+        "duelsWon": 56,
+        "boxTouches": 13,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "Home Deluxe Arena, Paderborn",
     "broadcasts": [
@@ -2986,7 +3014,7 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-24T16:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "4",
     "awayTeamId": "19",
     "homeTeam": {

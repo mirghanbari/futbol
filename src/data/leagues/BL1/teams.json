@@ -1,18 +1,18 @@
 [
   {
-    "id": "5",
-    "name": "FC Bayern München",
-    "shortName": "Bayern",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/5.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "4",
     "name": "Borussia Dortmund",
     "shortName": "Dortmund",
     "tla": "BVB",
     "crest": "https://crests.football-data.org/4.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "5",
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/5.png",
     "competitionId": "BL1"
   },
   {
@@ -32,22 +32,6 @@
     "competitionId": "BL1"
   },
   {
-    "id": "15",
-    "name": "1. FSV Mainz 05",
-    "shortName": "Mainz",
-    "tla": "M05",
-    "crest": "https://crests.football-data.org/15.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "719",
-    "name": "SV 07 Elversberg",
-    "shortName": "Elversberg",
-    "tla": "ELV",
-    "crest": "https://crests.football-data.org/719.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "721",
     "name": "RB Leipzig",
     "shortName": "RB Leipzig",
@@ -64,11 +48,19 @@
     "competitionId": "BL1"
   },
   {
-    "id": "7",
-    "name": "Hamburger SV",
-    "shortName": "HSV",
-    "tla": "HSV",
-    "crest": "https://crests.football-data.org/7.png",
+    "id": "15",
+    "name": "1. FSV Mainz 05",
+    "shortName": "Mainz",
+    "tla": "M05",
+    "crest": "https://crests.football-data.org/15.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "719",
+    "name": "SV 07 Elversberg",
+    "shortName": "Elversberg",
+    "tla": "ELV",
+    "crest": "https://crests.football-data.org/719.png",
     "competitionId": "BL1"
   },
   {
@@ -88,11 +80,27 @@
     "competitionId": "BL1"
   },
   {
+    "id": "7",
+    "name": "Hamburger SV",
+    "shortName": "HSV",
+    "tla": "HSV",
+    "crest": "https://crests.football-data.org/7.png",
+    "competitionId": "BL1"
+  },
+  {
     "id": "1",
     "name": "1. FC Köln",
     "shortName": "1. FC Köln",
     "tla": "KOE",
     "crest": "https://crests.football-data.org/1.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "29",
+    "name": "SC Paderborn 07",
+    "shortName": "SC Paderborn",
+    "tla": "SCP",
+    "crest": "https://crests.football-data.org/29.png",
     "competitionId": "BL1"
   },
   {
@@ -117,14 +125,6 @@
     "shortName": "Schalke",
     "tla": "S04",
     "crest": "https://crests.football-data.org/6.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "29",
-    "name": "SC Paderborn 07",
-    "shortName": "SC Paderborn",
-    "tla": "SCP",
-    "crest": "https://crests.football-data.org/29.png",
     "competitionId": "BL1"
   },
   {
