@@ -6620,14 +6620,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-10-23T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "60",
     "awayTeamId": "343",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 0.91,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 308,
+        "duelsWon": 35,
+        "boxTouches": 21,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 8
+      },
+      "away": {
+        "possession": 61,
+        "xg": 4.17,
+        "shots": 31,
+        "shotsOnTarget": 12,
+        "accuratePasses": 494,
+        "duelsWon": 36,
+        "boxTouches": 47,
+        "fouls": 9,
+        "corners": 12,
+        "offsides": 4,
+        "saves": 3
+      }
     },
     "venue": "Toughsheet Community Stadium, Bolton",
     "broadcasts": [
