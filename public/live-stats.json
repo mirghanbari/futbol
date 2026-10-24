@@ -2275,25 +2275,25 @@
     "558860": {
       "home": {
         "possession": 53,
-        "xg": 2.75,
+        "xg": 2.82,
         "shots": 23,
         "shotsOnTarget": 7,
-        "accuratePasses": 319,
-        "duelsWon": 28,
-        "boxTouches": 38,
-        "fouls": 17,
+        "accuratePasses": 332,
+        "duelsWon": 31,
+        "boxTouches": 39,
+        "fouls": 19,
         "corners": 8,
         "offsides": 3,
         "saves": 2
       },
       "away": {
         "possession": 47,
-        "xg": 2.36,
-        "shots": 14,
+        "xg": 2.43,
+        "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 294,
-        "duelsWon": 42,
-        "boxTouches": 28,
+        "accuratePasses": 303,
+        "duelsWon": 43,
+        "boxTouches": 30,
         "fouls": 7,
         "corners": 2,
         "offsides": 3,
@@ -2341,7 +2341,8 @@
           "playerName": "Nigel Thomas",
           "assist": "Evan Rottier"
         }
-      ]
+      ],
+      "final": true
     },
     "558861": {
       "home": {
@@ -2569,26 +2570,26 @@
     },
     "567335": {
       "home": {
-        "possession": 43,
+        "possession": 42,
         "xg": 0.32,
         "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 196,
-        "duelsWon": 29,
+        "accuratePasses": 211,
+        "duelsWon": 32,
         "boxTouches": 14,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 57,
-        "xg": 0.75,
-        "shots": 9,
-        "shotsOnTarget": 2,
-        "accuratePasses": 259,
-        "duelsWon": 29,
-        "boxTouches": 13,
+        "possession": 58,
+        "xg": 1,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 284,
+        "duelsWon": 33,
+        "boxTouches": 14,
         "fouls": 14,
         "corners": 8,
         "offsides": 2,
@@ -2600,6 +2601,12 @@
           "type": "yellow-card",
           "teamId": "503",
           "playerName": "Pablo Rosario"
+        },
+        {
+          "minute": "64'",
+          "type": "goal",
+          "teamId": "503",
+          "playerName": "Borja Sainz"
         }
       ]
     },
