@@ -1753,27 +1753,27 @@
     },
     "558564": {
       "home": {
-        "possession": 53,
-        "xg": 0.26,
+        "possession": 46,
+        "xg": 0.32,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 102,
+        "accuratePasses": 113,
         "duelsWon": 12,
         "boxTouches": 5,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 47,
-        "xg": 0.09,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 92,
-        "duelsWon": 12,
-        "boxTouches": 6,
-        "fouls": 2,
+        "possession": 54,
+        "xg": 0.18,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 138,
+        "duelsWon": 17,
+        "boxTouches": 11,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 2
@@ -1792,13 +1792,13 @@
     "558862": {
       "home": {
         "possession": 60,
-        "xg": 1.02,
-        "shots": 18,
-        "shotsOnTarget": 4,
-        "accuratePasses": 398,
-        "duelsWon": 57,
-        "boxTouches": 33,
-        "fouls": 10,
+        "xg": 1.49,
+        "shots": 23,
+        "shotsOnTarget": 5,
+        "accuratePasses": 408,
+        "duelsWon": 60,
+        "boxTouches": 36,
+        "fouls": 11,
         "corners": 7,
         "offsides": 2,
         "saves": 4
@@ -1808,10 +1808,10 @@
         "xg": 0.89,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 249,
-        "duelsWon": 42,
-        "boxTouches": 18,
-        "fouls": 7,
+        "accuratePasses": 255,
+        "duelsWon": 45,
+        "boxTouches": 19,
+        "fouls": 8,
         "corners": 2,
         "offsides": 1,
         "saves": 4
@@ -1847,35 +1847,42 @@
           "type": "yellow-card",
           "teamId": "676",
           "playerName": "Joris van Overeem"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "goal",
+          "teamId": "676",
+          "playerName": "Sem van Duijn"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PPL": {
     "567337": {
       "home": {
-        "possession": 62,
-        "xg": 1.55,
-        "shots": 17,
+        "possession": 63,
+        "xg": 1.68,
+        "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 398,
+        "accuratePasses": 426,
         "duelsWon": 46,
-        "boxTouches": 24,
+        "boxTouches": 25,
         "fouls": 12,
         "corners": 7,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 38,
-        "xg": 0.5,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 214,
-        "duelsWon": 56,
-        "boxTouches": 13,
-        "fouls": 11,
-        "corners": 4,
+        "possession": 37,
+        "xg": 0.79,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 223,
+        "duelsWon": 59,
+        "boxTouches": 15,
+        "fouls": 12,
+        "corners": 5,
         "offsides": 0,
         "saves": 6
       },
@@ -1892,6 +1899,12 @@
           "type": "yellow-card",
           "teamId": "6618",
           "playerName": "Patrick Sequeira"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "goal",
+          "teamId": "6618",
+          "playerName": "Lawrence Ofori"
         }
       ]
     }
