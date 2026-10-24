@@ -2,29 +2,29 @@
   "PL": {
     "560614": {
       "home": {
-        "possession": 39,
+        "possession": 41,
         "xg": 0.56,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 193,
-        "duelsWon": 40,
+        "accuratePasses": 221,
+        "duelsWon": 44,
         "boxTouches": 12,
         "fouls": 12,
         "corners": 4,
         "offsides": 1,
-        "saves": 4
+        "saves": 5
       },
       "away": {
-        "possession": 61,
-        "xg": 1.05,
-        "shots": 10,
-        "shotsOnTarget": 5,
-        "accuratePasses": 319,
-        "duelsWon": 32,
-        "boxTouches": 35,
-        "fouls": 11,
+        "possession": 59,
+        "xg": 1.5,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 336,
+        "duelsWon": 37,
+        "boxTouches": 39,
+        "fouls": 12,
         "corners": 7,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "events": [
@@ -80,28 +80,28 @@
   "ELC": {
     "561895": {
       "home": {
-        "possession": 54,
-        "xg": 0.31,
-        "shots": 8,
+        "possession": 55,
+        "xg": 0.38,
+        "shots": 10,
         "shotsOnTarget": 1,
-        "accuratePasses": 200,
-        "duelsWon": 43,
-        "boxTouches": 13,
-        "fouls": 4,
+        "accuratePasses": 216,
+        "duelsWon": 48,
+        "boxTouches": 15,
+        "fouls": 5,
         "corners": 1,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 46,
+        "possession": 45,
         "xg": 1.04,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 155,
-        "duelsWon": 28,
+        "accuratePasses": 157,
+        "duelsWon": 32,
         "boxTouches": 9,
-        "fouls": 11,
-        "corners": 6,
+        "fouls": 13,
+        "corners": 7,
         "offsides": 4,
         "saves": 2
       },
@@ -123,20 +123,32 @@
           "type": "yellow-card",
           "teamId": "342",
           "playerName": "Dion Sanderson"
+        },
+        {
+          "minute": "64'",
+          "type": "yellow-card",
+          "teamId": "356",
+          "playerName": "Liam Kitching"
+        },
+        {
+          "minute": "66'",
+          "type": "red-card",
+          "teamId": "342",
+          "playerName": "Dion Sanderson"
         }
       ]
     },
     "561901": {
       "home": {
         "possession": 33,
-        "xg": 0.46,
+        "xg": 0.7,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 107,
-        "duelsWon": 38,
-        "boxTouches": 18,
+        "accuratePasses": 110,
+        "duelsWon": 40,
+        "boxTouches": 20,
         "fouls": 11,
-        "corners": 2,
+        "corners": 3,
         "offsides": 3,
         "saves": 0
       },
@@ -145,13 +157,13 @@
         "xg": 1.05,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 316,
-        "duelsWon": 36,
+        "accuratePasses": 325,
+        "duelsWon": 39,
         "boxTouches": 18,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 3,
         "offsides": 3,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -192,6 +204,12 @@
           "teamId": "68",
           "playerName": "Mathias Kvistgaarden",
           "assist": "Ruairi McConville"
+        },
+        {
+          "minute": "69'",
+          "type": "yellow-card",
+          "teamId": "348",
+          "playerName": "Harvey Knibbs"
         }
       ]
     },
@@ -201,10 +219,10 @@
         "xg": 0.44,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 183,
-        "duelsWon": 35,
+        "accuratePasses": 199,
+        "duelsWon": 38,
         "boxTouches": 9,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 3,
         "offsides": 1,
         "saves": 0
@@ -214,13 +232,13 @@
         "xg": 0.66,
         "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 213,
-        "duelsWon": 35,
+        "accuratePasses": 225,
+        "duelsWon": 37,
         "boxTouches": 15,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 3,
         "offsides": 5,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -247,6 +265,12 @@
           "type": "yellow-card",
           "teamId": "384",
           "playerName": "Jake Cooper"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "325",
+          "playerName": "Marezi"
         }
       ]
     }
@@ -254,30 +278,30 @@
   "PD": {
     "564718": {
       "home": {
-        "possession": 48,
+        "possession": 49,
         "xg": 1.13,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 159,
-        "duelsWon": 24,
-        "boxTouches": 14,
+        "accuratePasses": 164,
+        "duelsWon": 26,
+        "boxTouches": 13,
         "fouls": 7,
         "corners": 0,
         "offsides": 2,
         "saves": 6
       },
       "away": {
-        "possession": 52,
-        "xg": 2.08,
+        "possession": 51,
+        "xg": 2.11,
         "shots": 10,
         "shotsOnTarget": 8,
-        "accuratePasses": 176,
+        "accuratePasses": 178,
         "duelsWon": 22,
-        "boxTouches": 19,
+        "boxTouches": 20,
         "fouls": 5,
         "corners": 1,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
