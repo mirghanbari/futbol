@@ -2,26 +2,26 @@
   "PL": {
     "560614": {
       "home": {
-        "possession": 42,
+        "possession": 41,
         "xg": 0.43,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 159,
-        "duelsWon": 31,
+        "accuratePasses": 175,
+        "duelsWon": 36,
         "boxTouches": 10,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 4,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 58,
-        "xg": 0.54,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 223,
-        "duelsWon": 21,
-        "boxTouches": 29,
+        "possession": 59,
+        "xg": 0.77,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 259,
+        "duelsWon": 24,
+        "boxTouches": 32,
         "fouls": 10,
         "corners": 5,
         "offsides": 0,
@@ -46,6 +46,14 @@
           "type": "yellow-card",
           "teamId": "65",
           "playerName": "Rayan Cherki"
+        },
+        {
+          "minute": "52'",
+          "type": "goal",
+          "teamId": "65",
+          "playerName": "Erling Haaland",
+          "method": "header",
+          "assist": "Iliman Ndiaye"
         }
       ]
     }
@@ -53,29 +61,29 @@
   "ELC": {
     "561895": {
       "home": {
-        "possession": 48,
+        "possession": 49,
         "xg": 0.29,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 125,
-        "duelsWon": 32,
+        "accuratePasses": 139,
+        "duelsWon": 37,
         "boxTouches": 9,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 1,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 52,
+        "possession": 51,
         "xg": 0.97,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 132,
-        "duelsWon": 24,
+        "accuratePasses": 140,
+        "duelsWon": 27,
         "boxTouches": 9,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 6,
-        "offsides": 3,
+        "offsides": 4,
         "saves": 2
       },
       "events": [
@@ -90,34 +98,40 @@
           "type": "goal",
           "teamId": "342",
           "playerName": "Bobby Clark"
+        },
+        {
+          "minute": "50'",
+          "type": "yellow-card",
+          "teamId": "342",
+          "playerName": "Dion Sanderson"
         }
       ]
     },
     "561901": {
       "home": {
-        "possession": 32,
+        "possession": 31,
         "xg": 0.41,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 85,
-        "duelsWon": 23,
+        "accuratePasses": 90,
+        "duelsWon": 28,
         "boxTouches": 10,
         "fouls": 9,
         "corners": 0,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 68,
-        "xg": 0.3,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 247,
-        "duelsWon": 27,
-        "boxTouches": 12,
+        "possession": 69,
+        "xg": 1.03,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 276,
+        "duelsWon": 29,
+        "boxTouches": 15,
         "fouls": 3,
-        "corners": 2,
-        "offsides": 2,
+        "corners": 3,
+        "offsides": 3,
         "saves": 1
       },
       "events": [
@@ -152,34 +166,41 @@
           "teamId": "68",
           "playerName": "Edmond-Paris Maghoma",
           "assist": "Mathias Kvistgaarden"
+        },
+        {
+          "minute": "50'",
+          "type": "goal",
+          "teamId": "68",
+          "playerName": "Mathias Kvistgaarden",
+          "assist": "Ruairi McConville"
         }
       ]
     },
     "561904": {
       "home": {
-        "possession": 52,
+        "possession": 51,
         "xg": 0.44,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 139,
-        "duelsWon": 28,
-        "boxTouches": 8,
+        "accuratePasses": 141,
+        "duelsWon": 29,
+        "boxTouches": 7,
         "fouls": 5,
         "corners": 3,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 48,
+        "possession": 49,
         "xg": 0.36,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 133,
+        "accuratePasses": 139,
         "duelsWon": 28,
         "boxTouches": 7,
         "fouls": 7,
         "corners": 2,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 0
       },
       "events": [
@@ -215,12 +236,12 @@
     "564718": {
       "home": {
         "possession": 48,
-        "xg": 0.34,
-        "shots": 6,
+        "xg": 1.13,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 113,
+        "accuratePasses": 115,
         "duelsWon": 16,
-        "boxTouches": 11,
+        "boxTouches": 13,
         "fouls": 5,
         "corners": 0,
         "offsides": 1,
@@ -228,13 +249,13 @@
       },
       "away": {
         "possession": 52,
-        "xg": 1.15,
-        "shots": 5,
-        "shotsOnTarget": 4,
+        "xg": 1.94,
+        "shots": 6,
+        "shotsOnTarget": 5,
         "accuratePasses": 124,
         "duelsWon": 17,
-        "boxTouches": 15,
-        "fouls": 3,
+        "boxTouches": 16,
+        "fouls": 4,
         "corners": 0,
         "offsides": 1,
         "saves": 2
@@ -270,6 +291,13 @@
           "type": "yellow-card",
           "teamId": "87",
           "playerName": "Pathé Ciss"
+        },
+        {
+          "minute": "36'",
+          "type": "goal",
+          "teamId": "285",
+          "playerName": "Fer Niño",
+          "penalty": true
         }
       ]
     }
