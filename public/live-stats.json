@@ -1753,27 +1753,27 @@
     },
     "558564": {
       "home": {
-        "possession": 46,
-        "xg": 0.32,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 113,
-        "duelsWon": 12,
-        "boxTouches": 5,
+        "possession": 49,
+        "xg": 0.49,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 129,
+        "duelsWon": 13,
+        "boxTouches": 8,
         "fouls": 3,
         "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 54,
-        "xg": 0.18,
+        "possession": 51,
+        "xg": 0.33,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 138,
+        "accuratePasses": 141,
         "duelsWon": 17,
-        "boxTouches": 11,
-        "fouls": 3,
+        "boxTouches": 10,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 2
@@ -1784,6 +1784,13 @@
           "type": "yellow-card",
           "teamId": "113",
           "playerName": "Rafa Marín"
+        },
+        {
+          "minute": "28'",
+          "type": "goal",
+          "teamId": "113",
+          "playerName": "Frank Anguissa",
+          "method": "overhead kick"
         }
       ]
     }
@@ -1862,13 +1869,13 @@
     "567337": {
       "home": {
         "possession": 63,
-        "xg": 1.68,
+        "xg": 1.69,
         "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 426,
-        "duelsWon": 46,
-        "boxTouches": 25,
-        "fouls": 12,
+        "accuratePasses": 429,
+        "duelsWon": 47,
+        "boxTouches": 26,
+        "fouls": 13,
         "corners": 7,
         "offsides": 0,
         "saves": 2
@@ -1878,10 +1885,10 @@
         "xg": 0.79,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 223,
-        "duelsWon": 59,
-        "boxTouches": 15,
-        "fouls": 12,
+        "accuratePasses": 226,
+        "duelsWon": 62,
+        "boxTouches": 16,
+        "fouls": 13,
         "corners": 5,
         "offsides": 0,
         "saves": 6
@@ -1905,8 +1912,21 @@
           "type": "goal",
           "teamId": "6618",
           "playerName": "Lawrence Ofori"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "yellow-card",
+          "teamId": "9136",
+          "playerName": "Jefferson Encada"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "yellow-card",
+          "teamId": "6618",
+          "playerName": "Pedro Silva Rosas"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
