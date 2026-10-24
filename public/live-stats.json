@@ -1239,8 +1239,8 @@
         "xg": 1.13,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 234,
-        "duelsWon": 38,
+        "accuratePasses": 247,
+        "duelsWon": 41,
         "boxTouches": 18,
         "fouls": 18,
         "corners": 6,
@@ -1249,12 +1249,12 @@
       },
       "away": {
         "possession": 62,
-        "xg": 1.19,
-        "shots": 18,
-        "shotsOnTarget": 2,
-        "accuratePasses": 441,
-        "duelsWon": 43,
-        "boxTouches": 40,
+        "xg": 1.5,
+        "shots": 19,
+        "shotsOnTarget": 3,
+        "accuratePasses": 462,
+        "duelsWon": 44,
+        "boxTouches": 42,
         "fouls": 9,
         "corners": 9,
         "offsides": 2,
@@ -1289,14 +1289,14 @@
         {
           "minute": "59'",
           "type": "yellow-card",
-          "teamId": "95",
-          "playerName": "Pablo Maffeo"
+          "teamId": "94",
+          "playerName": "Tajon Buchanan"
         },
         {
           "minute": "59'",
           "type": "yellow-card",
-          "teamId": "94",
-          "playerName": "Tajon Buchanan"
+          "teamId": "95",
+          "playerName": "Pablo Maffeo"
         },
         {
           "minute": "62'",
@@ -1320,17 +1320,25 @@
         },
         {
           "minute": "89'",
-          "type": "red-card",
+          "type": "yellow-card",
           "teamId": "95",
           "playerName": "Harvey Elliott"
         },
         {
           "minute": "89'",
-          "type": "yellow-card",
+          "type": "red-card",
           "teamId": "95",
           "playerName": "Harvey Elliott"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "goal",
+          "teamId": "94",
+          "playerName": "Georges Mikautadze",
+          "assist": "Alberto Moleiro"
         }
-      ]
+      ],
+      "final": true
     },
     "564727": {
       "home": {
@@ -2108,27 +2116,27 @@
     "558861": {
       "home": {
         "possession": 52,
-        "xg": 0.98,
+        "xg": 1.04,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 255,
-        "duelsWon": 63,
-        "boxTouches": 26,
+        "accuratePasses": 269,
+        "duelsWon": 66,
+        "boxTouches": 27,
         "fouls": 17,
-        "corners": 11,
+        "corners": 12,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "away": {
         "possession": 48,
-        "xg": 1.75,
-        "shots": 17,
-        "shotsOnTarget": 9,
-        "accuratePasses": 245,
-        "duelsWon": 56,
+        "xg": 1.91,
+        "shots": 19,
+        "shotsOnTarget": 11,
+        "accuratePasses": 258,
+        "duelsWon": 58,
         "boxTouches": 24,
         "fouls": 10,
-        "corners": 3,
+        "corners": 4,
         "offsides": 0,
         "saves": 1
       },
@@ -2186,6 +2194,13 @@
           "teamId": "672",
           "playerName": "Anass Zarrouk",
           "assist": "Devin Haen"
+        },
+        {
+          "minute": "89'",
+          "type": "goal",
+          "teamId": "1909",
+          "playerName": "Jason Çeka",
+          "assist": "Wiebe Kooistra"
         }
       ]
     },
@@ -2261,28 +2276,28 @@
   "PPL": {
     "567333": {
       "home": {
-        "possession": 26,
-        "xg": 0.28,
+        "possession": 25,
+        "xg": 0.35,
         "shots": 7,
         "shotsOnTarget": 0,
-        "accuratePasses": 145,
-        "duelsWon": 20,
+        "accuratePasses": 150,
+        "duelsWon": 21,
         "boxTouches": 8,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 74,
+        "possession": 75,
         "xg": 1.29,
         "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 513,
-        "duelsWon": 26,
+        "accuratePasses": 548,
+        "duelsWon": 29,
         "boxTouches": 15,
-        "fouls": 8,
-        "corners": 2,
+        "fouls": 9,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
@@ -2311,6 +2326,12 @@
           "type": "yellow-card",
           "teamId": "712",
           "playerName": "Pedro Santos"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "7822",
+          "playerName": "Lucas Figueiredo"
         }
       ]
     },
