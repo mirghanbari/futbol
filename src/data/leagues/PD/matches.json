@@ -4987,14 +4987,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-24T14:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5335",
     "awayTeamId": "80",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 2.46,
+        "shots": 23,
+        "shotsOnTarget": 9,
+        "accuratePasses": 383,
+        "duelsWon": 56,
+        "boxTouches": 45,
+        "fouls": 10,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 45,
+        "xg": 0.59,
+        "shots": 11,
+        "shotsOnTarget": 1,
+        "accuratePasses": 290,
+        "duelsWon": 46,
+        "boxTouches": 31,
+        "fouls": 17,
+        "corners": 4,
+        "offsides": 4,
+        "saves": 7
+      }
     },
     "venue": "El Sardineros, Santander",
     "broadcasts": [
@@ -5043,7 +5071,7 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-24T19:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "78",
     "awayTeamId": "560",
     "homeTeam": {
