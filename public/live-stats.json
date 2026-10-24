@@ -2114,15 +2114,15 @@
     "558565": {
       "home": {
         "possession": 70,
-        "xg": 0.52,
-        "shots": 8,
-        "shotsOnTarget": 1,
-        "accuratePasses": 258,
-        "duelsWon": 15,
-        "boxTouches": 26,
+        "xg": 0.62,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 280,
+        "duelsWon": 19,
+        "boxTouches": 28,
         "fouls": 2,
-        "corners": 4,
-        "offsides": 1,
+        "corners": 5,
+        "offsides": 2,
         "saves": 3
       },
       "away": {
@@ -2130,13 +2130,13 @@
         "xg": 0.46,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 88,
-        "duelsWon": 19,
+        "accuratePasses": 101,
+        "duelsWon": 22,
         "boxTouches": 10,
         "fouls": 5,
         "corners": 2,
         "offsides": 2,
-        "saves": 1
+        "saves": 3
       },
       "events": [
         {
@@ -2157,26 +2157,26 @@
   "FL1": {
     "559652": {
       "home": {
-        "possession": 54,
-        "xg": 0.27,
-        "shots": 5,
+        "possession": 52,
+        "xg": 0.36,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 214,
-        "duelsWon": 19,
-        "boxTouches": 8,
-        "fouls": 6,
+        "accuratePasses": 225,
+        "duelsWon": 20,
+        "boxTouches": 11,
+        "fouls": 9,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 46,
+        "possession": 48,
         "xg": 0.02,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 173,
-        "duelsWon": 18,
-        "boxTouches": 4,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 199,
+        "duelsWon": 23,
+        "boxTouches": 5,
         "fouls": 7,
         "corners": 0,
         "offsides": 0,
@@ -2194,6 +2194,13 @@
           "type": "yellow-card",
           "teamId": "1045",
           "playerName": "Pierre Lees-Melou"
+        },
+        {
+          "minute": "45'+2'",
+          "type": "goal",
+          "teamId": "1045",
+          "playerName": "Luca Koleosho",
+          "assist": "Lassine Sinayoko"
         }
       ]
     }
@@ -2202,26 +2209,26 @@
     "558860": {
       "home": {
         "possession": 45,
-        "xg": 0.48,
-        "shots": 5,
+        "xg": 0.52,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 65,
-        "duelsWon": 6,
-        "boxTouches": 13,
-        "fouls": 5,
+        "accuratePasses": 85,
+        "duelsWon": 10,
+        "boxTouches": 14,
+        "fouls": 7,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
         "possession": 55,
-        "xg": 0.79,
-        "shots": 6,
+        "xg": 1.12,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 85,
-        "duelsWon": 15,
-        "boxTouches": 7,
-        "fouls": 3,
+        "accuratePasses": 112,
+        "duelsWon": 18,
+        "boxTouches": 10,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 1
