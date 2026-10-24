@@ -179,30 +179,30 @@
     },
     "560617": {
       "home": {
-        "possession": 29,
-        "xg": 0.22,
+        "possession": 30,
+        "xg": 0.25,
         "shots": 4,
         "shotsOnTarget": 3,
-        "accuratePasses": 84,
-        "duelsWon": 20,
-        "boxTouches": 9,
+        "accuratePasses": 97,
+        "duelsWon": 21,
+        "boxTouches": 11,
         "fouls": 5,
         "corners": 3,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 71,
+        "possession": 70,
         "xg": 0.43,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 273,
-        "duelsWon": 24,
+        "accuratePasses": 295,
+        "duelsWon": 25,
         "boxTouches": 16,
         "fouls": 5,
         "corners": 2,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       }
     },
     "560618": {
@@ -1175,8 +1175,8 @@
         "xg": 0.79,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 88,
-        "duelsWon": 20,
+        "accuratePasses": 92,
+        "duelsWon": 21,
         "boxTouches": 4,
         "fouls": 10,
         "corners": 0,
@@ -1185,14 +1185,14 @@
       },
       "away": {
         "possession": 66,
-        "xg": 0.51,
-        "shots": 8,
+        "xg": 0.62,
+        "shots": 10,
         "shotsOnTarget": 1,
-        "accuratePasses": 201,
-        "duelsWon": 16,
-        "boxTouches": 16,
-        "fouls": 5,
-        "corners": 5,
+        "accuratePasses": 224,
+        "duelsWon": 20,
+        "boxTouches": 21,
+        "fouls": 6,
+        "corners": 7,
         "offsides": 1,
         "saves": 0
       },
@@ -1620,30 +1620,30 @@
     },
     "565837": {
       "home": {
-        "possession": 59,
-        "xg": 0.76,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 196,
+        "possession": 60,
+        "xg": 0.79,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 200,
         "duelsWon": 22,
-        "boxTouches": 13,
+        "boxTouches": 15,
         "fouls": 5,
-        "corners": 6,
+        "corners": 8,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 41,
+        "possession": 40,
         "xg": 0.53,
         "shots": 5,
         "shotsOnTarget": 1,
         "accuratePasses": 135,
-        "duelsWon": 29,
+        "duelsWon": 30,
         "boxTouches": 7,
         "fouls": 3,
         "corners": 0,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       }
     },
     "565838": {
@@ -1864,30 +1864,30 @@
     },
     "558564": {
       "home": {
-        "possession": 44,
-        "xg": 1.76,
-        "shots": 9,
-        "shotsOnTarget": 5,
-        "accuratePasses": 211,
-        "duelsWon": 30,
-        "boxTouches": 12,
+        "possession": 42,
+        "xg": 2.1,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 219,
+        "duelsWon": 33,
+        "boxTouches": 13,
         "fouls": 6,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 56,
-        "xg": 0.71,
-        "shots": 12,
+        "possession": 58,
+        "xg": 0.83,
+        "shots": 15,
         "shotsOnTarget": 1,
-        "accuratePasses": 288,
-        "duelsWon": 28,
-        "boxTouches": 24,
-        "fouls": 7,
-        "corners": 4,
+        "accuratePasses": 332,
+        "duelsWon": 29,
+        "boxTouches": 28,
+        "fouls": 8,
+        "corners": 5,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -1922,6 +1922,12 @@
           "playerName": "Scott McTominay",
           "method": "header",
           "assist": "Matteo Politano"
+        },
+        {
+          "minute": "62'",
+          "type": "yellow-card",
+          "teamId": "100",
+          "playerName": "Leonardo Balerdi"
         }
       ]
     }
@@ -1929,30 +1935,30 @@
   "DED": {
     "558861": {
       "home": {
-        "possession": 42,
-        "xg": 0.27,
-        "shots": 5,
-        "shotsOnTarget": 0,
-        "accuratePasses": 59,
-        "duelsWon": 18,
+        "possession": 41,
+        "xg": 0.28,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 69,
+        "duelsWon": 23,
         "boxTouches": 7,
-        "fouls": 7,
-        "corners": 2,
+        "fouls": 8,
+        "corners": 3,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 58,
-        "xg": 0.82,
-        "shots": 8,
-        "shotsOnTarget": 5,
-        "accuratePasses": 101,
-        "duelsWon": 21,
-        "boxTouches": 12,
-        "fouls": 4,
-        "corners": 1,
+        "possession": 59,
+        "xg": 0.87,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 123,
+        "duelsWon": 26,
+        "boxTouches": 15,
+        "fouls": 5,
+        "corners": 3,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -2051,25 +2057,25 @@
   "PPL": {
     "567333": {
       "home": {
-        "possession": 22,
+        "possession": 24,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 19,
-        "duelsWon": 3,
-        "fouls": 1,
+        "accuratePasses": 35,
+        "duelsWon": 6,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 78,
+        "possession": 76,
         "xg": 0.1,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 79,
-        "duelsWon": 5,
-        "fouls": 2,
+        "accuratePasses": 128,
+        "duelsWon": 7,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -2080,6 +2086,12 @@
           "type": "red-card",
           "teamId": "7822",
           "playerName": "Steven Baseya"
+        },
+        {
+          "minute": "19'",
+          "type": "yellow-card",
+          "teamId": "712",
+          "playerName": "Jose Fontán"
         }
       ]
     },
