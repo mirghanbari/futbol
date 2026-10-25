@@ -466,11 +466,11 @@
         "xg": 2.35,
         "shots": 16,
         "shotsOnTarget": 3,
-        "accuratePasses": 510,
-        "duelsWon": 34,
+        "accuratePasses": 525,
+        "duelsWon": 38,
         "boxTouches": 18,
-        "fouls": 11,
-        "corners": 1,
+        "fouls": 12,
+        "corners": 2,
         "offsides": 1,
         "saves": 1
       },
@@ -479,10 +479,10 @@
         "xg": 0.64,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 266,
-        "duelsWon": 32,
+        "accuratePasses": 287,
+        "duelsWon": 34,
         "boxTouches": 19,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 3,
         "offsides": 0,
         "saves": 1
@@ -525,6 +525,12 @@
           "type": "yellow-card",
           "teamId": "88",
           "playerName": "Yanis Musuayi"
+        },
+        {
+          "minute": "87'",
+          "type": "yellow-card",
+          "teamId": "88",
+          "playerName": "Víctor García"
         }
       ]
     }
@@ -1459,12 +1465,12 @@
   "DED": {
     "558855": {
       "home": {
-        "possession": 60,
+        "possession": 61,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 37,
-        "duelsWon": 4,
+        "accuratePasses": 80,
+        "duelsWon": 8,
         "boxTouches": 2,
         "fouls": 3,
         "corners": 0,
@@ -1472,13 +1478,13 @@
         "saves": 2
       },
       "away": {
-        "possession": 40,
-        "xg": 0.44,
-        "shots": 4,
+        "possession": 39,
+        "xg": 1,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 23,
-        "duelsWon": 6,
-        "boxTouches": 6,
+        "accuratePasses": 48,
+        "duelsWon": 8,
+        "boxTouches": 9,
         "fouls": 0,
         "corners": 1,
         "offsides": 0,
@@ -1795,27 +1801,27 @@
   "PPL": {
     "567330": {
       "home": {
-        "possession": 54,
-        "xg": 0.18,
-        "shots": 4,
+        "possession": 56,
+        "xg": 0.21,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 248,
-        "duelsWon": 19,
-        "boxTouches": 5,
-        "fouls": 11,
+        "accuratePasses": 299,
+        "duelsWon": 23,
+        "boxTouches": 6,
+        "fouls": 12,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 46,
+        "possession": 44,
         "xg": 0.32,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 205,
-        "duelsWon": 28,
+        "accuratePasses": 221,
+        "duelsWon": 31,
         "boxTouches": 7,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 2,
         "offsides": 0,
         "saves": 1
@@ -1845,29 +1851,29 @@
     "567334": {
       "home": {
         "possession": 30,
-        "xg": 0.19,
-        "shots": 3,
-        "shotsOnTarget": 2,
-        "accuratePasses": 79,
+        "xg": 0.23,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 82,
         "duelsWon": 20,
-        "boxTouches": 4,
-        "fouls": 9,
+        "boxTouches": 5,
+        "fouls": 10,
         "corners": 2,
         "offsides": 1,
         "saves": 1
       },
       "away": {
         "possession": 70,
-        "xg": 0.78,
-        "shots": 10,
+        "xg": 0.87,
+        "shots": 11,
         "shotsOnTarget": 1,
-        "accuratePasses": 251,
-        "duelsWon": 23,
+        "accuratePasses": 257,
+        "duelsWon": 27,
         "boxTouches": 12,
         "fouls": 5,
         "corners": 2,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
