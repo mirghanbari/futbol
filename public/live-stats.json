@@ -414,13 +414,13 @@
     "564723": {
       "home": {
         "possession": 62,
-        "xg": 1.22,
+        "xg": 1.19,
         "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 561,
-        "duelsWon": 44,
+        "accuratePasses": 569,
+        "duelsWon": 43,
         "boxTouches": 36,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 6,
         "offsides": 3,
         "saves": 3
@@ -430,12 +430,12 @@
         "xg": 1.95,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 316,
-        "duelsWon": 47,
+        "accuratePasses": 321,
+        "duelsWon": 51,
         "boxTouches": 24,
         "fouls": 11,
         "corners": 6,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 5
       },
       "events": [
@@ -482,8 +482,21 @@
           "type": "yellow-card",
           "teamId": "86",
           "playerName": "Kylian Mbappé"
+        },
+        {
+          "minute": "90'+7'",
+          "type": "yellow-card",
+          "teamId": "81",
+          "playerName": "Alejandro Balde"
+        },
+        {
+          "minute": "90'+7'",
+          "type": "yellow-card",
+          "teamId": "81",
+          "playerName": "Karim Adeyemi"
         }
-      ]
+      ],
+      "final": true
     },
     "564725": {
       "home": {
@@ -2067,12 +2080,12 @@
     "567332": {
       "home": {
         "possession": 69,
-        "xg": 1,
-        "shots": 18,
-        "shotsOnTarget": 2,
-        "accuratePasses": 331,
-        "duelsWon": 31,
-        "boxTouches": 44,
+        "xg": 1.12,
+        "shots": 21,
+        "shotsOnTarget": 3,
+        "accuratePasses": 367,
+        "duelsWon": 33,
+        "boxTouches": 50,
         "fouls": 10,
         "corners": 8,
         "offsides": 2,
@@ -2083,9 +2096,9 @@
         "xg": 0.44,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 130,
-        "duelsWon": 25,
-        "boxTouches": 12,
+        "accuratePasses": 140,
+        "duelsWon": 26,
+        "boxTouches": 14,
         "fouls": 5,
         "corners": 0,
         "offsides": 2,
@@ -2122,6 +2135,13 @@
           "type": "yellow-card",
           "teamId": "5527",
           "playerName": "Nils Mortimer Moreno"
+        },
+        {
+          "minute": "62'",
+          "type": "goal",
+          "teamId": "498",
+          "playerName": "Luis Suárez",
+          "assist": "Iván Fresneda"
         }
       ]
     },
