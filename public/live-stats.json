@@ -413,25 +413,25 @@
     },
     "564723": {
       "home": {
-        "possession": 61,
-        "xg": 1.21,
+        "possession": 62,
+        "xg": 1.22,
         "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 527,
-        "duelsWon": 40,
-        "boxTouches": 34,
-        "fouls": 11,
+        "accuratePasses": 561,
+        "duelsWon": 44,
+        "boxTouches": 36,
+        "fouls": 14,
         "corners": 6,
         "offsides": 3,
         "saves": 3
       },
       "away": {
-        "possession": 39,
-        "xg": 1.98,
+        "possession": 38,
+        "xg": 1.95,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 308,
-        "duelsWon": 43,
+        "accuratePasses": 316,
+        "duelsWon": 47,
         "boxTouches": 24,
         "fouls": 11,
         "corners": 6,
@@ -470,6 +470,18 @@
           "teamId": "86",
           "playerName": "Kylian Mbappé",
           "assist": "Eduardo Camavinga"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "yellow-card",
+          "teamId": "86",
+          "playerName": "Dean Huijsen"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "86",
+          "playerName": "Kylian Mbappé"
         }
       ]
     },
@@ -2054,30 +2066,30 @@
     },
     "567332": {
       "home": {
-        "possession": 68,
-        "xg": 0.78,
-        "shots": 15,
-        "shotsOnTarget": 1,
-        "accuratePasses": 306,
-        "duelsWon": 26,
-        "boxTouches": 35,
-        "fouls": 8,
-        "corners": 6,
+        "possession": 69,
+        "xg": 1,
+        "shots": 18,
+        "shotsOnTarget": 2,
+        "accuratePasses": 331,
+        "duelsWon": 31,
+        "boxTouches": 44,
+        "fouls": 10,
+        "corners": 8,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 32,
-        "xg": 0.4,
-        "shots": 3,
+        "possession": 31,
+        "xg": 0.44,
+        "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 121,
-        "duelsWon": 22,
+        "accuratePasses": 130,
+        "duelsWon": 25,
         "boxTouches": 12,
         "fouls": 5,
         "corners": 0,
-        "offsides": 1,
-        "saves": 1
+        "offsides": 2,
+        "saves": 2
       },
       "events": [
         {
