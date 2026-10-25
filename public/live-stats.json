@@ -462,26 +462,26 @@
     },
     "564726": {
       "home": {
-        "possession": 60,
+        "possession": 59,
         "xg": 1.67,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 385,
+        "accuratePasses": 384,
         "duelsWon": 26,
         "boxTouches": 16,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 1,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 40,
-        "xg": 0.4,
-        "shots": 5,
+        "possession": 41,
+        "xg": 0.64,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 228,
-        "duelsWon": 24,
-        "boxTouches": 12,
+        "accuratePasses": 232,
+        "duelsWon": 26,
+        "boxTouches": 13,
         "fouls": 6,
         "corners": 2,
         "offsides": 0,
@@ -507,6 +507,12 @@
           "teamId": "92",
           "playerName": "Beñat Turrientes",
           "assist": "Gonçalo Guedes"
+        },
+        {
+          "minute": "64'",
+          "type": "yellow-card",
+          "teamId": "92",
+          "playerName": "Jon Martín"
         }
       ]
     }
@@ -877,12 +883,12 @@
     },
     "558566": {
       "home": {
-        "possession": 39,
+        "possession": 40,
         "xg": 0.94,
         "shots": 16,
         "shotsOnTarget": 4,
-        "accuratePasses": 205,
-        "duelsWon": 42,
+        "accuratePasses": 224,
+        "duelsWon": 46,
         "boxTouches": 21,
         "fouls": 9,
         "corners": 5,
@@ -890,14 +896,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 61,
-        "xg": 0.98,
-        "shots": 6,
+        "possession": 60,
+        "xg": 1.07,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 370,
-        "duelsWon": 41,
-        "boxTouches": 23,
-        "fouls": 9,
+        "accuratePasses": 380,
+        "duelsWon": 44,
+        "boxTouches": 24,
+        "fouls": 11,
         "corners": 2,
         "offsides": 4,
         "saves": 4
@@ -1776,27 +1782,27 @@
     },
     "567334": {
       "home": {
-        "possession": 28,
+        "possession": 30,
         "xg": 0.19,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 66,
-        "duelsWon": 17,
-        "boxTouches": 3,
+        "accuratePasses": 72,
+        "duelsWon": 20,
+        "boxTouches": 4,
         "fouls": 8,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 72,
+        "possession": 70,
         "xg": 0.79,
-        "shots": 8,
-        "shotsOnTarget": 0,
-        "accuratePasses": 226,
-        "duelsWon": 20,
+        "shots": 9,
+        "shotsOnTarget": 1,
+        "accuratePasses": 234,
+        "duelsWon": 21,
         "boxTouches": 12,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 2,
         "offsides": 1,
         "saves": 1
