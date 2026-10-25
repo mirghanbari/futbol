@@ -412,10 +412,10 @@
         "xg": 1.45,
         "shots": 15,
         "shotsOnTarget": 2,
-        "accuratePasses": 250,
-        "duelsWon": 32,
-        "boxTouches": 23,
-        "fouls": 11,
+        "accuratePasses": 265,
+        "duelsWon": 35,
+        "boxTouches": 24,
+        "fouls": 12,
         "corners": 4,
         "offsides": 0,
         "saves": 0
@@ -425,10 +425,10 @@
         "xg": 0.37,
         "shots": 7,
         "shotsOnTarget": 0,
-        "accuratePasses": 339,
-        "duelsWon": 40,
+        "accuratePasses": 350,
+        "duelsWon": 41,
         "boxTouches": 16,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 2
@@ -457,6 +457,12 @@
           "type": "yellow-card",
           "teamId": "2",
           "playerName": "Leon Avdullahu"
+        },
+        {
+          "minute": "75'",
+          "type": "yellow-card",
+          "teamId": "3",
+          "playerName": "Facundo Medina"
         }
       ]
     }
@@ -779,27 +785,27 @@
   "DED": {
     "558856": {
       "home": {
-        "possession": 27,
+        "possession": 22,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 37,
-        "duelsWon": 8,
-        "fouls": 3,
+        "accuratePasses": 38,
+        "duelsWon": 10,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 73,
-        "xg": 0.29,
-        "shots": 4,
+        "possession": 78,
+        "xg": 0.34,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 115,
-        "duelsWon": 6,
-        "boxTouches": 8,
+        "accuratePasses": 165,
+        "duelsWon": 8,
+        "boxTouches": 10,
         "fouls": 1,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       }
@@ -1035,30 +1041,30 @@
   "PPL": {
     "567336": {
       "home": {
-        "possession": 58,
+        "possession": 56,
         "xg": 0.15,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 140,
-        "duelsWon": 16,
-        "boxTouches": 8,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 158,
+        "duelsWon": 18,
+        "boxTouches": 10,
         "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 42,
-        "xg": 0.55,
+        "possession": 44,
+        "xg": 0.56,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 99,
-        "duelsWon": 17,
-        "boxTouches": 9,
-        "fouls": 5,
-        "corners": 1,
+        "accuratePasses": 119,
+        "duelsWon": 18,
+        "boxTouches": 11,
+        "fouls": 6,
+        "corners": 2,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
