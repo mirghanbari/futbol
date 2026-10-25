@@ -413,28 +413,28 @@
     },
     "564723": {
       "home": {
-        "possession": 59,
+        "possession": 60,
         "xg": 0.96,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 409,
-        "duelsWon": 34,
-        "boxTouches": 25,
-        "fouls": 7,
+        "accuratePasses": 441,
+        "duelsWon": 37,
+        "boxTouches": 26,
+        "fouls": 8,
         "corners": 4,
         "offsides": 3,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 41,
-        "xg": 0.86,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 262,
-        "duelsWon": 31,
-        "boxTouches": 18,
-        "fouls": 10,
-        "corners": 5,
+        "possession": 40,
+        "xg": 0.89,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 276,
+        "duelsWon": 34,
+        "boxTouches": 20,
+        "fouls": 11,
+        "corners": 6,
         "offsides": 2,
         "saves": 5
       },
@@ -777,27 +777,27 @@
   "SA": {
     "558559": {
       "home": {
-        "possession": 41,
-        "xg": 0.41,
-        "shots": 11,
+        "possession": 40,
+        "xg": 0.42,
+        "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 329,
-        "duelsWon": 54,
-        "boxTouches": 14,
+        "accuratePasses": 337,
+        "duelsWon": 56,
+        "boxTouches": 15,
         "fouls": 11,
         "corners": 6,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "away": {
-        "possession": 59,
-        "xg": 3.03,
-        "shots": 17,
-        "shotsOnTarget": 6,
-        "accuratePasses": 495,
-        "duelsWon": 45,
-        "boxTouches": 30,
-        "fouls": 11,
+        "possession": 60,
+        "xg": 3.12,
+        "shots": 19,
+        "shotsOnTarget": 7,
+        "accuratePasses": 536,
+        "duelsWon": 48,
+        "boxTouches": 31,
+        "fouls": 13,
         "corners": 4,
         "offsides": 1,
         "saves": 5
@@ -827,8 +827,15 @@
           "type": "goal",
           "teamId": "98",
           "playerName": "Omari Hutchinson"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "98",
+          "playerName": "Luka Modrić"
         }
-      ]
+      ],
+      "final": true
     },
     "558562": {
       "home": {
@@ -2034,24 +2041,24 @@
     },
     "567332": {
       "home": {
-        "possession": 66,
+        "possession": 67,
         "xg": 0.65,
         "shots": 12,
         "shotsOnTarget": 1,
-        "accuratePasses": 257,
+        "accuratePasses": 259,
         "duelsWon": 24,
         "boxTouches": 30,
         "fouls": 8,
         "corners": 6,
         "offsides": 2,
-        "saves": 1
+        "saves": 0
       },
       "away": {
-        "possession": 34,
+        "possession": 33,
         "xg": 0.4,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 115,
+        "accuratePasses": 114,
         "duelsWon": 21,
         "boxTouches": 10,
         "fouls": 6,
@@ -2073,7 +2080,7 @@
           "playerName": "Cihan Kahraman"
         },
         {
-          "minute": "25'",
+          "minute": "24'",
           "type": "goal",
           "teamId": "5527",
           "playerName": "João Guilherme",
