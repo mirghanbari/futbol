@@ -2,27 +2,27 @@
   "PD": {
     "564720": {
       "home": {
-        "possession": 68,
+        "possession": 67,
         "xg": 0.54,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 265,
-        "duelsWon": 20,
-        "boxTouches": 13,
-        "fouls": 5,
+        "accuratePasses": 271,
+        "duelsWon": 21,
+        "boxTouches": 15,
+        "fouls": 7,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 32,
-        "xg": 0.14,
-        "shots": 2,
+        "possession": 33,
+        "xg": 0.17,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 102,
-        "duelsWon": 16,
+        "accuratePasses": 110,
+        "duelsWon": 18,
         "boxTouches": 4,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 2,
         "offsides": 1,
         "saves": 0
@@ -47,6 +47,12 @@
           "type": "yellow-card",
           "teamId": "82",
           "playerName": "Ramón Terrats"
+        },
+        {
+          "minute": "43'",
+          "type": "yellow-card",
+          "teamId": "82",
+          "playerName": "Daniel Carvajal"
         }
       ]
     }
@@ -114,30 +120,30 @@
   "DED": {
     "558857": {
       "home": {
-        "possession": 58,
-        "xg": 0.23,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 70,
-        "duelsWon": 6,
-        "boxTouches": 2,
+        "possession": 63,
+        "xg": 0.5,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 107,
+        "duelsWon": 8,
+        "boxTouches": 9,
         "fouls": 0,
-        "corners": 0,
+        "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 42,
+        "possession": 37,
         "xg": 0.57,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 42,
-        "duelsWon": 4,
-        "boxTouches": 6,
+        "accuratePasses": 53,
+        "duelsWon": 7,
+        "boxTouches": 8,
         "fouls": 3,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -152,31 +158,39 @@
     },
     "558858": {
       "home": {
-        "possession": 72,
-        "xg": 0.08,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 92,
-        "duelsWon": 2,
-        "boxTouches": 3,
+        "possession": 64,
+        "xg": 0.27,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 110,
+        "duelsWon": 6,
+        "boxTouches": 4,
         "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 28,
-        "xg": 0.17,
-        "shots": 2,
+        "possession": 36,
+        "xg": 0.19,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 26,
-        "duelsWon": 11,
-        "boxTouches": 3,
-        "fouls": 0,
+        "accuratePasses": 52,
+        "duelsWon": 13,
+        "boxTouches": 4,
+        "fouls": 1,
         "corners": 3,
         "offsides": 0,
-        "saves": 0
-      }
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "18'",
+          "type": "yellow-card",
+          "teamId": "675",
+          "playerName": "Charles Vanhoutte"
+        }
+      ]
     },
     "558859": {
       "home": {
