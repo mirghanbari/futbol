@@ -414,12 +414,12 @@
     "564723": {
       "home": {
         "possession": 59,
-        "xg": 0.61,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 278,
+        "xg": 0.65,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 287,
         "duelsWon": 27,
-        "boxTouches": 15,
+        "boxTouches": 16,
         "fouls": 4,
         "corners": 1,
         "offsides": 1,
@@ -427,15 +427,15 @@
       },
       "away": {
         "possession": 41,
-        "xg": 0.72,
-        "shots": 5,
+        "xg": 0.85,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 181,
-        "duelsWon": 21,
-        "boxTouches": 13,
+        "accuratePasses": 190,
+        "duelsWon": 23,
+        "boxTouches": 14,
         "fouls": 8,
         "corners": 3,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 4
       },
       "events": [
@@ -764,12 +764,12 @@
   "SA": {
     "558559": {
       "home": {
-        "possession": 39,
+        "possession": 43,
         "xg": 0.14,
         "shots": 6,
         "shotsOnTarget": 4,
-        "accuratePasses": 152,
-        "duelsWon": 33,
+        "accuratePasses": 196,
+        "duelsWon": 36,
         "boxTouches": 4,
         "fouls": 6,
         "corners": 1,
@@ -777,14 +777,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 61,
+        "possession": 57,
         "xg": 1.84,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 253,
-        "duelsWon": 22,
+        "accuratePasses": 263,
+        "duelsWon": 25,
         "boxTouches": 11,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 2,
         "offsides": 1,
         "saves": 4
@@ -1551,30 +1551,30 @@
   "DED": {
     "558855": {
       "home": {
-        "possession": 50,
-        "xg": 0.57,
-        "shots": 10,
-        "shotsOnTarget": 4,
-        "accuratePasses": 353,
-        "duelsWon": 49,
-        "boxTouches": 21,
+        "possession": 51,
+        "xg": 1.24,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 369,
+        "duelsWon": 50,
+        "boxTouches": 24,
         "fouls": 17,
         "corners": 3,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 50,
-        "xg": 1.98,
-        "shots": 15,
-        "shotsOnTarget": 4,
-        "accuratePasses": 335,
+        "possession": 49,
+        "xg": 2.04,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 340,
         "duelsWon": 48,
-        "boxTouches": 35,
+        "boxTouches": 36,
         "fouls": 16,
         "corners": 6,
         "offsides": 4,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -1619,8 +1619,16 @@
           "type": "red-card",
           "teamId": "666",
           "playerName": "Daouda Weidmann"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "goal",
+          "teamId": "666",
+          "playerName": "Lucas Vennegoor of Hesselink",
+          "assist": "Joël Drommel"
         }
-      ]
+      ],
+      "final": true
     },
     "558856": {
       "home": {
@@ -2007,28 +2015,29 @@
     },
     "567332": {
       "home": {
-        "possession": 72,
-        "xg": 0.06,
-        "shots": 2,
+        "possession": 73,
+        "xg": 0.24,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 77,
-        "duelsWon": 5,
-        "boxTouches": 3,
+        "accuratePasses": 124,
+        "duelsWon": 9,
+        "boxTouches": 9,
         "fouls": 3,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 28,
-        "xg": 0,
-        "shots": 0,
+        "possession": 27,
+        "xg": 0.03,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 23,
-        "duelsWon": 5,
+        "accuratePasses": 37,
+        "duelsWon": 6,
+        "boxTouches": 6,
         "fouls": 1,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "events": [
