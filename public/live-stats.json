@@ -788,11 +788,11 @@
     },
     "558566": {
       "home": {
-        "possession": 30,
+        "possession": 27,
         "shots": 0,
         "shotsOnTarget": 0,
         "accuratePasses": 28,
-        "duelsWon": 13,
+        "duelsWon": 14,
         "boxTouches": 1,
         "fouls": 0,
         "corners": 0,
@@ -800,12 +800,12 @@
         "saves": 0
       },
       "away": {
-        "possession": 70,
+        "possession": 73,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 86,
+        "accuratePasses": 96,
         "duelsWon": 8,
-        "boxTouches": 8,
+        "boxTouches": 9,
         "fouls": 2,
         "corners": 0,
         "offsides": 1,
@@ -862,11 +862,11 @@
       "home": {
         "possession": 58,
         "xg": 0.74,
-        "shots": 8,
-        "shotsOnTarget": 2,
+        "shots": 9,
+        "shotsOnTarget": 3,
         "accuratePasses": 280,
         "duelsWon": 24,
-        "boxTouches": 15,
+        "boxTouches": 16,
         "fouls": 8,
         "corners": 2,
         "offsides": 3,
@@ -1003,26 +1003,26 @@
     },
     "559651": {
       "home": {
-        "possession": 50,
+        "possession": 48,
         "xg": 1.07,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 237,
+        "accuratePasses": 238,
         "duelsWon": 26,
         "boxTouches": 13,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 0,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 50,
+        "possession": 52,
         "xg": 0.24,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 221,
-        "duelsWon": 24,
-        "boxTouches": 10,
+        "accuratePasses": 242,
+        "duelsWon": 26,
+        "boxTouches": 12,
         "fouls": 7,
         "corners": 2,
         "offsides": 0,
@@ -1489,7 +1489,7 @@
     "567336": {
       "home": {
         "possession": 57,
-        "xg": 1.56,
+        "xg": 1.6,
         "shots": 24,
         "shotsOnTarget": 5,
         "accuratePasses": 377,
@@ -1549,6 +1549,12 @@
           "type": "yellow-card",
           "teamId": "583",
           "playerName": "Guilherme Liberato"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "yellow-card",
+          "teamId": "582",
+          "playerName": "André Lacximicant"
         }
       ]
     }
