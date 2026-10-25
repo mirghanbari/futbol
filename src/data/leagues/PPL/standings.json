@@ -153,13 +153,30 @@
     "goalDifference": -1
   },
   {
+    "id": "583",
+    "name": "Moreirense FC",
+    "shortName": "Moreirense",
+    "tla": "MOR",
+    "crest": "https://crests.football-data.org/583.png",
+    "competitionId": "PPL",
+    "position": 10,
+    "playedGames": 9,
+    "won": 3,
+    "draw": 2,
+    "lost": 4,
+    "points": 11,
+    "goalsFor": 11,
+    "goalsAgainst": 16,
+    "goalDifference": -5
+  },
+  {
     "id": "9136",
     "name": "CF Estrela da Amadora",
     "shortName": "Amadora",
     "tla": "AMA",
     "crest": "https://crests.football-data.org/9136.png",
     "competitionId": "PPL",
-    "position": 10,
+    "position": 11,
     "playedGames": 9,
     "won": 2,
     "draw": 4,
@@ -176,7 +193,7 @@
     "tla": "GUI",
     "crest": "https://crests.football-data.org/5543.png",
     "competitionId": "PPL",
-    "position": 11,
+    "position": 12,
     "playedGames": 9,
     "won": 2,
     "draw": 2,
@@ -185,23 +202,6 @@
     "goalsFor": 10,
     "goalsAgainst": 10,
     "goalDifference": 0
-  },
-  {
-    "id": "583",
-    "name": "Moreirense FC",
-    "shortName": "Moreirense",
-    "tla": "MOR",
-    "crest": "https://crests.football-data.org/583.png",
-    "competitionId": "PPL",
-    "position": 12,
-    "playedGames": 8,
-    "won": 2,
-    "draw": 2,
-    "lost": 4,
-    "points": 8,
-    "goalsFor": 8,
-    "goalsAgainst": 15,
-    "goalDifference": -7
   },
   {
     "id": "5575",
@@ -296,13 +296,13 @@
     "crest": "https://crests.football-data.org/582.png",
     "competitionId": "PPL",
     "position": 18,
-    "playedGames": 8,
+    "playedGames": 9,
     "won": 0,
     "draw": 2,
-    "lost": 6,
+    "lost": 7,
     "points": 2,
-    "goalsFor": 4,
-    "goalsAgainst": 12,
-    "goalDifference": -8
+    "goalsFor": 5,
+    "goalsAgainst": 15,
+    "goalDifference": -10
   }
 ]

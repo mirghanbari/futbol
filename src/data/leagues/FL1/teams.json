@@ -1,5 +1,13 @@
 [
   {
+    "id": "529",
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "521",
     "name": "Lille OSC",
     "shortName": "Lille",
@@ -48,11 +56,11 @@
     "competitionId": "FL1"
   },
   {
-    "id": "529",
-    "name": "Stade Rennais FC 1901",
-    "shortName": "Stade Rennais",
-    "tla": "REN",
-    "crest": "https://crests.football-data.org/529.png",
+    "id": "516",
+    "name": "Olympique de Marseille",
+    "shortName": "Marseille",
+    "tla": "MAR",
+    "crest": "https://crests.football-data.org/516.png",
     "competitionId": "FL1"
   },
   {
@@ -72,22 +80,6 @@
     "competitionId": "FL1"
   },
   {
-    "id": "516",
-    "name": "Olympique de Marseille",
-    "shortName": "Marseille",
-    "tla": "MAR",
-    "crest": "https://crests.football-data.org/516.png",
-    "competitionId": "FL1"
-  },
-  {
-    "id": "512",
-    "name": "Stade Brestois 29",
-    "shortName": "Brest",
-    "tla": "BRE",
-    "crest": "https://crests.football-data.org/512.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "511",
     "name": "Toulouse FC",
     "shortName": "Toulouse",
@@ -104,11 +96,11 @@
     "competitionId": "FL1"
   },
   {
-    "id": "576",
-    "name": "RC Strasbourg Alsace",
-    "shortName": "Strasbourg",
-    "tla": "RC ",
-    "crest": "https://crests.football-data.org/576.png",
+    "id": "512",
+    "name": "Stade Brestois 29",
+    "shortName": "Brest",
+    "tla": "BRE",
+    "crest": "https://crests.football-data.org/512.png",
     "competitionId": "FL1"
   },
   {
@@ -125,6 +117,14 @@
     "shortName": "Le Mans",
     "tla": "LMF",
     "crest": "https://crests.football-data.org/535.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "576",
+    "name": "RC Strasbourg Alsace",
+    "shortName": "Strasbourg",
+    "tla": "RC ",
+    "crest": "https://crests.football-data.org/576.png",
     "competitionId": "FL1"
   },
   {

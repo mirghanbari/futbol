@@ -1,13 +1,5 @@
 [
   {
-    "id": "4",
-    "name": "Borussia Dortmund",
-    "shortName": "Dortmund",
-    "tla": "BVB",
-    "crest": "https://crests.football-data.org/4.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "5",
     "name": "FC Bayern München",
     "shortName": "Bayern",
@@ -16,11 +8,11 @@
     "competitionId": "BL1"
   },
   {
-    "id": "3",
-    "name": "Bayer 04 Leverkusen",
-    "shortName": "Leverkusen",
-    "tla": "B04",
-    "crest": "https://crests.football-data.org/3.png",
+    "id": "4",
+    "name": "Borussia Dortmund",
+    "shortName": "Dortmund",
+    "tla": "BVB",
+    "crest": "https://crests.football-data.org/4.png",
     "competitionId": "BL1"
   },
   {
@@ -29,6 +21,14 @@
     "shortName": "Freiburg",
     "tla": "SCF",
     "crest": "https://crests.football-data.org/17.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "3",
+    "name": "Bayer 04 Leverkusen",
+    "shortName": "Leverkusen",
+    "tla": "B04",
+    "crest": "https://crests.football-data.org/3.png",
     "competitionId": "BL1"
   },
   {
@@ -72,6 +72,14 @@
     "competitionId": "BL1"
   },
   {
+    "id": "2",
+    "name": "TSG 1899 Hoffenheim",
+    "shortName": "Hoffenheim",
+    "tla": "TSG",
+    "crest": "https://crests.football-data.org/2.png",
+    "competitionId": "BL1"
+  },
+  {
     "id": "7",
     "name": "Hamburger SV",
     "shortName": "HSV",
@@ -101,14 +109,6 @@
     "shortName": "Frankfurt",
     "tla": "SGE",
     "crest": "https://crests.football-data.org/19.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "2",
-    "name": "TSG 1899 Hoffenheim",
-    "shortName": "Hoffenheim",
-    "tla": "TSG",
-    "crest": "https://crests.football-data.org/2.png",
     "competitionId": "BL1"
   },
   {

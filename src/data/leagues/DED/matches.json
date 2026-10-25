@@ -4178,14 +4178,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T13:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "1915",
     "awayTeamId": "677",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 1.8,
+        "shots": 22,
+        "shotsOnTarget": 9,
+        "accuratePasses": 395,
+        "duelsWon": 57,
+        "boxTouches": 41,
+        "fouls": 9,
+        "corners": 11,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 41,
+        "xg": 1.45,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 262,
+        "duelsWon": 47,
+        "boxTouches": 20,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 6
+      }
     },
     "venue": "Goffertstadion, Nijmegen",
     "broadcasts": [
@@ -4202,14 +4230,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T13:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "674",
     "awayTeamId": "675",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.91,
+        "shots": 19,
+        "shotsOnTarget": 6,
+        "accuratePasses": 370,
+        "duelsWon": 42,
+        "boxTouches": 30,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.22,
+        "shots": 13,
+        "shotsOnTarget": 9,
+        "accuratePasses": 361,
+        "duelsWon": 55,
+        "boxTouches": 22,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 6
+      }
     },
     "venue": "Philips Stadion, Eindhoven",
     "broadcasts": [
@@ -4226,14 +4282,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T15:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "6806",
     "awayTeamId": "678",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 0.85,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 328,
+        "duelsWon": 41,
+        "boxTouches": 21,
+        "fouls": 15,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1.37,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 538,
+        "duelsWon": 48,
+        "boxTouches": 25,
+        "fouls": 7,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Sparta-Stadion Het Kasteel, Rotterdam",
     "broadcasts": [

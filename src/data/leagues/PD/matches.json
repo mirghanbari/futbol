@@ -5172,14 +5172,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "77",
     "awayTeamId": "82",
     "homeTeam": {
-      "goals": 2
+      "goals": 4
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 0.74,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 517,
+        "duelsWon": 46,
+        "boxTouches": 21,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 38,
+        "xg": 0.41,
+        "shots": 7,
+        "shotsOnTarget": 1,
+        "accuratePasses": 274,
+        "duelsWon": 34,
+        "boxTouches": 9,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 0
+      }
     },
     "venue": "San Mamés, Bilbao",
     "broadcasts": [
@@ -5196,7 +5224,7 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "558",
     "awayTeamId": "90",
     "homeTeam": {
@@ -5204,6 +5232,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 0.84,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 437,
+        "duelsWon": 36,
+        "boxTouches": 23,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 56,
+        "xg": 1.09,
+        "shots": 15,
+        "shotsOnTarget": 2,
+        "accuratePasses": 594,
+        "duelsWon": 39,
+        "boxTouches": 26,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Balaidos, Vigo",
     "broadcasts": [
@@ -5224,11 +5280,11 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T17:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "92",
     "awayTeamId": "88",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
