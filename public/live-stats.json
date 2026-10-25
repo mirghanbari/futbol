@@ -2079,12 +2079,12 @@
     },
     "567332": {
       "home": {
-        "possession": 70,
+        "possession": 71,
         "xg": 1.72,
         "shots": 26,
         "shotsOnTarget": 4,
-        "accuratePasses": 492,
-        "duelsWon": 43,
+        "accuratePasses": 525,
+        "duelsWon": 47,
         "boxTouches": 59,
         "fouls": 14,
         "corners": 10,
@@ -2092,14 +2092,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 30,
-        "xg": 0.66,
-        "shots": 8,
+        "possession": 29,
+        "xg": 0.74,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 184,
-        "duelsWon": 36,
-        "boxTouches": 16,
-        "fouls": 6,
+        "accuratePasses": 187,
+        "duelsWon": 39,
+        "boxTouches": 17,
+        "fouls": 8,
         "corners": 0,
         "offsides": 2,
         "saves": 3
@@ -2149,6 +2149,12 @@
           "teamId": "5527",
           "playerName": "João Guilherme",
           "assist": "Soufiane Messeguem"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "498",
+          "playerName": "Maxi Araújo"
         }
       ]
     },
