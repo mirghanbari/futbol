@@ -1466,27 +1466,27 @@
   "DED": {
     "558855": {
       "home": {
-        "possession": 59,
+        "possession": 60,
         "xg": 0.01,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 192,
-        "duelsWon": 23,
+        "accuratePasses": 220,
+        "duelsWon": 26,
         "boxTouches": 5,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 1,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 41,
+        "possession": 40,
         "xg": 1.04,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 119,
-        "duelsWon": 22,
+        "accuratePasses": 128,
+        "duelsWon": 25,
         "boxTouches": 14,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 4,
         "offsides": 0,
         "saves": 1
@@ -1812,23 +1812,23 @@
         "xg": 0.58,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 424,
-        "duelsWon": 33,
+        "accuratePasses": 438,
+        "duelsWon": 35,
         "boxTouches": 9,
-        "fouls": 16,
+        "fouls": 18,
         "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
         "possession": 40,
-        "xg": 0.36,
-        "shots": 9,
-        "shotsOnTarget": 2,
-        "accuratePasses": 267,
-        "duelsWon": 40,
-        "boxTouches": 8,
-        "fouls": 13,
+        "xg": 0.52,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 279,
+        "duelsWon": 44,
+        "boxTouches": 9,
+        "fouls": 14,
         "corners": 2,
         "offsides": 0,
         "saves": 2
@@ -1852,6 +1852,19 @@
           "teamId": "5531",
           "playerName": "Roméo Beney",
           "assist": "Rodrigo Pinheiro"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "496",
+          "playerName": "Zé Carlos"
+        },
+        {
+          "minute": "81'",
+          "type": "goal",
+          "teamId": "5531",
+          "playerName": "Pedro Santos",
+          "assist": "Sorriso"
         }
       ]
     },
@@ -1859,14 +1872,14 @@
       "home": {
         "possession": 29,
         "xg": 0.39,
-        "shots": 7,
+        "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 115,
-        "duelsWon": 33,
-        "boxTouches": 6,
+        "accuratePasses": 118,
+        "duelsWon": 40,
+        "boxTouches": 7,
         "fouls": 16,
         "corners": 3,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 1
       },
       "away": {
@@ -1874,10 +1887,10 @@
         "xg": 1.31,
         "shots": 16,
         "shotsOnTarget": 1,
-        "accuratePasses": 394,
-        "duelsWon": 41,
+        "accuratePasses": 404,
+        "duelsWon": 42,
         "boxTouches": 20,
-        "fouls": 8,
+        "fouls": 11,
         "corners": 5,
         "offsides": 3,
         "saves": 3
@@ -1895,6 +1908,12 @@
           "type": "yellow-card",
           "teamId": "5529",
           "playerName": "Francisco Gonçalves"
+        },
+        {
+          "minute": "79'",
+          "type": "yellow-card",
+          "teamId": "5613",
+          "playerName": "Sergio Barcia"
         }
       ]
     },
