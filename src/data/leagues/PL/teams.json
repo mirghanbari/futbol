@@ -24,14 +24,6 @@
     "competitionId": "PL"
   },
   {
-    "id": "61",
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "64",
     "name": "Liverpool FC",
     "shortName": "Liverpool",
@@ -40,11 +32,11 @@
     "competitionId": "PL"
   },
   {
-    "id": "58",
-    "name": "Aston Villa FC",
-    "shortName": "Aston Villa",
-    "tla": "AVL",
-    "crest": "https://crests.football-data.org/58.png",
+    "id": "61",
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png",
     "competitionId": "PL"
   },
   {
@@ -56,11 +48,27 @@
     "competitionId": "PL"
   },
   {
+    "id": "58",
+    "name": "Aston Villa FC",
+    "shortName": "Aston Villa",
+    "tla": "AVL",
+    "crest": "https://crests.football-data.org/58.png",
+    "competitionId": "PL"
+  },
+  {
     "id": "341",
     "name": "Leeds United FC",
     "shortName": "Leeds United",
     "tla": "LEE",
     "crest": "https://crests.football-data.org/341.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "322",
+    "name": "Hull City AFC",
+    "shortName": "Hull City",
+    "tla": "HUL",
+    "crest": "https://crests.football-data.org/322.png",
     "competitionId": "PL"
   },
   {
@@ -80,27 +88,11 @@
     "competitionId": "PL"
   },
   {
-    "id": "322",
-    "name": "Hull City AFC",
-    "shortName": "Hull City",
-    "tla": "HUL",
-    "crest": "https://crests.football-data.org/322.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "73",
     "name": "Tottenham Hotspur FC",
     "shortName": "Tottenham",
     "tla": "TOT",
     "crest": "https://crests.football-data.org/73.png",
-    "competitionId": "PL"
-  },
-  {
-    "id": "63",
-    "name": "Fulham FC",
-    "shortName": "Fulham",
-    "tla": "FUL",
-    "crest": "https://crests.football-data.org/63.png",
     "competitionId": "PL"
   },
   {
@@ -117,6 +109,14 @@
     "shortName": "Man United",
     "tla": "MUN",
     "crest": "https://crests.football-data.org/66.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "63",
+    "name": "Fulham FC",
+    "shortName": "Fulham",
+    "tla": "FUL",
+    "crest": "https://crests.football-data.org/63.png",
     "competitionId": "PL"
   },
   {
