@@ -413,26 +413,26 @@
     },
     "564723": {
       "home": {
-        "possession": 62,
-        "xg": 1.16,
-        "shots": 17,
+        "possession": 61,
+        "xg": 1.21,
+        "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 515,
-        "duelsWon": 41,
+        "accuratePasses": 527,
+        "duelsWon": 40,
         "boxTouches": 34,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 6,
         "offsides": 3,
         "saves": 3
       },
       "away": {
-        "possession": 38,
-        "xg": 0.89,
-        "shots": 8,
-        "shotsOnTarget": 4,
-        "accuratePasses": 293,
-        "duelsWon": 39,
-        "boxTouches": 21,
+        "possession": 39,
+        "xg": 1.98,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 308,
+        "duelsWon": 43,
+        "boxTouches": 24,
         "fouls": 11,
         "corners": 6,
         "offsides": 2,
@@ -459,10 +459,17 @@
           "assist": "Pedri"
         },
         {
-          "minute": "85'",
+          "minute": "84'",
           "type": "yellow-card",
           "teamId": "81",
           "playerName": "Anthony Gordon"
+        },
+        {
+          "minute": "88'",
+          "type": "goal",
+          "teamId": "86",
+          "playerName": "Kylian Mbappé",
+          "assist": "Eduardo Camavinga"
         }
       ]
     },
@@ -2048,12 +2055,12 @@
     "567332": {
       "home": {
         "possession": 68,
-        "xg": 0.65,
-        "shots": 12,
+        "xg": 0.78,
+        "shots": 15,
         "shotsOnTarget": 1,
-        "accuratePasses": 281,
-        "duelsWon": 24,
-        "boxTouches": 32,
+        "accuratePasses": 306,
+        "duelsWon": 26,
+        "boxTouches": 35,
         "fouls": 8,
         "corners": 6,
         "offsides": 2,
@@ -2064,9 +2071,9 @@
         "xg": 0.4,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 115,
+        "accuratePasses": 121,
         "duelsWon": 22,
-        "boxTouches": 10,
+        "boxTouches": 12,
         "fouls": 5,
         "corners": 0,
         "offsides": 1,
