@@ -3994,14 +3994,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-24T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "676",
     "awayTeamId": "684",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 1.63,
+        "shots": 23,
+        "shotsOnTarget": 5,
+        "accuratePasses": 407,
+        "duelsWon": 61,
+        "boxTouches": 36,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 41,
+        "xg": 0.91,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 257,
+        "duelsWon": 48,
+        "boxTouches": 19,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Stadion Galgenwaard, Utrecht"
   },
@@ -4012,14 +4040,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-24T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "672",
     "awayTeamId": "1909",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 6
     },
     "stats": {
       "home": {
@@ -4058,14 +4086,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-24T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "680",
     "awayTeamId": "673",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 2.82,
+        "shots": 23,
+        "shotsOnTarget": 7,
+        "accuratePasses": 331,
+        "duelsWon": 30,
+        "boxTouches": 39,
+        "fouls": 19,
+        "corners": 8,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 2.43,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 306,
+        "duelsWon": 43,
+        "boxTouches": 30,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 5
+      }
     },
     "venue": "ADO Den Haag Stadium, Den Haag"
   },

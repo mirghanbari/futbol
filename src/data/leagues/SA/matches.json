@@ -3738,14 +3738,14 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-24T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "104",
     "awayTeamId": "103",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -3790,14 +3790,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-24T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7397",
     "awayTeamId": "471",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 2.07,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 528,
+        "duelsWon": 33,
+        "boxTouches": 26,
+        "fouls": 14,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.33,
+        "shots": 7,
+        "shotsOnTarget": 0,
+        "accuratePasses": 399,
+        "duelsWon": 42,
+        "boxTouches": 25,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 5,
+        "saves": 4
+      }
     },
     "venue": "Giuseppe Sinigaglia, Como",
     "broadcasts": [
@@ -3814,14 +3842,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-24T16:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "113",
     "awayTeamId": "100",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 2.44,
+        "shots": 15,
+        "shotsOnTarget": 9,
+        "accuratePasses": 296,
+        "duelsWon": 44,
+        "boxTouches": 21,
+        "fouls": 6,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 61,
+        "xg": 1.9,
+        "shots": 24,
+        "shotsOnTarget": 4,
+        "accuratePasses": 502,
+        "duelsWon": 43,
+        "boxTouches": 47,
+        "fouls": 11,
+        "corners": 11,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Stadio Diego Armando Maradona, Napoli",
     "broadcasts": [
@@ -3838,14 +3894,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-24T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "110",
     "awayTeamId": "112",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 68,
+        "xg": 1.74,
+        "shots": 21,
+        "shotsOnTarget": 5,
+        "accuratePasses": 572,
+        "duelsWon": 54,
+        "boxTouches": 54,
+        "fouls": 5,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 32,
+        "xg": 0.81,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 212,
+        "duelsWon": 50,
+        "boxTouches": 15,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "Olimpico, Roma",
     "broadcasts": [

@@ -3364,14 +3364,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-24T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "9136",
     "awayTeamId": "6618",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 1.69,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 430,
+        "duelsWon": 49,
+        "boxTouches": 26,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.79,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 227,
+        "duelsWon": 62,
+        "boxTouches": 15,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 6
+      }
     },
     "venue": "Estádio José Gomes, Amadora"
   },
@@ -3382,14 +3410,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-24T17:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "7822",
     "awayTeamId": "712",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 29,
+        "xg": 0.39,
+        "shots": 10,
+        "shotsOnTarget": 1,
+        "accuratePasses": 222,
+        "duelsWon": 31,
+        "boxTouches": 10,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 71,
+        "xg": 2.04,
+        "shots": 17,
+        "shotsOnTarget": 4,
+        "accuratePasses": 644,
+        "duelsWon": 45,
+        "boxTouches": 15,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Complexo Desportivo FC Alverca, Alverca do Ribatejo"
   },
@@ -3400,14 +3456,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-24T19:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5533",
     "awayTeamId": "503",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 0.35,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 293,
+        "duelsWon": 48,
+        "boxTouches": 16,
+        "fouls": 17,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 58,
+        "xg": 1.08,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 428,
+        "duelsWon": 47,
+        "boxTouches": 20,
+        "fouls": 17,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Estádio Cidade de Barcelos, Barcelos"
   },
