@@ -413,28 +413,28 @@
     },
     "564723": {
       "home": {
-        "possession": 60,
-        "xg": 0.65,
-        "shots": 9,
+        "possession": 59,
+        "xg": 0.72,
+        "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 326,
+        "accuratePasses": 350,
         "duelsWon": 31,
-        "boxTouches": 19,
-        "fouls": 5,
+        "boxTouches": 21,
+        "fouls": 6,
         "corners": 2,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 40,
+        "possession": 41,
         "xg": 0.85,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 204,
-        "duelsWon": 29,
+        "accuratePasses": 232,
+        "duelsWon": 31,
         "boxTouches": 15,
         "fouls": 9,
-        "corners": 3,
+        "corners": 4,
         "offsides": 2,
         "saves": 4
       },
@@ -770,26 +770,26 @@
   "SA": {
     "558559": {
       "home": {
-        "possession": 43,
-        "xg": 0.27,
-        "shots": 8,
+        "possession": 45,
+        "xg": 0.3,
+        "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 288,
-        "duelsWon": 44,
-        "boxTouches": 7,
+        "accuratePasses": 322,
+        "duelsWon": 47,
+        "boxTouches": 11,
         "fouls": 11,
-        "corners": 4,
+        "corners": 6,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 57,
-        "xg": 2.68,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 386,
-        "duelsWon": 40,
-        "boxTouches": 21,
+        "possession": 55,
+        "xg": 2.85,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 400,
+        "duelsWon": 43,
+        "boxTouches": 24,
         "fouls": 9,
         "corners": 3,
         "offsides": 1,
@@ -2027,30 +2027,30 @@
     },
     "567332": {
       "home": {
-        "possession": 66,
-        "xg": 0.57,
-        "shots": 9,
-        "shotsOnTarget": 0,
-        "accuratePasses": 192,
-        "duelsWon": 17,
-        "boxTouches": 22,
-        "fouls": 7,
-        "corners": 5,
+        "possession": 67,
+        "xg": 0.59,
+        "shots": 10,
+        "shotsOnTarget": 1,
+        "accuratePasses": 230,
+        "duelsWon": 22,
+        "boxTouches": 25,
+        "fouls": 8,
+        "corners": 6,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 34,
+        "possession": 33,
         "xg": 0.4,
-        "shots": 4,
+        "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 86,
-        "duelsWon": 15,
+        "accuratePasses": 100,
+        "duelsWon": 20,
         "boxTouches": 10,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 0,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -2071,6 +2071,12 @@
           "teamId": "5527",
           "playerName": "João Guilherme",
           "assist": "Robinho"
+        },
+        {
+          "minute": "41'",
+          "type": "yellow-card",
+          "teamId": "498",
+          "playerName": "Issa Doumbia"
         }
       ]
     },
