@@ -764,28 +764,28 @@
   "SA": {
     "558559": {
       "home": {
-        "possession": 43,
+        "possession": 42,
         "xg": 0.17,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 218,
-        "duelsWon": 37,
+        "accuratePasses": 246,
+        "duelsWon": 41,
         "boxTouches": 5,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 2,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 57,
-        "xg": 1.84,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 292,
-        "duelsWon": 28,
-        "boxTouches": 12,
+        "possession": 58,
+        "xg": 2.16,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 339,
+        "duelsWon": 32,
+        "boxTouches": 16,
         "fouls": 9,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 4
       },
@@ -2015,26 +2015,26 @@
     },
     "567332": {
       "home": {
-        "possession": 74,
-        "xg": 0.37,
+        "possession": 67,
+        "xg": 0.42,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 149,
+        "accuratePasses": 161,
         "duelsWon": 11,
         "boxTouches": 13,
-        "fouls": 4,
+        "fouls": 7,
         "corners": 2,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 26,
-        "xg": 0.26,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 44,
-        "duelsWon": 7,
-        "boxTouches": 7,
+        "possession": 33,
+        "xg": 0.4,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 70,
+        "duelsWon": 10,
+        "boxTouches": 9,
         "fouls": 2,
         "corners": 0,
         "offsides": 1,
@@ -2052,6 +2052,13 @@
           "type": "yellow-card",
           "teamId": "5527",
           "playerName": "Cihan Kahraman"
+        },
+        {
+          "minute": "25'",
+          "type": "goal",
+          "teamId": "5527",
+          "playerName": "João Guilherme",
+          "assist": "Robinho"
         }
       ]
     },
