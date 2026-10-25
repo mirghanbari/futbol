@@ -2080,12 +2080,12 @@
     "567332": {
       "home": {
         "possession": 71,
-        "xg": 1.72,
-        "shots": 26,
+        "xg": 1.98,
+        "shots": 28,
         "shotsOnTarget": 4,
-        "accuratePasses": 525,
-        "duelsWon": 47,
-        "boxTouches": 59,
+        "accuratePasses": 542,
+        "duelsWon": 52,
+        "boxTouches": 62,
         "fouls": 14,
         "corners": 10,
         "offsides": 2,
@@ -2093,13 +2093,13 @@
       },
       "away": {
         "possession": 29,
-        "xg": 0.74,
+        "xg": 0.8,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 187,
-        "duelsWon": 39,
+        "accuratePasses": 189,
+        "duelsWon": 47,
         "boxTouches": 17,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 0,
         "offsides": 2,
         "saves": 3
@@ -2155,8 +2155,15 @@
           "type": "yellow-card",
           "teamId": "498",
           "playerName": "Maxi Araújo"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "yellow-card",
+          "teamId": "5527",
+          "playerName": "Alejandro Mestanza"
         }
-      ]
+      ],
+      "final": true
     },
     "567334": {
       "home": {
