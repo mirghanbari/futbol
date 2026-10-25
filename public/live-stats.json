@@ -2,23 +2,26 @@
   "PD": {
     "564720": {
       "home": {
-        "possession": 87,
-        "shots": 0,
+        "possession": 78,
+        "xg": 0.03,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 57,
-        "duelsWon": 5,
-        "boxTouches": 2,
+        "accuratePasses": 88,
+        "duelsWon": 6,
+        "boxTouches": 5,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 13,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 3,
-        "duelsWon": 2,
+        "possession": 22,
+        "xg": 0.12,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 18,
+        "duelsWon": 4,
+        "boxTouches": 1,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
@@ -29,29 +32,29 @@
   "SA": {
     "558563": {
       "home": {
-        "possession": 58,
-        "xg": 1.47,
-        "shots": 22,
-        "shotsOnTarget": 6,
-        "accuratePasses": 365,
-        "duelsWon": 29,
-        "boxTouches": 36,
-        "fouls": 10,
+        "possession": 60,
+        "xg": 1.55,
+        "shots": 24,
+        "shotsOnTarget": 7,
+        "accuratePasses": 404,
+        "duelsWon": 34,
+        "boxTouches": 41,
+        "fouls": 12,
         "corners": 6,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 42,
-        "xg": 0.19,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 246,
-        "duelsWon": 34,
-        "boxTouches": 9,
-        "fouls": 8,
-        "corners": 0,
-        "offsides": 2,
+        "possession": 40,
+        "xg": 0.24,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 253,
+        "duelsWon": 36,
+        "boxTouches": 10,
+        "fouls": 9,
+        "corners": 1,
+        "offsides": 3,
         "saves": 6
       },
       "events": [
@@ -75,13 +78,13 @@
     "558859": {
       "home": {
         "possession": 43,
-        "xg": 0.43,
+        "xg": 0.74,
         "shots": 7,
         "shotsOnTarget": 5,
-        "accuratePasses": 308,
-        "duelsWon": 36,
+        "accuratePasses": 310,
+        "duelsWon": 37,
         "boxTouches": 13,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 7,
         "offsides": 2,
         "saves": 2
@@ -91,8 +94,8 @@
         "xg": 0.39,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 453,
-        "duelsWon": 32,
+        "accuratePasses": 457,
+        "duelsWon": 33,
         "boxTouches": 15,
         "fouls": 13,
         "corners": 4,
@@ -132,7 +135,8 @@
           "method": "header",
           "assist": "Mohammed Ihattaren"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
