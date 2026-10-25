@@ -2079,26 +2079,26 @@
     },
     "567332": {
       "home": {
-        "possession": 70,
+        "possession": 68,
         "xg": 1.21,
         "shots": 22,
         "shotsOnTarget": 3,
-        "accuratePasses": 399,
-        "duelsWon": 35,
+        "accuratePasses": 421,
+        "duelsWon": 38,
         "boxTouches": 55,
-        "fouls": 11,
-        "corners": 9,
+        "fouls": 13,
+        "corners": 10,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 30,
+        "possession": 32,
         "xg": 0.44,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 146,
-        "duelsWon": 27,
-        "boxTouches": 14,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 173,
+        "duelsWon": 29,
+        "boxTouches": 15,
         "fouls": 5,
         "corners": 0,
         "offsides": 2,
@@ -2142,6 +2142,13 @@
           "teamId": "498",
           "playerName": "Luis Suárez",
           "assist": "Iván Fresneda"
+        },
+        {
+          "minute": "74'",
+          "type": "goal",
+          "teamId": "5527",
+          "playerName": "João Guilherme",
+          "assist": "Soufiane Messeguem"
         }
       ]
     },
