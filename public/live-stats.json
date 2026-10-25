@@ -413,28 +413,28 @@
     },
     "564723": {
       "home": {
-        "possession": 61,
-        "xg": 0.04,
-        "shots": 3,
+        "possession": 58,
+        "xg": 0.18,
+        "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 140,
-        "duelsWon": 15,
-        "boxTouches": 7,
+        "accuratePasses": 179,
+        "duelsWon": 18,
+        "boxTouches": 9,
         "fouls": 4,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 39,
-        "xg": 0.07,
-        "shots": 2,
+        "possession": 42,
+        "xg": 0.09,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 86,
-        "duelsWon": 15,
-        "boxTouches": 7,
-        "fouls": 3,
-        "corners": 2,
+        "accuratePasses": 124,
+        "duelsWon": 16,
+        "boxTouches": 10,
+        "fouls": 4,
+        "corners": 3,
         "offsides": 1,
         "saves": 2
       }
@@ -756,30 +756,30 @@
   "SA": {
     "558559": {
       "home": {
-        "possession": 38,
-        "xg": 0.09,
-        "shots": 3,
-        "shotsOnTarget": 2,
-        "accuratePasses": 137,
-        "duelsWon": 29,
-        "boxTouches": 3,
-        "fouls": 5,
+        "possession": 39,
+        "xg": 0.15,
+        "shots": 6,
+        "shotsOnTarget": 4,
+        "accuratePasses": 152,
+        "duelsWon": 31,
+        "boxTouches": 4,
+        "fouls": 6,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 62,
-        "xg": 0.81,
-        "shots": 3,
+        "possession": 61,
+        "xg": 1.69,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 234,
-        "duelsWon": 20,
-        "boxTouches": 7,
-        "fouls": 5,
+        "accuratePasses": 250,
+        "duelsWon": 22,
+        "boxTouches": 9,
+        "fouls": 7,
         "corners": 0,
         "offsides": 1,
-        "saves": 2
+        "saves": 4
       },
       "events": [
         {
@@ -794,6 +794,12 @@
           "type": "yellow-card",
           "teamId": "98",
           "playerName": "Gonçalo Ramos"
+        },
+        {
+          "minute": "43'",
+          "type": "yellow-card",
+          "teamId": "115",
+          "playerName": "Jesper Karlström"
         }
       ]
     },
@@ -1537,30 +1543,30 @@
   "DED": {
     "558855": {
       "home": {
-        "possession": 50,
-        "xg": 0.26,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 275,
-        "duelsWon": 37,
-        "boxTouches": 12,
-        "fouls": 12,
-        "corners": 2,
+        "possession": 49,
+        "xg": 0.54,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 290,
+        "duelsWon": 42,
+        "boxTouches": 14,
+        "fouls": 14,
+        "corners": 3,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 50,
-        "xg": 1.52,
-        "shots": 11,
+        "possession": 51,
+        "xg": 1.66,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 262,
-        "duelsWon": 37,
-        "boxTouches": 26,
-        "fouls": 14,
+        "accuratePasses": 288,
+        "duelsWon": 39,
+        "boxTouches": 28,
+        "fouls": 15,
         "corners": 6,
-        "offsides": 3,
-        "saves": 2
+        "offsides": 4,
+        "saves": 3
       },
       "events": [
         {
@@ -1586,6 +1592,12 @@
           "type": "yellow-card",
           "teamId": "666",
           "playerName": "Daouda Weidmann"
+        },
+        {
+          "minute": "70'",
+          "type": "yellow-card",
+          "teamId": "682",
+          "playerName": "Ayoub Oufkir"
         }
       ]
     },
