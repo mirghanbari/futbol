@@ -364,25 +364,25 @@
     },
     "564725": {
       "home": {
-        "possession": 48,
-        "xg": 0.47,
+        "possession": 47,
+        "xg": 0.67,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 235,
-        "duelsWon": 22,
+        "accuratePasses": 243,
+        "duelsWon": 23,
         "boxTouches": 13,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 52,
+        "possession": 53,
         "xg": 0.32,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 266,
-        "duelsWon": 13,
+        "accuratePasses": 285,
+        "duelsWon": 19,
         "boxTouches": 11,
         "fouls": 8,
         "corners": 1,
@@ -408,30 +408,30 @@
   "BL1": {
     "565835": {
       "home": {
-        "possession": 44,
-        "xg": 2.24,
-        "shots": 16,
-        "shotsOnTarget": 3,
-        "accuratePasses": 262,
-        "duelsWon": 35,
-        "boxTouches": 25,
+        "possession": 43,
+        "xg": 2.29,
+        "shots": 17,
+        "shotsOnTarget": 4,
+        "accuratePasses": 275,
+        "duelsWon": 39,
+        "boxTouches": 26,
         "fouls": 13,
-        "corners": 4,
-        "offsides": 0,
+        "corners": 5,
+        "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 56,
+        "possession": 57,
         "xg": 0.7,
         "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 370,
-        "duelsWon": 42,
-        "boxTouches": 19,
+        "accuratePasses": 410,
+        "duelsWon": 43,
+        "boxTouches": 20,
         "fouls": 6,
         "corners": 1,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -476,6 +476,12 @@
           "type": "yellow-card",
           "teamId": "2",
           "playerName": "Adam Daghim"
+        },
+        {
+          "minute": "90'",
+          "type": "goal",
+          "teamId": "2",
+          "playerName": "<TBD>"
         }
       ]
     }
@@ -701,6 +707,43 @@
     }
   },
   "FL1": {
+    "559649": {
+      "home": {
+        "possession": 89,
+        "xg": 0.16,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 43,
+        "duelsWon": 3,
+        "boxTouches": 4,
+        "fouls": 0,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 11,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 4,
+        "duelsWon": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "5'",
+          "type": "goal",
+          "teamId": "516",
+          "playerName": "CJ Egan-Riley",
+          "method": "header",
+          "assist": "Emerson"
+        }
+      ]
+    },
     "559650": {
       "home": {
         "possession": 64,
@@ -793,32 +836,109 @@
         }
       ],
       "final": true
-    }
-  },
-  "DED": {
-    "558856": {
+    },
+    "559651": {
       "home": {
-        "possession": 26,
-        "xg": 0.04,
+        "possession": 53,
+        "xg": 0.09,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 49,
-        "duelsWon": 11,
-        "boxTouches": 1,
-        "fouls": 4,
+        "accuratePasses": 37,
+        "duelsWon": 2,
+        "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 74,
+        "possession": 47,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 31,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "559653": {
+      "home": {
+        "possession": 63,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 37,
+        "duelsWon": 2,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 37,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 22,
+        "duelsWon": 1,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "559655": {
+      "home": {
+        "possession": 86,
+        "xg": 0.08,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 40,
+        "duelsWon": 1,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 14,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 3,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    }
+  },
+  "DED": {
+    "558856": {
+      "home": {
+        "possession": 31,
+        "xg": 0.04,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 79,
+        "duelsWon": 13,
+        "boxTouches": 1,
+        "fouls": 5,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 69,
         "xg": 0.5,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 180,
-        "duelsWon": 12,
+        "accuratePasses": 204,
+        "duelsWon": 14,
         "boxTouches": 12,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 3,
         "offsides": 0,
         "saves": 0
@@ -1065,13 +1185,13 @@
     "567336": {
       "home": {
         "possession": 58,
-        "xg": 0.43,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 180,
-        "duelsWon": 20,
-        "boxTouches": 14,
-        "fouls": 7,
+        "xg": 0.54,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 207,
+        "duelsWon": 21,
+        "boxTouches": 16,
+        "fouls": 9,
         "corners": 1,
         "offsides": 0,
         "saves": 1
@@ -1081,8 +1201,8 @@
         "xg": 0.56,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 126,
-        "duelsWon": 20,
+        "accuratePasses": 141,
+        "duelsWon": 26,
         "boxTouches": 11,
         "fouls": 6,
         "corners": 2,
