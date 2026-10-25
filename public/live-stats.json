@@ -463,11 +463,11 @@
     "564726": {
       "home": {
         "possession": 62,
-        "xg": 2.33,
-        "shots": 15,
+        "xg": 2.35,
+        "shots": 16,
         "shotsOnTarget": 3,
-        "accuratePasses": 474,
-        "duelsWon": 30,
+        "accuratePasses": 510,
+        "duelsWon": 34,
         "boxTouches": 18,
         "fouls": 11,
         "corners": 1,
@@ -479,10 +479,10 @@
         "xg": 0.64,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 253,
-        "duelsWon": 30,
-        "boxTouches": 14,
-        "fouls": 9,
+        "accuratePasses": 266,
+        "duelsWon": 32,
+        "boxTouches": 19,
+        "fouls": 11,
         "corners": 3,
         "offsides": 0,
         "saves": 1
@@ -519,6 +519,12 @@
           "type": "yellow-card",
           "teamId": "88",
           "playerName": "Manuel Sánchez"
+        },
+        {
+          "minute": "81'",
+          "type": "yellow-card",
+          "teamId": "88",
+          "playerName": "Yanis Musuayi"
         }
       ]
     }
@@ -1453,27 +1459,28 @@
   "DED": {
     "558855": {
       "home": {
-        "possession": 67,
+        "possession": 60,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 26,
-        "duelsWon": 0,
+        "accuratePasses": 37,
+        "duelsWon": 4,
+        "boxTouches": 2,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 33,
-        "xg": 0.06,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 12,
-        "duelsWon": 4,
-        "boxTouches": 1,
+        "possession": 40,
+        "xg": 0.44,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 23,
+        "duelsWon": 6,
+        "boxTouches": 6,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
@@ -1788,12 +1795,12 @@
   "PPL": {
     "567330": {
       "home": {
-        "possession": 52,
+        "possession": 54,
         "xg": 0.18,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 222,
-        "duelsWon": 18,
+        "accuratePasses": 248,
+        "duelsWon": 19,
         "boxTouches": 5,
         "fouls": 11,
         "corners": 0,
@@ -1801,12 +1808,12 @@
         "saves": 1
       },
       "away": {
-        "possession": 48,
-        "xg": 0.3,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 202,
-        "duelsWon": 26,
+        "possession": 46,
+        "xg": 0.32,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 205,
+        "duelsWon": 28,
         "boxTouches": 7,
         "fouls": 7,
         "corners": 2,
@@ -1825,6 +1832,13 @@
           "type": "yellow-card",
           "teamId": "496",
           "playerName": "Miguel Patricio"
+        },
+        {
+          "minute": "48'",
+          "type": "goal",
+          "teamId": "5531",
+          "playerName": "Roméo Beney",
+          "assist": "Rodrigo Pinheiro"
         }
       ]
     },
@@ -1834,21 +1848,21 @@
         "xg": 0.19,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 72,
+        "accuratePasses": 79,
         "duelsWon": 20,
         "boxTouches": 4,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 2,
         "offsides": 1,
         "saves": 1
       },
       "away": {
         "possession": 70,
-        "xg": 0.79,
-        "shots": 9,
+        "xg": 0.78,
+        "shots": 10,
         "shotsOnTarget": 1,
-        "accuratePasses": 234,
-        "duelsWon": 21,
+        "accuratePasses": 251,
+        "duelsWon": 23,
         "boxTouches": 12,
         "fouls": 5,
         "corners": 2,
