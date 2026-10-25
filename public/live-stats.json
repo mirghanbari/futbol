@@ -2,10 +2,11 @@
   "DED": {
     "558859": {
       "home": {
-        "possession": 37,
+        "possession": 36,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 18,
+        "accuratePasses": 29,
         "duelsWon": 4,
         "boxTouches": 3,
         "fouls": 0,
@@ -14,13 +15,15 @@
         "saves": 0
       },
       "away": {
-        "possession": 63,
-        "shots": 0,
+        "possession": 64,
+        "xg": 0.06,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 41,
-        "duelsWon": 0,
+        "accuratePasses": 62,
+        "duelsWon": 1,
+        "boxTouches": 1,
         "fouls": 2,
-        "corners": 0,
+        "corners": 1,
         "offsides": 1,
         "saves": 0
       }
