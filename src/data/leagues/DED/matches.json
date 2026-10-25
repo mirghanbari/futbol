@@ -4334,14 +4334,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "682",
     "awayTeamId": "666",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.24,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 369,
+        "duelsWon": 50,
+        "boxTouches": 24,
+        "fouls": 17,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 49,
+        "xg": 2.04,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 341,
+        "duelsWon": 48,
+        "boxTouches": 36,
+        "fouls": 16,
+        "corners": 6,
+        "offsides": 4,
+        "saves": 5
+      }
     },
     "venue": "AFAS Stadion, Alkmaar",
     "broadcasts": [
