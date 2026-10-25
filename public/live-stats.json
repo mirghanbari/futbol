@@ -413,25 +413,25 @@
     },
     "564723": {
       "home": {
-        "possession": 61,
-        "xg": 1.05,
-        "shots": 16,
+        "possession": 62,
+        "xg": 1.16,
+        "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 486,
-        "duelsWon": 39,
-        "boxTouches": 29,
-        "fouls": 9,
-        "corners": 4,
+        "accuratePasses": 515,
+        "duelsWon": 41,
+        "boxTouches": 34,
+        "fouls": 10,
+        "corners": 6,
         "offsides": 3,
         "saves": 3
       },
       "away": {
-        "possession": 39,
+        "possession": 38,
         "xg": 0.89,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 289,
-        "duelsWon": 37,
+        "accuratePasses": 293,
+        "duelsWon": 39,
         "boxTouches": 21,
         "fouls": 11,
         "corners": 6,
@@ -457,6 +457,12 @@
           "teamId": "81",
           "playerName": "Raphinha",
           "assist": "Pedri"
+        },
+        {
+          "minute": "85'",
+          "type": "yellow-card",
+          "teamId": "81",
+          "playerName": "Anthony Gordon"
         }
       ]
     },
@@ -2041,25 +2047,25 @@
     },
     "567332": {
       "home": {
-        "possession": 66,
+        "possession": 68,
         "xg": 0.65,
         "shots": 12,
         "shotsOnTarget": 1,
-        "accuratePasses": 259,
+        "accuratePasses": 281,
         "duelsWon": 24,
-        "boxTouches": 30,
+        "boxTouches": 32,
         "fouls": 8,
         "corners": 6,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 34,
+        "possession": 32,
         "xg": 0.4,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 114,
-        "duelsWon": 21,
+        "accuratePasses": 115,
+        "duelsWon": 22,
         "boxTouches": 10,
         "fouls": 5,
         "corners": 0,
