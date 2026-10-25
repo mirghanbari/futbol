@@ -4959,14 +4959,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-24T12:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "87",
     "awayTeamId": "285",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 57,
+        "xg": 1.52,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 436,
+        "duelsWon": 43,
+        "boxTouches": 30,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 6
+      },
+      "away": {
+        "possession": 43,
+        "xg": 2.52,
+        "shots": 16,
+        "shotsOnTarget": 9,
+        "accuratePasses": 319,
+        "duelsWon": 44,
+        "boxTouches": 23,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Estadio de Vallecas, Madrid",
     "broadcasts": [
@@ -4987,14 +5015,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-24T14:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5335",
     "awayTeamId": "80",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -5043,14 +5071,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-24T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "95",
     "awayTeamId": "94",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 1.13,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 250,
+        "duelsWon": 41,
+        "boxTouches": 17,
+        "fouls": 18,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 62,
+        "xg": 1.5,
+        "shots": 19,
+        "shotsOnTarget": 3,
+        "accuratePasses": 465,
+        "duelsWon": 44,
+        "boxTouches": 42,
+        "fouls": 9,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Mestalla Stadium, Manises",
     "broadcasts": [
@@ -5071,14 +5127,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-24T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "78",
     "awayTeamId": "560",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 1.41,
+        "shots": 20,
+        "shotsOnTarget": 4,
+        "accuratePasses": 482,
+        "duelsWon": 38,
+        "boxTouches": 21,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 5
+      },
+      "away": {
+        "possession": 45,
+        "xg": 1.67,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 377,
+        "duelsWon": 41,
+        "boxTouches": 25,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 3
+      }
     }
   },
   {
