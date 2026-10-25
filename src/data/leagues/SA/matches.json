@@ -4106,14 +4106,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-25T17:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "5890",
     "awayTeamId": "109",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 0.94,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 255,
+        "duelsWon": 50,
+        "boxTouches": 25,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 58,
+        "xg": 1.07,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 387,
+        "duelsWon": 49,
+        "boxTouches": 25,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 4
+      }
     },
     "venue": "Via Del Mare, Lecce",
     "broadcasts": [
@@ -4130,14 +4158,14 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-25T19:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "115",
     "awayTeamId": "98",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Stadio Friuli, Udine",
     "broadcasts": [

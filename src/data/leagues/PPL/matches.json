@@ -3548,14 +3548,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-25T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "496",
     "awayTeamId": "5531",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 0.58,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 464,
+        "duelsWon": 40,
+        "boxTouches": 9,
+        "fouls": 21,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.65,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 326,
+        "duelsWon": 49,
+        "boxTouches": 13,
+        "fouls": 15,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Estádio do Rio Ave, Vila do Conde"
   },
@@ -3566,14 +3594,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-25T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5529",
     "awayTeamId": "5613",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 29,
+        "xg": 0.48,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 134,
+        "duelsWon": 46,
+        "boxTouches": 7,
+        "fouls": 18,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 71,
+        "xg": 1.67,
+        "shots": 20,
+        "shotsOnTarget": 2,
+        "accuratePasses": 476,
+        "duelsWon": 52,
+        "boxTouches": 27,
+        "fouls": 12,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Estádio da Madeira, Funchal"
   },

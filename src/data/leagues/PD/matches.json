@@ -5280,14 +5280,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T17:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "92",
     "awayTeamId": "88",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 2.45,
+        "shots": 17,
+        "shotsOnTarget": 3,
+        "accuratePasses": 565,
+        "duelsWon": 38,
+        "boxTouches": 20,
+        "fouls": 14,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 38,
+        "xg": 0.64,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 305,
+        "duelsWon": 39,
+        "boxTouches": 19,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Reale Arena, San Sebastian",
     "broadcasts": [
@@ -5308,7 +5336,7 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T20:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "81",
     "awayTeamId": "86",
     "homeTeam": {
