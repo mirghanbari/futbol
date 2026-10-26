@@ -6,10 +6,10 @@
         "xg": 1.18,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 64,
-        "duelsWon": 16,
-        "boxTouches": 7,
-        "fouls": 4,
+        "accuratePasses": 66,
+        "duelsWon": 19,
+        "boxTouches": 6,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -19,10 +19,10 @@
         "xg": 0.05,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 170,
-        "duelsWon": 12,
+        "accuratePasses": 179,
+        "duelsWon": 14,
         "boxTouches": 4,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 1,
         "saves": 3
@@ -46,6 +46,12 @@
           "teamId": "5530",
           "playerName": "Luis Fernando",
           "penalty": true
+        },
+        {
+          "minute": "36'",
+          "type": "yellow-card",
+          "teamId": "5530",
+          "playerName": "Emanuel Moreira"
         }
       ]
     }
