@@ -7,7 +7,7 @@
         "shots": 8,
         "shotsOnTarget": 3,
         "accuratePasses": 194,
-        "duelsWon": 19,
+        "duelsWon": 20,
         "boxTouches": 12,
         "fouls": 2,
         "corners": 3,
@@ -20,7 +20,7 @@
         "shots": 4,
         "shotsOnTarget": 0,
         "accuratePasses": 226,
-        "duelsWon": 14,
+        "duelsWon": 13,
         "boxTouches": 6,
         "fouls": 1,
         "corners": 1,
@@ -47,12 +47,12 @@
   "FL1": {
     "559648": {
       "home": {
-        "possession": 69,
-        "xg": 0.77,
-        "shots": 14,
-        "shotsOnTarget": 7,
-        "accuratePasses": 540,
-        "duelsWon": 30,
+        "possession": 68,
+        "xg": 0.81,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 552,
+        "duelsWon": 33,
         "boxTouches": 28,
         "fouls": 8,
         "corners": 7,
@@ -60,14 +60,14 @@
         "saves": 4
       },
       "away": {
-        "possession": 31,
+        "possession": 32,
         "xg": 0.4,
         "shots": 4,
         "shotsOnTarget": 4,
-        "accuratePasses": 223,
+        "accuratePasses": 235,
         "duelsWon": 27,
         "boxTouches": 9,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 3,
         "offsides": 1,
         "saves": 6
@@ -84,6 +84,19 @@
           "type": "yellow-card",
           "teamId": "524",
           "playerName": "Maghnes Akliouche"
+        },
+        {
+          "minute": "72'",
+          "type": "goal",
+          "teamId": "524",
+          "playerName": "Senny Mayulu",
+          "assist": "Mika Godts"
+        },
+        {
+          "minute": "74'",
+          "type": "yellow-card",
+          "teamId": "523",
+          "playerName": "Khalis Merah"
         }
       ]
     }
