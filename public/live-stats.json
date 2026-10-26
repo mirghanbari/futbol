@@ -3,12 +3,13 @@
     "567331": {
       "home": {
         "possession": 35,
-        "xg": 0.02,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 21,
-        "duelsWon": 7,
-        "fouls": 1,
+        "xg": 0.3,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 41,
+        "duelsWon": 11,
+        "boxTouches": 2,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -16,14 +17,15 @@
       "away": {
         "possession": 65,
         "xg": 0.02,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 56,
-        "duelsWon": 3,
+        "accuratePasses": 95,
+        "duelsWon": 7,
+        "boxTouches": 3,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 2
       },
       "events": [
         {
@@ -31,6 +33,12 @@
           "type": "yellow-card",
           "teamId": "1903",
           "playerName": "Alexander Bah"
+        },
+        {
+          "minute": "10'",
+          "type": "yellow-card",
+          "teamId": "1903",
+          "playerName": "Marco Silva"
         }
       ]
     }
