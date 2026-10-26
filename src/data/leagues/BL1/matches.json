@@ -3178,11 +3178,11 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-25T14:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "2",
     "awayTeamId": "3",
     "homeTeam": {
-      "goals": 3
+      "goals": 0
     },
     "awayTeam": {
       "goals": 0
@@ -3230,14 +3230,14 @@
     "matchday": 7,
     "stage": "regular",
     "utcDate": "2026-10-25T16:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "17",
     "awayTeamId": "5",
     "homeTeam": {
-      "goals": 1
+      "goals": 0
     },
     "awayTeam": {
-      "goals": 3
+      "goals": 0
     },
     "stats": {
       "home": {
