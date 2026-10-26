@@ -2,12 +2,12 @@
   "PD": {
     "564721": {
       "home": {
-        "possession": 44,
+        "possession": 45,
         "xg": 1.14,
         "shots": 17,
         "shotsOnTarget": 7,
-        "accuratePasses": 308,
-        "duelsWon": 45,
+        "accuratePasses": 318,
+        "duelsWon": 46,
         "boxTouches": 26,
         "fouls": 11,
         "corners": 7,
@@ -15,11 +15,11 @@
         "saves": 2
       },
       "away": {
-        "possession": 56,
+        "possession": 55,
         "xg": 0.77,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 421,
+        "accuratePasses": 422,
         "duelsWon": 40,
         "boxTouches": 15,
         "fouls": 8,
@@ -60,7 +60,8 @@
           "playerName": "Félix Correia",
           "assist": "Youssouf Fofana"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "FL1": {
