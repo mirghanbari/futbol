@@ -2,31 +2,39 @@
   "FL1": {
     "559648": {
       "home": {
-        "possession": 69,
-        "xg": 0.21,
-        "shots": 4,
+        "possession": 71,
+        "xg": 0.23,
+        "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 246,
-        "duelsWon": 12,
-        "boxTouches": 12,
-        "fouls": 5,
-        "corners": 0,
+        "accuratePasses": 274,
+        "duelsWon": 14,
+        "boxTouches": 16,
+        "fouls": 6,
+        "corners": 3,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 31,
-        "xg": 0.02,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 91,
-        "duelsWon": 12,
-        "boxTouches": 3,
+        "possession": 29,
+        "xg": 0.2,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 95,
+        "duelsWon": 14,
+        "boxTouches": 4,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 1,
         "saves": 2
-      }
+      },
+      "events": [
+        {
+          "minute": "31'",
+          "type": "yellow-card",
+          "teamId": "524",
+          "playerName": "Vítinha"
+        }
+      ]
     }
   },
   "PPL": {
@@ -36,25 +44,25 @@
         "xg": 1.23,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 112,
-        "duelsWon": 26,
-        "boxTouches": 8,
-        "fouls": 9,
+        "accuratePasses": 121,
+        "duelsWon": 28,
+        "boxTouches": 9,
+        "fouls": 10,
         "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
         "possession": 63,
-        "xg": 0.2,
-        "shots": 4,
+        "xg": 0.35,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 233,
-        "duelsWon": 29,
-        "boxTouches": 9,
+        "accuratePasses": 252,
+        "duelsWon": 31,
+        "boxTouches": 10,
         "fouls": 7,
-        "corners": 1,
-        "offsides": 2,
+        "corners": 2,
+        "offsides": 3,
         "saves": 3
       },
       "events": [
