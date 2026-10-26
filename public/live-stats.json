@@ -3,14 +3,14 @@
     "564721": {
       "home": {
         "possession": 44,
-        "xg": 0.99,
-        "shots": 15,
-        "shotsOnTarget": 6,
-        "accuratePasses": 262,
-        "duelsWon": 36,
-        "boxTouches": 22,
+        "xg": 1.14,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 270,
+        "duelsWon": 39,
+        "boxTouches": 26,
         "fouls": 10,
-        "corners": 6,
+        "corners": 7,
         "offsides": 0,
         "saves": 0
       },
@@ -19,7 +19,7 @@
         "xg": 0.56,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 360,
+        "accuratePasses": 381,
         "duelsWon": 34,
         "boxTouches": 11,
         "fouls": 6,
@@ -52,6 +52,13 @@
           "type": "yellow-card",
           "teamId": "79",
           "playerName": "Valentin Rosier"
+        },
+        {
+          "minute": "82'",
+          "type": "goal",
+          "teamId": "559",
+          "playerName": "Félix Correia",
+          "assist": "Youssouf Fofana"
         }
       ]
     }
