@@ -5172,11 +5172,11 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "77",
     "awayTeamId": "82",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
       "goals": 0
@@ -5224,7 +5224,7 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "558",
     "awayTeamId": "90",
     "homeTeam": {
@@ -5280,14 +5280,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "92",
     "awayTeamId": "88",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -5336,14 +5336,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-25T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "81",
     "awayTeamId": "86",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
