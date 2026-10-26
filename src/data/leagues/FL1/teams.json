@@ -1,26 +1,18 @@
 [
   {
-    "id": "529",
-    "name": "Stade Rennais FC 1901",
-    "shortName": "Stade Rennais",
-    "tla": "REN",
-    "crest": "https://crests.football-data.org/529.png",
-    "competitionId": "FL1"
-  },
-  {
-    "id": "523",
-    "name": "Olympique Lyonnais",
-    "shortName": "Olympique Lyon",
-    "tla": "LYO",
-    "crest": "https://crests.football-data.org/523.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "524",
     "name": "Paris Saint-Germain FC",
     "shortName": "PSG",
     "tla": "PSG",
     "crest": "https://crests.football-data.org/524.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "529",
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png",
     "competitionId": "FL1"
   },
   {
@@ -37,6 +29,14 @@
     "shortName": "Monaco",
     "tla": "ASM",
     "crest": "https://crests.football-data.org/548.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "523",
+    "name": "Olympique Lyonnais",
+    "shortName": "Olympique Lyon",
+    "tla": "LYO",
+    "crest": "https://crests.football-data.org/523.png",
     "competitionId": "FL1"
   },
   {

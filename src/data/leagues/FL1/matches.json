@@ -3398,14 +3398,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-26T19:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "524",
     "awayTeamId": "523",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 68,
+        "xg": 0.87,
+        "shots": 17,
+        "shotsOnTarget": 10,
+        "accuratePasses": 708,
+        "duelsWon": 42,
+        "boxTouches": 28,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 32,
+        "xg": 0.62,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 300,
+        "duelsWon": 30,
+        "boxTouches": 12,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 7
+      }
     },
     "venue": "Parc des Princes, Paris"
   },
