@@ -2,27 +2,27 @@
   "PD": {
     "564721": {
       "home": {
-        "possession": 45,
+        "possession": 44,
         "xg": 0.61,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 207,
-        "duelsWon": 27,
-        "boxTouches": 15,
-        "fouls": 5,
+        "accuratePasses": 208,
+        "duelsWon": 30,
+        "boxTouches": 16,
+        "fouls": 6,
         "corners": 3,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 55,
-        "xg": 0.53,
-        "shots": 5,
+        "possession": 56,
+        "xg": 0.56,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 274,
-        "duelsWon": 22,
-        "boxTouches": 7,
-        "fouls": 4,
+        "accuratePasses": 295,
+        "duelsWon": 23,
+        "boxTouches": 8,
+        "fouls": 5,
         "corners": 2,
         "offsides": 1,
         "saves": 2
@@ -54,11 +54,11 @@
     "559648": {
       "home": {
         "possession": 68,
-        "xg": 0.94,
+        "xg": 0.87,
         "shots": 17,
         "shotsOnTarget": 10,
-        "accuratePasses": 672,
-        "duelsWon": 40,
+        "accuratePasses": 708,
+        "duelsWon": 42,
         "boxTouches": 28,
         "fouls": 8,
         "corners": 7,
@@ -70,10 +70,10 @@
         "xg": 0.62,
         "shots": 8,
         "shotsOnTarget": 5,
-        "accuratePasses": 286,
+        "accuratePasses": 299,
         "duelsWon": 30,
         "boxTouches": 12,
-        "fouls": 12,
+        "fouls": 14,
         "corners": 4,
         "offsides": 1,
         "saves": 7
@@ -117,7 +117,8 @@
           "playerName": "Mika Godts",
           "assist": "Quentin Ndjantou"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PPL": {
