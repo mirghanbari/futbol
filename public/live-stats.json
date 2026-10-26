@@ -2,25 +2,25 @@
   "FL1": {
     "559648": {
       "home": {
-        "possession": 75,
-        "xg": 0.05,
-        "shots": 1,
+        "possession": 76,
+        "xg": 0.15,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 64,
-        "duelsWon": 3,
-        "boxTouches": 1,
-        "fouls": 1,
+        "accuratePasses": 125,
+        "duelsWon": 7,
+        "boxTouches": 4,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 25,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 17,
-        "duelsWon": 1,
+        "possession": 24,
+        "xg": 0.02,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 35,
+        "duelsWon": 3,
         "boxTouches": 1,
         "fouls": 0,
         "corners": 0,
@@ -49,8 +49,8 @@
         "xg": 0.05,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 215,
-        "duelsWon": 21,
+        "accuratePasses": 216,
+        "duelsWon": 22,
         "boxTouches": 6,
         "fouls": 6,
         "corners": 1,
@@ -78,7 +78,7 @@
           "penalty": true
         },
         {
-          "minute": "36'",
+          "minute": "35'",
           "type": "yellow-card",
           "teamId": "5530",
           "playerName": "Emanuel Moreira"
