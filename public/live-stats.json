@@ -6,7 +6,7 @@
         "xg": 0.79,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 381,
+        "accuratePasses": 390,
         "duelsWon": 40,
         "boxTouches": 11,
         "fouls": 7,
@@ -19,8 +19,8 @@
         "xg": 3.39,
         "shots": 16,
         "shotsOnTarget": 8,
-        "accuratePasses": 544,
-        "duelsWon": 34,
+        "accuratePasses": 571,
+        "duelsWon": 35,
         "boxTouches": 27,
         "fouls": 13,
         "corners": 1,
@@ -102,7 +102,8 @@
           "playerName": "Tijjani Noslin",
           "assist": "Fisayo Dele-Bashiru"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
