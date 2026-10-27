@@ -187,27 +187,27 @@
     },
     "558557": {
       "home": {
-        "possession": 27,
-        "xg": 0.96,
+        "possession": 28,
+        "xg": 0.95,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 188,
-        "duelsWon": 40,
-        "boxTouches": 19,
+        "accuratePasses": 204,
+        "duelsWon": 41,
+        "boxTouches": 20,
         "fouls": 10,
         "corners": 5,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 3
       },
       "away": {
-        "possession": 73,
-        "xg": 1.44,
-        "shots": 17,
-        "shotsOnTarget": 4,
-        "accuratePasses": 602,
+        "possession": 72,
+        "xg": 2.15,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 625,
         "duelsWon": 45,
-        "boxTouches": 41,
-        "fouls": 2,
+        "boxTouches": 42,
+        "fouls": 3,
         "corners": 6,
         "offsides": 3,
         "saves": 4
@@ -241,8 +241,15 @@
           "playerName": "Nico Paz",
           "method": "header",
           "assist": "Yan Couto"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "goal",
+          "teamId": "7397",
+          "playerName": "Martin Baturina"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
