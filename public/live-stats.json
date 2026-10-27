@@ -2,12 +2,12 @@
   "SA": {
     "558556": {
       "home": {
-        "possession": 47,
-        "xg": 0.74,
-        "shots": 8,
+        "possession": 48,
+        "xg": 0.79,
+        "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 237,
-        "duelsWon": 27,
+        "accuratePasses": 269,
+        "duelsWon": 31,
         "boxTouches": 11,
         "fouls": 4,
         "corners": 1,
@@ -15,14 +15,14 @@
         "saves": 1
       },
       "away": {
-        "possession": 53,
-        "xg": 1.87,
-        "shots": 9,
-        "shotsOnTarget": 5,
-        "accuratePasses": 267,
-        "duelsWon": 21,
-        "boxTouches": 13,
-        "fouls": 9,
+        "possession": 52,
+        "xg": 2.07,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 294,
+        "duelsWon": 24,
+        "boxTouches": 15,
+        "fouls": 10,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -81,6 +81,13 @@
           "playerName": "Mattia Zaccagni",
           "method": "header",
           "assist": "Gustav Isaksen"
+        },
+        {
+          "minute": "55'",
+          "type": "goal",
+          "teamId": "110",
+          "playerName": "Tijjani Noslin",
+          "assist": "Mattia Zaccagni"
         }
       ]
     }
