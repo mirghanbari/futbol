@@ -2,30 +2,30 @@
   "SA": {
     "558555": {
       "home": {
-        "possession": 60,
-        "xg": 1.82,
-        "shots": 14,
-        "shotsOnTarget": 5,
-        "accuratePasses": 443,
-        "duelsWon": 33,
-        "boxTouches": 21,
+        "possession": 61,
+        "xg": 1.94,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 476,
+        "duelsWon": 34,
+        "boxTouches": 24,
         "fouls": 8,
         "corners": 6,
         "offsides": 2,
-        "saves": 4
+        "saves": 5
       },
       "away": {
-        "possession": 40,
-        "xg": 1.59,
-        "shots": 16,
-        "shotsOnTarget": 5,
-        "accuratePasses": 268,
-        "duelsWon": 35,
-        "boxTouches": 18,
+        "possession": 39,
+        "xg": 2.23,
+        "shots": 18,
+        "shotsOnTarget": 7,
+        "accuratePasses": 280,
+        "duelsWon": 39,
+        "boxTouches": 20,
         "fouls": 6,
         "corners": 5,
         "offsides": 3,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -49,6 +49,20 @@
           "teamId": "100",
           "playerName": "Niccolò Pisilli",
           "assist": "Emanuele Lulli"
+        },
+        {
+          "minute": "82'",
+          "type": "goal",
+          "teamId": "104",
+          "playerName": "Daniel Maldini",
+          "assist": "Adam Obert"
+        },
+        {
+          "minute": "85'",
+          "type": "goal",
+          "teamId": "100",
+          "playerName": "Rodrigo Mora",
+          "method": "header"
         }
       ]
     },
@@ -160,14 +174,14 @@
     "558557": {
       "home": {
         "possession": 28,
-        "xg": 0.84,
-        "shots": 10,
-        "shotsOnTarget": 4,
-        "accuratePasses": 171,
-        "duelsWon": 33,
-        "boxTouches": 18,
-        "fouls": 9,
-        "corners": 3,
+        "xg": 0.96,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 179,
+        "duelsWon": 36,
+        "boxTouches": 19,
+        "fouls": 10,
+        "corners": 4,
         "offsides": 2,
         "saves": 3
       },
@@ -176,13 +190,13 @@
         "xg": 1,
         "shots": 13,
         "shotsOnTarget": 2,
-        "accuratePasses": 525,
-        "duelsWon": 39,
-        "boxTouches": 27,
+        "accuratePasses": 563,
+        "duelsWon": 42,
+        "boxTouches": 28,
         "fouls": 2,
         "corners": 5,
         "offsides": 2,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
