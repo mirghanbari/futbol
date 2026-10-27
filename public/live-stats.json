@@ -2,27 +2,27 @@
   "SA": {
     "558555": {
       "home": {
-        "possession": 65,
-        "xg": 0.9,
+        "possession": 61,
+        "xg": 1.02,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 124,
-        "duelsWon": 5,
+        "accuratePasses": 137,
+        "duelsWon": 8,
         "boxTouches": 10,
-        "fouls": 2,
-        "corners": 1,
+        "fouls": 3,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 35,
+        "possession": 39,
         "xg": 0.93,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 60,
-        "duelsWon": 12,
+        "accuratePasses": 80,
+        "duelsWon": 13,
         "boxTouches": 5,
-        "fouls": 2,
+        "fouls": 4,
         "corners": 1,
         "offsides": 1,
         "saves": 1
@@ -159,31 +159,40 @@
     },
     "558557": {
       "home": {
-        "possession": 44,
-        "xg": 0.07,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 88,
-        "duelsWon": 9,
-        "boxTouches": 5,
+        "possession": 43,
+        "xg": 0.17,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 105,
+        "duelsWon": 12,
+        "boxTouches": 11,
         "fouls": 1,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 56,
+        "possession": 57,
         "xg": 0.04,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 117,
-        "duelsWon": 16,
-        "boxTouches": 5,
+        "accuratePasses": 149,
+        "duelsWon": 17,
+        "boxTouches": 6,
         "fouls": 1,
         "corners": 0,
         "offsides": 1,
         "saves": 2
-      }
+      },
+      "events": [
+        {
+          "minute": "25'",
+          "type": "goal",
+          "teamId": "586",
+          "playerName": "Ché Adams",
+          "assist": "Kian Fitz-Jim"
+        }
+      ]
     }
   }
 }
