@@ -4210,14 +4210,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-27T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "471",
     "awayTeamId": "110",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 6
+    },
+    "stats": {
+      "home": {
+        "possession": 42,
+        "xg": 0.79,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 394,
+        "duelsWon": 41,
+        "boxTouches": 11,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 58,
+        "xg": 3.39,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 571,
+        "duelsWon": 35,
+        "boxTouches": 27,
+        "fouls": 13,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 0
+      }
     },
     "venue": "Mapei Stadium, Reggio Emilia",
     "broadcasts": [
@@ -4234,14 +4262,14 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-27T19:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "100",
     "awayTeamId": "104",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Olimpico, Roma",
     "broadcasts": [
@@ -4258,11 +4286,11 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-27T19:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "586",
     "awayTeamId": "7397",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
