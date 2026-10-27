@@ -2,11 +2,11 @@
   "SA": {
     "558556": {
       "home": {
-        "possession": 49,
+        "possession": 48,
         "xg": 0.79,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 293,
+        "accuratePasses": 306,
         "duelsWon": 31,
         "boxTouches": 11,
         "fouls": 5,
@@ -15,12 +15,12 @@
         "saves": 2
       },
       "away": {
-        "possession": 51,
-        "xg": 2.86,
-        "shots": 12,
-        "shotsOnTarget": 7,
-        "accuratePasses": 307,
-        "duelsWon": 27,
+        "possession": 52,
+        "xg": 2.9,
+        "shots": 13,
+        "shotsOnTarget": 8,
+        "accuratePasses": 336,
+        "duelsWon": 28,
         "boxTouches": 17,
         "fouls": 10,
         "corners": 0,
@@ -94,6 +94,13 @@
           "teamId": "110",
           "playerName": "Tijjani Noslin",
           "assist": "Mattia Zaccagni"
+        },
+        {
+          "minute": "65'",
+          "type": "goal",
+          "teamId": "110",
+          "playerName": "Tijjani Noslin",
+          "assist": "Fisayo Dele-Bashiru"
         }
       ]
     }
