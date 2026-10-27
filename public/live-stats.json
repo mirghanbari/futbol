@@ -2,26 +2,26 @@
   "SA": {
     "558556": {
       "home": {
-        "possession": 48,
-        "xg": 0.52,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 142,
-        "duelsWon": 20,
-        "boxTouches": 9,
+        "possession": 52,
+        "xg": 0.74,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 180,
+        "duelsWon": 21,
+        "boxTouches": 11,
         "fouls": 3,
         "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 52,
-        "xg": 0.61,
-        "shots": 4,
+        "possession": 48,
+        "xg": 0.65,
+        "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 161,
-        "duelsWon": 15,
-        "boxTouches": 7,
+        "accuratePasses": 171,
+        "duelsWon": 19,
+        "boxTouches": 8,
         "fouls": 5,
         "corners": 0,
         "offsides": 0,
@@ -66,6 +66,13 @@
           "type": "red-card",
           "teamId": "471",
           "playerName": "Kristian Thorstvedt"
+        },
+        {
+          "minute": "43'",
+          "type": "goal",
+          "teamId": "471",
+          "playerName": "Sebastiano Esposito",
+          "assist": "Simone Cinquegrano"
         }
       ]
     }
