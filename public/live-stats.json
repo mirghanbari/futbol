@@ -2,26 +2,26 @@
   "SA": {
     "558556": {
       "home": {
-        "possession": 48,
+        "possession": 49,
         "xg": 0.79,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 269,
+        "accuratePasses": 293,
         "duelsWon": 31,
         "boxTouches": 11,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 52,
-        "xg": 2.07,
-        "shots": 11,
-        "shotsOnTarget": 6,
-        "accuratePasses": 294,
-        "duelsWon": 24,
-        "boxTouches": 15,
+        "possession": 51,
+        "xg": 2.86,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 307,
+        "duelsWon": 27,
+        "boxTouches": 17,
         "fouls": 10,
         "corners": 0,
         "offsides": 0,
@@ -81,6 +81,12 @@
           "playerName": "Mattia Zaccagni",
           "method": "header",
           "assist": "Gustav Isaksen"
+        },
+        {
+          "minute": "54'",
+          "type": "yellow-card",
+          "teamId": "471",
+          "playerName": "Domenico Berardi"
         },
         {
           "minute": "55'",
