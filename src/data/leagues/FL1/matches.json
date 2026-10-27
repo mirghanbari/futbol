@@ -3462,6 +3462,24 @@
     ]
   },
   {
+    "id": "559646",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-10-30T18:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "522",
+    "awayTeamId": "529",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Allianz Riviera, Nice"
+  },
+  {
     "id": "559639",
     "competitionId": "FL1",
     "season": "2026",
@@ -3478,60 +3496,6 @@
       "goals": 0
     },
     "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
-  },
-  {
-    "id": "559646",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-10-31T16:15:00Z",
-    "status": "scheduled",
-    "homeTeamId": "522",
-    "awayTeamId": "529",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Allianz Riviera, Nice"
-  },
-  {
-    "id": "559640",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-10-31T19:45:00Z",
-    "status": "scheduled",
-    "homeTeamId": "523",
-    "awayTeamId": "532",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Groupama Stadium, Lyon"
-  },
-  {
-    "id": "559641",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 9,
-    "stage": "regular",
-    "utcDate": "2026-10-31T19:45:00Z",
-    "status": "scheduled",
-    "homeTeamId": "525",
-    "awayTeamId": "512",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stade du Moustoir - Yves Allainmat, Lorient"
   },
   {
     "id": "559643",
@@ -3570,6 +3534,24 @@
     "venue": "Stade de la Meinau, Strasbourg"
   },
   {
+    "id": "559640",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-11-01T16:15:00Z",
+    "status": "scheduled",
+    "homeTeamId": "523",
+    "awayTeamId": "532",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Groupama Stadium, Lyon"
+  },
+  {
     "id": "559642",
     "competitionId": "FL1",
     "season": "2026",
@@ -3604,6 +3586,24 @@
       "goals": 0
     },
     "venue": "Stade Vélodrome, Marseille"
+  },
+  {
+    "id": "559641",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 9,
+    "stage": "regular",
+    "utcDate": "2026-11-02T19:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "525",
+    "awayTeamId": "512",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stade du Moustoir - Yves Allainmat, Lorient"
   },
   {
     "id": "559638",
