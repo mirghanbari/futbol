@@ -143,26 +143,26 @@
     },
     "558552": {
       "home": {
-        "possession": 78,
-        "xg": 0.3,
+        "possession": 76,
+        "xg": 0.38,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 90,
-        "duelsWon": 7,
-        "boxTouches": 6,
-        "fouls": 0,
-        "corners": 2,
+        "accuratePasses": 111,
+        "duelsWon": 12,
+        "boxTouches": 11,
+        "fouls": 1,
+        "corners": 4,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 22,
+        "possession": 24,
         "xg": 0.05,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 18,
-        "duelsWon": 2,
-        "fouls": 0,
+        "accuratePasses": 26,
+        "duelsWon": 4,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -172,7 +172,8 @@
           "minute": "12'",
           "type": "goal",
           "teamId": "107",
-          "playerName": "Kingsley Ehizibue"
+          "playerName": "Kingsley Ehizibue",
+          "assist": "Tommaso Baldanzi"
         }
       ]
     },
@@ -233,11 +234,11 @@
     },
     "558554": {
       "home": {
-        "possession": 49,
+        "possession": 48,
         "xg": 0.03,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 60,
+        "accuratePasses": 64,
         "duelsWon": 2,
         "boxTouches": 1,
         "fouls": 2,
@@ -246,13 +247,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 51,
+        "possession": 52,
         "xg": 0.13,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 63,
-        "duelsWon": 5,
-        "boxTouches": 1,
+        "accuratePasses": 67,
+        "duelsWon": 7,
+        "boxTouches": 3,
         "fouls": 0,
         "corners": 0,
         "offsides": 1,
