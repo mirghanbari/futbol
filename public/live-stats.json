@@ -143,12 +143,12 @@
     },
     "558552": {
       "home": {
-        "possession": 42,
+        "possession": 41,
         "xg": 0.97,
         "shots": 14,
         "shotsOnTarget": 2,
-        "accuratePasses": 239,
-        "duelsWon": 26,
+        "accuratePasses": 246,
+        "duelsWon": 28,
         "boxTouches": 23,
         "fouls": 3,
         "corners": 5,
@@ -156,15 +156,15 @@
         "saves": 1
       },
       "away": {
-        "possession": 58,
-        "xg": 0.35,
-        "shots": 7,
+        "possession": 59,
+        "xg": 0.53,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 331,
-        "duelsWon": 18,
-        "boxTouches": 15,
-        "fouls": 4,
-        "corners": 7,
+        "accuratePasses": 365,
+        "duelsWon": 21,
+        "boxTouches": 22,
+        "fouls": 6,
+        "corners": 8,
         "offsides": 1,
         "saves": 0
       },
@@ -181,6 +181,12 @@
           "type": "goal",
           "teamId": "107",
           "playerName": "Tommaso Baldanzi"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "109",
+          "playerName": "Edon Zhegrova"
         }
       ]
     },
@@ -241,26 +247,26 @@
     },
     "558554": {
       "home": {
-        "possession": 43,
-        "xg": 0.72,
+        "possession": 40,
+        "xg": 0.73,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 225,
+        "accuratePasses": 231,
         "duelsWon": 27,
-        "boxTouches": 8,
+        "boxTouches": 9,
         "fouls": 9,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 57,
-        "xg": 0.83,
-        "shots": 10,
-        "shotsOnTarget": 5,
-        "accuratePasses": 306,
-        "duelsWon": 32,
-        "boxTouches": 11,
+        "possession": 60,
+        "xg": 1.19,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 365,
+        "duelsWon": 35,
+        "boxTouches": 13,
         "fouls": 4,
         "corners": 2,
         "offsides": 4,
@@ -313,6 +319,13 @@
           "playerName": "Rafa Marín",
           "method": "header",
           "assist": "Matteo Politano"
+        },
+        {
+          "minute": "67'",
+          "type": "goal",
+          "teamId": "113",
+          "playerName": "Kevin De Bruyne",
+          "assist": "Noa Lang"
         }
       ]
     }
