@@ -3,29 +3,29 @@
     "558549": {
       "home": {
         "possession": 67,
-        "xg": 1.61,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 558,
-        "duelsWon": 49,
-        "boxTouches": 13,
+        "xg": 1.71,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 589,
+        "duelsWon": 51,
+        "boxTouches": 15,
         "fouls": 10,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 2
       },
       "away": {
         "possession": 33,
-        "xg": 1.5,
+        "xg": 1.87,
         "shots": 8,
         "shotsOnTarget": 5,
-        "accuratePasses": 244,
-        "duelsWon": 44,
+        "accuratePasses": 261,
+        "duelsWon": 47,
         "boxTouches": 17,
         "fouls": 16,
         "corners": 2,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -85,30 +85,30 @@
     },
     "558550": {
       "home": {
-        "possession": 32,
-        "xg": 1.46,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 253,
-        "duelsWon": 42,
-        "boxTouches": 15,
+        "possession": 34,
+        "xg": 1.49,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 300,
+        "duelsWon": 45,
+        "boxTouches": 18,
         "fouls": 5,
-        "corners": 1,
-        "offsides": 4,
+        "corners": 3,
+        "offsides": 5,
         "saves": 2
       },
       "away": {
-        "possession": 68,
+        "possession": 66,
         "xg": 2.02,
         "shots": 16,
         "shotsOnTarget": 2,
-        "accuratePasses": 607,
-        "duelsWon": 46,
+        "accuratePasses": 624,
+        "duelsWon": 51,
         "boxTouches": 51,
         "fouls": 9,
         "corners": 6,
         "offsides": 2,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -145,21 +145,21 @@
         "xg": 1.04,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 222,
-        "duelsWon": 36,
-        "boxTouches": 9,
-        "fouls": 10,
+        "accuratePasses": 227,
+        "duelsWon": 37,
+        "boxTouches": 11,
+        "fouls": 12,
         "corners": 3,
         "offsides": 0,
         "saves": 4
       },
       "away": {
         "possession": 58,
-        "xg": 1.36,
+        "xg": 1.35,
         "shots": 20,
         "shotsOnTarget": 5,
-        "accuratePasses": 358,
-        "duelsWon": 37,
+        "accuratePasses": 369,
+        "duelsWon": 41,
         "boxTouches": 28,
         "fouls": 14,
         "corners": 6,
@@ -182,16 +182,17 @@
         {
           "minute": "81'",
           "type": "yellow-card",
-          "teamId": "115",
-          "playerName": "Nicolò Zaniolo"
+          "teamId": "112",
+          "playerName": "Simone Lontani"
         },
         {
           "minute": "81'",
           "type": "yellow-card",
-          "teamId": "112",
-          "playerName": "Simone Lontani"
+          "teamId": "115",
+          "playerName": "Nicolò Zaniolo"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
