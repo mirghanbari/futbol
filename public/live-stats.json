@@ -143,29 +143,29 @@
     },
     "558552": {
       "home": {
-        "possession": 38,
+        "possession": 37,
         "xg": 0.97,
         "shots": 14,
         "shotsOnTarget": 2,
-        "accuratePasses": 268,
-        "duelsWon": 39,
+        "accuratePasses": 271,
+        "duelsWon": 40,
         "boxTouches": 25,
-        "fouls": 3,
+        "fouls": 5,
         "corners": 6,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 62,
-        "xg": 0.82,
-        "shots": 10,
+        "possession": 63,
+        "xg": 0.86,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 474,
-        "duelsWon": 28,
-        "boxTouches": 27,
+        "accuratePasses": 510,
+        "duelsWon": 33,
+        "boxTouches": 33,
         "fouls": 8,
         "corners": 9,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "events": [
@@ -247,26 +247,26 @@
     },
     "558554": {
       "home": {
-        "possession": 36,
+        "possession": 35,
         "xg": 0.73,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 267,
-        "duelsWon": 39,
+        "accuratePasses": 273,
+        "duelsWon": 40,
         "boxTouches": 12,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 2,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 64,
+        "possession": 65,
         "xg": 1.37,
         "shots": 16,
         "shotsOnTarget": 7,
-        "accuratePasses": 496,
-        "duelsWon": 45,
-        "boxTouches": 16,
+        "accuratePasses": 553,
+        "duelsWon": 48,
+        "boxTouches": 18,
         "fouls": 6,
         "corners": 2,
         "offsides": 4,
@@ -326,8 +326,15 @@
           "teamId": "113",
           "playerName": "Kevin De Bruyne",
           "assist": "Noa Lang"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "5911",
+          "playerName": "Leonardo Colombo"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
