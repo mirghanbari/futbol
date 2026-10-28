@@ -143,25 +143,25 @@
     },
     "558552": {
       "home": {
-        "possession": 47,
+        "possession": 46,
         "xg": 0.61,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 185,
+        "accuratePasses": 189,
         "duelsWon": 16,
         "boxTouches": 20,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 4,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 53,
-        "xg": 0.29,
+        "possession": 54,
+        "xg": 0.35,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 202,
-        "duelsWon": 12,
+        "accuratePasses": 219,
+        "duelsWon": 14,
         "boxTouches": 6,
         "fouls": 1,
         "corners": 6,
@@ -242,12 +242,12 @@
     "558554": {
       "home": {
         "possession": 41,
-        "xg": 0.56,
-        "shots": 9,
+        "xg": 0.65,
+        "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 151,
-        "duelsWon": 15,
-        "boxTouches": 5,
+        "accuratePasses": 162,
+        "duelsWon": 22,
+        "boxTouches": 6,
         "fouls": 5,
         "corners": 2,
         "offsides": 1,
@@ -256,12 +256,12 @@
       "away": {
         "possession": 59,
         "xg": 0.41,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 232,
-        "duelsWon": 23,
-        "boxTouches": 7,
-        "fouls": 2,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 249,
+        "duelsWon": 25,
+        "boxTouches": 9,
+        "fouls": 3,
         "corners": 1,
         "offsides": 3,
         "saves": 3
@@ -293,6 +293,12 @@
           "playerName": "Gustavo Varela",
           "method": "header",
           "assist": "Jay Robinson"
+        },
+        {
+          "minute": "49'",
+          "type": "goal",
+          "teamId": "113",
+          "playerName": "Matteo Politano"
         }
       ]
     }
