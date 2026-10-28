@@ -3291,7 +3291,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg"
+    "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565839",
@@ -3309,7 +3315,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "BORUSSIA-PARK, Mönchengladbach"
+    "venue": "BORUSSIA-PARK, Mönchengladbach",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565840",
@@ -3327,7 +3339,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Veltins Arena, Gelsenkirchen"
+    "venue": "Veltins Arena, Gelsenkirchen",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565842",
@@ -3345,7 +3363,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "WWK Arena, Augsburg"
+    "venue": "WWK Arena, Augsburg",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565843",
@@ -3363,7 +3387,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Weserstadion, Bremen"
+    "venue": "Weserstadion, Bremen",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565847",
@@ -3381,7 +3411,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "BayArena, Leverkusen"
+    "venue": "BayArena, Leverkusen",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565845",
@@ -3399,7 +3435,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Allianz Arena, München"
+    "venue": "Allianz Arena, München",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565841",
@@ -3417,7 +3463,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stadion An der Alten Försterei, Berlin"
+    "venue": "Stadion An der Alten Försterei, Berlin",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565844",
@@ -3435,7 +3487,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Deutsche Bank Park, Frankfurt"
+    "venue": "Deutsche Bank Park, Frankfurt",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "565852",
@@ -3543,7 +3601,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "MHPArena, Stuttgart"
+    "venue": "MHPArena, Stuttgart",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "565855",

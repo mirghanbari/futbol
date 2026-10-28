@@ -4351,7 +4351,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stamford Bridge, London"
+    "venue": "Stamford Bridge, London",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560623",
@@ -4369,7 +4379,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Etihad Stadium, Manchester"
+    "venue": "Etihad Stadium, Manchester",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560624",
@@ -4387,7 +4403,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Vitality Stadium, Bournemouth"
+    "venue": "Vitality Stadium, Bournemouth",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560625",
@@ -4405,7 +4427,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Coventry Building Society Arena, Coventry"
+    "venue": "Coventry Building Society Arena, Coventry",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560629",
@@ -4423,7 +4451,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "The MKM Stadium, Hull"
+    "venue": "The MKM Stadium, Hull",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560630",
@@ -4441,7 +4475,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Gtech Community Stadium, Brentford"
+    "venue": "Gtech Community Stadium, Brentford",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560627",
@@ -4459,7 +4503,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Tottenham Hotspur Stadium, London"
+    "venue": "Tottenham Hotspur Stadium, London",
+    "broadcasts": [
+      {
+        "name": "NBC",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560628",
@@ -4477,7 +4531,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Villa Park, Birmingham"
+    "venue": "Villa Park, Birmingham",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560631",
@@ -4495,7 +4555,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Anfield, Liverpool"
+    "venue": "Anfield, Liverpool",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560622",
@@ -4513,7 +4583,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "St. James' Park, Newcastle-upon-Tyne"
+    "venue": "St. James' Park, Newcastle-upon-Tyne",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560634",
