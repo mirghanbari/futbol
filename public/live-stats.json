@@ -2,28 +2,28 @@
   "SA": {
     "558549": {
       "home": {
-        "possession": 69,
+        "possession": 64,
         "xg": 1.4,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 337,
-        "duelsWon": 23,
+        "accuratePasses": 348,
+        "duelsWon": 25,
         "boxTouches": 9,
         "fouls": 7,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 31,
-        "xg": 0.57,
-        "shots": 3,
-        "shotsOnTarget": 2,
-        "accuratePasses": 132,
-        "duelsWon": 27,
-        "boxTouches": 7,
+        "possession": 36,
+        "xg": 0.61,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 180,
+        "duelsWon": 31,
+        "boxTouches": 8,
         "fouls": 4,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
         "saves": 0
       },
@@ -52,28 +52,28 @@
     },
     "558550": {
       "home": {
-        "possession": 34,
+        "possession": 33,
         "xg": 0.84,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 157,
-        "duelsWon": 23,
+        "accuratePasses": 167,
+        "duelsWon": 28,
         "boxTouches": 11,
         "fouls": 3,
         "corners": 1,
-        "offsides": 2,
-        "saves": 1
+        "offsides": 3,
+        "saves": 2
       },
       "away": {
-        "possession": 66,
-        "xg": 1.29,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 332,
+        "possession": 67,
+        "xg": 1.4,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 383,
         "duelsWon": 29,
-        "boxTouches": 32,
-        "fouls": 6,
-        "corners": 3,
+        "boxTouches": 37,
+        "fouls": 7,
+        "corners": 4,
         "offsides": 2,
         "saves": 3
       },
@@ -83,17 +83,23 @@
           "type": "yellow-card",
           "teamId": "108",
           "playerName": "Alessandro Bastoni"
+        },
+        {
+          "minute": "56'",
+          "type": "yellow-card",
+          "teamId": "108",
+          "playerName": "Nicolò Barella"
         }
       ]
     },
     "558553": {
       "home": {
         "possession": 42,
-        "xg": 0.08,
-        "shots": 3,
+        "xg": 0.11,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 159,
-        "duelsWon": 22,
+        "accuratePasses": 165,
+        "duelsWon": 27,
         "boxTouches": 6,
         "fouls": 7,
         "corners": 2,
@@ -102,14 +108,14 @@
       },
       "away": {
         "possession": 58,
-        "xg": 0.89,
-        "shots": 12,
+        "xg": 0.92,
+        "shots": 13,
         "shotsOnTarget": 2,
-        "accuratePasses": 238,
-        "duelsWon": 20,
+        "accuratePasses": 257,
+        "duelsWon": 24,
         "boxTouches": 17,
-        "fouls": 10,
-        "corners": 2,
+        "fouls": 11,
+        "corners": 4,
         "offsides": 1,
         "saves": 0
       },
