@@ -2,12 +2,12 @@
   "SA": {
     "558549": {
       "home": {
-        "possession": 62,
+        "possession": 63,
         "xg": 1.4,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 362,
-        "duelsWon": 31,
+        "accuratePasses": 387,
+        "duelsWon": 32,
         "boxTouches": 9,
         "fouls": 9,
         "corners": 1,
@@ -15,14 +15,14 @@
         "saves": 2
       },
       "away": {
-        "possession": 38,
-        "xg": 0.83,
-        "shots": 5,
-        "shotsOnTarget": 3,
-        "accuratePasses": 205,
+        "possession": 37,
+        "xg": 1.44,
+        "shots": 6,
+        "shotsOnTarget": 4,
+        "accuratePasses": 212,
         "duelsWon": 37,
-        "boxTouches": 11,
-        "fouls": 6,
+        "boxTouches": 13,
+        "fouls": 7,
         "corners": 2,
         "offsides": 1,
         "saves": 0
@@ -47,6 +47,20 @@
           "teamId": "98",
           "playerName": "Alphadjo Cissè",
           "assist": "Fikayo Tomori"
+        },
+        {
+          "minute": "61'",
+          "type": "goal",
+          "teamId": "103",
+          "playerName": "Davide Bartesaghi",
+          "ownGoal": true
+        },
+        {
+          "minute": "62'",
+          "type": "goal",
+          "teamId": "103",
+          "playerName": "Samuel Mbangula",
+          "assist": "Juan Miranda"
         }
       ]
     },
@@ -54,12 +68,12 @@
       "home": {
         "possession": 33,
         "xg": 0.9,
-        "shots": 9,
+        "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 187,
-        "duelsWon": 30,
-        "boxTouches": 13,
-        "fouls": 3,
+        "accuratePasses": 198,
+        "duelsWon": 35,
+        "boxTouches": 14,
+        "fouls": 4,
         "corners": 1,
         "offsides": 3,
         "saves": 2
@@ -67,13 +81,13 @@
       "away": {
         "possession": 67,
         "xg": 1.53,
-        "shots": 9,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 414,
-        "duelsWon": 31,
-        "boxTouches": 40,
+        "accuratePasses": 451,
+        "duelsWon": 36,
+        "boxTouches": 42,
         "fouls": 7,
-        "corners": 4,
+        "corners": 5,
         "offsides": 2,
         "saves": 3
       },
@@ -94,12 +108,12 @@
     },
     "558553": {
       "home": {
-        "possession": 41,
-        "xg": 0.11,
-        "shots": 4,
-        "shotsOnTarget": 0,
-        "accuratePasses": 172,
-        "duelsWon": 28,
+        "possession": 42,
+        "xg": 0.13,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 188,
+        "duelsWon": 30,
         "boxTouches": 6,
         "fouls": 8,
         "corners": 2,
@@ -107,17 +121,17 @@
         "saves": 3
       },
       "away": {
-        "possession": 59,
-        "xg": 1.09,
+        "possession": 58,
+        "xg": 1.1,
         "shots": 16,
         "shotsOnTarget": 3,
-        "accuratePasses": 283,
+        "accuratePasses": 297,
         "duelsWon": 27,
         "boxTouches": 20,
         "fouls": 11,
         "corners": 5,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
