@@ -147,8 +147,8 @@
         "xg": 0.54,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 145,
-        "duelsWon": 16,
+        "accuratePasses": 165,
+        "duelsWon": 15,
         "boxTouches": 17,
         "fouls": 1,
         "corners": 4,
@@ -160,9 +160,9 @@
         "xg": 0.12,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 154,
+        "accuratePasses": 175,
         "duelsWon": 7,
-        "boxTouches": 3,
+        "boxTouches": 4,
         "fouls": 1,
         "corners": 6,
         "offsides": 0,
@@ -242,13 +242,13 @@
     "558554": {
       "home": {
         "possession": 42,
-        "xg": 0.26,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 122,
-        "duelsWon": 9,
-        "boxTouches": 4,
-        "fouls": 3,
+        "xg": 0.53,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 148,
+        "duelsWon": 12,
+        "boxTouches": 5,
+        "fouls": 4,
         "corners": 2,
         "offsides": 1,
         "saves": 1
@@ -258,8 +258,8 @@
         "xg": 0.41,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 176,
-        "duelsWon": 15,
+        "accuratePasses": 219,
+        "duelsWon": 21,
         "boxTouches": 7,
         "fouls": 2,
         "corners": 0,
@@ -285,6 +285,14 @@
           "type": "yellow-card",
           "teamId": "5911",
           "playerName": "Ivan Jurić"
+        },
+        {
+          "minute": "43'",
+          "type": "goal",
+          "teamId": "5911",
+          "playerName": "Gustavo Varela",
+          "method": "header",
+          "assist": "Jay Robinson"
         }
       ]
     }
