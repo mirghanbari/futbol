@@ -143,27 +143,27 @@
     },
     "558552": {
       "home": {
-        "possession": 43,
-        "xg": 0.8,
-        "shots": 13,
+        "possession": 42,
+        "xg": 0.97,
+        "shots": 14,
         "shotsOnTarget": 2,
-        "accuratePasses": 217,
-        "duelsWon": 24,
-        "boxTouches": 22,
+        "accuratePasses": 239,
+        "duelsWon": 26,
+        "boxTouches": 23,
         "fouls": 3,
         "corners": 5,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 57,
+        "possession": 58,
         "xg": 0.35,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 298,
-        "duelsWon": 17,
-        "boxTouches": 14,
-        "fouls": 2,
+        "accuratePasses": 331,
+        "duelsWon": 18,
+        "boxTouches": 15,
+        "fouls": 4,
         "corners": 7,
         "offsides": 1,
         "saves": 0
@@ -241,28 +241,28 @@
     },
     "558554": {
       "home": {
-        "possession": 42,
+        "possession": 43,
         "xg": 0.72,
-        "shots": 11,
+        "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 205,
-        "duelsWon": 24,
-        "boxTouches": 9,
-        "fouls": 8,
+        "accuratePasses": 225,
+        "duelsWon": 27,
+        "boxTouches": 8,
+        "fouls": 9,
         "corners": 2,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 58,
-        "xg": 0.53,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 290,
-        "duelsWon": 28,
-        "boxTouches": 9,
+        "possession": 57,
+        "xg": 0.83,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 306,
+        "duelsWon": 32,
+        "boxTouches": 11,
         "fouls": 4,
-        "corners": 1,
+        "corners": 2,
         "offsides": 4,
         "saves": 4
       },
@@ -305,6 +305,14 @@
           "type": "yellow-card",
           "teamId": "5911",
           "playerName": "Foe Ondoa"
+        },
+        {
+          "minute": "62'",
+          "type": "goal",
+          "teamId": "113",
+          "playerName": "Rafa Marín",
+          "method": "header",
+          "assist": "Matteo Politano"
         }
       ]
     }
