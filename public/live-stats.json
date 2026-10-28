@@ -2,27 +2,27 @@
   "SA": {
     "558549": {
       "home": {
-        "possession": 66,
+        "possession": 67,
         "xg": 1.4,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 481,
-        "duelsWon": 41,
-        "boxTouches": 10,
+        "accuratePasses": 519,
+        "duelsWon": 44,
+        "boxTouches": 11,
         "fouls": 10,
         "corners": 1,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 34,
-        "xg": 1.44,
+        "possession": 33,
+        "xg": 1.5,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 226,
-        "duelsWon": 43,
-        "boxTouches": 14,
-        "fouls": 12,
+        "accuratePasses": 228,
+        "duelsWon": 44,
+        "boxTouches": 15,
+        "fouls": 14,
         "corners": 2,
         "offsides": 1,
         "saves": 0
@@ -61,16 +61,22 @@
           "teamId": "103",
           "playerName": "Samuel Mbangula",
           "assist": "Juan Miranda"
+        },
+        {
+          "minute": "76'",
+          "type": "yellow-card",
+          "teamId": "103",
+          "playerName": "Tommaso Pobega"
         }
       ]
     },
     "558550": {
       "home": {
-        "possession": 32,
+        "possession": 33,
         "xg": 1.46,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 222,
+        "accuratePasses": 235,
         "duelsWon": 41,
         "boxTouches": 15,
         "fouls": 4,
@@ -79,15 +85,15 @@
         "saves": 2
       },
       "away": {
-        "possession": 68,
-        "xg": 1.84,
-        "shots": 14,
+        "possession": 67,
+        "xg": 2.02,
+        "shots": 16,
         "shotsOnTarget": 2,
-        "accuratePasses": 514,
-        "duelsWon": 42,
-        "boxTouches": 48,
+        "accuratePasses": 527,
+        "duelsWon": 45,
+        "boxTouches": 51,
         "fouls": 9,
-        "corners": 5,
+        "corners": 6,
         "offsides": 2,
         "saves": 3
       },
@@ -103,6 +109,20 @@
           "type": "yellow-card",
           "teamId": "108",
           "playerName": "Nicolò Barella"
+        },
+        {
+          "minute": "80'",
+          "type": "goal",
+          "teamId": "108",
+          "playerName": "Matías Moreno",
+          "ownGoal": true
+        },
+        {
+          "minute": "82'",
+          "type": "goal",
+          "teamId": "108",
+          "playerName": "Redouane Halhal",
+          "ownGoal": true
         }
       ]
     },
@@ -112,23 +132,23 @@
         "xg": 1.04,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 210,
-        "duelsWon": 35,
+        "accuratePasses": 217,
+        "duelsWon": 36,
         "boxTouches": 9,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 3,
         "offsides": 0,
         "saves": 3
       },
       "away": {
         "possession": 57,
-        "xg": 1.1,
-        "shots": 16,
+        "xg": 1.12,
+        "shots": 17,
         "shotsOnTarget": 4,
-        "accuratePasses": 322,
-        "duelsWon": 31,
-        "boxTouches": 21,
-        "fouls": 13,
+        "accuratePasses": 334,
+        "duelsWon": 33,
+        "boxTouches": 22,
+        "fouls": 14,
         "corners": 6,
         "offsides": 1,
         "saves": 2
@@ -145,6 +165,18 @@
           "type": "yellow-card",
           "teamId": "115",
           "playerName": "Jesper Karlström"
+        },
+        {
+          "minute": "81'",
+          "type": "yellow-card",
+          "teamId": "115",
+          "playerName": "Nicolò Zaniolo"
+        },
+        {
+          "minute": "81'",
+          "type": "yellow-card",
+          "teamId": "112",
+          "playerName": "Simone Lontani"
         }
       ]
     }
