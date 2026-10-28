@@ -147,22 +147,22 @@
         "xg": 0.97,
         "shots": 14,
         "shotsOnTarget": 2,
-        "accuratePasses": 271,
-        "duelsWon": 40,
+        "accuratePasses": 270,
+        "duelsWon": 41,
         "boxTouches": 25,
         "fouls": 5,
         "corners": 6,
         "offsides": 2,
-        "saves": 3
+        "saves": 4
       },
       "away": {
         "possession": 63,
-        "xg": 0.86,
-        "shots": 11,
-        "shotsOnTarget": 2,
-        "accuratePasses": 510,
-        "duelsWon": 33,
-        "boxTouches": 33,
+        "xg": 1.28,
+        "shots": 17,
+        "shotsOnTarget": 4,
+        "accuratePasses": 511,
+        "duelsWon": 35,
+        "boxTouches": 40,
         "fouls": 8,
         "corners": 9,
         "offsides": 2,
@@ -188,7 +188,8 @@
           "teamId": "109",
           "playerName": "Edon Zhegrova"
         }
-      ]
+      ],
+      "final": true
     },
     "558553": {
       "home": {
