@@ -143,12 +143,12 @@
     },
     "558552": {
       "home": {
-        "possession": 46,
+        "possession": 44,
         "xg": 0.61,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 189,
-        "duelsWon": 16,
+        "accuratePasses": 202,
+        "duelsWon": 17,
         "boxTouches": 20,
         "fouls": 3,
         "corners": 4,
@@ -156,16 +156,16 @@
         "saves": 1
       },
       "away": {
-        "possession": 54,
+        "possession": 56,
         "xg": 0.35,
-        "shots": 6,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 219,
-        "duelsWon": 14,
-        "boxTouches": 6,
-        "fouls": 1,
-        "corners": 6,
-        "offsides": 0,
+        "accuratePasses": 259,
+        "duelsWon": 15,
+        "boxTouches": 7,
+        "fouls": 2,
+        "corners": 7,
+        "offsides": 1,
         "saves": 0
       },
       "events": [
@@ -241,30 +241,30 @@
     },
     "558554": {
       "home": {
-        "possession": 41,
-        "xg": 0.65,
-        "shots": 10,
-        "shotsOnTarget": 4,
-        "accuratePasses": 162,
+        "possession": 43,
+        "xg": 0.67,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 190,
         "duelsWon": 22,
-        "boxTouches": 6,
-        "fouls": 5,
+        "boxTouches": 7,
+        "fouls": 6,
         "corners": 2,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 59,
-        "xg": 0.41,
+        "possession": 57,
+        "xg": 0.53,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 249,
-        "duelsWon": 25,
+        "accuratePasses": 259,
+        "duelsWon": 27,
         "boxTouches": 9,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 1,
-        "offsides": 3,
-        "saves": 3
+        "offsides": 4,
+        "saves": 4
       },
       "events": [
         {
@@ -295,10 +295,16 @@
           "assist": "Jay Robinson"
         },
         {
-          "minute": "49'",
+          "minute": "48'",
           "type": "goal",
           "teamId": "113",
           "playerName": "Matteo Politano"
+        },
+        {
+          "minute": "52'",
+          "type": "yellow-card",
+          "teamId": "5911",
+          "playerName": "Foe Ondoa"
         }
       ]
     }
