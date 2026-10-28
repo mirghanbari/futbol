@@ -2,11 +2,11 @@
   "SA": {
     "558549": {
       "home": {
-        "possession": 67,
+        "possession": 66,
         "xg": 1.71,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 589,
+        "accuratePasses": 591,
         "duelsWon": 51,
         "boxTouches": 15,
         "fouls": 10,
@@ -15,15 +15,15 @@
         "saves": 2
       },
       "away": {
-        "possession": 33,
-        "xg": 1.87,
-        "shots": 8,
+        "possession": 34,
+        "xg": 1.88,
+        "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 261,
-        "duelsWon": 47,
-        "boxTouches": 17,
+        "accuratePasses": 270,
+        "duelsWon": 48,
+        "boxTouches": 18,
         "fouls": 16,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 1
       },
@@ -81,7 +81,8 @@
           "playerName": "Samuel Mbangula",
           "assist": "Jens Odgaard"
         }
-      ]
+      ],
+      "final": true
     },
     "558550": {
       "home": {
@@ -89,7 +90,7 @@
         "xg": 1.49,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 300,
+        "accuratePasses": 301,
         "duelsWon": 45,
         "boxTouches": 18,
         "fouls": 5,
@@ -137,7 +138,8 @@
           "playerName": "Redouane Halhal",
           "ownGoal": true
         }
-      ]
+      ],
+      "final": true
     },
     "558553": {
       "home": {
