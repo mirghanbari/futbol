@@ -3,26 +3,26 @@
     "558551": {
       "home": {
         "possession": 50,
-        "xg": 1.08,
-        "shots": 17,
+        "xg": 1.19,
+        "shots": 19,
         "shotsOnTarget": 2,
-        "accuratePasses": 329,
-        "duelsWon": 37,
-        "boxTouches": 27,
-        "fouls": 6,
+        "accuratePasses": 343,
+        "duelsWon": 39,
+        "boxTouches": 28,
+        "fouls": 7,
         "corners": 5,
         "offsides": 0,
         "saves": 1
       },
       "away": {
         "possession": 50,
-        "xg": 0.95,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 326,
-        "duelsWon": 37,
-        "boxTouches": 21,
-        "fouls": 11,
+        "xg": 1.05,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 355,
+        "duelsWon": 41,
+        "boxTouches": 22,
+        "fouls": 12,
         "corners": 2,
         "offsides": 1,
         "saves": 0
@@ -67,6 +67,13 @@
           "teamId": "99",
           "playerName": "João Mário",
           "assist": "Alieu Njie"
+        },
+        {
+          "minute": "74'",
+          "type": "goal",
+          "teamId": "102",
+          "playerName": "Nicola Zalewski",
+          "assist": "Charles De Ketelaere"
         }
       ]
     },
