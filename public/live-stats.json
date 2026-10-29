@@ -2,27 +2,27 @@
   "SA": {
     "558551": {
       "home": {
-        "possession": 54,
-        "xg": 1.01,
-        "shots": 15,
-        "shotsOnTarget": 1,
-        "accuratePasses": 293,
-        "duelsWon": 30,
-        "boxTouches": 26,
+        "possession": 53,
+        "xg": 1.08,
+        "shots": 17,
+        "shotsOnTarget": 2,
+        "accuratePasses": 319,
+        "duelsWon": 36,
+        "boxTouches": 27,
         "fouls": 6,
         "corners": 5,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 46,
+        "possession": 47,
         "xg": 0.63,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 255,
-        "duelsWon": 33,
+        "accuratePasses": 286,
+        "duelsWon": 36,
         "boxTouches": 15,
-        "fouls": 9,
+        "fouls": 11,
         "corners": 2,
         "offsides": 1,
         "saves": 0
@@ -60,6 +60,13 @@
           "playerName": "Alieu Njie",
           "method": "header",
           "assist": "Álex Jiménez"
+        },
+        {
+          "minute": "61'",
+          "type": "goal",
+          "teamId": "99",
+          "playerName": "João Mário",
+          "assist": "Alieu Njie"
         }
       ]
     },
