@@ -2,30 +2,30 @@
   "SA": {
     "558551": {
       "home": {
-        "possession": 49,
-        "xg": 1.33,
-        "shots": 20,
-        "shotsOnTarget": 2,
-        "accuratePasses": 358,
-        "duelsWon": 42,
-        "boxTouches": 32,
-        "fouls": 9,
-        "corners": 6,
+        "possession": 50,
+        "xg": 1.39,
+        "shots": 23,
+        "shotsOnTarget": 3,
+        "accuratePasses": 380,
+        "duelsWon": 44,
+        "boxTouches": 37,
+        "fouls": 10,
+        "corners": 7,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 51,
+        "possession": 50,
         "xg": 1.05,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 382,
-        "duelsWon": 47,
-        "boxTouches": 24,
-        "fouls": 12,
+        "accuratePasses": 391,
+        "duelsWon": 51,
+        "boxTouches": 25,
+        "fouls": 13,
         "corners": 2,
         "offsides": 1,
-        "saves": 0
+        "saves": 2
       },
       "events": [
         {
@@ -80,6 +80,12 @@
           "type": "yellow-card",
           "teamId": "99",
           "playerName": "Wilfried Gnonto"
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
+          "teamId": "102",
+          "playerName": "Relja Obrić"
         }
       ]
     },
