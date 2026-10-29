@@ -2,27 +2,27 @@
   "SA": {
     "558558": {
       "home": {
-        "possession": 61,
-        "xg": 2,
-        "shots": 14,
-        "shotsOnTarget": 6,
-        "accuratePasses": 154,
-        "duelsWon": 35,
-        "boxTouches": 19,
+        "possession": 60,
+        "xg": 2.2,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 168,
+        "duelsWon": 40,
+        "boxTouches": 21,
         "fouls": 6,
-        "corners": 7,
-        "offsides": 2,
+        "corners": 8,
+        "offsides": 3,
         "saves": 3
       },
       "away": {
-        "possession": 39,
+        "possession": 40,
         "xg": 1.11,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 81,
-        "duelsWon": 36,
+        "accuratePasses": 88,
+        "duelsWon": 38,
         "boxTouches": 11,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 2,
         "offsides": 0,
         "saves": 4
@@ -53,6 +53,13 @@
           "type": "yellow-card",
           "teamId": "5890",
           "playerName": "Oumar Ngom"
+        },
+        {
+          "minute": "59'",
+          "type": "goal",
+          "teamId": "470",
+          "playerName": "Antonio Raimondo",
+          "assist": "Giorgi Kvernadze"
         }
       ]
     }
