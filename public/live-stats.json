@@ -2,25 +2,25 @@
   "SA": {
     "558551": {
       "home": {
-        "possession": 49,
-        "xg": 1.57,
-        "shots": 25,
+        "possession": 50,
+        "xg": 1.64,
+        "shots": 26,
         "shotsOnTarget": 4,
-        "accuratePasses": 391,
-        "duelsWon": 48,
-        "boxTouches": 38,
+        "accuratePasses": 406,
+        "duelsWon": 50,
+        "boxTouches": 39,
         "fouls": 10,
-        "corners": 7,
+        "corners": 8,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 51,
-        "xg": 1.08,
+        "possession": 50,
+        "xg": 1.14,
         "shots": 10,
         "shotsOnTarget": 5,
         "accuratePasses": 409,
-        "duelsWon": 52,
+        "duelsWon": 53,
         "boxTouches": 31,
         "fouls": 13,
         "corners": 2,
@@ -87,7 +87,8 @@
           "teamId": "102",
           "playerName": "Relja Obrić"
         }
-      ]
+      ],
+      "final": true
     },
     "558558": {
       "home": {
