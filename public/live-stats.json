@@ -2,27 +2,27 @@
   "SA": {
     "558558": {
       "home": {
-        "possession": 58,
-        "xg": 2.83,
-        "shots": 21,
+        "possession": 59,
+        "xg": 2.92,
+        "shots": 23,
         "shotsOnTarget": 8,
-        "accuratePasses": 202,
-        "duelsWon": 54,
-        "boxTouches": 25,
+        "accuratePasses": 227,
+        "duelsWon": 59,
+        "boxTouches": 29,
         "fouls": 8,
         "corners": 8,
         "offsides": 4,
         "saves": 4
       },
       "away": {
-        "possession": 42,
+        "possession": 41,
         "xg": 1.21,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 120,
-        "duelsWon": 47,
-        "boxTouches": 13,
-        "fouls": 12,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 127,
+        "duelsWon": 48,
+        "boxTouches": 14,
+        "fouls": 15,
         "corners": 3,
         "offsides": 0,
         "saves": 4
@@ -67,6 +67,19 @@
           "teamId": "470",
           "playerName": "Daniel Bîrligea",
           "assist": "Romano Schmid"
+        },
+        {
+          "minute": "79'",
+          "type": "yellow-card",
+          "teamId": "5890",
+          "playerName": "Jamil Siebert"
+        },
+        {
+          "minute": "83'",
+          "type": "goal",
+          "teamId": "5890",
+          "playerName": "Joël Monteiro",
+          "assist": "Olaf Gorter"
         }
       ]
     }
