@@ -2,28 +2,28 @@
   "SA": {
     "558558": {
       "home": {
-        "possession": 58,
+        "possession": 59,
         "xg": 2.34,
         "shots": 19,
         "shotsOnTarget": 7,
-        "accuratePasses": 180,
-        "duelsWon": 50,
+        "accuratePasses": 197,
+        "duelsWon": 52,
         "boxTouches": 23,
         "fouls": 8,
         "corners": 8,
-        "offsides": 4,
-        "saves": 3
+        "offsides": 5,
+        "saves": 4
       },
       "away": {
-        "possession": 42,
-        "xg": 1.13,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 110,
-        "duelsWon": 43,
-        "boxTouches": 11,
+        "possession": 41,
+        "xg": 1.21,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 116,
+        "duelsWon": 47,
+        "boxTouches": 13,
         "fouls": 11,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 4
       },
@@ -60,6 +60,13 @@
           "teamId": "470",
           "playerName": "Antonio Raimondo",
           "assist": "Giorgi Kvernadze"
+        },
+        {
+          "minute": "72'",
+          "type": "goal",
+          "teamId": "470",
+          "playerName": "Daniel Bîrligea",
+          "assist": "Romano Schmid"
         }
       ]
     }
