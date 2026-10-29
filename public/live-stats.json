@@ -2,26 +2,26 @@
   "SA": {
     "558558": {
       "home": {
-        "possession": 61,
+        "possession": 59,
         "xg": 1.65,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 128,
-        "duelsWon": 24,
+        "accuratePasses": 133,
+        "duelsWon": 28,
         "boxTouches": 16,
         "fouls": 6,
         "corners": 5,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 39,
-        "xg": 0.69,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 68,
-        "duelsWon": 31,
-        "boxTouches": 9,
+        "possession": 41,
+        "xg": 1.11,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 78,
+        "duelsWon": 34,
+        "boxTouches": 11,
         "fouls": 6,
         "corners": 2,
         "offsides": 0,
@@ -47,6 +47,12 @@
           "teamId": "470",
           "playerName": "Giacomo Calò",
           "penalty": true
+        },
+        {
+          "minute": "51'",
+          "type": "yellow-card",
+          "teamId": "5890",
+          "playerName": "Oumar Ngom"
         }
       ]
     }
