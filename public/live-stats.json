@@ -3,12 +3,12 @@
     "558558": {
       "home": {
         "possession": 60,
-        "xg": 2.92,
-        "shots": 25,
-        "shotsOnTarget": 8,
-        "accuratePasses": 256,
+        "xg": 3.12,
+        "shots": 26,
+        "shotsOnTarget": 9,
+        "accuratePasses": 257,
         "duelsWon": 70,
-        "boxTouches": 33,
+        "boxTouches": 34,
         "fouls": 10,
         "corners": 10,
         "offsides": 4,
@@ -16,7 +16,7 @@
       },
       "away": {
         "possession": 40,
-        "xg": 1.42,
+        "xg": 1.45,
         "shots": 15,
         "shotsOnTarget": 6,
         "accuratePasses": 144,
@@ -80,8 +80,16 @@
           "teamId": "5890",
           "playerName": "Joël Monteiro",
           "assist": "Olaf Gorter"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "goal",
+          "teamId": "470",
+          "playerName": "Daniel Bîrligea",
+          "assist": "Giorgi Kvernadze"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
