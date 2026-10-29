@@ -6,10 +6,10 @@
         "xg": 0.68,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 101,
-        "duelsWon": 18,
-        "boxTouches": 13,
-        "fouls": 4,
+        "accuratePasses": 110,
+        "duelsWon": 22,
+        "boxTouches": 14,
+        "fouls": 6,
         "corners": 5,
         "offsides": 2,
         "saves": 2
@@ -19,10 +19,10 @@
         "xg": 0.69,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 54,
-        "duelsWon": 24,
-        "boxTouches": 7,
-        "fouls": 3,
+        "accuratePasses": 60,
+        "duelsWon": 27,
+        "boxTouches": 9,
+        "fouls": 5,
         "corners": 2,
         "offsides": 0,
         "saves": 2
@@ -34,6 +34,12 @@
           "teamId": "470",
           "playerName": "Matteo Cichella",
           "assist": "Farès Ghedjemis"
+        },
+        {
+          "minute": "38'",
+          "type": "yellow-card",
+          "teamId": "5890",
+          "playerName": "Tiago Gabriel"
         }
       ]
     }
