@@ -3,12 +3,12 @@
     "559644": {
       "home": {
         "possession": 22,
-        "xg": 0.13,
+        "xg": 1.06,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 32,
-        "duelsWon": 14,
-        "boxTouches": 5,
+        "accuratePasses": 42,
+        "duelsWon": 18,
+        "boxTouches": 6,
         "fouls": 2,
         "corners": 1,
         "offsides": 1,
@@ -16,12 +16,12 @@
       },
       "away": {
         "possession": 78,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 162,
-        "duelsWon": 7,
-        "boxTouches": 5,
+        "xg": 0.04,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 207,
+        "duelsWon": 8,
+        "boxTouches": 6,
         "fouls": 2,
         "corners": 1,
         "offsides": 0,
@@ -32,18 +32,19 @@
           "minute": "18'",
           "type": "goal",
           "teamId": "533",
-          "playerName": "<TBD>"
+          "playerName": "Josh Maja",
+          "assist": "Rayan Fofana"
         }
       ]
     },
     "559646": {
       "home": {
-        "possession": 43,
-        "xg": 0.94,
-        "shots": 2,
+        "possession": 55,
+        "xg": 0.97,
+        "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 59,
-        "duelsWon": 6,
+        "accuratePasses": 121,
+        "duelsWon": 7,
         "boxTouches": 4,
         "fouls": 2,
         "corners": 0,
@@ -51,12 +52,12 @@
         "saves": 1
       },
       "away": {
-        "possession": 57,
+        "possession": 45,
         "xg": 0.57,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 78,
-        "duelsWon": 6,
+        "accuratePasses": 89,
+        "duelsWon": 8,
         "boxTouches": 7,
         "fouls": 1,
         "corners": 2,
