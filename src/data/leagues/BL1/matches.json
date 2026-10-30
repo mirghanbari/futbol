@@ -3438,8 +3438,12 @@
     "venue": "Allianz Arena, München",
     "broadcasts": [
       {
-        "name": "USA Network",
+        "name": "CNBC",
         "kind": "tv"
+      },
+      {
+        "name": "Fandango",
+        "kind": "streaming"
       }
     ]
   },
