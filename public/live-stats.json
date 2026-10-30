@@ -2,26 +2,27 @@
   "ELC": {
     "561916": {
       "home": {
-        "possession": 24,
-        "xg": 0.09,
-        "shots": 0,
+        "possession": 43,
+        "xg": 0.11,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 5,
-        "duelsWon": 1,
-        "fouls": 0,
+        "accuratePasses": 21,
+        "duelsWon": 2,
+        "boxTouches": 3,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 76,
+        "possession": 57,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 15,
-        "duelsWon": 2,
-        "boxTouches": 2,
-        "fouls": 1,
+        "accuratePasses": 24,
+        "duelsWon": 4,
+        "boxTouches": 3,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -31,23 +32,27 @@
   "PD": {
     "564737": {
       "home": {
-        "possession": 54,
-        "shots": 0,
+        "possession": 61,
+        "xg": 0.03,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 35,
-        "duelsWon": 2,
+        "accuratePasses": 71,
+        "duelsWon": 4,
+        "boxTouches": 1,
         "fouls": 2,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 46,
+        "possession": 39,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 28,
-        "duelsWon": 4,
-        "fouls": 1,
+        "accuratePasses": 40,
+        "duelsWon": 5,
+        "boxTouches": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -57,28 +62,28 @@
   "BL1": {
     "565846": {
       "home": {
-        "possession": 52,
-        "xg": 0.41,
-        "shots": 4,
+        "possession": 48,
+        "xg": 0.49,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 125,
-        "duelsWon": 13,
-        "boxTouches": 8,
-        "fouls": 3,
+        "accuratePasses": 146,
+        "duelsWon": 18,
+        "boxTouches": 9,
+        "fouls": 4,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 48,
+        "possession": 52,
         "xg": 0.13,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 97,
-        "duelsWon": 17,
-        "boxTouches": 9,
+        "accuratePasses": 141,
+        "duelsWon": 21,
+        "boxTouches": 10,
         "fouls": 4,
-        "corners": 8,
+        "corners": 9,
         "offsides": 0,
         "saves": 0
       },
@@ -113,6 +118,31 @@
     }
   },
   "FL1": {
+    "559639": {
+      "home": {
+        "possession": 57,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 30,
+        "duelsWon": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 43,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 20,
+        "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "559644": {
       "home": {
         "possession": 29,
