@@ -3,13 +3,13 @@
     "559644": {
       "home": {
         "possession": 25,
-        "xg": 1.21,
-        "shots": 6,
+        "xg": 1.22,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 91,
-        "duelsWon": 24,
+        "accuratePasses": 95,
+        "duelsWon": 25,
         "boxTouches": 11,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 2,
         "saves": 3
@@ -19,10 +19,10 @@
         "xg": 1.22,
         "shots": 7,
         "shotsOnTarget": 5,
-        "accuratePasses": 336,
-        "duelsWon": 18,
+        "accuratePasses": 372,
+        "duelsWon": 20,
         "boxTouches": 17,
-        "fouls": 4,
+        "fouls": 6,
         "corners": 2,
         "offsides": 0,
         "saves": 0
@@ -53,25 +53,25 @@
     },
     "559646": {
       "home": {
-        "possession": 52,
-        "xg": 2.27,
-        "shots": 10,
-        "shotsOnTarget": 3,
-        "accuratePasses": 195,
-        "duelsWon": 17,
-        "boxTouches": 16,
+        "possession": 51,
+        "xg": 2.37,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 202,
+        "duelsWon": 18,
+        "boxTouches": 17,
         "fouls": 3,
         "corners": 3,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 48,
-        "xg": 1.16,
-        "shots": 9,
+        "possession": 49,
+        "xg": 1.17,
+        "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 171,
-        "duelsWon": 14,
+        "accuratePasses": 185,
+        "duelsWon": 15,
         "boxTouches": 14,
         "fouls": 3,
         "corners": 4,
@@ -100,6 +100,13 @@
           "teamId": "522",
           "playerName": "Elye Wahi",
           "penalty": true
+        },
+        {
+          "minute": "45'+2'",
+          "type": "goal",
+          "teamId": "522",
+          "playerName": "Jonathan Clauss",
+          "assist": "Elye Wahi"
         }
       ]
     }
