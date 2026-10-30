@@ -2,27 +2,27 @@
   "ELC": {
     "561916": {
       "home": {
-        "possession": 58,
+        "possession": 61,
         "xg": 0.81,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 186,
-        "duelsWon": 22,
-        "boxTouches": 18,
+        "accuratePasses": 235,
+        "duelsWon": 24,
+        "boxTouches": 23,
         "fouls": 3,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 42,
+        "possession": 39,
         "xg": 0.12,
-        "shots": 2,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 130,
-        "duelsWon": 20,
+        "accuratePasses": 140,
+        "duelsWon": 24,
         "boxTouches": 6,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 0,
         "offsides": 1,
         "saves": 2
@@ -46,11 +46,11 @@
   "PD": {
     "564737": {
       "home": {
-        "possession": 61,
+        "possession": 62,
         "xg": 0.39,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 223,
+        "accuratePasses": 248,
         "duelsWon": 18,
         "boxTouches": 13,
         "fouls": 6,
@@ -59,12 +59,12 @@
         "saves": 1
       },
       "away": {
-        "possession": 39,
+        "possession": 38,
         "xg": 0.07,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 130,
-        "duelsWon": 21,
+        "accuratePasses": 134,
+        "duelsWon": 27,
         "boxTouches": 5,
         "fouls": 7,
         "corners": 3,
@@ -90,12 +90,12 @@
   "BL1": {
     "565846": {
       "home": {
-        "possession": 54,
-        "xg": 0.55,
-        "shots": 7,
+        "possession": 56,
+        "xg": 0.57,
+        "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 226,
-        "duelsWon": 29,
+        "accuratePasses": 257,
+        "duelsWon": 34,
         "boxTouches": 11,
         "fouls": 7,
         "corners": 3,
@@ -103,14 +103,14 @@
         "saves": 1
       },
       "away": {
-        "possession": 46,
+        "possession": 44,
         "xg": 0.13,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 162,
-        "duelsWon": 29,
+        "accuratePasses": 167,
+        "duelsWon": 31,
         "boxTouches": 11,
-        "fouls": 10,
+        "fouls": 13,
         "corners": 9,
         "offsides": 0,
         "saves": 0
@@ -154,11 +154,11 @@
   "FL1": {
     "559639": {
       "home": {
-        "possession": 66,
+        "possession": 65,
         "xg": 0.42,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 237,
+        "accuratePasses": 270,
         "duelsWon": 17,
         "boxTouches": 11,
         "fouls": 3,
@@ -167,15 +167,15 @@
         "saves": 2
       },
       "away": {
-        "possession": 34,
-        "xg": 0.08,
-        "shots": 2,
+        "possession": 35,
+        "xg": 0.13,
+        "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 106,
-        "duelsWon": 17,
-        "boxTouches": 3,
+        "accuratePasses": 124,
+        "duelsWon": 20,
+        "boxTouches": 5,
         "fouls": 7,
-        "corners": 0,
+        "corners": 2,
         "offsides": 0,
         "saves": 1
       },
@@ -185,6 +185,12 @@
           "type": "yellow-card",
           "teamId": "546",
           "playerName": "Saud Abdulhamid"
+        },
+        {
+          "minute": "45'",
+          "type": "yellow-card",
+          "teamId": "521",
+          "playerName": "Davide Ancelotti"
         }
       ]
     },
@@ -392,23 +398,23 @@
         "xg": 0.03,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 85,
-        "duelsWon": 15,
-        "boxTouches": 2,
+        "accuratePasses": 103,
+        "duelsWon": 21,
+        "boxTouches": 5,
         "fouls": 4,
         "corners": 1,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
         "possession": 53,
-        "xg": 0.64,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 106,
-        "duelsWon": 13,
-        "boxTouches": 4,
-        "fouls": 4,
+        "xg": 0.84,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 131,
+        "duelsWon": 16,
+        "boxTouches": 9,
+        "fouls": 7,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -432,6 +438,12 @@
           "type": "yellow-card",
           "teamId": "6618",
           "playerName": "Khaly"
+        },
+        {
+          "minute": "29'",
+          "type": "yellow-card",
+          "teamId": "498",
+          "playerName": "Silas Andersen"
         }
       ]
     }
