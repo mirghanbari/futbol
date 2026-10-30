@@ -3444,14 +3444,14 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-30T18:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "533",
     "awayTeamId": "524",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "Stade Océane, Le Havre",
     "broadcasts": [
@@ -3468,14 +3468,14 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-30T18:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "522",
     "awayTeamId": "529",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Allianz Riviera, Nice",
     "broadcasts": [
