@@ -2,72 +2,80 @@
   "ELC": {
     "561916": {
       "home": {
-        "possession": 62,
-        "xg": 0.17,
-        "shots": 3,
-        "shotsOnTarget": 0,
-        "accuratePasses": 55,
-        "duelsWon": 6,
-        "boxTouches": 9,
-        "fouls": 1,
+        "possession": 66,
+        "xg": 0.22,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 82,
+        "duelsWon": 13,
+        "boxTouches": 10,
+        "fouls": 2,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 38,
+        "possession": 34,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 27,
-        "duelsWon": 10,
+        "accuratePasses": 34,
+        "duelsWon": 13,
         "boxTouches": 3,
-        "fouls": 2,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       }
     }
   },
   "PD": {
     "564737": {
       "home": {
-        "possession": 61,
+        "possession": 59,
         "xg": 0.2,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 95,
-        "duelsWon": 6,
-        "boxTouches": 3,
-        "fouls": 3,
+        "accuratePasses": 118,
+        "duelsWon": 9,
+        "boxTouches": 4,
+        "fouls": 4,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 39,
+        "possession": 41,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 52,
-        "duelsWon": 6,
+        "accuratePasses": 72,
+        "duelsWon": 7,
         "boxTouches": 1,
-        "fouls": 3,
-        "corners": 1,
+        "fouls": 4,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "22'",
+          "type": "yellow-card",
+          "teamId": "80",
+          "playerName": "Rafel Bauzà"
+        }
+      ]
     }
   },
   "BL1": {
     "565846": {
       "home": {
         "possession": 48,
-        "xg": 0.49,
+        "xg": 0.55,
         "shots": 7,
         "shotsOnTarget": 3,
         "accuratePasses": 152,
-        "duelsWon": 24,
+        "duelsWon": 23,
         "boxTouches": 11,
         "fouls": 4,
         "corners": 3,
@@ -115,7 +123,7 @@
           "playerName": "Danny da Costa"
         },
         {
-          "minute": "45'+2'",
+          "minute": "45'+1'",
           "type": "goal",
           "teamId": "719",
           "playerName": "Maurice Krattenmacher"
@@ -126,26 +134,26 @@
   "FL1": {
     "559639": {
       "home": {
-        "possession": 58,
+        "possession": 64,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 52,
-        "duelsWon": 5,
+        "accuratePasses": 108,
+        "duelsWon": 8,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 42,
+        "possession": 36,
         "xg": 0.06,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 36,
-        "duelsWon": 4,
+        "accuratePasses": 55,
+        "duelsWon": 7,
         "boxTouches": 2,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -354,6 +362,33 @@
         }
       ],
       "final": true
+    }
+  },
+  "PPL": {
+    "567344": {
+      "home": {
+        "possession": 36,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 12,
+        "duelsWon": 4,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 64,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 23,
+        "duelsWon": 3,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   }
 }
