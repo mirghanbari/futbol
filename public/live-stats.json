@@ -2,30 +2,30 @@
   "ELC": {
     "561916": {
       "home": {
-        "possession": 53,
+        "possession": 52,
         "xg": 0.93,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 349,
-        "duelsWon": 37,
-        "boxTouches": 33,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 362,
+        "duelsWon": 40,
+        "boxTouches": 34,
         "fouls": 8,
         "corners": 7,
         "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 47,
-        "xg": 0.27,
-        "shots": 5,
+        "possession": 48,
+        "xg": 0.44,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 300,
-        "duelsWon": 50,
-        "boxTouches": 10,
-        "fouls": 14,
+        "accuratePasses": 328,
+        "duelsWon": 51,
+        "boxTouches": 11,
+        "fouls": 15,
         "corners": 0,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -59,14 +59,14 @@
     "564737": {
       "home": {
         "possession": 63,
-        "xg": 0.82,
+        "xg": 0.84,
         "shots": 14,
         "shotsOnTarget": 4,
-        "accuratePasses": 491,
-        "duelsWon": 46,
-        "boxTouches": 30,
-        "fouls": 14,
-        "corners": 5,
+        "accuratePasses": 503,
+        "duelsWon": 48,
+        "boxTouches": 32,
+        "fouls": 15,
+        "corners": 7,
         "offsides": 0,
         "saves": 2
       },
@@ -75,10 +75,10 @@
         "xg": 0.2,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 257,
-        "duelsWon": 51,
+        "accuratePasses": 263,
+        "duelsWon": 55,
         "boxTouches": 6,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 3,
         "offsides": 0,
         "saves": 5
@@ -127,7 +127,8 @@
           "teamId": "94",
           "playerName": "Carlos Maciá"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
@@ -229,27 +230,27 @@
   "FL1": {
     "559639": {
       "home": {
-        "possession": 64,
-        "xg": 1.37,
-        "shots": 14,
+        "possession": 63,
+        "xg": 1.68,
+        "shots": 16,
         "shotsOnTarget": 7,
-        "accuratePasses": 477,
-        "duelsWon": 37,
-        "boxTouches": 21,
+        "accuratePasses": 503,
+        "duelsWon": 43,
+        "boxTouches": 22,
         "fouls": 7,
         "corners": 10,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 36,
+        "possession": 37,
         "xg": 0.18,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 236,
+        "accuratePasses": 260,
         "duelsWon": 45,
         "boxTouches": 14,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 2,
         "offsides": 0,
         "saves": 6
@@ -268,7 +269,7 @@
           "playerName": "Davide Ancelotti"
         },
         {
-          "minute": "87'",
+          "minute": "86'",
           "type": "goal",
           "teamId": "521",
           "playerName": "Olivier Giroud"
@@ -475,30 +476,30 @@
   "PPL": {
     "567344": {
       "home": {
-        "possession": 45,
-        "xg": 0.2,
-        "shots": 8,
-        "shotsOnTarget": 1,
-        "accuratePasses": 252,
-        "duelsWon": 34,
-        "boxTouches": 15,
-        "fouls": 7,
-        "corners": 1,
+        "possession": 46,
+        "xg": 0.26,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 269,
+        "duelsWon": 36,
+        "boxTouches": 18,
+        "fouls": 9,
+        "corners": 2,
         "offsides": 0,
-        "saves": 7
+        "saves": 8
       },
       "away": {
-        "possession": 55,
-        "xg": 1.14,
-        "shots": 17,
-        "shotsOnTarget": 7,
-        "accuratePasses": 318,
-        "duelsWon": 40,
-        "boxTouches": 16,
+        "possession": 54,
+        "xg": 1.78,
+        "shots": 19,
+        "shotsOnTarget": 9,
+        "accuratePasses": 325,
+        "duelsWon": 43,
+        "boxTouches": 18,
         "fouls": 10,
         "corners": 2,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
