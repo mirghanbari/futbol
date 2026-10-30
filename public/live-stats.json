@@ -2,28 +2,28 @@
   "BL1": {
     "565846": {
       "home": {
-        "possession": 60,
-        "xg": 0.21,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 116,
-        "duelsWon": 7,
-        "boxTouches": 7,
-        "fouls": 1,
+        "possession": 55,
+        "xg": 0.28,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 122,
+        "duelsWon": 9,
+        "boxTouches": 8,
+        "fouls": 2,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 40,
-        "xg": 0.04,
+        "possession": 45,
+        "xg": 0.05,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 54,
-        "duelsWon": 11,
-        "boxTouches": 4,
+        "accuratePasses": 79,
+        "duelsWon": 14,
+        "boxTouches": 6,
         "fouls": 3,
-        "corners": 4,
+        "corners": 5,
         "offsides": 0,
         "saves": 0
       },
@@ -40,6 +40,13 @@
           "teamId": "719",
           "playerName": "Felix Keidel",
           "method": "free kick"
+        },
+        {
+          "minute": "26'",
+          "type": "goal",
+          "teamId": "719",
+          "playerName": "Francis Onyeka",
+          "assist": "David Mokwa"
         }
       ]
     }
@@ -120,12 +127,12 @@
     },
     "559646": {
       "home": {
-        "possession": 46,
+        "possession": 47,
         "xg": 3.38,
         "shots": 17,
         "shotsOnTarget": 8,
-        "accuratePasses": 334,
-        "duelsWon": 48,
+        "accuratePasses": 350,
+        "duelsWon": 49,
         "boxTouches": 29,
         "fouls": 8,
         "corners": 4,
@@ -133,14 +140,14 @@
         "saves": 7
       },
       "away": {
-        "possession": 54,
+        "possession": 53,
         "xg": 2.6,
         "shots": 18,
         "shotsOnTarget": 9,
         "accuratePasses": 397,
         "duelsWon": 43,
         "boxTouches": 32,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 7,
         "offsides": 3,
         "saves": 3
@@ -211,14 +218,8 @@
         {
           "minute": "84'",
           "type": "yellow-card",
-          "teamId": "522",
-          "playerName": "Youssouf Ndayishimiye"
-        },
-        {
-          "minute": "84'",
-          "type": "yellow-card",
           "teamId": "529",
-          "playerName": "Mahdi Camara"
+          "playerName": "Charlie Cresswell"
         },
         {
           "minute": "84'",
@@ -230,15 +231,22 @@
           "minute": "84'",
           "type": "yellow-card",
           "teamId": "529",
-          "playerName": "Charlie Cresswell"
+          "playerName": "Mahdi Camara"
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
+          "teamId": "522",
+          "playerName": "Youssouf Ndayishimiye"
         },
         {
           "minute": "88'",
           "type": "yellow-card",
-          "teamId": "529",
-          "playerName": "Bryan Reynolds"
+          "teamId": "522",
+          "playerName": "Mohamed Amoura"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
