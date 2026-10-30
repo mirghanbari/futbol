@@ -482,9 +482,9 @@
         "xg": 0.31,
         "shots": 12,
         "shotsOnTarget": 2,
-        "accuratePasses": 329,
-        "duelsWon": 43,
-        "boxTouches": 21,
+        "accuratePasses": 330,
+        "duelsWon": 45,
+        "boxTouches": 22,
         "fouls": 11,
         "corners": 3,
         "offsides": 0,
@@ -492,13 +492,13 @@
       },
       "away": {
         "possession": 55,
-        "xg": 1.88,
-        "shots": 22,
-        "shotsOnTarget": 10,
-        "accuratePasses": 415,
-        "duelsWon": 51,
+        "xg": 2.45,
+        "shots": 23,
+        "shotsOnTarget": 11,
+        "accuratePasses": 422,
+        "duelsWon": 52,
         "boxTouches": 24,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 4,
         "offsides": 2,
         "saves": 2
@@ -528,8 +528,22 @@
           "type": "yellow-card",
           "teamId": "498",
           "playerName": "Silas Andersen"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "498",
+          "playerName": "Maxi Araújo"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "goal",
+          "teamId": "498",
+          "playerName": "Geny Catamo",
+          "assist": "Iván Fresneda"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
