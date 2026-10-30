@@ -2,27 +2,27 @@
   "ELC": {
     "561916": {
       "home": {
-        "possession": 66,
+        "possession": 65,
         "xg": 0.22,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 82,
+        "accuratePasses": 100,
         "duelsWon": 13,
         "boxTouches": 10,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 34,
+        "possession": 35,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 34,
+        "accuratePasses": 43,
         "duelsWon": 13,
         "boxTouches": 3,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -32,25 +32,25 @@
   "PD": {
     "564737": {
       "home": {
-        "possession": 59,
-        "xg": 0.2,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 118,
-        "duelsWon": 9,
-        "boxTouches": 4,
+        "possession": 58,
+        "xg": 0.25,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 138,
+        "duelsWon": 11,
+        "boxTouches": 6,
         "fouls": 4,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 41,
-        "xg": 0,
-        "shots": 0,
+        "possession": 42,
+        "xg": 0.02,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 72,
-        "duelsWon": 7,
+        "accuratePasses": 91,
+        "duelsWon": 11,
         "boxTouches": 1,
         "fouls": 4,
         "corners": 2,
@@ -59,7 +59,7 @@
       },
       "events": [
         {
-          "minute": "22'",
+          "minute": "21'",
           "type": "yellow-card",
           "teamId": "80",
           "playerName": "Rafel Bauzà"
@@ -134,29 +134,30 @@
   "FL1": {
     "559639": {
       "home": {
-        "possession": 64,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 108,
-        "duelsWon": 8,
+        "possession": 65,
+        "xg": 0.27,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 158,
+        "duelsWon": 11,
+        "boxTouches": 3,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 36,
+        "possession": 35,
         "xg": 0.06,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 55,
-        "duelsWon": 7,
+        "accuratePasses": 72,
+        "duelsWon": 12,
         "boxTouches": 2,
-        "fouls": 4,
+        "fouls": 6,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -367,28 +368,38 @@
   "PPL": {
     "567344": {
       "home": {
-        "possession": 36,
+        "possession": 45,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 12,
-        "duelsWon": 4,
+        "accuratePasses": 34,
+        "duelsWon": 7,
         "boxTouches": 1,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 64,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 23,
-        "duelsWon": 3,
+        "possession": 55,
+        "xg": 0.06,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 47,
+        "duelsWon": 4,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "9'",
+          "type": "yellow-card",
+          "teamId": "6618",
+          "playerName": "David Sousa"
+        }
+      ]
     }
   }
 }
