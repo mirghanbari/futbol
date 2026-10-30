@@ -12,26 +12,9 @@
     "draw": 2,
     "lost": 1,
     "points": 20,
-    "goalsFor": 18,
+    "goalsFor": 21,
     "goalsAgainst": 10,
-    "goalDifference": 8
-  },
-  {
-    "id": "529",
-    "name": "Stade Rennais FC 1901",
-    "shortName": "Stade Rennais",
-    "tla": "REN",
-    "crest": "https://crests.football-data.org/529.png",
-    "competitionId": "FL1",
-    "position": 2,
-    "playedGames": 9,
-    "won": 5,
-    "draw": 1,
-    "lost": 3,
-    "points": 16,
-    "goalsFor": 19,
-    "goalsAgainst": 16,
-    "goalDifference": 3
+    "goalDifference": 11
   },
   {
     "id": "521",
@@ -40,15 +23,32 @@
     "tla": "LIL",
     "crest": "https://crests.football-data.org/521.png",
     "competitionId": "FL1",
-    "position": 3,
-    "playedGames": 8,
-    "won": 4,
+    "position": 2,
+    "playedGames": 9,
+    "won": 5,
     "draw": 3,
     "lost": 1,
-    "points": 15,
-    "goalsFor": 11,
+    "points": 18,
+    "goalsFor": 12,
     "goalsAgainst": 6,
-    "goalDifference": 5
+    "goalDifference": 6
+  },
+  {
+    "id": "529",
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png",
+    "competitionId": "FL1",
+    "position": 3,
+    "playedGames": 9,
+    "won": 5,
+    "draw": 1,
+    "lost": 3,
+    "points": 16,
+    "goalsFor": 20,
+    "goalsAgainst": 19,
+    "goalDifference": 1
   },
   {
     "id": "548",
@@ -114,9 +114,9 @@
     "draw": 2,
     "lost": 3,
     "points": 14,
-    "goalsFor": 10,
-    "goalsAgainst": 11,
-    "goalDifference": -1
+    "goalsFor": 13,
+    "goalsAgainst": 12,
+    "goalDifference": 1
   },
   {
     "id": "546",
@@ -126,14 +126,14 @@
     "crest": "https://crests.football-data.org/546.png",
     "competitionId": "FL1",
     "position": 8,
-    "playedGames": 8,
+    "playedGames": 9,
     "won": 4,
     "draw": 1,
-    "lost": 3,
+    "lost": 4,
     "points": 13,
     "goalsFor": 16,
-    "goalsAgainst": 12,
-    "goalDifference": 4
+    "goalsAgainst": 13,
+    "goalDifference": 3
   },
   {
     "id": "516",
@@ -302,7 +302,7 @@
     "lost": 7,
     "points": 2,
     "goalsFor": 9,
-    "goalsAgainst": 17,
-    "goalDifference": -8
+    "goalsAgainst": 20,
+    "goalDifference": -11
   }
 ]

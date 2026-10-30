@@ -3444,14 +3444,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-30T18:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "533",
     "awayTeamId": "524",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 29,
+        "xg": 2.01,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 242,
+        "duelsWon": 54,
+        "boxTouches": 24,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 5
+      },
+      "away": {
+        "possession": 71,
+        "xg": 3.97,
+        "shots": 15,
+        "shotsOnTarget": 10,
+        "accuratePasses": 710,
+        "duelsWon": 48,
+        "boxTouches": 31,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Stade Océane, Le Havre",
     "broadcasts": [
@@ -3468,14 +3496,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-30T18:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "522",
     "awayTeamId": "529",
     "homeTeam": {
-      "goals": 2
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 3.38,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 352,
+        "duelsWon": 49,
+        "boxTouches": 29,
+        "fouls": 8,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 7
+      },
+      "away": {
+        "possession": 52,
+        "xg": 2.6,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 397,
+        "duelsWon": 43,
+        "boxTouches": 32,
+        "fouls": 10,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Allianz Riviera, Nice",
     "broadcasts": [
@@ -3492,14 +3548,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-30T20:05:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "521",
     "awayTeamId": "546",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 1.72,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 509,
+        "duelsWon": 45,
+        "boxTouches": 22,
+        "fouls": 7,
+        "corners": 10,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 38,
+        "xg": 0.18,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 265,
+        "duelsWon": 43,
+        "boxTouches": 14,
+        "fouls": 14,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 6
+      }
     },
     "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
     "broadcasts": [

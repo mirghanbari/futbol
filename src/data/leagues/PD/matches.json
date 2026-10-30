@@ -5424,14 +5424,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-30T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "94",
     "awayTeamId": "80",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 0.84,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 503,
+        "duelsWon": 48,
+        "boxTouches": 32,
+        "fouls": 15,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.2,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 263,
+        "duelsWon": 55,
+        "boxTouches": 6,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "Estadio de la Cerámica, Villarreal",
     "broadcasts": [

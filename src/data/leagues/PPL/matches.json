@@ -3732,14 +3732,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-10-30T20:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "6618",
     "awayTeamId": "498",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 0.31,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 330,
+        "duelsWon": 45,
+        "boxTouches": 22,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 9
+      },
+      "away": {
+        "possession": 55,
+        "xg": 2.65,
+        "shots": 23,
+        "shotsOnTarget": 11,
+        "accuratePasses": 424,
+        "duelsWon": 52,
+        "boxTouches": 24,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Estádio Municipal de Rio Maior, Rio Maior"
   },
