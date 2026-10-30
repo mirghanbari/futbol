@@ -2,29 +2,29 @@
   "FL1": {
     "559644": {
       "home": {
-        "possession": 22,
+        "possession": 23,
         "xg": 1.2,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 46,
-        "duelsWon": 20,
-        "boxTouches": 7,
-        "fouls": 2,
+        "accuratePasses": 56,
+        "duelsWon": 22,
+        "boxTouches": 9,
+        "fouls": 3,
         "corners": 1,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 78,
-        "xg": 0.73,
-        "shots": 4,
-        "shotsOnTarget": 3,
-        "accuratePasses": 233,
-        "duelsWon": 8,
-        "boxTouches": 11,
-        "fouls": 2,
+        "possession": 77,
+        "xg": 0.83,
+        "shots": 5,
+        "shotsOnTarget": 4,
+        "accuratePasses": 249,
+        "duelsWon": 15,
+        "boxTouches": 13,
+        "fouls": 4,
         "corners": 2,
-        "offsides": 1,
+        "offsides": 0,
         "saves": 0
       },
       "events": [
@@ -41,20 +41,27 @@
           "teamId": "524",
           "playerName": "Mika Godts",
           "assist": "Achraf Hakimi"
+        },
+        {
+          "minute": "28'",
+          "type": "goal",
+          "teamId": "524",
+          "playerName": "Achraf Hakimi",
+          "assist": "Senny Mayulu"
         }
       ]
     },
     "559646": {
       "home": {
         "possession": 57,
-        "xg": 1.01,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 155,
-        "duelsWon": 10,
-        "boxTouches": 7,
+        "xg": 1.15,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 175,
+        "duelsWon": 13,
+        "boxTouches": 13,
         "fouls": 2,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 1
       },
@@ -63,10 +70,10 @@
         "xg": 0.66,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 105,
-        "duelsWon": 10,
+        "accuratePasses": 119,
+        "duelsWon": 11,
         "boxTouches": 9,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 2,
         "offsides": 1,
         "saves": 1
@@ -86,6 +93,13 @@
           "playerName": "Sebastian Szymański",
           "method": "header",
           "assist": "Mahamadou Nagida"
+        },
+        {
+          "minute": "35'",
+          "type": "goal",
+          "teamId": "522",
+          "playerName": "Elye Wahi",
+          "penalty": true
         }
       ]
     }
