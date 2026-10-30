@@ -2,25 +2,25 @@
   "FL1": {
     "559644": {
       "home": {
-        "possession": 27,
-        "xg": 1.28,
-        "shots": 8,
+        "possession": 26,
+        "xg": 1.32,
+        "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 133,
-        "duelsWon": 34,
-        "boxTouches": 12,
+        "accuratePasses": 145,
+        "duelsWon": 38,
+        "boxTouches": 14,
         "fouls": 9,
         "corners": 1,
         "offsides": 3,
         "saves": 4
       },
       "away": {
-        "possession": 73,
-        "xg": 1.37,
-        "shots": 9,
-        "shotsOnTarget": 7,
-        "accuratePasses": 458,
-        "duelsWon": 28,
+        "possession": 74,
+        "xg": 2.15,
+        "shots": 11,
+        "shotsOnTarget": 8,
+        "accuratePasses": 511,
+        "duelsWon": 33,
         "boxTouches": 23,
         "fouls": 7,
         "corners": 2,
@@ -55,32 +55,39 @@
           "teamId": "524",
           "playerName": "Achraf Hakimi",
           "method": "free kick"
+        },
+        {
+          "minute": "62'",
+          "type": "goal",
+          "teamId": "524",
+          "playerName": "Senny Mayulu",
+          "assist": "Achraf Hakimi"
         }
       ]
     },
     "559646": {
       "home": {
         "possession": 48,
-        "xg": 2.91,
-        "shots": 13,
+        "xg": 3.19,
+        "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 234,
-        "duelsWon": 25,
-        "boxTouches": 20,
-        "fouls": 4,
+        "accuratePasses": 246,
+        "duelsWon": 27,
+        "boxTouches": 21,
+        "fouls": 5,
         "corners": 3,
         "offsides": 2,
-        "saves": 3
+        "saves": 4
       },
       "away": {
         "possession": 52,
-        "xg": 1.47,
-        "shots": 11,
-        "shotsOnTarget": 4,
-        "accuratePasses": 258,
-        "duelsWon": 20,
-        "boxTouches": 19,
-        "fouls": 4,
+        "xg": 2.27,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 274,
+        "duelsWon": 26,
+        "boxTouches": 21,
+        "fouls": 5,
         "corners": 5,
         "offsides": 1,
         "saves": 1
@@ -121,6 +128,25 @@
           "teamId": "522",
           "playerName": "Mohamed Amoura",
           "assist": "Sofiane Diop"
+        },
+        {
+          "minute": "58'",
+          "type": "goal",
+          "teamId": "529",
+          "playerName": "Boulaye Dia",
+          "penalty": true
+        },
+        {
+          "minute": "61'",
+          "type": "yellow-card",
+          "teamId": "529",
+          "playerName": "Anthony Rouault"
+        },
+        {
+          "minute": "62'",
+          "type": "yellow-card",
+          "teamId": "522",
+          "playerName": "Elye Wahi"
         }
       ]
     }
