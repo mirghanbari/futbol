@@ -2,28 +2,28 @@
   "BL1": {
     "565846": {
       "home": {
-        "possession": 69,
+        "possession": 60,
         "xg": 0.21,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 108,
-        "duelsWon": 4,
-        "boxTouches": 6,
+        "accuratePasses": 116,
+        "duelsWon": 7,
+        "boxTouches": 7,
         "fouls": 1,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 31,
+        "possession": 40,
         "xg": 0.04,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 32,
-        "duelsWon": 5,
-        "boxTouches": 2,
+        "accuratePasses": 54,
+        "duelsWon": 11,
+        "boxTouches": 4,
         "fouls": 3,
-        "corners": 3,
+        "corners": 4,
         "offsides": 0,
         "saves": 0
       },
@@ -48,14 +48,14 @@
     "559644": {
       "home": {
         "possession": 29,
-        "xg": 1.51,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 233,
-        "duelsWon": 49,
-        "boxTouches": 21,
-        "fouls": 13,
-        "corners": 4,
+        "xg": 1.88,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 243,
+        "duelsWon": 53,
+        "boxTouches": 24,
+        "fouls": 14,
+        "corners": 5,
         "offsides": 3,
         "saves": 5
       },
@@ -64,13 +64,13 @@
         "xg": 3.07,
         "shots": 15,
         "shotsOnTarget": 10,
-        "accuratePasses": 705,
-        "duelsWon": 46,
+        "accuratePasses": 710,
+        "duelsWon": 48,
         "boxTouches": 33,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 3,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -115,34 +115,35 @@
           "playerName": "Achraf Hakimi",
           "assist": "Mika Godts"
         }
-      ]
+      ],
+      "final": true
     },
     "559646": {
       "home": {
-        "possession": 45,
-        "xg": 3.35,
-        "shots": 16,
-        "shotsOnTarget": 7,
-        "accuratePasses": 311,
-        "duelsWon": 42,
-        "boxTouches": 26,
-        "fouls": 7,
-        "corners": 3,
-        "offsides": 2,
-        "saves": 6
-      },
-      "away": {
-        "possession": 55,
-        "xg": 2.55,
+        "possession": 46,
+        "xg": 3.38,
         "shots": 17,
         "shotsOnTarget": 8,
-        "accuratePasses": 389,
-        "duelsWon": 40,
-        "boxTouches": 31,
+        "accuratePasses": 334,
+        "duelsWon": 48,
+        "boxTouches": 29,
         "fouls": 8,
-        "corners": 6,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 7
+      },
+      "away": {
+        "possession": 54,
+        "xg": 2.6,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 397,
+        "duelsWon": 43,
+        "boxTouches": 32,
+        "fouls": 9,
+        "corners": 7,
         "offsides": 3,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -210,6 +211,12 @@
         {
           "minute": "84'",
           "type": "yellow-card",
+          "teamId": "522",
+          "playerName": "Youssouf Ndayishimiye"
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
           "teamId": "529",
           "playerName": "Mahdi Camara"
         },
@@ -224,12 +231,6 @@
           "type": "yellow-card",
           "teamId": "529",
           "playerName": "Charlie Cresswell"
-        },
-        {
-          "minute": "85'",
-          "type": "yellow-card",
-          "teamId": "522",
-          "playerName": "Youssouf Ndayishimiye"
         },
         {
           "minute": "88'",
