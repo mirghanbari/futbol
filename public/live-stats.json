@@ -6,8 +6,8 @@
         "xg": 0.81,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 240,
-        "duelsWon": 25,
+        "accuratePasses": 242,
+        "duelsWon": 24,
         "boxTouches": 23,
         "fouls": 3,
         "corners": 3,
@@ -19,8 +19,8 @@
         "xg": 0.12,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 165,
-        "duelsWon": 27,
+        "accuratePasses": 166,
+        "duelsWon": 28,
         "boxTouches": 6,
         "fouls": 10,
         "corners": 0,
@@ -50,11 +50,11 @@
         "xg": 0.39,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 248,
-        "duelsWon": 18,
-        "boxTouches": 13,
-        "fouls": 6,
-        "corners": 2,
+        "accuratePasses": 281,
+        "duelsWon": 20,
+        "boxTouches": 14,
+        "fouls": 7,
+        "corners": 3,
         "offsides": 0,
         "saves": 1
       },
@@ -63,10 +63,10 @@
         "xg": 0.07,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 135,
-        "duelsWon": 27,
+        "accuratePasses": 149,
+        "duelsWon": 29,
         "boxTouches": 5,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 3,
         "offsides": 0,
         "saves": 2
@@ -90,27 +90,27 @@
   "BL1": {
     "565846": {
       "home": {
-        "possession": 55,
-        "xg": 0.8,
+        "possession": 54,
+        "xg": 0.81,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 280,
-        "duelsWon": 40,
+        "accuratePasses": 289,
+        "duelsWon": 44,
         "boxTouches": 13,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 5,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 45,
-        "xg": 0.16,
-        "shots": 7,
+        "possession": 46,
+        "xg": 0.39,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 196,
-        "duelsWon": 35,
-        "boxTouches": 13,
-        "fouls": 16,
+        "accuratePasses": 210,
+        "duelsWon": 41,
+        "boxTouches": 14,
+        "fouls": 17,
         "corners": 11,
         "offsides": 1,
         "saves": 1
@@ -147,6 +147,12 @@
           "type": "goal",
           "teamId": "719",
           "playerName": "Maurice Krattenmacher"
+        },
+        {
+          "minute": "76'",
+          "type": "yellow-card",
+          "teamId": "15",
+          "playerName": "Ransford Königsdörffer"
         }
       ]
     }
@@ -154,12 +160,12 @@
   "FL1": {
     "559639": {
       "home": {
-        "possession": 64,
-        "xg": 0.42,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 279,
-        "duelsWon": 17,
+        "possession": 63,
+        "xg": 0.44,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 286,
+        "duelsWon": 20,
         "boxTouches": 12,
         "fouls": 3,
         "corners": 5,
@@ -167,12 +173,12 @@
         "saves": 2
       },
       "away": {
-        "possession": 36,
+        "possession": 37,
         "xg": 0.14,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 134,
-        "duelsWon": 21,
+        "accuratePasses": 146,
+        "duelsWon": 24,
         "boxTouches": 5,
         "fouls": 7,
         "corners": 2,
@@ -394,12 +400,12 @@
   "PPL": {
     "567344": {
       "home": {
-        "possession": 45,
+        "possession": 46,
         "xg": 0.1,
-        "shots": 3,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 146,
-        "duelsWon": 24,
+        "accuratePasses": 158,
+        "duelsWon": 28,
         "boxTouches": 8,
         "fouls": 6,
         "corners": 1,
@@ -407,14 +413,14 @@
         "saves": 4
       },
       "away": {
-        "possession": 55,
+        "possession": 54,
         "xg": 1.05,
         "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 196,
-        "duelsWon": 22,
+        "accuratePasses": 197,
+        "duelsWon": 24,
         "boxTouches": 14,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 1,
         "offsides": 0,
         "saves": 0
