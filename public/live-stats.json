@@ -3,28 +3,28 @@
     "559644": {
       "home": {
         "possession": 22,
-        "xg": 1.06,
-        "shots": 3,
+        "xg": 1.2,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 42,
-        "duelsWon": 18,
-        "boxTouches": 6,
+        "accuratePasses": 46,
+        "duelsWon": 20,
+        "boxTouches": 7,
         "fouls": 2,
         "corners": 1,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
         "possession": 78,
-        "xg": 0.04,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 207,
+        "xg": 0.73,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 233,
         "duelsWon": 8,
-        "boxTouches": 6,
+        "boxTouches": 11,
         "fouls": 2,
-        "corners": 1,
-        "offsides": 0,
+        "corners": 2,
+        "offsides": 1,
         "saves": 0
       },
       "events": [
@@ -34,31 +34,38 @@
           "teamId": "533",
           "playerName": "Josh Maja",
           "assist": "Rayan Fofana"
+        },
+        {
+          "minute": "26'",
+          "type": "goal",
+          "teamId": "524",
+          "playerName": "Mika Godts",
+          "assist": "Achraf Hakimi"
         }
       ]
     },
     "559646": {
       "home": {
-        "possession": 55,
-        "xg": 0.97,
-        "shots": 3,
+        "possession": 57,
+        "xg": 1.01,
+        "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 121,
-        "duelsWon": 7,
-        "boxTouches": 4,
+        "accuratePasses": 155,
+        "duelsWon": 10,
+        "boxTouches": 7,
         "fouls": 2,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 45,
-        "xg": 0.57,
-        "shots": 5,
+        "possession": 43,
+        "xg": 0.66,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 89,
-        "duelsWon": 8,
-        "boxTouches": 7,
+        "accuratePasses": 105,
+        "duelsWon": 10,
+        "boxTouches": 9,
         "fouls": 1,
         "corners": 2,
         "offsides": 1,
