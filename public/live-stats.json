@@ -2,60 +2,74 @@
   "ELC": {
     "561916": {
       "home": {
-        "possession": 65,
-        "xg": 0.22,
-        "shots": 4,
-        "shotsOnTarget": 1,
-        "accuratePasses": 100,
-        "duelsWon": 13,
-        "boxTouches": 10,
-        "fouls": 3,
+        "possession": 67,
+        "xg": 0.4,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 148,
+        "duelsWon": 18,
+        "boxTouches": 14,
+        "fouls": 2,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 35,
-        "xg": 0,
-        "shots": 0,
+        "possession": 33,
+        "xg": 0.06,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 43,
-        "duelsWon": 13,
-        "boxTouches": 3,
-        "fouls": 5,
+        "accuratePasses": 62,
+        "duelsWon": 16,
+        "boxTouches": 5,
+        "fouls": 8,
         "corners": 0,
         "offsides": 0,
-        "saves": 1
-      }
+        "saves": 2
+      },
+      "events": [
+        {
+          "minute": "27'",
+          "type": "yellow-card",
+          "teamId": "404",
+          "playerName": "Callum Doyle"
+        },
+        {
+          "minute": "30'",
+          "type": "goal",
+          "teamId": "356",
+          "playerName": "Ben Brereton"
+        }
+      ]
     }
   },
   "PD": {
     "564737": {
       "home": {
-        "possession": 58,
+        "possession": 57,
         "xg": 0.25,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 138,
-        "duelsWon": 11,
-        "boxTouches": 6,
-        "fouls": 4,
+        "accuratePasses": 156,
+        "duelsWon": 13,
+        "boxTouches": 9,
+        "fouls": 5,
         "corners": 2,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 42,
-        "xg": 0.02,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 91,
-        "duelsWon": 11,
-        "boxTouches": 1,
+        "possession": 43,
+        "xg": 0.04,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 110,
+        "duelsWon": 14,
+        "boxTouches": 3,
         "fouls": 4,
         "corners": 2,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -134,25 +148,25 @@
   "FL1": {
     "559639": {
       "home": {
-        "possession": 65,
+        "possession": 68,
         "xg": 0.27,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 158,
+        "accuratePasses": 199,
         "duelsWon": 11,
-        "boxTouches": 3,
+        "boxTouches": 7,
         "fouls": 2,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 35,
+        "possession": 32,
         "xg": 0.06,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 72,
-        "duelsWon": 12,
+        "accuratePasses": 80,
+        "duelsWon": 16,
         "boxTouches": 2,
         "fouls": 6,
         "corners": 0,
@@ -368,25 +382,26 @@
   "PPL": {
     "567344": {
       "home": {
-        "possession": 45,
-        "xg": 0,
+        "possession": 43,
+        "xg": 0.03,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 34,
-        "duelsWon": 7,
-        "boxTouches": 1,
-        "fouls": 1,
+        "accuratePasses": 43,
+        "duelsWon": 10,
+        "boxTouches": 2,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 55,
-        "xg": 0.06,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 47,
-        "duelsWon": 4,
+        "possession": 57,
+        "xg": 0.53,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 67,
+        "duelsWon": 7,
+        "boxTouches": 3,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
@@ -398,6 +413,13 @@
           "type": "yellow-card",
           "teamId": "6618",
           "playerName": "David Sousa"
+        },
+        {
+          "minute": "13'",
+          "type": "goal",
+          "teamId": "498",
+          "playerName": "Pedro Lima",
+          "assist": "Iván Fresneda"
         }
       ]
     }
