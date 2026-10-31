@@ -365,29 +365,29 @@
     },
     "560628": {
       "home": {
-        "possession": 56,
+        "possession": 51,
         "xg": 0.98,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 116,
-        "duelsWon": 9,
+        "accuratePasses": 126,
+        "duelsWon": 11,
         "boxTouches": 10,
-        "fouls": 1,
-        "corners": 4,
-        "offsides": 0,
+        "fouls": 2,
+        "corners": 5,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 44,
+        "possession": 49,
         "xg": 0.3,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 90,
-        "duelsWon": 9,
+        "accuratePasses": 119,
+        "duelsWon": 11,
         "boxTouches": 2,
         "fouls": 3,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       }
     },
@@ -1458,29 +1458,29 @@
     },
     "564732": {
       "home": {
-        "possession": 76,
-        "xg": 0.62,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 199,
-        "duelsWon": 7,
-        "boxTouches": 4,
+        "possession": 74,
+        "xg": 0.7,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 247,
+        "duelsWon": 9,
+        "boxTouches": 6,
         "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 24,
+        "possession": 26,
         "xg": 0.35,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 51,
-        "duelsWon": 6,
+        "accuratePasses": 70,
+        "duelsWon": 8,
         "boxTouches": 4,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "events": [
@@ -1490,6 +1490,19 @@
           "teamId": "81",
           "playerName": "Raphinha",
           "assist": "Fermín López"
+        },
+        {
+          "minute": "23'",
+          "type": "goal",
+          "teamId": "81",
+          "playerName": "Fermín López",
+          "assist": "Lamine Yamal"
+        },
+        {
+          "minute": "27'",
+          "type": "yellow-card",
+          "teamId": "263",
+          "playerName": "Carlos Protesoni"
         }
       ]
     },
@@ -2287,12 +2300,12 @@
     "558548": {
       "home": {
         "possession": 46,
-        "xg": 0.39,
-        "shots": 3,
+        "xg": 0.52,
+        "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 146,
-        "duelsWon": 9,
-        "boxTouches": 6,
+        "accuratePasses": 171,
+        "duelsWon": 12,
+        "boxTouches": 7,
         "fouls": 3,
         "corners": 1,
         "offsides": 0,
@@ -2303,10 +2316,10 @@
         "xg": 1.03,
         "shots": 8,
         "shotsOnTarget": 5,
-        "accuratePasses": 165,
+        "accuratePasses": 193,
         "duelsWon": 17,
-        "boxTouches": 8,
-        "fouls": 2,
+        "boxTouches": 9,
+        "fouls": 4,
         "corners": 7,
         "offsides": 1,
         "saves": 0
@@ -2341,12 +2354,12 @@
   "FL1": {
     "559643": {
       "home": {
-        "possession": 48,
+        "possession": 44,
         "xg": 0.13,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 164,
-        "duelsWon": 24,
+        "accuratePasses": 190,
+        "duelsWon": 27,
         "boxTouches": 6,
         "fouls": 7,
         "corners": 0,
@@ -2354,15 +2367,15 @@
         "saves": 0
       },
       "away": {
-        "possession": 52,
-        "xg": 0,
-        "shots": 0,
+        "possession": 56,
+        "xg": 0.07,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 187,
-        "duelsWon": 22,
+        "accuratePasses": 260,
+        "duelsWon": 24,
         "boxTouches": 2,
-        "fouls": 4,
-        "corners": 1,
+        "fouls": 5,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
@@ -2386,25 +2399,25 @@
   "DED": {
     "558850": {
       "home": {
-        "possession": 57,
+        "possession": 52,
         "xg": 0.74,
         "shots": 7,
         "shotsOnTarget": 3,
         "accuratePasses": 101,
         "duelsWon": 12,
         "boxTouches": 11,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 4,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 43,
+        "possession": 48,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 66,
-        "duelsWon": 9,
+        "accuratePasses": 85,
+        "duelsWon": 10,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
@@ -2430,27 +2443,27 @@
     },
     "558851": {
       "home": {
-        "possession": 46,
+        "possession": 53,
         "xg": 0.25,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 98,
-        "duelsWon": 9,
-        "boxTouches": 6,
-        "fouls": 4,
+        "accuratePasses": 180,
+        "duelsWon": 11,
+        "boxTouches": 7,
+        "fouls": 5,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 54,
-        "xg": 0.04,
-        "shots": 1,
+        "possession": 47,
+        "xg": 0.07,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 119,
-        "duelsWon": 9,
-        "boxTouches": 4,
-        "fouls": 2,
+        "accuratePasses": 162,
+        "duelsWon": 10,
+        "boxTouches": 6,
+        "fouls": 3,
         "corners": 0,
         "offsides": 3,
         "saves": 0
@@ -2463,6 +2476,18 @@
           "playerName": "Tolu Arokodare",
           "method": "header",
           "assist": "Abdellah Ouazane"
+        },
+        {
+          "minute": "26'",
+          "type": "yellow-card",
+          "teamId": "682",
+          "playerName": "Weslley Pinto"
+        },
+        {
+          "minute": "30'",
+          "type": "yellow-card",
+          "teamId": "678",
+          "playerName": "Abdellah Ouazane"
         }
       ]
     },
