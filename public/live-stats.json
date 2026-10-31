@@ -1913,30 +1913,30 @@
     },
     "558542": {
       "home": {
-        "possession": 41,
-        "xg": 0.06,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 89,
-        "duelsWon": 14,
+        "possession": 46,
+        "xg": 0.09,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 127,
+        "duelsWon": 15,
         "boxTouches": 2,
         "fouls": 6,
         "corners": 2,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 59,
-        "xg": 0.08,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 141,
-        "duelsWon": 15,
-        "boxTouches": 3,
+        "possession": 54,
+        "xg": 1.05,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 157,
+        "duelsWon": 16,
+        "boxTouches": 8,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -1952,6 +1952,12 @@
           "type": "yellow-card",
           "teamId": "115",
           "playerName": "Lennon Miller"
+        },
+        {
+          "minute": "31'",
+          "type": "goal",
+          "teamId": "100",
+          "playerName": "<TBD>"
         }
       ]
     }
@@ -1959,26 +1965,26 @@
   "DED": {
     "558854": {
       "home": {
-        "possession": 70,
-        "xg": 2.41,
-        "shots": 14,
+        "possession": 69,
+        "xg": 2.56,
+        "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 647,
+        "accuratePasses": 660,
         "duelsWon": 44,
-        "boxTouches": 41,
-        "fouls": 5,
+        "boxTouches": 43,
+        "fouls": 6,
         "corners": 6,
         "offsides": 5,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 30,
-        "xg": 0.78,
-        "shots": 9,
-        "shotsOnTarget": 2,
-        "accuratePasses": 229,
-        "duelsWon": 47,
-        "boxTouches": 10,
+        "possession": 31,
+        "xg": 0.89,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 240,
+        "duelsWon": 50,
+        "boxTouches": 11,
         "fouls": 13,
         "corners": 1,
         "offsides": 0,
@@ -2005,36 +2011,37 @@
           "playerName": "Shiloh Zand",
           "assist": "Sven Simons"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PPL": {
     "567343": {
       "home": {
-        "possession": 52,
-        "xg": 0.36,
-        "shots": 9,
-        "shotsOnTarget": 2,
-        "accuratePasses": 325,
-        "duelsWon": 55,
-        "boxTouches": 10,
+        "possession": 53,
+        "xg": 0.42,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 357,
+        "duelsWon": 59,
+        "boxTouches": 11,
         "fouls": 10,
         "corners": 3,
         "offsides": 4,
         "saves": 0
       },
       "away": {
-        "possession": 48,
+        "possession": 47,
         "xg": 0.68,
         "shots": 11,
         "shotsOnTarget": 1,
-        "accuratePasses": 279,
-        "duelsWon": 55,
-        "boxTouches": 19,
+        "accuratePasses": 294,
+        "duelsWon": 57,
+        "boxTouches": 20,
         "fouls": 15,
         "corners": 2,
-        "offsides": 2,
-        "saves": 1
+        "offsides": 3,
+        "saves": 2
       },
       "events": [
         {
@@ -2055,6 +2062,13 @@
           "type": "goal",
           "teamId": "9136",
           "playerName": "Lovro Zvonarek"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "goal",
+          "teamId": "583",
+          "playerName": "Nile John",
+          "assist": "Tiago Andrade"
         }
       ]
     }
