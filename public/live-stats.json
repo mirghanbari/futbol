@@ -2221,27 +2221,28 @@
     },
     "558548": {
       "home": {
-        "possession": 56,
-        "xg": 0.26,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 27,
-        "duelsWon": 2,
-        "boxTouches": 1,
+        "possession": 53,
+        "xg": 0.36,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 62,
+        "duelsWon": 4,
+        "boxTouches": 3,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 44,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 19,
-        "duelsWon": 2,
+        "possession": 47,
+        "xg": 0.02,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 49,
+        "duelsWon": 5,
+        "boxTouches": 2,
         "fouls": 0,
-        "corners": 0,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
@@ -2253,6 +2254,13 @@
           "playerName": "Christian Pulisic",
           "method": "header",
           "assist": "Diego Moreira"
+        },
+        {
+          "minute": "10'",
+          "type": "goal",
+          "teamId": "98",
+          "playerName": "Adrien Rabiot",
+          "assist": "Luka Modrić"
         }
       ]
     }
@@ -2260,23 +2268,25 @@
   "FL1": {
     "559643": {
       "home": {
-        "possession": 48,
+        "possession": 51,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 20,
-        "duelsWon": 2,
+        "accuratePasses": 90,
+        "duelsWon": 14,
+        "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 52,
+        "possession": 49,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 24,
-        "duelsWon": 6,
-        "fouls": 0,
+        "accuratePasses": 89,
+        "duelsWon": 9,
+        "boxTouches": 1,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -2284,6 +2294,31 @@
     }
   },
   "DED": {
+    "558851": {
+      "home": {
+        "possession": 6,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 0,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 94,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 12,
+        "duelsWon": 0,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "558852": {
       "home": {
         "possession": 38,
