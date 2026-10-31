@@ -366,12 +366,12 @@
     "560628": {
       "home": {
         "possession": 45,
-        "xg": 1.7,
-        "shots": 15,
+        "xg": 1.71,
+        "shots": 16,
         "shotsOnTarget": 3,
-        "accuratePasses": 371,
+        "accuratePasses": 372,
         "duelsWon": 43,
-        "boxTouches": 23,
+        "boxTouches": 24,
         "fouls": 7,
         "corners": 7,
         "offsides": 2,
@@ -382,8 +382,8 @@
         "xg": 2.21,
         "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 473,
-        "duelsWon": 39,
+        "accuratePasses": 474,
+        "duelsWon": 40,
         "boxTouches": 40,
         "fouls": 12,
         "corners": 7,
@@ -424,12 +424,13 @@
           "playerName": "Matty Cash"
         },
         {
-          "minute": "78'",
+          "minute": "77'",
           "type": "yellow-card",
           "teamId": "63",
           "playerName": "Tom Cairney"
         }
-      ]
+      ],
+      "final": true
     },
     "560629": {
       "home": {
@@ -1502,8 +1503,8 @@
         "xg": 3.19,
         "shots": 13,
         "shotsOnTarget": 7,
-        "accuratePasses": 748,
-        "duelsWon": 38,
+        "accuratePasses": 771,
+        "duelsWon": 40,
         "boxTouches": 32,
         "fouls": 14,
         "corners": 3,
@@ -1512,15 +1513,15 @@
       },
       "away": {
         "possession": 23,
-        "xg": 0.56,
-        "shots": 6,
+        "xg": 0.62,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 181,
+        "accuratePasses": 182,
         "duelsWon": 28,
-        "boxTouches": 10,
+        "boxTouches": 12,
         "fouls": 11,
         "corners": 3,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 1
       },
       "events": [
@@ -1602,7 +1603,8 @@
           "teamId": "263",
           "playerName": "Mariano Díaz"
         }
-      ]
+      ],
+      "final": true
     },
     "564735": {
       "home": {
@@ -2659,12 +2661,12 @@
       },
       "away": {
         "possession": 52,
-        "xg": 1.09,
-        "shots": 17,
-        "shotsOnTarget": 4,
-        "accuratePasses": 448,
+        "xg": 1.25,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 452,
         "duelsWon": 48,
-        "boxTouches": 31,
+        "boxTouches": 34,
         "fouls": 12,
         "corners": 8,
         "offsides": 4,
@@ -2697,7 +2699,8 @@
           "teamId": "682",
           "playerName": "Mees de Wit"
         }
-      ]
+      ],
+      "final": true
     },
     "558852": {
       "home": {
@@ -2921,29 +2924,29 @@
   "PPL": {
     "567338": {
       "home": {
-        "possession": 71,
-        "xg": 2.09,
-        "shots": 18,
-        "shotsOnTarget": 6,
-        "accuratePasses": 376,
-        "duelsWon": 30,
-        "boxTouches": 37,
+        "possession": 70,
+        "xg": 2.13,
+        "shots": 19,
+        "shotsOnTarget": 7,
+        "accuratePasses": 413,
+        "duelsWon": 34,
+        "boxTouches": 41,
         "fouls": 7,
         "corners": 8,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 29,
+        "possession": 30,
         "xg": 0.21,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 136,
-        "duelsWon": 24,
+        "accuratePasses": 152,
+        "duelsWon": 25,
         "boxTouches": 4,
-        "fouls": 4,
+        "fouls": 6,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 5
       },
       "events": [
@@ -2959,6 +2962,13 @@
           "type": "yellow-card",
           "teamId": "503",
           "playerName": "Jan Bednarek"
+        },
+        {
+          "minute": "64'",
+          "type": "goal",
+          "teamId": "503",
+          "playerName": "Borja Sainz",
+          "assist": "Gabriel Veiga"
         }
       ]
     },
