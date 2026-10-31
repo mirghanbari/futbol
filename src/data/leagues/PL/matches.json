@@ -4342,14 +4342,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-31T12:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "61",
     "awayTeamId": "66",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 2.67,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 479,
+        "duelsWon": 56,
+        "boxTouches": 40,
+        "fouls": 8,
+        "corners": 8,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 41,
+        "xg": 1.17,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 293,
+        "duelsWon": 42,
+        "boxTouches": 21,
+        "fouls": 20,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 7
+      }
     },
     "venue": "Stamford Bridge, London",
     "broadcasts": [
@@ -4370,7 +4398,7 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "65",
     "awayTeamId": "397",
     "homeTeam": {
@@ -4394,7 +4422,7 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1044",
     "awayTeamId": "341",
     "homeTeam": {
@@ -4418,7 +4446,7 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1076",
     "awayTeamId": "71",
     "homeTeam": {
@@ -4442,7 +4470,7 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "322",
     "awayTeamId": "349",
     "homeTeam": {
@@ -4466,7 +4494,7 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "402",
     "awayTeamId": "351",
     "homeTeam": {
@@ -4534,6 +4562,10 @@
     "venue": "Villa Park, Birmingham",
     "broadcasts": [
       {
+        "name": "NBCSN",
+        "kind": "tv"
+      },
+      {
         "name": "Peacock",
         "kind": "streaming"
       }
@@ -4558,12 +4590,16 @@
     "venue": "Anfield, Liverpool",
     "broadcasts": [
       {
-        "name": "Peacock",
-        "kind": "streaming"
+        "name": "NBCSN",
+        "kind": "tv"
       },
       {
         "name": "Tele",
         "kind": "tv"
+      },
+      {
+        "name": "Peacock",
+        "kind": "streaming"
       }
     ]
   },

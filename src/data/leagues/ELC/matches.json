@@ -7262,14 +7262,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-10-31T12:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "70",
     "awayTeamId": "1081",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 60,
+        "xg": 2.14,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 365,
+        "duelsWon": 51,
+        "boxTouches": 32,
+        "fouls": 11,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 40,
+        "xg": 0.1,
+        "shots": 3,
+        "shotsOnTarget": 0,
+        "accuratePasses": 204,
+        "duelsWon": 49,
+        "boxTouches": 7,
+        "fouls": 15,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "bet365 Stadium, Stoke-on-Trent",
     "broadcasts": [
@@ -7286,14 +7314,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-10-31T12:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "68",
     "awayTeamId": "346",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 1.11,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 413,
+        "duelsWon": 71,
+        "boxTouches": 36,
+        "fouls": 12,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 41,
+        "xg": 0.94,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 274,
+        "duelsWon": 47,
+        "boxTouches": 10,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Carrow Road, Norwich"
   },
@@ -7304,14 +7360,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-10-31T12:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1126",
     "awayTeamId": "332",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 1.6,
+        "shots": 12,
+        "shotsOnTarget": 6,
+        "accuratePasses": 270,
+        "duelsWon": 62,
+        "boxTouches": 31,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 45,
+        "xg": 2.07,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 218,
+        "duelsWon": 57,
+        "boxTouches": 31,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "LNER Stadium, Lincoln",
     "broadcasts": [
@@ -7328,7 +7412,7 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "76",
     "awayTeamId": "715",
     "homeTeam": {
@@ -7376,7 +7460,7 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "72",
     "awayTeamId": "59",
     "homeTeam": {

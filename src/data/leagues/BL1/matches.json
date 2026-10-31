@@ -3334,7 +3334,7 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-31T14:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "18",
     "awayTeamId": "29",
     "homeTeam": {
@@ -3358,7 +3358,7 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-31T14:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "6",
     "awayTeamId": "721",
     "homeTeam": {
@@ -3382,11 +3382,11 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-31T14:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "16",
     "awayTeamId": "17",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -3406,7 +3406,7 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-31T14:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "12",
     "awayTeamId": "2",
     "homeTeam": {
@@ -3430,14 +3430,14 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-31T14:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "3",
     "awayTeamId": "10",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "BayArena, Leverkusen",
     "broadcasts": [
