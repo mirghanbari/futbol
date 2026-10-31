@@ -4438,7 +4438,7 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-31T17:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "673",
     "awayTeamId": "1915",
     "homeTeam": {
@@ -4446,6 +4446,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 1.42,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 266,
+        "duelsWon": 34,
+        "boxTouches": 16,
+        "fouls": 7,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 62,
+        "xg": 1.31,
+        "shots": 21,
+        "shotsOnTarget": 2,
+        "accuratePasses": 471,
+        "duelsWon": 41,
+        "boxTouches": 42,
+        "fouls": 7,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Abe Lenstra Stadion, Heerenveen",
     "broadcasts": [
@@ -4462,14 +4490,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-31T17:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "674",
     "awayTeamId": "672",
     "homeTeam": {
-      "goals": 6
+      "goals": 7
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 70,
+        "xg": 2.57,
+        "shots": 20,
+        "shotsOnTarget": 9,
+        "accuratePasses": 617,
+        "duelsWon": 37,
+        "boxTouches": 42,
+        "fouls": 7,
+        "corners": 11,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 30,
+        "xg": 1.22,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 214,
+        "duelsWon": 36,
+        "boxTouches": 8,
+        "fouls": 4,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Philips Stadion, Eindhoven",
     "broadcasts": [
@@ -4486,11 +4542,11 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-31T20:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1909",
     "awayTeamId": "718",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
       "goals": 0
@@ -4504,14 +4560,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-31T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "678",
     "awayTeamId": "682",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 0.66,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 420,
+        "duelsWon": 46,
+        "boxTouches": 19,
+        "fouls": 12,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 52,
+        "xg": 1.25,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 454,
+        "duelsWon": 51,
+        "boxTouches": 34,
+        "fouls": 12,
+        "corners": 8,
+        "offsides": 4,
+        "saves": 1
+      }
     },
     "venue": "Johan Cruijff Arena, Amsterdam",
     "broadcasts": [

@@ -4662,7 +4662,7 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-31T17:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "73",
     "awayTeamId": "354",
     "homeTeam": {
@@ -4670,6 +4670,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 79,
+        "xg": 3.26,
+        "shots": 34,
+        "shotsOnTarget": 9,
+        "accuratePasses": 759,
+        "duelsWon": 57,
+        "boxTouches": 66,
+        "fouls": 8,
+        "corners": 19,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 21,
+        "xg": 0.14,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 150,
+        "duelsWon": 54,
+        "boxTouches": 2,
+        "fouls": 10,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 7
+      }
     },
     "venue": "Tottenham Hotspur Stadium, London",
     "broadcasts": [
@@ -4690,14 +4718,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-31T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "58",
     "awayTeamId": "63",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 1.71,
+        "shots": 16,
+        "shotsOnTarget": 3,
+        "accuratePasses": 373,
+        "duelsWon": 43,
+        "boxTouches": 24,
+        "fouls": 7,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 55,
+        "xg": 2.21,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 474,
+        "duelsWon": 40,
+        "boxTouches": 40,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 4,
+        "saves": 2
+      }
     },
     "venue": "Villa Park, Birmingham",
     "broadcasts": [

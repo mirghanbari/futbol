@@ -3600,14 +3600,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-10-31T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "531",
     "awayTeamId": "535",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 1.7,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 284,
+        "duelsWon": 70,
+        "boxTouches": 23,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 61,
+        "xg": 0.28,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 504,
+        "duelsWon": 47,
+        "boxTouches": 7,
+        "fouls": 16,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Stade de l'Aube, Paris",
     "broadcasts": [

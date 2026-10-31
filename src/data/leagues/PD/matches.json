@@ -5592,7 +5592,7 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-31T17:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "90",
     "awayTeamId": "84",
     "homeTeam": {
@@ -5600,6 +5600,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 1.41,
+        "shots": 23,
+        "shotsOnTarget": 6,
+        "accuratePasses": 549,
+        "duelsWon": 61,
+        "boxTouches": 39,
+        "fouls": 10,
+        "corners": 10,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 41,
+        "xg": 1.18,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 380,
+        "duelsWon": 37,
+        "boxTouches": 19,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Estadio La Cartuja, Sevilla",
     "broadcasts": [
@@ -5620,14 +5648,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-31T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "81",
     "awayTeamId": "263",
     "homeTeam": {
-      "goals": 0
+      "goals": 6
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 77,
+        "xg": 3.19,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 771,
+        "duelsWon": 40,
+        "boxTouches": 32,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 23,
+        "xg": 0.62,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 182,
+        "duelsWon": 28,
+        "boxTouches": 12,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 5,
+        "saves": 1
+      }
     },
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
