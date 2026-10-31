@@ -2,28 +2,28 @@
   "PL": {
     "560626": {
       "home": {
-        "possession": 58,
-        "xg": 0.03,
+        "possession": 57,
+        "xg": 0.05,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 72,
-        "duelsWon": 7,
-        "boxTouches": 1,
-        "fouls": 0,
-        "corners": 0,
-        "offsides": 0,
+        "accuratePasses": 97,
+        "duelsWon": 15,
+        "boxTouches": 7,
+        "fouls": 1,
+        "corners": 1,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 42,
-        "xg": 0.04,
-        "shots": 1,
+        "possession": 43,
+        "xg": 0.06,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 48,
-        "duelsWon": 6,
+        "accuratePasses": 67,
+        "duelsWon": 9,
         "boxTouches": 4,
         "fouls": 3,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 1
       }
@@ -32,24 +32,28 @@
   "ELC": {
     "561908": {
       "home": {
-        "possession": 77,
-        "shots": 0,
+        "possession": 58,
+        "xg": 0.05,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 15,
-        "duelsWon": 0,
-        "fouls": 0,
+        "accuratePasses": 60,
+        "duelsWon": 7,
+        "boxTouches": 2,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 23,
-        "shots": 0,
+        "possession": 42,
+        "xg": 0.06,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 1,
-        "duelsWon": 2,
-        "fouls": 1,
-        "corners": 0,
+        "accuratePasses": 34,
+        "duelsWon": 10,
+        "boxTouches": 2,
+        "fouls": 3,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
@@ -64,27 +68,27 @@
     },
     "561910": {
       "home": {
-        "possession": 81,
+        "possession": 72,
         "xg": 0.13,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 50,
-        "duelsWon": 10,
+        "accuratePasses": 65,
+        "duelsWon": 13,
         "boxTouches": 7,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 3,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 19,
-        "xg": 0.11,
-        "shots": 1,
+        "possession": 28,
+        "xg": 0.12,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 12,
-        "duelsWon": 6,
-        "boxTouches": 1,
-        "fouls": 0,
+        "accuratePasses": 27,
+        "duelsWon": 8,
+        "boxTouches": 2,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -101,29 +105,39 @@
     },
     "561915": {
       "home": {
-        "possession": 44,
-        "xg": 0.05,
-        "shots": 1,
+        "possession": 49,
+        "xg": 0.45,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 11,
-        "duelsWon": 3,
+        "accuratePasses": 22,
+        "duelsWon": 11,
+        "boxTouches": 2,
         "fouls": 3,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 56,
-        "xg": 0.03,
-        "shots": 1,
+        "possession": 51,
+        "xg": 0.18,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 22,
-        "duelsWon": 5,
-        "fouls": 2,
-        "corners": 0,
+        "accuratePasses": 32,
+        "duelsWon": 8,
+        "boxTouches": 4,
+        "fouls": 4,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "16'",
+          "type": "goal",
+          "teamId": "332",
+          "playerName": "August Priske"
+        }
+      ]
     }
   }
 }
