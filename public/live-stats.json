@@ -365,27 +365,27 @@
     },
     "560628": {
       "home": {
-        "possession": 42,
-        "xg": 1.31,
-        "shots": 10,
+        "possession": 44,
+        "xg": 1.32,
+        "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 287,
-        "duelsWon": 34,
+        "accuratePasses": 312,
+        "duelsWon": 36,
         "boxTouches": 19,
         "fouls": 6,
         "corners": 6,
         "offsides": 2,
-        "saves": 2
+        "saves": 4
       },
       "away": {
-        "possession": 58,
-        "xg": 2,
-        "shots": 13,
-        "shotsOnTarget": 3,
-        "accuratePasses": 409,
-        "duelsWon": 33,
-        "boxTouches": 38,
-        "fouls": 9,
+        "possession": 56,
+        "xg": 2.21,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 422,
+        "duelsWon": 35,
+        "boxTouches": 40,
+        "fouls": 10,
         "corners": 7,
         "offsides": 4,
         "saves": 2
@@ -422,6 +422,12 @@
           "type": "yellow-card",
           "teamId": "58",
           "playerName": "Matty Cash"
+        },
+        {
+          "minute": "78'",
+          "type": "yellow-card",
+          "teamId": "63",
+          "playerName": "Tom Cairney"
         }
       ]
     },
@@ -1496,9 +1502,9 @@
         "xg": 2.77,
         "shots": 12,
         "shotsOnTarget": 6,
-        "accuratePasses": 572,
-        "duelsWon": 26,
-        "boxTouches": 27,
+        "accuratePasses": 657,
+        "duelsWon": 30,
+        "boxTouches": 29,
         "fouls": 12,
         "corners": 3,
         "offsides": 1,
@@ -1509,10 +1515,10 @@
         "xg": 0.46,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 136,
-        "duelsWon": 24,
+        "accuratePasses": 156,
+        "duelsWon": 25,
         "boxTouches": 9,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 3,
         "offsides": 4,
         "saves": 1
@@ -2378,30 +2384,30 @@
     },
     "558548": {
       "home": {
-        "possession": 44,
-        "xg": 0.61,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 350,
-        "duelsWon": 42,
+        "possession": 43,
+        "xg": 0.66,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 357,
+        "duelsWon": 46,
         "boxTouches": 12,
         "fouls": 8,
-        "corners": 2,
-        "offsides": 0,
+        "corners": 3,
+        "offsides": 1,
         "saves": 7
       },
       "away": {
-        "possession": 56,
-        "xg": 1.73,
-        "shots": 18,
+        "possession": 57,
+        "xg": 1.8,
+        "shots": 19,
         "shotsOnTarget": 8,
-        "accuratePasses": 434,
-        "duelsWon": 45,
-        "boxTouches": 26,
-        "fouls": 12,
+        "accuratePasses": 460,
+        "duelsWon": 48,
+        "boxTouches": 28,
+        "fouls": 14,
         "corners": 11,
         "offsides": 4,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -2452,18 +2458,19 @@
           "teamId": "108",
           "playerName": "Carlos Augusto"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "FL1": {
     "559643": {
       "home": {
         "possession": 39,
-        "xg": 1.74,
+        "xg": 1.7,
         "shots": 14,
         "shotsOnTarget": 8,
-        "accuratePasses": 282,
-        "duelsWon": 70,
+        "accuratePasses": 283,
+        "duelsWon": 69,
         "boxTouches": 23,
         "fouls": 15,
         "corners": 4,
@@ -2475,7 +2482,7 @@
         "xg": 0.28,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 504,
+        "accuratePasses": 505,
         "duelsWon": 47,
         "boxTouches": 7,
         "fouls": 16,
@@ -2532,8 +2539,15 @@
           "type": "yellow-card",
           "teamId": "535",
           "playerName": "Noa Boissé"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "yellow-card",
+          "teamId": "535",
+          "playerName": "Samuel Yohou"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "DED": {
@@ -2610,34 +2624,36 @@
           "minute": "80'",
           "type": "goal",
           "teamId": "1909",
-          "playerName": "Rafik El Arguioui"
+          "playerName": "Rafik El Arguioui",
+          "assist": "Sami Bouhoudane"
         }
-      ]
+      ],
+      "final": true
     },
     "558851": {
       "home": {
         "possession": 50,
-        "xg": 0.37,
-        "shots": 6,
+        "xg": 0.51,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 388,
-        "duelsWon": 43,
-        "boxTouches": 15,
-        "fouls": 10,
+        "accuratePasses": 396,
+        "duelsWon": 45,
+        "boxTouches": 17,
+        "fouls": 12,
         "corners": 1,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "away": {
         "possession": 50,
-        "xg": 0.61,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 387,
-        "duelsWon": 40,
-        "boxTouches": 26,
-        "fouls": 10,
-        "corners": 5,
+        "xg": 0.74,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 409,
+        "duelsWon": 43,
+        "boxTouches": 28,
+        "fouls": 11,
+        "corners": 6,
         "offsides": 3,
         "saves": 0
       },
@@ -2892,27 +2908,27 @@
   "PPL": {
     "567338": {
       "home": {
-        "possession": 70,
+        "possession": 71,
         "xg": 1.84,
         "shots": 16,
         "shotsOnTarget": 5,
-        "accuratePasses": 287,
-        "duelsWon": 19,
+        "accuratePasses": 323,
+        "duelsWon": 22,
         "boxTouches": 33,
         "fouls": 6,
         "corners": 7,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 30,
+        "possession": 29,
         "xg": 0.12,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 110,
-        "duelsWon": 18,
+        "accuratePasses": 116,
+        "duelsWon": 19,
         "boxTouches": 1,
-        "fouls": 1,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 4
