@@ -365,31 +365,39 @@
     },
     "560628": {
       "home": {
-        "possession": 51,
+        "possession": 54,
         "xg": 0.98,
-        "shots": 5,
-        "shotsOnTarget": 0,
-        "accuratePasses": 126,
-        "duelsWon": 11,
-        "boxTouches": 10,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 161,
+        "duelsWon": 18,
+        "boxTouches": 11,
         "fouls": 2,
         "corners": 5,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 49,
-        "xg": 0.3,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 119,
-        "duelsWon": 11,
-        "boxTouches": 2,
-        "fouls": 3,
-        "corners": 0,
+        "possession": 46,
+        "xg": 0.58,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 133,
+        "duelsWon": 13,
+        "boxTouches": 7,
+        "fouls": 5,
+        "corners": 1,
         "offsides": 1,
-        "saves": 0
-      }
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "31'",
+          "type": "yellow-card",
+          "teamId": "63",
+          "playerName": "David Affengruber"
+        }
+      ]
     },
     "560629": {
       "home": {
@@ -1462,9 +1470,9 @@
         "xg": 0.7,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 247,
-        "duelsWon": 9,
-        "boxTouches": 6,
+        "accuratePasses": 292,
+        "duelsWon": 10,
+        "boxTouches": 7,
         "fouls": 2,
         "corners": 0,
         "offsides": 1,
@@ -1475,12 +1483,12 @@
         "xg": 0.35,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 70,
+        "accuratePasses": 86,
         "duelsWon": 8,
-        "boxTouches": 4,
+        "boxTouches": 6,
         "fouls": 5,
-        "corners": 1,
-        "offsides": 2,
+        "corners": 2,
+        "offsides": 3,
         "saves": 0
       },
       "events": [
@@ -2299,27 +2307,27 @@
     },
     "558548": {
       "home": {
-        "possession": 46,
-        "xg": 0.52,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 171,
-        "duelsWon": 12,
-        "boxTouches": 7,
+        "possession": 44,
+        "xg": 0.59,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 175,
+        "duelsWon": 17,
+        "boxTouches": 9,
         "fouls": 3,
         "corners": 1,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "away": {
-        "possession": 54,
-        "xg": 1.03,
-        "shots": 8,
-        "shotsOnTarget": 5,
-        "accuratePasses": 193,
-        "duelsWon": 17,
+        "possession": 56,
+        "xg": 1.06,
+        "shots": 9,
+        "shotsOnTarget": 6,
+        "accuratePasses": 218,
+        "duelsWon": 20,
         "boxTouches": 9,
-        "fouls": 4,
+        "fouls": 6,
         "corners": 7,
         "offsides": 1,
         "saves": 0
@@ -2347,6 +2355,13 @@
           "playerName": "Alessandro Bastoni",
           "method": "header",
           "assist": "Manuel Akanji"
+        },
+        {
+          "minute": "43'",
+          "type": "goal",
+          "teamId": "98",
+          "playerName": "Diego Moreira",
+          "method": "free kick"
         }
       ]
     }
@@ -2355,12 +2370,12 @@
     "559643": {
       "home": {
         "possession": 44,
-        "xg": 0.13,
-        "shots": 3,
+        "xg": 0.16,
+        "shots": 4,
         "shotsOnTarget": 1,
         "accuratePasses": 190,
-        "duelsWon": 27,
-        "boxTouches": 6,
+        "duelsWon": 29,
+        "boxTouches": 7,
         "fouls": 7,
         "corners": 0,
         "offsides": 0,
@@ -2371,10 +2386,10 @@
         "xg": 0.07,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 260,
+        "accuratePasses": 261,
         "duelsWon": 24,
         "boxTouches": 2,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 2,
         "offsides": 0,
         "saves": 0
@@ -2399,28 +2414,29 @@
   "DED": {
     "558850": {
       "home": {
-        "possession": 52,
-        "xg": 0.74,
-        "shots": 7,
+        "possession": 45,
+        "xg": 0.84,
+        "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 101,
-        "duelsWon": 12,
-        "boxTouches": 11,
-        "fouls": 4,
+        "accuratePasses": 132,
+        "duelsWon": 20,
+        "boxTouches": 13,
+        "fouls": 5,
         "corners": 4,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 48,
-        "xg": 0,
-        "shots": 0,
+        "possession": 55,
+        "xg": 0.05,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 85,
-        "duelsWon": 10,
-        "fouls": 1,
+        "accuratePasses": 157,
+        "duelsWon": 14,
+        "boxTouches": 2,
+        "fouls": 2,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "events": [
@@ -2443,26 +2459,26 @@
     },
     "558851": {
       "home": {
-        "possession": 53,
-        "xg": 0.25,
-        "shots": 2,
+        "possession": 49,
+        "xg": 0.29,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 180,
-        "duelsWon": 11,
-        "boxTouches": 7,
-        "fouls": 5,
+        "accuratePasses": 197,
+        "duelsWon": 12,
+        "boxTouches": 8,
+        "fouls": 6,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 47,
-        "xg": 0.07,
-        "shots": 2,
+        "possession": 51,
+        "xg": 0.11,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 162,
-        "duelsWon": 10,
-        "boxTouches": 6,
+        "accuratePasses": 214,
+        "duelsWon": 14,
+        "boxTouches": 10,
         "fouls": 3,
         "corners": 0,
         "offsides": 3,
@@ -2711,6 +2727,41 @@
     }
   },
   "PPL": {
+    "567338": {
+      "home": {
+        "possession": 56,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 7,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.04,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 6,
+        "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "4'",
+          "type": "goal",
+          "teamId": "503",
+          "playerName": "<TBD>"
+        }
+      ]
+    },
     "567343": {
       "home": {
         "possession": 53,
