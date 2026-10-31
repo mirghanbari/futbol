@@ -365,30 +365,30 @@
     },
     "560628": {
       "home": {
-        "possession": 17,
-        "xg": 0.04,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 10,
-        "duelsWon": 3,
-        "boxTouches": 2,
+        "possession": 42,
+        "xg": 0.12,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 49,
+        "duelsWon": 7,
+        "boxTouches": 8,
         "fouls": 1,
-        "corners": 0,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 83,
+        "possession": 58,
         "xg": 0.3,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 62,
-        "duelsWon": 4,
+        "accuratePasses": 74,
+        "duelsWon": 7,
         "boxTouches": 2,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       }
     },
     "560629": {
@@ -1458,27 +1458,40 @@
     },
     "564732": {
       "home": {
-        "possession": 83,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 23,
-        "duelsWon": 1,
-        "fouls": 0,
+        "possession": 76,
+        "xg": 0.59,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 98,
+        "duelsWon": 2,
+        "boxTouches": 3,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 17,
-        "shots": 0,
+        "possession": 24,
+        "xg": 0.41,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 3,
-        "duelsWon": 0,
+        "accuratePasses": 26,
+        "duelsWon": 2,
+        "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "8'",
+          "type": "goal",
+          "teamId": "81",
+          "playerName": "Raphinha",
+          "assist": "Fermín López"
+        }
+      ]
     },
     "564735": {
       "home": {
@@ -2274,27 +2287,27 @@
     "558548": {
       "home": {
         "possession": 58,
-        "xg": 0.36,
+        "xg": 0.39,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 102,
-        "duelsWon": 4,
+        "accuratePasses": 126,
+        "duelsWon": 7,
         "boxTouches": 6,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
         "possession": 42,
-        "xg": 0.23,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 66,
-        "duelsWon": 9,
-        "boxTouches": 2,
+        "xg": 0.82,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 82,
+        "duelsWon": 14,
+        "boxTouches": 6,
         "fouls": 1,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 0
       },
@@ -2313,6 +2326,14 @@
           "teamId": "98",
           "playerName": "Adrien Rabiot",
           "assist": "Diego Moreira"
+        },
+        {
+          "minute": "22'",
+          "type": "goal",
+          "teamId": "108",
+          "playerName": "Alessandro Bastoni",
+          "method": "header",
+          "assist": "Manuel Akanji"
         }
       ]
     }
@@ -2320,25 +2341,27 @@
   "FL1": {
     "559643": {
       "home": {
-        "possession": 47,
-        "shots": 0,
+        "possession": 51,
+        "xg": 0.08,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 93,
-        "duelsWon": 15,
-        "boxTouches": 1,
-        "fouls": 5,
+        "accuratePasses": 134,
+        "duelsWon": 21,
+        "boxTouches": 6,
+        "fouls": 7,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 53,
+        "possession": 49,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 113,
-        "duelsWon": 11,
+        "accuratePasses": 135,
+        "duelsWon": 18,
         "boxTouches": 1,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -2356,29 +2379,29 @@
   "DED": {
     "558850": {
       "home": {
-        "possession": 58,
-        "xg": 0.05,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 33,
-        "duelsWon": 2,
-        "boxTouches": 3,
+        "possession": 54,
+        "xg": 0.55,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 51,
+        "duelsWon": 5,
+        "boxTouches": 9,
         "fouls": 2,
-        "corners": 0,
+        "corners": 4,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 42,
+        "possession": 46,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 20,
-        "duelsWon": 5,
+        "accuratePasses": 38,
+        "duelsWon": 7,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -2386,37 +2409,48 @@
           "type": "goal",
           "teamId": "1909",
           "playerName": "Ismaël Baouf",
-          "method": "header"
+          "method": "header",
+          "assist": "Rafik El Arguioui"
         }
       ]
     },
     "558851": {
       "home": {
-        "possession": 51,
-        "xg": 0.04,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 28,
-        "duelsWon": 3,
-        "boxTouches": 4,
+        "possession": 43,
+        "xg": 0.25,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 45,
+        "duelsWon": 5,
+        "boxTouches": 5,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 49,
+        "possession": 57,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 28,
-        "duelsWon": 4,
-        "boxTouches": 1,
+        "accuratePasses": 65,
+        "duelsWon": 5,
+        "boxTouches": 2,
         "fouls": 1,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "9'",
+          "type": "goal",
+          "teamId": "678",
+          "playerName": "Tolu Arokodare",
+          "method": "header",
+          "assist": "Abdellah Ouazane"
+        }
+      ]
     },
     "558852": {
       "home": {
