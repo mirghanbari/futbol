@@ -2,29 +2,29 @@
   "PL": {
     "560626": {
       "home": {
-        "possession": 57,
-        "xg": 2.02,
-        "shots": 16,
+        "possession": 58,
+        "xg": 2.11,
+        "shots": 17,
         "shotsOnTarget": 9,
-        "accuratePasses": 420,
-        "duelsWon": 53,
-        "boxTouches": 36,
-        "fouls": 7,
-        "corners": 7,
+        "accuratePasses": 441,
+        "duelsWon": 54,
+        "boxTouches": 37,
+        "fouls": 8,
+        "corners": 8,
         "offsides": 3,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 43,
-        "xg": 1.11,
-        "shots": 10,
-        "shotsOnTarget": 4,
-        "accuratePasses": 277,
-        "duelsWon": 37,
-        "boxTouches": 20,
+        "possession": 42,
+        "xg": 1.17,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 279,
+        "duelsWon": 38,
+        "boxTouches": 21,
         "fouls": 19,
-        "corners": 6,
-        "offsides": 1,
+        "corners": 7,
+        "offsides": 2,
         "saves": 7
       },
       "events": [
@@ -77,6 +77,12 @@
           "type": "yellow-card",
           "teamId": "66",
           "playerName": "Joshua Zirkzee"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "61",
+          "playerName": "Mike Penders"
         }
       ]
     }
@@ -84,30 +90,30 @@
   "ELC": {
     "561908": {
       "home": {
-        "possession": 59,
-        "xg": 2.02,
-        "shots": 14,
-        "shotsOnTarget": 5,
-        "accuratePasses": 330,
-        "duelsWon": 48,
-        "boxTouches": 29,
+        "possession": 60,
+        "xg": 2.14,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 362,
+        "duelsWon": 50,
+        "boxTouches": 32,
         "fouls": 11,
         "corners": 9,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 41,
+        "possession": 40,
         "xg": 0.1,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 198,
-        "duelsWon": 46,
+        "accuratePasses": 204,
+        "duelsWon": 48,
         "boxTouches": 7,
-        "fouls": 13,
+        "fouls": 15,
         "corners": 7,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -148,29 +154,30 @@
           "teamId": "1081",
           "playerName": "Jusef Erabi"
         }
-      ]
+      ],
+      "final": true
     },
     "561910": {
       "home": {
         "possession": 59,
-        "xg": 1,
-        "shots": 14,
+        "xg": 1.11,
+        "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 400,
-        "duelsWon": 69,
-        "boxTouches": 35,
+        "accuratePasses": 409,
+        "duelsWon": 71,
+        "boxTouches": 36,
         "fouls": 12,
         "corners": 9,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "away": {
         "possession": 41,
         "xg": 0.94,
-        "shots": 7,
-        "shotsOnTarget": 4,
-        "accuratePasses": 272,
-        "duelsWon": 46,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 274,
+        "duelsWon": 48,
         "boxTouches": 10,
         "fouls": 9,
         "corners": 2,
@@ -224,34 +231,35 @@
           "playerName": "Edmond-Paris Maghoma",
           "assist": "Mathias Kvistgaarden"
         }
-      ]
+      ],
+      "final": true
     },
     "561915": {
       "home": {
-        "possession": 56,
-        "xg": 1.49,
-        "shots": 10,
-        "shotsOnTarget": 5,
-        "accuratePasses": 246,
-        "duelsWon": 55,
-        "boxTouches": 30,
-        "fouls": 12,
+        "possession": 55,
+        "xg": 1.58,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 251,
+        "duelsWon": 57,
+        "boxTouches": 31,
+        "fouls": 13,
         "corners": 3,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 44,
-        "xg": 1.45,
-        "shots": 14,
+        "possession": 45,
+        "xg": 2.19,
+        "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 193,
-        "duelsWon": 51,
-        "boxTouches": 22,
-        "fouls": 7,
+        "accuratePasses": 207,
+        "duelsWon": 55,
+        "boxTouches": 29,
+        "fouls": 8,
         "corners": 3,
         "offsides": 2,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -310,6 +318,12 @@
           "teamId": "332",
           "playerName": "Alexander Cochrane",
           "assist": "Ryan Allsop"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "1126",
+          "playerName": "Yunus Emre Konak"
         }
       ]
     }
@@ -321,9 +335,9 @@
         "xg": 0.67,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 208,
-        "duelsWon": 30,
-        "boxTouches": 14,
+        "accuratePasses": 222,
+        "duelsWon": 32,
+        "boxTouches": 17,
         "fouls": 5,
         "corners": 1,
         "offsides": 0,
@@ -331,14 +345,14 @@
       },
       "away": {
         "possession": 63,
-        "xg": 0.39,
+        "xg": 0.54,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 402,
-        "duelsWon": 32,
-        "boxTouches": 11,
+        "accuratePasses": 431,
+        "duelsWon": 34,
+        "boxTouches": 12,
         "fouls": 5,
-        "corners": 1,
+        "corners": 2,
         "offsides": 4,
         "saves": 2
       },
@@ -368,29 +382,29 @@
   "SA": {
     "558539": {
       "home": {
-        "possession": 64,
+        "possession": 60,
         "xg": 0.22,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 67,
-        "duelsWon": 16,
+        "accuratePasses": 86,
+        "duelsWon": 20,
         "boxTouches": 7,
-        "fouls": 2,
-        "corners": 0,
-        "offsides": 1,
+        "fouls": 3,
+        "corners": 1,
+        "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 36,
+        "possession": 40,
         "xg": 0.83,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 33,
-        "duelsWon": 16,
-        "boxTouches": 5,
+        "accuratePasses": 54,
+        "duelsWon": 22,
+        "boxTouches": 6,
         "fouls": 6,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "events": [
@@ -412,6 +426,12 @@
           "type": "yellow-card",
           "teamId": "103",
           "playerName": "Jens Odgaard"
+        },
+        {
+          "minute": "23'",
+          "type": "yellow-card",
+          "teamId": "103",
+          "playerName": "Tommaso Pobega"
         }
       ]
     }
