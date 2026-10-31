@@ -2,27 +2,27 @@
   "PL": {
     "560626": {
       "home": {
-        "possession": 58,
-        "xg": 0.05,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 114,
-        "duelsWon": 17,
-        "boxTouches": 10,
-        "fouls": 1,
+        "possession": 54,
+        "xg": 0.16,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 120,
+        "duelsWon": 19,
+        "boxTouches": 11,
+        "fouls": 3,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 42,
+        "possession": 46,
         "xg": 0.36,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 78,
-        "duelsWon": 10,
-        "boxTouches": 6,
-        "fouls": 5,
+        "accuratePasses": 100,
+        "duelsWon": 13,
+        "boxTouches": 7,
+        "fouls": 7,
         "corners": 1,
         "offsides": 0,
         "saves": 2
@@ -32,25 +32,25 @@
   "ELC": {
     "561908": {
       "home": {
-        "possession": 57,
+        "possession": 60,
         "xg": 0.05,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 61,
+        "accuratePasses": 83,
         "duelsWon": 10,
-        "boxTouches": 2,
-        "fouls": 2,
-        "corners": 0,
+        "boxTouches": 3,
+        "fouls": 3,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 43,
+        "possession": 40,
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 36,
-        "duelsWon": 10,
+        "accuratePasses": 40,
+        "duelsWon": 14,
         "boxTouches": 2,
         "fouls": 4,
         "corners": 1,
@@ -63,18 +63,24 @@
           "type": "yellow-card",
           "teamId": "1081",
           "playerName": "Brad Potts"
+        },
+        {
+          "minute": "29'",
+          "type": "goal",
+          "teamId": "70",
+          "playerName": "Ben Wilmot"
         }
       ]
     },
     "561910": {
       "home": {
         "possession": 61,
-        "xg": 0.16,
-        "shots": 3,
+        "xg": 0.21,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 75,
-        "duelsWon": 16,
-        "boxTouches": 7,
+        "accuratePasses": 120,
+        "duelsWon": 23,
+        "boxTouches": 9,
         "fouls": 3,
         "corners": 3,
         "offsides": 1,
@@ -85,10 +91,10 @@
         "xg": 0.12,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 51,
+        "accuratePasses": 75,
         "duelsWon": 14,
         "boxTouches": 4,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 1
@@ -100,30 +106,36 @@
           "teamId": "346",
           "playerName": "Myron Boadu",
           "assist": "Iker Bravo"
+        },
+        {
+          "minute": "27'",
+          "type": "goal",
+          "teamId": "346",
+          "playerName": "Myron Boadu"
         }
       ]
     },
     "561915": {
       "home": {
-        "possession": 44,
+        "possession": 49,
         "xg": 0.45,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 36,
-        "duelsWon": 13,
-        "boxTouches": 2,
-        "fouls": 3,
+        "accuratePasses": 52,
+        "duelsWon": 16,
+        "boxTouches": 4,
+        "fouls": 4,
         "corners": 0,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 56,
-        "xg": 0.42,
+        "possession": 51,
+        "xg": 0.48,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 62,
-        "duelsWon": 11,
+        "accuratePasses": 63,
+        "duelsWon": 14,
         "boxTouches": 8,
         "fouls": 4,
         "corners": 2,
@@ -136,6 +148,18 @@
           "type": "goal",
           "teamId": "332",
           "playerName": "August Priske"
+        },
+        {
+          "minute": "25'",
+          "type": "yellow-card",
+          "teamId": "1126",
+          "playerName": "Mikkel Ladefoged"
+        },
+        {
+          "minute": "27'",
+          "type": "yellow-card",
+          "teamId": "332",
+          "playerName": "Liam Millar"
         }
       ]
     }
