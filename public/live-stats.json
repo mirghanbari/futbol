@@ -2,27 +2,27 @@
   "PL": {
     "560623": {
       "home": {
-        "possession": 59,
-        "xg": 1.35,
-        "shots": 14,
+        "possession": 60,
+        "xg": 1.41,
+        "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 361,
-        "duelsWon": 38,
-        "boxTouches": 44,
+        "accuratePasses": 396,
+        "duelsWon": 40,
+        "boxTouches": 46,
         "fouls": 7,
-        "corners": 5,
+        "corners": 6,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 41,
+        "possession": 40,
         "xg": 0.82,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 242,
+        "accuratePasses": 254,
         "duelsWon": 36,
         "boxTouches": 6,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 1,
         "offsides": 2,
         "saves": 5
@@ -51,12 +51,12 @@
     },
     "560624": {
       "home": {
-        "possession": 48,
-        "xg": 0.84,
-        "shots": 8,
+        "possession": 46,
+        "xg": 0.86,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 272,
-        "duelsWon": 31,
+        "accuratePasses": 281,
+        "duelsWon": 36,
         "boxTouches": 12,
         "fouls": 10,
         "corners": 3,
@@ -64,15 +64,15 @@
         "saves": 1
       },
       "away": {
-        "possession": 52,
-        "xg": 0.45,
-        "shots": 4,
+        "possession": 54,
+        "xg": 0.47,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 290,
-        "duelsWon": 41,
-        "boxTouches": 11,
-        "fouls": 13,
-        "corners": 1,
+        "accuratePasses": 329,
+        "duelsWon": 44,
+        "boxTouches": 13,
+        "fouls": 14,
+        "corners": 3,
         "offsides": 1,
         "saves": 2
       },
@@ -107,33 +107,39 @@
           "type": "yellow-card",
           "teamId": "341",
           "playerName": "Ethan Ampadu"
+        },
+        {
+          "minute": "74'",
+          "type": "yellow-card",
+          "teamId": "1044",
+          "playerName": "Adam Smith"
         }
       ]
     },
     "560625": {
       "home": {
-        "possession": 44,
+        "possession": 45,
         "xg": 0.47,
-        "shots": 8,
+        "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 192,
-        "duelsWon": 30,
-        "boxTouches": 12,
-        "fouls": 12,
+        "accuratePasses": 206,
+        "duelsWon": 34,
+        "boxTouches": 15,
+        "fouls": 14,
         "corners": 3,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 56,
-        "xg": 1.43,
-        "shots": 13,
+        "possession": 55,
+        "xg": 1.57,
+        "shots": 14,
         "shotsOnTarget": 2,
-        "accuratePasses": 259,
-        "duelsWon": 41,
-        "boxTouches": 23,
-        "fouls": 5,
-        "corners": 1,
+        "accuratePasses": 272,
+        "duelsWon": 44,
+        "boxTouches": 25,
+        "fouls": 6,
+        "corners": 2,
         "offsides": 1,
         "saves": 1
       },
@@ -268,25 +274,25 @@
     "560629": {
       "home": {
         "possession": 34,
-        "xg": 0.36,
+        "xg": 0.53,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 166,
-        "duelsWon": 48,
+        "accuratePasses": 175,
+        "duelsWon": 50,
         "boxTouches": 11,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 4,
         "offsides": 4,
         "saves": 1
       },
       "away": {
         "possession": 66,
-        "xg": 0.68,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 404,
-        "duelsWon": 33,
-        "boxTouches": 17,
+        "xg": 0.76,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 435,
+        "duelsWon": 36,
+        "boxTouches": 21,
         "fouls": 10,
         "corners": 3,
         "offsides": 2,
@@ -331,20 +337,26 @@
           "teamId": "322",
           "playerName": "Oli McBurnie",
           "method": "free kick"
+        },
+        {
+          "minute": "74'",
+          "type": "goal",
+          "teamId": "349",
+          "playerName": "Julio Enciso"
         }
       ]
     },
     "560630": {
       "home": {
         "possession": 42,
-        "xg": 0.15,
-        "shots": 4,
-        "shotsOnTarget": 0,
-        "accuratePasses": 184,
-        "duelsWon": 41,
-        "boxTouches": 6,
-        "fouls": 4,
-        "corners": 2,
+        "xg": 0.31,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 192,
+        "duelsWon": 42,
+        "boxTouches": 8,
+        "fouls": 5,
+        "corners": 3,
         "offsides": 1,
         "saves": 0
       },
@@ -353,8 +365,8 @@
         "xg": 0.82,
         "shots": 14,
         "shotsOnTarget": 0,
-        "accuratePasses": 267,
-        "duelsWon": 30,
+        "accuratePasses": 290,
+        "duelsWon": 32,
         "boxTouches": 20,
         "fouls": 12,
         "corners": 3,
@@ -386,6 +398,13 @@
           "type": "yellow-card",
           "teamId": "402",
           "playerName": "Michael Kayode"
+        },
+        {
+          "minute": "76'",
+          "type": "goal",
+          "teamId": "402",
+          "playerName": "Igor Thiago",
+          "assist": "Jaidon Anthony"
         }
       ]
     }
@@ -394,24 +413,24 @@
     "561905": {
       "home": {
         "possession": 42,
-        "xg": 1.27,
-        "shots": 10,
+        "xg": 1.43,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 176,
-        "duelsWon": 34,
-        "boxTouches": 17,
-        "fouls": 14,
+        "accuratePasses": 190,
+        "duelsWon": 36,
+        "boxTouches": 19,
+        "fouls": 16,
         "corners": 2,
         "offsides": 0,
         "saves": 7
       },
       "away": {
         "possession": 58,
-        "xg": 0.42,
-        "shots": 8,
-        "shotsOnTarget": 6,
-        "accuratePasses": 263,
-        "duelsWon": 36,
+        "xg": 0.44,
+        "shots": 9,
+        "shotsOnTarget": 7,
+        "accuratePasses": 289,
+        "duelsWon": 42,
         "boxTouches": 17,
         "fouls": 5,
         "corners": 4,
@@ -474,28 +493,28 @@
     },
     "561906": {
       "home": {
-        "possession": 51,
+        "possession": 50,
         "xg": 0.69,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 279,
-        "duelsWon": 30,
-        "boxTouches": 22,
+        "accuratePasses": 289,
+        "duelsWon": 31,
+        "boxTouches": 23,
         "fouls": 11,
-        "corners": 7,
+        "corners": 8,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 49,
-        "xg": 1.93,
-        "shots": 9,
-        "shotsOnTarget": 2,
-        "accuratePasses": 264,
-        "duelsWon": 30,
-        "boxTouches": 17,
+        "possession": 50,
+        "xg": 1.96,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 279,
+        "duelsWon": 32,
+        "boxTouches": 20,
         "fouls": 7,
-        "corners": 5,
+        "corners": 6,
         "offsides": 1,
         "saves": 2
       },
@@ -532,18 +551,24 @@
           "type": "yellow-card",
           "teamId": "563",
           "playerName": "Kyle Walker-Peters"
+        },
+        {
+          "minute": "72'",
+          "type": "goal",
+          "teamId": "74",
+          "playerName": "Callum Styles"
         }
       ]
     },
     "561907": {
       "home": {
         "possession": 68,
-        "xg": 2.03,
-        "shots": 15,
+        "xg": 2.06,
+        "shots": 16,
         "shotsOnTarget": 8,
-        "accuratePasses": 449,
+        "accuratePasses": 473,
         "duelsWon": 37,
-        "boxTouches": 26,
+        "boxTouches": 27,
         "fouls": 6,
         "corners": 1,
         "offsides": 1,
@@ -551,12 +576,12 @@
       },
       "away": {
         "possession": 32,
-        "xg": 0.21,
-        "shots": 3,
+        "xg": 0.22,
+        "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 182,
+        "accuratePasses": 193,
         "duelsWon": 31,
-        "boxTouches": 7,
+        "boxTouches": 8,
         "fouls": 13,
         "corners": 2,
         "offsides": 1,
@@ -669,25 +694,25 @@
     },
     "561909": {
       "home": {
-        "possession": 66,
-        "xg": 0.79,
-        "shots": 13,
+        "possession": 68,
+        "xg": 0.86,
+        "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 366,
-        "duelsWon": 26,
-        "boxTouches": 23,
+        "accuratePasses": 406,
+        "duelsWon": 28,
+        "boxTouches": 26,
         "fouls": 3,
-        "corners": 5,
+        "corners": 9,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 34,
+        "possession": 32,
         "xg": 1.77,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 175,
-        "duelsWon": 23,
+        "accuratePasses": 176,
+        "duelsWon": 27,
         "boxTouches": 19,
         "fouls": 6,
         "corners": 4,
@@ -809,30 +834,30 @@
     },
     "561911": {
       "home": {
-        "possession": 65,
-        "xg": 1.29,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 321,
-        "duelsWon": 39,
-        "boxTouches": 35,
+        "possession": 63,
+        "xg": 1.43,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 344,
+        "duelsWon": 43,
+        "boxTouches": 39,
         "fouls": 4,
-        "corners": 7,
+        "corners": 8,
         "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 35,
-        "xg": 0.29,
-        "shots": 5,
+        "possession": 37,
+        "xg": 0.34,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 147,
-        "duelsWon": 40,
-        "boxTouches": 18,
-        "fouls": 10,
+        "accuratePasses": 180,
+        "duelsWon": 43,
+        "boxTouches": 19,
+        "fouls": 12,
         "corners": 1,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -872,14 +897,14 @@
     "561912": {
       "home": {
         "possession": 55,
-        "xg": 1.41,
-        "shots": 13,
+        "xg": 1.61,
+        "shots": 16,
         "shotsOnTarget": 3,
-        "accuratePasses": 225,
-        "duelsWon": 21,
-        "boxTouches": 23,
-        "fouls": 7,
-        "corners": 4,
+        "accuratePasses": 243,
+        "duelsWon": 23,
+        "boxTouches": 28,
+        "fouls": 9,
+        "corners": 5,
         "offsides": 2,
         "saves": 0
       },
@@ -888,10 +913,10 @@
         "xg": 0.18,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 174,
-        "duelsWon": 27,
-        "boxTouches": 5,
-        "fouls": 6,
+        "accuratePasses": 190,
+        "duelsWon": 30,
+        "boxTouches": 6,
+        "fouls": 7,
         "corners": 1,
         "offsides": 3,
         "saves": 3
@@ -919,30 +944,30 @@
     },
     "561913": {
       "home": {
-        "possession": 56,
-        "xg": 2.76,
-        "shots": 15,
-        "shotsOnTarget": 6,
-        "accuratePasses": 317,
-        "duelsWon": 50,
-        "boxTouches": 24,
-        "fouls": 6,
-        "corners": 1,
+        "possession": 57,
+        "xg": 2.89,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 334,
+        "duelsWon": 53,
+        "boxTouches": 27,
+        "fouls": 7,
+        "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 44,
-        "xg": 0.65,
-        "shots": 8,
+        "possession": 43,
+        "xg": 0.72,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 210,
-        "duelsWon": 37,
-        "boxTouches": 16,
-        "fouls": 8,
+        "accuratePasses": 213,
+        "duelsWon": 38,
+        "boxTouches": 17,
+        "fouls": 9,
         "corners": 4,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -983,32 +1008,38 @@
           "type": "yellow-card",
           "teamId": "342",
           "playerName": "Rhian Brewster"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "342",
+          "playerName": "Carlton Morris"
         }
       ]
     },
     "561914": {
       "home": {
-        "possession": 54,
+        "possession": 52,
         "xg": 0.99,
         "shots": 14,
         "shotsOnTarget": 7,
-        "accuratePasses": 319,
-        "duelsWon": 30,
+        "accuratePasses": 343,
+        "duelsWon": 34,
         "boxTouches": 21,
         "fouls": 6,
         "corners": 8,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 1
       },
       "away": {
-        "possession": 46,
+        "possession": 48,
         "xg": 0.65,
-        "shots": 11,
+        "shots": 12,
         "shotsOnTarget": 2,
-        "accuratePasses": 273,
+        "accuratePasses": 316,
         "duelsWon": 25,
-        "boxTouches": 21,
-        "fouls": 7,
+        "boxTouches": 22,
+        "fouls": 10,
         "corners": 4,
         "offsides": 1,
         "saves": 4
@@ -1040,6 +1071,12 @@
           "teamId": "69",
           "playerName": "Richard Kone",
           "assist": "Karamoko Dembélé"
+        },
+        {
+          "minute": "72'",
+          "type": "yellow-card",
+          "teamId": "69",
+          "playerName": "Jonathan Varane"
         }
       ]
     },
@@ -1191,28 +1228,28 @@
     },
     "564735": {
       "home": {
-        "possession": 57,
-        "xg": 0.32,
-        "shots": 7,
-        "shotsOnTarget": 4,
-        "accuratePasses": 287,
-        "duelsWon": 20,
-        "boxTouches": 9,
+        "possession": 56,
+        "xg": 0.4,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 308,
+        "duelsWon": 22,
+        "boxTouches": 10,
         "fouls": 7,
         "corners": 3,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 43,
+        "possession": 44,
         "xg": 0.7,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 207,
-        "duelsWon": 17,
-        "boxTouches": 7,
-        "fouls": 4,
-        "corners": 1,
+        "accuratePasses": 230,
+        "duelsWon": 19,
+        "boxTouches": 8,
+        "fouls": 6,
+        "corners": 2,
         "offsides": 0,
         "saves": 4
       },
@@ -1229,6 +1266,13 @@
           "teamId": "87",
           "playerName": "Jorge de Frutos",
           "assist": "Sergio Camello"
+        },
+        {
+          "minute": "55'",
+          "type": "goal",
+          "teamId": "87",
+          "playerName": "Jorge de Frutos",
+          "assist": "Andrei Rațiu"
         }
       ]
     }
@@ -1730,7 +1774,7 @@
         "xg": 0.16,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 77,
+        "accuratePasses": 78,
         "duelsWon": 24,
         "boxTouches": 4,
         "fouls": 8,
@@ -1743,7 +1787,7 @@
   "PPL": {
     "567343": {
       "home": {
-        "possession": 47,
+        "possession": 46,
         "xg": 0.11,
         "shots": 4,
         "shotsOnTarget": 1,
@@ -1756,11 +1800,11 @@
         "saves": 0
       },
       "away": {
-        "possession": 53,
+        "possession": 54,
         "xg": 0.16,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 174,
+        "accuratePasses": 178,
         "duelsWon": 31,
         "boxTouches": 9,
         "fouls": 11,
