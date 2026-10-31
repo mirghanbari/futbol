@@ -2568,12 +2568,12 @@
   "DED": {
     "558850": {
       "home": {
-        "possession": 52,
+        "possession": 51,
         "xg": 1.52,
         "shots": 15,
         "shotsOnTarget": 7,
         "accuratePasses": 320,
-        "duelsWon": 62,
+        "duelsWon": 63,
         "boxTouches": 35,
         "fouls": 10,
         "corners": 7,
@@ -2581,16 +2581,16 @@
         "saves": 1
       },
       "away": {
-        "possession": 48,
-        "xg": 0.59,
-        "shots": 9,
-        "shotsOnTarget": 0,
-        "accuratePasses": 282,
-        "duelsWon": 42,
+        "possession": 49,
+        "xg": 0.61,
+        "shots": 10,
+        "shotsOnTarget": 1,
+        "accuratePasses": 288,
+        "duelsWon": 43,
         "boxTouches": 17,
-        "fouls": 10,
+        "fouls": 9,
         "corners": 2,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 3
       },
       "events": [
@@ -2642,8 +2642,7 @@
           "playerName": "Rafik El Arguioui",
           "assist": "Sami Bouhoudane"
         }
-      ],
-      "final": true
+      ]
     },
     "558851": {
       "home": {
@@ -2924,12 +2923,12 @@
   "PPL": {
     "567338": {
       "home": {
-        "possession": 70,
-        "xg": 2.71,
+        "possession": 68,
+        "xg": 3.05,
         "shots": 22,
         "shotsOnTarget": 10,
-        "accuratePasses": 440,
-        "duelsWon": 36,
+        "accuratePasses": 443,
+        "duelsWon": 37,
         "boxTouches": 46,
         "fouls": 7,
         "corners": 8,
@@ -2937,13 +2936,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 30,
-        "xg": 0.49,
-        "shots": 4,
+        "possession": 32,
+        "xg": 0.62,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 158,
+        "accuratePasses": 190,
         "duelsWon": 25,
-        "boxTouches": 6,
+        "boxTouches": 10,
         "fouls": 6,
         "corners": 0,
         "offsides": 1,
