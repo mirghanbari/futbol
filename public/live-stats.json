@@ -2642,7 +2642,8 @@
           "playerName": "Rafik El Arguioui",
           "assist": "Sami Bouhoudane"
         }
-      ]
+      ],
+      "final": true
     },
     "558851": {
       "home": {
@@ -2924,29 +2925,29 @@
     "567338": {
       "home": {
         "possession": 68,
-        "xg": 3.05,
-        "shots": 22,
-        "shotsOnTarget": 10,
-        "accuratePasses": 443,
-        "duelsWon": 37,
+        "xg": 3.08,
+        "shots": 23,
+        "shotsOnTarget": 11,
+        "accuratePasses": 479,
+        "duelsWon": 41,
         "boxTouches": 46,
-        "fouls": 7,
+        "fouls": 10,
         "corners": 8,
         "offsides": 2,
         "saves": 0
       },
       "away": {
         "possession": 32,
-        "xg": 0.62,
+        "xg": 0.59,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 190,
-        "duelsWon": 25,
+        "accuratePasses": 207,
+        "duelsWon": 28,
         "boxTouches": 10,
         "fouls": 6,
         "corners": 0,
         "offsides": 1,
-        "saves": 6
+        "saves": 7
       },
       "events": [
         {
