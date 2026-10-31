@@ -2,11 +2,12 @@
   "PL": {
     "560626": {
       "home": {
-        "possession": 64,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 49,
-        "duelsWon": 3,
+        "possession": 58,
+        "xg": 0.03,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 72,
+        "duelsWon": 7,
         "boxTouches": 1,
         "fouls": 0,
         "corners": 0,
@@ -14,15 +15,17 @@
         "saves": 0
       },
       "away": {
-        "possession": 36,
-        "shots": 0,
+        "possession": 42,
+        "xg": 0.04,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 23,
-        "duelsWon": 2,
-        "fouls": 1,
+        "accuratePasses": 48,
+        "duelsWon": 6,
+        "boxTouches": 4,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       }
     }
   },
@@ -61,52 +64,62 @@
     },
     "561910": {
       "home": {
-        "possession": 84,
+        "possession": 81,
         "xg": 0.13,
         "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 19,
-        "duelsWon": 2,
-        "boxTouches": 2,
-        "fouls": 1,
-        "corners": 2,
+        "shotsOnTarget": 0,
+        "accuratePasses": 50,
+        "duelsWon": 10,
+        "boxTouches": 7,
+        "fouls": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 16,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 4,
-        "duelsWon": 3,
+        "possession": 19,
+        "xg": 0.11,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 12,
+        "duelsWon": 6,
+        "boxTouches": 1,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 1
-      }
+      },
+      "events": [
+        {
+          "minute": "10'",
+          "type": "goal",
+          "teamId": "346",
+          "playerName": "Myron Boadu",
+          "assist": "Iker Bravo"
+        }
+      ]
     },
     "561915": {
       "home": {
-        "possession": 55,
-        "xg": 0,
-        "shots": 0,
+        "possession": 44,
+        "xg": 0.05,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 6,
-        "duelsWon": 1,
-        "fouls": 1,
+        "accuratePasses": 11,
+        "duelsWon": 3,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 45,
+        "possession": 56,
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 7,
-        "duelsWon": 3,
-        "fouls": 1,
+        "accuratePasses": 22,
+        "duelsWon": 5,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
