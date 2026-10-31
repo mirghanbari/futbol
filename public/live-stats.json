@@ -1913,25 +1913,26 @@
     },
     "558542": {
       "home": {
-        "possession": 44,
-        "xg": 0.02,
-        "shots": 1,
+        "possession": 45,
+        "xg": 0.08,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 66,
-        "duelsWon": 8,
-        "fouls": 3,
-        "corners": 0,
+        "accuratePasses": 81,
+        "duelsWon": 11,
+        "boxTouches": 2,
+        "fouls": 4,
+        "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 56,
+        "possession": 55,
         "xg": 0.08,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 91,
-        "duelsWon": 8,
-        "boxTouches": 2,
+        "accuratePasses": 108,
+        "duelsWon": 9,
+        "boxTouches": 3,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
@@ -1952,26 +1953,26 @@
   "DED": {
     "558854": {
       "home": {
-        "possession": 72,
+        "possession": 70,
         "xg": 2.41,
         "shots": 14,
         "shotsOnTarget": 6,
-        "accuratePasses": 598,
+        "accuratePasses": 606,
         "duelsWon": 43,
         "boxTouches": 36,
         "fouls": 5,
         "corners": 6,
-        "offsides": 2,
+        "offsides": 5,
         "saves": 1
       },
       "away": {
-        "possession": 28,
-        "xg": 0.27,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 187,
-        "duelsWon": 42,
-        "boxTouches": 8,
+        "possession": 30,
+        "xg": 0.78,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 217,
+        "duelsWon": 44,
+        "boxTouches": 10,
         "fouls": 13,
         "corners": 1,
         "offsides": 0,
@@ -1990,6 +1991,13 @@
           "type": "yellow-card",
           "teamId": "1920",
           "playerName": "Syb van Ottele"
+        },
+        {
+          "minute": "86'",
+          "type": "goal",
+          "teamId": "1920",
+          "playerName": "Shiloh Zand",
+          "assist": "Sven Simons"
         }
       ]
     }
@@ -1997,25 +2005,25 @@
   "PPL": {
     "567343": {
       "home": {
-        "possession": 48,
+        "possession": 50,
         "xg": 0.33,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 267,
-        "duelsWon": 47,
+        "accuratePasses": 297,
+        "duelsWon": 49,
         "boxTouches": 8,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 2,
         "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 52,
+        "possession": 50,
         "xg": 0.53,
         "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 269,
-        "duelsWon": 51,
+        "accuratePasses": 276,
+        "duelsWon": 54,
         "boxTouches": 16,
         "fouls": 14,
         "corners": 1,
