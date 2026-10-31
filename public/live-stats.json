@@ -303,9 +303,9 @@
       "home": {
         "possession": 78,
         "xg": 0.74,
-        "shots": 8,
+        "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 386,
+        "accuratePasses": 399,
         "duelsWon": 26,
         "boxTouches": 25,
         "fouls": 5,
@@ -318,7 +318,7 @@
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 94,
+        "accuratePasses": 95,
         "duelsWon": 28,
         "fouls": 7,
         "corners": 0,
@@ -1799,7 +1799,7 @@
         "xg": 1.84,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 244,
+        "accuratePasses": 243,
         "duelsWon": 20,
         "boxTouches": 17,
         "fouls": 7,
@@ -2060,25 +2060,25 @@
     },
     "558542": {
       "home": {
-        "possession": 44,
-        "xg": 1.47,
-        "shots": 12,
-        "shotsOnTarget": 6,
-        "accuratePasses": 270,
-        "duelsWon": 30,
-        "boxTouches": 10,
+        "possession": 46,
+        "xg": 1.72,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 305,
+        "duelsWon": 32,
+        "boxTouches": 12,
         "fouls": 10,
-        "corners": 5,
+        "corners": 6,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 56,
+        "possession": 54,
         "xg": 2.57,
         "shots": 12,
         "shotsOnTarget": 7,
-        "accuratePasses": 375,
-        "duelsWon": 30,
+        "accuratePasses": 378,
+        "duelsWon": 31,
         "boxTouches": 18,
         "fouls": 5,
         "corners": 4,
@@ -2133,6 +2133,13 @@
           "type": "yellow-card",
           "teamId": "100",
           "playerName": "Bryan Cristante"
+        },
+        {
+          "minute": "78'",
+          "type": "goal",
+          "teamId": "115",
+          "playerName": "Matteo Palma",
+          "assist": "Hassane Kamara"
         }
       ]
     }
@@ -2140,26 +2147,26 @@
   "DED": {
     "558852": {
       "home": {
-        "possession": 40,
+        "possession": 39,
         "xg": 0.82,
         "shots": 5,
         "shotsOnTarget": 1,
         "accuratePasses": 142,
-        "duelsWon": 16,
+        "duelsWon": 17,
         "boxTouches": 12,
         "fouls": 2,
         "corners": 3,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 60,
-        "xg": 0.67,
-        "shots": 11,
-        "shotsOnTarget": 1,
-        "accuratePasses": 232,
+        "possession": 61,
+        "xg": 0.77,
+        "shots": 13,
+        "shotsOnTarget": 2,
+        "accuratePasses": 246,
         "duelsWon": 15,
-        "boxTouches": 19,
+        "boxTouches": 24,
         "fouls": 4,
         "corners": 4,
         "offsides": 0,
@@ -2185,7 +2192,7 @@
           "playerName": "Bryan Linssen"
         },
         {
-          "minute": "44'",
+          "minute": "43'",
           "type": "yellow-card",
           "teamId": "673",
           "playerName": "Vasilios Zagaritis"
@@ -2195,14 +2202,14 @@
     "558853": {
       "home": {
         "possession": 72,
-        "xg": 0.58,
-        "shots": 7,
-        "shotsOnTarget": 2,
+        "xg": 0.93,
+        "shots": 8,
+        "shotsOnTarget": 3,
         "accuratePasses": 335,
-        "duelsWon": 20,
-        "boxTouches": 16,
+        "duelsWon": 21,
+        "boxTouches": 18,
         "fouls": 4,
-        "corners": 4,
+        "corners": 5,
         "offsides": 2,
         "saves": 0
       },
@@ -2211,7 +2218,7 @@
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 107,
+        "accuratePasses": 108,
         "duelsWon": 15,
         "boxTouches": 1,
         "fouls": 2,
@@ -2236,7 +2243,7 @@
           "minute": "44'",
           "type": "goal",
           "teamId": "674",
-          "playerName": "<TBD>"
+          "playerName": "Guus Til"
         }
       ]
     },
