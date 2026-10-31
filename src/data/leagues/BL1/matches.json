@@ -3334,7 +3334,7 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-31T14:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "18",
     "awayTeamId": "29",
     "homeTeam": {
@@ -3342,6 +3342,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 1.03,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 276,
+        "duelsWon": 56,
+        "boxTouches": 19,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 57,
+        "xg": 1.02,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 418,
+        "duelsWon": 55,
+        "boxTouches": 26,
+        "fouls": 9,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "BORUSSIA-PARK, Mönchengladbach",
     "broadcasts": [
@@ -3358,14 +3386,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-31T14:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "6",
     "awayTeamId": "721",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 0.49,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 302,
+        "duelsWon": 44,
+        "boxTouches": 10,
+        "fouls": 16,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 8
+      },
+      "away": {
+        "possession": 60,
+        "xg": 3.24,
+        "shots": 18,
+        "shotsOnTarget": 10,
+        "accuratePasses": 480,
+        "duelsWon": 59,
+        "boxTouches": 43,
+        "fouls": 16,
+        "corners": 7,
+        "offsides": 4,
+        "saves": 1
+      }
     },
     "venue": "Veltins Arena, Gelsenkirchen",
     "broadcasts": [
@@ -3382,14 +3438,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-31T14:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "16",
     "awayTeamId": "17",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.19,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 396,
+        "duelsWon": 42,
+        "boxTouches": 27,
+        "fouls": 7,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.19,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 360,
+        "duelsWon": 51,
+        "boxTouches": 26,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "WWK Arena, Augsburg",
     "broadcasts": [
@@ -3406,14 +3490,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-31T14:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "12",
     "awayTeamId": "2",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 1.16,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 268,
+        "duelsWon": 72,
+        "boxTouches": 34,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 59,
+        "xg": 1.13,
+        "shots": 16,
+        "shotsOnTarget": 2,
+        "accuratePasses": 432,
+        "duelsWon": 61,
+        "boxTouches": 26,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Weserstadion, Bremen",
     "broadcasts": [
@@ -3430,14 +3542,42 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-31T14:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "3",
     "awayTeamId": "10",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 1.98,
+        "shots": 24,
+        "shotsOnTarget": 8,
+        "accuratePasses": 431,
+        "duelsWon": 52,
+        "boxTouches": 47,
+        "fouls": 9,
+        "corners": 12,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 37,
+        "xg": 2.81,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 228,
+        "duelsWon": 41,
+        "boxTouches": 16,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 6
+      }
     },
     "venue": "BayArena, Leverkusen",
     "broadcasts": [
@@ -3454,14 +3594,14 @@
     "matchday": 8,
     "stage": "regular",
     "utcDate": "2026-10-31T17:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "5",
     "awayTeamId": "4",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Allianz Arena, München",
     "broadcasts": [

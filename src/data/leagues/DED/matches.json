@@ -4386,14 +4386,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-31T15:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "675",
     "awayTeamId": "1920",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 69,
+        "xg": 2.56,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 662,
+        "duelsWon": 45,
+        "boxTouches": 44,
+        "fouls": 6,
+        "corners": 6,
+        "offsides": 5,
+        "saves": 2
+      },
+      "away": {
+        "possession": 31,
+        "xg": 0.89,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 239,
+        "duelsWon": 50,
+        "boxTouches": 11,
+        "fouls": 13,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "De Kuip, Rotterdam",
     "broadcasts": [
@@ -4410,11 +4438,11 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-31T17:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "673",
     "awayTeamId": "1915",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -4434,11 +4462,11 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-31T17:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "674",
     "awayTeamId": "672",
     "homeTeam": {
-      "goals": 0
+      "goals": 6
     },
     "awayTeam": {
       "goals": 0

@@ -5536,14 +5536,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-31T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "87",
     "awayTeamId": "558",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 1.1,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 435,
+        "duelsWon": 41,
+        "boxTouches": 20,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.24,
+        "shots": 11,
+        "shotsOnTarget": 0,
+        "accuratePasses": 382,
+        "duelsWon": 29,
+        "boxTouches": 20,
+        "fouls": 16,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 6
+      }
     },
     "venue": "Estadio de Vallecas, Madrid",
     "broadcasts": [
@@ -5564,14 +5592,14 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-10-31T17:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "90",
     "awayTeamId": "84",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Estadio La Cartuja, Sevilla",
     "broadcasts": [
