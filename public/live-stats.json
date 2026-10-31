@@ -6,12 +6,12 @@
         "xg": 1.85,
         "shots": 12,
         "shotsOnTarget": 7,
-        "accuratePasses": 268,
-        "duelsWon": 41,
+        "accuratePasses": 296,
+        "duelsWon": 44,
         "boxTouches": 28,
         "fouls": 6,
         "corners": 6,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 1
       },
       "away": {
@@ -19,10 +19,10 @@
         "xg": 1.09,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 206,
-        "duelsWon": 33,
-        "boxTouches": 18,
-        "fouls": 14,
+        "accuratePasses": 227,
+        "duelsWon": 34,
+        "boxTouches": 20,
+        "fouls": 16,
         "corners": 6,
         "offsides": 1,
         "saves": 5
@@ -59,6 +59,12 @@
           "type": "yellow-card",
           "teamId": "66",
           "playerName": "Harry Maguire"
+        },
+        {
+          "minute": "70'",
+          "type": "yellow-card",
+          "teamId": "66",
+          "playerName": "Kobbie Mainoo"
         }
       ]
     }
@@ -66,27 +72,27 @@
   "ELC": {
     "561908": {
       "home": {
-        "possession": 58,
-        "xg": 1.37,
-        "shots": 9,
+        "possession": 59,
+        "xg": 1.38,
+        "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 246,
-        "duelsWon": 36,
-        "boxTouches": 15,
-        "fouls": 9,
+        "accuratePasses": 273,
+        "duelsWon": 43,
+        "boxTouches": 17,
+        "fouls": 10,
         "corners": 6,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 42,
+        "possession": 41,
         "xg": 0.08,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 149,
-        "duelsWon": 37,
+        "accuratePasses": 167,
+        "duelsWon": 40,
         "boxTouches": 6,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 6,
         "offsides": 1,
         "saves": 2
@@ -122,26 +128,26 @@
     },
     "561910": {
       "home": {
-        "possession": 65,
-        "xg": 0.57,
-        "shots": 11,
-        "shotsOnTarget": 4,
-        "accuratePasses": 357,
-        "duelsWon": 49,
-        "boxTouches": 24,
-        "fouls": 10,
+        "possession": 62,
+        "xg": 0.78,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 367,
+        "duelsWon": 53,
+        "boxTouches": 26,
+        "fouls": 11,
         "corners": 8,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 35,
+        "possession": 38,
         "xg": 0.92,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 177,
-        "duelsWon": 36,
-        "boxTouches": 9,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 209,
+        "duelsWon": 38,
+        "boxTouches": 10,
         "fouls": 8,
         "corners": 2,
         "offsides": 1,
@@ -186,18 +192,25 @@
           "type": "yellow-card",
           "teamId": "68",
           "playerName": "José Córdoba"
+        },
+        {
+          "minute": "71'",
+          "type": "goal",
+          "teamId": "68",
+          "playerName": "Edmond-Paris Maghoma",
+          "assist": "Mathias Kvistgaarden"
         }
       ]
     },
     "561915": {
       "home": {
         "possession": 57,
-        "xg": 1.38,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 174,
-        "duelsWon": 45,
-        "boxTouches": 23,
+        "xg": 1.46,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 198,
+        "duelsWon": 46,
+        "boxTouches": 28,
         "fouls": 9,
         "corners": 3,
         "offsides": 1,
@@ -205,11 +218,11 @@
       },
       "away": {
         "possession": 43,
-        "xg": 0.82,
-        "shots": 9,
+        "xg": 0.84,
+        "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 127,
-        "duelsWon": 40,
+        "accuratePasses": 141,
+        "duelsWon": 41,
         "boxTouches": 17,
         "fouls": 7,
         "corners": 2,
@@ -259,6 +272,13 @@
           "teamId": "332",
           "playerName": "August Priske",
           "assist": "Christoph Klarer"
+        },
+        {
+          "minute": "63'",
+          "type": "goal",
+          "teamId": "1126",
+          "playerName": "Tom Bayliss",
+          "assist": "Mikkel Ladefoged"
         }
       ]
     }
@@ -283,8 +303,8 @@
         "xg": 0.22,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 303,
-        "duelsWon": 21,
+        "accuratePasses": 304,
+        "duelsWon": 22,
         "boxTouches": 10,
         "fouls": 2,
         "corners": 1,
@@ -305,6 +325,36 @@
           "playerName": "Alejandro Grimaldo"
         }
       ]
+    }
+  },
+  "SA": {
+    "558539": {
+      "home": {
+        "possession": 68,
+        "xg": 0.15,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 13,
+        "duelsWon": 3,
+        "boxTouches": 4,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 32,
+        "xg": 0.07,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 6,
+        "duelsWon": 5,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   }
 }
