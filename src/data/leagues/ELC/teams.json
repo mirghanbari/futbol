@@ -72,6 +72,14 @@
     "competitionId": "ELC"
   },
   {
+    "id": "356",
+    "name": "Sheffield United FC",
+    "shortName": "Sheffield Utd",
+    "tla": "SHE",
+    "crest": "https://crests.football-data.org/356.png",
+    "competitionId": "ELC"
+  },
+  {
     "id": "59",
     "name": "Blackburn Rovers FC",
     "shortName": "Blackburn",
@@ -85,14 +93,6 @@
     "shortName": "Portsmouth",
     "tla": "POR",
     "crest": "https://crests.football-data.org/325.png",
-    "competitionId": "ELC"
-  },
-  {
-    "id": "356",
-    "name": "Sheffield United FC",
-    "shortName": "Sheffield Utd",
-    "tla": "SHE",
-    "crest": "https://crests.football-data.org/356.png",
     "competitionId": "ELC"
   },
   {
@@ -136,19 +136,19 @@
     "competitionId": "ELC"
   },
   {
-    "id": "348",
-    "name": "Charlton Athletic FC",
-    "shortName": "Charlton",
-    "tla": "CHA",
-    "crest": "https://crests.football-data.org/348.png",
-    "competitionId": "ELC"
-  },
-  {
     "id": "60",
     "name": "Bolton Wanderers FC",
     "shortName": "Bolton",
     "tla": "BOL",
     "crest": "https://crests.football-data.org/60.png",
+    "competitionId": "ELC"
+  },
+  {
+    "id": "348",
+    "name": "Charlton Athletic FC",
+    "shortName": "Charlton",
+    "tla": "CHA",
+    "crest": "https://crests.football-data.org/348.png",
     "competitionId": "ELC"
   },
   {
