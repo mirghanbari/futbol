@@ -2227,10 +2227,10 @@
         "xg": 1.42,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 265,
+        "accuratePasses": 266,
         "duelsWon": 34,
         "boxTouches": 16,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 5,
         "offsides": 0,
         "saves": 1
@@ -2240,26 +2240,26 @@
         "xg": 1.31,
         "shots": 21,
         "shotsOnTarget": 2,
-        "accuratePasses": 469,
-        "duelsWon": 40,
+        "accuratePasses": 471,
+        "duelsWon": 41,
         "boxTouches": 42,
         "fouls": 7,
         "corners": 7,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "events": [
         {
           "minute": "32'",
           "type": "yellow-card",
-          "teamId": "673",
-          "playerName": "Oliver Braude"
+          "teamId": "1915",
+          "playerName": "Clement Bischoff"
         },
         {
           "minute": "32'",
           "type": "yellow-card",
-          "teamId": "1915",
-          "playerName": "Clement Bischoff"
+          "teamId": "673",
+          "playerName": "Oliver Braude"
         },
         {
           "minute": "34'",
@@ -2293,7 +2293,8 @@
           "teamId": "1915",
           "playerName": "Ayodele Thomas"
         }
-      ]
+      ],
+      "final": true
     },
     "558853": {
       "home": {
