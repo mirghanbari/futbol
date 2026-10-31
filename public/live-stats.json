@@ -363,6 +363,34 @@
       ],
       "final": true
     },
+    "560628": {
+      "home": {
+        "possession": 17,
+        "xg": 0.04,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 10,
+        "duelsWon": 3,
+        "boxTouches": 2,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 83,
+        "xg": 0.3,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 62,
+        "duelsWon": 4,
+        "boxTouches": 2,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "560629": {
       "home": {
         "possession": 38,
@@ -1428,6 +1456,30 @@
       ],
       "final": true
     },
+    "564732": {
+      "home": {
+        "possession": 83,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 23,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 17,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 3,
+        "duelsWon": 0,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "564735": {
       "home": {
         "possession": 53,
@@ -2221,29 +2273,29 @@
     },
     "558548": {
       "home": {
-        "possession": 53,
+        "possession": 58,
         "xg": 0.36,
-        "shots": 2,
+        "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 62,
+        "accuratePasses": 102,
         "duelsWon": 4,
-        "boxTouches": 3,
-        "fouls": 0,
+        "boxTouches": 6,
+        "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 47,
-        "xg": 0.02,
+        "possession": 42,
+        "xg": 0.23,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 49,
-        "duelsWon": 5,
+        "accuratePasses": 66,
+        "duelsWon": 9,
         "boxTouches": 2,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 2,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "events": [
@@ -2260,7 +2312,7 @@
           "type": "goal",
           "teamId": "98",
           "playerName": "Adrien Rabiot",
-          "assist": "Luka Modrić"
+          "assist": "Diego Moreira"
         }
       ]
     }
@@ -2268,50 +2320,97 @@
   "FL1": {
     "559643": {
       "home": {
-        "possession": 51,
+        "possession": 47,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 90,
-        "duelsWon": 14,
+        "accuratePasses": 93,
+        "duelsWon": 15,
+        "boxTouches": 1,
+        "fouls": 5,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 53,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 113,
+        "duelsWon": 11,
         "boxTouches": 1,
         "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "18'",
+          "type": "yellow-card",
+          "teamId": "531",
+          "playerName": "Michel Diaz"
+        }
+      ]
+    }
+  },
+  "DED": {
+    "558850": {
+      "home": {
+        "possession": 58,
+        "xg": 0.05,
+        "shots": 2,
+        "shotsOnTarget": 0,
+        "accuratePasses": 33,
+        "duelsWon": 2,
+        "boxTouches": 3,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 42,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 20,
+        "duelsWon": 5,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "7'",
+          "type": "goal",
+          "teamId": "1909",
+          "playerName": "Ismaël Baouf",
+          "method": "header"
+        }
+      ]
+    },
+    "558851": {
+      "home": {
+        "possession": 51,
+        "xg": 0.04,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 28,
+        "duelsWon": 3,
+        "boxTouches": 4,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
         "possession": 49,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 89,
-        "duelsWon": 9,
-        "boxTouches": 1,
-        "fouls": 1,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 0
-      }
-    }
-  },
-  "DED": {
-    "558851": {
-      "home": {
-        "possession": 6,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 0,
-        "duelsWon": 2,
-        "fouls": 0,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 0
-      },
-      "away": {
-        "possession": 94,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 12,
-        "duelsWon": 0,
+        "accuratePasses": 28,
+        "duelsWon": 4,
         "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
