@@ -301,26 +301,26 @@
     },
     "560627": {
       "home": {
-        "possession": 78,
+        "possession": 76,
         "xg": 0.66,
-        "shots": 5,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 258,
-        "duelsWon": 17,
-        "boxTouches": 18,
-        "fouls": 4,
+        "accuratePasses": 315,
+        "duelsWon": 19,
+        "boxTouches": 23,
+        "fouls": 5,
         "corners": 4,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 22,
+        "possession": 24,
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 59,
-        "duelsWon": 23,
-        "fouls": 5,
+        "accuratePasses": 87,
+        "duelsWon": 27,
+        "fouls": 6,
         "corners": 0,
         "offsides": 1,
         "saves": 0
@@ -1485,30 +1485,30 @@
     },
     "564736": {
       "home": {
-        "possession": 58,
-        "xg": 0.62,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 190,
-        "duelsWon": 24,
-        "boxTouches": 15,
-        "fouls": 0,
+        "possession": 59,
+        "xg": 0.65,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 233,
+        "duelsWon": 28,
+        "boxTouches": 16,
+        "fouls": 1,
         "corners": 5,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 42,
-        "xg": 0.17,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 138,
-        "duelsWon": 10,
-        "boxTouches": 6,
-        "fouls": 5,
+        "possession": 41,
+        "xg": 0.25,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 158,
+        "duelsWon": 13,
+        "boxTouches": 7,
+        "fouls": 6,
         "corners": 0,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -1777,11 +1777,11 @@
       "home": {
         "possession": 52,
         "xg": 0.9,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 172,
-        "duelsWon": 14,
-        "boxTouches": 15,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 182,
+        "duelsWon": 16,
+        "boxTouches": 17,
         "fouls": 4,
         "corners": 0,
         "offsides": 0,
@@ -1792,13 +1792,13 @@
         "xg": 0.3,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 159,
+        "accuratePasses": 160,
         "duelsWon": 14,
-        "boxTouches": 11,
+        "boxTouches": 13,
         "fouls": 4,
         "corners": 0,
-        "offsides": 0,
-        "saves": 1
+        "offsides": 1,
+        "saves": 2
       },
       "events": [
         {
@@ -1806,6 +1806,12 @@
           "type": "yellow-card",
           "teamId": "4",
           "playerName": "Jobe Bellingham"
+        },
+        {
+          "minute": "38'",
+          "type": "goal",
+          "teamId": "5",
+          "playerName": "Konrad Laimer"
         }
       ]
     },
@@ -2034,30 +2040,30 @@
     },
     "558542": {
       "home": {
-        "possession": 46,
-        "xg": 0.7,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 169,
-        "duelsWon": 19,
-        "boxTouches": 5,
-        "fouls": 7,
+        "possession": 47,
+        "xg": 1.29,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 210,
+        "duelsWon": 23,
+        "boxTouches": 7,
+        "fouls": 8,
         "corners": 3,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 54,
+        "possession": 53,
         "xg": 2.54,
         "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 214,
-        "duelsWon": 19,
+        "accuratePasses": 251,
+        "duelsWon": 20,
         "boxTouches": 14,
         "fouls": 3,
         "corners": 2,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -2095,6 +2101,12 @@
           "playerName": "Evan N'Dicka",
           "method": "header",
           "assist": "Matias Soulé"
+        },
+        {
+          "minute": "50'",
+          "type": "goal",
+          "teamId": "115",
+          "playerName": "Nicolò Zaniolo"
         }
       ]
     }
@@ -2102,56 +2114,66 @@
   "DED": {
     "558852": {
       "home": {
-        "possession": 36,
-        "xg": 0,
-        "shots": 0,
+        "possession": 34,
+        "xg": 0.28,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 50,
-        "duelsWon": 6,
-        "boxTouches": 2,
-        "fouls": 0,
+        "accuratePasses": 72,
+        "duelsWon": 9,
+        "boxTouches": 3,
+        "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 64,
-        "xg": 0.01,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 99,
-        "duelsWon": 3,
-        "boxTouches": 3,
+        "possession": 66,
+        "xg": 0.23,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 148,
+        "duelsWon": 6,
+        "boxTouches": 9,
         "fouls": 4,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       }
     },
     "558853": {
       "home": {
-        "possession": 75,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 145,
+        "possession": 76,
+        "xg": 0.22,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 190,
         "duelsWon": 6,
-        "boxTouches": 2,
+        "boxTouches": 6,
         "fouls": 1,
-        "corners": 1,
+        "corners": 2,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 25,
+        "possession": 24,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 39,
+        "accuratePasses": 46,
         "duelsWon": 9,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "20'",
+          "type": "goal",
+          "teamId": "674",
+          "playerName": "Mauro Júnior"
+        }
+      ]
     },
     "558854": {
       "home": {
