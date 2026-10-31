@@ -365,26 +365,26 @@
     },
     "560628": {
       "home": {
-        "possession": 54,
-        "xg": 0.98,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 161,
-        "duelsWon": 18,
-        "boxTouches": 11,
+        "possession": 50,
+        "xg": 1.2,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 181,
+        "duelsWon": 20,
+        "boxTouches": 14,
         "fouls": 2,
         "corners": 5,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 46,
-        "xg": 0.58,
-        "shots": 4,
+        "possession": 50,
+        "xg": 0.6,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 133,
+        "accuratePasses": 177,
         "duelsWon": 13,
-        "boxTouches": 7,
+        "boxTouches": 8,
         "fouls": 5,
         "corners": 1,
         "offsides": 1,
@@ -396,6 +396,13 @@
           "type": "yellow-card",
           "teamId": "63",
           "playerName": "David Affengruber"
+        },
+        {
+          "minute": "39'",
+          "type": "goal",
+          "teamId": "58",
+          "playerName": "Nicolas Jackson",
+          "assist": "Johan Manzambi"
         }
       ]
     },
@@ -1466,30 +1473,30 @@
     },
     "564732": {
       "home": {
-        "possession": 74,
-        "xg": 0.7,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 292,
-        "duelsWon": 10,
-        "boxTouches": 7,
-        "fouls": 2,
-        "corners": 0,
+        "possession": 75,
+        "xg": 1.93,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 349,
+        "duelsWon": 12,
+        "boxTouches": 12,
+        "fouls": 3,
+        "corners": 2,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 26,
-        "xg": 0.35,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 86,
-        "duelsWon": 8,
-        "boxTouches": 6,
+        "possession": 25,
+        "xg": 0.46,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 94,
+        "duelsWon": 10,
+        "boxTouches": 7,
         "fouls": 5,
         "corners": 2,
         "offsides": 3,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -2325,8 +2332,8 @@
         "shots": 9,
         "shotsOnTarget": 6,
         "accuratePasses": 218,
-        "duelsWon": 20,
-        "boxTouches": 9,
+        "duelsWon": 19,
+        "boxTouches": 8,
         "fouls": 6,
         "corners": 7,
         "offsides": 1,
@@ -2414,27 +2421,27 @@
   "DED": {
     "558850": {
       "home": {
-        "possession": 45,
+        "possession": 44,
         "xg": 0.84,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 132,
-        "duelsWon": 20,
-        "boxTouches": 13,
-        "fouls": 5,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 146,
+        "duelsWon": 25,
+        "boxTouches": 17,
+        "fouls": 6,
         "corners": 4,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 55,
+        "possession": 56,
         "xg": 0.05,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 157,
-        "duelsWon": 14,
+        "accuratePasses": 181,
+        "duelsWon": 18,
         "boxTouches": 2,
-        "fouls": 2,
+        "fouls": 4,
         "corners": 0,
         "offsides": 1,
         "saves": 1
@@ -2454,31 +2461,38 @@
           "teamId": "1909",
           "playerName": "Jason Çeka",
           "assist": "Devid Eugene Bouah"
+        },
+        {
+          "minute": "41'",
+          "type": "goal",
+          "teamId": "1909",
+          "playerName": "Billy van Duijl",
+          "method": "header"
         }
       ]
     },
     "558851": {
       "home": {
-        "possession": 49,
-        "xg": 0.29,
-        "shots": 3,
+        "possession": 48,
+        "xg": 0.31,
+        "shots": 4,
         "shotsOnTarget": 1,
         "accuratePasses": 197,
-        "duelsWon": 12,
-        "boxTouches": 8,
+        "duelsWon": 13,
+        "boxTouches": 9,
         "fouls": 6,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 51,
+        "possession": 52,
         "xg": 0.11,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 214,
-        "duelsWon": 14,
-        "boxTouches": 10,
+        "accuratePasses": 222,
+        "duelsWon": 15,
+        "boxTouches": 11,
         "fouls": 3,
         "corners": 0,
         "offsides": 3,
@@ -2729,36 +2743,38 @@
   "PPL": {
     "567338": {
       "home": {
-        "possession": 56,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 7,
-        "duelsWon": 2,
+        "possession": 80,
+        "xg": 0.74,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 46,
+        "duelsWon": 6,
+        "boxTouches": 7,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 44,
+        "possession": 20,
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 6,
+        "accuratePasses": 11,
         "duelsWon": 2,
         "boxTouches": 1,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
           "minute": "4'",
           "type": "goal",
           "teamId": "503",
-          "playerName": "<TBD>"
+          "playerName": "Victor Froholdt",
+          "assist": "Pepê"
         }
       ]
     },
