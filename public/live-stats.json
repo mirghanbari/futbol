@@ -302,14 +302,14 @@
     "560627": {
       "home": {
         "possession": 78,
-        "xg": 0.04,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 185,
-        "duelsWon": 11,
-        "boxTouches": 8,
-        "fouls": 2,
-        "corners": 2,
+        "xg": 0.66,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 204,
+        "duelsWon": 15,
+        "boxTouches": 13,
+        "fouls": 3,
+        "corners": 3,
         "offsides": 0,
         "saves": 1
       },
@@ -318,9 +318,9 @@
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 45,
-        "duelsWon": 18,
-        "fouls": 4,
+        "accuratePasses": 48,
+        "duelsWon": 21,
+        "fouls": 5,
         "corners": 0,
         "offsides": 1,
         "saves": 0
@@ -337,6 +337,14 @@
           "type": "yellow-card",
           "teamId": "73",
           "playerName": "Archie Gray"
+        },
+        {
+          "minute": "25'",
+          "type": "goal",
+          "teamId": "73",
+          "playerName": "Archie Gray",
+          "method": "header",
+          "assist": "Mohammed Kudus"
         }
       ]
     },
@@ -1478,30 +1486,38 @@
     "564736": {
       "home": {
         "possession": 63,
-        "xg": 0.55,
+        "xg": 0.59,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 138,
-        "duelsWon": 18,
-        "boxTouches": 13,
+        "accuratePasses": 181,
+        "duelsWon": 20,
+        "boxTouches": 14,
         "fouls": 0,
-        "corners": 4,
+        "corners": 5,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
         "possession": 37,
-        "xg": 0.03,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 75,
+        "xg": 0.17,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 106,
         "duelsWon": 10,
-        "boxTouches": 4,
-        "fouls": 3,
+        "boxTouches": 6,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 2
-      }
+      },
+      "events": [
+        {
+          "minute": "20'",
+          "type": "yellow-card",
+          "teamId": "84",
+          "playerName": "David Larrubia"
+        }
+      ]
     }
   },
   "BL1": {
@@ -1759,30 +1775,30 @@
     },
     "565845": {
       "home": {
-        "possession": 52,
-        "xg": 0.51,
-        "shots": 4,
-        "shotsOnTarget": 0,
-        "accuratePasses": 128,
+        "possession": 50,
+        "xg": 0.9,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 145,
         "duelsWon": 10,
-        "boxTouches": 14,
-        "fouls": 2,
+        "boxTouches": 15,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 48,
-        "xg": 0.24,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 116,
-        "duelsWon": 10,
-        "boxTouches": 4,
+        "possession": 50,
+        "xg": 0.3,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 141,
+        "duelsWon": 13,
+        "boxTouches": 11,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -2084,13 +2100,14 @@
     }
   },
   "DED": {
-    "558853": {
+    "558852": {
       "home": {
-        "possession": 90,
+        "possession": 38,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 59,
-        "duelsWon": 0,
+        "accuratePasses": 39,
+        "duelsWon": 4,
         "boxTouches": 1,
         "fouls": 0,
         "corners": 0,
@@ -2098,11 +2115,38 @@
         "saves": 0
       },
       "away": {
-        "possession": 10,
+        "possession": 62,
+        "xg": 0.01,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 71,
+        "duelsWon": 2,
+        "boxTouches": 2,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "558853": {
+      "home": {
+        "possession": 79,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 2,
+        "accuratePasses": 88,
         "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 21,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 17,
+        "duelsWon": 5,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
