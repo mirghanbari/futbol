@@ -2,27 +2,27 @@
   "PL": {
     "560626": {
       "home": {
-        "possession": 56,
-        "xg": 1.97,
-        "shots": 15,
-        "shotsOnTarget": 8,
-        "accuratePasses": 380,
-        "duelsWon": 48,
-        "boxTouches": 34,
+        "possession": 57,
+        "xg": 2.02,
+        "shots": 16,
+        "shotsOnTarget": 9,
+        "accuratePasses": 420,
+        "duelsWon": 53,
+        "boxTouches": 36,
         "fouls": 7,
         "corners": 7,
         "offsides": 3,
         "saves": 2
       },
       "away": {
-        "possession": 44,
+        "possession": 43,
         "xg": 1.11,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 251,
-        "duelsWon": 35,
+        "accuratePasses": 277,
+        "duelsWon": 37,
         "boxTouches": 20,
-        "fouls": 17,
+        "fouls": 19,
         "corners": 6,
         "offsides": 1,
         "saves": 7
@@ -71,6 +71,12 @@
           "type": "yellow-card",
           "teamId": "66",
           "playerName": "Bryan Mbeumo"
+        },
+        {
+          "minute": "86'",
+          "type": "yellow-card",
+          "teamId": "66",
+          "playerName": "Joshua Zirkzee"
         }
       ]
     }
@@ -79,12 +85,12 @@
     "561908": {
       "home": {
         "possession": 59,
-        "xg": 1.89,
+        "xg": 2.02,
         "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 312,
-        "duelsWon": 45,
-        "boxTouches": 28,
+        "accuratePasses": 330,
+        "duelsWon": 48,
+        "boxTouches": 29,
         "fouls": 11,
         "corners": 9,
         "offsides": 2,
@@ -95,7 +101,7 @@
         "xg": 0.1,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 188,
+        "accuratePasses": 198,
         "duelsWon": 46,
         "boxTouches": 7,
         "fouls": 13,
@@ -135,32 +141,38 @@
           "type": "yellow-card",
           "teamId": "70",
           "playerName": "Ethan Galbraith"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "1081",
+          "playerName": "Jusef Erabi"
         }
       ]
     },
     "561910": {
       "home": {
-        "possession": 58,
-        "xg": 0.93,
+        "possession": 59,
+        "xg": 1,
         "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 383,
-        "duelsWon": 64,
-        "boxTouches": 33,
+        "accuratePasses": 400,
+        "duelsWon": 69,
+        "boxTouches": 35,
         "fouls": 12,
         "corners": 9,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 42,
+        "possession": 41,
         "xg": 0.94,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 266,
-        "duelsWon": 44,
+        "accuratePasses": 272,
+        "duelsWon": 46,
         "boxTouches": 10,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 2,
         "offsides": 1,
         "saves": 3
@@ -216,25 +228,25 @@
     },
     "561915": {
       "home": {
-        "possession": 57,
+        "possession": 56,
         "xg": 1.49,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 223,
-        "duelsWon": 51,
-        "boxTouches": 29,
-        "fouls": 10,
+        "accuratePasses": 246,
+        "duelsWon": 55,
+        "boxTouches": 30,
+        "fouls": 12,
         "corners": 3,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 43,
+        "possession": 44,
         "xg": 1.45,
         "shots": 14,
         "shotsOnTarget": 6,
-        "accuratePasses": 159,
-        "duelsWon": 45,
+        "accuratePasses": 193,
+        "duelsWon": 51,
         "boxTouches": 22,
         "fouls": 7,
         "corners": 3,
@@ -305,26 +317,26 @@
   "PD": {
     "564730": {
       "home": {
-        "possession": 38,
-        "xg": 0.66,
-        "shots": 8,
+        "possession": 37,
+        "xg": 0.67,
+        "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 190,
-        "duelsWon": 27,
+        "accuratePasses": 208,
+        "duelsWon": 30,
         "boxTouches": 14,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 62,
-        "xg": 0.29,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 354,
-        "duelsWon": 30,
-        "boxTouches": 10,
+        "possession": 63,
+        "xg": 0.39,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 402,
+        "duelsWon": 32,
+        "boxTouches": 11,
         "fouls": 5,
         "corners": 1,
         "offsides": 4,
@@ -342,6 +354,13 @@
           "type": "goal",
           "teamId": "78",
           "playerName": "Alejandro Grimaldo"
+        },
+        {
+          "minute": "62'",
+          "type": "goal",
+          "teamId": "78",
+          "playerName": "Giuliano Simeone",
+          "assist": "Álex Baena"
         }
       ]
     }
@@ -349,30 +368,30 @@
   "SA": {
     "558539": {
       "home": {
-        "possession": 70,
-        "xg": 0.15,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 54,
-        "duelsWon": 8,
-        "boxTouches": 4,
-        "fouls": 1,
+        "possession": 64,
+        "xg": 0.22,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 67,
+        "duelsWon": 16,
+        "boxTouches": 7,
+        "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 30,
+        "possession": 36,
         "xg": 0.83,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 20,
-        "duelsWon": 12,
+        "accuratePasses": 33,
+        "duelsWon": 16,
         "boxTouches": 5,
-        "fouls": 3,
+        "fouls": 6,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -387,6 +406,12 @@
           "type": "yellow-card",
           "teamId": "5911",
           "playerName": "Ricardo Mangas"
+        },
+        {
+          "minute": "17'",
+          "type": "yellow-card",
+          "teamId": "103",
+          "playerName": "Jens Odgaard"
         }
       ]
     }
