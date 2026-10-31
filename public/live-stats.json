@@ -1501,24 +1501,24 @@
     "564736": {
       "home": {
         "possession": 59,
-        "xg": 1.36,
-        "shots": 22,
+        "xg": 1.41,
+        "shots": 23,
         "shotsOnTarget": 6,
-        "accuratePasses": 542,
-        "duelsWon": 57,
-        "boxTouches": 36,
-        "fouls": 9,
+        "accuratePasses": 549,
+        "duelsWon": 61,
+        "boxTouches": 39,
+        "fouls": 10,
         "corners": 10,
         "offsides": 3,
         "saves": 3
       },
       "away": {
         "possession": 41,
-        "xg": 1.08,
+        "xg": 1.18,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 376,
-        "duelsWon": 35,
+        "accuratePasses": 380,
+        "duelsWon": 37,
         "boxTouches": 19,
         "fouls": 15,
         "corners": 3,
@@ -1534,17 +1534,17 @@
         },
         {
           "minute": "38'",
+          "type": "yellow-card",
+          "teamId": "84",
+          "playerName": "Rafita"
+        },
+        {
+          "minute": "38'",
           "type": "goal",
           "teamId": "90",
           "playerName": "Marc Bartra",
           "method": "header",
           "assist": "Isco"
-        },
-        {
-          "minute": "38'",
-          "type": "yellow-card",
-          "teamId": "84",
-          "playerName": "Rafita"
         },
         {
           "minute": "45'+2'",
@@ -1559,12 +1559,19 @@
           "playerName": "Adrián Niño"
         },
         {
-          "minute": "90'+2'",
+          "minute": "90'+1'",
           "type": "yellow-card",
           "teamId": "90",
           "playerName": "Nelson Deossa"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "90",
+          "playerName": "Aitor Ruibal"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
@@ -1822,25 +1829,25 @@
     },
     "565845": {
       "home": {
-        "possession": 54,
-        "xg": 3.91,
-        "shots": 20,
+        "possession": 56,
+        "xg": 4.18,
+        "shots": 23,
         "shotsOnTarget": 5,
-        "accuratePasses": 490,
+        "accuratePasses": 517,
         "duelsWon": 31,
-        "boxTouches": 41,
+        "boxTouches": 46,
         "fouls": 11,
         "corners": 5,
         "offsides": 3,
         "saves": 4
       },
       "away": {
-        "possession": 46,
+        "possession": 44,
         "xg": 0.63,
         "shots": 12,
         "shotsOnTarget": 6,
-        "accuratePasses": 392,
-        "duelsWon": 39,
+        "accuratePasses": 393,
+        "duelsWon": 41,
         "boxTouches": 25,
         "fouls": 6,
         "corners": 2,
@@ -1893,7 +1900,8 @@
           "playerName": "Fábio Silva",
           "assist": "Konstantinos Karetsas"
         }
-      ]
+      ],
+      "final": true
     },
     "565847": {
       "home": {
@@ -2215,28 +2223,28 @@
   "DED": {
     "558852": {
       "home": {
-        "possession": 36,
+        "possession": 38,
         "xg": 1.42,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 230,
-        "duelsWon": 27,
+        "accuratePasses": 257,
+        "duelsWon": 30,
         "boxTouches": 16,
         "fouls": 6,
-        "corners": 4,
+        "corners": 5,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 64,
-        "xg": 1.09,
-        "shots": 18,
+        "possession": 62,
+        "xg": 1.2,
+        "shots": 20,
         "shotsOnTarget": 2,
-        "accuratePasses": 433,
-        "duelsWon": 29,
-        "boxTouches": 31,
-        "fouls": 6,
-        "corners": 6,
+        "accuratePasses": 447,
+        "duelsWon": 32,
+        "boxTouches": 38,
+        "fouls": 7,
+        "corners": 7,
         "offsides": 0,
         "saves": 1
       },
@@ -2278,6 +2286,12 @@
           "playerName": "Dylan Vente",
           "method": "header",
           "assist": "Levi Smans"
+        },
+        {
+          "minute": "85'",
+          "type": "yellow-card",
+          "teamId": "1915",
+          "playerName": "Ayodele Thomas"
         }
       ]
     },
@@ -2287,12 +2301,12 @@
         "xg": 2.23,
         "shots": 19,
         "shotsOnTarget": 9,
-        "accuratePasses": 530,
-        "duelsWon": 36,
-        "boxTouches": 37,
+        "accuratePasses": 579,
+        "duelsWon": 37,
+        "boxTouches": 39,
         "fouls": 7,
-        "corners": 9,
-        "offsides": 2,
+        "corners": 10,
+        "offsides": 3,
         "saves": 1
       },
       "away": {
@@ -2300,10 +2314,10 @@
         "xg": 1.14,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 188,
-        "duelsWon": 32,
+        "accuratePasses": 197,
+        "duelsWon": 34,
         "boxTouches": 7,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 1,
         "offsides": 1,
         "saves": 2
