@@ -2,26 +2,26 @@
   "PL": {
     "560626": {
       "home": {
-        "possession": 48,
-        "xg": 0.16,
-        "shots": 4,
+        "possession": 50,
+        "xg": 0.25,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 136,
-        "duelsWon": 23,
-        "boxTouches": 11,
+        "accuratePasses": 162,
+        "duelsWon": 25,
+        "boxTouches": 14,
         "fouls": 3,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 52,
-        "xg": 0.79,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 138,
-        "duelsWon": 20,
-        "boxTouches": 14,
+        "possession": 50,
+        "xg": 1.01,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 150,
+        "duelsWon": 22,
+        "boxTouches": 15,
         "fouls": 8,
         "corners": 6,
         "offsides": 1,
@@ -33,14 +33,14 @@
     "561908": {
       "home": {
         "possession": 58,
-        "xg": 0.13,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 129,
-        "duelsWon": 22,
+        "xg": 0.15,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 133,
+        "duelsWon": 23,
         "boxTouches": 4,
-        "fouls": 5,
-        "corners": 1,
+        "fouls": 7,
+        "corners": 3,
         "offsides": 1,
         "saves": 0
       },
@@ -49,9 +49,9 @@
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 79,
-        "duelsWon": 21,
-        "boxTouches": 2,
+        "accuratePasses": 83,
+        "duelsWon": 25,
+        "boxTouches": 3,
         "fouls": 8,
         "corners": 1,
         "offsides": 0,
@@ -70,32 +70,38 @@
           "teamId": "70",
           "playerName": "Ben Wilmot",
           "assist": "Jack McGlynn"
+        },
+        {
+          "minute": "43'",
+          "type": "yellow-card",
+          "teamId": "70",
+          "playerName": "Luca Bombino"
         }
       ]
     },
     "561910": {
       "home": {
-        "possession": 61,
-        "xg": 0.24,
-        "shots": 5,
+        "possession": 63,
+        "xg": 0.27,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 180,
-        "duelsWon": 29,
-        "boxTouches": 12,
-        "fouls": 4,
-        "corners": 4,
+        "accuratePasses": 220,
+        "duelsWon": 32,
+        "boxTouches": 13,
+        "fouls": 5,
+        "corners": 5,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 39,
-        "xg": 0.27,
+        "possession": 37,
+        "xg": 0.29,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 115,
-        "duelsWon": 17,
+        "accuratePasses": 126,
+        "duelsWon": 19,
         "boxTouches": 5,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 0,
         "offsides": 1,
         "saves": 1
@@ -114,35 +120,41 @@
           "teamId": "346",
           "playerName": "Myron Boadu",
           "assist": "Matthew Pollock"
+        },
+        {
+          "minute": "41'",
+          "type": "yellow-card",
+          "teamId": "346",
+          "playerName": "Matthew Pollock"
         }
       ]
     },
     "561915": {
       "home": {
-        "possession": 50,
-        "xg": 0.45,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 60,
-        "duelsWon": 22,
-        "boxTouches": 5,
+        "possession": 51,
+        "xg": 0.48,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 67,
+        "duelsWon": 26,
+        "boxTouches": 7,
         "fouls": 6,
-        "corners": 0,
+        "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 50,
-        "xg": 0.48,
-        "shots": 5,
+        "possession": 49,
+        "xg": 0.6,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 68,
-        "duelsWon": 20,
-        "boxTouches": 8,
+        "accuratePasses": 74,
+        "duelsWon": 23,
+        "boxTouches": 11,
         "fouls": 6,
         "corners": 2,
-        "offsides": 0,
-        "saves": 0
+        "offsides": 1,
+        "saves": 1
       },
       "events": [
         {
@@ -174,6 +186,12 @@
           "type": "yellow-card",
           "teamId": "1126",
           "playerName": "Tom Shaw"
+        },
+        {
+          "minute": "42'",
+          "type": "yellow-card",
+          "teamId": "1126",
+          "playerName": "Dom Jefferies"
         }
       ]
     }
@@ -181,29 +199,30 @@
   "PD": {
     "564730": {
       "home": {
-        "possession": 45,
-        "xg": 0.32,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 32,
-        "duelsWon": 6,
-        "boxTouches": 3,
-        "fouls": 0,
-        "corners": 0,
+        "possession": 54,
+        "xg": 0.43,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 67,
+        "duelsWon": 7,
+        "boxTouches": 6,
+        "fouls": 1,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 55,
-        "xg": 0,
+        "possession": 46,
+        "xg": 0.03,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 44,
-        "duelsWon": 3,
+        "accuratePasses": 57,
+        "duelsWon": 8,
+        "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       }
     }
   }
