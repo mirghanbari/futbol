@@ -2227,8 +2227,8 @@
         "xg": 1.42,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 257,
-        "duelsWon": 30,
+        "accuratePasses": 265,
+        "duelsWon": 34,
         "boxTouches": 16,
         "fouls": 6,
         "corners": 5,
@@ -2237,12 +2237,12 @@
       },
       "away": {
         "possession": 62,
-        "xg": 1.2,
-        "shots": 20,
+        "xg": 1.31,
+        "shots": 21,
         "shotsOnTarget": 2,
-        "accuratePasses": 447,
-        "duelsWon": 32,
-        "boxTouches": 38,
+        "accuratePasses": 469,
+        "duelsWon": 40,
+        "boxTouches": 42,
         "fouls": 7,
         "corners": 7,
         "offsides": 0,
@@ -2298,25 +2298,25 @@
     "558853": {
       "home": {
         "possession": 70,
-        "xg": 2.23,
-        "shots": 19,
+        "xg": 2.57,
+        "shots": 20,
         "shotsOnTarget": 9,
-        "accuratePasses": 579,
-        "duelsWon": 37,
-        "boxTouches": 39,
+        "accuratePasses": 617,
+        "duelsWon": 38,
+        "boxTouches": 42,
         "fouls": 7,
-        "corners": 10,
+        "corners": 11,
         "offsides": 3,
         "saves": 1
       },
       "away": {
         "possession": 30,
-        "xg": 1.14,
-        "shots": 3,
+        "xg": 1.22,
+        "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 197,
-        "duelsWon": 34,
-        "boxTouches": 7,
+        "accuratePasses": 214,
+        "duelsWon": 36,
+        "boxTouches": 8,
         "fouls": 4,
         "corners": 1,
         "offsides": 1,
@@ -2384,7 +2384,8 @@
           "teamId": "674",
           "playerName": "Shuryjano Cornecion"
         }
-      ]
+      ],
+      "final": true
     },
     "558854": {
       "home": {
