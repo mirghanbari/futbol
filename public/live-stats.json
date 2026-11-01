@@ -2,27 +2,27 @@
   "PD": {
     "564733": {
       "home": {
-        "possession": 49,
+        "possession": 48,
         "xg": 0.05,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 52,
-        "duelsWon": 13,
+        "accuratePasses": 55,
+        "duelsWon": 18,
         "boxTouches": 4,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 51,
-        "xg": 0.03,
-        "shots": 1,
+        "possession": 52,
+        "xg": 0.07,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 56,
-        "duelsWon": 13,
-        "boxTouches": 1,
-        "fouls": 4,
+        "accuratePasses": 66,
+        "duelsWon": 15,
+        "boxTouches": 2,
+        "fouls": 5,
         "corners": 1,
         "offsides": 1,
         "saves": 0
@@ -35,6 +35,12 @@
           "playerName": "Kike Salas",
           "method": "header",
           "assist": "Félix Correia"
+        },
+        {
+          "minute": "27'",
+          "type": "yellow-card",
+          "teamId": "559",
+          "playerName": "Gabriel Suazo"
         }
       ]
     }
@@ -98,6 +104,56 @@
     }
   },
   "DED": {
+    "558847": {
+      "home": {
+        "possession": 28,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 3,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 72,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 11,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "558848": {
+      "home": {
+        "possession": 15,
+        "xg": 0.12,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 1,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 85,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 15,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "558849": {
       "home": {
         "possession": 34,
