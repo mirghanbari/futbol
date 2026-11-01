@@ -108,24 +108,24 @@
         "xg": 0.24,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 87,
-        "duelsWon": 9,
+        "accuratePasses": 106,
+        "duelsWon": 11,
         "boxTouches": 5,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 2
       },
       "away": {
         "possession": 61,
-        "xg": 2.52,
-        "shots": 7,
-        "shotsOnTarget": 4,
-        "accuratePasses": 152,
-        "duelsWon": 10,
-        "boxTouches": 16,
-        "fouls": 3,
-        "corners": 3,
+        "xg": 2.72,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 186,
+        "duelsWon": 13,
+        "boxTouches": 21,
+        "fouls": 4,
+        "corners": 4,
         "offsides": 1,
         "saves": 1
       },
@@ -138,11 +138,23 @@
           "penalty": true
         },
         {
-          "minute": "22'",
+          "minute": "21'",
           "type": "goal",
           "teamId": "86",
           "playerName": "Jude Bellingham",
           "assist": "Arda Güler"
+        },
+        {
+          "minute": "34'",
+          "type": "yellow-card",
+          "teamId": "5335",
+          "playerName": "Jeanuël Belocian"
+        },
+        {
+          "minute": "37'",
+          "type": "goal",
+          "teamId": "86",
+          "playerName": "Yan Diomande"
         }
       ]
     }
@@ -154,8 +166,8 @@
         "xg": 0.87,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 230,
-        "duelsWon": 33,
+        "accuratePasses": 241,
+        "duelsWon": 34,
         "boxTouches": 8,
         "fouls": 9,
         "corners": 2,
@@ -164,12 +176,12 @@
       },
       "away": {
         "possession": 59,
-        "xg": 0.1,
-        "shots": 3,
+        "xg": 0.13,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 381,
-        "duelsWon": 27,
-        "boxTouches": 20,
+        "accuratePasses": 391,
+        "duelsWon": 29,
+        "boxTouches": 21,
         "fouls": 7,
         "corners": 2,
         "offsides": 2,
@@ -269,27 +281,27 @@
     },
     "558544": {
       "home": {
-        "possession": 45,
-        "xg": 1.72,
-        "shots": 18,
-        "shotsOnTarget": 7,
-        "accuratePasses": 192,
-        "duelsWon": 60,
-        "boxTouches": 32,
+        "possession": 46,
+        "xg": 1.8,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 202,
+        "duelsWon": 63,
+        "boxTouches": 36,
         "fouls": 13,
-        "corners": 6,
+        "corners": 7,
         "offsides": 3,
         "saves": 3
       },
       "away": {
-        "possession": 55,
+        "possession": 54,
         "xg": 0.66,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 260,
-        "duelsWon": 49,
+        "accuratePasses": 264,
+        "duelsWon": 52,
         "boxTouches": 15,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 7,
         "offsides": 3,
         "saves": 4
@@ -325,34 +337,41 @@
           "type": "yellow-card",
           "teamId": "586",
           "playerName": "Saúl Coco"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "goal",
+          "teamId": "470",
+          "playerName": "Giacomo Calò",
+          "assist": "Wisdom Amey"
         }
       ]
     },
     "558546": {
       "home": {
-        "possession": 73,
+        "possession": 74,
         "xg": 0.99,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 610,
-        "duelsWon": 45,
-        "boxTouches": 24,
-        "fouls": 6,
+        "accuratePasses": 652,
+        "duelsWon": 49,
+        "boxTouches": 26,
+        "fouls": 7,
         "corners": 2,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 27,
-        "xg": 1.06,
-        "shots": 8,
+        "possession": 26,
+        "xg": 1.08,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 185,
-        "duelsWon": 36,
-        "boxTouches": 10,
-        "fouls": 16,
+        "accuratePasses": 190,
+        "duelsWon": 39,
+        "boxTouches": 11,
+        "fouls": 18,
         "corners": 2,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 2
       },
       "events": [
@@ -401,6 +420,12 @@
           "type": "yellow-card",
           "teamId": "110",
           "playerName": "Andrea Pinamonti"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "red-card",
+          "teamId": "104",
+          "playerName": "Adam Obert"
         }
       ]
     }
@@ -408,25 +433,25 @@
   "FL1": {
     "559647": {
       "home": {
-        "possession": 62,
-        "xg": 2.83,
-        "shots": 16,
+        "possession": 64,
+        "xg": 2.93,
+        "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 460,
-        "duelsWon": 51,
-        "boxTouches": 18,
+        "accuratePasses": 512,
+        "duelsWon": 55,
+        "boxTouches": 20,
         "fouls": 10,
-        "corners": 3,
-        "offsides": 2,
+        "corners": 4,
+        "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 38,
+        "possession": 36,
         "xg": 0.44,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 252,
-        "duelsWon": 31,
+        "accuratePasses": 255,
+        "duelsWon": 33,
         "boxTouches": 9,
         "fouls": 18,
         "corners": 0,
@@ -525,27 +550,27 @@
   "DED": {
     "558846": {
       "home": {
-        "possession": 54,
+        "possession": 41,
         "xg": 0.05,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 8,
+        "accuratePasses": 13,
         "duelsWon": 2,
         "boxTouches": 1,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 46,
+        "possession": 59,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 7,
-        "duelsWon": 0,
+        "accuratePasses": 25,
+        "duelsWon": 3,
         "fouls": 1,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
@@ -556,6 +581,12 @@
           "teamId": "677",
           "playerName": "Jacob Ondrejka",
           "assist": "Brynjólfur Willumsson"
+        },
+        {
+          "minute": "5'",
+          "type": "yellow-card",
+          "teamId": "677",
+          "playerName": "Tika de Jonge"
         }
       ]
     },
@@ -835,11 +866,11 @@
   "PPL": {
     "567341": {
       "home": {
-        "possession": 62,
+        "possession": 65,
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 131,
+        "accuratePasses": 153,
         "duelsWon": 6,
         "fouls": 1,
         "corners": 0,
@@ -847,13 +878,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 38,
+        "possession": 35,
         "xg": 0.11,
         "shots": 2,
         "shotsOnTarget": 0,
         "accuratePasses": 67,
         "duelsWon": 8,
-        "boxTouches": 3,
+        "boxTouches": 4,
         "fouls": 1,
         "corners": 1,
         "offsides": 0,
