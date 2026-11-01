@@ -2,27 +2,27 @@
   "PD": {
     "564733": {
       "home": {
-        "possession": 43,
+        "possession": 47,
         "xg": 0.05,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 67,
-        "duelsWon": 23,
+        "accuratePasses": 91,
+        "duelsWon": 28,
         "boxTouches": 4,
-        "fouls": 5,
+        "fouls": 8,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 57,
+        "possession": 53,
         "xg": 0.07,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 98,
-        "duelsWon": 17,
-        "boxTouches": 3,
-        "fouls": 6,
+        "accuratePasses": 105,
+        "duelsWon": 25,
+        "boxTouches": 4,
+        "fouls": 7,
         "corners": 2,
         "offsides": 1,
         "saves": 0
@@ -106,27 +106,27 @@
   "DED": {
     "558847": {
       "home": {
-        "possession": 13,
+        "possession": 21,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 5,
-        "duelsWon": 2,
+        "accuratePasses": 20,
+        "duelsWon": 6,
         "fouls": 1,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 87,
-        "xg": 0.06,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 53,
-        "duelsWon": 4,
-        "boxTouches": 1,
+        "possession": 79,
+        "xg": 0.19,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 91,
+        "duelsWon": 7,
+        "boxTouches": 3,
         "fouls": 0,
-        "corners": 1,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
@@ -136,33 +136,40 @@
           "type": "red-card",
           "teamId": "670",
           "playerName": "Nesto Groen"
+        },
+        {
+          "minute": "12'",
+          "type": "goal",
+          "teamId": "666",
+          "playerName": "Wout Weghorst",
+          "method": "header"
         }
       ]
     },
     "558848": {
       "home": {
-        "possession": 45,
-        "xg": 0.15,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 30,
-        "duelsWon": 5,
-        "boxTouches": 3,
-        "fouls": 0,
+        "possession": 39,
+        "xg": 0.97,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 47,
+        "duelsWon": 8,
+        "boxTouches": 5,
+        "fouls": 1,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 55,
+        "possession": 61,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 35,
-        "duelsWon": 1,
-        "fouls": 1,
+        "accuratePasses": 72,
+        "duelsWon": 2,
+        "fouls": 2,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "events": [
