@@ -2,30 +2,30 @@
   "PL": {
     "560631": {
       "home": {
-        "possession": 57,
+        "possession": 56,
         "xg": 1.15,
         "shots": 17,
-        "shotsOnTarget": 1,
-        "accuratePasses": 370,
-        "duelsWon": 52,
-        "boxTouches": 47,
-        "fouls": 17,
+        "shotsOnTarget": 0,
+        "accuratePasses": 378,
+        "duelsWon": 58,
+        "boxTouches": 48,
+        "fouls": 18,
         "corners": 7,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 43,
+        "possession": 44,
         "xg": 0.96,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 258,
-        "duelsWon": 57,
+        "accuratePasses": 269,
+        "duelsWon": 64,
         "boxTouches": 23,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 4,
         "offsides": 3,
-        "saves": 1
+        "saves": 0
       },
       "events": [
         {
@@ -42,7 +42,7 @@
           "playerName": "Bradley Barcola"
         },
         {
-          "minute": "56'",
+          "minute": "55'",
           "type": "yellow-card",
           "teamId": "57",
           "playerName": "Noni Madueke"
@@ -62,14 +62,14 @@
         {
           "minute": "80'",
           "type": "yellow-card",
-          "teamId": "57",
-          "playerName": "Jurriën Timber"
+          "teamId": "64",
+          "playerName": "Alexis Mac Allister"
         },
         {
           "minute": "80'",
           "type": "yellow-card",
-          "teamId": "64",
-          "playerName": "Alexis Mac Allister"
+          "teamId": "57",
+          "playerName": "Jurriën Timber"
         },
         {
           "minute": "90'+3'",
@@ -77,7 +77,8 @@
           "teamId": "57",
           "playerName": "David Raya"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PD": {
@@ -87,7 +88,7 @@
         "xg": 0.36,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 354,
+        "accuratePasses": 355,
         "duelsWon": 18,
         "boxTouches": 13,
         "fouls": 4,
@@ -380,29 +381,29 @@
     "565844": {
       "home": {
         "possession": 52,
-        "xg": 1.83,
-        "shots": 13,
-        "shotsOnTarget": 9,
-        "accuratePasses": 319,
-        "duelsWon": 54,
-        "boxTouches": 28,
-        "fouls": 8,
+        "xg": 1.95,
+        "shots": 15,
+        "shotsOnTarget": 10,
+        "accuratePasses": 344,
+        "duelsWon": 57,
+        "boxTouches": 32,
+        "fouls": 10,
         "corners": 6,
         "offsides": 2,
         "saves": 3
       },
       "away": {
         "possession": 48,
-        "xg": 1.03,
-        "shots": 11,
+        "xg": 1.05,
+        "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 281,
-        "duelsWon": 57,
-        "boxTouches": 19,
-        "fouls": 9,
-        "corners": 5,
+        "accuratePasses": 293,
+        "duelsWon": 65,
+        "boxTouches": 22,
+        "fouls": 10,
+        "corners": 6,
         "offsides": 3,
-        "saves": 7
+        "saves": 8
       },
       "events": [
         {
@@ -461,6 +462,18 @@
           "type": "yellow-card",
           "teamId": "19",
           "playerName": "Adolf Hütter"
+        },
+        {
+          "minute": "90'+9'",
+          "type": "yellow-card",
+          "teamId": "7",
+          "playerName": "Otto Stange"
+        },
+        {
+          "minute": "90'+9'",
+          "type": "yellow-card",
+          "teamId": "19",
+          "playerName": "Robin Koch"
         }
       ]
     }
@@ -468,30 +481,30 @@
   "SA": {
     "558540": {
       "home": {
-        "possession": 47,
-        "xg": 0.81,
-        "shots": 14,
-        "shotsOnTarget": 7,
-        "accuratePasses": 176,
-        "duelsWon": 24,
-        "boxTouches": 17,
-        "fouls": 11,
+        "possession": 49,
+        "xg": 0.71,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 200,
+        "duelsWon": 33,
+        "boxTouches": 25,
+        "fouls": 13,
         "corners": 6,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 53,
-        "xg": 0.95,
-        "shots": 9,
+        "possession": 51,
+        "xg": 0.97,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 212,
-        "duelsWon": 38,
-        "boxTouches": 13,
-        "fouls": 4,
+        "accuratePasses": 221,
+        "duelsWon": 44,
+        "boxTouches": 14,
+        "fouls": 5,
         "corners": 1,
         "offsides": 2,
-        "saves": 6
+        "saves": 5
       },
       "events": [
         {
@@ -520,6 +533,12 @@
           "type": "yellow-card",
           "teamId": "5890",
           "playerName": "Mohamed Kaba"
+        },
+        {
+          "minute": "62'",
+          "type": "yellow-card",
+          "teamId": "107",
+          "playerName": "Hamed Traorè"
         }
       ]
     },
@@ -1350,28 +1369,28 @@
   "PPL": {
     "567340": {
       "home": {
-        "possession": 53,
+        "possession": 46,
         "xg": 0.37,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 99,
-        "duelsWon": 10,
+        "accuratePasses": 100,
+        "duelsWon": 11,
         "boxTouches": 5,
-        "fouls": 4,
+        "fouls": 6,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 47,
-        "xg": 0.15,
-        "shots": 3,
+        "possession": 54,
+        "xg": 0.21,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 91,
-        "duelsWon": 11,
-        "boxTouches": 1,
+        "accuratePasses": 125,
+        "duelsWon": 16,
+        "boxTouches": 2,
         "fouls": 5,
-        "corners": 0,
+        "corners": 1,
         "offsides": 1,
         "saves": 1
       }
@@ -1441,14 +1460,14 @@
     "567345": {
       "home": {
         "possession": 42,
-        "xg": 0.11,
-        "shots": 2,
+        "xg": 0.19,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 76,
-        "duelsWon": 7,
-        "boxTouches": 2,
+        "accuratePasses": 100,
+        "duelsWon": 12,
+        "boxTouches": 5,
         "fouls": 1,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 2
       },
@@ -1457,8 +1476,8 @@
         "xg": 0.53,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 113,
-        "duelsWon": 8,
+        "accuratePasses": 148,
+        "duelsWon": 13,
         "boxTouches": 12,
         "fouls": 1,
         "corners": 3,
