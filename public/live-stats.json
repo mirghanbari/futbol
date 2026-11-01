@@ -1640,28 +1640,28 @@
   "PPL": {
     "567339": {
       "home": {
-        "possession": 58,
-        "xg": 0.8,
-        "shots": 14,
-        "shotsOnTarget": 3,
-        "accuratePasses": 420,
+        "possession": 59,
+        "xg": 1.11,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 442,
         "duelsWon": 33,
-        "boxTouches": 22,
-        "fouls": 21,
-        "corners": 6,
+        "boxTouches": 27,
+        "fouls": 22,
+        "corners": 7,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 42,
-        "xg": 0.03,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 302,
-        "duelsWon": 36,
-        "boxTouches": 1,
+        "possession": 41,
+        "xg": 0.17,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 311,
+        "duelsWon": 40,
+        "boxTouches": 3,
         "fouls": 9,
-        "corners": 0,
+        "corners": 1,
         "offsides": 1,
         "saves": 2
       },
@@ -1733,6 +1733,19 @@
           "type": "yellow-card",
           "teamId": "5613",
           "playerName": "Sergio Barcia"
+        },
+        {
+          "minute": "88'",
+          "type": "goal",
+          "teamId": "5613",
+          "playerName": "Pau Víctor",
+          "assist": "Víctor Gómez"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "5613",
+          "playerName": "Jean-Baptiste Gorby"
         }
       ]
     },
