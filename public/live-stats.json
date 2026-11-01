@@ -85,11 +85,11 @@
     "564728": {
       "home": {
         "possession": 69,
-        "xg": 0.79,
+        "xg": 1.25,
         "shots": 16,
         "shotsOnTarget": 3,
         "accuratePasses": 558,
-        "duelsWon": 41,
+        "duelsWon": 42,
         "boxTouches": 29,
         "fouls": 9,
         "corners": 6,
@@ -147,7 +147,8 @@
           "teamId": "95",
           "playerName": "Stole Dimitrievski"
         }
-      ]
+      ],
+      "final": true
     },
     "564733": {
       "home": {
@@ -1408,29 +1409,29 @@
   "PPL": {
     "567340": {
       "home": {
-        "possession": 47,
-        "xg": 1.5,
-        "shots": 11,
+        "possession": 48,
+        "xg": 1.51,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 182,
-        "duelsWon": 36,
+        "accuratePasses": 202,
+        "duelsWon": 37,
         "boxTouches": 18,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 0,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 53,
+        "possession": 52,
         "xg": 0.69,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 212,
-        "duelsWon": 42,
+        "accuratePasses": 229,
+        "duelsWon": 43,
         "boxTouches": 7,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 1,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 3
       },
       "events": [
@@ -1459,6 +1460,12 @@
           "teamId": "5530",
           "playerName": "Vinícius",
           "assist": "Emanuel Moreira"
+        },
+        {
+          "minute": "67'",
+          "type": "yellow-card",
+          "teamId": "5575",
+          "playerName": "Gábor Szalai"
         }
       ]
     },
@@ -1526,26 +1533,26 @@
     },
     "567345": {
       "home": {
-        "possession": 47,
+        "possession": 44,
         "xg": 0.43,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 249,
-        "duelsWon": 29,
+        "accuratePasses": 251,
+        "duelsWon": 30,
         "boxTouches": 9,
-        "fouls": 3,
+        "fouls": 5,
         "corners": 3,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 53,
-        "xg": 0.9,
-        "shots": 10,
+        "possession": 56,
+        "xg": 0.88,
+        "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 305,
-        "duelsWon": 26,
-        "boxTouches": 21,
+        "accuratePasses": 341,
+        "duelsWon": 28,
+        "boxTouches": 22,
         "fouls": 8,
         "corners": 4,
         "offsides": 2,
@@ -1564,6 +1571,12 @@
           "type": "yellow-card",
           "teamId": "496",
           "playerName": "Jalen Blesa"
+        },
+        {
+          "minute": "63'",
+          "type": "yellow-card",
+          "teamId": "5527",
+          "playerName": "Soufiane Messeguem"
         }
       ]
     }
