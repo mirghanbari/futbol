@@ -3,12 +3,12 @@
     "558543": {
       "home": {
         "possession": 70,
-        "xg": 1.42,
-        "shots": 15,
+        "xg": 1.47,
+        "shots": 17,
         "shotsOnTarget": 4,
-        "accuratePasses": 450,
-        "duelsWon": 21,
-        "boxTouches": 31,
+        "accuratePasses": 482,
+        "duelsWon": 25,
+        "boxTouches": 32,
         "fouls": 4,
         "corners": 6,
         "offsides": 0,
@@ -19,10 +19,10 @@
         "xg": 0.07,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 173,
-        "duelsWon": 26,
+        "accuratePasses": 175,
+        "duelsWon": 28,
         "boxTouches": 3,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 0,
         "offsides": 2,
         "saves": 3
@@ -53,26 +53,26 @@
   "DED": {
     "558849": {
       "home": {
-        "possession": 35,
-        "xg": 1.33,
+        "possession": 36,
+        "xg": 1.4,
         "shots": 23,
         "shotsOnTarget": 5,
-        "accuratePasses": 149,
-        "duelsWon": 40,
+        "accuratePasses": 161,
+        "duelsWon": 44,
         "boxTouches": 30,
-        "fouls": 9,
+        "fouls": 12,
         "corners": 7,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 65,
-        "xg": 0.44,
-        "shots": 10,
+        "possession": 64,
+        "xg": 0.46,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 345,
-        "duelsWon": 34,
-        "boxTouches": 19,
+        "accuratePasses": 367,
+        "duelsWon": 38,
+        "boxTouches": 21,
         "fouls": 8,
         "corners": 2,
         "offsides": 2,
@@ -109,6 +109,12 @@
           "type": "yellow-card",
           "teamId": "680",
           "playerName": "Matteo Waem"
+        },
+        {
+          "minute": "79'",
+          "type": "yellow-card",
+          "teamId": "684",
+          "playerName": "Gilles van der Wal"
         }
       ]
     }
