@@ -101,18 +101,42 @@
         }
       ],
       "final": true
+    },
+    "564734": {
+      "home": {
+        "possession": 31,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 7,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 69,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 23,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   },
   "BL1": {
     "565841": {
       "home": {
         "possession": 42,
-        "xg": 0.86,
-        "shots": 4,
+        "xg": 0.87,
+        "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 179,
-        "duelsWon": 25,
-        "boxTouches": 6,
+        "accuratePasses": 181,
+        "duelsWon": 26,
+        "boxTouches": 7,
         "fouls": 5,
         "corners": 2,
         "offsides": 1,
@@ -123,10 +147,10 @@
         "xg": 0.08,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 271,
-        "duelsWon": 19,
+        "accuratePasses": 277,
+        "duelsWon": 20,
         "boxTouches": 13,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 2,
         "offsides": 2,
         "saves": 1
@@ -144,6 +168,12 @@
           "type": "yellow-card",
           "teamId": "28",
           "playerName": "Zeno Van Den Bosch"
+        },
+        {
+          "minute": "45'+1'",
+          "type": "yellow-card",
+          "teamId": "1",
+          "playerName": "Jahmai Simpson-Pusey"
         }
       ]
     }
@@ -211,10 +241,10 @@
         "xg": 0.75,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 127,
-        "duelsWon": 42,
+        "accuratePasses": 143,
+        "duelsWon": 44,
         "boxTouches": 18,
-        "fouls": 4,
+        "fouls": 7,
         "corners": 5,
         "offsides": 1,
         "saves": 1
@@ -224,12 +254,12 @@
         "xg": 0.45,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 141,
-        "duelsWon": 34,
+        "accuratePasses": 163,
+        "duelsWon": 37,
         "boxTouches": 9,
         "fouls": 10,
         "corners": 5,
-        "offsides": 1,
+        "offsides": 3,
         "saves": 1
       },
       "events": [
@@ -256,27 +286,27 @@
     },
     "558546": {
       "home": {
-        "possession": 73,
-        "xg": 0.31,
-        "shots": 5,
+        "possession": 74,
+        "xg": 0.34,
+        "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 447,
-        "duelsWon": 28,
-        "boxTouches": 11,
+        "accuratePasses": 480,
+        "duelsWon": 32,
+        "boxTouches": 13,
         "fouls": 4,
         "corners": 1,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 27,
+        "possession": 26,
         "xg": 1.01,
         "shots": 5,
         "shotsOnTarget": 2,
         "accuratePasses": 140,
-        "duelsWon": 21,
+        "duelsWon": 24,
         "boxTouches": 7,
-        "fouls": 9,
+        "fouls": 11,
         "corners": 1,
         "offsides": 1,
         "saves": 2
@@ -295,6 +325,12 @@
           "teamId": "110",
           "playerName": "Gustav Isaksen",
           "assist": "Tijjani Noslin"
+        },
+        {
+          "minute": "59'",
+          "type": "yellow-card",
+          "teamId": "104",
+          "playerName": "Jacopo Fazzini"
         }
       ]
     }
@@ -302,27 +338,27 @@
   "FL1": {
     "559647": {
       "home": {
-        "possession": 58,
-        "xg": 1.13,
-        "shots": 10,
-        "shotsOnTarget": 3,
-        "accuratePasses": 279,
-        "duelsWon": 35,
-        "boxTouches": 9,
+        "possession": 59,
+        "xg": 1.25,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 297,
+        "duelsWon": 37,
+        "boxTouches": 11,
         "fouls": 7,
-        "corners": 2,
+        "corners": 3,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 42,
+        "possession": 41,
         "xg": 0.21,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 190,
-        "duelsWon": 19,
+        "accuratePasses": 191,
+        "duelsWon": 22,
         "boxTouches": 7,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -338,7 +374,8 @@
           "minute": "41'",
           "type": "goal",
           "teamId": "576",
-          "playerName": "Dário Essugo"
+          "playerName": "Dário Essugo",
+          "assist": "Oso"
         },
         {
           "minute": "45'",
@@ -358,6 +395,19 @@
           "teamId": "576",
           "playerName": "Martial Godo",
           "assist": "Gessime Yassine"
+        },
+        {
+          "minute": "61'",
+          "type": "yellow-card",
+          "teamId": "519",
+          "playerName": "Christ Makosso"
+        },
+        {
+          "minute": "62'",
+          "type": "goal",
+          "teamId": "576",
+          "playerName": "Conrad Harder",
+          "penalty": true
         }
       ]
     }
@@ -369,8 +419,8 @@
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 136,
-        "duelsWon": 30,
+        "accuratePasses": 151,
+        "duelsWon": 36,
         "boxTouches": 2,
         "fouls": 7,
         "corners": 0,
@@ -379,13 +429,13 @@
       },
       "away": {
         "possession": 80,
-        "xg": 6.07,
-        "shots": 26,
+        "xg": 6.2,
+        "shots": 27,
         "shotsOnTarget": 15,
-        "accuratePasses": 704,
-        "duelsWon": 36,
-        "boxTouches": 54,
-        "fouls": 5,
+        "accuratePasses": 760,
+        "duelsWon": 40,
+        "boxTouches": 56,
+        "fouls": 6,
         "corners": 8,
         "offsides": 4,
         "saves": 0
@@ -477,13 +527,13 @@
     "558848": {
       "home": {
         "possession": 35,
-        "xg": 2.41,
-        "shots": 15,
+        "xg": 2.45,
+        "shots": 16,
         "shotsOnTarget": 7,
-        "accuratePasses": 220,
-        "duelsWon": 59,
-        "boxTouches": 23,
-        "fouls": 9,
+        "accuratePasses": 224,
+        "duelsWon": 62,
+        "boxTouches": 25,
+        "fouls": 10,
         "corners": 3,
         "offsides": 4,
         "saves": 3
@@ -493,12 +543,12 @@
         "xg": 1.28,
         "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 440,
-        "duelsWon": 34,
+        "accuratePasses": 446,
+        "duelsWon": 37,
         "boxTouches": 26,
-        "fouls": 18,
+        "fouls": 20,
         "corners": 9,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 3
       },
       "events": [
@@ -557,7 +607,8 @@
           "teamId": "676",
           "playerName": "Per Kloosterboer"
         }
-      ]
+      ],
+      "final": true
     },
     "558849": {
       "home": {
