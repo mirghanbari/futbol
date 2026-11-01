@@ -1409,30 +1409,30 @@
   "PPL": {
     "567340": {
       "home": {
-        "possession": 48,
-        "xg": 1.81,
-        "shots": 13,
+        "possession": 51,
+        "xg": 1.91,
+        "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 222,
-        "duelsWon": 40,
-        "boxTouches": 20,
-        "fouls": 13,
-        "corners": 3,
+        "accuratePasses": 257,
+        "duelsWon": 44,
+        "boxTouches": 21,
+        "fouls": 14,
+        "corners": 4,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 52,
-        "xg": 0.69,
+        "possession": 49,
+        "xg": 0.82,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 251,
-        "duelsWon": 47,
+        "accuratePasses": 258,
+        "duelsWon": 50,
         "boxTouches": 10,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 1,
         "offsides": 3,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -1533,27 +1533,27 @@
     },
     "567345": {
       "home": {
-        "possession": 47,
+        "possession": 49,
         "xg": 0.6,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 283,
-        "duelsWon": 32,
-        "boxTouches": 13,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 329,
+        "duelsWon": 34,
+        "boxTouches": 16,
         "fouls": 6,
-        "corners": 4,
+        "corners": 5,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 53,
+        "possession": 51,
         "xg": 0.98,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 345,
-        "duelsWon": 31,
-        "boxTouches": 22,
-        "fouls": 10,
+        "accuratePasses": 365,
+        "duelsWon": 32,
+        "boxTouches": 23,
+        "fouls": 11,
         "corners": 4,
         "offsides": 2,
         "saves": 3
@@ -1584,6 +1584,18 @@
           "teamId": "5527",
           "playerName": "Soufiane Messeguem",
           "assist": "André Clovis"
+        },
+        {
+          "minute": "77'",
+          "type": "yellow-card",
+          "teamId": "496",
+          "playerName": "Giorgos Liavas"
+        },
+        {
+          "minute": "78'",
+          "type": "goal",
+          "teamId": "5527",
+          "playerName": "André Clovis"
         }
       ]
     }
