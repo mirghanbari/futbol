@@ -85,7 +85,7 @@
     "564728": {
       "home": {
         "possession": 73,
-        "xg": 0.36,
+        "xg": 0.3,
         "shots": 5,
         "shotsOnTarget": 1,
         "accuratePasses": 355,
@@ -385,8 +385,8 @@
         "shots": 15,
         "shotsOnTarget": 10,
         "accuratePasses": 344,
-        "duelsWon": 57,
-        "boxTouches": 32,
+        "duelsWon": 58,
+        "boxTouches": 31,
         "fouls": 10,
         "corners": 6,
         "offsides": 2,
@@ -395,10 +395,10 @@
       "away": {
         "possession": 48,
         "xg": 1.05,
-        "shots": 13,
+        "shots": 12,
         "shotsOnTarget": 3,
         "accuratePasses": 293,
-        "duelsWon": 65,
+        "duelsWon": 64,
         "boxTouches": 22,
         "fouls": 10,
         "corners": 6,
@@ -434,16 +434,16 @@
         },
         {
           "minute": "69'",
-          "type": "yellow-card",
-          "teamId": "7",
-          "playerName": "Martin Adeline"
-        },
-        {
-          "minute": "69'",
           "type": "goal",
           "teamId": "19",
           "playerName": "Younes Ebnoutalib",
           "assist": "Can Uzun"
+        },
+        {
+          "minute": "69'",
+          "type": "yellow-card",
+          "teamId": "7",
+          "playerName": "Martin Adeline"
         },
         {
           "minute": "76'",
@@ -464,18 +464,19 @@
           "playerName": "Adolf Hütter"
         },
         {
-          "minute": "90'+9'",
-          "type": "yellow-card",
-          "teamId": "7",
-          "playerName": "Otto Stange"
-        },
-        {
-          "minute": "90'+9'",
+          "minute": "90'+8'",
           "type": "yellow-card",
           "teamId": "19",
           "playerName": "Robin Koch"
+        },
+        {
+          "minute": "90'+8'",
+          "type": "yellow-card",
+          "teamId": "7",
+          "playerName": "Otto Stange"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "SA": {
@@ -485,10 +486,10 @@
         "xg": 0.71,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 200,
-        "duelsWon": 33,
-        "boxTouches": 25,
-        "fouls": 13,
+        "accuratePasses": 220,
+        "duelsWon": 34,
+        "boxTouches": 29,
+        "fouls": 14,
         "corners": 6,
         "offsides": 1,
         "saves": 0
@@ -498,10 +499,10 @@
         "xg": 0.97,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 221,
-        "duelsWon": 44,
-        "boxTouches": 14,
-        "fouls": 5,
+        "accuratePasses": 234,
+        "duelsWon": 49,
+        "boxTouches": 17,
+        "fouls": 6,
         "corners": 1,
         "offsides": 2,
         "saves": 5
@@ -539,6 +540,12 @@
           "type": "yellow-card",
           "teamId": "107",
           "playerName": "Hamed Traorè"
+        },
+        {
+          "minute": "70'",
+          "type": "yellow-card",
+          "teamId": "5890",
+          "playerName": "Jamil Siebert"
         }
       ]
     },
@@ -1369,29 +1376,29 @@
   "PPL": {
     "567340": {
       "home": {
-        "possession": 46,
+        "possession": 43,
         "xg": 0.37,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 100,
-        "duelsWon": 11,
+        "accuratePasses": 105,
+        "duelsWon": 15,
         "boxTouches": 5,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 0,
         "offsides": 0,
-        "saves": 1
+        "saves": 3
       },
       "away": {
-        "possession": 54,
-        "xg": 0.21,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 125,
-        "duelsWon": 16,
-        "boxTouches": 2,
+        "possession": 57,
+        "xg": 0.28,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 157,
+        "duelsWon": 19,
+        "boxTouches": 4,
         "fouls": 5,
         "corners": 1,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 1
       }
     },
@@ -1459,12 +1466,12 @@
     },
     "567345": {
       "home": {
-        "possession": 42,
-        "xg": 0.19,
-        "shots": 3,
-        "shotsOnTarget": 0,
-        "accuratePasses": 100,
-        "duelsWon": 12,
+        "possession": 46,
+        "xg": 0.21,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 136,
+        "duelsWon": 15,
         "boxTouches": 5,
         "fouls": 1,
         "corners": 1,
@@ -1472,17 +1479,17 @@
         "saves": 2
       },
       "away": {
-        "possession": 58,
+        "possession": 54,
         "xg": 0.53,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 148,
-        "duelsWon": 13,
+        "accuratePasses": 162,
+        "duelsWon": 14,
         "boxTouches": 12,
         "fouls": 1,
         "corners": 3,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       }
     }
   }
