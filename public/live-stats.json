@@ -53,28 +53,28 @@
   "DED": {
     "558849": {
       "home": {
-        "possession": 39,
-        "xg": 0.98,
-        "shots": 18,
+        "possession": 38,
+        "xg": 1.03,
+        "shots": 19,
         "shotsOnTarget": 3,
-        "accuratePasses": 113,
-        "duelsWon": 29,
-        "boxTouches": 22,
+        "accuratePasses": 119,
+        "duelsWon": 33,
+        "boxTouches": 25,
         "fouls": 6,
-        "corners": 5,
+        "corners": 6,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 61,
-        "xg": 0.21,
-        "shots": 4,
+        "possession": 62,
+        "xg": 0.31,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 217,
-        "duelsWon": 21,
-        "boxTouches": 11,
-        "fouls": 5,
-        "corners": 1,
+        "accuratePasses": 233,
+        "duelsWon": 25,
+        "boxTouches": 12,
+        "fouls": 6,
+        "corners": 2,
         "offsides": 2,
         "saves": 2
       },
@@ -85,6 +85,18 @@
           "teamId": "684",
           "playerName": "Dylan Mbayo",
           "assist": "Younes Namli"
+        },
+        {
+          "minute": "48'",
+          "type": "yellow-card",
+          "teamId": "680",
+          "playerName": "Yannick Eduardo"
+        },
+        {
+          "minute": "52'",
+          "type": "yellow-card",
+          "teamId": "680",
+          "playerName": "Pascal Mulder"
         }
       ]
     }
