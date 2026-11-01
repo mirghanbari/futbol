@@ -16,7 +16,7 @@
       },
       "away": {
         "possession": 55,
-        "xg": 0.33,
+        "xg": 0.41,
         "shots": 7,
         "shotsOnTarget": 3,
         "accuratePasses": 139,
@@ -106,11 +106,11 @@
   "DED": {
     "558847": {
       "home": {
-        "possession": 27,
+        "possession": 26,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 52,
+        "accuratePasses": 60,
         "duelsWon": 10,
         "fouls": 3,
         "corners": 0,
@@ -118,16 +118,16 @@
         "saves": 3
       },
       "away": {
-        "possession": 73,
-        "xg": 0.65,
-        "shots": 7,
-        "shotsOnTarget": 4,
-        "accuratePasses": 162,
-        "duelsWon": 11,
-        "boxTouches": 6,
+        "possession": 74,
+        "xg": 1.31,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 202,
+        "duelsWon": 12,
+        "boxTouches": 11,
         "fouls": 2,
         "corners": 3,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "events": [
@@ -150,32 +150,39 @@
           "type": "yellow-card",
           "teamId": "666",
           "playerName": "Wout Weghorst"
+        },
+        {
+          "minute": "27'",
+          "type": "goal",
+          "teamId": "666",
+          "playerName": "Thomas van den Belt",
+          "assist": "Wout Weghorst"
         }
       ]
     },
     "558848": {
       "home": {
-        "possession": 37,
-        "xg": 1.03,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 86,
-        "duelsWon": 13,
-        "boxTouches": 9,
+        "possession": 38,
+        "xg": 1.46,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 100,
+        "duelsWon": 15,
+        "boxTouches": 12,
         "fouls": 1,
-        "corners": 1,
-        "offsides": 1,
+        "corners": 2,
+        "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 63,
+        "possession": 62,
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 152,
+        "accuratePasses": 166,
         "duelsWon": 4,
         "boxTouches": 3,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 2,
         "offsides": 1,
         "saves": 2
@@ -186,6 +193,14 @@
           "type": "goal",
           "teamId": "1912",
           "playerName": "Tyrone Owusu"
+        },
+        {
+          "minute": "25'",
+          "type": "goal",
+          "teamId": "1912",
+          "playerName": "Abdelnor Soualhia",
+          "method": "header",
+          "assist": "Arjany Martha"
         }
       ]
     },
