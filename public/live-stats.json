@@ -156,24 +156,24 @@
         "xg": 2.93,
         "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 303,
-        "duelsWon": 29,
-        "boxTouches": 23,
-        "fouls": 10,
+        "accuratePasses": 306,
+        "duelsWon": 31,
+        "boxTouches": 24,
+        "fouls": 11,
         "corners": 5,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "away": {
         "possession": 62,
-        "xg": 0.91,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 500,
-        "duelsWon": 42,
-        "boxTouches": 15,
-        "fouls": 12,
-        "corners": 7,
+        "xg": 1.4,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 509,
+        "duelsWon": 45,
+        "boxTouches": 18,
+        "fouls": 13,
+        "corners": 8,
         "offsides": 2,
         "saves": 1
       },
@@ -234,7 +234,8 @@
           "teamId": "77",
           "playerName": "Hugo Rincón"
         }
-      ]
+      ],
+      "final": true
     },
     "564733": {
       "home": {
@@ -1639,27 +1640,27 @@
   "PPL": {
     "567339": {
       "home": {
-        "possession": 57,
-        "xg": 0.77,
-        "shots": 12,
+        "possession": 58,
+        "xg": 0.78,
+        "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 347,
-        "duelsWon": 25,
+        "accuratePasses": 366,
+        "duelsWon": 26,
         "boxTouches": 22,
         "fouls": 17,
-        "corners": 5,
-        "offsides": 0,
+        "corners": 6,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 43,
+        "possession": 42,
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 259,
+        "accuratePasses": 268,
         "duelsWon": 32,
         "boxTouches": 1,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 0,
         "offsides": 1,
         "saves": 2
@@ -1702,6 +1703,18 @@
           "teamId": "5613",
           "playerName": "Víctor Rofino",
           "ownGoal": true
+        },
+        {
+          "minute": "70'",
+          "type": "yellow-card",
+          "teamId": "5531",
+          "playerName": "Rodrigo Pinheiro"
+        },
+        {
+          "minute": "71'",
+          "type": "red-card",
+          "teamId": "5531",
+          "playerName": "Rodrigo Pinheiro"
         }
       ]
     },
