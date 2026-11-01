@@ -150,6 +150,33 @@
       ],
       "final": true
     },
+    "564729": {
+      "home": {
+        "possession": 93,
+        "xg": 0.95,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 13,
+        "duelsWon": 1,
+        "boxTouches": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 7,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 0,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "564733": {
       "home": {
         "possession": 47,
@@ -792,25 +819,25 @@
     },
     "558547": {
       "home": {
-        "possession": 40,
-        "xg": 0.03,
-        "shots": 1,
+        "possession": 42,
+        "xg": 0.31,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 36,
-        "duelsWon": 1,
-        "boxTouches": 3,
-        "fouls": 2,
+        "accuratePasses": 59,
+        "duelsWon": 8,
+        "boxTouches": 9,
+        "fouls": 3,
         "corners": 3,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 60,
+        "possession": 58,
         "xg": 0.08,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 66,
-        "duelsWon": 7,
+        "accuratePasses": 96,
+        "duelsWon": 8,
         "boxTouches": 2,
         "fouls": 1,
         "corners": 1,
@@ -823,6 +850,12 @@
           "type": "yellow-card",
           "teamId": "109",
           "playerName": "Douglas Luiz"
+        },
+        {
+          "minute": "20'",
+          "type": "yellow-card",
+          "teamId": "109",
+          "playerName": "Jhon Lucumí"
         }
       ]
     }
@@ -965,26 +998,26 @@
     },
     "559645": {
       "home": {
-        "possession": 34,
+        "possession": 36,
         "xg": 0.06,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 50,
-        "duelsWon": 7,
-        "fouls": 2,
+        "accuratePasses": 73,
+        "duelsWon": 9,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 66,
-        "xg": 0.3,
+        "possession": 64,
+        "xg": 0.32,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 109,
-        "duelsWon": 11,
-        "boxTouches": 4,
-        "fouls": 1,
+        "accuratePasses": 147,
+        "duelsWon": 15,
+        "boxTouches": 5,
+        "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 0
