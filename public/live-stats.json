@@ -85,14 +85,14 @@
     "564728": {
       "home": {
         "possession": 69,
-        "xg": 0.54,
-        "shots": 8,
+        "xg": 0.67,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 475,
-        "duelsWon": 28,
-        "boxTouches": 20,
+        "accuratePasses": 482,
+        "duelsWon": 29,
+        "boxTouches": 22,
         "fouls": 7,
-        "corners": 4,
+        "corners": 6,
         "offsides": 2,
         "saves": 2
       },
@@ -101,10 +101,10 @@
         "xg": 0.9,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 195,
+        "accuratePasses": 199,
         "duelsWon": 28,
         "boxTouches": 11,
-        "fouls": 10,
+        "fouls": 12,
         "corners": 2,
         "offsides": 5,
         "saves": 2
@@ -134,6 +134,12 @@
           "teamId": "95",
           "playerName": "Umar Sadiq",
           "assist": "Arnaut Danjuma"
+        },
+        {
+          "minute": "73'",
+          "type": "yellow-card",
+          "teamId": "95",
+          "playerName": "Javier Guerra"
         }
       ]
     },
@@ -1397,12 +1403,12 @@
     "567340": {
       "home": {
         "possession": 45,
-        "xg": 0.75,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 132,
-        "duelsWon": 24,
-        "boxTouches": 11,
+        "xg": 0.87,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 142,
+        "duelsWon": 26,
+        "boxTouches": 15,
         "fouls": 8,
         "corners": 0,
         "offsides": 0,
@@ -1413,13 +1419,13 @@
         "xg": 0.54,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 180,
+        "accuratePasses": 189,
         "duelsWon": 29,
         "boxTouches": 6,
         "fouls": 8,
         "corners": 1,
         "offsides": 2,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -1502,7 +1508,7 @@
     "567345": {
       "home": {
         "possession": 53,
-        "xg": 0.39,
+        "xg": 0.38,
         "shots": 9,
         "shotsOnTarget": 2,
         "accuratePasses": 210,
@@ -1515,11 +1521,11 @@
       },
       "away": {
         "possession": 47,
-        "xg": 0.8,
+        "xg": 0.87,
         "shots": 9,
         "shotsOnTarget": 5,
         "accuratePasses": 191,
-        "duelsWon": 19,
+        "duelsWon": 20,
         "boxTouches": 14,
         "fouls": 6,
         "corners": 3,
