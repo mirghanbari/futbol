@@ -152,28 +152,28 @@
     },
     "564729": {
       "home": {
-        "possession": 40,
+        "possession": 38,
         "xg": 2.93,
         "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 299,
+        "accuratePasses": 303,
         "duelsWon": 29,
         "boxTouches": 23,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 5,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 60,
-        "xg": 0.87,
-        "shots": 11,
+        "possession": 62,
+        "xg": 0.91,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 465,
-        "duelsWon": 40,
-        "boxTouches": 13,
+        "accuratePasses": 500,
+        "duelsWon": 42,
+        "boxTouches": 15,
         "fouls": 12,
-        "corners": 5,
+        "corners": 7,
         "offsides": 2,
         "saves": 1
       },
@@ -1639,25 +1639,25 @@
   "PPL": {
     "567339": {
       "home": {
-        "possession": 58,
-        "xg": 0.57,
-        "shots": 11,
+        "possession": 57,
+        "xg": 0.77,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 330,
-        "duelsWon": 21,
-        "boxTouches": 20,
+        "accuratePasses": 347,
+        "duelsWon": 25,
+        "boxTouches": 22,
         "fouls": 17,
         "corners": 5,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 42,
+        "possession": 43,
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 239,
-        "duelsWon": 31,
+        "accuratePasses": 259,
+        "duelsWon": 32,
         "boxTouches": 1,
         "fouls": 7,
         "corners": 0,
@@ -1695,6 +1695,13 @@
           "type": "yellow-card",
           "teamId": "5613",
           "playerName": "Gabri Martínez"
+        },
+        {
+          "minute": "67'",
+          "type": "goal",
+          "teamId": "5613",
+          "playerName": "Víctor Rofino",
+          "ownGoal": true
         }
       ]
     },
