@@ -2,29 +2,29 @@
   "SA": {
     "558543": {
       "home": {
-        "possession": 77,
-        "xg": 0.43,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 261,
-        "duelsWon": 11,
-        "boxTouches": 18,
-        "fouls": 2,
-        "corners": 4,
+        "possession": 74,
+        "xg": 0.46,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 276,
+        "duelsWon": 13,
+        "boxTouches": 22,
+        "fouls": 1,
+        "corners": 5,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 23,
+        "possession": 26,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 67,
-        "duelsWon": 13,
+        "accuratePasses": 82,
+        "duelsWon": 14,
         "fouls": 3,
         "corners": 0,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       }
     }
   },
@@ -32,12 +32,12 @@
     "558849": {
       "home": {
         "possession": 38,
-        "xg": 0.81,
-        "shots": 16,
-        "shotsOnTarget": 2,
-        "accuratePasses": 101,
-        "duelsWon": 26,
-        "boxTouches": 19,
+        "xg": 0.92,
+        "shots": 17,
+        "shotsOnTarget": 3,
+        "accuratePasses": 104,
+        "duelsWon": 28,
+        "boxTouches": 21,
         "fouls": 5,
         "corners": 5,
         "offsides": 0,
@@ -48,14 +48,23 @@
         "xg": 0.1,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 202,
+        "accuratePasses": 208,
         "duelsWon": 18,
         "boxTouches": 11,
         "fouls": 5,
         "corners": 1,
         "offsides": 2,
         "saves": 2
-      }
+      },
+      "events": [
+        {
+          "minute": "45'",
+          "type": "goal",
+          "teamId": "684",
+          "playerName": "Dylan Mbayo",
+          "assist": "Younes Namli"
+        }
+      ]
     }
   }
 }
