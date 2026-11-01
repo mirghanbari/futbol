@@ -152,30 +152,30 @@
     },
     "564729": {
       "home": {
-        "possession": 42,
-        "xg": 2.4,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 192,
-        "duelsWon": 20,
-        "boxTouches": 11,
+        "possession": 40,
+        "xg": 2.67,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 204,
+        "duelsWon": 21,
+        "boxTouches": 13,
         "fouls": 5,
         "corners": 4,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 58,
-        "xg": 0.27,
-        "shots": 4,
+        "possession": 60,
+        "xg": 0.38,
+        "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 275,
-        "duelsWon": 20,
-        "boxTouches": 5,
-        "fouls": 7,
-        "corners": 3,
+        "accuratePasses": 317,
+        "duelsWon": 24,
+        "boxTouches": 7,
+        "fouls": 8,
+        "corners": 4,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -203,6 +203,12 @@
           "type": "yellow-card",
           "teamId": "77",
           "playerName": "Iñaki Williams"
+        },
+        {
+          "minute": "55'",
+          "type": "yellow-card",
+          "teamId": "92",
+          "playerName": "Mikel Oyarzabal"
         }
       ]
     },
@@ -848,27 +854,27 @@
     },
     "558547": {
       "home": {
-        "possession": 44,
-        "xg": 0.66,
-        "shots": 14,
+        "possession": 46,
+        "xg": 0.69,
+        "shots": 16,
         "shotsOnTarget": 3,
-        "accuratePasses": 275,
-        "duelsWon": 33,
-        "boxTouches": 26,
+        "accuratePasses": 295,
+        "duelsWon": 37,
+        "boxTouches": 28,
         "fouls": 7,
         "corners": 10,
         "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 56,
-        "xg": 0.26,
+        "possession": 54,
+        "xg": 0.3,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 380,
-        "duelsWon": 28,
+        "accuratePasses": 383,
+        "duelsWon": 30,
         "boxTouches": 9,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 2,
         "offsides": 1,
         "saves": 2
@@ -904,6 +910,12 @@
           "type": "yellow-card",
           "teamId": "109",
           "playerName": "Kerim Alajbegović"
+        },
+        {
+          "minute": "75'",
+          "type": "red-card",
+          "teamId": "113",
+          "playerName": "Luca Marianucci"
         }
       ]
     }
@@ -1046,29 +1058,29 @@
     },
     "559645": {
       "home": {
-        "possession": 48,
-        "xg": 1.05,
-        "shots": 11,
+        "possession": 47,
+        "xg": 1.06,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 346,
-        "duelsWon": 41,
-        "boxTouches": 13,
-        "fouls": 8,
+        "accuratePasses": 355,
+        "duelsWon": 46,
+        "boxTouches": 14,
+        "fouls": 9,
         "corners": 4,
         "offsides": 1,
         "saves": 6
       },
       "away": {
-        "possession": 52,
-        "xg": 1.56,
-        "shots": 13,
+        "possession": 53,
+        "xg": 1.54,
+        "shots": 12,
         "shotsOnTarget": 7,
-        "accuratePasses": 377,
-        "duelsWon": 41,
-        "boxTouches": 26,
-        "fouls": 9,
-        "corners": 1,
-        "offsides": 3,
+        "accuratePasses": 405,
+        "duelsWon": 44,
+        "boxTouches": 27,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 4,
         "saves": 1
       },
       "events": [
