@@ -168,28 +168,28 @@
   "BL1": {
     "565841": {
       "home": {
-        "possession": 38,
+        "possession": 37,
         "xg": 0.87,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 273,
-        "duelsWon": 41,
+        "accuratePasses": 276,
+        "duelsWon": 43,
         "boxTouches": 10,
         "fouls": 11,
         "corners": 2,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 62,
-        "xg": 0.98,
-        "shots": 10,
-        "shotsOnTarget": 1,
-        "accuratePasses": 508,
+        "possession": 63,
+        "xg": 1.03,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 547,
         "duelsWon": 40,
-        "boxTouches": 31,
-        "fouls": 9,
-        "corners": 4,
+        "boxTouches": 32,
+        "fouls": 10,
+        "corners": 5,
         "offsides": 2,
         "saves": 1
       },
@@ -464,6 +464,55 @@
     }
   },
   "FL1": {
+    "559640": {
+      "home": {
+        "possession": 60,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 19,
+        "duelsWon": 3,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 40,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 10,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "559642": {
+      "home": {
+        "possession": 48,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 8,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 52,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 9,
+        "duelsWon": 0,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "559647": {
       "home": {
         "possession": 64,
@@ -584,27 +633,27 @@
   "DED": {
     "558846": {
       "home": {
-        "possession": 59,
-        "xg": 0.72,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 111,
-        "duelsWon": 10,
-        "boxTouches": 8,
+        "possession": 61,
+        "xg": 1.37,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 129,
+        "duelsWon": 12,
+        "boxTouches": 9,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 41,
-        "xg": 0.6,
+        "possession": 39,
+        "xg": 1.15,
         "shots": 2,
         "shotsOnTarget": 2,
-        "accuratePasses": 73,
-        "duelsWon": 11,
+        "accuratePasses": 77,
+        "duelsWon": 14,
         "boxTouches": 2,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 1,
         "saves": 2
@@ -635,6 +684,13 @@
           "type": "goal",
           "teamId": "6806",
           "playerName": "Milan Zonneveld"
+        },
+        {
+          "minute": "29'",
+          "type": "goal",
+          "teamId": "677",
+          "playerName": "Thom van Bergen",
+          "assist": "Hans Hateboer"
         }
       ]
     },
@@ -914,12 +970,12 @@
   "PPL": {
     "567341": {
       "home": {
-        "possession": 63,
+        "possession": 65,
         "xg": 0.1,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 278,
-        "duelsWon": 13,
+        "accuratePasses": 327,
+        "duelsWon": 16,
         "boxTouches": 1,
         "fouls": 2,
         "corners": 2,
@@ -927,14 +983,14 @@
         "saves": 1
       },
       "away": {
-        "possession": 37,
+        "possession": 35,
         "xg": 0.15,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 140,
-        "duelsWon": 12,
+        "accuratePasses": 148,
+        "duelsWon": 19,
         "boxTouches": 8,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 2,
         "offsides": 0,
         "saves": 0
