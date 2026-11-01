@@ -4942,14 +4942,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T14:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "470",
     "awayTeamId": "586",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 1.89,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 206,
+        "duelsWon": 65,
+        "boxTouches": 36,
+        "fouls": 14,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 54,
+        "xg": 0.66,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 266,
+        "duelsWon": 53,
+        "boxTouches": 15,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "Stadio Benito Stirpe, Frosinone",
     "broadcasts": [
@@ -4966,7 +4994,7 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T14:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "110",
     "awayTeamId": "104",
     "homeTeam": {
@@ -4974,6 +5002,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 74,
+        "xg": 1.02,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 661,
+        "duelsWon": 49,
+        "boxTouches": 26,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 26,
+        "xg": 0.99,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 195,
+        "duelsWon": 42,
+        "boxTouches": 11,
+        "fouls": 18,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Olimpico, Roma",
     "broadcasts": [
@@ -4990,14 +5046,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5890",
     "awayTeamId": "107",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 0.94,
+        "shots": 18,
+        "shotsOnTarget": 7,
+        "accuratePasses": 307,
+        "duelsWon": 48,
+        "boxTouches": 34,
+        "fouls": 19,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.28,
+        "shots": 13,
+        "shotsOnTarget": 3,
+        "accuratePasses": 273,
+        "duelsWon": 67,
+        "boxTouches": 23,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 6
+      }
     },
     "venue": "Via Del Mare, Lecce",
     "broadcasts": [
@@ -5014,7 +5098,7 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T19:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "109",
     "awayTeamId": "113",
     "homeTeam": {

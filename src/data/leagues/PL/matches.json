@@ -4774,14 +4774,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-01T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "64",
     "awayTeamId": "57",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 1.15,
+        "shots": 17,
+        "shotsOnTarget": 0,
+        "accuratePasses": 377,
+        "duelsWon": 58,
+        "boxTouches": 48,
+        "fouls": 18,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.96,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 269,
+        "duelsWon": 63,
+        "boxTouches": 23,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 0
+      }
     },
     "venue": "Anfield, Liverpool",
     "broadcasts": [

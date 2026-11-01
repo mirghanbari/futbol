@@ -3870,14 +3870,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T15:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "712",
     "awayTeamId": "5529",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 0.7,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 486,
+        "duelsWon": 38,
+        "boxTouches": 9,
+        "fouls": 6,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 38,
+        "xg": 0.31,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 271,
+        "duelsWon": 42,
+        "boxTouches": 16,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Estádio Municipal de Arouca, Arouca"
   },
@@ -3888,14 +3916,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5575",
     "awayTeamId": "5530",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 2.06,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 304,
+        "duelsWon": 55,
+        "boxTouches": 25,
+        "fouls": 17,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 48,
+        "xg": 0.82,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 275,
+        "duelsWon": 58,
+        "boxTouches": 12,
+        "fouls": 18,
+        "corners": 2,
+        "offsides": 4,
+        "saves": 6
+      }
     },
     "venue": "Estádio do Marítimo, Funchal"
   },
@@ -3906,14 +3962,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5527",
     "awayTeamId": "496",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 0.86,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 348,
+        "duelsWon": 49,
+        "boxTouches": 17,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 55,
+        "xg": 1.08,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 448,
+        "duelsWon": 37,
+        "boxTouches": 25,
+        "fouls": 12,
+        "corners": 6,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Estádio do Fontelo, Viseu"
   },
