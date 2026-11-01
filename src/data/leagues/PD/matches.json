@@ -5704,14 +5704,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-01T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "82",
     "awayTeamId": "559",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 1.58,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 199,
+        "duelsWon": 71,
+        "boxTouches": 16,
+        "fouls": 18,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 53,
+        "xg": 0.73,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 248,
+        "duelsWon": 60,
+        "boxTouches": 24,
+        "fouls": 18,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Estadio Coliseum, Getafe",
     "broadcasts": [
@@ -5732,14 +5760,14 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-01T15:15:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "5335",
     "awayTeamId": "86",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "venue": "El Sardineros, Santander",
     "broadcasts": [

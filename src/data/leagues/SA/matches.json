@@ -4890,14 +4890,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7397",
     "awayTeamId": "454",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 1.55,
+        "shots": 19,
+        "shotsOnTarget": 4,
+        "accuratePasses": 656,
+        "duelsWon": 33,
+        "boxTouches": 38,
+        "fouls": 5,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 34,
+        "xg": 0.17,
+        "shots": 7,
+        "shotsOnTarget": 1,
+        "accuratePasses": 310,
+        "duelsWon": 40,
+        "boxTouches": 6,
+        "fouls": 9,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 3
+      }
     },
     "venue": "Giuseppe Sinigaglia, Como",
     "broadcasts": [
@@ -4914,11 +4942,11 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "470",
     "awayTeamId": "586",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -4938,14 +4966,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "110",
     "awayTeamId": "104",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Olimpico, Roma",
     "broadcasts": [

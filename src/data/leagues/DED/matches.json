@@ -4640,14 +4640,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-01T11:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "684",
     "awayTeamId": "680",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 34,
+        "xg": 1.44,
+        "shots": 24,
+        "shotsOnTarget": 5,
+        "accuratePasses": 175,
+        "duelsWon": 52,
+        "boxTouches": 32,
+        "fouls": 15,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 66,
+        "xg": 0.5,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 439,
+        "duelsWon": 48,
+        "boxTouches": 23,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "MAC³PARK Stadion, Zwolle"
   },
@@ -4658,14 +4686,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-01T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1912",
     "awayTeamId": "676",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 35,
+        "xg": 2.45,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 225,
+        "duelsWon": 61,
+        "boxTouches": 25,
+        "fouls": 10,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 3
+      },
+      "away": {
+        "possession": 65,
+        "xg": 1.28,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 447,
+        "duelsWon": 39,
+        "boxTouches": 26,
+        "fouls": 20,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "711 Stadion, Velsen-Zuid"
   },
@@ -4676,14 +4732,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-01T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "670",
     "awayTeamId": "666",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 9
+    },
+    "stats": {
+      "home": {
+        "possession": 20,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 152,
+        "duelsWon": 36,
+        "boxTouches": 2,
+        "fouls": 7,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 80,
+        "xg": 6.23,
+        "shots": 28,
+        "shotsOnTarget": 15,
+        "accuratePasses": 775,
+        "duelsWon": 43,
+        "boxTouches": 59,
+        "fouls": 6,
+        "corners": 8,
+        "offsides": 4,
+        "saves": 0
+      }
     },
     "venue": "Stadion Woudestein, Rotterdam"
   },
@@ -4694,11 +4778,11 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-01T15:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "677",
     "awayTeamId": "6806",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
