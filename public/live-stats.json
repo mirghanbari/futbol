@@ -152,28 +152,28 @@
     },
     "564729": {
       "home": {
-        "possession": 38,
+        "possession": 39,
         "xg": 2.84,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 236,
-        "duelsWon": 24,
-        "boxTouches": 16,
-        "fouls": 6,
+        "accuratePasses": 264,
+        "duelsWon": 28,
+        "boxTouches": 19,
+        "fouls": 8,
         "corners": 4,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 62,
-        "xg": 0.5,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 407,
-        "duelsWon": 31,
+        "possession": 61,
+        "xg": 0.6,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 419,
+        "duelsWon": 36,
         "boxTouches": 10,
-        "fouls": 10,
-        "corners": 4,
+        "fouls": 12,
+        "corners": 5,
         "offsides": 2,
         "saves": 1
       },
@@ -221,6 +221,12 @@
           "type": "yellow-card",
           "teamId": "92",
           "playerName": "Pellegrino Matarazzo"
+        },
+        {
+          "minute": "74'",
+          "type": "yellow-card",
+          "teamId": "92",
+          "playerName": "Jon Aramburu"
         }
       ]
     },
@@ -866,28 +872,28 @@
     },
     "558547": {
       "home": {
-        "possession": 48,
+        "possession": 49,
         "xg": 0.79,
         "shots": 18,
         "shotsOnTarget": 4,
-        "accuratePasses": 352,
-        "duelsWon": 40,
-        "boxTouches": 33,
+        "accuratePasses": 372,
+        "duelsWon": 44,
+        "boxTouches": 36,
         "fouls": 9,
-        "corners": 12,
+        "corners": 13,
         "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 52,
-        "xg": 0.37,
-        "shots": 6,
+        "possession": 51,
+        "xg": 0.41,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 411,
-        "duelsWon": 36,
+        "accuratePasses": 420,
+        "duelsWon": 37,
         "boxTouches": 10,
-        "fouls": 10,
-        "corners": 2,
+        "fouls": 12,
+        "corners": 4,
         "offsides": 1,
         "saves": 2
       },
@@ -935,8 +941,15 @@
           "teamId": "109",
           "playerName": "Jérémie Boga",
           "assist": "Andrea Cambiaso"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "yellow-card",
+          "teamId": "113",
+          "playerName": "Rafa Marín"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "FL1": {
@@ -1077,27 +1090,27 @@
     },
     "559645": {
       "home": {
-        "possession": 45,
+        "possession": 44,
         "xg": 1.08,
         "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 377,
-        "duelsWon": 54,
+        "accuratePasses": 391,
+        "duelsWon": 58,
         "boxTouches": 15,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 4,
         "offsides": 1,
         "saves": 6
       },
       "away": {
-        "possession": 55,
-        "xg": 1.57,
-        "shots": 13,
+        "possession": 56,
+        "xg": 1.58,
+        "shots": 14,
         "shotsOnTarget": 7,
-        "accuratePasses": 463,
-        "duelsWon": 51,
-        "boxTouches": 29,
-        "fouls": 12,
+        "accuratePasses": 493,
+        "duelsWon": 54,
+        "boxTouches": 33,
+        "fouls": 13,
         "corners": 3,
         "offsides": 4,
         "saves": 1
@@ -1615,12 +1628,12 @@
       "home": {
         "possession": 60,
         "xg": 0.4,
-        "shots": 8,
-        "shotsOnTarget": 1,
-        "accuratePasses": 263,
-        "duelsWon": 15,
-        "boxTouches": 16,
-        "fouls": 12,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 303,
+        "duelsWon": 16,
+        "boxTouches": 17,
+        "fouls": 13,
         "corners": 4,
         "offsides": 0,
         "saves": 0
@@ -1630,10 +1643,10 @@
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 174,
-        "duelsWon": 23,
+        "accuratePasses": 202,
+        "duelsWon": 25,
         "boxTouches": 1,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 0,
         "offsides": 1,
         "saves": 1
@@ -1656,6 +1669,13 @@
           "type": "yellow-card",
           "teamId": "5613",
           "playerName": "Carvalho"
+        },
+        {
+          "minute": "53'",
+          "type": "goal",
+          "teamId": "5613",
+          "playerName": "Ricardo Horta",
+          "assist": "Adrian Barišić"
         }
       ]
     },
