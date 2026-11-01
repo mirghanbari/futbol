@@ -1,26 +1,55 @@
 {
+  "PD": {
+    "564733": {
+      "home": {
+        "possession": 57,
+        "xg": 0.05,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 20,
+        "duelsWon": 5,
+        "boxTouches": 4,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 43,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 12,
+        "duelsWon": 6,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    }
+  },
   "SA": {
     "558543": {
       "home": {
-        "possession": 69,
+        "possession": 67,
         "xg": 1.49,
         "shots": 18,
         "shotsOnTarget": 4,
-        "accuratePasses": 532,
+        "accuratePasses": 569,
         "duelsWon": 27,
-        "boxTouches": 32,
+        "boxTouches": 33,
         "fouls": 4,
         "corners": 7,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 31,
+        "possession": 33,
         "xg": 0.1,
-        "shots": 4,
+        "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 208,
-        "duelsWon": 29,
+        "accuratePasses": 244,
+        "duelsWon": 32,
         "boxTouches": 3,
         "fouls": 8,
         "corners": 0,
@@ -57,8 +86,8 @@
         "xg": 1.44,
         "shots": 24,
         "shotsOnTarget": 5,
-        "accuratePasses": 172,
-        "duelsWon": 47,
+        "accuratePasses": 175,
+        "duelsWon": 50,
         "boxTouches": 32,
         "fouls": 15,
         "corners": 8,
@@ -70,8 +99,8 @@
         "xg": 0.5,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 424,
-        "duelsWon": 44,
+        "accuratePasses": 440,
+        "duelsWon": 50,
         "boxTouches": 22,
         "fouls": 9,
         "corners": 2,
@@ -122,7 +151,8 @@
           "teamId": "684",
           "playerName": "Ibrahim Cissoko"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
