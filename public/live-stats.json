@@ -88,25 +88,25 @@
         "xg": 0.54,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 455,
-        "duelsWon": 26,
-        "boxTouches": 19,
+        "accuratePasses": 475,
+        "duelsWon": 28,
+        "boxTouches": 20,
         "fouls": 7,
         "corners": 4,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 2
       },
       "away": {
         "possession": 31,
-        "xg": 0.32,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 185,
-        "duelsWon": 25,
-        "boxTouches": 8,
-        "fouls": 9,
+        "xg": 0.9,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 195,
+        "duelsWon": 28,
+        "boxTouches": 11,
+        "fouls": 10,
         "corners": 2,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 2
       },
       "events": [
@@ -127,6 +127,13 @@
           "type": "yellow-card",
           "teamId": "285",
           "playerName": "Facundo Buonanotte"
+        },
+        {
+          "minute": "69'",
+          "type": "goal",
+          "teamId": "95",
+          "playerName": "Umar Sadiq",
+          "assist": "Arnaut Danjuma"
         }
       ]
     },
@@ -489,7 +496,7 @@
     "558540": {
       "home": {
         "possession": 53,
-        "xg": 0.92,
+        "xg": 0.94,
         "shots": 18,
         "shotsOnTarget": 7,
         "accuratePasses": 304,
@@ -506,7 +513,7 @@
         "shots": 13,
         "shotsOnTarget": 3,
         "accuratePasses": 273,
-        "duelsWon": 66,
+        "duelsWon": 65,
         "boxTouches": 23,
         "fouls": 9,
         "corners": 3,
@@ -559,7 +566,8 @@
           "teamId": "5890",
           "playerName": "Eusebio Di Francesco"
         }
-      ]
+      ],
+      "final": true
     },
     "558543": {
       "home": {
@@ -1394,7 +1402,7 @@
         "shotsOnTarget": 2,
         "accuratePasses": 132,
         "duelsWon": 24,
-        "boxTouches": 10,
+        "boxTouches": 11,
         "fouls": 8,
         "corners": 0,
         "offsides": 0,
@@ -1406,7 +1414,7 @@
         "shots": 9,
         "shotsOnTarget": 4,
         "accuratePasses": 180,
-        "duelsWon": 28,
+        "duelsWon": 29,
         "boxTouches": 6,
         "fouls": 8,
         "corners": 1,
