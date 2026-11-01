@@ -84,28 +84,28 @@
   "PD": {
     "564728": {
       "home": {
-        "possession": 70,
-        "xg": 0.51,
-        "shots": 7,
+        "possession": 69,
+        "xg": 0.54,
+        "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 441,
-        "duelsWon": 24,
-        "boxTouches": 18,
+        "accuratePasses": 455,
+        "duelsWon": 26,
+        "boxTouches": 19,
         "fouls": 7,
         "corners": 4,
         "offsides": 1,
-        "saves": 0
+        "saves": 2
       },
       "away": {
-        "possession": 30,
-        "xg": 0.12,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 163,
+        "possession": 31,
+        "xg": 0.32,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 185,
         "duelsWon": 25,
-        "boxTouches": 7,
-        "fouls": 8,
-        "corners": 1,
+        "boxTouches": 8,
+        "fouls": 9,
+        "corners": 2,
         "offsides": 4,
         "saves": 2
       },
@@ -121,6 +121,12 @@
           "type": "yellow-card",
           "teamId": "285",
           "playerName": "Víctor Chust"
+        },
+        {
+          "minute": "62'",
+          "type": "yellow-card",
+          "teamId": "285",
+          "playerName": "Facundo Buonanotte"
         }
       ]
     },
@@ -482,28 +488,28 @@
   "SA": {
     "558540": {
       "home": {
-        "possession": 54,
+        "possession": 53,
         "xg": 0.92,
         "shots": 18,
         "shotsOnTarget": 7,
-        "accuratePasses": 302,
-        "duelsWon": 41,
-        "boxTouches": 34,
-        "fouls": 17,
+        "accuratePasses": 304,
+        "duelsWon": 48,
+        "boxTouches": 35,
+        "fouls": 19,
         "corners": 6,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 46,
-        "xg": 1.26,
-        "shots": 12,
+        "possession": 47,
+        "xg": 1.28,
+        "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 256,
-        "duelsWon": 60,
+        "accuratePasses": 273,
+        "duelsWon": 66,
         "boxTouches": 23,
-        "fouls": 8,
-        "corners": 1,
+        "fouls": 9,
+        "corners": 3,
         "offsides": 3,
         "saves": 6
       },
