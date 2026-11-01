@@ -3,12 +3,12 @@
     "558543": {
       "home": {
         "possession": 70,
-        "xg": 1.44,
+        "xg": 1.42,
         "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 417,
-        "duelsWon": 20,
-        "boxTouches": 30,
+        "accuratePasses": 450,
+        "duelsWon": 21,
+        "boxTouches": 31,
         "fouls": 4,
         "corners": 6,
         "offsides": 0,
@@ -16,11 +16,11 @@
       },
       "away": {
         "possession": 30,
-        "xg": 0.02,
-        "shots": 1,
+        "xg": 0.07,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 157,
-        "duelsWon": 24,
+        "accuratePasses": 173,
+        "duelsWon": 26,
         "boxTouches": 3,
         "fouls": 7,
         "corners": 0,
@@ -55,10 +55,10 @@
       "home": {
         "possession": 35,
         "xg": 1.33,
-        "shots": 22,
+        "shots": 23,
         "shotsOnTarget": 5,
-        "accuratePasses": 138,
-        "duelsWon": 37,
+        "accuratePasses": 149,
+        "duelsWon": 40,
         "boxTouches": 30,
         "fouls": 9,
         "corners": 7,
@@ -70,10 +70,10 @@
         "xg": 0.44,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 332,
-        "duelsWon": 33,
+        "accuratePasses": 345,
+        "duelsWon": 34,
         "boxTouches": 19,
-        "fouls": 6,
+        "fouls": 8,
         "corners": 2,
         "offsides": 2,
         "saves": 4
@@ -97,6 +97,18 @@
           "type": "yellow-card",
           "teamId": "680",
           "playerName": "Pascal Mulder"
+        },
+        {
+          "minute": "65'",
+          "type": "yellow-card",
+          "teamId": "684",
+          "playerName": "Olivier Aertssen"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "680",
+          "playerName": "Matteo Waem"
         }
       ]
     }
