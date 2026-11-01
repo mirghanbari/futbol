@@ -4008,14 +4008,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T20:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5613",
     "awayTeamId": "5531",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 1.15,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 451,
+        "duelsWon": 34,
+        "boxTouches": 28,
+        "fouls": 24,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 41,
+        "xg": 0.17,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 314,
+        "duelsWon": 43,
+        "boxTouches": 3,
+        "fouls": 9,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Estádio Municipal de Braga, Braga"
   },

@@ -3808,7 +3808,7 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-01T19:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "516",
     "awayTeamId": "511",
     "homeTeam": {
@@ -3816,6 +3816,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 1.08,
+        "shots": 13,
+        "shotsOnTarget": 3,
+        "accuratePasses": 400,
+        "duelsWon": 60,
+        "boxTouches": 15,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 56,
+        "xg": 1.58,
+        "shots": 14,
+        "shotsOnTarget": 7,
+        "accuratePasses": 516,
+        "duelsWon": 56,
+        "boxTouches": 34,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 1
+      }
     },
     "venue": "Stade Vélodrome, Marseille",
     "broadcasts": [

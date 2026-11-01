@@ -4890,11 +4890,11 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T11:30:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "7397",
     "awayTeamId": "454",
     "homeTeam": {
-      "goals": 1
+      "goals": 0
     },
     "awayTeam": {
       "goals": 0
@@ -4942,11 +4942,11 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T14:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "470",
     "awayTeamId": "586",
     "homeTeam": {
-      "goals": 2
+      "goals": 0
     },
     "awayTeam": {
       "goals": 0
@@ -4994,14 +4994,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T14:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "110",
     "awayTeamId": "104",
     "homeTeam": {
-      "goals": 2
+      "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 0
     },
     "stats": {
       "home": {
@@ -5046,14 +5046,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T17:00:00Z",
-    "status": "finished",
+    "status": "scheduled",
     "homeTeamId": "5890",
     "awayTeamId": "107",
     "homeTeam": {
-      "goals": 1
+      "goals": 0
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 0
     },
     "stats": {
       "home": {
@@ -5098,7 +5098,7 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T19:45:00Z",
-    "status": "in-play",
+    "status": "scheduled",
     "homeTeamId": "109",
     "awayTeamId": "113",
     "homeTeam": {
