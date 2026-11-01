@@ -2,30 +2,30 @@
   "PL": {
     "560631": {
       "home": {
-        "possession": 54,
-        "xg": 0.81,
-        "shots": 12,
+        "possession": 56,
+        "xg": 0.99,
+        "shots": 14,
         "shotsOnTarget": 0,
-        "accuratePasses": 313,
-        "duelsWon": 50,
-        "boxTouches": 38,
-        "fouls": 15,
+        "accuratePasses": 340,
+        "duelsWon": 51,
+        "boxTouches": 42,
+        "fouls": 16,
         "corners": 6,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 46,
+        "possession": 44,
         "xg": 0.96,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 253,
-        "duelsWon": 49,
+        "accuratePasses": 256,
+        "duelsWon": 53,
         "boxTouches": 23,
         "fouls": 9,
         "corners": 4,
         "offsides": 3,
-        "saves": 1
+        "saves": 0
       },
       "events": [
         {
@@ -77,29 +77,29 @@
   "PD": {
     "564728": {
       "home": {
-        "possession": 71,
-        "xg": 0.32,
-        "shots": 4,
+        "possession": 73,
+        "xg": 0.36,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 290,
-        "duelsWon": 15,
-        "boxTouches": 12,
-        "fouls": 3,
+        "accuratePasses": 346,
+        "duelsWon": 18,
+        "boxTouches": 13,
+        "fouls": 4,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 29,
-        "xg": 0.09,
-        "shots": 0,
+        "possession": 27,
+        "xg": 0.08,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 106,
-        "duelsWon": 11,
-        "boxTouches": 3,
+        "accuratePasses": 114,
+        "duelsWon": 15,
+        "boxTouches": 4,
         "fouls": 7,
         "corners": 0,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 1
       },
       "events": [
@@ -108,6 +108,12 @@
           "type": "yellow-card",
           "teamId": "285",
           "playerName": "Germán Valera"
+        },
+        {
+          "minute": "42'",
+          "type": "yellow-card",
+          "teamId": "285",
+          "playerName": "Víctor Chust"
         }
       ]
     },
@@ -371,10 +377,10 @@
         "xg": 1.83,
         "shots": 13,
         "shotsOnTarget": 9,
-        "accuratePasses": 309,
-        "duelsWon": 45,
+        "accuratePasses": 316,
+        "duelsWon": 51,
         "boxTouches": 28,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 6,
         "offsides": 2,
         "saves": 1
@@ -384,10 +390,10 @@
         "xg": 0.72,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 269,
-        "duelsWon": 49,
-        "boxTouches": 14,
-        "fouls": 8,
+        "accuratePasses": 275,
+        "duelsWon": 56,
+        "boxTouches": 16,
+        "fouls": 9,
         "corners": 3,
         "offsides": 3,
         "saves": 7
@@ -437,6 +443,12 @@
           "type": "yellow-card",
           "teamId": "7",
           "playerName": "Warmed Omari"
+        },
+        {
+          "minute": "85'",
+          "type": "yellow-card",
+          "teamId": "19",
+          "playerName": "Elias Baum"
         }
       ]
     }
@@ -444,30 +456,30 @@
   "SA": {
     "558540": {
       "home": {
-        "possession": 45,
-        "xg": 0.67,
-        "shots": 11,
-        "shotsOnTarget": 5,
-        "accuratePasses": 136,
-        "duelsWon": 20,
+        "possession": 47,
+        "xg": 0.71,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 166,
+        "duelsWon": 22,
         "boxTouches": 14,
-        "fouls": 9,
-        "corners": 4,
+        "fouls": 10,
+        "corners": 6,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 55,
-        "xg": 0.88,
-        "shots": 6,
+        "possession": 53,
+        "xg": 0.93,
+        "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 183,
-        "duelsWon": 28,
-        "boxTouches": 11,
-        "fouls": 3,
-        "corners": 0,
+        "accuratePasses": 201,
+        "duelsWon": 34,
+        "boxTouches": 13,
+        "fouls": 4,
+        "corners": 1,
         "offsides": 2,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -1324,25 +1336,25 @@
         "xg": 0.28,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 57,
-        "duelsWon": 9,
+        "accuratePasses": 78,
+        "duelsWon": 10,
         "boxTouches": 4,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
         "possession": 43,
-        "xg": 0.04,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 42,
-        "duelsWon": 8,
+        "xg": 0.15,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 59,
+        "duelsWon": 10,
         "boxTouches": 1,
         "fouls": 5,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       }
     },
@@ -1410,27 +1422,28 @@
     },
     "567345": {
       "home": {
-        "possession": 36,
-        "xg": 0,
-        "shots": 0,
+        "possession": 42,
+        "xg": 0.11,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 32,
-        "duelsWon": 3,
+        "accuratePasses": 54,
+        "duelsWon": 5,
+        "boxTouches": 1,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 2
       },
       "away": {
-        "possession": 64,
-        "xg": 0.26,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 63,
-        "duelsWon": 3,
-        "boxTouches": 7,
+        "possession": 58,
+        "xg": 0.52,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 75,
+        "duelsWon": 6,
+        "boxTouches": 11,
         "fouls": 0,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       }
