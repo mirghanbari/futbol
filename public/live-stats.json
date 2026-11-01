@@ -1641,13 +1641,13 @@
     "567339": {
       "home": {
         "possession": 59,
-        "xg": 1.11,
+        "xg": 1.15,
         "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 442,
-        "duelsWon": 33,
-        "boxTouches": 27,
-        "fouls": 22,
+        "accuratePasses": 451,
+        "duelsWon": 34,
+        "boxTouches": 28,
+        "fouls": 24,
         "corners": 7,
         "offsides": 1,
         "saves": 1
@@ -1657,8 +1657,8 @@
         "xg": 0.17,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 311,
-        "duelsWon": 40,
+        "accuratePasses": 314,
+        "duelsWon": 43,
         "boxTouches": 3,
         "fouls": 9,
         "corners": 1,
@@ -1675,14 +1675,14 @@
         {
           "minute": "40'",
           "type": "yellow-card",
-          "teamId": "5531",
-          "playerName": "Mathias De Amorim"
+          "teamId": "5613",
+          "playerName": "Carvalho"
         },
         {
           "minute": "40'",
           "type": "yellow-card",
-          "teamId": "5613",
-          "playerName": "Carvalho"
+          "teamId": "5531",
+          "playerName": "Mathias De Amorim"
         },
         {
           "minute": "53'",
@@ -1719,14 +1719,14 @@
         {
           "minute": "82'",
           "type": "yellow-card",
-          "teamId": "5613",
-          "playerName": "Fran Navarro"
+          "teamId": "5531",
+          "playerName": "Óscar Aranda"
         },
         {
           "minute": "82'",
           "type": "yellow-card",
-          "teamId": "5531",
-          "playerName": "Óscar Aranda"
+          "teamId": "5613",
+          "playerName": "Fran Navarro"
         },
         {
           "minute": "85'",
@@ -1747,7 +1747,8 @@
           "teamId": "5613",
           "playerName": "Jean-Baptiste Gorby"
         }
-      ]
+      ],
+      "final": true
     },
     "567340": {
       "home": {
