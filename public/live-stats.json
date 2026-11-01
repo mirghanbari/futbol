@@ -6,8 +6,8 @@
         "xg": 1.58,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 198,
-        "duelsWon": 71,
+        "accuratePasses": 199,
+        "duelsWon": 72,
         "boxTouches": 16,
         "fouls": 18,
         "corners": 2,
@@ -16,13 +16,13 @@
       },
       "away": {
         "possession": 53,
-        "xg": 0.62,
+        "xg": 0.73,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 247,
-        "duelsWon": 57,
+        "accuratePasses": 248,
+        "duelsWon": 58,
         "boxTouches": 24,
-        "fouls": 17,
+        "fouls": 18,
         "corners": 2,
         "offsides": 2,
         "saves": 2
@@ -66,7 +66,7 @@
           "minute": "77'",
           "type": "yellow-card",
           "teamId": "559",
-          "playerName": "Arouna Sangante"
+          "playerName": "Lucien Agoumé"
         },
         {
           "minute": "77'",
@@ -78,7 +78,7 @@
           "minute": "77'",
           "type": "yellow-card",
           "teamId": "559",
-          "playerName": "Lucien Agoumé"
+          "playerName": "Arouna Sangante"
         },
         {
           "minute": "84'",
@@ -99,18 +99,19 @@
           "playerName": "Orel Mangala",
           "assist": "Andrés García"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
     "565841": {
       "home": {
-        "possession": 45,
+        "possession": 44,
         "xg": 0.78,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 131,
-        "duelsWon": 14,
+        "accuratePasses": 153,
+        "duelsWon": 17,
         "boxTouches": 4,
         "fouls": 4,
         "corners": 2,
@@ -118,16 +119,16 @@
         "saves": 0
       },
       "away": {
-        "possession": 55,
-        "xg": 0,
-        "shots": 0,
+        "possession": 56,
+        "xg": 0.06,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 177,
-        "duelsWon": 12,
-        "boxTouches": 6,
-        "fouls": 2,
+        "accuratePasses": 215,
+        "duelsWon": 15,
+        "boxTouches": 7,
+        "fouls": 3,
         "corners": 1,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "events": [
@@ -204,7 +205,7 @@
         "xg": 0.72,
         "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 104,
+        "accuratePasses": 105,
         "duelsWon": 36,
         "boxTouches": 13,
         "fouls": 3,
@@ -288,12 +289,12 @@
   "FL1": {
     "559647": {
       "home": {
-        "possession": 57,
+        "possession": 58,
         "xg": 1.13,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 232,
-        "duelsWon": 32,
+        "accuratePasses": 234,
+        "duelsWon": 31,
         "boxTouches": 6,
         "fouls": 5,
         "corners": 2,
@@ -301,12 +302,12 @@
         "saves": 0
       },
       "away": {
-        "possession": 43,
+        "possession": 42,
         "xg": 0.19,
         "shots": 2,
         "shotsOnTarget": 0,
         "accuratePasses": 165,
-        "duelsWon": 13,
+        "duelsWon": 12,
         "boxTouches": 6,
         "fouls": 9,
         "corners": 0,
@@ -338,26 +339,26 @@
   "DED": {
     "558847": {
       "home": {
-        "possession": 21,
+        "possession": 20,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 114,
-        "duelsWon": 24,
+        "accuratePasses": 119,
+        "duelsWon": 25,
         "boxTouches": 1,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 0,
         "offsides": 1,
         "saves": 5
       },
       "away": {
-        "possession": 79,
-        "xg": 4.05,
-        "shots": 19,
-        "shotsOnTarget": 11,
-        "accuratePasses": 555,
-        "duelsWon": 30,
-        "boxTouches": 40,
+        "possession": 80,
+        "xg": 5.31,
+        "shots": 24,
+        "shotsOnTarget": 13,
+        "accuratePasses": 600,
+        "duelsWon": 31,
+        "boxTouches": 47,
         "fouls": 4,
         "corners": 7,
         "offsides": 4,
@@ -430,32 +431,39 @@
           "teamId": "666",
           "playerName": "Wout Weghorst",
           "penalty": true
+        },
+        {
+          "minute": "71'",
+          "type": "goal",
+          "teamId": "666",
+          "playerName": "Ramiz Zerrouki",
+          "penalty": true
         }
       ]
     },
     "558848": {
       "home": {
-        "possession": 36,
-        "xg": 2.39,
-        "shots": 14,
+        "possession": 37,
+        "xg": 2.41,
+        "shots": 15,
         "shotsOnTarget": 7,
-        "accuratePasses": 195,
-        "duelsWon": 48,
+        "accuratePasses": 206,
+        "duelsWon": 51,
         "boxTouches": 22,
-        "fouls": 6,
+        "fouls": 8,
         "corners": 3,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 3
       },
       "away": {
-        "possession": 64,
+        "possession": 63,
         "xg": 1.23,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 360,
-        "duelsWon": 27,
+        "accuratePasses": 374,
+        "duelsWon": 29,
         "boxTouches": 20,
-        "fouls": 14,
+        "fouls": 16,
         "corners": 8,
         "offsides": 1,
         "saves": 3
@@ -509,6 +517,12 @@
           "type": "yellow-card",
           "teamId": "676",
           "playerName": "Dani de Wit"
+        },
+        {
+          "minute": "73'",
+          "type": "yellow-card",
+          "teamId": "676",
+          "playerName": "Per Kloosterboer"
         }
       ]
     },
