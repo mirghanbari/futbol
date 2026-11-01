@@ -2,25 +2,25 @@
   "PL": {
     "560631": {
       "home": {
-        "possession": 56,
-        "xg": 0.59,
+        "possession": 58,
+        "xg": 0.49,
         "shots": 8,
         "shotsOnTarget": 0,
-        "accuratePasses": 178,
-        "duelsWon": 30,
+        "accuratePasses": 194,
+        "duelsWon": 32,
         "boxTouches": 28,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 6,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 44,
+        "possession": 42,
         "xg": 0.77,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 134,
-        "duelsWon": 19,
+        "accuratePasses": 138,
+        "duelsWon": 24,
         "boxTouches": 15,
         "fouls": 6,
         "corners": 1,
@@ -45,6 +45,30 @@
     }
   },
   "PD": {
+    "564728": {
+      "home": {
+        "possession": 82,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 35,
+        "duelsWon": 3,
+        "fouls": 0,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 18,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 6,
+        "duelsWon": 0,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "564733": {
       "home": {
         "possession": 47,
@@ -302,14 +326,14 @@
     "565844": {
       "home": {
         "possession": 55,
-        "xg": 0.34,
-        "shots": 5,
-        "shotsOnTarget": 3,
-        "accuratePasses": 192,
-        "duelsWon": 22,
-        "boxTouches": 13,
+        "xg": 1.02,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 198,
+        "duelsWon": 23,
+        "boxTouches": 15,
         "fouls": 3,
-        "corners": 5,
+        "corners": 6,
         "offsides": 0,
         "saves": 1
       },
@@ -318,13 +342,13 @@
         "xg": 0.66,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 150,
+        "accuratePasses": 153,
         "duelsWon": 29,
         "boxTouches": 11,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 3,
         "offsides": 2,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -346,6 +370,12 @@
           "type": "yellow-card",
           "teamId": "7",
           "playerName": "Shafiq Nandja"
+        },
+        {
+          "minute": "47'",
+          "type": "goal",
+          "teamId": "19",
+          "playerName": "Raphael Onyedika"
         }
       ]
     }
@@ -354,15 +384,15 @@
     "558540": {
       "home": {
         "possession": 42,
-        "xg": 0.16,
+        "xg": 0.18,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 80,
-        "duelsWon": 5,
+        "accuratePasses": 94,
+        "duelsWon": 7,
         "boxTouches": 7,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 3,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
@@ -370,8 +400,8 @@
         "xg": 0.88,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 128,
-        "duelsWon": 19,
+        "accuratePasses": 144,
+        "duelsWon": 22,
         "boxTouches": 9,
         "fouls": 2,
         "corners": 0,
@@ -607,25 +637,25 @@
   "FL1": {
     "559640": {
       "home": {
-        "possession": 64,
-        "xg": 1.36,
-        "shots": 12,
+        "possession": 63,
+        "xg": 1.42,
+        "shots": 13,
         "shotsOnTarget": 2,
-        "accuratePasses": 402,
-        "duelsWon": 18,
-        "boxTouches": 25,
-        "fouls": 13,
+        "accuratePasses": 437,
+        "duelsWon": 19,
+        "boxTouches": 30,
+        "fouls": 14,
         "corners": 2,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 36,
+        "possession": 37,
         "xg": 0.09,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 197,
-        "duelsWon": 23,
+        "accuratePasses": 225,
+        "duelsWon": 26,
         "boxTouches": 7,
         "fouls": 3,
         "corners": 3,
@@ -644,27 +674,27 @@
     },
     "559642": {
       "home": {
-        "possession": 51,
+        "possession": 47,
         "xg": 1.79,
         "shots": 15,
         "shotsOnTarget": 8,
-        "accuratePasses": 320,
-        "duelsWon": 25,
+        "accuratePasses": 332,
+        "duelsWon": 28,
         "boxTouches": 19,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 49,
+        "possession": 53,
         "xg": 0.16,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 316,
-        "duelsWon": 15,
-        "boxTouches": 6,
-        "fouls": 10,
+        "accuratePasses": 385,
+        "duelsWon": 17,
+        "boxTouches": 7,
+        "fouls": 11,
         "corners": 1,
         "offsides": 0,
         "saves": 6
@@ -806,25 +836,25 @@
   "DED": {
     "558846": {
       "home": {
-        "possession": 58,
-        "xg": 2.08,
-        "shots": 19,
+        "possession": 59,
+        "xg": 2.09,
+        "shots": 20,
         "shotsOnTarget": 10,
-        "accuratePasses": 395,
-        "duelsWon": 45,
-        "boxTouches": 25,
+        "accuratePasses": 415,
+        "duelsWon": 46,
+        "boxTouches": 26,
         "fouls": 8,
         "corners": 2,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 42,
+        "possession": 41,
         "xg": 2.42,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 260,
-        "duelsWon": 40,
+        "accuratePasses": 264,
+        "duelsWon": 45,
         "boxTouches": 11,
         "fouls": 14,
         "corners": 7,
@@ -835,16 +865,16 @@
         {
           "minute": "1'",
           "type": "goal",
-          "teamId": "677",
-          "playerName": "Jacob Ondrejka",
-          "assist": "Brynjólfur Willumsson"
+          "teamId": "6806",
+          "playerName": "Cedric Hatenboer",
+          "assist": "Marvin Young"
         },
         {
           "minute": "1'",
           "type": "goal",
-          "teamId": "6806",
-          "playerName": "Cedric Hatenboer",
-          "assist": "Marvin Young"
+          "teamId": "677",
+          "playerName": "Jacob Ondrejka",
+          "assist": "Brynjólfur Willumsson"
         },
         {
           "minute": "5'",
@@ -889,7 +919,8 @@
           "teamId": "6806",
           "playerName": "Andrej Kostić"
         }
-      ]
+      ],
+      "final": true
     },
     "558847": {
       "home": {
