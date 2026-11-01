@@ -2,12 +2,12 @@
   "SA": {
     "558543": {
       "home": {
-        "possession": 70,
+        "possession": 69,
         "xg": 1.47,
         "shots": 17,
         "shotsOnTarget": 4,
-        "accuratePasses": 482,
-        "duelsWon": 25,
+        "accuratePasses": 514,
+        "duelsWon": 26,
         "boxTouches": 32,
         "fouls": 4,
         "corners": 6,
@@ -15,11 +15,11 @@
         "saves": 0
       },
       "away": {
-        "possession": 30,
-        "xg": 0.07,
-        "shots": 2,
+        "possession": 31,
+        "xg": 0.1,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 175,
+        "accuratePasses": 199,
         "duelsWon": 28,
         "boxTouches": 3,
         "fouls": 8,
@@ -53,25 +53,25 @@
   "DED": {
     "558849": {
       "home": {
-        "possession": 36,
+        "possession": 35,
         "xg": 1.4,
         "shots": 23,
         "shotsOnTarget": 5,
-        "accuratePasses": 161,
+        "accuratePasses": 170,
         "duelsWon": 44,
-        "boxTouches": 30,
-        "fouls": 12,
+        "boxTouches": 31,
+        "fouls": 13,
         "corners": 7,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 64,
-        "xg": 0.46,
+        "possession": 65,
+        "xg": 0.5,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 367,
-        "duelsWon": 38,
+        "accuratePasses": 397,
+        "duelsWon": 40,
         "boxTouches": 21,
         "fouls": 8,
         "corners": 2,
@@ -115,6 +115,12 @@
           "type": "yellow-card",
           "teamId": "684",
           "playerName": "Gilles van der Wal"
+        },
+        {
+          "minute": "81'",
+          "type": "yellow-card",
+          "teamId": "684",
+          "playerName": "Ibrahim Cissoko"
         }
       ]
     }
