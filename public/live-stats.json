@@ -297,10 +297,10 @@
         "xg": 1.6,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 495,
-        "duelsWon": 64,
-        "boxTouches": 26,
-        "fouls": 10,
+        "accuratePasses": 501,
+        "duelsWon": 68,
+        "boxTouches": 27,
+        "fouls": 11,
         "corners": 8,
         "offsides": 3,
         "saves": 4
@@ -310,10 +310,10 @@
         "xg": 0.56,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 218,
-        "duelsWon": 47,
+        "accuratePasses": 221,
+        "duelsWon": 49,
         "boxTouches": 11,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 5,
         "offsides": 2,
         "saves": 3
@@ -350,7 +350,8 @@
           "teamId": "1903",
           "playerName": "Clément Lenglet"
         }
-      ]
+      ],
+      "final": true
     },
     "567346": {
       "home": {
