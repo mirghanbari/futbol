@@ -2,12 +2,12 @@
   "SA": {
     "558541": {
       "home": {
-        "possession": 54,
+        "possession": 53,
         "xg": 0.54,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 216,
-        "duelsWon": 19,
+        "accuratePasses": 227,
+        "duelsWon": 21,
         "boxTouches": 3,
         "fouls": 7,
         "corners": 0,
@@ -15,13 +15,13 @@
         "saves": 1
       },
       "away": {
-        "possession": 46,
-        "xg": 0.44,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 169,
-        "duelsWon": 25,
-        "boxTouches": 7,
+        "possession": 47,
+        "xg": 0.96,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 183,
+        "duelsWon": 26,
+        "boxTouches": 9,
         "fouls": 7,
         "corners": 2,
         "offsides": 0,
@@ -52,6 +52,13 @@
           "type": "yellow-card",
           "teamId": "99",
           "playerName": "Alieu Njie"
+        },
+        {
+          "minute": "45'+2'",
+          "type": "goal",
+          "teamId": "99",
+          "playerName": "Mateo Pellegrino",
+          "assist": "Alieu Njie"
         }
       ]
     }
