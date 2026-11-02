@@ -2,31 +2,40 @@
   "SA": {
     "558541": {
       "home": {
-        "possession": 47,
-        "xg": 0.02,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 94,
-        "duelsWon": 12,
-        "boxTouches": 1,
-        "fouls": 3,
+        "possession": 48,
+        "xg": 0.54,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 107,
+        "duelsWon": 11,
+        "boxTouches": 2,
+        "fouls": 5,
         "corners": 0,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 53,
+        "possession": 52,
         "xg": 0.17,
-        "shots": 3,
+        "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 100,
-        "duelsWon": 15,
+        "accuratePasses": 111,
+        "duelsWon": 18,
         "boxTouches": 3,
         "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "25'",
+          "type": "goal",
+          "teamId": "471",
+          "playerName": "Armand Laurienté",
+          "assist": "Sebastiano Esposito"
+        }
+      ]
     }
   }
 }
