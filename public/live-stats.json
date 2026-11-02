@@ -6,9 +6,9 @@
         "xg": 0.54,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 238,
-        "duelsWon": 22,
-        "boxTouches": 3,
+        "accuratePasses": 264,
+        "duelsWon": 25,
+        "boxTouches": 4,
         "fouls": 7,
         "corners": 0,
         "offsides": 2,
@@ -16,10 +16,10 @@
       },
       "away": {
         "possession": 46,
-        "xg": 0.96,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 184,
+        "xg": 1,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 208,
         "duelsWon": 26,
         "boxTouches": 9,
         "fouls": 7,
@@ -59,6 +59,13 @@
           "teamId": "99",
           "playerName": "Mateo Pellegrino",
           "assist": "Alieu Njie"
+        },
+        {
+          "minute": "50'",
+          "type": "goal",
+          "teamId": "99",
+          "playerName": "Alieu Njie",
+          "assist": "Marco Brescianini"
         }
       ]
     }
