@@ -2,26 +2,26 @@
   "PL": {
     "560622": {
       "home": {
-        "possession": 53,
-        "xg": 1.07,
-        "shots": 13,
+        "possession": 54,
+        "xg": 1.11,
+        "shots": 14,
         "shotsOnTarget": 0,
-        "accuratePasses": 261,
-        "duelsWon": 26,
-        "boxTouches": 21,
+        "accuratePasses": 292,
+        "duelsWon": 27,
+        "boxTouches": 23,
         "fouls": 9,
         "corners": 3,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 47,
+        "possession": 46,
         "xg": 2.15,
         "shots": 16,
         "shotsOnTarget": 5,
-        "accuratePasses": 229,
-        "duelsWon": 47,
-        "boxTouches": 27,
+        "accuratePasses": 249,
+        "duelsWon": 49,
+        "boxTouches": 29,
         "fouls": 9,
         "corners": 4,
         "offsides": 1,
@@ -156,25 +156,25 @@
     "558545": {
       "home": {
         "possession": 70,
-        "xg": 3.09,
+        "xg": 2.8,
         "shots": 20,
         "shotsOnTarget": 7,
-        "accuratePasses": 573,
-        "duelsWon": 43,
+        "accuratePasses": 584,
+        "duelsWon": 42,
         "boxTouches": 46,
         "fouls": 8,
         "corners": 8,
         "offsides": 4,
-        "saves": 0
+        "saves": 1
       },
       "away": {
         "possession": 30,
-        "xg": 0.29,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 219,
-        "duelsWon": 45,
-        "boxTouches": 12,
+        "xg": 0.36,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 227,
+        "duelsWon": 47,
+        "boxTouches": 13,
         "fouls": 10,
         "corners": 4,
         "offsides": 0,
@@ -203,7 +203,8 @@
           "playerName": "Simone Lontani",
           "assist": "Giovanni Fabbian"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "FL1": {
@@ -213,9 +214,9 @@
         "xg": 1.63,
         "shots": 15,
         "shotsOnTarget": 0,
-        "accuratePasses": 438,
-        "duelsWon": 54,
-        "boxTouches": 40,
+        "accuratePasses": 446,
+        "duelsWon": 56,
+        "boxTouches": 41,
         "fouls": 11,
         "corners": 8,
         "offsides": 1,
@@ -223,11 +224,11 @@
       },
       "away": {
         "possession": 48,
-        "xg": 1.25,
+        "xg": 1.22,
         "shots": 12,
         "shotsOnTarget": 4,
         "accuratePasses": 420,
-        "duelsWon": 31,
+        "duelsWon": 30,
         "boxTouches": 16,
         "fouls": 16,
         "corners": 2,
@@ -242,7 +243,7 @@
           "playerName": "Mama Baldé"
         },
         {
-          "minute": "59'",
+          "minute": "58'",
           "type": "yellow-card",
           "teamId": "525",
           "playerName": "Souleymane Touré"
@@ -260,7 +261,8 @@
           "playerName": "Noah Edjouma",
           "assist": "Giovani Versini"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PPL": {
@@ -270,9 +272,9 @@
         "xg": 1.13,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 345,
-        "duelsWon": 42,
-        "boxTouches": 17,
+        "accuratePasses": 381,
+        "duelsWon": 47,
+        "boxTouches": 19,
         "fouls": 7,
         "corners": 6,
         "offsides": 2,
@@ -281,12 +283,12 @@
       "away": {
         "possession": 30,
         "xg": 0.32,
-        "shots": 2,
-        "shotsOnTarget": 2,
-        "accuratePasses": 118,
-        "duelsWon": 31,
+        "shots": 3,
+        "shotsOnTarget": 3,
+        "accuratePasses": 131,
+        "duelsWon": 33,
         "boxTouches": 4,
-        "fouls": 8,
+        "fouls": 11,
         "corners": 2,
         "offsides": 2,
         "saves": 2
@@ -310,35 +312,41 @@
           "type": "yellow-card",
           "teamId": "7822",
           "playerName": "Chiquinho"
+        },
+        {
+          "minute": "64'",
+          "type": "yellow-card",
+          "teamId": "7822",
+          "playerName": "Ian Luccas"
         }
       ]
     },
     "567346": {
       "home": {
-        "possession": 49,
-        "xg": 0.6,
-        "shots": 6,
-        "shotsOnTarget": 0,
-        "accuratePasses": 211,
-        "duelsWon": 35,
-        "boxTouches": 11,
-        "fouls": 12,
+        "possession": 50,
+        "xg": 0.43,
+        "shots": 7,
+        "shotsOnTarget": 1,
+        "accuratePasses": 232,
+        "duelsWon": 38,
+        "boxTouches": 12,
+        "fouls": 13,
         "corners": 2,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 51,
-        "xg": 0.15,
-        "shots": 4,
-        "shotsOnTarget": 0,
-        "accuratePasses": 218,
-        "duelsWon": 42,
-        "boxTouches": 8,
-        "fouls": 15,
-        "corners": 2,
+        "possession": 50,
+        "xg": 0.24,
+        "shots": 7,
+        "shotsOnTarget": 1,
+        "accuratePasses": 233,
+        "duelsWon": 46,
+        "boxTouches": 9,
+        "fouls": 18,
+        "corners": 3,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
