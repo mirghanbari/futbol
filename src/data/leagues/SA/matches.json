@@ -4890,11 +4890,11 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7397",
     "awayTeamId": "454",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -4942,11 +4942,11 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "470",
     "awayTeamId": "586",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -4994,14 +4994,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "110",
     "awayTeamId": "104",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -5046,14 +5046,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5890",
     "awayTeamId": "107",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -5098,14 +5098,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-01T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "109",
     "awayTeamId": "113",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 0.79,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 372,
+        "duelsWon": 45,
+        "boxTouches": 36,
+        "fouls": 9,
+        "corners": 13,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 51,
+        "xg": 0.52,
+        "shots": 8,
+        "shotsOnTarget": 1,
+        "accuratePasses": 420,
+        "duelsWon": 38,
+        "boxTouches": 11,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Allianz Stadium, Torino",
     "broadcasts": [
