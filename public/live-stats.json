@@ -2,27 +2,27 @@
   "SA": {
     "558541": {
       "home": {
-        "possession": 52,
+        "possession": 54,
         "xg": 0.54,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 177,
-        "duelsWon": 15,
+        "accuratePasses": 216,
+        "duelsWon": 19,
         "boxTouches": 3,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 0,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 48,
+        "possession": 46,
         "xg": 0.44,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 150,
-        "duelsWon": 21,
+        "accuratePasses": 169,
+        "duelsWon": 25,
         "boxTouches": 7,
-        "fouls": 4,
+        "fouls": 7,
         "corners": 2,
         "offsides": 0,
         "saves": 0
@@ -34,6 +34,24 @@
           "teamId": "471",
           "playerName": "Armand Laurienté",
           "assist": "Sebastiano Esposito"
+        },
+        {
+          "minute": "40'",
+          "type": "yellow-card",
+          "teamId": "471",
+          "playerName": "Ibrahim Sulemana"
+        },
+        {
+          "minute": "42'",
+          "type": "yellow-card",
+          "teamId": "99",
+          "playerName": "Radu Drăgușin"
+        },
+        {
+          "minute": "44'",
+          "type": "yellow-card",
+          "teamId": "99",
+          "playerName": "Alieu Njie"
         }
       ]
     }
