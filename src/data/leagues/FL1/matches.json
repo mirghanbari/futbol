@@ -3860,14 +3860,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-02T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "525",
     "awayTeamId": "512",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.63,
+        "shots": 15,
+        "shotsOnTarget": 0,
+        "accuratePasses": 446,
+        "duelsWon": 58,
+        "boxTouches": 41,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.22,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 420,
+        "duelsWon": 30,
+        "boxTouches": 16,
+        "fouls": 16,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 0
+      }
     },
     "venue": "Stade du Moustoir - Yves Allainmat, Lorient",
     "broadcasts": [

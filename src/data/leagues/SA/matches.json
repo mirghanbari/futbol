@@ -5150,14 +5150,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-02T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "471",
     "awayTeamId": "99",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 0.87,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 496,
+        "duelsWon": 49,
+        "boxTouches": 16,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 42,
+        "xg": 2.54,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 331,
+        "duelsWon": 45,
+        "boxTouches": 21,
+        "fouls": 15,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 0
+      }
     },
     "venue": "Mapei Stadium, Reggio Emilia",
     "broadcasts": [
@@ -5174,14 +5202,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-02T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "102",
     "awayTeamId": "112",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 70,
+        "xg": 2.8,
+        "shots": 20,
+        "shotsOnTarget": 6,
+        "accuratePasses": 586,
+        "duelsWon": 42,
+        "boxTouches": 46,
+        "fouls": 8,
+        "corners": 8,
+        "offsides": 4,
+        "saves": 1
+      },
+      "away": {
+        "possession": 30,
+        "xg": 0.36,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 227,
+        "duelsWon": 47,
+        "boxTouches": 13,
+        "fouls": 10,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 6
+      }
     },
     "venue": "New Balance Arena, Bergamo",
     "broadcasts": [
