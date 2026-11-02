@@ -293,28 +293,28 @@
   "PPL": {
     "567342": {
       "home": {
-        "possession": 68,
+        "possession": 65,
         "xg": 1.6,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 482,
-        "duelsWon": 61,
+        "accuratePasses": 495,
+        "duelsWon": 64,
         "boxTouches": 26,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 8,
         "offsides": 3,
         "saves": 4
       },
       "away": {
-        "possession": 32,
-        "xg": 0.5,
-        "shots": 6,
+        "possession": 35,
+        "xg": 0.56,
+        "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 179,
-        "duelsWon": 41,
-        "boxTouches": 10,
+        "accuratePasses": 218,
+        "duelsWon": 47,
+        "boxTouches": 11,
         "fouls": 14,
-        "corners": 3,
+        "corners": 5,
         "offsides": 2,
         "saves": 3
       },
@@ -355,13 +355,13 @@
     "567346": {
       "home": {
         "possession": 48,
-        "xg": 0.59,
-        "shots": 9,
+        "xg": 0.65,
+        "shots": 10,
         "shotsOnTarget": 1,
-        "accuratePasses": 319,
-        "duelsWon": 45,
-        "boxTouches": 14,
-        "fouls": 16,
+        "accuratePasses": 331,
+        "duelsWon": 49,
+        "boxTouches": 16,
+        "fouls": 17,
         "corners": 2,
         "offsides": 2,
         "saves": 2
@@ -369,12 +369,12 @@
       "away": {
         "possession": 52,
         "xg": 0.42,
-        "shots": 10,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 347,
-        "duelsWon": 57,
-        "boxTouches": 18,
-        "fouls": 20,
+        "accuratePasses": 361,
+        "duelsWon": 62,
+        "boxTouches": 20,
+        "fouls": 21,
         "corners": 3,
         "offsides": 0,
         "saves": 1
@@ -398,7 +398,8 @@
           "teamId": "5543",
           "playerName": "Toni Borevković"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
