@@ -3,12 +3,12 @@
     "558541": {
       "home": {
         "possession": 58,
-        "xg": 0.77,
-        "shots": 6,
+        "xg": 1.04,
+        "shots": 7,
         "shotsOnTarget": 2,
         "accuratePasses": 495,
         "duelsWon": 49,
-        "boxTouches": 14,
+        "boxTouches": 15,
         "fouls": 12,
         "corners": 5,
         "offsides": 4,
@@ -94,7 +94,8 @@
           "playerName": "Valde",
           "assist": "Cher Ndour"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
