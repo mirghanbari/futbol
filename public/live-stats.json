@@ -2,27 +2,28 @@
   "SA": {
     "558541": {
       "home": {
-        "possession": 44,
-        "xg": 0,
-        "shots": 0,
+        "possession": 47,
+        "xg": 0.02,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 56,
-        "duelsWon": 8,
-        "fouls": 2,
+        "accuratePasses": 94,
+        "duelsWon": 12,
+        "boxTouches": 1,
+        "fouls": 3,
         "corners": 0,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 56,
-        "xg": 0.08,
-        "shots": 2,
+        "possession": 53,
+        "xg": 0.17,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 72,
-        "duelsWon": 10,
-        "boxTouches": 2,
+        "accuratePasses": 100,
+        "duelsWon": 15,
+        "boxTouches": 3,
         "fouls": 1,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       }
