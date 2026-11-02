@@ -2,12 +2,12 @@
   "PL": {
     "560622": {
       "home": {
-        "possession": 54,
-        "xg": 1.11,
-        "shots": 14,
-        "shotsOnTarget": 0,
-        "accuratePasses": 292,
-        "duelsWon": 27,
+        "possession": 52,
+        "xg": 1.06,
+        "shots": 15,
+        "shotsOnTarget": 1,
+        "accuratePasses": 316,
+        "duelsWon": 28,
         "boxTouches": 23,
         "fouls": 9,
         "corners": 3,
@@ -15,17 +15,17 @@
         "saves": 4
       },
       "away": {
-        "possession": 46,
+        "possession": 48,
         "xg": 2.15,
         "shots": 16,
         "shotsOnTarget": 5,
-        "accuratePasses": 249,
-        "duelsWon": 49,
+        "accuratePasses": 285,
+        "duelsWon": 50,
         "boxTouches": 29,
         "fouls": 9,
         "corners": 4,
-        "offsides": 1,
-        "saves": 0
+        "offsides": 2,
+        "saves": 1
       },
       "events": [
         {
@@ -268,28 +268,28 @@
   "PPL": {
     "567342": {
       "home": {
-        "possession": 70,
-        "xg": 1.13,
-        "shots": 8,
+        "possession": 69,
+        "xg": 1.14,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 381,
-        "duelsWon": 47,
+        "accuratePasses": 399,
+        "duelsWon": 52,
         "boxTouches": 19,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 6,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 30,
-        "xg": 0.32,
-        "shots": 3,
+        "possession": 31,
+        "xg": 0.36,
+        "shots": 4,
         "shotsOnTarget": 3,
-        "accuratePasses": 131,
-        "duelsWon": 33,
-        "boxTouches": 4,
+        "accuratePasses": 145,
+        "duelsWon": 36,
+        "boxTouches": 8,
         "fouls": 11,
-        "corners": 2,
+        "corners": 3,
         "offsides": 2,
         "saves": 2
       },
@@ -318,30 +318,36 @@
           "type": "yellow-card",
           "teamId": "7822",
           "playerName": "Ian Luccas"
+        },
+        {
+          "minute": "65'",
+          "type": "yellow-card",
+          "teamId": "1903",
+          "playerName": "Clément Lenglet"
         }
       ]
     },
     "567346": {
       "home": {
-        "possession": 50,
-        "xg": 0.43,
+        "possession": 49,
+        "xg": 0.45,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 232,
+        "accuratePasses": 247,
         "duelsWon": 38,
         "boxTouches": 12,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 2,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 50,
+        "possession": 51,
         "xg": 0.24,
-        "shots": 7,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 233,
-        "duelsWon": 46,
+        "accuratePasses": 251,
+        "duelsWon": 48,
         "boxTouches": 9,
         "fouls": 18,
         "corners": 3,
