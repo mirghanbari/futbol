@@ -6,9 +6,9 @@
         "xg": 0.97,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 227,
-        "duelsWon": 42,
-        "boxTouches": 20,
+        "accuratePasses": 252,
+        "duelsWon": 44,
+        "boxTouches": 23,
         "fouls": 10,
         "corners": 6,
         "offsides": 2,
@@ -17,14 +17,14 @@
       "away": {
         "possession": 46,
         "xg": 0.91,
-        "shots": 11,
-        "shotsOnTarget": 4,
-        "accuratePasses": 193,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 212,
         "duelsWon": 31,
-        "boxTouches": 18,
-        "fouls": 13,
+        "boxTouches": 17,
+        "fouls": 14,
         "corners": 4,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 2
       },
       "events": [
@@ -78,10 +78,10 @@
           "playerName": "Roland Sallai"
         },
         {
-          "minute": "76'",
-          "type": "goal",
+          "minute": "79'",
+          "type": "yellow-card",
           "teamId": "10",
-          "playerName": "<TBD>"
+          "playerName": "Ramon Hendriks"
         }
       ]
     }
