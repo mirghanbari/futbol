@@ -2,30 +2,30 @@
   "ELC": {
     "561917": {
       "home": {
-        "possession": 52,
-        "xg": 0.62,
-        "shots": 11,
-        "shotsOnTarget": 6,
-        "accuratePasses": 136,
-        "duelsWon": 15,
-        "boxTouches": 14,
-        "fouls": 5,
+        "possession": 54,
+        "xg": 1.68,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 168,
+        "duelsWon": 17,
+        "boxTouches": 18,
+        "fouls": 6,
         "corners": 4,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 48,
+        "possession": 46,
         "xg": 0.45,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 129,
-        "duelsWon": 25,
+        "accuratePasses": 141,
+        "duelsWon": 29,
         "boxTouches": 11,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
-        "saves": 3
+        "saves": 2
       },
       "events": [
         {
@@ -56,7 +56,7 @@
         "xg": 0.72,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 76,
+        "accuratePasses": 77,
         "duelsWon": 23,
         "boxTouches": 13,
         "fouls": 8,
@@ -112,7 +112,7 @@
         "xg": 1.26,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 264,
+        "accuratePasses": 266,
         "duelsWon": 21,
         "boxTouches": 9,
         "fouls": 3,
@@ -157,7 +157,7 @@
         "xg": 0.71,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 262,
+        "accuratePasses": 260,
         "duelsWon": 16,
         "boxTouches": 24,
         "fouls": 1,
@@ -201,7 +201,7 @@
         "shots": 2,
         "shotsOnTarget": 0,
         "accuratePasses": 120,
-        "duelsWon": 24,
+        "duelsWon": 27,
         "boxTouches": 7,
         "fouls": 5,
         "corners": 2,
@@ -213,9 +213,9 @@
         "xg": 1.39,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 246,
-        "duelsWon": 24,
-        "boxTouches": 29,
+        "accuratePasses": 249,
+        "duelsWon": 23,
+        "boxTouches": 31,
         "fouls": 1,
         "corners": 4,
         "offsides": 0,
@@ -299,25 +299,25 @@
     },
     "561923": {
       "home": {
-        "possession": 62,
-        "xg": 1.18,
+        "possession": 64,
+        "xg": 1.37,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 305,
-        "duelsWon": 20,
+        "accuratePasses": 356,
+        "duelsWon": 22,
         "boxTouches": 9,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 38,
+        "possession": 36,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 174,
-        "duelsWon": 19,
+        "accuratePasses": 183,
+        "duelsWon": 22,
         "boxTouches": 5,
         "fouls": 5,
         "corners": 0,
@@ -336,31 +336,46 @@
     },
     "561924": {
       "home": {
-        "possession": 64,
-        "xg": 0.36,
-        "shots": 8,
-        "shotsOnTarget": 0,
-        "accuratePasses": 231,
-        "duelsWon": 23,
-        "boxTouches": 7,
+        "possession": 65,
+        "xg": 0.38,
+        "shots": 9,
+        "shotsOnTarget": 1,
+        "accuratePasses": 240,
+        "duelsWon": 22,
+        "boxTouches": 8,
         "fouls": 5,
         "corners": 6,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 36,
+        "possession": 35,
         "xg": 0.06,
         "shots": 3,
         "shotsOnTarget": 0,
         "accuratePasses": 99,
-        "duelsWon": 24,
+        "duelsWon": 26,
         "boxTouches": 11,
         "fouls": 6,
         "corners": 4,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "46'",
+          "type": "goal",
+          "teamId": "346",
+          "playerName": "Stephy Mavididi",
+          "assist": "Myron Boadu"
+        },
+        {
+          "minute": "47'",
+          "type": "yellow-card",
+          "teamId": "1126",
+          "playerName": "Ben House"
+        }
+      ]
     },
     "561928": {
       "home": {
@@ -500,27 +515,27 @@
     },
     "575379": {
       "home": {
-        "possession": 60,
-        "xg": 0.41,
-        "shots": 4,
+        "possession": 61,
+        "xg": 0.59,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 227,
-        "duelsWon": 18,
-        "boxTouches": 11,
+        "accuratePasses": 268,
+        "duelsWon": 21,
+        "boxTouches": 16,
         "fouls": 5,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 40,
-        "xg": 0.84,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 134,
-        "duelsWon": 19,
+        "possession": 39,
+        "xg": 0.86,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 151,
+        "duelsWon": 20,
         "boxTouches": 18,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 3,
         "offsides": 0,
         "saves": 1
@@ -562,12 +577,12 @@
     },
     "575380": {
       "home": {
-        "possession": 66,
-        "xg": 0.68,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 243,
-        "duelsWon": 20,
+        "possession": 69,
+        "xg": 0.7,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 302,
+        "duelsWon": 21,
         "boxTouches": 14,
         "fouls": 4,
         "corners": 2,
@@ -575,17 +590,17 @@
         "saves": 1
       },
       "away": {
-        "possession": 34,
+        "possession": 31,
         "xg": 0.41,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 106,
+        "accuratePasses": 109,
         "duelsWon": 21,
         "boxTouches": 11,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 4,
         "offsides": 2,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -605,17 +620,29 @@
           "type": "yellow-card",
           "teamId": "58",
           "playerName": "Emiliano Buendía"
+        },
+        {
+          "minute": "44'",
+          "type": "yellow-card",
+          "teamId": "58",
+          "playerName": "Nicolas Jackson"
+        },
+        {
+          "minute": "44'",
+          "type": "yellow-card",
+          "teamId": "81",
+          "playerName": "Raphinha"
         }
       ]
     },
     "575381": {
       "home": {
-        "possession": 36,
+        "possession": 33,
         "xg": 0.33,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 148,
-        "duelsWon": 16,
+        "accuratePasses": 154,
+        "duelsWon": 18,
         "boxTouches": 8,
         "fouls": 7,
         "corners": 3,
@@ -623,45 +650,45 @@
         "saves": 0
       },
       "away": {
-        "possession": 64,
-        "xg": 0.72,
-        "shots": 6,
+        "possession": 67,
+        "xg": 0.78,
+        "shots": 7,
         "shotsOnTarget": 0,
-        "accuratePasses": 311,
-        "duelsWon": 26,
-        "boxTouches": 22,
+        "accuratePasses": 370,
+        "duelsWon": 31,
+        "boxTouches": 26,
         "fouls": 1,
-        "corners": 0,
+        "corners": 1,
         "offsides": 1,
         "saves": 0
       }
     },
     "575382": {
       "home": {
-        "possession": 27,
-        "xg": 0.11,
-        "shots": 3,
-        "shotsOnTarget": 0,
-        "accuratePasses": 76,
-        "duelsWon": 15,
-        "boxTouches": 5,
-        "fouls": 6,
+        "possession": 25,
+        "xg": 0.17,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 92,
+        "duelsWon": 18,
+        "boxTouches": 6,
+        "fouls": 9,
         "corners": 3,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 73,
-        "xg": 1.55,
-        "shots": 12,
-        "shotsOnTarget": 6,
-        "accuratePasses": 260,
-        "duelsWon": 18,
-        "boxTouches": 24,
-        "fouls": 2,
+        "possession": 75,
+        "xg": 1.62,
+        "shots": 14,
+        "shotsOnTarget": 7,
+        "accuratePasses": 348,
+        "duelsWon": 25,
+        "boxTouches": 26,
+        "fouls": 3,
         "corners": 4,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -691,35 +718,41 @@
           "teamId": "524",
           "playerName": "Fabián Ruiz",
           "assist": "Maghnes Akliouche"
+        },
+        {
+          "minute": "45'",
+          "type": "yellow-card",
+          "teamId": "94",
+          "playerName": "Santi Comesaña"
         }
       ]
     },
     "575383": {
       "home": {
-        "possession": 52,
-        "xg": 0.09,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 202,
-        "duelsWon": 23,
-        "boxTouches": 7,
+        "possession": 53,
+        "xg": 0.24,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 234,
+        "duelsWon": 28,
+        "boxTouches": 11,
         "fouls": 3,
         "corners": 0,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 48,
-        "xg": 1.42,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 188,
-        "duelsWon": 14,
-        "boxTouches": 7,
-        "fouls": 6,
+        "possession": 47,
+        "xg": 1.43,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 201,
+        "duelsWon": 18,
+        "boxTouches": 8,
+        "fouls": 9,
         "corners": 1,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -753,29 +786,35 @@
           "type": "yellow-card",
           "teamId": "100",
           "playerName": "Emanuele Lulli"
+        },
+        {
+          "minute": "42'",
+          "type": "yellow-card",
+          "teamId": "100",
+          "playerName": "Donyell Malen"
         }
       ]
     },
     "575384": {
       "home": {
-        "possession": 43,
+        "possession": 42,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 220,
+        "accuratePasses": 234,
         "duelsWon": 15,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 57,
+        "possession": 58,
         "xg": 0.21,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 298,
-        "duelsWon": 20,
+        "accuratePasses": 332,
+        "duelsWon": 22,
         "boxTouches": 7,
         "fouls": 4,
         "corners": 1,
