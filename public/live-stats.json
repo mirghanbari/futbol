@@ -429,12 +429,12 @@
     },
     "561923": {
       "home": {
-        "possession": 54,
+        "possession": 53,
         "xg": 2.09,
         "shots": 17,
         "shotsOnTarget": 5,
-        "accuratePasses": 519,
-        "duelsWon": 43,
+        "accuratePasses": 522,
+        "duelsWon": 45,
         "boxTouches": 27,
         "fouls": 13,
         "corners": 3,
@@ -442,15 +442,15 @@
         "saves": 3
       },
       "away": {
-        "possession": 46,
-        "xg": 1.33,
-        "shots": 9,
+        "possession": 47,
+        "xg": 1.39,
+        "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 424,
-        "duelsWon": 41,
-        "boxTouches": 23,
-        "fouls": 9,
-        "corners": 4,
+        "accuratePasses": 439,
+        "duelsWon": 42,
+        "boxTouches": 25,
+        "fouls": 10,
+        "corners": 5,
         "offsides": 1,
         "saves": 4
       },
@@ -492,7 +492,8 @@
           "teamId": "340",
           "playerName": "Flynn Downes"
         }
-      ]
+      ],
+      "final": true
     },
     "561924": {
       "home": {
@@ -714,11 +715,11 @@
     "575379": {
       "home": {
         "possession": 53,
-        "xg": 0.7,
+        "xg": 0.71,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 515,
-        "duelsWon": 42,
+        "accuratePasses": 531,
+        "duelsWon": 43,
         "boxTouches": 23,
         "fouls": 7,
         "corners": 5,
@@ -730,8 +731,8 @@
         "xg": 0.92,
         "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 439,
-        "duelsWon": 37,
+        "accuratePasses": 457,
+        "duelsWon": 38,
         "boxTouches": 29,
         "fouls": 13,
         "corners": 4,
@@ -763,14 +764,14 @@
         {
           "minute": "39'",
           "type": "yellow-card",
-          "teamId": "675",
-          "playerName": "Gjivai Zechiël"
+          "teamId": "108",
+          "playerName": "Manuel Akanji"
         },
         {
           "minute": "39'",
           "type": "yellow-card",
-          "teamId": "108",
-          "playerName": "Manuel Akanji"
+          "teamId": "675",
+          "playerName": "Gjivai Zechiël"
         },
         {
           "minute": "54'",
@@ -779,16 +780,17 @@
           "playerName": "Piotr Zieliński",
           "assist": "Nicolò Barella"
         }
-      ]
+      ],
+      "final": true
     },
     "575380": {
       "home": {
         "possession": 65,
-        "xg": 1.92,
+        "xg": 1.96,
         "shots": 16,
         "shotsOnTarget": 8,
         "accuratePasses": 552,
-        "duelsWon": 45,
+        "duelsWon": 46,
         "boxTouches": 36,
         "fouls": 14,
         "corners": 4,
@@ -830,14 +832,14 @@
         {
           "minute": "44'",
           "type": "yellow-card",
-          "teamId": "58",
-          "playerName": "Nicolas Jackson"
+          "teamId": "81",
+          "playerName": "Raphinha"
         },
         {
           "minute": "44'",
           "type": "yellow-card",
-          "teamId": "81",
-          "playerName": "Raphinha"
+          "teamId": "58",
+          "playerName": "Nicolas Jackson"
         },
         {
           "minute": "53'",
@@ -853,7 +855,8 @@
           "playerName": "Raphinha",
           "assist": "João Cancelo"
         }
-      ]
+      ],
+      "final": true
     },
     "575381": {
       "home": {
@@ -1022,25 +1025,25 @@
     },
     "575383": {
       "home": {
-        "possession": 53,
+        "possession": 52,
         "xg": 2.72,
         "shots": 15,
         "shotsOnTarget": 6,
         "accuratePasses": 416,
-        "duelsWon": 64,
+        "duelsWon": 65,
         "boxTouches": 30,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 3,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 47,
+        "possession": 48,
         "xg": 1.53,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 359,
-        "duelsWon": 45,
+        "accuratePasses": 372,
+        "duelsWon": 46,
         "boxTouches": 8,
         "fouls": 14,
         "corners": 1,
@@ -1065,14 +1068,14 @@
         {
           "minute": "20'",
           "type": "yellow-card",
-          "teamId": "66",
-          "playerName": "Bruno Fernandes"
+          "teamId": "100",
+          "playerName": "Matias Soulé"
         },
         {
           "minute": "20'",
           "type": "yellow-card",
-          "teamId": "100",
-          "playerName": "Matias Soulé"
+          "teamId": "66",
+          "playerName": "Bruno Fernandes"
         },
         {
           "minute": "35'",
@@ -1131,7 +1134,8 @@
           "teamId": "66",
           "playerName": "Matheus Cunha"
         }
-      ]
+      ],
+      "final": true
     },
     "575384": {
       "home": {
