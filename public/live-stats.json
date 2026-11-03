@@ -2,27 +2,27 @@
   "CL": {
     "575378": {
       "home": {
-        "possession": 60,
-        "xg": 0.82,
+        "possession": 57,
+        "xg": 0.94,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 197,
-        "duelsWon": 33,
+        "accuratePasses": 201,
+        "duelsWon": 39,
         "boxTouches": 19,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 5,
         "offsides": 1,
-        "saves": 0
+        "saves": 2
       },
       "away": {
-        "possession": 40,
-        "xg": 0.73,
-        "shots": 6,
-        "shotsOnTarget": 0,
-        "accuratePasses": 121,
-        "duelsWon": 26,
-        "boxTouches": 12,
-        "fouls": 10,
+        "possession": 43,
+        "xg": 0.79,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 148,
+        "duelsWon": 28,
+        "boxTouches": 15,
+        "fouls": 13,
         "corners": 2,
         "offsides": 1,
         "saves": 2
@@ -64,6 +64,18 @@
           "type": "yellow-card",
           "teamId": "10",
           "playerName": "Yanik Spalt"
+        },
+        {
+          "minute": "61'",
+          "type": "yellow-card",
+          "teamId": "10",
+          "playerName": "Grischa Prömel"
+        },
+        {
+          "minute": "62'",
+          "type": "yellow-card",
+          "teamId": "610",
+          "playerName": "Roland Sallai"
         }
       ]
     }
