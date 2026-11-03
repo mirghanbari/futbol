@@ -2329,14 +2329,14 @@
     "matchday": 4,
     "stage": "league-phase",
     "utcDate": "2026-11-03T17:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "1887",
     "awayTeamId": "498",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     }
   },
   {
@@ -2346,11 +2346,11 @@
     "matchday": 4,
     "stage": "league-phase",
     "utcDate": "2026-11-03T17:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "610",
     "awayTeamId": "10",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -2501,6 +2501,10 @@
     },
     "venue": "Aspmyra Stadion, Bodø/Glimt",
     "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
       {
         "name": "Paramount+",
         "kind": "streaming"
@@ -2672,6 +2676,10 @@
     },
     "venue": "Estádio do Dragão, Porto",
     "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
       {
         "name": "Paramount+",
         "kind": "streaming"
