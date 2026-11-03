@@ -6,23 +6,23 @@
         "xg": 1.01,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 279,
-        "duelsWon": 49,
+        "accuratePasses": 285,
+        "duelsWon": 50,
         "boxTouches": 24,
         "fouls": 13,
         "corners": 6,
         "offsides": 2,
-        "saves": 4
+        "saves": 5
       },
       "away": {
         "possession": 48,
-        "xg": 1.91,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 255,
-        "duelsWon": 40,
-        "boxTouches": 23,
-        "fouls": 15,
+        "xg": 1.77,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 265,
+        "duelsWon": 41,
+        "boxTouches": 24,
+        "fouls": 16,
         "corners": 4,
         "offsides": 3,
         "saves": 2
@@ -50,14 +50,14 @@
         {
           "minute": "38'",
           "type": "yellow-card",
-          "teamId": "610",
-          "playerName": "Barış Alper Yılmaz"
+          "teamId": "10",
+          "playerName": "Deniz Undav"
         },
         {
           "minute": "38'",
           "type": "yellow-card",
-          "teamId": "10",
-          "playerName": "Deniz Undav"
+          "teamId": "610",
+          "playerName": "Barış Alper Yılmaz"
         },
         {
           "minute": "45'+2'",
@@ -89,7 +89,8 @@
           "teamId": "610",
           "playerName": "Lucas Torreira"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
