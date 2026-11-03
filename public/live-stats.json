@@ -2,29 +2,29 @@
   "CL": {
     "575378": {
       "home": {
-        "possession": 60,
-        "xg": 0.68,
-        "shots": 5,
+        "possession": 58,
+        "xg": 0.76,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 129,
-        "duelsWon": 21,
-        "boxTouches": 9,
-        "fouls": 2,
-        "corners": 2,
+        "accuratePasses": 138,
+        "duelsWon": 26,
+        "boxTouches": 11,
+        "fouls": 4,
+        "corners": 4,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 40,
-        "xg": 0.61,
+        "possession": 42,
+        "xg": 0.7,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 80,
-        "duelsWon": 14,
+        "accuratePasses": 93,
+        "duelsWon": 20,
         "boxTouches": 10,
-        "fouls": 6,
-        "corners": 1,
-        "offsides": 0,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 1,
         "saves": 1
       },
       "events": [
@@ -58,6 +58,12 @@
           "type": "yellow-card",
           "teamId": "10",
           "playerName": "Deniz Undav"
+        },
+        {
+          "minute": "45'+3'",
+          "type": "yellow-card",
+          "teamId": "10",
+          "playerName": "Yanik Spalt"
         }
       ]
     }
