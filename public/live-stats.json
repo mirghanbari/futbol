@@ -3,28 +3,28 @@
     "575378": {
       "home": {
         "possession": 54,
-        "xg": 0.94,
-        "shots": 11,
+        "xg": 0.97,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 206,
+        "accuratePasses": 227,
         "duelsWon": 42,
-        "boxTouches": 19,
-        "fouls": 9,
-        "corners": 5,
-        "offsides": 1,
+        "boxTouches": 20,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 2,
         "saves": 3
       },
       "away": {
         "possession": 46,
         "xg": 0.91,
-        "shots": 9,
-        "shotsOnTarget": 3,
-        "accuratePasses": 172,
-        "duelsWon": 28,
-        "boxTouches": 17,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 193,
+        "duelsWon": 31,
+        "boxTouches": 18,
         "fouls": 13,
         "corners": 4,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 2
       },
       "events": [
@@ -76,6 +76,12 @@
           "type": "yellow-card",
           "teamId": "610",
           "playerName": "Roland Sallai"
+        },
+        {
+          "minute": "76'",
+          "type": "goal",
+          "teamId": "10",
+          "playerName": "<TBD>"
         }
       ]
     }
