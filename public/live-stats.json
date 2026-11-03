@@ -2,22 +2,26 @@
   "CL": {
     "575378": {
       "home": {
-        "possession": 72,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 26,
-        "duelsWon": 6,
-        "fouls": 0,
+        "possession": 63,
+        "xg": 0.26,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 44,
+        "duelsWon": 8,
+        "boxTouches": 3,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 28,
-        "shots": 0,
+        "possession": 37,
+        "xg": 0.44,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 10,
-        "duelsWon": 1,
+        "accuratePasses": 26,
+        "duelsWon": 2,
+        "boxTouches": 3,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
@@ -29,6 +33,12 @@
           "type": "yellow-card",
           "teamId": "10",
           "playerName": "Atakan Karazor"
+        },
+        {
+          "minute": "12'",
+          "type": "goal",
+          "teamId": "610",
+          "playerName": "Aleksey Batrakov"
         }
       ]
     }
