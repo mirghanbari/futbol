@@ -1,1 +1,55 @@
-{}
+{
+  "ELC": {
+    "561925": {
+      "home": {
+        "possession": 44,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 16,
+        "duelsWon": 3,
+        "fouls": 0,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 56,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 24,
+        "duelsWon": 3,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "561927": {
+      "home": {
+        "possession": 14,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 8,
+        "duelsWon": 4,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 86,
+        "xg": 0.06,
+        "shots": 2,
+        "shotsOnTarget": 0,
+        "accuratePasses": 61,
+        "duelsWon": 2,
+        "boxTouches": 3,
+        "fouls": 2,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      }
+    }
+  }
+}
