@@ -93,11 +93,11 @@
     },
     "561926": {
       "home": {
-        "possession": 36,
-        "xg": 0.67,
+        "possession": 37,
+        "xg": 0.69,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 216,
+        "accuratePasses": 236,
         "duelsWon": 46,
         "boxTouches": 7,
         "fouls": 8,
@@ -106,13 +106,13 @@
         "saves": 5
       },
       "away": {
-        "possession": 64,
-        "xg": 1.37,
-        "shots": 15,
-        "shotsOnTarget": 6,
-        "accuratePasses": 454,
-        "duelsWon": 36,
-        "boxTouches": 32,
+        "possession": 63,
+        "xg": 2.16,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 467,
+        "duelsWon": 41,
+        "boxTouches": 35,
         "fouls": 8,
         "corners": 5,
         "offsides": 0,
@@ -153,7 +153,8 @@
           "minute": "89'",
           "type": "goal",
           "teamId": "76",
-          "playerName": "Sean Neave"
+          "playerName": "Sean Neave",
+          "assist": "Ladislav Krejcí"
         }
       ]
     },
@@ -212,27 +213,27 @@
   "CL": {
     "575388": {
       "home": {
-        "possession": 34,
+        "possession": 35,
         "xg": 0.8,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 274,
-        "duelsWon": 30,
-        "boxTouches": 16,
+        "accuratePasses": 304,
+        "duelsWon": 33,
+        "boxTouches": 18,
         "fouls": 20,
         "corners": 5,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 3
       },
       "away": {
-        "possession": 66,
-        "xg": 2.21,
-        "shots": 10,
+        "possession": 65,
+        "xg": 2.29,
+        "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 595,
-        "duelsWon": 53,
-        "boxTouches": 21,
-        "fouls": 4,
+        "accuratePasses": 609,
+        "duelsWon": 56,
+        "boxTouches": 27,
+        "fouls": 6,
         "corners": 3,
         "offsides": 5,
         "saves": 4
@@ -303,19 +304,25 @@
           "type": "yellow-card",
           "teamId": "65",
           "playerName": "Jérémy Doku"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "65",
+          "playerName": "Abdukodir Khusanov"
         }
       ]
     },
     "575389": {
       "home": {
         "possession": 44,
-        "xg": 1.19,
-        "shots": 15,
-        "shotsOnTarget": 5,
-        "accuratePasses": 290,
-        "duelsWon": 38,
-        "boxTouches": 18,
-        "fouls": 13,
+        "xg": 2.19,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 299,
+        "duelsWon": 45,
+        "boxTouches": 22,
+        "fouls": 15,
         "corners": 4,
         "offsides": 3,
         "saves": 3
@@ -325,13 +332,13 @@
         "xg": 1.49,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 390,
-        "duelsWon": 58,
+        "accuratePasses": 402,
+        "duelsWon": 64,
         "boxTouches": 29,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 2,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -378,14 +385,14 @@
     "575390": {
       "home": {
         "possession": 62,
-        "xg": 2.64,
-        "shots": 23,
-        "shotsOnTarget": 8,
-        "accuratePasses": 497,
-        "duelsWon": 46,
-        "boxTouches": 44,
+        "xg": 2.91,
+        "shots": 27,
+        "shotsOnTarget": 9,
+        "accuratePasses": 516,
+        "duelsWon": 49,
+        "boxTouches": 49,
         "fouls": 8,
-        "corners": 7,
+        "corners": 8,
         "offsides": 0,
         "saves": 1
       },
@@ -394,13 +401,13 @@
         "xg": 1.73,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 271,
-        "duelsWon": 34,
+        "accuratePasses": 275,
+        "duelsWon": 36,
         "boxTouches": 27,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 5,
         "offsides": 1,
-        "saves": 6
+        "saves": 7
       },
       "events": [
         {
@@ -446,27 +453,27 @@
     },
     "575391": {
       "home": {
-        "possession": 54,
-        "xg": 2.41,
-        "shots": 14,
+        "possession": 53,
+        "xg": 2.43,
+        "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 364,
-        "duelsWon": 53,
+        "accuratePasses": 370,
+        "duelsWon": 56,
         "boxTouches": 28,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 2,
         "offsides": 4,
         "saves": 3
       },
       "away": {
-        "possession": 46,
-        "xg": 0.81,
-        "shots": 10,
+        "possession": 47,
+        "xg": 0.82,
+        "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 308,
-        "duelsWon": 37,
+        "accuratePasses": 336,
+        "duelsWon": 40,
         "boxTouches": 21,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 4,
         "offsides": 2,
         "saves": 4
@@ -527,30 +534,36 @@
           "type": "yellow-card",
           "teamId": "4",
           "playerName": "Jobe Bellingham"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "90",
+          "playerName": "Ángel Ortiz"
         }
       ]
     },
     "575392": {
       "home": {
-        "possession": 53,
-        "xg": 1.93,
-        "shots": 18,
-        "shotsOnTarget": 7,
-        "accuratePasses": 444,
-        "duelsWon": 43,
-        "boxTouches": 27,
+        "possession": 52,
+        "xg": 2.71,
+        "shots": 19,
+        "shotsOnTarget": 8,
+        "accuratePasses": 446,
+        "duelsWon": 44,
+        "boxTouches": 28,
         "fouls": 8,
         "corners": 5,
-        "offsides": 3,
-        "saves": 4
+        "offsides": 4,
+        "saves": 5
       },
       "away": {
-        "possession": 47,
-        "xg": 1.2,
-        "shots": 9,
-        "shotsOnTarget": 5,
-        "accuratePasses": 380,
-        "duelsWon": 35,
+        "possession": 48,
+        "xg": 1.29,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 400,
+        "duelsWon": 36,
         "boxTouches": 18,
         "fouls": 11,
         "corners": 5,
@@ -582,13 +595,13 @@
           "minute": "36'",
           "type": "yellow-card",
           "teamId": "113",
-          "playerName": "Scott McTominay"
+          "playerName": "Amir Rrahmani"
         },
         {
           "minute": "36'",
           "type": "yellow-card",
           "teamId": "113",
-          "playerName": "Amir Rrahmani"
+          "playerName": "Scott McTominay"
         },
         {
           "minute": "43'",
@@ -623,17 +636,25 @@
           "type": "red-card",
           "teamId": "113",
           "playerName": "Rafa Marín"
+        },
+        {
+          "minute": "90'",
+          "type": "goal",
+          "teamId": "503",
+          "playerName": "Samuel Aghehowa",
+          "penalty": true
         }
-      ]
+      ],
+      "final": true
     },
     "575393": {
       "home": {
-        "possession": 45,
+        "possession": 42,
         "xg": 0.77,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 389,
-        "duelsWon": 42,
+        "accuratePasses": 396,
+        "duelsWon": 44,
         "boxTouches": 10,
         "fouls": 12,
         "corners": 5,
@@ -641,13 +662,13 @@
         "saves": 2
       },
       "away": {
-        "possession": 55,
-        "xg": 3.79,
-        "shots": 17,
-        "shotsOnTarget": 11,
-        "accuratePasses": 513,
-        "duelsWon": 44,
-        "boxTouches": 30,
+        "possession": 58,
+        "xg": 3.8,
+        "shots": 18,
+        "shotsOnTarget": 12,
+        "accuratePasses": 591,
+        "duelsWon": 46,
+        "boxTouches": 31,
         "fouls": 11,
         "corners": 5,
         "offsides": 1,
@@ -729,6 +750,12 @@
           "type": "yellow-card",
           "teamId": "546",
           "playerName": "Michaël Cuisance"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "goal",
+          "teamId": "7397",
+          "playerName": "Matteo Papaccioli"
         }
       ]
     }
