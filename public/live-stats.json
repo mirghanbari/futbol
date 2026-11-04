@@ -105,7 +105,7 @@
         "xg": 0.59,
         "shots": 10,
         "shotsOnTarget": 1,
-        "accuratePasses": 173,
+        "accuratePasses": 177,
         "duelsWon": 24,
         "boxTouches": 9,
         "fouls": 5,
@@ -131,28 +131,28 @@
   "CL": {
     "575388": {
       "home": {
-        "possession": 36,
+        "possession": 34,
         "xg": 0.33,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 131,
-        "duelsWon": 11,
+        "accuratePasses": 139,
+        "duelsWon": 13,
         "boxTouches": 7,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 64,
-        "xg": 0.08,
-        "shots": 1,
+        "possession": 66,
+        "xg": 0.15,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 254,
-        "duelsWon": 17,
-        "boxTouches": 2,
+        "accuratePasses": 299,
+        "duelsWon": 21,
+        "boxTouches": 5,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 1
       },
@@ -162,31 +162,44 @@
           "type": "yellow-card",
           "teamId": "721",
           "playerName": "Christoph Baumgartner"
+        },
+        {
+          "minute": "33'",
+          "type": "yellow-card",
+          "teamId": "721",
+          "playerName": "Ridle Baku"
+        },
+        {
+          "minute": "37'",
+          "type": "goal",
+          "teamId": "65",
+          "playerName": "Castello Lukeba",
+          "ownGoal": true
         }
       ]
     },
     "575389": {
       "home": {
-        "possession": 36,
-        "xg": 0,
-        "shots": 0,
+        "possession": 38,
+        "xg": 0.12,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 99,
-        "duelsWon": 13,
-        "boxTouches": 2,
-        "fouls": 5,
+        "accuratePasses": 118,
+        "duelsWon": 15,
+        "boxTouches": 4,
+        "fouls": 6,
         "corners": 0,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 64,
-        "xg": 1.05,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 197,
-        "duelsWon": 21,
-        "boxTouches": 18,
+        "possession": 62,
+        "xg": 1.1,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 216,
+        "duelsWon": 24,
+        "boxTouches": 19,
         "fouls": 3,
         "corners": 1,
         "offsides": 1,
@@ -205,35 +218,42 @@
           "type": "yellow-card",
           "teamId": "930",
           "playerName": "David Moses"
+        },
+        {
+          "minute": "38'",
+          "type": "goal",
+          "teamId": "57",
+          "playerName": "Viktor Gyökeres",
+          "assist": "Mikel Merino"
         }
       ]
     },
     "575390": {
       "home": {
-        "possession": 55,
-        "xg": 0.79,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 168,
-        "duelsWon": 19,
-        "boxTouches": 10,
-        "fouls": 5,
-        "corners": 2,
+        "possession": 57,
+        "xg": 0.95,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 216,
+        "duelsWon": 21,
+        "boxTouches": 11,
+        "fouls": 6,
+        "corners": 3,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 45,
-        "xg": 0.7,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 126,
-        "duelsWon": 18,
-        "boxTouches": 12,
+        "possession": 43,
+        "xg": 1.02,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 151,
+        "duelsWon": 19,
+        "boxTouches": 13,
         "fouls": 2,
         "corners": 3,
         "offsides": 0,
-        "saves": 2
+        "saves": 4
       },
       "events": [
         {
@@ -254,57 +274,65 @@
     },
     "575391": {
       "home": {
-        "possession": 58,
+        "possession": 63,
         "xg": 0.98,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 141,
-        "duelsWon": 18,
-        "boxTouches": 7,
+        "accuratePasses": 188,
+        "duelsWon": 22,
+        "boxTouches": 12,
         "fouls": 2,
         "corners": 1,
         "offsides": 3,
         "saves": 2
       },
       "away": {
-        "possession": 42,
-        "xg": 0.11,
-        "shots": 3,
+        "possession": 37,
+        "xg": 0.12,
+        "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 104,
+        "accuratePasses": 111,
         "duelsWon": 11,
-        "boxTouches": 9,
-        "fouls": 3,
+        "boxTouches": 10,
+        "fouls": 5,
         "corners": 1,
         "offsides": 2,
         "saves": 1
-      }
+      },
+      "events": [
+        {
+          "minute": "39'",
+          "type": "yellow-card",
+          "teamId": "4",
+          "playerName": "Julian Ryerson"
+        }
+      ]
     },
     "575392": {
       "home": {
-        "possession": 55,
-        "xg": 0.11,
-        "shots": 2,
+        "possession": 56,
+        "xg": 0.15,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 174,
-        "duelsWon": 18,
-        "boxTouches": 8,
-        "fouls": 3,
+        "accuratePasses": 196,
+        "duelsWon": 20,
+        "boxTouches": 9,
+        "fouls": 4,
         "corners": 3,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 45,
+        "possession": 44,
         "xg": 0.22,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 133,
-        "duelsWon": 11,
+        "accuratePasses": 145,
+        "duelsWon": 16,
         "boxTouches": 6,
-        "fouls": 6,
+        "fouls": 8,
         "corners": 3,
-        "offsides": 0,
+        "offsides": 2,
         "saves": 0
       },
       "events": [
@@ -327,35 +355,47 @@
           "type": "yellow-card",
           "teamId": "113",
           "playerName": "Frank Anguissa"
+        },
+        {
+          "minute": "36'",
+          "type": "yellow-card",
+          "teamId": "113",
+          "playerName": "Scott McTominay"
+        },
+        {
+          "minute": "36'",
+          "type": "yellow-card",
+          "teamId": "113",
+          "playerName": "Amir Rrahmani"
         }
       ]
     },
     "575393": {
       "home": {
-        "possession": 46,
-        "xg": 0.15,
+        "possession": 42,
+        "xg": 0.28,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 134,
-        "duelsWon": 18,
+        "accuratePasses": 151,
+        "duelsWon": 19,
         "boxTouches": 4,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 54,
-        "xg": 1.58,
-        "shots": 6,
+        "possession": 58,
+        "xg": 1.66,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 159,
-        "duelsWon": 19,
-        "boxTouches": 12,
-        "fouls": 4,
-        "corners": 2,
+        "accuratePasses": 211,
+        "duelsWon": 20,
+        "boxTouches": 14,
+        "fouls": 5,
+        "corners": 3,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -371,6 +411,12 @@
           "teamId": "7397",
           "playerName": "Anastasios Douvikas",
           "assist": "Álex Valle"
+        },
+        {
+          "minute": "34'",
+          "type": "yellow-card",
+          "teamId": "546",
+          "playerName": "Samson Baidoo"
         }
       ]
     }
