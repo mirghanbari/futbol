@@ -4469,7 +4469,7 @@
     "season": "2026",
     "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
+    "utcDate": "2026-12-04T20:15:00Z",
     "status": "scheduled",
     "homeTeamId": "498",
     "awayTeamId": "5575",
@@ -4482,66 +4482,12 @@
     "venue": "Estádio José Alvalade, Lisbon"
   },
   {
-    "id": "567366",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 13,
-    "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "9136",
-    "awayTeamId": "5533",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estádio José Gomes, Amadora"
-  },
-  {
-    "id": "567367",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 13,
-    "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "7822",
-    "awayTeamId": "583",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Complexo Desportivo FC Alverca, Alverca do Ribatejo"
-  },
-  {
-    "id": "567368",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 13,
-    "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "5530",
-    "awayTeamId": "503",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estádio de São Miguel, Ponta Delgada"
-  },
-  {
     "id": "567369",
     "competitionId": "PPL",
     "season": "2026",
     "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
+    "utcDate": "2026-12-05T15:30:00Z",
     "status": "scheduled",
     "homeTeamId": "5529",
     "awayTeamId": "1903",
@@ -4554,40 +4500,22 @@
     "venue": "Estádio da Madeira, Funchal"
   },
   {
-    "id": "567370",
+    "id": "567368",
     "competitionId": "PPL",
     "season": "2026",
     "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
+    "utcDate": "2026-12-05T18:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "582",
-    "awayTeamId": "5543",
+    "homeTeamId": "5530",
+    "awayTeamId": "503",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Estádio António Coimbra da Mota, Estoril"
-  },
-  {
-    "id": "567371",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 13,
-    "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "496",
-    "awayTeamId": "6618",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estádio do Rio Ave, Vila do Conde"
+    "venue": "Estádio de São Miguel, Ponta Delgada"
   },
   {
     "id": "567372",
@@ -4595,7 +4523,7 @@
     "season": "2026",
     "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
+    "utcDate": "2026-12-05T20:30:00Z",
     "status": "scheduled",
     "homeTeamId": "5613",
     "awayTeamId": "712",
@@ -4608,12 +4536,66 @@
     "venue": "Estádio Municipal de Braga, Braga"
   },
   {
+    "id": "567366",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 13,
+    "stage": "regular",
+    "utcDate": "2026-12-06T15:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "9136",
+    "awayTeamId": "5533",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio José Gomes, Amadora"
+  },
+  {
+    "id": "567371",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 13,
+    "stage": "regular",
+    "utcDate": "2026-12-06T15:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "496",
+    "awayTeamId": "6618",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio do Rio Ave, Vila do Conde"
+  },
+  {
+    "id": "567370",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 13,
+    "stage": "regular",
+    "utcDate": "2026-12-06T18:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "582",
+    "awayTeamId": "5543",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio António Coimbra da Mota, Estoril"
+  },
+  {
     "id": "567373",
     "competitionId": "PPL",
     "season": "2026",
     "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
+    "utcDate": "2026-12-06T20:30:00Z",
     "status": "scheduled",
     "homeTeamId": "5531",
     "awayTeamId": "5527",
@@ -4626,22 +4608,22 @@
     "venue": "Estádio Municipal 22 de Junho, Vila Nova de Famalicão"
   },
   {
-    "id": "567374",
+    "id": "567367",
     "competitionId": "PPL",
     "season": "2026",
-    "matchday": 14,
+    "matchday": 13,
     "stage": "regular",
-    "utcDate": "2026-12-13T00:00:00Z",
+    "utcDate": "2026-12-07T20:15:00Z",
     "status": "scheduled",
-    "homeTeamId": "5575",
-    "awayTeamId": "496",
+    "homeTeamId": "7822",
+    "awayTeamId": "583",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Estádio do Marítimo, Funchal"
+    "venue": "Complexo Desportivo FC Alverca, Alverca do Ribatejo"
   },
   {
     "id": "567375",
@@ -4649,7 +4631,7 @@
     "season": "2026",
     "matchday": 14,
     "stage": "regular",
-    "utcDate": "2026-12-13T00:00:00Z",
+    "utcDate": "2026-12-11T20:15:00Z",
     "status": "scheduled",
     "homeTeamId": "5527",
     "awayTeamId": "712",
@@ -4662,12 +4644,48 @@
     "venue": "Estádio do Fontelo, Viseu"
   },
   {
+    "id": "567380",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 14,
+    "stage": "regular",
+    "utcDate": "2026-12-12T15:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "582",
+    "awayTeamId": "5530",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio António Coimbra da Mota, Estoril"
+  },
+  {
+    "id": "567374",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 14,
+    "stage": "regular",
+    "utcDate": "2026-12-12T18:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5575",
+    "awayTeamId": "496",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio do Marítimo, Funchal"
+  },
+  {
     "id": "567376",
     "competitionId": "PPL",
     "season": "2026",
     "matchday": 14,
     "stage": "regular",
-    "utcDate": "2026-12-13T00:00:00Z",
+    "utcDate": "2026-12-12T20:30:00Z",
     "status": "scheduled",
     "homeTeamId": "5533",
     "awayTeamId": "498",
@@ -4685,7 +4703,7 @@
     "season": "2026",
     "matchday": 14,
     "stage": "regular",
-    "utcDate": "2026-12-13T00:00:00Z",
+    "utcDate": "2026-12-13T15:30:00Z",
     "status": "scheduled",
     "homeTeamId": "6618",
     "awayTeamId": "5529",
@@ -4698,30 +4716,12 @@
     "venue": "Estádio Municipal de Rio Maior, Rio Maior"
   },
   {
-    "id": "567378",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 14,
-    "stage": "regular",
-    "utcDate": "2026-12-13T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "5543",
-    "awayTeamId": "7822",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estádio D. Afonso Henriques, Guimarães"
-  },
-  {
     "id": "567379",
     "competitionId": "PPL",
     "season": "2026",
     "matchday": 14,
     "stage": "regular",
-    "utcDate": "2026-12-13T00:00:00Z",
+    "utcDate": "2026-12-13T15:30:00Z",
     "status": "scheduled",
     "homeTeamId": "583",
     "awayTeamId": "5531",
@@ -4734,40 +4734,22 @@
     "venue": "Estádio Comendador Joaquim de Almeida Freitas, Moreira de Conegos"
   },
   {
-    "id": "567380",
+    "id": "567378",
     "competitionId": "PPL",
     "season": "2026",
     "matchday": 14,
     "stage": "regular",
-    "utcDate": "2026-12-13T00:00:00Z",
+    "utcDate": "2026-12-13T18:00:00Z",
     "status": "scheduled",
-    "homeTeamId": "582",
-    "awayTeamId": "5530",
+    "homeTeamId": "5543",
+    "awayTeamId": "7822",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Estádio António Coimbra da Mota, Estoril"
-  },
-  {
-    "id": "567381",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 14,
-    "stage": "regular",
-    "utcDate": "2026-12-13T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1903",
-    "awayTeamId": "5613",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estádio da Luz, Lisbon"
+    "venue": "Estádio D. Afonso Henriques, Guimarães"
   },
   {
     "id": "567382",
@@ -4775,7 +4757,7 @@
     "season": "2026",
     "matchday": 14,
     "stage": "regular",
-    "utcDate": "2026-12-13T00:00:00Z",
+    "utcDate": "2026-12-13T20:30:00Z",
     "status": "scheduled",
     "homeTeamId": "503",
     "awayTeamId": "9136",
@@ -4786,6 +4768,24 @@
       "goals": 0
     },
     "venue": "Estádio do Dragão, Porto"
+  },
+  {
+    "id": "567381",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 14,
+    "stage": "regular",
+    "utcDate": "2026-12-14T20:15:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1903",
+    "awayTeamId": "5613",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio da Luz, Lisbon"
   },
   {
     "id": "567383",

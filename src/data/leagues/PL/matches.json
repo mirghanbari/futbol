@@ -6088,24 +6088,6 @@
     "venue": "Elland Road, Leeds"
   },
   {
-    "id": "560694",
-    "competitionId": "PL",
-    "season": "2026",
-    "matchday": 16,
-    "stage": "regular",
-    "utcDate": "2026-12-19T15:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "351",
-    "awayTeamId": "62",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "The City Ground, Nottingham"
-  },
-  {
     "id": "560696",
     "competitionId": "PL",
     "season": "2026",
@@ -6176,6 +6158,24 @@
       "goals": 0
     },
     "venue": "American Express Stadium, Falmer"
+  },
+  {
+    "id": "560694",
+    "competitionId": "PL",
+    "season": "2026",
+    "matchday": 16,
+    "stage": "regular",
+    "utcDate": "2026-12-20T14:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "351",
+    "awayTeamId": "62",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "The City Ground, Nottingham"
   },
   {
     "id": "560697",
