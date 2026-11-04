@@ -93,12 +93,12 @@
     },
     "561926": {
       "home": {
-        "possession": 37,
+        "possession": 38,
         "xg": 0.69,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 236,
-        "duelsWon": 46,
+        "accuratePasses": 247,
+        "duelsWon": 47,
         "boxTouches": 7,
         "fouls": 8,
         "corners": 2,
@@ -106,14 +106,14 @@
         "saves": 5
       },
       "away": {
-        "possession": 63,
-        "xg": 2.16,
+        "possession": 62,
+        "xg": 2.21,
         "shots": 17,
         "shotsOnTarget": 8,
-        "accuratePasses": 467,
-        "duelsWon": 41,
+        "accuratePasses": 471,
+        "duelsWon": 42,
         "boxTouches": 35,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 5,
         "offsides": 0,
         "saves": 1
@@ -156,7 +156,8 @@
           "playerName": "Sean Neave",
           "assist": "Ladislav Krejcí"
         }
-      ]
+      ],
+      "final": true
     },
     "561927": {
       "home": {
@@ -213,12 +214,12 @@
   "CL": {
     "575388": {
       "home": {
-        "possession": 35,
+        "possession": 36,
         "xg": 0.8,
-        "shots": 13,
+        "shots": 14,
         "shotsOnTarget": 6,
-        "accuratePasses": 304,
-        "duelsWon": 33,
+        "accuratePasses": 306,
+        "duelsWon": 34,
         "boxTouches": 18,
         "fouls": 20,
         "corners": 5,
@@ -226,14 +227,14 @@
         "saves": 3
       },
       "away": {
-        "possession": 65,
-        "xg": 2.29,
+        "possession": 64,
+        "xg": 2.23,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 609,
+        "accuratePasses": 610,
         "duelsWon": 56,
         "boxTouches": 27,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 3,
         "offsides": 5,
         "saves": 4
@@ -260,16 +261,16 @@
         },
         {
           "minute": "49'",
+          "type": "yellow-card",
+          "teamId": "721",
+          "playerName": "Neil El Aynaoui"
+        },
+        {
+          "minute": "49'",
           "type": "goal",
           "teamId": "721",
           "playerName": "Ridle Baku",
           "assist": "Brajan Gruda"
-        },
-        {
-          "minute": "49'",
-          "type": "yellow-card",
-          "teamId": "721",
-          "playerName": "Neil El Aynaoui"
         },
         {
           "minute": "58'",
@@ -306,22 +307,23 @@
           "playerName": "Jérémy Doku"
         },
         {
-          "minute": "90'+5'",
+          "minute": "90'+4'",
           "type": "yellow-card",
           "teamId": "65",
           "playerName": "Abdukodir Khusanov"
         }
-      ]
+      ],
+      "final": true
     },
     "575389": {
       "home": {
         "possession": 44,
-        "xg": 2.19,
+        "xg": 2.22,
         "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 299,
+        "accuratePasses": 300,
         "duelsWon": 45,
-        "boxTouches": 22,
+        "boxTouches": 21,
         "fouls": 15,
         "corners": 4,
         "offsides": 3,
@@ -333,7 +335,7 @@
         "shots": 12,
         "shotsOnTarget": 5,
         "accuratePasses": 402,
-        "duelsWon": 64,
+        "duelsWon": 65,
         "boxTouches": 29,
         "fouls": 10,
         "corners": 2,
@@ -380,12 +382,13 @@
           "playerName": "Wiktor Nowak",
           "assist": "David Jurásek"
         }
-      ]
+      ],
+      "final": true
     },
     "575390": {
       "home": {
         "possession": 62,
-        "xg": 2.91,
+        "xg": 2.88,
         "shots": 27,
         "shotsOnTarget": 9,
         "accuratePasses": 516,
@@ -449,16 +452,17 @@
           "teamId": "851",
           "playerName": "Jorne Spileers"
         }
-      ]
+      ],
+      "final": true
     },
     "575391": {
       "home": {
         "possession": 53,
-        "xg": 2.43,
+        "xg": 2.58,
         "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 370,
-        "duelsWon": 56,
+        "accuratePasses": 371,
+        "duelsWon": 58,
         "boxTouches": 28,
         "fouls": 15,
         "corners": 2,
@@ -470,11 +474,11 @@
         "xg": 0.82,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 336,
-        "duelsWon": 40,
+        "accuratePasses": 339,
+        "duelsWon": 42,
         "boxTouches": 21,
-        "fouls": 11,
-        "corners": 4,
+        "fouls": 13,
+        "corners": 5,
         "offsides": 2,
         "saves": 4
       },
@@ -540,8 +544,15 @@
           "type": "yellow-card",
           "teamId": "90",
           "playerName": "Ángel Ortiz"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "90",
+          "playerName": "Isco"
         }
-      ]
+      ],
+      "final": true
     },
     "575392": {
       "home": {
@@ -649,11 +660,11 @@
     },
     "575393": {
       "home": {
-        "possession": 42,
+        "possession": 43,
         "xg": 0.77,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 396,
+        "accuratePasses": 409,
         "duelsWon": 44,
         "boxTouches": 10,
         "fouls": 12,
@@ -662,8 +673,8 @@
         "saves": 2
       },
       "away": {
-        "possession": 58,
-        "xg": 3.8,
+        "possession": 57,
+        "xg": 4.27,
         "shots": 18,
         "shotsOnTarget": 12,
         "accuratePasses": 591,
@@ -755,9 +766,11 @@
           "minute": "90'+2'",
           "type": "goal",
           "teamId": "7397",
-          "playerName": "Matteo Papaccioli"
+          "playerName": "Matteo Papaccioli",
+          "assist": "Mattia Liberali"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
