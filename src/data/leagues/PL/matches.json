@@ -4899,7 +4899,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Hill Dickinson Stadium, Liverpool"
+    "venue": "Hill Dickinson Stadium, Liverpool",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560632",
@@ -4917,7 +4927,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Elland Road, Leeds"
+    "venue": "Elland Road, Leeds",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560640",
@@ -4935,7 +4955,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Emirates Stadium, London"
+    "venue": "Emirates Stadium, London",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      },
+      {
+        "name": "Universo",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560633",
@@ -4953,7 +4983,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Craven Cottage, London"
+    "venue": "Craven Cottage, London",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560641",
@@ -4971,7 +5011,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "The City Ground, Nottingham"
+    "venue": "The City Ground, Nottingham",
+    "broadcasts": [
+      {
+        "name": "NBC",
+        "kind": "tv"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560635",
@@ -4989,7 +5039,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Selhurst Park, London"
+    "venue": "Selhurst Park, London",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560636",
@@ -5007,7 +5063,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stadium of Light, Sunderland"
+    "venue": "Stadium of Light, Sunderland",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560637",
@@ -5025,7 +5091,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Portman Road, Ipswich"
+    "venue": "Portman Road, Ipswich",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560638",
@@ -5043,7 +5115,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "American Express Stadium, Falmer"
+    "venue": "American Express Stadium, Falmer",
+    "broadcasts": [
+      {
+        "name": "Peacock",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "560639",
@@ -5061,7 +5139,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Old Trafford, Manchester"
+    "venue": "Old Trafford, Manchester",
+    "broadcasts": [
+      {
+        "name": "USA Network",
+        "kind": "tv"
+      },
+      {
+        "name": "Tele",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "560643",

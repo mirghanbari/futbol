@@ -3763,7 +3763,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Volksparkstadion, Hamburg Norderstedt"
+    "venue": "Volksparkstadion, Hamburg Norderstedt",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565848",
@@ -3781,7 +3787,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Red Bull Arena, Leipzig"
+    "venue": "Red Bull Arena, Leipzig",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565850",
@@ -3799,7 +3811,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Signal Iduna Park, Aue"
+    "venue": "Signal Iduna Park, Aue",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565851",
@@ -3817,7 +3835,17 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "MEWA ARENA, Mainz"
+    "venue": "MEWA ARENA, Mainz",
+    "broadcasts": [
+      {
+        "name": "Hulu",
+        "kind": "streaming"
+      },
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565853",
@@ -3835,7 +3863,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Home Deluxe Arena, Paderborn"
+    "venue": "Home Deluxe Arena, Paderborn",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565849",
@@ -3877,7 +3911,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "RheinEnergieStadion, Cologne"
+    "venue": "RheinEnergieStadion, Cologne",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565854",
@@ -3895,7 +3935,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Europa-Park Stadion, Freiburg im Breisgau"
+    "venue": "Europa-Park Stadion, Freiburg im Breisgau",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565856",
@@ -3913,7 +3959,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "PreZero Arena, Sinsheim"
+    "venue": "PreZero Arena, Sinsheim",
+    "broadcasts": [
+      {
+        "name": "Fandango",
+        "kind": "streaming"
+      }
+    ]
   },
   {
     "id": "565859",
