@@ -2,28 +2,28 @@
   "ELC": {
     "561925": {
       "home": {
-        "possession": 49,
+        "possession": 48,
         "xg": 1.15,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 288,
-        "duelsWon": 25,
-        "boxTouches": 12,
+        "accuratePasses": 304,
+        "duelsWon": 28,
+        "boxTouches": 13,
         "fouls": 8,
         "corners": 3,
         "offsides": 1,
         "saves": 5
       },
       "away": {
-        "possession": 51,
-        "xg": 1.71,
-        "shots": 13,
-        "shotsOnTarget": 7,
-        "accuratePasses": 309,
-        "duelsWon": 32,
-        "boxTouches": 15,
-        "fouls": 8,
-        "corners": 3,
+        "possession": 52,
+        "xg": 2.48,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 340,
+        "duelsWon": 37,
+        "boxTouches": 17,
+        "fouls": 9,
+        "corners": 4,
         "offsides": 1,
         "saves": 1
       },
@@ -74,6 +74,19 @@
           "teamId": "563",
           "playerName": "Arne Engels",
           "assist": "Joël Piroe"
+        },
+        {
+          "minute": "82'",
+          "type": "goal",
+          "teamId": "563",
+          "playerName": "Max Kilman",
+          "assist": "Jarrod Bowen"
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
+          "teamId": "563",
+          "playerName": "Joël Veltman"
         }
       ]
     },
@@ -83,22 +96,22 @@
         "xg": 0.6,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 180,
-        "duelsWon": 39,
-        "boxTouches": 3,
-        "fouls": 5,
-        "corners": 1,
+        "accuratePasses": 187,
+        "duelsWon": 41,
+        "boxTouches": 5,
+        "fouls": 7,
+        "corners": 2,
         "offsides": 1,
         "saves": 4
       },
       "away": {
         "possession": 63,
-        "xg": 0.45,
-        "shots": 10,
+        "xg": 0.5,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 352,
-        "duelsWon": 22,
-        "boxTouches": 24,
+        "accuratePasses": 371,
+        "duelsWon": 28,
+        "boxTouches": 25,
         "fouls": 7,
         "corners": 5,
         "offsides": 0,
@@ -127,29 +140,29 @@
     },
     "561927": {
       "home": {
-        "possession": 38,
-        "xg": 1.32,
-        "shots": 14,
-        "shotsOnTarget": 3,
-        "accuratePasses": 287,
-        "duelsWon": 36,
-        "boxTouches": 12,
+        "possession": 39,
+        "xg": 1.42,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 294,
+        "duelsWon": 38,
+        "boxTouches": 15,
         "fouls": 8,
         "corners": 3,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 62,
-        "xg": 0.67,
+        "possession": 61,
+        "xg": 0.74,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 522,
-        "duelsWon": 25,
+        "accuratePasses": 536,
+        "duelsWon": 28,
         "boxTouches": 20,
         "fouls": 6,
         "corners": 2,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 2
       },
       "events": [
@@ -165,6 +178,13 @@
           "teamId": "404",
           "playerName": "George Thomason",
           "assist": "Kieffer Moore"
+        },
+        {
+          "minute": "84'",
+          "type": "goal",
+          "teamId": "404",
+          "playerName": "Oliver Rathbone",
+          "assist": "Lewis O'Brien"
         }
       ]
     }
@@ -172,12 +192,12 @@
   "CL": {
     "575388": {
       "home": {
-        "possession": 35,
+        "possession": 34,
         "xg": 0.72,
         "shots": 11,
         "shotsOnTarget": 6,
-        "accuratePasses": 234,
-        "duelsWon": 24,
+        "accuratePasses": 241,
+        "duelsWon": 25,
         "boxTouches": 15,
         "fouls": 15,
         "corners": 4,
@@ -185,13 +205,13 @@
         "saves": 2
       },
       "away": {
-        "possession": 65,
+        "possession": 66,
         "xg": 1.25,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 475,
-        "duelsWon": 39,
-        "boxTouches": 12,
+        "accuratePasses": 528,
+        "duelsWon": 40,
+        "boxTouches": 15,
         "fouls": 2,
         "corners": 1,
         "offsides": 4,
@@ -253,23 +273,23 @@
         "xg": 0.38,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 228,
-        "duelsWon": 27,
-        "boxTouches": 5,
-        "fouls": 10,
+        "accuratePasses": 252,
+        "duelsWon": 30,
+        "boxTouches": 6,
+        "fouls": 11,
         "corners": 1,
         "offsides": 3,
-        "saves": 2
+        "saves": 3
       },
       "away": {
         "possession": 55,
-        "xg": 1.3,
-        "shots": 8,
-        "shotsOnTarget": 4,
-        "accuratePasses": 287,
-        "duelsWon": 44,
-        "boxTouches": 23,
-        "fouls": 7,
+        "xg": 1.37,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 316,
+        "duelsWon": 49,
+        "boxTouches": 25,
+        "fouls": 8,
         "corners": 2,
         "offsides": 1,
         "saves": 1
@@ -311,12 +331,12 @@
     },
     "575390": {
       "home": {
-        "possession": 57,
-        "xg": 2.11,
+        "possession": 59,
+        "xg": 2.12,
         "shots": 19,
         "shotsOnTarget": 8,
-        "accuratePasses": 342,
-        "duelsWon": 30,
+        "accuratePasses": 383,
+        "duelsWon": 31,
         "boxTouches": 27,
         "fouls": 6,
         "corners": 7,
@@ -324,14 +344,14 @@
         "saves": 1
       },
       "away": {
-        "possession": 43,
-        "xg": 1.23,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 238,
-        "duelsWon": 25,
-        "boxTouches": 23,
-        "fouls": 2,
+        "possession": 41,
+        "xg": 1.69,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 243,
+        "duelsWon": 27,
+        "boxTouches": 24,
+        "fouls": 3,
         "corners": 4,
         "offsides": 0,
         "saves": 6
@@ -361,32 +381,33 @@
           "minute": "66'",
           "type": "goal",
           "teamId": "851",
-          "playerName": "Carlos Forbs"
+          "playerName": "Carlos Forbs",
+          "assist": "Joaquin Seys"
         }
       ]
     },
     "575391": {
       "home": {
         "possession": 57,
-        "xg": 1.64,
-        "shots": 10,
+        "xg": 1.79,
+        "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 303,
+        "accuratePasses": 314,
         "duelsWon": 45,
         "boxTouches": 24,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 2,
         "offsides": 3,
-        "saves": 2
+        "saves": 3
       },
       "away": {
         "possession": 43,
-        "xg": 0.15,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 229,
-        "duelsWon": 28,
-        "boxTouches": 10,
+        "xg": 0.53,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 245,
+        "duelsWon": 31,
+        "boxTouches": 14,
         "fouls": 9,
         "corners": 1,
         "offsides": 2,
@@ -416,18 +437,31 @@
           "type": "goal",
           "teamId": "4",
           "playerName": "Fábio Silva"
+        },
+        {
+          "minute": "64'",
+          "type": "yellow-card",
+          "teamId": "90",
+          "playerName": "Valentín Gómez"
+        },
+        {
+          "minute": "67'",
+          "type": "goal",
+          "teamId": "90",
+          "playerName": "Aitor Ruibal",
+          "assist": "Abdessamad Ezzalzouli"
         }
       ]
     },
     "575392": {
       "home": {
         "possession": 54,
-        "xg": 1.03,
-        "shots": 12,
-        "shotsOnTarget": 3,
-        "accuratePasses": 338,
-        "duelsWon": 33,
-        "boxTouches": 18,
+        "xg": 0.97,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 365,
+        "duelsWon": 35,
+        "boxTouches": 22,
         "fouls": 7,
         "corners": 4,
         "offsides": 3,
@@ -438,13 +472,13 @@
         "xg": 0.83,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 275,
-        "duelsWon": 27,
+        "accuratePasses": 290,
+        "duelsWon": 28,
         "boxTouches": 12,
         "fouls": 9,
         "corners": 3,
         "offsides": 3,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -491,31 +525,38 @@
           "type": "yellow-card",
           "teamId": "503",
           "playerName": "Gabriel Veiga"
+        },
+        {
+          "minute": "71'",
+          "type": "goal",
+          "teamId": "503",
+          "playerName": "Gabriel Veiga",
+          "assist": "Santiago Giménez"
         }
       ]
     },
     "575393": {
       "home": {
-        "possession": 45,
-        "xg": 0.53,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 275,
-        "duelsWon": 32,
-        "boxTouches": 6,
+        "possession": 42,
+        "xg": 0.59,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 277,
+        "duelsWon": 34,
+        "boxTouches": 7,
         "fouls": 9,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 55,
+        "possession": 58,
         "xg": 3.28,
-        "shots": 14,
-        "shotsOnTarget": 10,
-        "accuratePasses": 347,
-        "duelsWon": 35,
-        "boxTouches": 26,
+        "shots": 15,
+        "shotsOnTarget": 11,
+        "accuratePasses": 415,
+        "duelsWon": 36,
+        "boxTouches": 27,
         "fouls": 9,
         "corners": 5,
         "offsides": 1,
@@ -577,6 +618,20 @@
           "teamId": "7397",
           "playerName": "Mattia Liberali",
           "assist": "Jacobo Ramón"
+        },
+        {
+          "minute": "65'",
+          "type": "goal",
+          "teamId": "546",
+          "playerName": "Ruben Aguilar",
+          "assist": "Florian Thauvin"
+        },
+        {
+          "minute": "69'",
+          "type": "goal",
+          "teamId": "7397",
+          "playerName": "Martin Baturina",
+          "assist": "Mattia Liberali"
         }
       ]
     }
