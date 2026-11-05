@@ -2731,14 +2731,14 @@
     "matchday": 4,
     "stage": "league-phase",
     "utcDate": "2026-11-04T17:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1899",
     "awayTeamId": "86",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
     }
   },
   {
@@ -2748,14 +2748,14 @@
     "matchday": 4,
     "stage": "league-phase",
     "utcDate": "2026-11-04T17:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "613",
     "awayTeamId": "64",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     }
   },
   {
@@ -2765,14 +2765,42 @@
     "matchday": 4,
     "stage": "league-phase",
     "utcDate": "2026-11-04T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "721",
     "awayTeamId": "65",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 35,
+        "xg": 0.87,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 305,
+        "duelsWon": 33,
+        "boxTouches": 18,
+        "fouls": 20,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 65,
+        "xg": 2.23,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 611,
+        "duelsWon": 55,
+        "boxTouches": 27,
+        "fouls": 7,
+        "corners": 3,
+        "offsides": 5,
+        "saves": 4
+      }
     },
     "venue": "Red Bull Arena, Leipzig",
     "broadcasts": [
@@ -2789,14 +2817,42 @@
     "matchday": 4,
     "stage": "league-phase",
     "utcDate": "2026-11-04T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "930",
     "awayTeamId": "57",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 2.11,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 300,
+        "duelsWon": 46,
+        "boxTouches": 21,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 56,
+        "xg": 1.49,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 398,
+        "duelsWon": 66,
+        "boxTouches": 29,
+        "fouls": 10,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Fortuna Arena, Prague",
     "broadcasts": [
@@ -2813,14 +2869,42 @@
     "matchday": 4,
     "stage": "league-phase",
     "utcDate": "2026-11-04T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "674",
     "awayTeamId": "851",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 2.88,
+        "shots": 27,
+        "shotsOnTarget": 9,
+        "accuratePasses": 516,
+        "duelsWon": 49,
+        "boxTouches": 49,
+        "fouls": 8,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 38,
+        "xg": 1.73,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 275,
+        "duelsWon": 36,
+        "boxTouches": 27,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 7
+      }
     },
     "venue": "Philips Stadion, Eindhoven",
     "broadcasts": [
@@ -2837,14 +2921,42 @@
     "matchday": 4,
     "stage": "league-phase",
     "utcDate": "2026-11-04T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "4",
     "awayTeamId": "90",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 2.58,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 371,
+        "duelsWon": 58,
+        "boxTouches": 28,
+        "fouls": 15,
+        "corners": 2,
+        "offsides": 4,
+        "saves": 3
+      },
+      "away": {
+        "possession": 47,
+        "xg": 0.82,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 339,
+        "duelsWon": 42,
+        "boxTouches": 21,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Signal Iduna Park, Aue",
     "broadcasts": [
@@ -2861,14 +2973,42 @@
     "matchday": 4,
     "stage": "league-phase",
     "utcDate": "2026-11-04T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "503",
     "awayTeamId": "113",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 3.13,
+        "shots": 19,
+        "shotsOnTarget": 8,
+        "accuratePasses": 443,
+        "duelsWon": 46,
+        "boxTouches": 29,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 5
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.42,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 401,
+        "duelsWon": 37,
+        "boxTouches": 18,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "Estádio do Dragão, Porto",
     "broadcasts": [
@@ -2889,14 +3029,42 @@
     "matchday": 4,
     "stage": "league-phase",
     "utcDate": "2026-11-04T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "546",
     "awayTeamId": "7397",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 9
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 0.77,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 410,
+        "duelsWon": 44,
+        "boxTouches": 10,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 57,
+        "xg": 4.27,
+        "shots": 18,
+        "shotsOnTarget": 12,
+        "accuratePasses": 591,
+        "duelsWon": 47,
+        "boxTouches": 31,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Stade Bollaert-Delelis, Lens",
     "broadcasts": [
@@ -2913,14 +3081,14 @@
     "matchday": 4,
     "stage": "league-phase",
     "utcDate": "2026-11-04T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5720",
     "awayTeamId": "10233",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Viking Stadion, Stavanger",
     "broadcasts": [

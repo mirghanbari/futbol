@@ -8270,14 +8270,42 @@
     "matchday": 14,
     "stage": "regular",
     "utcDate": "2026-11-04T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "715",
     "awayTeamId": "563",
     "homeTeam": {
       "goals": 3
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 1.15,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 313,
+        "duelsWon": 34,
+        "boxTouches": 14,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 7
+      },
+      "away": {
+        "possession": 56,
+        "xg": 2.62,
+        "shots": 18,
+        "shotsOnTarget": 10,
+        "accuratePasses": 408,
+        "duelsWon": 42,
+        "boxTouches": 21,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Cardiff City Stadium, Cardiff",
     "broadcasts": [
@@ -8294,14 +8322,42 @@
     "matchday": 14,
     "stage": "regular",
     "utcDate": "2026-11-04T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "404",
     "awayTeamId": "343",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 1.42,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 306,
+        "duelsWon": 43,
+        "boxTouches": 16,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 62,
+        "xg": 0.91,
+        "shots": 12,
+        "shotsOnTarget": 2,
+        "accuratePasses": 579,
+        "duelsWon": 36,
+        "boxTouches": 26,
+        "fouls": 6,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 2
+      }
     },
     "venue": "STōK Cae Ras, Wrexham",
     "broadcasts": [
@@ -8318,14 +8374,42 @@
     "matchday": 14,
     "stage": "regular",
     "utcDate": "2026-11-04T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "387",
     "awayTeamId": "76",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 0.69,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 246,
+        "duelsWon": 47,
+        "boxTouches": 7,
+        "fouls": 8,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 62,
+        "xg": 2.21,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 471,
+        "duelsWon": 42,
+        "boxTouches": 35,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Ashton Gate, Bristol",
     "broadcasts": [
