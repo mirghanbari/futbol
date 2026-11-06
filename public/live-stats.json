@@ -3,12 +3,12 @@
     "560634": {
       "home": {
         "possession": 50,
-        "xg": 2.21,
+        "xg": 2.25,
         "shots": 16,
         "shotsOnTarget": 7,
         "accuratePasses": 343,
-        "duelsWon": 67,
-        "boxTouches": 29,
+        "duelsWon": 69,
+        "boxTouches": 30,
         "fouls": 9,
         "corners": 2,
         "offsides": 1,
@@ -20,7 +20,7 @@
         "shots": 15,
         "shotsOnTarget": 4,
         "accuratePasses": 353,
-        "duelsWon": 55,
+        "duelsWon": 54,
         "boxTouches": 29,
         "fouls": 6,
         "corners": 2,
@@ -67,7 +67,8 @@
           "teamId": "1076",
           "playerName": "Caleb Yirenkyi"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "ELC": {
@@ -146,12 +147,12 @@
     "564740": {
       "home": {
         "possession": 60,
-        "xg": 1.54,
-        "shots": 12,
+        "xg": 1.58,
+        "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 286,
-        "duelsWon": 61,
-        "boxTouches": 33,
+        "accuratePasses": 293,
+        "duelsWon": 65,
+        "boxTouches": 34,
         "fouls": 14,
         "corners": 5,
         "offsides": 3,
@@ -162,10 +163,10 @@
         "xg": 0.54,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 152,
-        "duelsWon": 61,
+        "accuratePasses": 157,
+        "duelsWon": 62,
         "boxTouches": 15,
-        "fouls": 18,
+        "fouls": 19,
         "corners": 4,
         "offsides": 2,
         "saves": 2
@@ -195,7 +196,8 @@
           "teamId": "263",
           "playerName": "Nicolás Valentini"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
@@ -502,12 +504,12 @@
         "xg": 0.52,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 287,
-        "duelsWon": 26,
+        "accuratePasses": 302,
+        "duelsWon": 31,
         "boxTouches": 7,
-        "fouls": 2,
-        "corners": 4,
-        "offsides": 1,
+        "fouls": 3,
+        "corners": 5,
+        "offsides": 2,
         "saves": 1
       },
       "away": {
@@ -515,10 +517,10 @@
         "xg": 0.08,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 277,
-        "duelsWon": 18,
+        "accuratePasses": 302,
+        "duelsWon": 22,
         "boxTouches": 5,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 0,
         "offsides": 0,
         "saves": 2
@@ -529,6 +531,12 @@
           "type": "yellow-card",
           "teamId": "712",
           "playerName": "Javi Sánchez"
+        },
+        {
+          "minute": "55'",
+          "type": "yellow-card",
+          "teamId": "5531",
+          "playerName": "Pedro Santos"
         }
       ]
     }
