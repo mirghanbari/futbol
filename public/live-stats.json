@@ -2,30 +2,30 @@
   "PL": {
     "560634": {
       "home": {
-        "possession": 49,
-        "xg": 1.26,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 282,
-        "duelsWon": 61,
-        "boxTouches": 25,
-        "fouls": 7,
+        "possession": 50,
+        "xg": 1.55,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 303,
+        "duelsWon": 62,
+        "boxTouches": 28,
+        "fouls": 8,
         "corners": 2,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 51,
+        "possession": 50,
         "xg": 1.19,
         "shots": 14,
         "shotsOnTarget": 4,
-        "accuratePasses": 306,
-        "duelsWon": 49,
+        "accuratePasses": 311,
+        "duelsWon": 51,
         "boxTouches": 27,
         "fouls": 6,
         "corners": 2,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -47,6 +47,13 @@
           "type": "goal",
           "teamId": "62",
           "playerName": "Thierno Barry"
+        },
+        {
+          "minute": "81'",
+          "type": "goal",
+          "teamId": "62",
+          "playerName": "Kiernan Dewsbury-Hall",
+          "assist": "Thierno Barry"
         }
       ]
     }
@@ -54,12 +61,12 @@
   "ELC": {
     "561932": {
       "home": {
-        "possession": 30,
-        "xg": 1.14,
+        "possession": 29,
+        "xg": 1.15,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 143,
-        "duelsWon": 38,
+        "accuratePasses": 148,
+        "duelsWon": 40,
         "boxTouches": 13,
         "fouls": 11,
         "corners": 3,
@@ -67,13 +74,13 @@
         "saves": 5
       },
       "away": {
-        "possession": 70,
-        "xg": 1.33,
-        "shots": 15,
+        "possession": 71,
+        "xg": 1.51,
+        "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 416,
-        "duelsWon": 41,
-        "boxTouches": 20,
+        "accuratePasses": 456,
+        "duelsWon": 42,
+        "boxTouches": 23,
         "fouls": 8,
         "corners": 6,
         "offsides": 1,
@@ -117,10 +124,10 @@
         "xg": 1.54,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 238,
-        "duelsWon": 55,
+        "accuratePasses": 257,
+        "duelsWon": 58,
         "boxTouches": 29,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 5,
         "offsides": 3,
         "saves": 2
@@ -130,10 +137,10 @@
         "xg": 0.54,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 131,
-        "duelsWon": 51,
+        "accuratePasses": 141,
+        "duelsWon": 55,
         "boxTouches": 12,
-        "fouls": 15,
+        "fouls": 17,
         "corners": 3,
         "offsides": 2,
         "saves": 2
@@ -257,7 +264,7 @@
         "shots": 15,
         "shotsOnTarget": 4,
         "accuratePasses": 345,
-        "duelsWon": 37,
+        "duelsWon": 38,
         "boxTouches": 22,
         "fouls": 11,
         "corners": 3,
@@ -269,8 +276,8 @@
         "xg": 0.92,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 394,
-        "duelsWon": 32,
+        "accuratePasses": 395,
+        "duelsWon": 33,
         "boxTouches": 20,
         "fouls": 6,
         "corners": 7,
@@ -311,7 +318,8 @@
           "teamId": "115",
           "playerName": "Matteo Palma"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "FL1": {
