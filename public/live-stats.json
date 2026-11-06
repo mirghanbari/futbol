@@ -3,13 +3,13 @@
     "560634": {
       "home": {
         "possession": 50,
-        "xg": 1.55,
+        "xg": 2.21,
         "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 303,
-        "duelsWon": 62,
+        "accuratePasses": 314,
+        "duelsWon": 64,
         "boxTouches": 28,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 2,
         "offsides": 1,
         "saves": 3
@@ -19,9 +19,9 @@
         "xg": 1.19,
         "shots": 14,
         "shotsOnTarget": 4,
-        "accuratePasses": 311,
-        "duelsWon": 51,
-        "boxTouches": 27,
+        "accuratePasses": 323,
+        "duelsWon": 54,
+        "boxTouches": 28,
         "fouls": 6,
         "corners": 2,
         "offsides": 0,
@@ -54,6 +54,18 @@
           "teamId": "62",
           "playerName": "Kiernan Dewsbury-Hall",
           "assist": "Thierno Barry"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "1076",
+          "playerName": "Caleb Yirenkyi"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "62",
+          "playerName": "Jarrad Branthwaite"
         }
       ]
     }
@@ -61,25 +73,25 @@
   "ELC": {
     "561932": {
       "home": {
-        "possession": 29,
-        "xg": 1.15,
-        "shots": 7,
+        "possession": 30,
+        "xg": 1.22,
+        "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 148,
-        "duelsWon": 40,
-        "boxTouches": 13,
-        "fouls": 11,
-        "corners": 3,
-        "offsides": 3,
+        "accuratePasses": 158,
+        "duelsWon": 45,
+        "boxTouches": 18,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 4,
         "saves": 5
       },
       "away": {
-        "possession": 71,
+        "possession": 70,
         "xg": 1.51,
         "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 456,
-        "duelsWon": 42,
+        "accuratePasses": 476,
+        "duelsWon": 45,
         "boxTouches": 23,
         "fouls": 8,
         "corners": 6,
@@ -113,6 +125,12 @@
           "type": "yellow-card",
           "teamId": "60",
           "playerName": "Luca Stephenson"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "goal",
+          "teamId": "342",
+          "playerName": "Rhian Brewster"
         }
       ]
     }
@@ -124,10 +142,10 @@
         "xg": 1.54,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 257,
-        "duelsWon": 58,
-        "boxTouches": 29,
-        "fouls": 14,
+        "accuratePasses": 270,
+        "duelsWon": 60,
+        "boxTouches": 33,
+        "fouls": 15,
         "corners": 5,
         "offsides": 3,
         "saves": 2
@@ -137,10 +155,10 @@
         "xg": 0.54,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 141,
-        "duelsWon": 55,
+        "accuratePasses": 146,
+        "duelsWon": 57,
         "boxTouches": 12,
-        "fouls": 17,
+        "fouls": 18,
         "corners": 3,
         "offsides": 2,
         "saves": 2
@@ -490,7 +508,7 @@
         "xg": 0.08,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 258,
+        "accuratePasses": 262,
         "duelsWon": 18,
         "boxTouches": 4,
         "fouls": 5,
