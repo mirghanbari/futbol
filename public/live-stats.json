@@ -500,27 +500,27 @@
   "PPL": {
     "567353": {
       "home": {
-        "possession": 54,
-        "xg": 0.55,
-        "shots": 9,
+        "possession": 55,
+        "xg": 0.56,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 419,
-        "duelsWon": 51,
-        "boxTouches": 9,
-        "fouls": 7,
+        "accuratePasses": 444,
+        "duelsWon": 59,
+        "boxTouches": 10,
+        "fouls": 8,
         "corners": 8,
         "offsides": 3,
         "saves": 3
       },
       "away": {
-        "possession": 46,
+        "possession": 45,
         "xg": 0.16,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 371,
-        "duelsWon": 32,
+        "accuratePasses": 380,
+        "duelsWon": 34,
         "boxTouches": 6,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 0,
         "offsides": 1,
         "saves": 2
@@ -543,6 +543,12 @@
           "type": "yellow-card",
           "teamId": "5531",
           "playerName": "Óscar Aranda"
+        },
+        {
+          "minute": "85'",
+          "type": "yellow-card",
+          "teamId": "712",
+          "playerName": "Espen van Ee"
         }
       ]
     }
