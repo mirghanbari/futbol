@@ -5266,6 +5266,10 @@
     "venue": "Stadio Pier Luigi Penzo, Venezia",
     "broadcasts": [
       {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
+      {
         "name": "Paramount+",
         "kind": "streaming"
       }
@@ -5433,6 +5437,10 @@
     },
     "venue": "U-Power Stadium, Monza",
     "broadcasts": [
+      {
+        "name": "CBSSN",
+        "kind": "tv"
+      },
       {
         "name": "Paramount+",
         "kind": "streaming"
