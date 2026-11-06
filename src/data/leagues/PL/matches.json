@@ -4890,14 +4890,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-06T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "62",
     "awayTeamId": "1076",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 2.25,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 344,
+        "duelsWon": 69,
+        "boxTouches": 30,
+        "fouls": 9,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 50,
+        "xg": 1.4,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 353,
+        "duelsWon": 53,
+        "boxTouches": 29,
+        "fouls": 6,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "Hill Dickinson Stadium, Liverpool",
     "broadcasts": [

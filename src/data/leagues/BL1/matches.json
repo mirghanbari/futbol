@@ -3754,14 +3754,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-06T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7",
     "awayTeamId": "18",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 2.27,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 464,
+        "duelsWon": 64,
+        "boxTouches": 36,
+        "fouls": 6,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 38,
+        "xg": 2.22,
+        "shots": 19,
+        "shotsOnTarget": 6,
+        "accuratePasses": 250,
+        "duelsWon": 41,
+        "boxTouches": 28,
+        "fouls": 16,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 6
+      }
     },
     "venue": "Volksparkstadion, Hamburg Norderstedt",
     "broadcasts": [

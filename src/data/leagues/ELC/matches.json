@@ -8426,14 +8426,42 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-06T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "342",
     "awayTeamId": "60",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 30,
+        "xg": 1.55,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 160,
+        "duelsWon": 49,
+        "boxTouches": 19,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 4,
+        "saves": 5
+      },
+      "away": {
+        "possession": 70,
+        "xg": 1.69,
+        "shots": 17,
+        "shotsOnTarget": 6,
+        "accuratePasses": 484,
+        "duelsWon": 44,
+        "boxTouches": 23,
+        "fouls": 9,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Pride Park, Derby",
     "broadcasts": [
