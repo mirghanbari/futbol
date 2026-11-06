@@ -500,29 +500,29 @@
   "PPL": {
     "567353": {
       "home": {
-        "possession": 53,
+        "possession": 54,
         "xg": 0.52,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 375,
-        "duelsWon": 42,
+        "accuratePasses": 401,
+        "duelsWon": 46,
         "boxTouches": 9,
-        "fouls": 5,
-        "corners": 7,
+        "fouls": 6,
+        "corners": 8,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 47,
-        "xg": 0.13,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 348,
-        "duelsWon": 28,
+        "possession": 46,
+        "xg": 0.16,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 358,
+        "duelsWon": 29,
         "boxTouches": 6,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 2
       },
       "events": [
@@ -537,6 +537,12 @@
           "type": "yellow-card",
           "teamId": "5531",
           "playerName": "Pedro Santos"
+        },
+        {
+          "minute": "77'",
+          "type": "yellow-card",
+          "teamId": "5531",
+          "playerName": "Óscar Aranda"
         }
       ]
     }
