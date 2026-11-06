@@ -2,41 +2,50 @@
   "BL1": {
     "565852": {
       "home": {
-        "possession": 51,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 28,
-        "duelsWon": 6,
-        "boxTouches": 1,
+        "possession": 56,
+        "xg": 0.59,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 56,
+        "duelsWon": 8,
+        "boxTouches": 2,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 49,
-        "xg": 0.07,
-        "shots": 1,
+        "possession": 44,
+        "xg": 0.22,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 25,
-        "duelsWon": 8,
-        "fouls": 1,
+        "accuratePasses": 38,
+        "duelsWon": 7,
+        "boxTouches": 2,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
-      }
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "11'",
+          "type": "goal",
+          "teamId": "7",
+          "playerName": "Miro Muheim"
+        }
+      ]
     }
   },
   "DED": {
     "558845": {
       "home": {
-        "possession": 47,
-        "xg": 0.32,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 154,
-        "duelsWon": 12,
+        "possession": 45,
+        "xg": 0.34,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 169,
+        "duelsWon": 14,
         "boxTouches": 7,
         "fouls": 3,
         "corners": 0,
@@ -44,17 +53,17 @@
         "saves": 1
       },
       "away": {
-        "possession": 53,
-        "xg": 0.3,
-        "shots": 6,
+        "possession": 55,
+        "xg": 0.44,
+        "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 171,
-        "duelsWon": 13,
-        "boxTouches": 8,
+        "accuratePasses": 206,
+        "duelsWon": 17,
+        "boxTouches": 13,
         "fouls": 1,
-        "corners": 0,
+        "corners": 2,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
