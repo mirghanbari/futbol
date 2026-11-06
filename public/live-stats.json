@@ -4,11 +4,11 @@
       "home": {
         "possession": 50,
         "xg": 2.21,
-        "shots": 15,
-        "shotsOnTarget": 6,
-        "accuratePasses": 314,
-        "duelsWon": 64,
-        "boxTouches": 28,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 343,
+        "duelsWon": 67,
+        "boxTouches": 29,
         "fouls": 9,
         "corners": 2,
         "offsides": 1,
@@ -16,16 +16,16 @@
       },
       "away": {
         "possession": 50,
-        "xg": 1.19,
-        "shots": 14,
+        "xg": 1.4,
+        "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 323,
-        "duelsWon": 54,
-        "boxTouches": 28,
+        "accuratePasses": 353,
+        "duelsWon": 55,
+        "boxTouches": 29,
         "fouls": 6,
         "corners": 2,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -58,14 +58,14 @@
         {
           "minute": "88'",
           "type": "yellow-card",
-          "teamId": "1076",
-          "playerName": "Caleb Yirenkyi"
+          "teamId": "62",
+          "playerName": "Jarrad Branthwaite"
         },
         {
           "minute": "88'",
           "type": "yellow-card",
-          "teamId": "62",
-          "playerName": "Jarrad Branthwaite"
+          "teamId": "1076",
+          "playerName": "Caleb Yirenkyi"
         }
       ]
     }
@@ -74,12 +74,12 @@
     "561932": {
       "home": {
         "possession": 30,
-        "xg": 1.22,
-        "shots": 8,
-        "shotsOnTarget": 4,
-        "accuratePasses": 158,
-        "duelsWon": 45,
-        "boxTouches": 18,
+        "xg": 1.43,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 160,
+        "duelsWon": 47,
+        "boxTouches": 19,
         "fouls": 12,
         "corners": 4,
         "offsides": 4,
@@ -87,13 +87,13 @@
       },
       "away": {
         "possession": 70,
-        "xg": 1.51,
+        "xg": 1.68,
         "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 476,
+        "accuratePasses": 484,
         "duelsWon": 45,
         "boxTouches": 23,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 6,
         "offsides": 1,
         "saves": 2
@@ -131,8 +131,15 @@
           "type": "goal",
           "teamId": "342",
           "playerName": "Rhian Brewster"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "60",
+          "playerName": "Gaizka Larrazabal"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PD": {
@@ -142,10 +149,10 @@
         "xg": 1.54,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 270,
-        "duelsWon": 60,
+        "accuratePasses": 286,
+        "duelsWon": 61,
         "boxTouches": 33,
-        "fouls": 15,
+        "fouls": 14,
         "corners": 5,
         "offsides": 3,
         "saves": 2
@@ -155,11 +162,11 @@
         "xg": 0.54,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 146,
-        "duelsWon": 57,
-        "boxTouches": 12,
+        "accuratePasses": 152,
+        "duelsWon": 61,
+        "boxTouches": 15,
         "fouls": 18,
-        "corners": 3,
+        "corners": 4,
         "offsides": 2,
         "saves": 2
       },
@@ -491,26 +498,26 @@
   "PPL": {
     "567353": {
       "home": {
-        "possession": 50,
+        "possession": 52,
         "xg": 0.52,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 246,
-        "duelsWon": 24,
-        "boxTouches": 6,
+        "accuratePasses": 287,
+        "duelsWon": 26,
+        "boxTouches": 7,
         "fouls": 2,
         "corners": 4,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 50,
+        "possession": 48,
         "xg": 0.08,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 262,
+        "accuratePasses": 277,
         "duelsWon": 18,
-        "boxTouches": 4,
+        "boxTouches": 5,
         "fouls": 5,
         "corners": 0,
         "offsides": 0,
