@@ -7,7 +7,7 @@
         "shots": 4,
         "shotsOnTarget": 1,
         "accuratePasses": 184,
-        "duelsWon": 36,
+        "duelsWon": 37,
         "boxTouches": 9,
         "fouls": 5,
         "corners": 1,
@@ -16,7 +16,7 @@
       },
       "away": {
         "possession": 48,
-        "xg": 0.64,
+        "xg": 0.61,
         "shots": 8,
         "shotsOnTarget": 2,
         "accuratePasses": 170,
@@ -32,27 +32,27 @@
   "ELC": {
     "561932": {
       "home": {
-        "possession": 37,
-        "xg": 0.04,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 109,
-        "duelsWon": 16,
-        "boxTouches": 6,
+        "possession": 38,
+        "xg": 0.87,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 117,
+        "duelsWon": 20,
+        "boxTouches": 8,
         "fouls": 6,
         "corners": 2,
         "offsides": 3,
         "saves": 3
       },
       "away": {
-        "possession": 63,
-        "xg": 0.72,
+        "possession": 62,
+        "xg": 0.7,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 211,
-        "duelsWon": 23,
+        "accuratePasses": 215,
+        "duelsWon": 24,
         "boxTouches": 11,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 2,
         "offsides": 1,
         "saves": 1
@@ -64,6 +64,19 @@
           "teamId": "60",
           "playerName": "Rúben Rodrigues",
           "assist": "Gaizka Larrazabal"
+        },
+        {
+          "minute": "46'",
+          "type": "goal",
+          "teamId": "342",
+          "playerName": "Ryan Nyambe",
+          "assist": "Mohammed Fuseini"
+        },
+        {
+          "minute": "49'",
+          "type": "goal",
+          "teamId": "342",
+          "playerName": "Jack Robinson"
         }
       ]
     }
@@ -109,25 +122,25 @@
   "BL1": {
     "565852": {
       "home": {
-        "possession": 61,
-        "xg": 1.74,
-        "shots": 13,
-        "shotsOnTarget": 7,
-        "accuratePasses": 337,
-        "duelsWon": 40,
-        "boxTouches": 26,
-        "fouls": 5,
+        "possession": 60,
+        "xg": 2,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 352,
+        "duelsWon": 46,
+        "boxTouches": 31,
+        "fouls": 6,
         "corners": 5,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 39,
+        "possession": 40,
         "xg": 1.59,
         "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 188,
-        "duelsWon": 28,
+        "accuratePasses": 203,
+        "duelsWon": 30,
         "boxTouches": 19,
         "fouls": 14,
         "corners": 3,
@@ -179,26 +192,26 @@
   "SA": {
     "558537": {
       "home": {
-        "possession": 50,
+        "possession": 49,
         "xg": 1.47,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 244,
+        "accuratePasses": 253,
         "duelsWon": 19,
         "boxTouches": 15,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 1,
         "offsides": 2,
         "saves": 4
       },
       "away": {
-        "possession": 50,
-        "xg": 0.8,
-        "shots": 10,
+        "possession": 51,
+        "xg": 0.91,
+        "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 234,
-        "duelsWon": 22,
-        "boxTouches": 15,
+        "accuratePasses": 255,
+        "duelsWon": 23,
+        "boxTouches": 17,
         "fouls": 5,
         "corners": 3,
         "offsides": 3,
@@ -217,6 +230,13 @@
           "teamId": "454",
           "playerName": "Toma Bašić",
           "assist": "Antoine Hainaut"
+        },
+        {
+          "minute": "57'",
+          "type": "goal",
+          "teamId": "115",
+          "playerName": "Matías Moreno",
+          "ownGoal": true
         }
       ]
     }
@@ -224,30 +244,30 @@
   "FL1": {
     "559638": {
       "home": {
-        "possession": 40,
-        "xg": 0.45,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 202,
-        "duelsWon": 26,
-        "boxTouches": 7,
-        "fouls": 11,
-        "corners": 2,
+        "possession": 42,
+        "xg": 0.82,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 227,
+        "duelsWon": 28,
+        "boxTouches": 10,
+        "fouls": 12,
+        "corners": 4,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 60,
+        "possession": 58,
         "xg": 0.17,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 306,
-        "duelsWon": 32,
+        "accuratePasses": 322,
+        "duelsWon": 33,
         "boxTouches": 4,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 1,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -280,6 +300,20 @@
           "teamId": "511",
           "playerName": "Santiago Hidalgo",
           "assist": "Sion Oppong"
+        },
+        {
+          "minute": "56'",
+          "type": "goal",
+          "teamId": "511",
+          "playerName": "Mark McKenzie",
+          "method": "header",
+          "assist": "Cristian Cásseres"
+        },
+        {
+          "minute": "60'",
+          "type": "yellow-card",
+          "teamId": "511",
+          "playerName": "Niko Sigur"
         }
       ]
     }
@@ -339,12 +373,12 @@
   "PPL": {
     "567353": {
       "home": {
-        "possession": 37,
-        "xg": 0.26,
-        "shots": 1,
+        "possession": 40,
+        "xg": 0.29,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 53,
-        "duelsWon": 5,
+        "accuratePasses": 94,
+        "duelsWon": 11,
         "boxTouches": 2,
         "fouls": 1,
         "corners": 1,
@@ -352,13 +386,13 @@
         "saves": 0
       },
       "away": {
-        "possession": 63,
+        "possession": 60,
         "xg": 0.01,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 107,
-        "duelsWon": 6,
-        "boxTouches": 1,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 165,
+        "duelsWon": 8,
+        "boxTouches": 2,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
