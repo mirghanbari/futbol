@@ -276,13 +276,13 @@
     "561930": {
       "home": {
         "possession": 66,
-        "xg": 4.99,
+        "xg": 4.65,
         "shots": 25,
         "shotsOnTarget": 11,
-        "accuratePasses": 497,
-        "duelsWon": 34,
+        "accuratePasses": 500,
+        "duelsWon": 35,
         "boxTouches": 33,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 5,
         "offsides": 0,
         "saves": 5
@@ -292,10 +292,10 @@
         "xg": 2.3,
         "shots": 15,
         "shotsOnTarget": 8,
-        "accuratePasses": 224,
-        "duelsWon": 34,
+        "accuratePasses": 226,
+        "duelsWon": 36,
         "boxTouches": 18,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 7,
         "offsides": 1,
         "saves": 4
@@ -358,14 +358,14 @@
         {
           "minute": "79'",
           "type": "yellow-card",
-          "teamId": "328",
-          "playerName": "Largie Ramazani"
+          "teamId": "715",
+          "playerName": "Joel Bagan"
         },
         {
           "minute": "79'",
           "type": "yellow-card",
-          "teamId": "715",
-          "playerName": "Joel Bagan"
+          "teamId": "328",
+          "playerName": "Largie Ramazani"
         },
         {
           "minute": "82'",
@@ -390,16 +390,23 @@
         {
           "minute": "90'+11'",
           "type": "yellow-card",
-          "teamId": "715",
-          "playerName": "Rubin Colwill"
+          "teamId": "328",
+          "playerName": "Josh Laurent"
         },
         {
           "minute": "90'+11'",
           "type": "yellow-card",
-          "teamId": "328",
-          "playerName": "Josh Laurent"
+          "teamId": "715",
+          "playerName": "Rubin Colwill"
+        },
+        {
+          "minute": "90'+13'",
+          "type": "yellow-card",
+          "teamId": "715",
+          "playerName": "Yousef Salech"
         }
-      ]
+      ],
+      "final": true
     },
     "561931": {
       "home": {
@@ -779,10 +786,10 @@
       },
       "away": {
         "possession": 78,
-        "xg": 1.55,
+        "xg": 1.5,
         "shots": 23,
         "shotsOnTarget": 8,
-        "accuratePasses": 674,
+        "accuratePasses": 675,
         "duelsWon": 46,
         "boxTouches": 32,
         "fouls": 6,
@@ -827,7 +834,8 @@
           "teamId": "1081",
           "playerName": "Thierry Small"
         }
-      ]
+      ],
+      "final": true
     },
     "561938": {
       "home": {
@@ -981,11 +989,11 @@
     },
     "561940": {
       "home": {
-        "possession": 60,
-        "xg": 2.98,
-        "shots": 19,
+        "possession": 59,
+        "xg": 3.04,
+        "shots": 20,
         "shotsOnTarget": 8,
-        "accuratePasses": 374,
+        "accuratePasses": 375,
         "duelsWon": 62,
         "boxTouches": 33,
         "fouls": 8,
@@ -994,13 +1002,13 @@
         "saves": 3
       },
       "away": {
-        "possession": 40,
-        "xg": 1.01,
+        "possession": 41,
+        "xg": 1.04,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 221,
+        "accuratePasses": 224,
         "duelsWon": 51,
-        "boxTouches": 14,
+        "boxTouches": 15,
         "fouls": 9,
         "corners": 5,
         "offsides": 3,
@@ -1063,7 +1071,8 @@
           "teamId": "332",
           "playerName": "Jay Stansfield"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PD": {
@@ -1621,32 +1630,60 @@
         }
       ],
       "final": true
+    },
+    "558535": {
+      "home": {
+        "possession": 60,
+        "xg": 0.07,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 25,
+        "duelsWon": 4,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 40,
+        "xg": 0.01,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 19,
+        "duelsWon": 3,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   },
   "DED": {
     "558844": {
       "home": {
-        "possession": 45,
-        "xg": 1.56,
-        "shots": 6,
+        "possession": 46,
+        "xg": 1.64,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 229,
-        "duelsWon": 32,
-        "boxTouches": 15,
-        "fouls": 14,
+        "accuratePasses": 252,
+        "duelsWon": 34,
+        "boxTouches": 17,
+        "fouls": 15,
         "corners": 3,
         "offsides": 2,
         "saves": 4
       },
       "away": {
-        "possession": 55,
+        "possession": 54,
         "xg": 0.56,
         "shots": 10,
         "shotsOnTarget": 6,
-        "accuratePasses": 307,
-        "duelsWon": 38,
+        "accuratePasses": 324,
+        "duelsWon": 43,
         "boxTouches": 22,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 3,
         "offsides": 2,
         "saves": 1
@@ -1697,6 +1734,18 @@
           "type": "goal",
           "teamId": "1912",
           "playerName": "Patrick Brouwer"
+        },
+        {
+          "minute": "72'",
+          "type": "yellow-card",
+          "teamId": "1912",
+          "playerName": "Isaiah Ahmed"
+        },
+        {
+          "minute": "73'",
+          "type": "yellow-card",
+          "teamId": "1920",
+          "playerName": "Sven Simons"
         }
       ]
     }
