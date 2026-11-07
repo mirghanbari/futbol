@@ -2,26 +2,26 @@
   "PL": {
     "560632": {
       "home": {
-        "possession": 45,
-        "xg": 1.15,
+        "possession": 44,
+        "xg": 1.21,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 195,
-        "duelsWon": 45,
+        "accuratePasses": 197,
+        "duelsWon": 47,
         "boxTouches": 10,
         "fouls": 8,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 55,
+        "possession": 56,
         "xg": 0.22,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 260,
-        "duelsWon": 26,
-        "boxTouches": 9,
+        "accuratePasses": 278,
+        "duelsWon": 28,
+        "boxTouches": 12,
         "fouls": 12,
         "corners": 3,
         "offsides": 1,
@@ -58,28 +58,28 @@
   "ELC": {
     "561933": {
       "home": {
-        "possession": 44,
-        "xg": 1.21,
-        "shots": 7,
+        "possession": 42,
+        "xg": 1.13,
+        "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 224,
-        "duelsWon": 41,
-        "boxTouches": 15,
+        "accuratePasses": 242,
+        "duelsWon": 43,
+        "boxTouches": 14,
         "fouls": 9,
         "corners": 2,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 56,
-        "xg": 1.04,
-        "shots": 12,
+        "possession": 58,
+        "xg": 1.09,
+        "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 295,
-        "duelsWon": 43,
-        "boxTouches": 15,
+        "accuratePasses": 359,
+        "duelsWon": 45,
+        "boxTouches": 18,
         "fouls": 11,
-        "corners": 4,
+        "corners": 5,
         "offsides": 0,
         "saves": 2
       },
@@ -130,7 +130,7 @@
         "xg": 0.44,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 193,
+        "accuratePasses": 195,
         "duelsWon": 31,
         "boxTouches": 16,
         "fouls": 8,
@@ -143,7 +143,7 @@
         "xg": 0.23,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 180,
+        "accuratePasses": 186,
         "duelsWon": 40,
         "boxTouches": 5,
         "fouls": 8,
@@ -188,17 +188,23 @@
           "teamId": "70",
           "playerName": "Jack McGlynn",
           "assist": "Luca Bombino"
+        },
+        {
+          "minute": "72'",
+          "type": "yellow-card",
+          "teamId": "70",
+          "playerName": "Ethan Galbraith"
         }
       ]
     },
     "561939": {
       "home": {
-        "possession": 54,
-        "xg": 1.35,
+        "possession": 55,
+        "xg": 1.36,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 329,
-        "duelsWon": 34,
+        "accuratePasses": 349,
+        "duelsWon": 35,
         "boxTouches": 19,
         "fouls": 9,
         "corners": 5,
@@ -206,15 +212,15 @@
         "saves": 1
       },
       "away": {
-        "possession": 46,
-        "xg": 0.47,
-        "shots": 8,
-        "shotsOnTarget": 4,
-        "accuratePasses": 268,
-        "duelsWon": 33,
-        "boxTouches": 13,
+        "possession": 45,
+        "xg": 1.63,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 277,
+        "duelsWon": 35,
+        "boxTouches": 17,
         "fouls": 4,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 3
       },
@@ -237,6 +243,13 @@
           "type": "goal",
           "teamId": "68",
           "playerName": "Andre Brooks"
+        },
+        {
+          "minute": "70'",
+          "type": "goal",
+          "teamId": "68",
+          "playerName": "Jovon Makama",
+          "assist": "Anthony Musaba"
         }
       ]
     }
