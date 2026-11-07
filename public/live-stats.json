@@ -51,7 +51,7 @@
         "shots": 5,
         "shotsOnTarget": 3,
         "accuratePasses": 175,
-        "duelsWon": 29,
+        "duelsWon": 30,
         "boxTouches": 11,
         "fouls": 5,
         "corners": 2,
@@ -63,8 +63,8 @@
         "xg": 0.82,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 208,
-        "duelsWon": 31,
+        "accuratePasses": 209,
+        "duelsWon": 33,
         "boxTouches": 9,
         "fouls": 9,
         "corners": 3,
@@ -102,7 +102,7 @@
         "shotsOnTarget": 3,
         "accuratePasses": 157,
         "duelsWon": 18,
-        "boxTouches": 15,
+        "boxTouches": 14,
         "fouls": 4,
         "corners": 5,
         "offsides": 1,
@@ -150,12 +150,12 @@
     },
     "561939": {
       "home": {
-        "possession": 48,
+        "possession": 49,
         "xg": 0.85,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 202,
-        "duelsWon": 24,
+        "accuratePasses": 205,
+        "duelsWon": 25,
         "boxTouches": 10,
         "fouls": 9,
         "corners": 3,
@@ -163,7 +163,7 @@
         "saves": 0
       },
       "away": {
-        "possession": 52,
+        "possession": 51,
         "xg": 0.09,
         "shots": 2,
         "shotsOnTarget": 1,
@@ -189,30 +189,46 @@
   "PD": {
     "564744": {
       "home": {
-        "possession": 44,
-        "xg": 0.05,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 96,
-        "duelsWon": 10,
-        "boxTouches": 5,
+        "possession": 47,
+        "xg": 0.34,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 117,
+        "duelsWon": 12,
+        "boxTouches": 7,
         "fouls": 1,
         "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 56,
+        "possession": 53,
         "xg": 0.2,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 127,
-        "duelsWon": 11,
+        "accuratePasses": 136,
+        "duelsWon": 14,
+        "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
         "offsides": 1,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "28'",
+          "type": "goal",
+          "teamId": "84",
+          "playerName": "Carlos Dotor",
+          "assist": "Adrián Niño"
+        },
+        {
+          "minute": "31'",
+          "type": "yellow-card",
+          "teamId": "5335",
+          "playerName": "Julen Agirrezabala"
+        }
+      ]
     }
   }
 }
