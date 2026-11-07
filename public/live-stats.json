@@ -1226,26 +1226,26 @@
     },
     "564741": {
       "home": {
-        "possession": 23,
+        "possession": 25,
         "xg": 0.06,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 63,
-        "duelsWon": 16,
-        "fouls": 11,
+        "accuratePasses": 75,
+        "duelsWon": 17,
+        "fouls": 12,
         "corners": 1,
         "offsides": 2,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 77,
-        "xg": 0.59,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 265,
-        "duelsWon": 25,
-        "boxTouches": 10,
-        "fouls": 3,
+        "possession": 75,
+        "xg": 0.74,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 288,
+        "duelsWon": 27,
+        "boxTouches": 13,
+        "fouls": 4,
         "corners": 3,
         "offsides": 2,
         "saves": 1
@@ -1757,7 +1757,7 @@
         "xg": 0.78,
         "shots": 14,
         "shotsOnTarget": 4,
-        "accuratePasses": 345,
+        "accuratePasses": 343,
         "duelsWon": 23,
         "boxTouches": 27,
         "fouls": 4,
@@ -2019,14 +2019,14 @@
     "559635": {
       "home": {
         "possession": 80,
-        "xg": 0.67,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 375,
-        "duelsWon": 10,
-        "boxTouches": 9,
+        "xg": 0.8,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 398,
+        "duelsWon": 11,
+        "boxTouches": 11,
         "fouls": 2,
-        "corners": 2,
+        "corners": 4,
         "offsides": 0,
         "saves": 1
       },
@@ -2035,13 +2035,13 @@
         "xg": 0.26,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 76,
-        "duelsWon": 9,
-        "boxTouches": 6,
+        "accuratePasses": 80,
+        "duelsWon": 11,
+        "boxTouches": 7,
         "fouls": 3,
         "corners": 0,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -2049,6 +2049,14 @@
           "type": "yellow-card",
           "teamId": "524",
           "playerName": "Ilya Zabarnyi"
+        },
+        {
+          "minute": "39'",
+          "type": "goal",
+          "teamId": "524",
+          "playerName": "Ilya Zabarnyi",
+          "method": "header",
+          "assist": "Senny Mayulu"
         }
       ]
     },
@@ -2189,25 +2197,25 @@
     },
     "558843": {
       "home": {
-        "possession": 43,
-        "xg": 0.26,
-        "shots": 3,
+        "possession": 45,
+        "xg": 0.29,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 173,
-        "duelsWon": 11,
-        "boxTouches": 3,
+        "accuratePasses": 200,
+        "duelsWon": 14,
+        "boxTouches": 7,
         "fouls": 4,
-        "corners": 1,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 57,
+        "possession": 55,
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 232,
-        "duelsWon": 20,
+        "accuratePasses": 241,
+        "duelsWon": 21,
         "boxTouches": 10,
         "fouls": 1,
         "corners": 0,
@@ -2377,30 +2385,30 @@
     },
     "567350": {
       "home": {
-        "possession": 56,
-        "xg": 0.53,
-        "shots": 4,
+        "possession": 66,
+        "xg": 1,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 55,
-        "duelsWon": 7,
-        "boxTouches": 7,
+        "accuratePasses": 101,
+        "duelsWon": 10,
+        "boxTouches": 13,
         "fouls": 1,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 44,
+        "possession": 34,
         "xg": 0.13,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 37,
-        "duelsWon": 6,
+        "accuratePasses": 45,
+        "duelsWon": 8,
         "boxTouches": 3,
         "fouls": 0,
         "corners": 2,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       }
     }
   }
