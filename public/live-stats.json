@@ -1226,26 +1226,26 @@
     },
     "564741": {
       "home": {
-        "possession": 27,
+        "possession": 28,
         "xg": 0.06,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 130,
-        "duelsWon": 25,
+        "accuratePasses": 148,
+        "duelsWon": 27,
         "boxTouches": 2,
-        "fouls": 18,
+        "fouls": 20,
         "corners": 1,
         "offsides": 2,
-        "saves": 4
+        "saves": 6
       },
       "away": {
-        "possession": 73,
-        "xg": 1,
-        "shots": 13,
-        "shotsOnTarget": 6,
-        "accuratePasses": 436,
-        "duelsWon": 43,
-        "boxTouches": 20,
+        "possession": 72,
+        "xg": 1.17,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 464,
+        "duelsWon": 47,
+        "boxTouches": 24,
         "fouls": 4,
         "corners": 5,
         "offsides": 3,
@@ -1772,29 +1772,29 @@
   "SA": {
     "558531": {
       "home": {
-        "possession": 62,
-        "xg": 3.12,
-        "shots": 26,
+        "possession": 64,
+        "xg": 3.16,
+        "shots": 27,
         "shotsOnTarget": 9,
-        "accuratePasses": 551,
-        "duelsWon": 50,
-        "boxTouches": 47,
+        "accuratePasses": 604,
+        "duelsWon": 54,
+        "boxTouches": 51,
         "fouls": 7,
-        "corners": 10,
+        "corners": 11,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 38,
+        "possession": 36,
         "xg": 0.24,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 315,
-        "duelsWon": 41,
+        "accuratePasses": 319,
+        "duelsWon": 45,
         "boxTouches": 5,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 4
       },
       "events": [
@@ -2044,30 +2044,30 @@
   "FL1": {
     "559635": {
       "home": {
-        "possession": 78,
-        "xg": 1.28,
-        "shots": 11,
-        "shotsOnTarget": 6,
-        "accuratePasses": 638,
-        "duelsWon": 24,
-        "boxTouches": 19,
-        "fouls": 3,
+        "possession": 76,
+        "xg": 1.55,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 672,
+        "duelsWon": 25,
+        "boxTouches": 26,
+        "fouls": 4,
         "corners": 4,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 22,
-        "xg": 0.55,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 149,
-        "duelsWon": 15,
-        "boxTouches": 8,
+        "possession": 24,
+        "xg": 0.67,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 177,
+        "duelsWon": 22,
+        "boxTouches": 11,
         "fouls": 4,
         "corners": 0,
         "offsides": 3,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -2223,31 +2223,40 @@
     },
     "558843": {
       "home": {
-        "possession": 45,
-        "xg": 0.46,
-        "shots": 8,
-        "shotsOnTarget": 0,
-        "accuratePasses": 269,
-        "duelsWon": 29,
-        "boxTouches": 11,
+        "possession": 44,
+        "xg": 0.52,
+        "shots": 10,
+        "shotsOnTarget": 1,
+        "accuratePasses": 276,
+        "duelsWon": 32,
+        "boxTouches": 14,
         "fouls": 4,
         "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 55,
-        "xg": 0.05,
-        "shots": 4,
-        "shotsOnTarget": 1,
-        "accuratePasses": 351,
-        "duelsWon": 28,
-        "boxTouches": 12,
-        "fouls": 3,
+        "possession": 56,
+        "xg": 0.52,
+        "shots": 5,
+        "shotsOnTarget": 2,
+        "accuratePasses": 365,
+        "duelsWon": 29,
+        "boxTouches": 13,
+        "fouls": 4,
         "corners": 0,
         "offsides": 2,
-        "saves": 0
-      }
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "73'",
+          "type": "goal",
+          "teamId": "718",
+          "playerName": "Søren Tengstedt",
+          "assist": "Yassir Salah Rahmouni"
+        }
+      ]
     },
     "558844": {
       "home": {
@@ -2430,7 +2439,7 @@
         "shotsOnTarget": 1,
         "accuratePasses": 76,
         "duelsWon": 23,
-        "boxTouches": 6,
+        "boxTouches": 7,
         "fouls": 3,
         "corners": 3,
         "offsides": 0,
