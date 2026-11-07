@@ -304,12 +304,12 @@
   "PD": {
     "564744": {
       "home": {
-        "possession": 43,
+        "possession": 45,
         "xg": 1.54,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 285,
-        "duelsWon": 46,
+        "accuratePasses": 327,
+        "duelsWon": 51,
         "boxTouches": 22,
         "fouls": 10,
         "corners": 5,
@@ -317,13 +317,13 @@
         "saves": 4
       },
       "away": {
-        "possession": 57,
-        "xg": 2.15,
-        "shots": 18,
+        "possession": 55,
+        "xg": 2.33,
+        "shots": 19,
         "shotsOnTarget": 6,
-        "accuratePasses": 391,
-        "duelsWon": 40,
-        "boxTouches": 23,
+        "accuratePasses": 410,
+        "duelsWon": 48,
+        "boxTouches": 25,
         "fouls": 4,
         "corners": 2,
         "offsides": 2,
@@ -379,6 +379,12 @@
           "type": "yellow-card",
           "teamId": "84",
           "playerName": "Adrián Niño"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "84",
+          "playerName": "Chupe"
         }
       ]
     }
@@ -386,27 +392,27 @@
   "BL1": {
     "565848": {
       "home": {
-        "possession": 74,
-        "xg": 0.07,
-        "shots": 2,
+        "possession": 70,
+        "xg": 0.13,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 63,
-        "duelsWon": 7,
+        "accuratePasses": 89,
+        "duelsWon": 11,
         "boxTouches": 5,
-        "fouls": 0,
-        "corners": 0,
+        "fouls": 1,
+        "corners": 1,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 26,
+        "possession": 30,
         "xg": 0.69,
         "shots": 2,
         "shotsOnTarget": 2,
-        "accuratePasses": 15,
-        "duelsWon": 8,
+        "accuratePasses": 30,
+        "duelsWon": 15,
         "boxTouches": 2,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 0,
         "offsides": 1,
         "saves": 0
@@ -422,39 +428,39 @@
     },
     "565850": {
       "home": {
-        "possession": 46,
+        "possession": 57,
         "xg": 0.1,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 24,
-        "duelsWon": 3,
-        "boxTouches": 1,
+        "accuratePasses": 88,
+        "duelsWon": 7,
+        "boxTouches": 2,
         "fouls": 0,
         "corners": 0,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 54,
+        "possession": 43,
         "xg": 0.02,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 28,
-        "duelsWon": 3,
-        "fouls": 1,
+        "accuratePasses": 61,
+        "duelsWon": 5,
+        "fouls": 2,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       }
     },
     "565851": {
       "home": {
-        "possession": 15,
+        "possession": 17,
         "xg": 0.02,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 8,
-        "duelsWon": 7,
+        "accuratePasses": 17,
+        "duelsWon": 11,
         "boxTouches": 2,
         "fouls": 2,
         "corners": 1,
@@ -462,68 +468,78 @@
         "saves": 0
       },
       "away": {
-        "possession": 85,
-        "xg": 0.07,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 86,
-        "duelsWon": 5,
-        "boxTouches": 3,
+        "possession": 83,
+        "xg": 0.04,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 134,
+        "duelsWon": 8,
+        "boxTouches": 6,
         "fouls": 2,
-        "corners": 0,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "14'",
+          "type": "goal",
+          "teamId": "5",
+          "playerName": "Joshua Kimmich",
+          "assist": "Harry Kane"
+        }
+      ]
     },
     "565853": {
       "home": {
-        "possession": 54,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 43,
-        "duelsWon": 7,
+        "possession": 64,
+        "xg": 0.04,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 71,
+        "duelsWon": 9,
+        "boxTouches": 4,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 46,
+        "possession": 36,
         "xg": 0.25,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 33,
-        "duelsWon": 6,
+        "accuratePasses": 35,
+        "duelsWon": 8,
         "boxTouches": 3,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       }
     }
   },
   "SA": {
     "558532": {
       "home": {
-        "possession": 69,
+        "possession": 70,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 159,
-        "duelsWon": 10,
-        "boxTouches": 2,
+        "accuratePasses": 206,
+        "duelsWon": 12,
+        "boxTouches": 3,
         "fouls": 1,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 31,
+        "possession": 30,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 59,
-        "duelsWon": 9,
-        "boxTouches": 2,
+        "accuratePasses": 76,
+        "duelsWon": 14,
+        "boxTouches": 4,
         "fouls": 4,
         "corners": 1,
         "offsides": 0,
@@ -533,12 +549,12 @@
     "558534": {
       "home": {
         "possession": 35,
-        "xg": 0.42,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 93,
-        "duelsWon": 17,
-        "boxTouches": 7,
+        "xg": 0.53,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 103,
+        "duelsWon": 19,
+        "boxTouches": 8,
         "fouls": 5,
         "corners": 1,
         "offsides": 1,
@@ -547,11 +563,11 @@
       "away": {
         "possession": 65,
         "xg": 0.49,
-        "shots": 10,
+        "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 188,
-        "duelsWon": 26,
-        "boxTouches": 18,
+        "accuratePasses": 203,
+        "duelsWon": 27,
+        "boxTouches": 19,
         "fouls": 4,
         "corners": 3,
         "offsides": 1,
@@ -563,6 +579,13 @@
           "type": "yellow-card",
           "teamId": "470",
           "playerName": "Gabriele Bracaglia"
+        },
+        {
+          "minute": "38'",
+          "type": "goal",
+          "teamId": "104",
+          "playerName": "Michel Ndary Adopo",
+          "assist": "Paul Mendy"
         }
       ]
     }
