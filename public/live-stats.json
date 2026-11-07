@@ -1633,28 +1633,28 @@
     },
     "558535": {
       "home": {
-        "possession": 65,
+        "possession": 45,
         "xg": 0.12,
         "shots": 2,
         "shotsOnTarget": 0,
         "accuratePasses": 34,
-        "duelsWon": 6,
+        "duelsWon": 8,
         "boxTouches": 2,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 35,
-        "xg": 0.01,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 20,
-        "duelsWon": 3,
-        "boxTouches": 1,
+        "possession": 55,
+        "xg": 0.09,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 52,
+        "duelsWon": 6,
+        "boxTouches": 5,
         "fouls": 1,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
@@ -1664,6 +1664,12 @@
           "type": "red-card",
           "teamId": "112",
           "playerName": "Abdoulaye Ndiaye"
+        },
+        {
+          "minute": "15'",
+          "type": "yellow-card",
+          "teamId": "112",
+          "playerName": "David Romero"
         }
       ]
     }
@@ -1671,27 +1677,27 @@
   "DED": {
     "558844": {
       "home": {
-        "possession": 46,
-        "xg": 1.64,
-        "shots": 6,
+        "possession": 47,
+        "xg": 1.67,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 276,
-        "duelsWon": 38,
+        "accuratePasses": 292,
+        "duelsWon": 42,
         "boxTouches": 16,
-        "fouls": 16,
+        "fouls": 17,
         "corners": 3,
         "offsides": 2,
-        "saves": 4
+        "saves": 6
       },
       "away": {
-        "possession": 54,
-        "xg": 0.56,
-        "shots": 10,
-        "shotsOnTarget": 6,
-        "accuratePasses": 347,
-        "duelsWon": 46,
-        "boxTouches": 22,
-        "fouls": 12,
+        "possession": 53,
+        "xg": 0.6,
+        "shots": 12,
+        "shotsOnTarget": 8,
+        "accuratePasses": 362,
+        "duelsWon": 48,
+        "boxTouches": 24,
+        "fouls": 14,
         "corners": 3,
         "offsides": 2,
         "saves": 1
