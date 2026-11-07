@@ -2,28 +2,28 @@
   "PL": {
     "560632": {
       "home": {
-        "possession": 40,
-        "xg": 2,
+        "possession": 39,
+        "xg": 2.02,
         "shots": 16,
         "shotsOnTarget": 4,
-        "accuratePasses": 243,
-        "duelsWon": 57,
+        "accuratePasses": 246,
+        "duelsWon": 58,
         "boxTouches": 21,
         "fouls": 11,
         "corners": 6,
         "offsides": 2,
-        "saves": 2
+        "saves": 4
       },
       "away": {
-        "possession": 60,
-        "xg": 0.28,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 403,
-        "duelsWon": 41,
-        "boxTouches": 14,
+        "possession": 61,
+        "xg": 0.71,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 420,
+        "duelsWon": 43,
+        "boxTouches": 18,
         "fouls": 15,
-        "corners": 3,
+        "corners": 4,
         "offsides": 1,
         "saves": 2
       },
@@ -44,13 +44,13 @@
           "minute": "51'",
           "type": "yellow-card",
           "teamId": "73",
-          "playerName": "Roberto De Zerbi"
+          "playerName": "Pedro Porro"
         },
         {
           "minute": "51'",
           "type": "yellow-card",
           "teamId": "73",
-          "playerName": "Pedro Porro"
+          "playerName": "Roberto De Zerbi"
         },
         {
           "minute": "79'",
@@ -70,7 +70,8 @@
           "teamId": "73",
           "playerName": "Sandro Tonali"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "ELC": {
@@ -80,12 +81,12 @@
         "xg": 1.13,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 284,
-        "duelsWon": 61,
-        "boxTouches": 14,
-        "fouls": 11,
+        "accuratePasses": 294,
+        "duelsWon": 64,
+        "boxTouches": 15,
+        "fouls": 12,
         "corners": 2,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 4
       },
       "away": {
@@ -93,10 +94,10 @@
         "xg": 1.41,
         "shots": 21,
         "shotsOnTarget": 5,
-        "accuratePasses": 468,
-        "duelsWon": 56,
+        "accuratePasses": 477,
+        "duelsWon": 57,
         "boxTouches": 28,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 7,
         "offsides": 0,
         "saves": 2
@@ -131,14 +132,14 @@
         {
           "minute": "61'",
           "type": "yellow-card",
-          "teamId": "404",
-          "playerName": "Phil Parkinson"
+          "teamId": "76",
+          "playerName": "André"
         },
         {
           "minute": "61'",
           "type": "yellow-card",
-          "teamId": "76",
-          "playerName": "André"
+          "teamId": "404",
+          "playerName": "Phil Parkinson"
         },
         {
           "minute": "86'",
@@ -146,7 +147,8 @@
           "teamId": "404",
           "playerName": "Matty James"
         }
-      ]
+      ],
+      "final": true
     },
     "561938": {
       "home": {
@@ -154,8 +156,8 @@
         "xg": 0.66,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 275,
-        "duelsWon": 49,
+        "accuratePasses": 280,
+        "duelsWon": 52,
         "boxTouches": 20,
         "fouls": 14,
         "corners": 7,
@@ -167,9 +169,9 @@
         "xg": 0.86,
         "shots": 4,
         "shotsOnTarget": 3,
-        "accuratePasses": 224,
-        "duelsWon": 55,
-        "boxTouches": 6,
+        "accuratePasses": 228,
+        "duelsWon": 58,
+        "boxTouches": 9,
         "fouls": 12,
         "corners": 0,
         "offsides": 5,
@@ -231,7 +233,8 @@
           "teamId": "325",
           "playerName": "Terry Devlin"
         }
-      ]
+      ],
+      "final": true
     },
     "561939": {
       "home": {
@@ -305,25 +308,25 @@
         "xg": 0.9,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 231,
-        "duelsWon": 35,
-        "boxTouches": 14,
-        "fouls": 8,
+        "accuratePasses": 246,
+        "duelsWon": 38,
+        "boxTouches": 15,
+        "fouls": 9,
         "corners": 3,
         "offsides": 1,
         "saves": 4
       },
       "away": {
         "possession": 58,
-        "xg": 1.31,
-        "shots": 16,
+        "xg": 2.14,
+        "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 337,
-        "duelsWon": 33,
-        "boxTouches": 21,
+        "accuratePasses": 360,
+        "duelsWon": 38,
+        "boxTouches": 23,
         "fouls": 3,
         "corners": 1,
-        "offsides": 1,
+        "offsides": 3,
         "saves": 2
       },
       "events": [
@@ -364,6 +367,12 @@
           "type": "goal",
           "teamId": "5335",
           "playerName": "Yassir Zabiri"
+        },
+        {
+          "minute": "65'",
+          "type": "red-card",
+          "teamId": "84",
+          "playerName": "Adam Aznou"
         }
       ]
     }
@@ -371,24 +380,24 @@
   "SA": {
     "558532": {
       "home": {
-        "possession": 82,
+        "possession": 78,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 66,
-        "duelsWon": 4,
+        "accuratePasses": 111,
+        "duelsWon": 5,
         "boxTouches": 2,
-        "fouls": 0,
-        "corners": 0,
+        "fouls": 1,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 18,
+        "possession": 22,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 11,
-        "duelsWon": 2,
-        "fouls": 2,
+        "accuratePasses": 26,
+        "duelsWon": 7,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -396,26 +405,26 @@
     },
     "558534": {
       "home": {
-        "possession": 39,
-        "xg": 0.31,
-        "shots": 4,
+        "possession": 37,
+        "xg": 0.43,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 61,
-        "duelsWon": 10,
-        "boxTouches": 5,
-        "fouls": 2,
+        "accuratePasses": 72,
+        "duelsWon": 11,
+        "boxTouches": 7,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 61,
-        "xg": 0.13,
-        "shots": 3,
+        "possession": 63,
+        "xg": 0.16,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 99,
-        "duelsWon": 15,
-        "boxTouches": 11,
+        "accuratePasses": 127,
+        "duelsWon": 17,
+        "boxTouches": 12,
         "fouls": 3,
         "corners": 2,
         "offsides": 1,
