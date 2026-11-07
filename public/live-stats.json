@@ -1,1 +1,119 @@
-{}
+{
+  "PL": {
+    "560632": {
+      "home": {
+        "possession": 34,
+        "xg": 0,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 13,
+        "duelsWon": 4,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 66,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 34,
+        "duelsWon": 0,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    }
+  },
+  "ELC": {
+    "561933": {
+      "home": {
+        "possession": 39,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 13,
+        "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 61,
+        "xg": 0.02,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 21,
+        "duelsWon": 5,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "561938": {
+      "home": {
+        "possession": 65,
+        "xg": 0.04,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 12,
+        "duelsWon": 2,
+        "boxTouches": 2,
+        "fouls": 0,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 35,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 6,
+        "duelsWon": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "6'",
+          "type": "goal",
+          "teamId": "325",
+          "playerName": "Tyrese Shade"
+        }
+      ]
+    },
+    "561939": {
+      "home": {
+        "possession": 33,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 7,
+        "duelsWon": 3,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 67,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 27,
+        "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    }
+  }
+}
