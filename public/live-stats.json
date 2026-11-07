@@ -194,6 +194,41 @@
         }
       ],
       "final": true
+    },
+    "560641": {
+      "home": {
+        "possession": 28,
+        "xg": 0.26,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 11,
+        "duelsWon": 2,
+        "boxTouches": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 72,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 41,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "6'",
+          "type": "goal",
+          "teamId": "351",
+          "playerName": "Jair Cunha"
+        }
+      ]
     }
   },
   "ELC": {
@@ -1078,27 +1113,27 @@
   "PD": {
     "564739": {
       "home": {
-        "possession": 43,
+        "possession": 56,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 5,
-        "duelsWon": 1,
+        "accuratePasses": 38,
+        "duelsWon": 6,
         "fouls": 0,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 57,
-        "xg": 0.03,
-        "shots": 0,
+        "possession": 44,
+        "xg": 0.07,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 8,
-        "duelsWon": 1,
+        "accuratePasses": 24,
+        "duelsWon": 6,
         "boxTouches": 2,
-        "fouls": 0,
-        "corners": 0,
+        "fouls": 1,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       }
@@ -1302,27 +1337,39 @@
     },
     "565849": {
       "home": {
-        "possession": 28,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 5,
-        "duelsWon": 2,
-        "fouls": 0,
+        "possession": 53,
+        "xg": 0.1,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 35,
+        "duelsWon": 3,
+        "boxTouches": 2,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 72,
+        "possession": 47,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 10,
-        "duelsWon": 0,
+        "accuratePasses": 28,
+        "duelsWon": 2,
         "fouls": 1,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "7'",
+          "type": "goal",
+          "teamId": "10",
+          "playerName": "Maximilian Mittelstädt",
+          "assist": "Grischa Prömel"
+        }
+      ]
     },
     "565850": {
       "home": {
@@ -1684,28 +1731,28 @@
     },
     "558535": {
       "home": {
-        "possession": 36,
+        "possession": 34,
         "xg": 0.33,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 50,
-        "duelsWon": 15,
+        "accuratePasses": 52,
+        "duelsWon": 17,
         "boxTouches": 5,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 64,
-        "xg": 0.29,
-        "shots": 10,
-        "shotsOnTarget": 2,
-        "accuratePasses": 115,
-        "duelsWon": 13,
-        "boxTouches": 13,
+        "possession": 66,
+        "xg": 0.6,
+        "shots": 13,
+        "shotsOnTarget": 3,
+        "accuratePasses": 133,
+        "duelsWon": 16,
+        "boxTouches": 20,
         "fouls": 4,
-        "corners": 4,
+        "corners": 6,
         "offsides": 0,
         "saves": 0
       },
