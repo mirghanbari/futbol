@@ -1706,24 +1706,27 @@
   "SA": {
     "558531": {
       "home": {
-        "possession": 38,
+        "possession": 68,
+        "xg": 0.05,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 3,
-        "duelsWon": 1,
-        "fouls": 0,
+        "accuratePasses": 49,
+        "duelsWon": 4,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 62,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 5,
-        "duelsWon": 0,
+        "possession": 32,
+        "xg": 0.16,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 18,
+        "duelsWon": 3,
+        "boxTouches": 3,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       }
@@ -1956,12 +1959,12 @@
         "xg": 0.71,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 292,
-        "duelsWon": 42,
+        "accuratePasses": 316,
+        "duelsWon": 45,
         "boxTouches": 9,
-        "fouls": 21,
+        "fouls": 24,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 2
       },
       "away": {
@@ -1969,10 +1972,10 @@
         "xg": 0.92,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 642,
-        "duelsWon": 46,
+        "accuratePasses": 657,
+        "duelsWon": 50,
         "boxTouches": 18,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 5,
         "offsides": 0,
         "saves": 2
@@ -2006,12 +2009,6 @@
         {
           "minute": "80'",
           "type": "yellow-card",
-          "teamId": "519",
-          "playerName": "Will Still"
-        },
-        {
-          "minute": "88'",
-          "type": "red-card",
           "teamId": "519",
           "playerName": "Will Still"
         },
@@ -2183,30 +2180,30 @@
   "PPL": {
     "567347": {
       "home": {
-        "possession": 57,
-        "xg": 0.58,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 296,
-        "duelsWon": 51,
-        "boxTouches": 15,
-        "fouls": 14,
+        "possession": 56,
+        "xg": 0.65,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 310,
+        "duelsWon": 56,
+        "boxTouches": 18,
+        "fouls": 15,
         "corners": 9,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 43,
-        "xg": 0.86,
+        "possession": 44,
+        "xg": 0.9,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 219,
-        "duelsWon": 52,
+        "accuratePasses": 233,
+        "duelsWon": 53,
         "boxTouches": 13,
         "fouls": 12,
         "corners": 2,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
