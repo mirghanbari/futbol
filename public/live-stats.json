@@ -1224,6 +1224,30 @@
       ],
       "final": true
     },
+    "564741": {
+      "home": {
+        "possession": 100,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 1,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 0,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "564744": {
       "home": {
         "possession": 46,
@@ -1706,27 +1730,27 @@
   "SA": {
     "558531": {
       "home": {
-        "possession": 70,
-        "xg": 0.06,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 83,
-        "duelsWon": 5,
-        "boxTouches": 3,
+        "possession": 76,
+        "xg": 0.18,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 137,
+        "duelsWon": 7,
+        "boxTouches": 9,
         "fouls": 2,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 30,
+        "possession": 24,
         "xg": 0.16,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 29,
+        "accuratePasses": 34,
         "duelsWon": 6,
         "boxTouches": 3,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -2089,6 +2113,30 @@
       ],
       "final": true
     },
+    "558843": {
+      "home": {
+        "possession": 71,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 15,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 29,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 4,
+        "duelsWon": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "558844": {
       "home": {
         "possession": 47,
@@ -2187,7 +2235,7 @@
         "shots": 15,
         "shotsOnTarget": 5,
         "accuratePasses": 331,
-        "duelsWon": 59,
+        "duelsWon": 60,
         "boxTouches": 18,
         "fouls": 16,
         "corners": 9,
@@ -2196,11 +2244,11 @@
       },
       "away": {
         "possession": 44,
-        "xg": 0.92,
+        "xg": 0.95,
         "shots": 11,
         "shotsOnTarget": 4,
         "accuratePasses": 252,
-        "duelsWon": 59,
+        "duelsWon": 60,
         "boxTouches": 14,
         "fouls": 13,
         "corners": 2,
@@ -2246,7 +2294,8 @@
           "playerName": "Ian Luccas",
           "assist": "Chiquinho"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
