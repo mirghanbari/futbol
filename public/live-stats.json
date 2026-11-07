@@ -3,13 +3,13 @@
     "560632": {
       "home": {
         "possession": 43,
-        "xg": 1.47,
-        "shots": 15,
-        "shotsOnTarget": 3,
-        "accuratePasses": 229,
-        "duelsWon": 55,
-        "boxTouches": 18,
-        "fouls": 9,
+        "xg": 2,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 239,
+        "duelsWon": 56,
+        "boxTouches": 21,
+        "fouls": 10,
         "corners": 6,
         "offsides": 2,
         "saves": 2
@@ -19,8 +19,8 @@
         "xg": 0.28,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 335,
-        "duelsWon": 35,
+        "accuratePasses": 350,
+        "duelsWon": 38,
         "boxTouches": 12,
         "fouls": 14,
         "corners": 3,
@@ -56,7 +56,13 @@
           "minute": "79'",
           "type": "goal",
           "teamId": "341",
-          "playerName": "<TBD>"
+          "playerName": "Noah Okafor"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "341",
+          "playerName": "Noah Okafor"
         }
       ]
     }
@@ -68,23 +74,23 @@
         "xg": 1.13,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 247,
-        "duelsWon": 51,
+        "accuratePasses": 261,
+        "duelsWon": 58,
         "boxTouches": 14,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 2,
         "offsides": 0,
         "saves": 4
       },
       "away": {
         "possession": 60,
-        "xg": 1.31,
-        "shots": 19,
+        "xg": 1.41,
+        "shots": 21,
         "shotsOnTarget": 5,
-        "accuratePasses": 409,
-        "duelsWon": 50,
-        "boxTouches": 24,
-        "fouls": 11,
+        "accuratePasses": 441,
+        "duelsWon": 54,
+        "boxTouches": 27,
+        "fouls": 12,
         "corners": 7,
         "offsides": 0,
         "saves": 2
@@ -127,32 +133,38 @@
           "type": "yellow-card",
           "teamId": "76",
           "playerName": "André"
+        },
+        {
+          "minute": "86'",
+          "type": "yellow-card",
+          "teamId": "404",
+          "playerName": "Matty James"
         }
       ]
     },
     "561938": {
       "home": {
-        "possession": 52,
+        "possession": 53,
         "xg": 0.66,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 233,
-        "duelsWon": 38,
-        "boxTouches": 18,
+        "accuratePasses": 235,
+        "duelsWon": 43,
+        "boxTouches": 19,
         "fouls": 11,
-        "corners": 6,
+        "corners": 7,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 48,
+        "possession": 47,
         "xg": 0.86,
         "shots": 4,
         "shotsOnTarget": 3,
-        "accuratePasses": 217,
-        "duelsWon": 49,
+        "accuratePasses": 218,
+        "duelsWon": 50,
         "boxTouches": 6,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 0,
         "offsides": 5,
         "saves": 2
@@ -211,26 +223,26 @@
     },
     "561939": {
       "home": {
-        "possession": 55,
-        "xg": 1.37,
-        "shots": 13,
+        "possession": 54,
+        "xg": 1.55,
+        "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 380,
-        "duelsWon": 41,
-        "boxTouches": 22,
-        "fouls": 10,
-        "corners": 7,
+        "accuratePasses": 396,
+        "duelsWon": 44,
+        "boxTouches": 25,
+        "fouls": 11,
+        "corners": 8,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 45,
-        "xg": 2.42,
-        "shots": 15,
+        "possession": 46,
+        "xg": 2.97,
+        "shots": 17,
         "shotsOnTarget": 7,
-        "accuratePasses": 299,
-        "duelsWon": 40,
-        "boxTouches": 21,
+        "accuratePasses": 330,
+        "duelsWon": 41,
+        "boxTouches": 22,
         "fouls": 4,
         "corners": 3,
         "offsides": 0,
@@ -276,26 +288,26 @@
   "PD": {
     "564744": {
       "home": {
-        "possession": 43,
+        "possession": 41,
         "xg": 0.9,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 208,
-        "duelsWon": 32,
+        "accuratePasses": 214,
+        "duelsWon": 34,
         "boxTouches": 13,
-        "fouls": 6,
+        "fouls": 8,
         "corners": 2,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 57,
-        "xg": 0.5,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 281,
-        "duelsWon": 30,
-        "boxTouches": 6,
+        "possession": 59,
+        "xg": 0.73,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 328,
+        "duelsWon": 32,
+        "boxTouches": 13,
         "fouls": 3,
         "corners": 1,
         "offsides": 1,
@@ -331,7 +343,8 @@
           "minute": "50'",
           "type": "goal",
           "teamId": "5335",
-          "playerName": "<TBD>"
+          "playerName": "Iker Luque",
+          "assist": "Pablo Ramón"
         }
       ]
     }
@@ -339,30 +352,39 @@
   "SA": {
     "558534": {
       "home": {
-        "possession": 35,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 20,
-        "duelsWon": 5,
+        "possession": 37,
+        "xg": 0.13,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 43,
+        "duelsWon": 8,
+        "boxTouches": 2,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 65,
+        "possession": 63,
         "xg": 0.04,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 42,
-        "duelsWon": 6,
-        "boxTouches": 9,
-        "fouls": 2,
+        "accuratePasses": 74,
+        "duelsWon": 10,
+        "boxTouches": 10,
+        "fouls": 3,
         "corners": 1,
         "offsides": 1,
-        "saves": 0
-      }
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "13'",
+          "type": "yellow-card",
+          "teamId": "470",
+          "playerName": "Gabriele Bracaglia"
+        }
+      ]
     }
   }
 }
