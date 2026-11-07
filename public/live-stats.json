@@ -2,30 +2,30 @@
   "PL": {
     "560632": {
       "home": {
-        "possession": 41,
-        "xg": 1.5,
-        "shots": 14,
-        "shotsOnTarget": 2,
-        "accuratePasses": 211,
-        "duelsWon": 50,
-        "boxTouches": 14,
+        "possession": 43,
+        "xg": 1.47,
+        "shots": 15,
+        "shotsOnTarget": 3,
+        "accuratePasses": 229,
+        "duelsWon": 55,
+        "boxTouches": 18,
         "fouls": 9,
-        "corners": 4,
+        "corners": 6,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 59,
+        "possession": 57,
         "xg": 0.28,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 329,
-        "duelsWon": 30,
+        "accuratePasses": 335,
+        "duelsWon": 35,
         "boxTouches": 12,
         "fouls": 14,
         "corners": 3,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -51,6 +51,12 @@
           "type": "yellow-card",
           "teamId": "73",
           "playerName": "Pedro Porro"
+        },
+        {
+          "minute": "79'",
+          "type": "goal",
+          "teamId": "341",
+          "playerName": "<TBD>"
         }
       ]
     }
@@ -58,28 +64,28 @@
   "ELC": {
     "561933": {
       "home": {
-        "possession": 41,
+        "possession": 40,
         "xg": 1.13,
         "shots": 6,
         "shotsOnTarget": 3,
         "accuratePasses": 247,
-        "duelsWon": 49,
+        "duelsWon": 51,
         "boxTouches": 14,
         "fouls": 10,
         "corners": 2,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "away": {
-        "possession": 59,
-        "xg": 1.2,
-        "shots": 17,
-        "shotsOnTarget": 4,
-        "accuratePasses": 380,
-        "duelsWon": 48,
-        "boxTouches": 21,
+        "possession": 60,
+        "xg": 1.31,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 409,
+        "duelsWon": 50,
+        "boxTouches": 24,
         "fouls": 11,
-        "corners": 6,
+        "corners": 7,
         "offsides": 0,
         "saves": 2
       },
@@ -126,25 +132,25 @@
     },
     "561938": {
       "home": {
-        "possession": 50,
-        "xg": 0.44,
-        "shots": 6,
+        "possession": 52,
+        "xg": 0.66,
+        "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 201,
-        "duelsWon": 35,
-        "boxTouches": 16,
-        "fouls": 10,
+        "accuratePasses": 233,
+        "duelsWon": 38,
+        "boxTouches": 18,
+        "fouls": 11,
         "corners": 6,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 50,
-        "xg": 0.23,
+        "possession": 48,
+        "xg": 0.86,
         "shots": 4,
         "shotsOnTarget": 3,
-        "accuratePasses": 214,
-        "duelsWon": 47,
+        "accuratePasses": 217,
+        "duelsWon": 49,
         "boxTouches": 6,
         "fouls": 10,
         "corners": 0,
@@ -209,22 +215,22 @@
         "xg": 1.37,
         "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 363,
-        "duelsWon": 39,
-        "boxTouches": 21,
-        "fouls": 9,
+        "accuratePasses": 380,
+        "duelsWon": 41,
+        "boxTouches": 22,
+        "fouls": 10,
         "corners": 7,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
         "possession": 45,
-        "xg": 1.63,
-        "shots": 13,
-        "shotsOnTarget": 5,
-        "accuratePasses": 285,
-        "duelsWon": 37,
-        "boxTouches": 18,
+        "xg": 2.42,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 299,
+        "duelsWon": 40,
+        "boxTouches": 21,
         "fouls": 4,
         "corners": 3,
         "offsides": 0,
@@ -256,6 +262,13 @@
           "teamId": "68",
           "playerName": "Jovon Makama",
           "assist": "Anthony Musaba"
+        },
+        {
+          "minute": "80'",
+          "type": "goal",
+          "teamId": "68",
+          "playerName": "Mathias Kvistgaarden",
+          "penalty": true
         }
       ]
     }
@@ -264,12 +277,12 @@
     "564744": {
       "home": {
         "possession": 43,
-        "xg": 0.61,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 183,
-        "duelsWon": 29,
-        "boxTouches": 12,
+        "xg": 0.9,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 208,
+        "duelsWon": 32,
+        "boxTouches": 13,
         "fouls": 6,
         "corners": 2,
         "offsides": 1,
@@ -277,16 +290,16 @@
       },
       "away": {
         "possession": 57,
-        "xg": 0.28,
-        "shots": 5,
+        "xg": 0.5,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 248,
-        "duelsWon": 26,
+        "accuratePasses": 281,
+        "duelsWon": 30,
         "boxTouches": 6,
         "fouls": 3,
         "corners": 1,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -313,6 +326,12 @@
           "type": "yellow-card",
           "teamId": "84",
           "playerName": "Einar Galilea"
+        },
+        {
+          "minute": "50'",
+          "type": "goal",
+          "teamId": "5335",
+          "playerName": "<TBD>"
         }
       ]
     }
@@ -324,9 +343,9 @@
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 4,
-        "duelsWon": 3,
-        "fouls": 0,
+        "accuratePasses": 20,
+        "duelsWon": 5,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -336,10 +355,10 @@
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 8,
-        "duelsWon": 4,
-        "boxTouches": 6,
-        "fouls": 1,
+        "accuratePasses": 42,
+        "duelsWon": 6,
+        "boxTouches": 9,
+        "fouls": 2,
         "corners": 1,
         "offsides": 1,
         "saves": 0
