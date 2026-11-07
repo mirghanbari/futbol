@@ -1230,22 +1230,22 @@
         "xg": 0.16,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 202,
-        "duelsWon": 29,
+        "accuratePasses": 223,
+        "duelsWon": 32,
         "boxTouches": 5,
         "fouls": 26,
         "corners": 2,
         "offsides": 3,
-        "saves": 7
+        "saves": 8
       },
       "away": {
         "possession": 68,
-        "xg": 1.99,
-        "shots": 17,
-        "shotsOnTarget": 10,
-        "accuratePasses": 513,
-        "duelsWon": 56,
-        "boxTouches": 30,
+        "xg": 2.2,
+        "shots": 19,
+        "shotsOnTarget": 11,
+        "accuratePasses": 563,
+        "duelsWon": 58,
+        "boxTouches": 32,
         "fouls": 6,
         "corners": 5,
         "offsides": 5,
@@ -1304,28 +1304,29 @@
         {
           "minute": "80'",
           "type": "yellow-card",
-          "teamId": "86",
-          "playerName": "Yan Diomande"
-        },
-        {
-          "minute": "80'",
-          "type": "yellow-card",
           "teamId": "95",
           "playerName": "Luis Rioja"
         },
         {
-          "minute": "81'",
+          "minute": "80'",
           "type": "yellow-card",
           "teamId": "86",
-          "playerName": "Kylian Mbappé"
+          "playerName": "Yan Diomande"
         },
         {
           "minute": "81'",
           "type": "yellow-card",
           "teamId": "95",
           "playerName": "Pepelu"
+        },
+        {
+          "minute": "81'",
+          "type": "yellow-card",
+          "teamId": "86",
+          "playerName": "Kylian Mbappé"
         }
-      ]
+      ],
+      "final": true
     },
     "564744": {
       "home": {
@@ -2082,12 +2083,12 @@
   "FL1": {
     "559635": {
       "home": {
-        "possession": 74,
+        "possession": 73,
         "xg": 1.6,
         "shots": 15,
         "shotsOnTarget": 7,
-        "accuratePasses": 806,
-        "duelsWon": 30,
+        "accuratePasses": 836,
+        "duelsWon": 31,
         "boxTouches": 28,
         "fouls": 6,
         "corners": 5,
@@ -2095,12 +2096,12 @@
         "saves": 3
       },
       "away": {
-        "possession": 26,
+        "possession": 27,
         "xg": 0.68,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 242,
-        "duelsWon": 29,
+        "accuratePasses": 272,
+        "duelsWon": 31,
         "boxTouches": 11,
         "fouls": 7,
         "corners": 1,
@@ -2134,7 +2135,8 @@
           "teamId": "531",
           "playerName": "Antoine Mille"
         }
-      ]
+      ],
+      "final": true
     },
     "559637": {
       "home": {
@@ -2273,25 +2275,25 @@
     },
     "558843": {
       "home": {
-        "possession": 48,
+        "possession": 49,
         "xg": 0.8,
         "shots": 14,
         "shotsOnTarget": 2,
-        "accuratePasses": 348,
+        "accuratePasses": 355,
         "duelsWon": 47,
-        "boxTouches": 26,
+        "boxTouches": 27,
         "fouls": 6,
         "corners": 7,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 52,
-        "xg": 0.52,
-        "shots": 5,
+        "possession": 51,
+        "xg": 0.59,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 395,
-        "duelsWon": 38,
+        "accuratePasses": 396,
+        "duelsWon": 39,
         "boxTouches": 13,
         "fouls": 7,
         "corners": 0,
@@ -2318,7 +2320,8 @@
           "teamId": "670",
           "playerName": "Alireza Jahanbakhsh"
         }
-      ]
+      ],
+      "final": true
     },
     "558844": {
       "home": {
@@ -2482,27 +2485,27 @@
     },
     "567350": {
       "home": {
-        "possession": 73,
-        "xg": 1.97,
-        "shots": 17,
+        "possession": 72,
+        "xg": 1.98,
+        "shots": 18,
         "shotsOnTarget": 5,
-        "accuratePasses": 431,
-        "duelsWon": 25,
-        "boxTouches": 33,
-        "fouls": 6,
+        "accuratePasses": 461,
+        "duelsWon": 26,
+        "boxTouches": 34,
+        "fouls": 7,
         "corners": 8,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 27,
+        "possession": 28,
         "xg": 0.26,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 123,
-        "duelsWon": 34,
+        "accuratePasses": 139,
+        "duelsWon": 35,
         "boxTouches": 8,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 3,
         "offsides": 2,
         "saves": 3
