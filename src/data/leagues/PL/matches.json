@@ -5114,14 +5114,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-07T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "351",
     "awayTeamId": "65",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 22,
+        "xg": 1,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 138,
+        "duelsWon": 42,
+        "boxTouches": 14,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 78,
+        "xg": 1.59,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 665,
+        "duelsWon": 52,
+        "boxTouches": 33,
+        "fouls": 7,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "The City Ground, Nottingham",
     "broadcasts": [

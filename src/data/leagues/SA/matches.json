@@ -5414,14 +5414,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-07T17:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "112",
     "awayTeamId": "103",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 32,
+        "xg": 1.44,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 157,
+        "duelsWon": 52,
+        "boxTouches": 17,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 8
+      },
+      "away": {
+        "possession": 68,
+        "xg": 3.58,
+        "shots": 33,
+        "shotsOnTarget": 10,
+        "accuratePasses": 431,
+        "duelsWon": 47,
+        "boxTouches": 61,
+        "fouls": 13,
+        "corners": 15,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Ennio Tardini, Parma",
     "broadcasts": [
@@ -5438,11 +5466,11 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-07T19:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "100",
     "awayTeamId": "471",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0

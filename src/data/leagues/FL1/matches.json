@@ -3964,14 +3964,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-07T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "519",
     "awayTeamId": "1045",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 35,
+        "xg": 0.71,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 325,
+        "duelsWon": 49,
+        "boxTouches": 9,
+        "fouls": 24,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 65,
+        "xg": 0.92,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 656,
+        "duelsWon": 48,
+        "boxTouches": 18,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Stade de l'Abbé-Deschamps, Auxerre",
     "broadcasts": [
@@ -3988,11 +4016,11 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-07T20:05:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "524",
     "awayTeamId": "531",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0

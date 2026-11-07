@@ -4210,14 +4210,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-07T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7822",
     "awayTeamId": "6618",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 0.72,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 331,
+        "duelsWon": 62,
+        "boxTouches": 17,
+        "fouls": 16,
+        "corners": 9,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.95,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 256,
+        "duelsWon": 60,
+        "boxTouches": 14,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "Complexo Desportivo FC Alverca, Alverca do Ribatejo"
   },
@@ -4228,7 +4256,7 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-07T20:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "498",
     "awayTeamId": "583",
     "homeTeam": {
