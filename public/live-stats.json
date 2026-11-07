@@ -1633,34 +1633,34 @@
     },
     "558535": {
       "home": {
-        "possession": 45,
+        "possession": 41,
         "xg": 0.12,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 34,
-        "duelsWon": 8,
+        "accuratePasses": 39,
+        "duelsWon": 13,
         "boxTouches": 2,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 55,
-        "xg": 0.09,
-        "shots": 3,
+        "possession": 59,
+        "xg": 0.2,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 52,
-        "duelsWon": 6,
-        "boxTouches": 5,
-        "fouls": 1,
-        "corners": 2,
+        "accuratePasses": 69,
+        "duelsWon": 11,
+        "boxTouches": 8,
+        "fouls": 4,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
       "events": [
         {
-          "minute": "8'",
+          "minute": "9'",
           "type": "red-card",
           "teamId": "112",
           "playerName": "Abdoulaye Ndiaye"
@@ -1670,6 +1670,12 @@
           "type": "yellow-card",
           "teamId": "112",
           "playerName": "David Romero"
+        },
+        {
+          "minute": "21'",
+          "type": "yellow-card",
+          "teamId": "103",
+          "playerName": "Nicolò Casale"
         }
       ]
     }
@@ -1678,14 +1684,14 @@
     "558844": {
       "home": {
         "possession": 47,
-        "xg": 1.67,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 292,
-        "duelsWon": 42,
-        "boxTouches": 16,
+        "xg": 1.72,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 297,
+        "duelsWon": 43,
+        "boxTouches": 20,
         "fouls": 17,
-        "corners": 3,
+        "corners": 4,
         "offsides": 2,
         "saves": 6
       },
@@ -1695,12 +1701,12 @@
         "shots": 12,
         "shotsOnTarget": 8,
         "accuratePasses": 362,
-        "duelsWon": 48,
+        "duelsWon": 50,
         "boxTouches": 24,
         "fouls": 14,
         "corners": 3,
-        "offsides": 2,
-        "saves": 1
+        "offsides": 3,
+        "saves": 2
       },
       "events": [
         {
