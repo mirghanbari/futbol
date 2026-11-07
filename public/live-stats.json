@@ -201,24 +201,24 @@
         "xg": 0.78,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 84,
-        "duelsWon": 26,
-        "boxTouches": 10,
-        "fouls": 5,
+        "accuratePasses": 93,
+        "duelsWon": 30,
+        "boxTouches": 11,
+        "fouls": 6,
         "corners": 2,
         "offsides": 2,
         "saves": 2
       },
       "away": {
         "possession": 76,
-        "xg": 1.06,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 338,
-        "duelsWon": 28,
-        "boxTouches": 13,
-        "fouls": 5,
-        "corners": 4,
+        "xg": 1.37,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 386,
+        "duelsWon": 33,
+        "boxTouches": 18,
+        "fouls": 6,
+        "corners": 5,
         "offsides": 0,
         "saves": 2
       },
@@ -235,6 +235,12 @@
           "teamId": "351",
           "playerName": "Liam Delap",
           "assist": "Xaver Schlager"
+        },
+        {
+          "minute": "52'",
+          "type": "goal",
+          "teamId": "65",
+          "playerName": "Rayan Cherki"
         }
       ]
     }
@@ -1121,26 +1127,26 @@
   "PD": {
     "564739": {
       "home": {
-        "possession": 41,
+        "possession": 40,
         "xg": 0.25,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 156,
+        "accuratePasses": 174,
         "duelsWon": 38,
         "boxTouches": 10,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 2,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 59,
-        "xg": 0.25,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 264,
-        "duelsWon": 30,
-        "boxTouches": 11,
+        "possession": 60,
+        "xg": 0.44,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 304,
+        "duelsWon": 32,
+        "boxTouches": 13,
         "fouls": 7,
         "corners": 2,
         "offsides": 0,
@@ -1152,6 +1158,12 @@
           "type": "yellow-card",
           "teamId": "79",
           "playerName": "Jon Moncayola"
+        },
+        {
+          "minute": "54'",
+          "type": "yellow-card",
+          "teamId": "79",
+          "playerName": "Ante Budimir"
         }
       ]
     },
@@ -1354,27 +1366,27 @@
     },
     "565849": {
       "home": {
-        "possession": 48,
+        "possession": 47,
         "xg": 0.38,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 247,
-        "duelsWon": 34,
-        "boxTouches": 12,
+        "accuratePasses": 259,
+        "duelsWon": 37,
+        "boxTouches": 14,
         "fouls": 5,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 52,
-        "xg": 0.5,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 269,
-        "duelsWon": 28,
-        "boxTouches": 5,
-        "fouls": 6,
+        "possession": 53,
+        "xg": 0.68,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 292,
+        "duelsWon": 32,
+        "boxTouches": 10,
+        "fouls": 7,
         "corners": 1,
         "offsides": 1,
         "saves": 2
@@ -1398,6 +1410,12 @@
           "type": "yellow-card",
           "teamId": "12",
           "playerName": "Olivier Deman"
+        },
+        {
+          "minute": "53'",
+          "type": "yellow-card",
+          "teamId": "12",
+          "playerName": "Marco Grüll"
         }
       ]
     },
@@ -1761,27 +1779,27 @@
     },
     "558535": {
       "home": {
-        "possession": 28,
-        "xg": 0.84,
+        "possession": 29,
+        "xg": 1.4,
         "shots": 9,
-        "shotsOnTarget": 1,
-        "accuratePasses": 117,
-        "duelsWon": 36,
-        "boxTouches": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 124,
+        "duelsWon": 38,
+        "boxTouches": 12,
         "fouls": 7,
         "corners": 0,
         "offsides": 0,
         "saves": 7
       },
       "away": {
-        "possession": 72,
+        "possession": 71,
         "xg": 3.64,
         "shots": 31,
         "shotsOnTarget": 9,
-        "accuratePasses": 378,
-        "duelsWon": 34,
+        "accuratePasses": 399,
+        "duelsWon": 36,
         "boxTouches": 57,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 13,
         "offsides": 1,
         "saves": 1
@@ -1831,6 +1849,19 @@
           "type": "yellow-card",
           "teamId": "112",
           "playerName": "Enrico Del Prato"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "103",
+          "playerName": "Martin Vitík"
+        },
+        {
+          "minute": "81'",
+          "type": "goal",
+          "teamId": "112",
+          "playerName": "Vincent Sierro",
+          "penalty": true
         }
       ]
     }
@@ -1838,27 +1869,27 @@
   "FL1": {
     "559637": {
       "home": {
-        "possession": 31,
+        "possession": 30,
         "xg": 0.08,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 121,
-        "duelsWon": 22,
-        "boxTouches": 6,
-        "fouls": 7,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 122,
+        "duelsWon": 23,
+        "boxTouches": 4,
+        "fouls": 8,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 69,
-        "xg": 0.04,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 317,
-        "duelsWon": 16,
-        "boxTouches": 5,
-        "fouls": 7,
+        "possession": 70,
+        "xg": 0.12,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 344,
+        "duelsWon": 17,
+        "boxTouches": 7,
+        "fouls": 8,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -1881,13 +1912,6 @@
           "type": "yellow-card",
           "teamId": "519",
           "playerName": "Sinaly Diomandé"
-        },
-        {
-          "minute": "39'",
-          "type": "goal",
-          "teamId": "519",
-          "playerName": "Cameron Archer",
-          "assist": "Romain Faivre"
         }
       ]
     }
@@ -2024,25 +2048,25 @@
   "PPL": {
     "567347": {
       "home": {
-        "possession": 58,
-        "xg": 0.45,
-        "shots": 8,
+        "possession": 59,
+        "xg": 0.33,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 144,
-        "duelsWon": 22,
+        "accuratePasses": 155,
+        "duelsWon": 23,
         "boxTouches": 8,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 42,
-        "xg": 0.3,
+        "possession": 41,
+        "xg": 0.69,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 98,
-        "duelsWon": 22,
+        "accuratePasses": 100,
+        "duelsWon": 26,
         "boxTouches": 6,
         "fouls": 5,
         "corners": 1,
@@ -2068,6 +2092,12 @@
           "teamId": "6618",
           "playerName": "Selvi Clua",
           "assist": "Henrique Araújo"
+        },
+        {
+          "minute": "40'",
+          "type": "yellow-card",
+          "teamId": "7822",
+          "playerName": "Davy Gui"
         }
       ]
     }
