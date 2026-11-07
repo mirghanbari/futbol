@@ -2485,29 +2485,29 @@
     },
     "567350": {
       "home": {
-        "possession": 72,
+        "possession": 71,
         "xg": 2,
         "shots": 19,
         "shotsOnTarget": 5,
-        "accuratePasses": 573,
-        "duelsWon": 46,
-        "boxTouches": 34,
+        "accuratePasses": 587,
+        "duelsWon": 47,
+        "boxTouches": 35,
         "fouls": 10,
         "corners": 8,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 28,
+        "possession": 29,
         "xg": 0.49,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 182,
-        "duelsWon": 43,
+        "accuratePasses": 196,
+        "duelsWon": 44,
         "boxTouches": 15,
         "fouls": 8,
         "corners": 4,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 3
       },
       "events": [
@@ -2518,7 +2518,8 @@
           "playerName": "Luis Suárez",
           "assist": "Issa Doumbia"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
