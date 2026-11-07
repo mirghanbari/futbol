@@ -1704,6 +1704,30 @@
     }
   },
   "SA": {
+    "558531": {
+      "home": {
+        "possession": 38,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 3,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 62,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 5,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "558532": {
       "home": {
         "possession": 64,
@@ -1928,28 +1952,28 @@
   "FL1": {
     "559637": {
       "home": {
-        "possession": 33,
+        "possession": 34,
         "xg": 0.71,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 270,
-        "duelsWon": 38,
+        "accuratePasses": 292,
+        "duelsWon": 42,
         "boxTouches": 9,
-        "fouls": 18,
+        "fouls": 21,
         "corners": 1,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 67,
-        "xg": 0.74,
-        "shots": 9,
+        "possession": 66,
+        "xg": 0.92,
+        "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 622,
-        "duelsWon": 42,
-        "boxTouches": 17,
-        "fouls": 12,
-        "corners": 4,
+        "accuratePasses": 642,
+        "duelsWon": 46,
+        "boxTouches": 18,
+        "fouls": 13,
+        "corners": 5,
         "offsides": 0,
         "saves": 2
       },
@@ -1984,6 +2008,18 @@
           "type": "yellow-card",
           "teamId": "519",
           "playerName": "Will Still"
+        },
+        {
+          "minute": "88'",
+          "type": "red-card",
+          "teamId": "519",
+          "playerName": "Will Still"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "519",
+          "playerName": "Kévin Danois"
         }
       ]
     }
@@ -2148,26 +2184,26 @@
     "567347": {
       "home": {
         "possession": 57,
-        "xg": 0.56,
-        "shots": 11,
+        "xg": 0.58,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 285,
-        "duelsWon": 47,
+        "accuratePasses": 296,
+        "duelsWon": 51,
         "boxTouches": 15,
-        "fouls": 13,
-        "corners": 8,
+        "fouls": 14,
+        "corners": 9,
         "offsides": 1,
         "saves": 3
       },
       "away": {
         "possession": 43,
         "xg": 0.86,
-        "shots": 8,
+        "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 206,
-        "duelsWon": 48,
+        "accuratePasses": 219,
+        "duelsWon": 52,
         "boxTouches": 13,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 2,
         "offsides": 0,
         "saves": 3
