@@ -4946,14 +4946,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-07T12:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "341",
     "awayTeamId": "73",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 39,
+        "xg": 2.02,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 246,
+        "duelsWon": 59,
+        "boxTouches": 21,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 61,
+        "xg": 0.77,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 420,
+        "duelsWon": 43,
+        "boxTouches": 18,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "Elland Road, Leeds",
     "broadcasts": [
@@ -4974,14 +5002,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "57",
     "awayTeamId": "322",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 67,
+        "xg": 1.08,
+        "shots": 21,
+        "shotsOnTarget": 10,
+        "accuratePasses": 490,
+        "duelsWon": 52,
+        "boxTouches": 44,
+        "fouls": 6,
+        "corners": 7,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 33,
+        "xg": 0.34,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 190,
+        "duelsWon": 33,
+        "boxTouches": 17,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 9
+      }
     },
     "venue": "Emirates Stadium, London",
     "broadcasts": [
@@ -5002,14 +5058,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "63",
     "awayTeamId": "67",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 0.62,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 426,
+        "duelsWon": 44,
+        "boxTouches": 27,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 4
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.03,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 294,
+        "duelsWon": 45,
+        "boxTouches": 19,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Craven Cottage, London",
     "broadcasts": [

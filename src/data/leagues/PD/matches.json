@@ -6029,14 +6029,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-07T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "84",
     "awayTeamId": "5335",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 2,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 360,
+        "duelsWon": 59,
+        "boxTouches": 32,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 54,
+        "xg": 2.39,
+        "shots": 21,
+        "shotsOnTarget": 7,
+        "accuratePasses": 431,
+        "duelsWon": 58,
+        "boxTouches": 27,
+        "fouls": 5,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 7
+      }
     },
     "venue": "La Rosaleda, Malaga",
     "broadcasts": [
@@ -6057,7 +6085,7 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-07T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "80",
     "awayTeamId": "560",
     "homeTeam": {
@@ -6065,6 +6093,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 0.68,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 426,
+        "duelsWon": 40,
+        "boxTouches": 33,
+        "fouls": 17,
+        "corners": 9,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 36,
+        "xg": 0.3,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 221,
+        "duelsWon": 57,
+        "boxTouches": 9,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 4
+      }
     }
   },
   {

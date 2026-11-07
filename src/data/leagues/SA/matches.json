@@ -5310,14 +5310,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-07T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "586",
     "awayTeamId": "5890",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 0.77,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 553,
+        "duelsWon": 65,
+        "boxTouches": 14,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 36,
+        "xg": 0.23,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 272,
+        "duelsWon": 56,
+        "boxTouches": 15,
+        "fouls": 16,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Stadio Olimpico Grande Torino, Torino",
     "broadcasts": [
@@ -5334,14 +5362,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-07T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "104",
     "awayTeamId": "470",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 36,
+        "xg": 0.89,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 208,
+        "duelsWon": 48,
+        "boxTouches": 15,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 9
+      },
+      "away": {
+        "possession": 64,
+        "xg": 2.19,
+        "shots": 29,
+        "shotsOnTarget": 9,
+        "accuratePasses": 399,
+        "duelsWon": 66,
+        "boxTouches": 49,
+        "fouls": 12,
+        "corners": 13,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Unipol Domus, Cagliari",
     "broadcasts": [
@@ -5358,7 +5414,7 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-07T17:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "112",
     "awayTeamId": "103",
     "homeTeam": {

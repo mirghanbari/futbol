@@ -3806,14 +3806,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-07T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "721",
     "awayTeamId": "16",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 65,
+        "xg": 1.64,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 680,
+        "duelsWon": 52,
+        "boxTouches": 39,
+        "fouls": 6,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 6
+      },
+      "away": {
+        "possession": 35,
+        "xg": 1.88,
+        "shots": 13,
+        "shotsOnTarget": 8,
+        "accuratePasses": 329,
+        "duelsWon": 49,
+        "boxTouches": 16,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 4,
+        "saves": 2
+      }
     },
     "venue": "Red Bull Arena, Leipzig",
     "broadcasts": [
@@ -3830,14 +3858,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-07T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "4",
     "awayTeamId": "719",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.53,
+        "shots": 19,
+        "shotsOnTarget": 6,
+        "accuratePasses": 383,
+        "duelsWon": 54,
+        "boxTouches": 29,
+        "fouls": 14,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 6
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.25,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 349,
+        "duelsWon": 52,
+        "boxTouches": 24,
+        "fouls": 11,
+        "corners": 6,
+        "offsides": 4,
+        "saves": 4
+      }
     },
     "venue": "Signal Iduna Park, Aue",
     "broadcasts": [
@@ -3854,14 +3910,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-07T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "15",
     "awayTeamId": "5",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 31,
+        "xg": 0.6,
+        "shots": 11,
+        "shotsOnTarget": 1,
+        "accuratePasses": 233,
+        "duelsWon": 63,
+        "boxTouches": 18,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 6
+      },
+      "away": {
+        "possession": 69,
+        "xg": 2.67,
+        "shots": 26,
+        "shotsOnTarget": 9,
+        "accuratePasses": 651,
+        "duelsWon": 57,
+        "boxTouches": 46,
+        "fouls": 8,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 0
+      }
     },
     "venue": "MEWA ARENA, Mainz",
     "broadcasts": [
@@ -3878,14 +3962,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-07T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "29",
     "awayTeamId": "19",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 2.25,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 398,
+        "duelsWon": 61,
+        "boxTouches": 31,
+        "fouls": 14,
+        "corners": 2,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.7,
+        "shots": 16,
+        "shotsOnTarget": 3,
+        "accuratePasses": 370,
+        "duelsWon": 66,
+        "boxTouches": 21,
+        "fouls": 13,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Home Deluxe Arena, Paderborn",
     "broadcasts": [

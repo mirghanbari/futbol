@@ -8478,14 +8478,42 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-07T12:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "404",
     "awayTeamId": "76",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 40,
+        "xg": 1.13,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 293,
+        "duelsWon": 62,
+        "boxTouches": 16,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 60,
+        "xg": 1.42,
+        "shots": 22,
+        "shotsOnTarget": 5,
+        "accuratePasses": 481,
+        "duelsWon": 57,
+        "boxTouches": 29,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "STōK Cae Ras, Wrexham",
     "broadcasts": [
@@ -8502,14 +8530,42 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-07T12:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "325",
     "awayTeamId": "70",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 55,
+        "xg": 0.66,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 280,
+        "duelsWon": 52,
+        "boxTouches": 20,
+        "fouls": 14,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 45,
+        "xg": 0.86,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 228,
+        "duelsWon": 58,
+        "boxTouches": 9,
+        "fouls": 12,
+        "corners": 0,
+        "offsides": 5,
+        "saves": 2
+      }
     },
     "venue": "Fratton Park, Portsmouth",
     "broadcasts": [
@@ -8526,14 +8582,42 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-07T12:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "387",
     "awayTeamId": "68",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 5
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 1.66,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 415,
+        "duelsWon": 43,
+        "boxTouches": 25,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 47,
+        "xg": 2.97,
+        "shots": 17,
+        "shotsOnTarget": 7,
+        "accuratePasses": 369,
+        "duelsWon": 45,
+        "boxTouches": 23,
+        "fouls": 4,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 3
+      }
     },
     "venue": "Ashton Gate, Bristol",
     "broadcasts": [
@@ -8550,14 +8634,42 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "69",
     "awayTeamId": "1126",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 68,
+        "xg": 1.61,
+        "shots": 21,
+        "shotsOnTarget": 4,
+        "accuratePasses": 590,
+        "duelsWon": 44,
+        "boxTouches": 34,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 32,
+        "xg": 1.18,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 212,
+        "duelsWon": 60,
+        "boxTouches": 17,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "MATRADE Loftus Road, London"
   },
@@ -8568,14 +8680,42 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "715",
     "awayTeamId": "328",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 4.65,
+        "shots": 25,
+        "shotsOnTarget": 11,
+        "accuratePasses": 501,
+        "duelsWon": 35,
+        "boxTouches": 33,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 34,
+        "xg": 2.3,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 226,
+        "duelsWon": 37,
+        "boxTouches": 18,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Cardiff City Stadium, Cardiff"
   },
@@ -8586,14 +8726,42 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "348",
     "awayTeamId": "356",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.13,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 254,
+        "duelsWon": 57,
+        "boxTouches": 18,
+        "fouls": 16,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 49,
+        "xg": 0.86,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 228,
+        "duelsWon": 61,
+        "boxTouches": 27,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 0
+      }
     },
     "venue": "The Valley, London",
     "broadcasts": [
@@ -8610,7 +8778,7 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "346",
     "awayTeamId": "343",
     "homeTeam": {
@@ -8618,6 +8786,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 26,
+        "xg": 0.31,
+        "shots": 8,
+        "shotsOnTarget": 1,
+        "accuratePasses": 175,
+        "duelsWon": 39,
+        "boxTouches": 13,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 4
+      },
+      "away": {
+        "possession": 74,
+        "xg": 2.11,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 601,
+        "duelsWon": 47,
+        "boxTouches": 33,
+        "fouls": 9,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Vicarage Road, Watford",
     "broadcasts": [
@@ -8634,14 +8830,42 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "59",
     "awayTeamId": "563",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 35,
+        "xg": 0.97,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 243,
+        "duelsWon": 47,
+        "boxTouches": 9,
+        "fouls": 16,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 65,
+        "xg": 1.33,
+        "shots": 20,
+        "shotsOnTarget": 5,
+        "accuratePasses": 481,
+        "duelsWon": 55,
+        "boxTouches": 30,
+        "fouls": 8,
+        "corners": 9,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Ewood Park, Blackburn",
     "broadcasts": [
@@ -8658,14 +8882,42 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "74",
     "awayTeamId": "384",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 2.98,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 463,
+        "duelsWon": 62,
+        "boxTouches": 24,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.62,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 234,
+        "duelsWon": 54,
+        "boxTouches": 9,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 8,
+        "saves": 3
+      }
     },
     "venue": "The Hawthorns, West Bromwich",
     "broadcasts": [
@@ -8682,14 +8934,42 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1081",
     "awayTeamId": "340",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 22,
+        "xg": 1.25,
+        "shots": 15,
+        "shotsOnTarget": 2,
+        "accuratePasses": 129,
+        "duelsWon": 38,
+        "boxTouches": 16,
+        "fouls": 17,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 8
+      },
+      "away": {
+        "possession": 78,
+        "xg": 1.5,
+        "shots": 23,
+        "shotsOnTarget": 8,
+        "accuratePasses": 675,
+        "duelsWon": 46,
+        "boxTouches": 31,
+        "fouls": 6,
+        "corners": 9,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Deepdale, Preston"
   },
@@ -8700,14 +8980,42 @@
     "matchday": 15,
     "stage": "regular",
     "utcDate": "2026-11-07T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "332",
     "awayTeamId": "72",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 3.04,
+        "shots": 21,
+        "shotsOnTarget": 8,
+        "accuratePasses": 375,
+        "duelsWon": 63,
+        "boxTouches": 33,
+        "fouls": 8,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 41,
+        "xg": 1.04,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 224,
+        "duelsWon": 49,
+        "boxTouches": 15,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 6
+      }
     },
     "venue": "St. Andrew's Stadium, Birmingham",
     "broadcasts": [
