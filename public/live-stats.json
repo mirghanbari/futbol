@@ -79,8 +79,8 @@
         "xg": 0.62,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 422,
-        "duelsWon": 41,
+        "accuratePasses": 426,
+        "duelsWon": 44,
         "boxTouches": 27,
         "fouls": 9,
         "corners": 3,
@@ -92,8 +92,8 @@
         "xg": 0.91,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 293,
-        "duelsWon": 43,
+        "accuratePasses": 294,
+        "duelsWon": 45,
         "boxTouches": 19,
         "fouls": 13,
         "corners": 3,
@@ -125,7 +125,8 @@
           "teamId": "67",
           "playerName": "Amar Dedić"
         }
-      ]
+      ],
+      "final": true
     },
     "560640": {
       "home": {
@@ -274,28 +275,28 @@
     },
     "561930": {
       "home": {
-        "possession": 67,
-        "xg": 4.94,
-        "shots": 24,
+        "possession": 66,
+        "xg": 4.99,
+        "shots": 25,
         "shotsOnTarget": 11,
         "accuratePasses": 497,
-        "duelsWon": 33,
+        "duelsWon": 34,
         "boxTouches": 33,
         "fouls": 7,
         "corners": 5,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "away": {
-        "possession": 33,
-        "xg": 2.28,
-        "shots": 14,
-        "shotsOnTarget": 7,
-        "accuratePasses": 213,
-        "duelsWon": 33,
-        "boxTouches": 17,
-        "fouls": 8,
-        "corners": 5,
+        "possession": 34,
+        "xg": 2.3,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 224,
+        "duelsWon": 34,
+        "boxTouches": 18,
+        "fouls": 9,
+        "corners": 7,
         "offsides": 1,
         "saves": 4
       },
@@ -379,34 +380,52 @@
           "teamId": "715",
           "playerName": "Alex Robertson",
           "assist": "Chris Willock"
+        },
+        {
+          "minute": "90'+9'",
+          "type": "yellow-card",
+          "teamId": "328",
+          "playerName": "Kyle Walker"
+        },
+        {
+          "minute": "90'+11'",
+          "type": "yellow-card",
+          "teamId": "715",
+          "playerName": "Rubin Colwill"
+        },
+        {
+          "minute": "90'+11'",
+          "type": "yellow-card",
+          "teamId": "328",
+          "playerName": "Josh Laurent"
         }
       ]
     },
     "561931": {
       "home": {
-        "possession": 52,
+        "possession": 51,
         "xg": 1.13,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 242,
-        "duelsWon": 48,
+        "accuratePasses": 254,
+        "duelsWon": 57,
         "boxTouches": 18,
         "fouls": 16,
         "corners": 1,
         "offsides": 1,
-        "saves": 5
+        "saves": 6
       },
       "away": {
-        "possession": 48,
-        "xg": 0.75,
-        "shots": 12,
-        "shotsOnTarget": 6,
-        "accuratePasses": 201,
-        "duelsWon": 55,
-        "boxTouches": 21,
+        "possession": 49,
+        "xg": 0.86,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 228,
+        "duelsWon": 61,
+        "boxTouches": 27,
         "fouls": 10,
-        "corners": 5,
-        "offsides": 0,
+        "corners": 6,
+        "offsides": 1,
         "saves": 0
       },
       "events": [
@@ -460,7 +479,8 @@
           "playerName": "Matt Godden",
           "assist": "Millenic Alli"
         }
-      ]
+      ],
+      "final": true
     },
     "561933": {
       "home": {
@@ -746,27 +766,27 @@
     "561937": {
       "home": {
         "possession": 22,
-        "xg": 1.06,
+        "xg": 1.25,
         "shots": 15,
         "shotsOnTarget": 2,
-        "accuratePasses": 125,
-        "duelsWon": 37,
-        "boxTouches": 15,
+        "accuratePasses": 129,
+        "duelsWon": 38,
+        "boxTouches": 16,
         "fouls": 17,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
-        "saves": 7
+        "saves": 8
       },
       "away": {
         "possession": 78,
-        "xg": 1.52,
-        "shots": 22,
-        "shotsOnTarget": 7,
-        "accuratePasses": 640,
-        "duelsWon": 45,
-        "boxTouches": 27,
+        "xg": 1.55,
+        "shots": 23,
+        "shotsOnTarget": 8,
+        "accuratePasses": 674,
+        "duelsWon": 46,
+        "boxTouches": 32,
         "fouls": 6,
-        "corners": 7,
+        "corners": 9,
         "offsides": 0,
         "saves": 1
       },
@@ -961,29 +981,29 @@
     },
     "561940": {
       "home": {
-        "possession": 61,
+        "possession": 60,
         "xg": 2.98,
         "shots": 19,
         "shotsOnTarget": 8,
-        "accuratePasses": 365,
-        "duelsWon": 58,
+        "accuratePasses": 374,
+        "duelsWon": 62,
         "boxTouches": 33,
-        "fouls": 7,
-        "corners": 6,
+        "fouls": 8,
+        "corners": 8,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 39,
-        "xg": 0.94,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 202,
-        "duelsWon": 45,
-        "boxTouches": 11,
-        "fouls": 8,
+        "possession": 40,
+        "xg": 1.01,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 221,
+        "duelsWon": 51,
+        "boxTouches": 14,
+        "fouls": 9,
         "corners": 5,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 6
       },
       "events": [
@@ -1606,30 +1626,30 @@
   "DED": {
     "558844": {
       "home": {
-        "possession": 44,
-        "xg": 1.52,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 212,
-        "duelsWon": 29,
-        "boxTouches": 14,
-        "fouls": 13,
+        "possession": 45,
+        "xg": 1.56,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 229,
+        "duelsWon": 32,
+        "boxTouches": 15,
+        "fouls": 14,
         "corners": 3,
         "offsides": 2,
         "saves": 4
       },
       "away": {
-        "possession": 56,
+        "possession": 55,
         "xg": 0.56,
         "shots": 10,
         "shotsOnTarget": 6,
-        "accuratePasses": 292,
-        "duelsWon": 31,
-        "boxTouches": 19,
-        "fouls": 9,
+        "accuratePasses": 307,
+        "duelsWon": 38,
+        "boxTouches": 22,
+        "fouls": 10,
         "corners": 3,
         "offsides": 2,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
