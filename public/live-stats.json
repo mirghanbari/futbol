@@ -2,25 +2,25 @@
   "PD": {
     "564738": {
       "home": {
-        "possession": 55,
+        "possession": 54,
         "xg": 0.46,
-        "shots": 5,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 169,
-        "duelsWon": 13,
-        "boxTouches": 9,
-        "fouls": 1,
+        "accuratePasses": 198,
+        "duelsWon": 15,
+        "boxTouches": 10,
+        "fouls": 2,
         "corners": 5,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 45,
+        "possession": 46,
         "xg": 0.37,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 135,
-        "duelsWon": 9,
+        "accuratePasses": 170,
+        "duelsWon": 10,
         "boxTouches": 8,
         "fouls": 2,
         "corners": 3,
@@ -101,6 +101,43 @@
     }
   },
   "DED": {
+    "558839": {
+      "home": {
+        "possession": 22,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 6,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 78,
+        "xg": 0.34,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 26,
+        "duelsWon": 3,
+        "boxTouches": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "3'",
+          "type": "goal",
+          "teamId": "678",
+          "playerName": "Tolu Arokodare",
+          "method": "header",
+          "assist": "Oscar Gloukh"
+        }
+      ]
+    },
     "558840": {
       "home": {
         "possession": 50,
