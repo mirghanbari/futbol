@@ -654,25 +654,25 @@
         "xg": 1.38,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 185,
-        "duelsWon": 27,
+        "accuratePasses": 187,
+        "duelsWon": 29,
         "boxTouches": 15,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 3,
         "offsides": 2,
         "saves": 2
       },
       "away": {
         "possession": 58,
-        "xg": 0.38,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 266,
-        "duelsWon": 19,
-        "boxTouches": 13,
-        "fouls": 7,
+        "xg": 0.58,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 281,
+        "duelsWon": 21,
+        "boxTouches": 18,
+        "fouls": 8,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 3
       },
       "events": [
@@ -688,6 +688,12 @@
           "type": "yellow-card",
           "teamId": "78",
           "playerName": "Álex Baena"
+        },
+        {
+          "minute": "45'",
+          "type": "goal",
+          "teamId": "81",
+          "playerName": "Fermín López"
         }
       ]
     },
@@ -1366,25 +1372,25 @@
   "FL1": {
     "559630": {
       "home": {
-        "possession": 38,
+        "possession": 40,
         "xg": 1.38,
-        "shots": 10,
+        "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 161,
+        "accuratePasses": 175,
         "duelsWon": 14,
-        "boxTouches": 11,
+        "boxTouches": 12,
         "fouls": 5,
         "corners": 4,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 62,
+        "possession": 60,
         "xg": 1.09,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 296,
-        "duelsWon": 20,
+        "accuratePasses": 299,
+        "duelsWon": 21,
         "boxTouches": 12,
         "fouls": 3,
         "corners": 3,
@@ -1839,27 +1845,27 @@
     },
     "558838": {
       "home": {
-        "possession": 48,
-        "xg": 1.95,
-        "shots": 15,
+        "possession": 49,
+        "xg": 2.02,
+        "shots": 16,
         "shotsOnTarget": 5,
-        "accuratePasses": 267,
-        "duelsWon": 38,
+        "accuratePasses": 278,
+        "duelsWon": 41,
         "boxTouches": 21,
-        "fouls": 16,
-        "corners": 2,
+        "fouls": 17,
+        "corners": 3,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 52,
+        "possession": 51,
         "xg": 2.14,
         "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 274,
-        "duelsWon": 44,
+        "accuratePasses": 285,
+        "duelsWon": 46,
         "boxTouches": 28,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 7,
         "offsides": 1,
         "saves": 3
@@ -1912,6 +1918,18 @@
           "type": "yellow-card",
           "teamId": "1915",
           "playerName": "Bryan Linssen"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "676",
+          "playerName": "Yoann Cathline"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "1915",
+          "playerName": "Clement Bischoff"
         }
       ]
     },
@@ -2495,26 +2513,26 @@
     },
     "567354": {
       "home": {
-        "possession": 47,
+        "possession": 51,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 46,
-        "duelsWon": 5,
-        "fouls": 1,
+        "accuratePasses": 97,
+        "duelsWon": 8,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 53,
+        "possession": 49,
         "xg": 0.05,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 55,
-        "duelsWon": 6,
+        "accuratePasses": 92,
+        "duelsWon": 8,
         "boxTouches": 2,
-        "fouls": 2,
+        "fouls": 4,
         "corners": 0,
         "offsides": 1,
         "saves": 0
@@ -2522,28 +2540,28 @@
     },
     "567355": {
       "home": {
-        "possession": 44,
+        "possession": 35,
         "xg": 0.14,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 48,
-        "duelsWon": 4,
-        "boxTouches": 2,
+        "accuratePasses": 62,
+        "duelsWon": 6,
+        "boxTouches": 3,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 56,
-        "xg": 0.06,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 61,
-        "duelsWon": 7,
-        "boxTouches": 4,
-        "fouls": 1,
-        "corners": 0,
+        "possession": 65,
+        "xg": 0.55,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 122,
+        "duelsWon": 8,
+        "boxTouches": 8,
+        "fouls": 2,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       }
