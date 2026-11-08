@@ -5170,14 +5170,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "354",
     "awayTeamId": "64",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Selhurst Park, London",
     "broadcasts": [
@@ -5194,11 +5194,11 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "71",
     "awayTeamId": "61",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -5222,14 +5222,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "349",
     "awayTeamId": "1044",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Portman Road, Ipswich",
     "broadcasts": [
@@ -5246,11 +5246,11 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "397",
     "awayTeamId": "402",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0

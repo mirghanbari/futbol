@@ -8,19 +8,19 @@
     "competitionId": "PL"
   },
   {
-    "id": "65",
-    "name": "Manchester City FC",
-    "shortName": "Man City",
-    "tla": "MCI",
-    "crest": "https://crests.football-data.org/65.png",
-    "competitionId": "PL"
-  },
-  {
     "id": "397",
     "name": "Brighton & Hove Albion FC",
     "shortName": "Brighton Hove",
     "tla": "BHA",
     "crest": "https://crests.football-data.org/397.png",
+    "competitionId": "PL"
+  },
+  {
+    "id": "65",
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI",
+    "crest": "https://crests.football-data.org/65.png",
     "competitionId": "PL"
   },
   {
@@ -48,6 +48,14 @@
     "competitionId": "PL"
   },
   {
+    "id": "1044",
+    "name": "AFC Bournemouth",
+    "shortName": "Bournemouth",
+    "tla": "BOU",
+    "crest": "https://crests.football-data.org/bournemouth.png",
+    "competitionId": "PL"
+  },
+  {
     "id": "402",
     "name": "Brentford FC",
     "shortName": "Brentford",
@@ -61,14 +69,6 @@
     "shortName": "Leeds United",
     "tla": "LEE",
     "crest": "https://crests.football-data.org/341.png",
-    "competitionId": "PL"
-  },
-  {
-    "id": "1044",
-    "name": "AFC Bournemouth",
-    "shortName": "Bournemouth",
-    "tla": "BOU",
-    "crest": "https://crests.football-data.org/bournemouth.png",
     "competitionId": "PL"
   },
   {
@@ -136,11 +136,11 @@
     "competitionId": "PL"
   },
   {
-    "id": "66",
-    "name": "Manchester United FC",
-    "shortName": "Man United",
-    "tla": "MUN",
-    "crest": "https://crests.football-data.org/66.png",
+    "id": "71",
+    "name": "Sunderland AFC",
+    "shortName": "Sunderland",
+    "tla": "SUN",
+    "crest": "https://crests.football-data.org/71.png",
     "competitionId": "PL"
   },
   {
@@ -152,11 +152,11 @@
     "competitionId": "PL"
   },
   {
-    "id": "71",
-    "name": "Sunderland AFC",
-    "shortName": "Sunderland",
-    "tla": "SUN",
-    "crest": "https://crests.football-data.org/71.png",
+    "id": "66",
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crest": "https://crests.football-data.org/66.png",
     "competitionId": "PL"
   }
 ]
