@@ -648,6 +648,33 @@
       ],
       "final": true
     },
+    "564746": {
+      "home": {
+        "possession": 86,
+        "xg": 0.03,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 29,
+        "duelsWon": 0,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 14,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 3,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "564747": {
       "home": {
         "possession": 72,
@@ -908,30 +935,30 @@
     },
     "565856": {
       "home": {
-        "possession": 55,
-        "xg": 1.33,
-        "shots": 12,
-        "shotsOnTarget": 5,
-        "accuratePasses": 322,
-        "duelsWon": 37,
-        "boxTouches": 22,
-        "fouls": 4,
+        "possession": 54,
+        "xg": 1.46,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 333,
+        "duelsWon": 39,
+        "boxTouches": 24,
+        "fouls": 5,
         "corners": 4,
         "offsides": 3,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 45,
-        "xg": 1.22,
-        "shots": 17,
-        "shotsOnTarget": 2,
-        "accuratePasses": 237,
-        "duelsWon": 29,
-        "boxTouches": 29,
-        "fouls": 4,
-        "corners": 2,
+        "possession": 46,
+        "xg": 1.69,
+        "shots": 20,
+        "shotsOnTarget": 4,
+        "accuratePasses": 255,
+        "duelsWon": 31,
+        "boxTouches": 34,
+        "fouls": 5,
+        "corners": 3,
         "offsides": 2,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -946,6 +973,12 @@
           "teamId": "2",
           "playerName": "Tim Lemperle",
           "assist": "Fisnik Asllani"
+        },
+        {
+          "minute": "75'",
+          "type": "yellow-card",
+          "teamId": "6",
+          "playerName": "Hee-Chan Hwang"
         }
       ]
     }
@@ -953,28 +986,28 @@
   "SA": {
     "558529": {
       "home": {
-        "possession": 24,
-        "xg": 0.18,
-        "shots": 1,
+        "possession": 33,
+        "xg": 0.41,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 16,
-        "duelsWon": 6,
-        "boxTouches": 2,
-        "fouls": 0,
+        "accuratePasses": 33,
+        "duelsWon": 7,
+        "boxTouches": 3,
+        "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 76,
-        "xg": 0,
-        "shots": 0,
+        "possession": 67,
+        "xg": 0.28,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 60,
-        "duelsWon": 1,
-        "boxTouches": 4,
-        "fouls": 1,
-        "corners": 2,
+        "accuratePasses": 71,
+        "duelsWon": 3,
+        "boxTouches": 7,
+        "fouls": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
@@ -986,6 +1019,12 @@
           "playerName": "Mateo Pellegrino",
           "method": "header",
           "assist": "Pote"
+        },
+        {
+          "minute": "13'",
+          "type": "yellow-card",
+          "teamId": "109",
+          "playerName": "Juan Cabal"
         }
       ]
     },
@@ -1291,27 +1330,27 @@
   "FL1": {
     "559630": {
       "home": {
-        "possession": 52,
-        "xg": 0.25,
+        "possession": 48,
+        "xg": 0.29,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 61,
-        "duelsWon": 3,
-        "boxTouches": 5,
+        "accuratePasses": 80,
+        "duelsWon": 8,
+        "boxTouches": 7,
         "fouls": 1,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 48,
+        "possession": 52,
         "xg": 0.67,
-        "shots": 2,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 59,
-        "duelsWon": 7,
-        "boxTouches": 3,
-        "fouls": 0,
+        "accuratePasses": 95,
+        "duelsWon": 9,
+        "boxTouches": 7,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -2113,11 +2152,11 @@
     "567349": {
       "home": {
         "possession": 47,
-        "xg": 0.67,
+        "xg": 0.69,
         "shots": 16,
         "shotsOnTarget": 6,
-        "accuratePasses": 251,
-        "duelsWon": 48,
+        "accuratePasses": 255,
+        "duelsWon": 50,
         "boxTouches": 12,
         "fouls": 13,
         "corners": 4,
@@ -2129,8 +2168,8 @@
         "xg": 1.62,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 310,
-        "duelsWon": 52,
+        "accuratePasses": 315,
+        "duelsWon": 55,
         "boxTouches": 13,
         "fouls": 11,
         "corners": 5,
@@ -2142,19 +2181,13 @@
           "minute": "33'",
           "type": "yellow-card",
           "teamId": "5543",
-          "playerName": "João Mendes"
+          "playerName": "Toni Borevković"
         },
         {
           "minute": "33'",
           "type": "yellow-card",
           "teamId": "5543",
-          "playerName": "Toni Borevković"
-        },
-        {
-          "minute": "38'",
-          "type": "yellow-card",
-          "teamId": "503",
-          "playerName": "Borja Sainz"
+          "playerName": "João Mendes"
         },
         {
           "minute": "38'",
@@ -2162,6 +2195,12 @@
           "teamId": "503",
           "playerName": "Borja Sainz",
           "assist": "Alberto Costa"
+        },
+        {
+          "minute": "38'",
+          "type": "yellow-card",
+          "teamId": "503",
+          "playerName": "Borja Sainz"
         },
         {
           "minute": "43'",
@@ -2193,9 +2232,10 @@
           "minute": "90'+7'",
           "type": "yellow-card",
           "teamId": "503",
-          "playerName": "Jakub Kiwior"
+          "playerName": "Alan Varela"
         }
-      ]
+      ],
+      "final": true
     },
     "567351": {
       "home": {
