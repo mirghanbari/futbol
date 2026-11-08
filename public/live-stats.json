@@ -2,25 +2,25 @@
   "PL": {
     "560635": {
       "home": {
-        "possession": 50,
+        "possession": 52,
         "xg": 0.97,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 207,
-        "duelsWon": 32,
-        "boxTouches": 18,
-        "fouls": 7,
+        "accuratePasses": 247,
+        "duelsWon": 35,
+        "boxTouches": 21,
+        "fouls": 9,
         "corners": 2,
         "offsides": 3,
         "saves": 2
       },
       "away": {
-        "possession": 50,
+        "possession": 48,
         "xg": 2,
         "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 199,
-        "duelsWon": 32,
+        "accuratePasses": 216,
+        "duelsWon": 34,
         "boxTouches": 24,
         "fouls": 14,
         "corners": 7,
@@ -54,6 +54,12 @@
           "type": "yellow-card",
           "teamId": "64",
           "playerName": "Bradley Barcola"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "354",
+          "playerName": "Yéremi Pino"
         }
       ]
     },
@@ -63,22 +69,22 @@
         "xg": 1.77,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 158,
-        "duelsWon": 25,
+        "accuratePasses": 164,
+        "duelsWon": 28,
         "boxTouches": 10,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 1,
         "offsides": 2,
         "saves": 2
       },
       "away": {
         "possession": 67,
-        "xg": 0.19,
-        "shots": 4,
+        "xg": 0.3,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 390,
-        "duelsWon": 26,
-        "boxTouches": 4,
+        "accuratePasses": 414,
+        "duelsWon": 32,
+        "boxTouches": 7,
         "fouls": 4,
         "corners": 1,
         "offsides": 0,
@@ -126,27 +132,27 @@
     },
     "560637": {
       "home": {
-        "possession": 55,
-        "xg": 0.1,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 319,
+        "possession": 56,
+        "xg": 0.91,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 336,
         "duelsWon": 56,
-        "boxTouches": 11,
+        "boxTouches": 16,
         "fouls": 3,
         "corners": 1,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 45,
+        "possession": 44,
         "xg": 1.8,
         "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 250,
-        "duelsWon": 36,
+        "accuratePasses": 258,
+        "duelsWon": 37,
         "boxTouches": 19,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 6,
         "offsides": 1,
         "saves": 1
@@ -182,33 +188,40 @@
           "teamId": "1044",
           "playerName": "Leif Davis",
           "ownGoal": true
+        },
+        {
+          "minute": "73'",
+          "type": "goal",
+          "teamId": "349",
+          "playerName": "Jack Clarke",
+          "penalty": true
         }
       ]
     },
     "560638": {
       "home": {
-        "possession": 75,
+        "possession": 76,
         "xg": 1.88,
         "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 427,
-        "duelsWon": 29,
-        "boxTouches": 24,
-        "fouls": 9,
-        "corners": 5,
+        "accuratePasses": 462,
+        "duelsWon": 32,
+        "boxTouches": 25,
+        "fouls": 10,
+        "corners": 6,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 25,
+        "possession": 24,
         "xg": 0.39,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 111,
-        "duelsWon": 29,
+        "accuratePasses": 113,
+        "duelsWon": 30,
         "boxTouches": 2,
-        "fouls": 6,
-        "corners": 1,
+        "fouls": 7,
+        "corners": 3,
         "offsides": 2,
         "saves": 3
       },
@@ -261,6 +274,12 @@
           "type": "yellow-card",
           "teamId": "397",
           "playerName": "Lewis Dunk"
+        },
+        {
+          "minute": "69'",
+          "type": "yellow-card",
+          "teamId": "402",
+          "playerName": "Kevin Schade"
         }
       ]
     }
@@ -343,25 +362,25 @@
     },
     "564743": {
       "home": {
-        "possession": 64,
+        "possession": 59,
         "xg": 0.13,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 65,
+        "accuratePasses": 69,
         "duelsWon": 2,
         "boxTouches": 3,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 36,
+        "possession": 41,
         "xg": 0.02,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 33,
-        "duelsWon": 2,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 43,
+        "duelsWon": 4,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
@@ -492,12 +511,12 @@
     },
     "558536": {
       "home": {
-        "possession": 34,
+        "possession": 33,
         "xg": 0.62,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 165,
-        "duelsWon": 37,
+        "accuratePasses": 169,
+        "duelsWon": 40,
         "boxTouches": 15,
         "fouls": 9,
         "corners": 1,
@@ -505,11 +524,11 @@
         "saves": 0
       },
       "away": {
-        "possession": 66,
+        "possession": 67,
         "xg": 0.56,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 365,
+        "accuratePasses": 402,
         "duelsWon": 36,
         "boxTouches": 11,
         "fouls": 8,
@@ -560,27 +579,27 @@
     },
     "558538": {
       "home": {
-        "possession": 45,
-        "xg": 1.21,
-        "shots": 17,
+        "possession": 46,
+        "xg": 1.24,
+        "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 276,
-        "duelsWon": 27,
-        "boxTouches": 26,
+        "accuratePasses": 307,
+        "duelsWon": 29,
+        "boxTouches": 31,
         "fouls": 7,
         "corners": 6,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "away": {
-        "possession": 55,
-        "xg": 1.02,
+        "possession": 54,
+        "xg": 1,
         "shots": 10,
-        "shotsOnTarget": 4,
-        "accuratePasses": 360,
-        "duelsWon": 34,
-        "boxTouches": 18,
-        "fouls": 1,
+        "shotsOnTarget": 5,
+        "accuratePasses": 386,
+        "duelsWon": 36,
+        "boxTouches": 20,
+        "fouls": 2,
         "corners": 2,
         "offsides": 0,
         "saves": 6
@@ -610,27 +629,27 @@
   "FL1": {
     "559636": {
       "home": {
-        "possession": 48,
-        "xg": 1.24,
-        "shots": 11,
+        "possession": 50,
+        "xg": 1.21,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 317,
-        "duelsWon": 34,
-        "boxTouches": 17,
-        "fouls": 6,
+        "accuratePasses": 355,
+        "duelsWon": 35,
+        "boxTouches": 18,
+        "fouls": 7,
         "corners": 5,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 52,
+        "possession": 50,
         "xg": 0.38,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 349,
-        "duelsWon": 25,
+        "accuratePasses": 367,
+        "duelsWon": 27,
         "boxTouches": 13,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 2,
         "offsides": 0,
         "saves": 1
@@ -661,6 +680,12 @@
           "teamId": "521",
           "playerName": "Nathan Ngoy",
           "assist": "Soriba Diaoune"
+        },
+        {
+          "minute": "73'",
+          "type": "yellow-card",
+          "teamId": "521",
+          "playerName": "Maurits Kjærgaard"
         }
       ]
     }
@@ -669,15 +694,15 @@
     "558839": {
       "home": {
         "possession": 56,
-        "xg": 1.75,
+        "xg": 2.54,
         "shots": 22,
         "shotsOnTarget": 5,
-        "accuratePasses": 423,
-        "duelsWon": 48,
+        "accuratePasses": 428,
+        "duelsWon": 49,
         "boxTouches": 39,
         "fouls": 10,
         "corners": 9,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 0
       },
       "away": {
@@ -685,8 +710,8 @@
         "xg": 0.7,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 347,
-        "duelsWon": 41,
+        "accuratePasses": 350,
+        "duelsWon": 42,
         "boxTouches": 15,
         "fouls": 11,
         "corners": 2,
@@ -737,8 +762,8 @@
           "minute": "68'",
           "type": "goal",
           "teamId": "666",
-          "playerName": "Wout Weghorst",
-          "method": "header"
+          "playerName": "Dies Janse",
+          "ownGoal": true
         },
         {
           "minute": "71'",
@@ -759,13 +784,20 @@
           "playerName": "Ramiz Zerrouki"
         },
         {
+          "minute": "90'+4'",
+          "type": "yellow-card",
+          "teamId": "678",
+          "playerName": "Owen Wijndal"
+        },
+        {
           "minute": "90'+5'",
           "type": "goal",
           "teamId": "666",
           "playerName": "Wout Weghorst",
           "penalty": true
         }
-      ]
+      ],
+      "final": true
     },
     "558840": {
       "home": {
@@ -857,6 +889,32 @@
         }
       ],
       "final": true
+    }
+  },
+  "PPL": {
+    "567351": {
+      "home": {
+        "possession": 33,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 1,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 67,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 1,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   }
 }
