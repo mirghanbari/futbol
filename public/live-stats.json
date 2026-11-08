@@ -654,23 +654,23 @@
         "xg": 1.53,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 263,
-        "duelsWon": 42,
-        "boxTouches": 18,
-        "fouls": 8,
+        "accuratePasses": 275,
+        "duelsWon": 46,
+        "boxTouches": 19,
+        "fouls": 9,
         "corners": 4,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 3
       },
       "away": {
         "possession": 62,
-        "xg": 1.52,
-        "shots": 17,
+        "xg": 1.57,
+        "shots": 18,
         "shotsOnTarget": 4,
-        "accuratePasses": 487,
-        "duelsWon": 37,
+        "accuratePasses": 495,
+        "duelsWon": 39,
         "boxTouches": 26,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 2,
         "offsides": 1,
         "saves": 3
@@ -701,6 +701,12 @@
           "teamId": "81",
           "playerName": "Fermín López",
           "assist": "Lamine Yamal"
+        },
+        {
+          "minute": "74'",
+          "type": "yellow-card",
+          "teamId": "81",
+          "playerName": "Marc Bernal"
         }
       ]
     },
@@ -1022,26 +1028,26 @@
   "SA": {
     "558529": {
       "home": {
-        "possession": 38,
+        "possession": 40,
         "xg": 1.93,
         "shots": 19,
         "shotsOnTarget": 4,
-        "accuratePasses": 223,
-        "duelsWon": 46,
-        "boxTouches": 19,
+        "accuratePasses": 246,
+        "duelsWon": 49,
+        "boxTouches": 23,
         "fouls": 15,
-        "corners": 3,
+        "corners": 5,
         "offsides": 0,
         "saves": 4
       },
       "away": {
-        "possession": 62,
-        "xg": 2.34,
-        "shots": 17,
+        "possession": 60,
+        "xg": 2.44,
+        "shots": 18,
         "shotsOnTarget": 6,
-        "accuratePasses": 359,
-        "duelsWon": 49,
-        "boxTouches": 35,
+        "accuratePasses": 375,
+        "duelsWon": 52,
+        "boxTouches": 38,
         "fouls": 17,
         "corners": 12,
         "offsides": 0,
@@ -1405,28 +1411,28 @@
   "FL1": {
     "559630": {
       "home": {
-        "possession": 42,
+        "possession": 41,
         "xg": 1.92,
-        "shots": 14,
+        "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 344,
-        "duelsWon": 28,
+        "accuratePasses": 350,
+        "duelsWon": 31,
         "boxTouches": 21,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 4,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 58,
-        "xg": 2.12,
-        "shots": 15,
+        "possession": 59,
+        "xg": 2.16,
+        "shots": 16,
         "shotsOnTarget": 5,
-        "accuratePasses": 539,
-        "duelsWon": 48,
-        "boxTouches": 19,
-        "fouls": 7,
-        "corners": 5,
+        "accuratePasses": 553,
+        "duelsWon": 49,
+        "boxTouches": 20,
+        "fouls": 8,
+        "corners": 6,
         "offsides": 0,
         "saves": 5
       },
@@ -1462,8 +1468,15 @@
           "type": "goal",
           "teamId": "516",
           "playerName": "Keyliane Abdallah"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "yellow-card",
+          "teamId": "516",
+          "playerName": "Jeffrey De Lange"
         }
-      ]
+      ],
+      "final": true
     },
     "559631": {
       "home": {
@@ -2571,25 +2584,25 @@
     },
     "567354": {
       "home": {
-        "possession": 53,
+        "possession": 55,
         "xg": 0.05,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 195,
-        "duelsWon": 22,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 227,
+        "duelsWon": 26,
         "boxTouches": 2,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 0,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 47,
-        "xg": 0.47,
-        "shots": 5,
+        "possession": 45,
+        "xg": 0.48,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 165,
-        "duelsWon": 20,
+        "accuratePasses": 177,
+        "duelsWon": 23,
         "boxTouches": 6,
         "fouls": 12,
         "corners": 2,
@@ -2599,28 +2612,28 @@
     },
     "567355": {
       "home": {
-        "possession": 35,
-        "xg": 0.29,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 133,
-        "duelsWon": 17,
-        "boxTouches": 5,
-        "fouls": 7,
+        "possession": 37,
+        "xg": 0.95,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 149,
+        "duelsWon": 18,
+        "boxTouches": 8,
+        "fouls": 8,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 65,
-        "xg": 0.34,
-        "shots": 6,
+        "possession": 63,
+        "xg": 0.41,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 270,
-        "duelsWon": 24,
-        "boxTouches": 12,
-        "fouls": 6,
-        "corners": 4,
+        "accuratePasses": 284,
+        "duelsWon": 25,
+        "boxTouches": 13,
+        "fouls": 7,
+        "corners": 5,
         "offsides": 1,
         "saves": 0
       },
@@ -2631,6 +2644,19 @@
           "teamId": "1903",
           "playerName": "Gianluca Prestianni",
           "assist": "Claudio Echeverri"
+        },
+        {
+          "minute": "48'",
+          "type": "goal",
+          "teamId": "9136",
+          "playerName": "Lovro Zvonarek",
+          "assist": "Rafa Soares"
+        },
+        {
+          "minute": "50'",
+          "type": "yellow-card",
+          "teamId": "1903",
+          "playerName": "Claudio Echeverri"
         }
       ]
     }
