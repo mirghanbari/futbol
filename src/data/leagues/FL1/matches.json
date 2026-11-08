@@ -4068,14 +4068,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T14:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "529",
     "awayTeamId": "521",
     "homeTeam": {
       "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 1.5,
+        "shots": 15,
+        "shotsOnTarget": 2,
+        "accuratePasses": 487,
+        "duelsWon": 48,
+        "boxTouches": 34,
+        "fouls": 7,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 44,
+        "xg": 0.38,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 387,
+        "duelsWon": 33,
+        "boxTouches": 14,
+        "fouls": 15,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 1
+      }
     },
     "venue": "Roazhon Park, Rennes",
     "broadcasts": [
@@ -4092,14 +4120,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "535",
     "awayTeamId": "548",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 1.47,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 342,
+        "duelsWon": 44,
+        "boxTouches": 33,
+        "fouls": 16,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 52,
+        "xg": 0.76,
+        "shots": 5,
+        "shotsOnTarget": 3,
+        "accuratePasses": 383,
+        "duelsWon": 39,
+        "boxTouches": 16,
+        "fouls": 8,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 4
+      }
     },
     "venue": "Stade Marie-Marvingt, Le Mans",
     "broadcasts": [
@@ -4116,14 +4172,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "512",
     "awayTeamId": "523",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 31,
+        "xg": 1.91,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 250,
+        "duelsWon": 50,
+        "boxTouches": 24,
+        "fouls": 14,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 69,
+        "xg": 0.66,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 589,
+        "duelsWon": 59,
+        "boxTouches": 31,
+        "fouls": 10,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Stade Francis-Le Blé, Brest",
     "broadcasts": [
@@ -4140,14 +4224,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "533",
     "awayTeamId": "525",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 0.96,
+        "shots": 21,
+        "shotsOnTarget": 5,
+        "accuratePasses": 431,
+        "duelsWon": 60,
+        "boxTouches": 27,
+        "fouls": 16,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 46,
+        "xg": 1.65,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 352,
+        "duelsWon": 43,
+        "boxTouches": 16,
+        "fouls": 19,
+        "corners": 0,
+        "offsides": 3,
+        "saves": 5
+      }
     },
     "venue": "Stade Océane, Le Havre",
     "broadcasts": [
@@ -4164,14 +4276,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "532",
     "awayTeamId": "522",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 0.94,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 411,
+        "duelsWon": 39,
+        "boxTouches": 23,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 6
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.96,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 402,
+        "duelsWon": 34,
+        "boxTouches": 31,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Stade Raymond Kopa, Angers",
     "broadcasts": [

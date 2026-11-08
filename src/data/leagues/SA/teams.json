@@ -8,19 +8,19 @@
     "competitionId": "SA"
   },
   {
-    "id": "100",
-    "name": "AS Roma",
-    "shortName": "Roma",
-    "tla": "ROM",
-    "crest": "https://crests.football-data.org/100.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "108",
     "name": "FC Internazionale Milano",
     "shortName": "Inter",
     "tla": "INT",
     "crest": "https://crests.football-data.org/108.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "100",
+    "name": "AS Roma",
+    "shortName": "Roma",
+    "tla": "ROM",
+    "crest": "https://crests.football-data.org/100.png",
     "competitionId": "SA"
   },
   {
@@ -88,14 +88,6 @@
     "competitionId": "SA"
   },
   {
-    "id": "107",
-    "name": "Genoa CFC",
-    "shortName": "Genoa",
-    "tla": "GEN",
-    "crest": "https://crests.football-data.org/107.png",
-    "competitionId": "SA"
-  },
-  {
     "id": "102",
     "name": "Atalanta BC",
     "shortName": "Atalanta",
@@ -104,19 +96,19 @@
     "competitionId": "SA"
   },
   {
+    "id": "107",
+    "name": "Genoa CFC",
+    "shortName": "Genoa",
+    "tla": "GEN",
+    "crest": "https://crests.football-data.org/107.png",
+    "competitionId": "SA"
+  },
+  {
     "id": "5890",
     "name": "US Lecce",
     "shortName": "Lecce",
     "tla": "USL",
     "crest": "https://crests.football-data.org/5890.png",
-    "competitionId": "SA"
-  },
-  {
-    "id": "5911",
-    "name": "AC Monza",
-    "shortName": "Monza",
-    "tla": "MON",
-    "crest": "https://crests.football-data.org/5911.png",
     "competitionId": "SA"
   },
   {
@@ -141,6 +133,14 @@
     "shortName": "Sassuolo",
     "tla": "SAS",
     "crest": "https://crests.football-data.org/471.png",
+    "competitionId": "SA"
+  },
+  {
+    "id": "5911",
+    "name": "AC Monza",
+    "shortName": "Monza",
+    "tla": "MON",
+    "crest": "https://crests.football-data.org/5911.png",
     "competitionId": "SA"
   },
   {

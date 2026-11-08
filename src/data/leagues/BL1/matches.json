@@ -4066,14 +4066,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-08T14:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "1",
     "awayTeamId": "3",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 38,
+        "xg": 1.55,
+        "shots": 12,
+        "shotsOnTarget": 6,
+        "accuratePasses": 342,
+        "duelsWon": 46,
+        "boxTouches": 23,
+        "fouls": 12,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 62,
+        "xg": 1.73,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 575,
+        "duelsWon": 45,
+        "boxTouches": 33,
+        "fouls": 12,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "RheinEnergieStadion, Cologne",
     "broadcasts": [
@@ -4090,14 +4118,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-08T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "17",
     "awayTeamId": "28",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 2.28,
+        "shots": 20,
+        "shotsOnTarget": 9,
+        "accuratePasses": 465,
+        "duelsWon": 44,
+        "boxTouches": 43,
+        "fouls": 10,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 41,
+        "xg": 0.35,
+        "shots": 4,
+        "shotsOnTarget": 0,
+        "accuratePasses": 276,
+        "duelsWon": 42,
+        "boxTouches": 11,
+        "fouls": 17,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 8
+      }
     },
     "venue": "Europa-Park Stadion, Freiburg im Breisgau",
     "broadcasts": [
@@ -4114,11 +4170,11 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-08T18:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "2",
     "awayTeamId": "6",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0

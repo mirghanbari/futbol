@@ -6242,14 +6242,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-08T13:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "285",
     "awayTeamId": "90",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 1.21,
+        "shots": 13,
+        "shotsOnTarget": 1,
+        "accuratePasses": 429,
+        "duelsWon": 38,
+        "boxTouches": 15,
+        "fouls": 12,
+        "corners": 9,
+        "offsides": 4,
+        "saves": 7
+      },
+      "away": {
+        "possession": 52,
+        "xg": 2.03,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 470,
+        "duelsWon": 35,
+        "boxTouches": 34,
+        "fouls": 7,
+        "corners": 8,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "Estadio Martínez Valero, Elche",
     "broadcasts": [
@@ -6266,14 +6294,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-08T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "92",
     "awayTeamId": "87",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.42,
+        "shots": 17,
+        "shotsOnTarget": 3,
+        "accuratePasses": 417,
+        "duelsWon": 47,
+        "boxTouches": 31,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.35,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 388,
+        "duelsWon": 50,
+        "boxTouches": 21,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Reale Arena, San Sebastian",
     "broadcasts": [
@@ -6290,7 +6346,7 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-08T17:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "558",
     "awayTeamId": "88",
     "homeTeam": {
@@ -6314,11 +6370,11 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-08T17:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "94",
     "awayTeamId": "82",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0

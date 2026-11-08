@@ -16,19 +16,19 @@
     "competitionId": "BL1"
   },
   {
-    "id": "721",
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL",
-    "crest": "https://crests.football-data.org/721.png",
-    "competitionId": "BL1"
-  },
-  {
     "id": "17",
     "name": "SC Freiburg",
     "shortName": "Freiburg",
     "tla": "SCF",
     "crest": "https://crests.football-data.org/17.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "721",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
     "competitionId": "BL1"
   },
   {
@@ -53,6 +53,14 @@
     "shortName": "Elversberg",
     "tla": "ELV",
     "crest": "https://crests.football-data.org/719.png",
+    "competitionId": "BL1"
+  },
+  {
+    "id": "2",
+    "name": "TSG 1899 Hoffenheim",
+    "shortName": "Hoffenheim",
+    "tla": "TSG",
+    "crest": "https://crests.football-data.org/2.png",
     "competitionId": "BL1"
   },
   {
@@ -101,14 +109,6 @@
     "shortName": "Augsburg",
     "tla": "FCA",
     "crest": "https://crests.football-data.org/16.png",
-    "competitionId": "BL1"
-  },
-  {
-    "id": "2",
-    "name": "TSG 1899 Hoffenheim",
-    "shortName": "Hoffenheim",
-    "tla": "TSG",
-    "crest": "https://crests.football-data.org/2.png",
     "competitionId": "BL1"
   },
   {

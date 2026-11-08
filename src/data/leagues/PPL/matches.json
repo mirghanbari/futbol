@@ -4302,14 +4302,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-08T15:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5530",
     "awayTeamId": "5533",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 0.75,
+        "shots": 9,
+        "shotsOnTarget": 0,
+        "accuratePasses": 369,
+        "duelsWon": 43,
+        "boxTouches": 19,
+        "fouls": 13,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 46,
+        "xg": 1.19,
+        "shots": 20,
+        "shotsOnTarget": 4,
+        "accuratePasses": 310,
+        "duelsWon": 48,
+        "boxTouches": 16,
+        "fouls": 14,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 0
+      }
     },
     "venue": "Estádio de São Miguel, Ponta Delgada"
   },
@@ -4320,14 +4348,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-08T15:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5529",
     "awayTeamId": "5527",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 1.13,
+        "shots": 19,
+        "shotsOnTarget": 6,
+        "accuratePasses": 274,
+        "duelsWon": 42,
+        "boxTouches": 28,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 6
+      },
+      "away": {
+        "possession": 49,
+        "xg": 0.63,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 267,
+        "duelsWon": 41,
+        "boxTouches": 26,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 5
+      }
     },
     "venue": "Estádio da Madeira, Funchal"
   },
@@ -4338,14 +4394,14 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-08T18:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "5543",
     "awayTeamId": "503",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Estádio D. Afonso Henriques, Guimarães"
   },
