@@ -539,12 +539,12 @@
     },
     "564742": {
       "home": {
-        "possession": 60,
+        "possession": 59,
         "xg": 2.18,
         "shots": 19,
         "shotsOnTarget": 4,
-        "accuratePasses": 428,
-        "duelsWon": 31,
+        "accuratePasses": 448,
+        "duelsWon": 33,
         "boxTouches": 37,
         "fouls": 5,
         "corners": 4,
@@ -552,14 +552,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 40,
+        "possession": 41,
         "xg": 0.09,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 263,
+        "accuratePasses": 288,
         "duelsWon": 26,
         "boxTouches": 3,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 1,
         "offsides": 0,
         "saves": 4
@@ -643,30 +643,30 @@
     },
     "564747": {
       "home": {
-        "possession": 75,
-        "xg": 1.44,
-        "shots": 16,
-        "shotsOnTarget": 4,
-        "accuratePasses": 401,
-        "duelsWon": 38,
-        "boxTouches": 31,
-        "fouls": 4,
+        "possession": 74,
+        "xg": 1.53,
+        "shots": 18,
+        "shotsOnTarget": 5,
+        "accuratePasses": 426,
+        "duelsWon": 45,
+        "boxTouches": 35,
+        "fouls": 6,
         "corners": 8,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 25,
+        "possession": 26,
         "xg": 0.45,
         "shots": 7,
         "shotsOnTarget": 0,
-        "accuratePasses": 93,
-        "duelsWon": 34,
+        "accuratePasses": 101,
+        "duelsWon": 38,
         "boxTouches": 10,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 4,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -686,6 +686,12 @@
           "type": "yellow-card",
           "teamId": "94",
           "playerName": "Santi Comesaña"
+        },
+        {
+          "minute": "76'",
+          "type": "yellow-card",
+          "teamId": "94",
+          "playerName": "Renato Veiga"
         }
       ]
     }
@@ -880,27 +886,27 @@
     },
     "565856": {
       "home": {
-        "possession": 60,
+        "possession": 56,
         "xg": 1.1,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 180,
-        "duelsWon": 16,
+        "accuratePasses": 191,
+        "duelsWon": 19,
         "boxTouches": 9,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 40,
-        "xg": 0.67,
+        "possession": 44,
+        "xg": 0.77,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 110,
-        "duelsWon": 12,
-        "boxTouches": 13,
-        "fouls": 1,
+        "accuratePasses": 143,
+        "duelsWon": 15,
+        "boxTouches": 14,
+        "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 2
@@ -1652,6 +1658,33 @@
       ],
       "final": true
     },
+    "558838": {
+      "home": {
+        "possession": 32,
+        "xg": 0.05,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 9,
+        "duelsWon": 3,
+        "boxTouches": 2,
+        "fouls": 2,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 68,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 31,
+        "duelsWon": 5,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      }
+    },
     "558839": {
       "home": {
         "possession": 56,
@@ -1969,10 +2002,10 @@
         "xg": 0.24,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 109,
+        "accuratePasses": 120,
         "duelsWon": 22,
         "boxTouches": 4,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -1980,10 +2013,10 @@
       "away": {
         "possession": 58,
         "xg": 1.14,
-        "shots": 6,
+        "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 185,
-        "duelsWon": 26,
+        "accuratePasses": 202,
+        "duelsWon": 30,
         "boxTouches": 8,
         "fouls": 4,
         "corners": 1,
