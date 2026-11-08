@@ -6,7 +6,7 @@
         "xg": 0.94,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 139,
+        "accuratePasses": 140,
         "duelsWon": 24,
         "boxTouches": 14,
         "fouls": 5,
@@ -95,12 +95,12 @@
     },
     "560637": {
       "home": {
-        "possession": 56,
+        "possession": 55,
         "xg": 0.1,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 220,
-        "duelsWon": 44,
+        "accuratePasses": 223,
+        "duelsWon": 45,
         "boxTouches": 11,
         "fouls": 1,
         "corners": 0,
@@ -108,13 +108,13 @@
         "saves": 2
       },
       "away": {
-        "possession": 44,
+        "possession": 45,
         "xg": 1.33,
-        "shots": 8,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 163,
+        "accuratePasses": 172,
         "duelsWon": 24,
-        "boxTouches": 10,
+        "boxTouches": 13,
         "fouls": 8,
         "corners": 4,
         "offsides": 0,
@@ -144,6 +144,12 @@
           "type": "yellow-card",
           "teamId": "1044",
           "playerName": "Adam Smith"
+        },
+        {
+          "minute": "46'",
+          "type": "goal",
+          "teamId": "1044",
+          "playerName": "<TBD>"
         }
       ]
     },
@@ -295,26 +301,26 @@
   "BL1": {
     "565855": {
       "home": {
-        "possession": 37,
+        "possession": 36,
         "xg": 0.58,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 97,
-        "duelsWon": 12,
-        "boxTouches": 8,
+        "accuratePasses": 116,
+        "duelsWon": 13,
+        "boxTouches": 10,
         "fouls": 6,
         "corners": 0,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "away": {
-        "possession": 63,
-        "xg": 0.94,
-        "shots": 5,
-        "shotsOnTarget": 4,
-        "accuratePasses": 169,
-        "duelsWon": 13,
-        "boxTouches": 7,
+        "possession": 64,
+        "xg": 0.99,
+        "shots": 6,
+        "shotsOnTarget": 5,
+        "accuratePasses": 207,
+        "duelsWon": 18,
+        "boxTouches": 10,
         "fouls": 3,
         "corners": 2,
         "offsides": 0,
@@ -327,6 +333,12 @@
           "teamId": "3",
           "playerName": "Aleix García",
           "method": "free kick"
+        },
+        {
+          "minute": "34'",
+          "type": "yellow-card",
+          "teamId": "3",
+          "playerName": "Facundo Medina"
         }
       ]
     }
@@ -498,10 +510,10 @@
     "559636": {
       "home": {
         "possession": 52,
-        "xg": 1.13,
+        "xg": 1.09,
         "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 253,
+        "accuratePasses": 257,
         "duelsWon": 22,
         "boxTouches": 12,
         "fouls": 2,
@@ -514,9 +526,9 @@
         "xg": 0.13,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 228,
+        "accuratePasses": 245,
         "duelsWon": 12,
-        "boxTouches": 6,
+        "boxTouches": 7,
         "fouls": 9,
         "corners": 1,
         "offsides": 0,
@@ -543,14 +555,14 @@
     "558839": {
       "home": {
         "possession": 55,
-        "xg": 1.41,
-        "shots": 17,
-        "shotsOnTarget": 4,
-        "accuratePasses": 343,
-        "duelsWon": 34,
-        "boxTouches": 32,
+        "xg": 1.71,
+        "shots": 19,
+        "shotsOnTarget": 5,
+        "accuratePasses": 356,
+        "duelsWon": 37,
+        "boxTouches": 34,
         "fouls": 8,
-        "corners": 6,
+        "corners": 7,
         "offsides": 2,
         "saves": 0
       },
@@ -559,11 +571,11 @@
         "xg": 0.68,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 292,
+        "accuratePasses": 296,
         "duelsWon": 33,
         "boxTouches": 12,
-        "fouls": 7,
-        "corners": 0,
+        "fouls": 9,
+        "corners": 1,
         "offsides": 2,
         "saves": 4
       },
@@ -606,6 +618,19 @@
           "teamId": "678",
           "playerName": "Rayane Bounida",
           "assist": "Oscar Gloukh"
+        },
+        {
+          "minute": "68'",
+          "type": "goal",
+          "teamId": "666",
+          "playerName": "Wout Weghorst",
+          "method": "header"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "678",
+          "playerName": "Oscar Gloukh"
         }
       ]
     },
