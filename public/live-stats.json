@@ -2,25 +2,28 @@
   "PD": {
     "564738": {
       "home": {
-        "possession": 48,
-        "shots": 0,
+        "possession": 41,
+        "xg": 0.05,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 40,
-        "duelsWon": 3,
-        "boxTouches": 2,
+        "accuratePasses": 50,
+        "duelsWon": 7,
+        "boxTouches": 3,
         "fouls": 0,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 52,
-        "shots": 0,
+        "possession": 59,
+        "xg": 0.05,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 49,
-        "duelsWon": 4,
-        "fouls": 0,
-        "corners": 1,
+        "accuratePasses": 83,
+        "duelsWon": 5,
+        "boxTouches": 4,
+        "fouls": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       }
@@ -29,28 +32,28 @@
   "SA": {
     "558533": {
       "home": {
-        "possession": 50,
-        "xg": 2.06,
+        "possession": 49,
+        "xg": 2.12,
         "shots": 12,
         "shotsOnTarget": 6,
-        "accuratePasses": 335,
-        "duelsWon": 38,
+        "accuratePasses": 349,
+        "duelsWon": 39,
         "boxTouches": 30,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 4,
         "offsides": 2,
         "saves": 5
       },
       "away": {
-        "possession": 50,
-        "xg": 0.85,
+        "possession": 51,
+        "xg": 0.86,
         "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 342,
-        "duelsWon": 34,
+        "accuratePasses": 383,
+        "duelsWon": 35,
         "boxTouches": 25,
         "fouls": 8,
-        "corners": 5,
+        "corners": 6,
         "offsides": 1,
         "saves": 6
       },
@@ -100,12 +103,12 @@
     "558840": {
       "home": {
         "possession": 50,
-        "xg": 1.53,
-        "shots": 17,
-        "shotsOnTarget": 8,
-        "accuratePasses": 415,
+        "xg": 1.89,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 414,
         "duelsWon": 33,
-        "boxTouches": 39,
+        "boxTouches": 40,
         "fouls": 9,
         "corners": 4,
         "offsides": 0,
@@ -122,7 +125,7 @@
         "fouls": 8,
         "corners": 1,
         "offsides": 1,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -160,16 +163,16 @@
         },
         {
           "minute": "69'",
+          "type": "yellow-card",
+          "teamId": "673",
+          "playerName": "Levi Smans"
+        },
+        {
+          "minute": "69'",
           "type": "goal",
           "teamId": "675",
           "playerName": "Sem Steijn",
           "assist": "Nacho Ferri"
-        },
-        {
-          "minute": "69'",
-          "type": "yellow-card",
-          "teamId": "673",
-          "playerName": "Levi Smans"
         },
         {
           "minute": "85'",
@@ -182,9 +185,11 @@
           "minute": "90'+3'",
           "type": "goal",
           "teamId": "673",
-          "playerName": "<TBD>"
+          "playerName": "Ringo Meerveld",
+          "assist": "Luca Oyen"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
