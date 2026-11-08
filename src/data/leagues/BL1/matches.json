@@ -4170,14 +4170,42 @@
     "matchday": 9,
     "stage": "regular",
     "utcDate": "2026-11-08T18:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "2",
     "awayTeamId": "6",
     "homeTeam": {
       "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 1.9,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 367,
+        "duelsWon": 48,
+        "boxTouches": 26,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 6,
+        "saves": 4
+      },
+      "away": {
+        "possession": 51,
+        "xg": 2.6,
+        "shots": 23,
+        "shotsOnTarget": 6,
+        "accuratePasses": 348,
+        "duelsWon": 47,
+        "boxTouches": 38,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "PreZero Arena, Sinsheim",
     "broadcasts": [

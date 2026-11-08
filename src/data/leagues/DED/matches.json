@@ -5216,14 +5216,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-08T19:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "676",
     "awayTeamId": "1915",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 2.02,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 294,
+        "duelsWon": 44,
+        "boxTouches": 21,
+        "fouls": 17,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 50,
+        "xg": 2.25,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 295,
+        "duelsWon": 47,
+        "boxTouches": 29,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Stadion Galgenwaard, Utrecht"
   },
