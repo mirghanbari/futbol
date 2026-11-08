@@ -2,25 +2,25 @@
   "PD": {
     "564738": {
       "home": {
-        "possession": 60,
+        "possession": 48,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 20,
-        "duelsWon": 2,
-        "boxTouches": 1,
+        "accuratePasses": 40,
+        "duelsWon": 3,
+        "boxTouches": 2,
         "fouls": 0,
         "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 40,
+        "possession": 52,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 15,
-        "duelsWon": 3,
+        "accuratePasses": 49,
+        "duelsWon": 4,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       }
@@ -30,29 +30,29 @@
     "558533": {
       "home": {
         "possession": 50,
-        "xg": 2.02,
-        "shots": 11,
-        "shotsOnTarget": 5,
-        "accuratePasses": 318,
-        "duelsWon": 33,
+        "xg": 2.06,
+        "shots": 12,
+        "shotsOnTarget": 6,
+        "accuratePasses": 335,
+        "duelsWon": 38,
         "boxTouches": 30,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 4,
         "offsides": 2,
-        "saves": 3
+        "saves": 5
       },
       "away": {
         "possession": 50,
-        "xg": 0.68,
-        "shots": 13,
-        "shotsOnTarget": 4,
-        "accuratePasses": 333,
-        "duelsWon": 28,
-        "boxTouches": 23,
-        "fouls": 7,
+        "xg": 0.85,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 342,
+        "duelsWon": 34,
+        "boxTouches": 25,
+        "fouls": 8,
         "corners": 5,
-        "offsides": 0,
-        "saves": 5
+        "offsides": 1,
+        "saves": 6
       },
       "events": [
         {
@@ -86,6 +86,12 @@
           "type": "yellow-card",
           "teamId": "113",
           "playerName": "Billy Gilmour"
+        },
+        {
+          "minute": "77'",
+          "type": "yellow-card",
+          "teamId": "110",
+          "playerName": "Alfonso Pedraza"
         }
       ]
     }
@@ -93,29 +99,29 @@
   "DED": {
     "558840": {
       "home": {
-        "possession": 49,
+        "possession": 50,
         "xg": 1.53,
-        "shots": 16,
-        "shotsOnTarget": 7,
-        "accuratePasses": 405,
-        "duelsWon": 27,
-        "boxTouches": 36,
-        "fouls": 8,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 415,
+        "duelsWon": 33,
+        "boxTouches": 39,
+        "fouls": 9,
         "corners": 4,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 51,
+        "possession": 50,
         "xg": 1.17,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 426,
-        "duelsWon": 39,
+        "accuratePasses": 429,
+        "duelsWon": 46,
         "boxTouches": 12,
-        "fouls": 6,
+        "fouls": 8,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 4
       },
       "events": [
@@ -171,6 +177,12 @@
           "teamId": "673",
           "playerName": "Ringo Meerveld",
           "assist": "Jacob Trenskow"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "goal",
+          "teamId": "673",
+          "playerName": "<TBD>"
         }
       ]
     }
