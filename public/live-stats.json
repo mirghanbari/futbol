@@ -2,27 +2,27 @@
   "SA": {
     "558533": {
       "home": {
-        "possession": 48,
-        "xg": 0.76,
+        "possession": 49,
+        "xg": 1.08,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 190,
-        "duelsWon": 17,
+        "accuratePasses": 205,
+        "duelsWon": 20,
         "boxTouches": 18,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 2,
         "offsides": 1,
         "saves": 3
       },
       "away": {
-        "possession": 52,
-        "xg": 0.67,
-        "shots": 13,
+        "possession": 51,
+        "xg": 0.58,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 218,
-        "duelsWon": 18,
+        "accuratePasses": 220,
+        "duelsWon": 20,
         "boxTouches": 20,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 5,
         "offsides": 0,
         "saves": 2
@@ -34,6 +34,12 @@
           "teamId": "110",
           "playerName": "Davide Frattesi",
           "assist": "Tijjani Noslin"
+        },
+        {
+          "minute": "44'",
+          "type": "yellow-card",
+          "teamId": "113",
+          "playerName": "Noa Lang"
         }
       ]
     }
