@@ -654,21 +654,21 @@
         "xg": 1.53,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 306,
-        "duelsWon": 55,
+        "accuratePasses": 317,
+        "duelsWon": 58,
         "boxTouches": 19,
-        "fouls": 12,
+        "fouls": 14,
         "corners": 4,
         "offsides": 5,
         "saves": 3
       },
       "away": {
         "possession": 63,
-        "xg": 1.54,
-        "shots": 18,
+        "xg": 1.6,
+        "shots": 19,
         "shotsOnTarget": 4,
-        "accuratePasses": 595,
-        "duelsWon": 44,
+        "accuratePasses": 615,
+        "duelsWon": 48,
         "boxTouches": 27,
         "fouls": 14,
         "corners": 2,
@@ -720,7 +720,8 @@
           "teamId": "78",
           "playerName": "Marc Pubill"
         }
-      ]
+      ],
+      "final": true
     },
     "564747": {
       "home": {
@@ -2604,21 +2605,21 @@
         "accuratePasses": 270,
         "duelsWon": 31,
         "boxTouches": 2,
-        "fouls": 11,
+        "fouls": 12,
         "corners": 0,
         "offsides": 2,
         "saves": 1
       },
       "away": {
         "possession": 46,
-        "xg": 0.69,
-        "shots": 7,
-        "shotsOnTarget": 1,
-        "accuratePasses": 210,
-        "duelsWon": 31,
-        "boxTouches": 7,
+        "xg": 0.74,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 218,
+        "duelsWon": 32,
+        "boxTouches": 11,
         "fouls": 15,
-        "corners": 2,
+        "corners": 3,
         "offsides": 3,
         "saves": 3
       },
@@ -2628,17 +2629,30 @@
           "type": "yellow-card",
           "teamId": "496",
           "playerName": "Diogo Nascimento"
+        },
+        {
+          "minute": "67'",
+          "type": "goal",
+          "teamId": "5613",
+          "playerName": "Ricardo Horta",
+          "penalty": true
+        },
+        {
+          "minute": "67'",
+          "type": "yellow-card",
+          "teamId": "496",
+          "playerName": "Diogo Bezerra"
         }
       ]
     },
     "567355": {
       "home": {
-        "possession": 36,
-        "xg": 1,
-        "shots": 5,
+        "possession": 35,
+        "xg": 1.02,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 180,
-        "duelsWon": 23,
+        "accuratePasses": 191,
+        "duelsWon": 25,
         "boxTouches": 10,
         "fouls": 10,
         "corners": 1,
@@ -2646,13 +2660,13 @@
         "saves": 1
       },
       "away": {
-        "possession": 64,
+        "possession": 65,
         "xg": 0.41,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 350,
-        "duelsWon": 33,
-        "boxTouches": 15,
+        "accuratePasses": 391,
+        "duelsWon": 36,
+        "boxTouches": 16,
         "fouls": 8,
         "corners": 5,
         "offsides": 1,
