@@ -1,28 +1,55 @@
 {
+  "PD": {
+    "564738": {
+      "home": {
+        "possession": 60,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 20,
+        "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 40,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 15,
+        "duelsWon": 3,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    }
+  },
   "SA": {
     "558533": {
       "home": {
-        "possession": 51,
+        "possession": 50,
         "xg": 2.02,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 295,
-        "duelsWon": 31,
-        "boxTouches": 29,
-        "fouls": 7,
+        "accuratePasses": 318,
+        "duelsWon": 33,
+        "boxTouches": 30,
+        "fouls": 9,
         "corners": 4,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 49,
+        "possession": 50,
         "xg": 0.68,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 292,
-        "duelsWon": 26,
+        "accuratePasses": 333,
+        "duelsWon": 28,
         "boxTouches": 23,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 5,
         "offsides": 0,
         "saves": 5
@@ -67,13 +94,13 @@
     "558840": {
       "home": {
         "possession": 49,
-        "xg": 1.47,
-        "shots": 15,
-        "shotsOnTarget": 6,
-        "accuratePasses": 395,
-        "duelsWon": 26,
-        "boxTouches": 35,
-        "fouls": 7,
+        "xg": 1.53,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 405,
+        "duelsWon": 27,
+        "boxTouches": 36,
+        "fouls": 8,
         "corners": 4,
         "offsides": 0,
         "saves": 0
@@ -83,10 +110,10 @@
         "xg": 1.17,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 415,
-        "duelsWon": 36,
+        "accuratePasses": 426,
+        "duelsWon": 39,
         "boxTouches": 12,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 1,
         "offsides": 0,
         "saves": 4
@@ -137,6 +164,13 @@
           "type": "yellow-card",
           "teamId": "673",
           "playerName": "Levi Smans"
+        },
+        {
+          "minute": "85'",
+          "type": "goal",
+          "teamId": "673",
+          "playerName": "Ringo Meerveld",
+          "assist": "Jacob Trenskow"
         }
       ]
     }
