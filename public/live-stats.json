@@ -650,30 +650,40 @@
     },
     "564746": {
       "home": {
-        "possession": 53,
-        "xg": 0.05,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 35,
-        "duelsWon": 4,
-        "boxTouches": 7,
-        "fouls": 0,
+        "possession": 43,
+        "xg": 0.74,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 50,
+        "duelsWon": 8,
+        "boxTouches": 9,
+        "fouls": 1,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 47,
+        "possession": 57,
         "xg": 0.07,
-        "shots": 0,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 37,
-        "duelsWon": 1,
+        "accuratePasses": 77,
+        "duelsWon": 5,
+        "boxTouches": 2,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "10'",
+          "type": "goal",
+          "teamId": "78",
+          "playerName": "Giuliano Simeone",
+          "assist": "Julián Álvarez"
+        }
+      ]
     },
     "564747": {
       "home": {
@@ -939,23 +949,23 @@
         "xg": 1.46,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 336,
-        "duelsWon": 41,
+        "accuratePasses": 349,
+        "duelsWon": 44,
         "boxTouches": 24,
         "fouls": 7,
         "corners": 4,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 4
       },
       "away": {
         "possession": 49,
-        "xg": 1.69,
+        "xg": 2.51,
         "shots": 22,
         "shotsOnTarget": 6,
-        "accuratePasses": 284,
-        "duelsWon": 36,
+        "accuratePasses": 301,
+        "duelsWon": 38,
         "boxTouches": 36,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 4,
         "offsides": 2,
         "saves": 4
@@ -992,28 +1002,28 @@
   "SA": {
     "558529": {
       "home": {
-        "possession": 25,
-        "xg": 0.41,
-        "shots": 3,
+        "possession": 32,
+        "xg": 0.46,
+        "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 37,
-        "duelsWon": 7,
-        "boxTouches": 3,
+        "accuratePasses": 67,
+        "duelsWon": 9,
+        "boxTouches": 4,
         "fouls": 5,
         "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 75,
-        "xg": 0.28,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 124,
-        "duelsWon": 8,
-        "boxTouches": 8,
-        "fouls": 2,
-        "corners": 4,
+        "possession": 68,
+        "xg": 0.36,
+        "shots": 4,
+        "shotsOnTarget": 1,
+        "accuratePasses": 141,
+        "duelsWon": 15,
+        "boxTouches": 11,
+        "fouls": 4,
+        "corners": 6,
         "offsides": 0,
         "saves": 0
       },
@@ -1031,6 +1041,12 @@
           "type": "yellow-card",
           "teamId": "109",
           "playerName": "Juan Cabal"
+        },
+        {
+          "minute": "22'",
+          "type": "yellow-card",
+          "teamId": "109",
+          "playerName": "Gleison Bremer"
         }
       ]
     },
@@ -1336,30 +1352,30 @@
   "FL1": {
     "559630": {
       "home": {
-        "possession": 48,
-        "xg": 0.83,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 97,
-        "duelsWon": 9,
-        "boxTouches": 8,
+        "possession": 47,
+        "xg": 0.89,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 119,
+        "duelsWon": 10,
+        "boxTouches": 9,
         "fouls": 2,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 52,
-        "xg": 0.82,
-        "shots": 4,
+        "possession": 53,
+        "xg": 0.99,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 117,
-        "duelsWon": 12,
-        "boxTouches": 7,
+        "accuratePasses": 150,
+        "duelsWon": 14,
+        "boxTouches": 8,
         "fouls": 2,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -1809,27 +1825,27 @@
     },
     "558838": {
       "home": {
-        "possession": 39,
-        "xg": 0.26,
-        "shots": 5,
+        "possession": 42,
+        "xg": 0.37,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 124,
-        "duelsWon": 17,
-        "boxTouches": 6,
+        "accuratePasses": 157,
+        "duelsWon": 21,
+        "boxTouches": 7,
         "fouls": 12,
         "corners": 0,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 61,
-        "xg": 1.23,
-        "shots": 11,
+        "possession": 58,
+        "xg": 1.4,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 206,
-        "duelsWon": 27,
-        "boxTouches": 19,
-        "fouls": 3,
+        "accuratePasses": 223,
+        "duelsWon": 28,
+        "boxTouches": 20,
+        "fouls": 6,
         "corners": 6,
         "offsides": 0,
         "saves": 1
