@@ -6186,14 +6186,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-07T20:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "95",
     "awayTeamId": "86",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 32,
+        "xg": 0.18,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 225,
+        "duelsWon": 32,
+        "boxTouches": 5,
+        "fouls": 26,
+        "corners": 2,
+        "offsides": 3,
+        "saves": 8
+      },
+      "away": {
+        "possession": 68,
+        "xg": 2.34,
+        "shots": 19,
+        "shotsOnTarget": 11,
+        "accuratePasses": 568,
+        "duelsWon": 58,
+        "boxTouches": 34,
+        "fouls": 6,
+        "corners": 5,
+        "offsides": 5,
+        "saves": 2
+      }
     },
     "venue": "Mestalla Stadium, Manises",
     "broadcasts": [
@@ -6826,6 +6854,54 @@
       "goals": 0
     },
     "venue": "RCDE Stadium, Barcelona",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564855",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 23,
+    "stage": "regular",
+    "utcDate": "2026-12-02T18:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "92",
+    "awayTeamId": "86",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Reale Arena, San Sebastian",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564857",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 23,
+    "stage": "regular",
+    "utcDate": "2026-12-02T20:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "81",
+    "awayTeamId": "78",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
       {
         "name": "ESPN+",
@@ -8887,30 +8963,6 @@
     }
   },
   {
-    "id": "564855",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 23,
-    "stage": "regular",
-    "utcDate": "2027-02-07T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "92",
-    "awayTeamId": "86",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Reale Arena, San Sebastian",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "564856",
     "competitionId": "PD",
     "season": "2026",
@@ -8927,30 +8979,6 @@
       "goals": 0
     },
     "venue": "Mestalla Stadium, Manises",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564857",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 23,
-    "stage": "regular",
-    "utcDate": "2027-02-07T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "81",
-    "awayTeamId": "78",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
       {
         "name": "ESPN+",

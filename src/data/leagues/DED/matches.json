@@ -4962,14 +4962,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-07T20:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "670",
     "awayTeamId": "718",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 0.8,
+        "shots": 14,
+        "shotsOnTarget": 2,
+        "accuratePasses": 355,
+        "duelsWon": 47,
+        "boxTouches": 27,
+        "fouls": 6,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 51,
+        "xg": 0.59,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 396,
+        "duelsWon": 39,
+        "boxTouches": 13,
+        "fouls": 7,
+        "corners": 0,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Stadion Woudestein, Rotterdam"
   },
