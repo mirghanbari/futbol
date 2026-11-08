@@ -650,30 +650,30 @@
     },
     "564746": {
       "home": {
-        "possession": 41,
-        "xg": 0.74,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 80,
-        "duelsWon": 14,
-        "boxTouches": 9,
-        "fouls": 2,
-        "corners": 2,
-        "offsides": 0,
-        "saves": 0
+        "possession": 36,
+        "xg": 0.82,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 94,
+        "duelsWon": 18,
+        "boxTouches": 13,
+        "fouls": 3,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 1
       },
       "away": {
-        "possession": 59,
+        "possession": 64,
         "xg": 0.2,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 137,
-        "duelsWon": 10,
-        "boxTouches": 4,
+        "accuratePasses": 192,
+        "duelsWon": 13,
+        "boxTouches": 7,
         "fouls": 3,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 2
       },
       "events": [
         {
@@ -946,15 +946,15 @@
     "565856": {
       "home": {
         "possession": 49,
-        "xg": 1.57,
-        "shots": 14,
-        "shotsOnTarget": 6,
-        "accuratePasses": 349,
-        "duelsWon": 45,
-        "boxTouches": 25,
+        "xg": 1.9,
+        "shots": 15,
+        "shotsOnTarget": 7,
+        "accuratePasses": 367,
+        "duelsWon": 49,
+        "boxTouches": 26,
         "fouls": 10,
-        "corners": 4,
-        "offsides": 5,
+        "corners": 6,
+        "offsides": 6,
         "saves": 4
       },
       "away": {
@@ -962,13 +962,13 @@
         "xg": 2.6,
         "shots": 23,
         "shotsOnTarget": 6,
-        "accuratePasses": 334,
-        "duelsWon": 43,
+        "accuratePasses": 345,
+        "duelsWon": 46,
         "boxTouches": 38,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 4,
         "offsides": 2,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -996,34 +996,35 @@
           "teamId": "6",
           "playerName": "Chukwubuike Adamu"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "SA": {
     "558529": {
       "home": {
-        "possession": 38,
-        "xg": 0.46,
-        "shots": 4,
+        "possession": 36,
+        "xg": 0.47,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 95,
-        "duelsWon": 14,
+        "accuratePasses": 103,
+        "duelsWon": 19,
         "boxTouches": 5,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 3
       },
       "away": {
-        "possession": 62,
-        "xg": 0.54,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 160,
-        "duelsWon": 18,
-        "boxTouches": 15,
-        "fouls": 6,
-        "corners": 6,
+        "possession": 64,
+        "xg": 1.07,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 190,
+        "duelsWon": 23,
+        "boxTouches": 21,
+        "fouls": 8,
+        "corners": 8,
         "offsides": 0,
         "saves": 0
       },
@@ -1359,28 +1360,28 @@
   "FL1": {
     "559630": {
       "home": {
-        "possession": 42,
-        "xg": 0.89,
-        "shots": 7,
+        "possession": 39,
+        "xg": 0.91,
+        "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 131,
-        "duelsWon": 11,
-        "boxTouches": 9,
+        "accuratePasses": 141,
+        "duelsWon": 12,
+        "boxTouches": 10,
         "fouls": 4,
         "corners": 3,
-        "offsides": 0,
-        "saves": 0
+        "offsides": 1,
+        "saves": 1
       },
       "away": {
-        "possession": 58,
-        "xg": 1.03,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 208,
+        "possession": 61,
+        "xg": 1.09,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 259,
         "duelsWon": 18,
-        "boxTouches": 9,
+        "boxTouches": 12,
         "fouls": 3,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 2
       },
@@ -1832,27 +1833,27 @@
     },
     "558838": {
       "home": {
-        "possession": 45,
-        "xg": 1.09,
-        "shots": 7,
-        "shotsOnTarget": 2,
-        "accuratePasses": 189,
-        "duelsWon": 22,
-        "boxTouches": 10,
-        "fouls": 12,
+        "possession": 46,
+        "xg": 1.36,
+        "shots": 10,
+        "shotsOnTarget": 3,
+        "accuratePasses": 213,
+        "duelsWon": 25,
+        "boxTouches": 13,
+        "fouls": 14,
         "corners": 0,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 55,
+        "possession": 54,
         "xg": 2.07,
         "shots": 14,
         "shotsOnTarget": 6,
-        "accuratePasses": 231,
-        "duelsWon": 32,
+        "accuratePasses": 248,
+        "duelsWon": 35,
         "boxTouches": 24,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 6,
         "offsides": 0,
         "saves": 1
@@ -1884,7 +1885,15 @@
           "minute": "58'",
           "type": "goal",
           "teamId": "1915",
-          "playerName": "<TBD>"
+          "playerName": "Dušan Tadić"
+        },
+        {
+          "minute": "64'",
+          "type": "goal",
+          "teamId": "676",
+          "playerName": "Dani de Wit",
+          "method": "header",
+          "assist": "Nordin Amrabat"
         }
       ]
     },
