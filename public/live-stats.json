@@ -2602,9 +2602,9 @@
         "xg": 0.18,
         "shots": 4,
         "shotsOnTarget": 3,
-        "accuratePasses": 362,
-        "duelsWon": 43,
-        "boxTouches": 2,
+        "accuratePasses": 365,
+        "duelsWon": 45,
+        "boxTouches": 3,
         "fouls": 12,
         "corners": 0,
         "offsides": 2,
@@ -2612,14 +2612,14 @@
       },
       "away": {
         "possession": 46,
-        "xg": 1.83,
-        "shots": 12,
+        "xg": 1.85,
+        "shots": 13,
         "shotsOnTarget": 2,
-        "accuratePasses": 290,
-        "duelsWon": 45,
+        "accuratePasses": 294,
+        "duelsWon": 47,
         "boxTouches": 17,
         "fouls": 22,
-        "corners": 7,
+        "corners": 8,
         "offsides": 3,
         "saves": 3
       },
@@ -2632,16 +2632,16 @@
         },
         {
           "minute": "67'",
+          "type": "yellow-card",
+          "teamId": "496",
+          "playerName": "Diogo Bezerra"
+        },
+        {
+          "minute": "67'",
           "type": "goal",
           "teamId": "5613",
           "playerName": "Ricardo Horta",
           "penalty": true
-        },
-        {
-          "minute": "67'",
-          "type": "yellow-card",
-          "teamId": "496",
-          "playerName": "Diogo Bezerra"
         },
         {
           "minute": "79'",
@@ -2649,7 +2649,8 @@
           "teamId": "5613",
           "playerName": "Fran Navarro"
         }
-      ]
+      ],
+      "final": true
     },
     "567355": {
       "home": {
@@ -2657,24 +2658,24 @@
         "xg": 1.32,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 271,
+        "accuratePasses": 276,
         "duelsWon": 37,
-        "boxTouches": 11,
+        "boxTouches": 12,
         "fouls": 15,
         "corners": 1,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
         "possession": 62,
-        "xg": 0.66,
-        "shots": 13,
-        "shotsOnTarget": 3,
-        "accuratePasses": 485,
+        "xg": 1.06,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 486,
         "duelsWon": 47,
-        "boxTouches": 22,
+        "boxTouches": 24,
         "fouls": 12,
-        "corners": 7,
+        "corners": 10,
         "offsides": 2,
         "saves": 0
       },
@@ -2724,8 +2725,16 @@
           "type": "yellow-card",
           "teamId": "9136",
           "playerName": "Alisson Jesus"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "goal",
+          "teamId": "1903",
+          "playerName": "Vangelis Pavlidis",
+          "assist": "Andreas Schjelderup"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
