@@ -363,25 +363,25 @@
     },
     "560639": {
       "home": {
-        "possession": 55,
-        "xg": 2.95,
-        "shots": 23,
-        "shotsOnTarget": 8,
-        "accuratePasses": 399,
-        "duelsWon": 45,
-        "boxTouches": 36,
+        "possession": 56,
+        "xg": 3.41,
+        "shots": 26,
+        "shotsOnTarget": 9,
+        "accuratePasses": 418,
+        "duelsWon": 46,
+        "boxTouches": 43,
         "fouls": 18,
-        "corners": 7,
+        "corners": 8,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 45,
+        "possession": 44,
         "xg": 2.88,
         "shots": 12,
         "shotsOnTarget": 6,
-        "accuratePasses": 331,
-        "duelsWon": 47,
+        "accuratePasses": 335,
+        "duelsWon": 48,
         "boxTouches": 18,
         "fouls": 9,
         "corners": 1,
@@ -442,6 +442,20 @@
           "teamId": "66",
           "playerName": "Joshua Zirkzee",
           "assist": "Patrick Dorgu"
+        },
+        {
+          "minute": "90'+6'",
+          "type": "goal",
+          "teamId": "66",
+          "playerName": "Patrick Dorgu",
+          "method": "header",
+          "assist": "Bruno Fernandes"
+        },
+        {
+          "minute": "90'+7'",
+          "type": "yellow-card",
+          "teamId": "58",
+          "playerName": "Zion Suzuki"
         }
       ]
     }
@@ -678,7 +692,7 @@
         "shotsOnTarget": 0,
         "accuratePasses": 277,
         "duelsWon": 43,
-        "boxTouches": 12,
+        "boxTouches": 11,
         "fouls": 17,
         "corners": 1,
         "offsides": 3,
@@ -723,7 +737,8 @@
           "teamId": "28",
           "playerName": "Woo-Yeong Jeong"
         }
-      ]
+      ],
+      "final": true
     },
     "565855": {
       "home": {
@@ -851,10 +866,10 @@
         "xg": 1.73,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 299,
+        "accuratePasses": 336,
         "duelsWon": 20,
         "boxTouches": 22,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 2,
         "offsides": 4,
         "saves": 0
@@ -864,8 +879,8 @@
         "xg": 0.04,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 390,
-        "duelsWon": 19,
+        "accuratePasses": 432,
+        "duelsWon": 20,
         "boxTouches": 2,
         "fouls": 5,
         "corners": 0,
@@ -1880,30 +1895,30 @@
   "PPL": {
     "567349": {
       "home": {
-        "possession": 44,
-        "xg": 0.09,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 52,
-        "duelsWon": 13,
-        "boxTouches": 2,
+        "possession": 45,
+        "xg": 0.15,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 65,
+        "duelsWon": 15,
+        "boxTouches": 3,
         "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 56,
+        "possession": 55,
         "xg": 0.61,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 80,
-        "duelsWon": 9,
+        "accuratePasses": 100,
+        "duelsWon": 11,
         "boxTouches": 3,
         "fouls": 2,
         "corners": 0,
-        "offsides": 4,
-        "saves": 0
+        "offsides": 6,
+        "saves": 1
       }
     },
     "567351": {
