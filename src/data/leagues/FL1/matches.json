@@ -4068,14 +4068,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "529",
     "awayTeamId": "521",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -4120,14 +4120,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "535",
     "awayTeamId": "548",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "stats": {
       "home": {
@@ -4172,11 +4172,11 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "512",
     "awayTeamId": "523",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -4224,14 +4224,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "533",
     "awayTeamId": "525",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -4276,14 +4276,14 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "532",
     "awayTeamId": "522",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
@@ -4328,14 +4328,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-08T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "546",
     "awayTeamId": "516",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 1.92,
+        "shots": 13,
+        "shotsOnTarget": 6,
+        "accuratePasses": 350,
+        "duelsWon": 31,
+        "boxTouches": 21,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 59,
+        "xg": 2.16,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 553,
+        "duelsWon": 49,
+        "boxTouches": 20,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "Stade Bollaert-Delelis, Lens",
     "broadcasts": [
