@@ -4278,6 +4278,24 @@
     "venue": "Estádio José Alvalade, Lisbon"
   },
   {
+    "id": "567348",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 11,
+    "stage": "regular",
+    "utcDate": "2026-11-08T00:00:00Z",
+    "status": "postponed",
+    "homeTeamId": "582",
+    "awayTeamId": "5575",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio António Coimbra da Mota, Estoril"
+  },
+  {
     "id": "567351",
     "competitionId": "PPL",
     "season": "2026",
@@ -5309,24 +5327,6 @@
     "status": "scheduled",
     "homeTeamId": "582",
     "awayTeamId": "7822",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estádio António Coimbra da Mota, Estoril"
-  },
-  {
-    "id": "567348",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 11,
-    "stage": "regular",
-    "utcDate": "2027-01-04T20:15:00Z",
-    "status": "scheduled",
-    "homeTeamId": "582",
-    "awayTeamId": "5575",
     "homeTeam": {
       "goals": 0
     },
