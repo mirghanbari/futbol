@@ -6787,6 +6787,10 @@
     "venue": "Estadi Ciutat de València, Manises",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -6810,6 +6814,10 @@
     },
     "venue": "Estadio La Cartuja, Sevilla",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -6835,6 +6843,10 @@
     "venue": "La Rosaleda, Malaga",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -6858,6 +6870,10 @@
     },
     "venue": "Estadio Martínez Valero, Elche",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -6883,6 +6899,10 @@
     "venue": "Santiago Bernabéu, Madrid",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -6906,6 +6926,10 @@
     },
     "venue": "Mestalla Stadium, Manises",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -6948,6 +6972,10 @@
     "venue": "Balaidos, Vigo",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -6972,6 +7000,10 @@
     "venue": "Reale Arena, San Sebastian",
     "broadcasts": [
       {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -6995,6 +7027,10 @@
     },
     "venue": "RCDE Stadium, Barcelona",
     "broadcasts": [
+      {
+        "name": "ESPN Deportes",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
@@ -7163,54 +7199,6 @@
     ]
   },
   {
-    "id": "564769",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 15,
-    "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "559",
-    "awayTeamId": "84",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
-    "id": "564771",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 15,
-    "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "78",
-    "awayTeamId": "90",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Riyadh Air Metropolitano, Madrid",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "564768",
     "competitionId": "PD",
     "season": "2026",
@@ -7275,6 +7263,54 @@
       "goals": 0
     },
     "venue": "Estadio Coliseum, Getafe",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564771",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 15,
+    "stage": "regular",
+    "utcDate": "2026-12-06T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "78",
+    "awayTeamId": "90",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Riyadh Air Metropolitano, Madrid",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564769",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 15,
+    "stage": "regular",
+    "utcDate": "2026-12-07T20:00:00Z",
+    "status": "scheduled",
+    "homeTeamId": "559",
+    "awayTeamId": "84",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
     "broadcasts": [
       {
         "name": "ESPN+",
