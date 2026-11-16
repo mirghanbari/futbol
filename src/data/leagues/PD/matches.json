@@ -7211,30 +7211,6 @@
     ]
   },
   {
-    "id": "564774",
-    "competitionId": "PD",
-    "season": "2026",
-    "matchday": 15,
-    "stage": "regular",
-    "utcDate": "2026-12-06T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "82",
-    "awayTeamId": "95",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estadio Coliseum, Getafe",
-    "broadcasts": [
-      {
-        "name": "ESPN+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "564768",
     "competitionId": "PD",
     "season": "2026",
@@ -7275,6 +7251,30 @@
       "goals": 0
     },
     "venue": "San Mamés, Bilbao",
+    "broadcasts": [
+      {
+        "name": "ESPN+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "564774",
+    "competitionId": "PD",
+    "season": "2026",
+    "matchday": 15,
+    "stage": "regular",
+    "utcDate": "2026-12-06T17:30:00Z",
+    "status": "scheduled",
+    "homeTeamId": "82",
+    "awayTeamId": "95",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estadio Coliseum, Getafe",
     "broadcasts": [
       {
         "name": "ESPN+",
