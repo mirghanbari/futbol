@@ -7056,6 +7056,10 @@
     "venue": "Reale Arena, San Sebastian",
     "broadcasts": [
       {
+        "name": "ESPN2",
+        "kind": "tv"
+      },
+      {
         "name": "ESPN+",
         "kind": "streaming"
       }
@@ -7079,6 +7083,10 @@
     },
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
+      {
+        "name": "ESPN2",
+        "kind": "tv"
+      },
       {
         "name": "ESPN+",
         "kind": "streaming"
