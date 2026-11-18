@@ -4407,7 +4407,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Allianz Riviera, Nice"
+    "venue": "Allianz Riviera, Nice",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "559621",
@@ -4425,7 +4431,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade Louis II, Monaco"
+    "venue": "Stade Louis II, Monaco",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "559623",
@@ -4497,7 +4509,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade Jean Bouin, Paris"
+    "venue": "Stade Jean Bouin, Paris",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "559626",
@@ -4515,7 +4533,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade du Moustoir - Yves Allainmat, Lorient"
+    "venue": "Stade du Moustoir - Yves Allainmat, Lorient",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "559629",
@@ -4533,7 +4557,13 @@
     "awayTeam": {
       "goals": 0
     },
-    "venue": "Stade Vélodrome, Marseille"
+    "venue": "Stade Vélodrome, Marseille",
+    "broadcasts": [
+      {
+        "name": "beIn Sports",
+        "kind": "tv"
+      }
+    ]
   },
   {
     "id": "559616",
