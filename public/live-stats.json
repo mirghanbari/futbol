@@ -2,27 +2,27 @@
   "PD": {
     "564748": {
       "home": {
-        "possession": 51,
-        "xg": 0.88,
-        "shots": 10,
+        "possession": 52,
+        "xg": 0.91,
+        "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 234,
-        "duelsWon": 33,
-        "boxTouches": 13,
-        "fouls": 11,
-        "corners": 5,
+        "accuratePasses": 259,
+        "duelsWon": 36,
+        "boxTouches": 15,
+        "fouls": 12,
+        "corners": 6,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 49,
+        "possession": 48,
         "xg": 0.38,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 213,
-        "duelsWon": 34,
-        "boxTouches": 9,
-        "fouls": 8,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 226,
+        "duelsWon": 36,
+        "boxTouches": 11,
+        "fouls": 9,
         "corners": 2,
         "offsides": 2,
         "saves": 4
@@ -33,6 +33,12 @@
           "type": "yellow-card",
           "teamId": "77",
           "playerName": "Iñaki Williams"
+        },
+        {
+          "minute": "66'",
+          "type": "goal",
+          "teamId": "80",
+          "playerName": "Roberto Fernández"
         }
       ]
     }
@@ -44,8 +50,8 @@
         "xg": 0.94,
         "shots": 17,
         "shotsOnTarget": 1,
-        "accuratePasses": 708,
-        "duelsWon": 27,
+        "accuratePasses": 732,
+        "duelsWon": 30,
         "boxTouches": 35,
         "fouls": 6,
         "corners": 5,
@@ -54,13 +60,13 @@
       },
       "away": {
         "possession": 29,
-        "xg": 1.83,
-        "shots": 5,
+        "xg": 1.98,
+        "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 255,
-        "duelsWon": 45,
-        "boxTouches": 20,
-        "fouls": 2,
+        "accuratePasses": 262,
+        "duelsWon": 51,
+        "boxTouches": 22,
+        "fouls": 3,
         "corners": 0,
         "offsides": 2,
         "saves": 0
@@ -98,33 +104,34 @@
           "teamId": "1",
           "playerName": "Saïd El Mala"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "FL1": {
     "559622": {
       "home": {
-        "possession": 48,
-        "xg": 1.55,
-        "shots": 13,
-        "shotsOnTarget": 3,
-        "accuratePasses": 288,
-        "duelsWon": 50,
-        "boxTouches": 21,
-        "fouls": 14,
+        "possession": 47,
+        "xg": 1.58,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 298,
+        "duelsWon": 55,
+        "boxTouches": 23,
+        "fouls": 16,
         "corners": 6,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 52,
+        "possession": 53,
         "xg": 0.52,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 328,
-        "duelsWon": 47,
+        "accuratePasses": 365,
+        "duelsWon": 53,
         "boxTouches": 10,
-        "fouls": 16,
+        "fouls": 18,
         "corners": 0,
         "offsides": 1,
         "saves": 1
