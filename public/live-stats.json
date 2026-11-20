@@ -6,21 +6,21 @@
         "xg": 0.91,
         "shots": 11,
         "shotsOnTarget": 4,
-        "accuratePasses": 259,
-        "duelsWon": 36,
-        "boxTouches": 15,
-        "fouls": 12,
+        "accuratePasses": 276,
+        "duelsWon": 37,
+        "boxTouches": 16,
+        "fouls": 14,
         "corners": 6,
         "offsides": 2,
         "saves": 2
       },
       "away": {
         "possession": 48,
-        "xg": 0.38,
+        "xg": 0.46,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 226,
-        "duelsWon": 36,
+        "accuratePasses": 239,
+        "duelsWon": 39,
         "boxTouches": 11,
         "fouls": 9,
         "corners": 2,
@@ -38,7 +38,14 @@
           "minute": "66'",
           "type": "goal",
           "teamId": "80",
-          "playerName": "Roberto Fernández"
+          "playerName": "Roberto Fernández",
+          "assist": "Tyrhys Dolan"
+        },
+        {
+          "minute": "70'",
+          "type": "yellow-card",
+          "teamId": "77",
+          "playerName": "Iñigo Ruiz de Galarreta"
         }
       ]
     }
@@ -111,30 +118,30 @@
   "FL1": {
     "559622": {
       "home": {
-        "possession": 47,
-        "xg": 1.58,
+        "possession": 46,
+        "xg": 1.64,
         "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 298,
-        "duelsWon": 55,
+        "accuratePasses": 304,
+        "duelsWon": 60,
         "boxTouches": 23,
-        "fouls": 16,
+        "fouls": 19,
         "corners": 6,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 53,
-        "xg": 0.52,
-        "shots": 5,
+        "possession": 54,
+        "xg": 0.56,
+        "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 365,
-        "duelsWon": 53,
+        "accuratePasses": 376,
+        "duelsWon": 55,
         "boxTouches": 10,
-        "fouls": 18,
+        "fouls": 21,
         "corners": 0,
         "offsides": 1,
-        "saves": 1
+        "saves": 3
       },
       "events": [
         {
@@ -186,6 +193,12 @@
           "type": "yellow-card",
           "teamId": "533",
           "playerName": "Ahmed Touba"
+        },
+        {
+          "minute": "87'",
+          "type": "yellow-card",
+          "teamId": "533",
+          "playerName": "Enzo Koffi"
         }
       ]
     }
