@@ -2,27 +2,27 @@
   "PD": {
     "564748": {
       "home": {
-        "possession": 56,
-        "xg": 1.06,
-        "shots": 14,
+        "possession": 57,
+        "xg": 1.09,
+        "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 348,
-        "duelsWon": 43,
+        "accuratePasses": 373,
+        "duelsWon": 46,
         "boxTouches": 20,
-        "fouls": 15,
-        "corners": 7,
+        "fouls": 16,
+        "corners": 8,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 44,
+        "possession": 43,
         "xg": 0.46,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 251,
-        "duelsWon": 43,
+        "accuratePasses": 259,
+        "duelsWon": 46,
         "boxTouches": 11,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 2,
         "offsides": 2,
         "saves": 6
@@ -125,7 +125,7 @@
     "559622": {
       "home": {
         "possession": 46,
-        "xg": 1.98,
+        "xg": 2.57,
         "shots": 19,
         "shotsOnTarget": 7,
         "accuratePasses": 321,
@@ -141,8 +141,8 @@
         "xg": 0.61,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 401,
-        "duelsWon": 58,
+        "accuratePasses": 400,
+        "duelsWon": 59,
         "boxTouches": 10,
         "fouls": 22,
         "corners": 0,
@@ -213,7 +213,8 @@
           "playerName": "Renaud Ripart",
           "penalty": true
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
