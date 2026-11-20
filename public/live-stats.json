@@ -2,30 +2,30 @@
   "PD": {
     "564748": {
       "home": {
-        "possession": 52,
-        "xg": 0.91,
-        "shots": 11,
-        "shotsOnTarget": 4,
-        "accuratePasses": 276,
-        "duelsWon": 37,
-        "boxTouches": 16,
+        "possession": 55,
+        "xg": 1.06,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 317,
+        "duelsWon": 39,
+        "boxTouches": 18,
         "fouls": 14,
         "corners": 6,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 48,
+        "possession": 45,
         "xg": 0.46,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 239,
-        "duelsWon": 39,
+        "accuratePasses": 247,
+        "duelsWon": 40,
         "boxTouches": 11,
         "fouls": 9,
         "corners": 2,
         "offsides": 2,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -119,29 +119,29 @@
     "559622": {
       "home": {
         "possession": 46,
-        "xg": 1.64,
-        "shots": 15,
-        "shotsOnTarget": 4,
-        "accuratePasses": 304,
-        "duelsWon": 60,
-        "boxTouches": 23,
+        "xg": 1.69,
+        "shots": 16,
+        "shotsOnTarget": 5,
+        "accuratePasses": 315,
+        "duelsWon": 61,
+        "boxTouches": 24,
         "fouls": 19,
         "corners": 6,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 1
       },
       "away": {
         "possession": 54,
         "xg": 0.56,
-        "shots": 6,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 376,
-        "duelsWon": 55,
+        "accuratePasses": 396,
+        "duelsWon": 56,
         "boxTouches": 10,
         "fouls": 21,
         "corners": 0,
         "offsides": 1,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -195,8 +195,8 @@
           "playerName": "Ahmed Touba"
         },
         {
-          "minute": "87'",
-          "type": "yellow-card",
+          "minute": "89'",
+          "type": "red-card",
           "teamId": "533",
           "playerName": "Enzo Koffi"
         }
