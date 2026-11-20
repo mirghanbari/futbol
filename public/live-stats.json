@@ -2,29 +2,29 @@
   "PD": {
     "564748": {
       "home": {
-        "possession": 57,
-        "xg": 1.09,
-        "shots": 15,
+        "possession": 58,
+        "xg": 1.17,
+        "shots": 16,
         "shotsOnTarget": 6,
-        "accuratePasses": 373,
-        "duelsWon": 46,
-        "boxTouches": 20,
+        "accuratePasses": 389,
+        "duelsWon": 52,
+        "boxTouches": 23,
         "fouls": 16,
-        "corners": 8,
+        "corners": 9,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 43,
+        "possession": 42,
         "xg": 0.46,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 259,
-        "duelsWon": 46,
+        "accuratePasses": 261,
+        "duelsWon": 48,
         "boxTouches": 11,
-        "fouls": 10,
+        "fouls": 13,
         "corners": 2,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 6
       },
       "events": [
@@ -52,6 +52,12 @@
           "type": "yellow-card",
           "teamId": "77",
           "playerName": "Yeray Álvarez"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "80",
+          "playerName": "Clemens Riedel"
         }
       ]
     }
