@@ -2,12 +2,12 @@
   "PD": {
     "564748": {
       "home": {
-        "possession": 52,
-        "xg": 0.8,
-        "shots": 9,
-        "shotsOnTarget": 3,
-        "accuratePasses": 220,
-        "duelsWon": 29,
+        "possession": 51,
+        "xg": 0.88,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 234,
+        "duelsWon": 33,
         "boxTouches": 13,
         "fouls": 11,
         "corners": 5,
@@ -15,18 +15,26 @@
         "saves": 2
       },
       "away": {
-        "possession": 48,
-        "xg": 0.18,
-        "shots": 4,
+        "possession": 49,
+        "xg": 0.38,
+        "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 190,
-        "duelsWon": 31,
-        "boxTouches": 7,
+        "accuratePasses": 213,
+        "duelsWon": 34,
+        "boxTouches": 9,
         "fouls": 8,
         "corners": 2,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 4
-      }
+      },
+      "events": [
+        {
+          "minute": "58'",
+          "type": "yellow-card",
+          "teamId": "77",
+          "playerName": "Iñaki Williams"
+        }
+      ]
     }
   },
   "BL1": {
@@ -36,9 +44,9 @@
         "xg": 0.94,
         "shots": 17,
         "shotsOnTarget": 1,
-        "accuratePasses": 674,
-        "duelsWon": 26,
-        "boxTouches": 34,
+        "accuratePasses": 708,
+        "duelsWon": 27,
+        "boxTouches": 35,
         "fouls": 6,
         "corners": 5,
         "offsides": 5,
@@ -49,8 +57,8 @@
         "xg": 1.83,
         "shots": 5,
         "shotsOnTarget": 4,
-        "accuratePasses": 245,
-        "duelsWon": 42,
+        "accuratePasses": 255,
+        "duelsWon": 45,
         "boxTouches": 20,
         "fouls": 2,
         "corners": 0,
@@ -96,27 +104,27 @@
   "FL1": {
     "559622": {
       "home": {
-        "possession": 49,
+        "possession": 48,
         "xg": 1.55,
         "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 278,
-        "duelsWon": 47,
-        "boxTouches": 20,
+        "accuratePasses": 288,
+        "duelsWon": 50,
+        "boxTouches": 21,
         "fouls": 14,
         "corners": 6,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 51,
+        "possession": 52,
         "xg": 0.52,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 305,
-        "duelsWon": 44,
-        "boxTouches": 9,
-        "fouls": 14,
+        "accuratePasses": 328,
+        "duelsWon": 47,
+        "boxTouches": 10,
+        "fouls": 16,
         "corners": 0,
         "offsides": 1,
         "saves": 1
@@ -165,6 +173,12 @@
           "teamId": "531",
           "playerName": "Antoine Mille",
           "assist": "Anis Ouzenadji"
+        },
+        {
+          "minute": "77'",
+          "type": "yellow-card",
+          "teamId": "533",
+          "playerName": "Ahmed Touba"
         }
       ]
     }
