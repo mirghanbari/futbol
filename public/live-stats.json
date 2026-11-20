@@ -2,57 +2,57 @@
   "PD": {
     "564748": {
       "home": {
-        "possession": 52,
-        "xg": 0.65,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 156,
-        "duelsWon": 19,
-        "boxTouches": 6,
-        "fouls": 8,
+        "possession": 49,
+        "xg": 0.69,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 168,
+        "duelsWon": 22,
+        "boxTouches": 7,
+        "fouls": 9,
         "corners": 3,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 48,
+        "possession": 51,
         "xg": 0.18,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 138,
-        "duelsWon": 20,
+        "accuratePasses": 166,
+        "duelsWon": 23,
         "boxTouches": 7,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       }
     }
   },
   "BL1": {
     "565859": {
       "home": {
-        "possession": 72,
-        "xg": 0.48,
-        "shots": 10,
+        "possession": 73,
+        "xg": 0.68,
+        "shots": 11,
         "shotsOnTarget": 1,
-        "accuratePasses": 457,
-        "duelsWon": 14,
-        "boxTouches": 19,
+        "accuratePasses": 509,
+        "duelsWon": 17,
+        "boxTouches": 21,
         "fouls": 3,
         "corners": 2,
-        "offsides": 4,
+        "offsides": 5,
         "saves": 1
       },
       "away": {
-        "possession": 28,
-        "xg": 0.88,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 147,
-        "duelsWon": 23,
-        "boxTouches": 9,
-        "fouls": 1,
+        "possession": 27,
+        "xg": 1.39,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 157,
+        "duelsWon": 24,
+        "boxTouches": 10,
+        "fouls": 2,
         "corners": 0,
         "offsides": 2,
         "saves": 0
@@ -71,6 +71,12 @@
           "teamId": "5",
           "playerName": "Nathaniel Brown",
           "assist": "Tom Bischof"
+        },
+        {
+          "minute": "56'",
+          "type": "yellow-card",
+          "teamId": "1",
+          "playerName": "Paul Okon-Engstler"
         }
       ]
     }
@@ -84,7 +90,7 @@
         "shotsOnTarget": 2,
         "accuratePasses": 185,
         "duelsWon": 34,
-        "boxTouches": 15,
+        "boxTouches": 16,
         "fouls": 8,
         "corners": 3,
         "offsides": 0,
