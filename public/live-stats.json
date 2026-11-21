@@ -1442,6 +1442,30 @@
       ],
       "final": true
     },
+    "564754": {
+      "home": {
+        "possession": 20,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 0,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 80,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 2,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "564756": {
       "home": {
         "possession": 50,
@@ -2054,25 +2078,25 @@
     },
     "558527": {
       "home": {
-        "possession": 64,
+        "possession": 63,
         "xg": 0.47,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 100,
-        "duelsWon": 7,
+        "accuratePasses": 128,
+        "duelsWon": 8,
         "boxTouches": 7,
-        "fouls": 1,
+        "fouls": 3,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 36,
+        "possession": 37,
         "xg": 0.01,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 48,
-        "duelsWon": 7,
+        "accuratePasses": 66,
+        "duelsWon": 10,
         "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
@@ -2155,7 +2179,7 @@
   "FL1": {
     "559621": {
       "home": {
-        "possession": 56,
+        "possession": 55,
         "xg": 0.21,
         "shots": 2,
         "shotsOnTarget": 2,
@@ -2168,11 +2192,11 @@
         "saves": 0
       },
       "away": {
-        "possession": 44,
+        "possession": 45,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 78,
+        "accuratePasses": 79,
         "duelsWon": 9,
         "boxTouches": 1,
         "fouls": 4,
@@ -2183,25 +2207,25 @@
     },
     "559623": {
       "home": {
-        "possession": 66,
-        "xg": 0.2,
+        "possession": 68,
+        "xg": 0.31,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 114,
-        "duelsWon": 12,
-        "boxTouches": 6,
+        "accuratePasses": 135,
+        "duelsWon": 13,
+        "boxTouches": 7,
         "fouls": 1,
-        "corners": 3,
+        "corners": 4,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 34,
+        "possession": 32,
         "xg": 0.11,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 54,
-        "duelsWon": 12,
+        "accuratePasses": 58,
+        "duelsWon": 14,
         "boxTouches": 3,
         "fouls": 2,
         "corners": 0,
@@ -2211,55 +2235,55 @@
     },
     "559624": {
       "home": {
-        "possession": 48,
+        "possession": 53,
         "xg": 0.02,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 106,
-        "duelsWon": 7,
-        "boxTouches": 2,
+        "accuratePasses": 132,
+        "duelsWon": 9,
+        "boxTouches": 5,
         "fouls": 3,
-        "corners": 1,
+        "corners": 3,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 52,
+        "possession": 47,
         "xg": 0.13,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 111,
-        "duelsWon": 9,
+        "accuratePasses": 118,
+        "duelsWon": 11,
         "boxTouches": 2,
-        "fouls": 2,
+        "fouls": 3,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       }
     },
     "559627": {
       "home": {
-        "possession": 76,
-        "xg": 0.03,
-        "shots": 1,
+        "possession": 70,
+        "xg": 0.07,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 112,
-        "duelsWon": 10,
-        "boxTouches": 6,
-        "fouls": 3,
+        "accuratePasses": 122,
+        "duelsWon": 13,
+        "boxTouches": 8,
+        "fouls": 5,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 24,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 25,
-        "duelsWon": 9,
-        "boxTouches": 2,
-        "fouls": 2,
+        "possession": 30,
+        "xg": 0.31,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 41,
+        "duelsWon": 13,
+        "boxTouches": 3,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -2276,6 +2300,13 @@
           "type": "yellow-card",
           "teamId": "576",
           "playerName": "Dário Essugo"
+        },
+        {
+          "minute": "22'",
+          "type": "goal",
+          "teamId": "512",
+          "playerName": "Noah Edjouma",
+          "assist": "Joseph Boende"
         }
       ]
     },
@@ -2440,25 +2471,28 @@
     },
     "558832": {
       "home": {
-        "possession": 72,
+        "possession": 64,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 23,
-        "duelsWon": 2,
+        "accuratePasses": 45,
+        "duelsWon": 5,
         "boxTouches": 1,
-        "fouls": 1,
-        "corners": 0,
+        "fouls": 2,
+        "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 28,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 7,
-        "duelsWon": 4,
-        "fouls": 1,
-        "corners": 0,
+        "possession": 36,
+        "xg": 0.01,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 21,
+        "duelsWon": 9,
+        "boxTouches": 2,
+        "fouls": 2,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       }
@@ -2560,55 +2594,72 @@
     },
     "558834": {
       "home": {
-        "possession": 50,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 7,
+        "possession": 52,
+        "xg": 0.31,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 18,
         "duelsWon": 1,
+        "boxTouches": 2,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 50,
-        "shots": 0,
+        "possession": 48,
+        "xg": 0.02,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 8,
-        "duelsWon": 2,
-        "boxTouches": 1,
+        "accuratePasses": 19,
+        "duelsWon": 5,
+        "boxTouches": 2,
         "fouls": 0,
         "corners": 0,
-        "offsides": 0,
-        "saves": 0
-      }
+        "offsides": 1,
+        "saves": 2
+      },
+      "events": [
+        {
+          "minute": "6'",
+          "type": "yellow-card",
+          "teamId": "677",
+          "playerName": "Jorg Schreuders"
+        },
+        {
+          "minute": "6'",
+          "type": "yellow-card",
+          "teamId": "673",
+          "playerName": "Vasilios Zagaritis"
+        }
+      ]
     },
     "558835": {
       "home": {
-        "possession": 58,
-        "xg": 1.58,
-        "shots": 14,
-        "shotsOnTarget": 8,
-        "accuratePasses": 347,
-        "duelsWon": 42,
-        "boxTouches": 26,
+        "possession": 59,
+        "xg": 1.9,
+        "shots": 17,
+        "shotsOnTarget": 10,
+        "accuratePasses": 374,
+        "duelsWon": 45,
+        "boxTouches": 28,
         "fouls": 20,
         "corners": 3,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 5
       },
       "away": {
-        "possession": 42,
-        "xg": 1.5,
+        "possession": 41,
+        "xg": 1.61,
         "shots": 16,
         "shotsOnTarget": 8,
-        "accuratePasses": 244,
-        "duelsWon": 62,
+        "accuratePasses": 253,
+        "duelsWon": 63,
         "boxTouches": 30,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 3,
         "offsides": 0,
-        "saves": 6
+        "saves": 8
       },
       "events": [
         {
