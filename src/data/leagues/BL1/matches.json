@@ -4534,7 +4534,7 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-21T17:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "6",
     "awayTeamId": "10",
     "homeTeam": {
@@ -4542,6 +4542,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 43,
+        "xg": 1.69,
+        "shots": 21,
+        "shotsOnTarget": 7,
+        "accuratePasses": 336,
+        "duelsWon": 50,
+        "boxTouches": 44,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 57,
+        "xg": 2.39,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 466,
+        "duelsWon": 44,
+        "boxTouches": 27,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 7
+      }
     },
     "venue": "Veltins Arena, Gelsenkirchen",
     "broadcasts": [

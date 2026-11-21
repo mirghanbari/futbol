@@ -4426,14 +4426,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-21T16:15:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "522",
     "awayTeamId": "524",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 2
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 37,
+        "xg": 0.75,
+        "shots": 4,
+        "shotsOnTarget": 3,
+        "accuratePasses": 353,
+        "duelsWon": 42,
+        "boxTouches": 6,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 2
+      },
+      "away": {
+        "possession": 63,
+        "xg": 1.99,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 706,
+        "duelsWon": 32,
+        "boxTouches": 26,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "Allianz Riviera, Nice",
     "broadcasts": [
@@ -4450,14 +4478,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-21T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "548",
     "awayTeamId": "519",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 2.18,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 614,
+        "duelsWon": 47,
+        "boxTouches": 35,
+        "fouls": 11,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 34,
+        "xg": 0.26,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 277,
+        "duelsWon": 39,
+        "boxTouches": 6,
+        "fouls": 14,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Stade Louis II, Monaco",
     "broadcasts": [
@@ -4474,14 +4530,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-21T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "546",
     "awayTeamId": "511",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 60,
+        "xg": 2.61,
+        "shots": 22,
+        "shotsOnTarget": 8,
+        "accuratePasses": 493,
+        "duelsWon": 64,
+        "boxTouches": 35,
+        "fouls": 11,
+        "corners": 9,
+        "offsides": 2,
+        "saves": 4
+      },
+      "away": {
+        "possession": 40,
+        "xg": 0.74,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 311,
+        "duelsWon": 52,
+        "boxTouches": 14,
+        "fouls": 15,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 7
+      }
     },
     "venue": "Stade Bollaert-Delelis, Lens"
   },
@@ -4492,14 +4576,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-21T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "521",
     "awayTeamId": "523",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 0.91,
+        "shots": 14,
+        "shotsOnTarget": 5,
+        "accuratePasses": 437,
+        "duelsWon": 50,
+        "boxTouches": 21,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 5
+      },
+      "away": {
+        "possession": 52,
+        "xg": 0.64,
+        "shots": 9,
+        "shotsOnTarget": 6,
+        "accuratePasses": 467,
+        "duelsWon": 37,
+        "boxTouches": 21,
+        "fouls": 12,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
   },
@@ -4510,14 +4622,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-21T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "576",
     "awayTeamId": "512",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 69,
+        "xg": 1.76,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 541,
+        "duelsWon": 59,
+        "boxTouches": 32,
+        "fouls": 15,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 31,
+        "xg": 1.63,
+        "shots": 16,
+        "shotsOnTarget": 2,
+        "accuratePasses": 205,
+        "duelsWon": 63,
+        "boxTouches": 22,
+        "fouls": 17,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "Stade de la Meinau, Strasbourg"
   },

@@ -6663,14 +6663,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-21T17:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "559",
     "awayTeamId": "90",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 2.21,
+        "shots": 25,
+        "shotsOnTarget": 6,
+        "accuratePasses": 321,
+        "duelsWon": 51,
+        "boxTouches": 46,
+        "fouls": 21,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 50,
+        "xg": 0.55,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 323,
+        "duelsWon": 56,
+        "boxTouches": 10,
+        "fouls": 14,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 5
+      }
     },
     "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
     "broadcasts": [
@@ -6691,14 +6719,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-21T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "86",
     "awayTeamId": "558",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 3.76,
+        "shots": 24,
+        "shotsOnTarget": 7,
+        "accuratePasses": 553,
+        "duelsWon": 43,
+        "boxTouches": 66,
+        "fouls": 4,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 36,
+        "xg": 1.64,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 288,
+        "duelsWon": 23,
+        "boxTouches": 11,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 5
+      }
     },
     "venue": "Santiago Bernabéu, Madrid",
     "broadcasts": [

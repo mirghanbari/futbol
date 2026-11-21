@@ -24,6 +24,14 @@
     "competitionId": "FL1"
   },
   {
+    "id": "523",
+    "name": "Olympique Lyonnais",
+    "shortName": "Olympique Lyon",
+    "tla": "LYO",
+    "crest": "https://crests.football-data.org/523.png",
+    "competitionId": "FL1"
+  },
+  {
     "id": "516",
     "name": "Olympique de Marseille",
     "shortName": "Marseille",
@@ -32,11 +40,11 @@
     "competitionId": "FL1"
   },
   {
-    "id": "523",
-    "name": "Olympique Lyonnais",
-    "shortName": "Olympique Lyon",
-    "tla": "LYO",
-    "crest": "https://crests.football-data.org/523.png",
+    "id": "512",
+    "name": "Stade Brestois 29",
+    "shortName": "Brest",
+    "tla": "BRE",
+    "crest": "https://crests.football-data.org/512.png",
     "competitionId": "FL1"
   },
   {
@@ -61,14 +69,6 @@
     "shortName": "Stade Rennais",
     "tla": "REN",
     "crest": "https://crests.football-data.org/529.png",
-    "competitionId": "FL1"
-  },
-  {
-    "id": "512",
-    "name": "Stade Brestois 29",
-    "shortName": "Brest",
-    "tla": "BRE",
-    "crest": "https://crests.football-data.org/512.png",
     "competitionId": "FL1"
   },
   {
@@ -104,19 +104,19 @@
     "competitionId": "FL1"
   },
   {
-    "id": "576",
-    "name": "RC Strasbourg Alsace",
-    "shortName": "Strasbourg",
-    "tla": "RC ",
-    "crest": "https://crests.football-data.org/576.png",
-    "competitionId": "FL1"
-  },
-  {
     "id": "519",
     "name": "AJ Auxerre",
     "shortName": "Auxerre",
     "tla": "AJA",
     "crest": "https://crests.football-data.org/519.png",
+    "competitionId": "FL1"
+  },
+  {
+    "id": "576",
+    "name": "RC Strasbourg Alsace",
+    "shortName": "Strasbourg",
+    "tla": "RC ",
+    "crest": "https://crests.football-data.org/576.png",
     "competitionId": "FL1"
   },
   {

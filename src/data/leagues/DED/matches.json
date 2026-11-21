@@ -5308,14 +5308,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-21T17:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "675",
     "awayTeamId": "670",
     "homeTeam": {
-      "goals": 1
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 71,
+        "xg": 1.28,
+        "shots": 16,
+        "shotsOnTarget": 3,
+        "accuratePasses": 561,
+        "duelsWon": 69,
+        "boxTouches": 31,
+        "fouls": 2,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 29,
+        "xg": 1.85,
+        "shots": 9,
+        "shotsOnTarget": 5,
+        "accuratePasses": 176,
+        "duelsWon": 31,
+        "boxTouches": 18,
+        "fouls": 19,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "De Kuip, Rotterdam"
   },
@@ -5326,14 +5354,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-21T17:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "676",
     "awayTeamId": "1909",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 1.9,
+        "shots": 17,
+        "shotsOnTarget": 10,
+        "accuratePasses": 378,
+        "duelsWon": 51,
+        "boxTouches": 28,
+        "fouls": 20,
+        "corners": 3,
+        "offsides": 3,
+        "saves": 5
+      },
+      "away": {
+        "possession": 42,
+        "xg": 1.4,
+        "shots": 16,
+        "shotsOnTarget": 8,
+        "accuratePasses": 263,
+        "duelsWon": 62,
+        "boxTouches": 30,
+        "fouls": 14,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 8
+      }
     },
     "venue": "Stadion Galgenwaard, Utrecht"
   },
@@ -5344,14 +5400,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-21T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1912",
     "awayTeamId": "684",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 2.09,
+        "shots": 20,
+        "shotsOnTarget": 6,
+        "accuratePasses": 470,
+        "duelsWon": 53,
+        "boxTouches": 35,
+        "fouls": 9,
+        "corners": 11,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 38,
+        "xg": 0.88,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 250,
+        "duelsWon": 63,
+        "boxTouches": 19,
+        "fouls": 15,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 6
+      }
     },
     "venue": "711 Stadion, Velsen-Zuid"
   },
@@ -5362,14 +5446,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-21T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "677",
     "awayTeamId": "673",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 46,
+        "xg": 1.32,
+        "shots": 19,
+        "shotsOnTarget": 8,
+        "accuratePasses": 275,
+        "duelsWon": 47,
+        "boxTouches": 26,
+        "fouls": 14,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 54,
+        "xg": 1.51,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 364,
+        "duelsWon": 67,
+        "boxTouches": 23,
+        "fouls": 5,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 7
+      }
     },
     "venue": "Euroborg, Groningen"
   },
