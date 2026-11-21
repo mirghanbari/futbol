@@ -2,30 +2,30 @@
   "PL": {
     "560643": {
       "home": {
-        "possession": 56,
-        "xg": 0.1,
+        "possession": 62,
+        "xg": 0.94,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 104,
-        "duelsWon": 13,
-        "boxTouches": 8,
-        "fouls": 3,
+        "accuratePasses": 151,
+        "duelsWon": 14,
+        "boxTouches": 12,
+        "fouls": 4,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 44,
+        "possession": 38,
         "xg": 0.14,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 77,
-        "duelsWon": 16,
+        "accuratePasses": 89,
+        "duelsWon": 18,
         "boxTouches": 3,
         "fouls": 4,
         "corners": 2,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -53,27 +53,27 @@
   "ELC": {
     "561944": {
       "home": {
-        "possession": 79,
+        "possession": 71,
         "xg": 0.86,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 192,
-        "duelsWon": 7,
+        "accuratePasses": 201,
+        "duelsWon": 10,
         "boxTouches": 6,
-        "fouls": 2,
-        "corners": 2,
-        "offsides": 0,
+        "fouls": 3,
+        "corners": 3,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 21,
+        "possession": 29,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 43,
-        "duelsWon": 9,
-        "boxTouches": 1,
-        "fouls": 2,
+        "accuratePasses": 73,
+        "duelsWon": 10,
+        "boxTouches": 2,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -89,25 +89,27 @@
     },
     "561948": {
       "home": {
-        "possession": 42,
-        "xg": 0.07,
-        "shots": 3,
+        "possession": 43,
+        "xg": 0.16,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 83,
-        "duelsWon": 11,
+        "accuratePasses": 108,
+        "duelsWon": 14,
+        "boxTouches": 3,
         "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 58,
-        "xg": 0.07,
-        "shots": 3,
+        "possession": 57,
+        "xg": 0.23,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 124,
-        "duelsWon": 10,
-        "fouls": 2,
+        "accuratePasses": 154,
+        "duelsWon": 11,
+        "boxTouches": 1,
+        "fouls": 5,
         "corners": 1,
         "offsides": 1,
         "saves": 0
@@ -115,26 +117,26 @@
     },
     "561950": {
       "home": {
-        "possession": 27,
+        "possession": 31,
         "xg": 0.13,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 45,
-        "duelsWon": 8,
-        "boxTouches": 3,
-        "fouls": 4,
+        "accuratePasses": 62,
+        "duelsWon": 9,
+        "boxTouches": 4,
+        "fouls": 5,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 73,
-        "xg": 0.15,
-        "shots": 4,
+        "possession": 69,
+        "xg": 0.25,
+        "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 161,
-        "duelsWon": 14,
-        "boxTouches": 2,
+        "accuratePasses": 175,
+        "duelsWon": 16,
+        "boxTouches": 3,
         "fouls": 3,
         "corners": 1,
         "offsides": 0,
@@ -152,6 +154,12 @@
           "type": "yellow-card",
           "teamId": "69",
           "playerName": "Kealey Adamson"
+        },
+        {
+          "minute": "25'",
+          "type": "yellow-card",
+          "teamId": "384",
+          "playerName": "Alex Neil"
         }
       ]
     }
