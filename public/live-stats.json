@@ -459,12 +459,12 @@
         "xg": 1.61,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 167,
-        "duelsWon": 34,
-        "boxTouches": 14,
-        "fouls": 15,
-        "corners": 5,
-        "offsides": 2,
+        "accuratePasses": 177,
+        "duelsWon": 35,
+        "boxTouches": 15,
+        "fouls": 17,
+        "corners": 6,
+        "offsides": 3,
         "saves": 2
       },
       "away": {
@@ -472,10 +472,10 @@
         "xg": 1.45,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 347,
-        "duelsWon": 37,
-        "boxTouches": 19,
-        "fouls": 5,
+        "accuratePasses": 372,
+        "duelsWon": 42,
+        "boxTouches": 20,
+        "fouls": 6,
         "corners": 1,
         "offsides": 2,
         "saves": 1
@@ -1437,27 +1437,27 @@
     },
     "564756": {
       "home": {
-        "possession": 47,
+        "possession": 48,
         "xg": 1.47,
-        "shots": 19,
+        "shots": 20,
         "shotsOnTarget": 3,
-        "accuratePasses": 245,
-        "duelsWon": 36,
-        "boxTouches": 35,
-        "fouls": 16,
-        "corners": 4,
+        "accuratePasses": 273,
+        "duelsWon": 39,
+        "boxTouches": 37,
+        "fouls": 17,
+        "corners": 5,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 53,
+        "possession": 52,
         "xg": 0.55,
         "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 281,
-        "duelsWon": 41,
-        "boxTouches": 8,
-        "fouls": 7,
+        "accuratePasses": 299,
+        "duelsWon": 45,
+        "boxTouches": 9,
+        "fouls": 9,
         "corners": 2,
         "offsides": 0,
         "saves": 3
@@ -1499,6 +1499,12 @@
           "type": "yellow-card",
           "teamId": "559",
           "playerName": "Andrés López"
+        },
+        {
+          "minute": "79'",
+          "type": "yellow-card",
+          "teamId": "90",
+          "playerName": "Héctor Bellerín"
         }
       ]
     }
@@ -1729,11 +1735,11 @@
     },
     "565861": {
       "home": {
-        "possession": 46,
+        "possession": 45,
         "xg": 1.46,
         "shots": 18,
         "shotsOnTarget": 5,
-        "accuratePasses": 320,
+        "accuratePasses": 323,
         "duelsWon": 45,
         "boxTouches": 38,
         "fouls": 9,
@@ -1742,16 +1748,16 @@
         "saves": 3
       },
       "away": {
-        "possession": 54,
-        "xg": 2.32,
+        "possession": 55,
+        "xg": 2.35,
         "shots": 14,
         "shotsOnTarget": 4,
-        "accuratePasses": 382,
-        "duelsWon": 38,
+        "accuratePasses": 409,
+        "duelsWon": 39,
         "boxTouches": 23,
         "fouls": 10,
         "corners": 5,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 5
       },
       "events": [
@@ -2174,12 +2180,12 @@
     "558831": {
       "home": {
         "possession": 69,
-        "xg": 0.52,
+        "xg": 0.58,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 417,
-        "duelsWon": 41,
-        "boxTouches": 14,
+        "accuratePasses": 452,
+        "duelsWon": 44,
+        "boxTouches": 16,
         "fouls": 2,
         "corners": 3,
         "offsides": 1,
@@ -2190,8 +2196,8 @@
         "xg": 1.85,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 148,
-        "duelsWon": 20,
+        "accuratePasses": 154,
+        "duelsWon": 21,
         "boxTouches": 18,
         "fouls": 9,
         "corners": 4,
@@ -2227,6 +2233,13 @@
           "playerName": "Casper Widell",
           "method": "header",
           "assist": "Aymen Sliti"
+        },
+        {
+          "minute": "67'",
+          "type": "goal",
+          "teamId": "675",
+          "playerName": "Kasey Bos",
+          "ownGoal": true
         }
       ]
     },
@@ -2331,7 +2344,7 @@
         "xg": 0.24,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 194,
+        "accuratePasses": 195,
         "duelsWon": 18,
         "boxTouches": 10,
         "fouls": 11,
