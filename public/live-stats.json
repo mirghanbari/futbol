@@ -270,16 +270,45 @@
       "final": true
     }
   },
+  "BL1": {
+    "565857": {
+      "home": {
+        "possession": 93,
+        "xg": 0.05,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 22,
+        "duelsWon": 0,
+        "boxTouches": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 7,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 1,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    }
+  },
   "SA": {
     "558525": {
       "home": {
         "possession": 55,
-        "xg": 0.09,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 141,
-        "duelsWon": 8,
-        "boxTouches": 7,
+        "xg": 0.32,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 155,
+        "duelsWon": 9,
+        "boxTouches": 8,
         "fouls": 4,
         "corners": 0,
         "offsides": 0,
@@ -290,39 +319,49 @@
         "xg": 0.08,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 98,
+        "accuratePasses": 109,
         "duelsWon": 20,
         "boxTouches": 5,
         "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "24'",
+          "type": "goal",
+          "teamId": "7397",
+          "playerName": "Jacobo Ramón",
+          "method": "header",
+          "assist": "Yan Couto"
+        }
+      ]
     },
     "558528": {
       "home": {
-        "possession": 60,
-        "xg": 0.06,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 125,
-        "duelsWon": 9,
-        "boxTouches": 3,
+        "possession": 57,
+        "xg": 0.13,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 131,
+        "duelsWon": 12,
+        "boxTouches": 4,
         "fouls": 3,
-        "corners": 2,
+        "corners": 3,
         "offsides": 4,
         "saves": 0
       },
       "away": {
-        "possession": 40,
-        "xg": 0.07,
-        "shots": 2,
+        "possession": 43,
+        "xg": 0.11,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 76,
-        "duelsWon": 20,
-        "boxTouches": 5,
-        "fouls": 1,
-        "corners": 0,
+        "accuratePasses": 89,
+        "duelsWon": 23,
+        "boxTouches": 9,
+        "fouls": 2,
+        "corners": 1,
         "offsides": 1,
         "saves": 1
       },
@@ -332,7 +371,8 @@
           "type": "goal",
           "teamId": "110",
           "playerName": "Tijjani Noslin",
-          "method": "header"
+          "method": "header",
+          "assist": "Gustav Isaksen"
         }
       ]
     }
