@@ -1444,30 +1444,30 @@
     },
     "564754": {
       "home": {
-        "possession": 65,
-        "xg": 2.14,
-        "shots": 20,
-        "shotsOnTarget": 4,
-        "accuratePasses": 511,
-        "duelsWon": 36,
-        "boxTouches": 59,
+        "possession": 64,
+        "xg": 3.07,
+        "shots": 22,
+        "shotsOnTarget": 6,
+        "accuratePasses": 522,
+        "duelsWon": 40,
+        "boxTouches": 61,
         "fouls": 3,
         "corners": 8,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 35,
+        "possession": 36,
         "xg": 1.64,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 249,
-        "duelsWon": 20,
-        "boxTouches": 9,
-        "fouls": 9,
-        "corners": 2,
+        "accuratePasses": 262,
+        "duelsWon": 21,
+        "boxTouches": 10,
+        "fouls": 11,
+        "corners": 3,
         "offsides": 3,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -1489,6 +1489,18 @@
           "type": "yellow-card",
           "teamId": "558",
           "playerName": "Yoel Lago"
+        },
+        {
+          "minute": "83'",
+          "type": "yellow-card",
+          "teamId": "558",
+          "playerName": "Javi Rodríguez"
+        },
+        {
+          "minute": "85'",
+          "type": "goal",
+          "teamId": "86",
+          "playerName": "Carlos Espí"
         }
       ]
     },
@@ -2633,30 +2645,30 @@
     },
     "558832": {
       "home": {
-        "possession": 61,
-        "xg": 1.53,
-        "shots": 15,
-        "shotsOnTarget": 4,
-        "accuratePasses": 445,
-        "duelsWon": 48,
-        "boxTouches": 25,
+        "possession": 62,
+        "xg": 1.77,
+        "shots": 18,
+        "shotsOnTarget": 6,
+        "accuratePasses": 469,
+        "duelsWon": 51,
+        "boxTouches": 31,
         "fouls": 9,
         "corners": 11,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 39,
+        "possession": 38,
         "xg": 0.88,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 245,
-        "duelsWon": 60,
+        "accuratePasses": 249,
+        "duelsWon": 64,
         "boxTouches": 19,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 7,
         "offsides": 1,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -2692,7 +2704,8 @@
           "teamId": "684",
           "playerName": "Ibrahim Cissoko"
         }
-      ]
+      ],
+      "final": true
     },
     "558833": {
       "home": {
@@ -2791,25 +2804,25 @@
     },
     "558834": {
       "home": {
-        "possession": 44,
-        "xg": 1.26,
-        "shots": 18,
+        "possession": 46,
+        "xg": 1.36,
+        "shots": 19,
         "shotsOnTarget": 8,
-        "accuratePasses": 244,
-        "duelsWon": 41,
-        "boxTouches": 21,
+        "accuratePasses": 273,
+        "duelsWon": 46,
+        "boxTouches": 25,
         "fouls": 14,
         "corners": 4,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 56,
+        "possession": 54,
         "xg": 1.54,
         "shots": 11,
         "shotsOnTarget": 5,
         "accuratePasses": 365,
-        "duelsWon": 61,
+        "duelsWon": 65,
         "boxTouches": 24,
         "fouls": 5,
         "corners": 4,
@@ -2869,7 +2882,8 @@
           "playerName": "Dirk Proper",
           "assist": "Ringo Meerveld"
         }
-      ]
+      ],
+      "final": true
     },
     "558835": {
       "home": {
