@@ -4222,14 +4222,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-20T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5",
     "awayTeamId": "1",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 72,
+        "xg": 1.07,
+        "shots": 17,
+        "shotsOnTarget": 1,
+        "accuratePasses": 749,
+        "duelsWon": 30,
+        "boxTouches": 35,
+        "fouls": 6,
+        "corners": 5,
+        "offsides": 5,
+        "saves": 3
+      },
+      "away": {
+        "possession": 28,
+        "xg": 1.99,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 262,
+        "duelsWon": 51,
+        "boxTouches": 22,
+        "fouls": 3,
+        "corners": 0,
+        "offsides": 2,
+        "saves": 0
+      }
     },
     "venue": "Allianz Arena, München",
     "broadcasts": [
