@@ -455,30 +455,38 @@
     },
     "560651": {
       "home": {
-        "possession": 41,
+        "possession": 42,
         "xg": 0.03,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 65,
+        "accuratePasses": 77,
         "duelsWon": 15,
-        "fouls": 3,
+        "fouls": 5,
         "corners": 0,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 59,
+        "possession": 58,
         "xg": 0.03,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 103,
-        "duelsWon": 15,
-        "boxTouches": 7,
+        "accuratePasses": 120,
+        "duelsWon": 19,
+        "boxTouches": 8,
         "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "23'",
+          "type": "yellow-card",
+          "teamId": "67",
+          "playerName": "Amar Dedić"
+        }
+      ]
     }
   },
   "ELC": {
@@ -1376,25 +1384,26 @@
     },
     "564756": {
       "home": {
-        "possession": 36,
-        "xg": 0.11,
-        "shots": 3,
+        "possession": 42,
+        "xg": 0.53,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 30,
-        "duelsWon": 8,
-        "boxTouches": 4,
-        "fouls": 4,
+        "accuratePasses": 47,
+        "duelsWon": 11,
+        "boxTouches": 11,
+        "fouls": 5,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 64,
+        "possession": 58,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 58,
-        "duelsWon": 11,
+        "accuratePasses": 67,
+        "duelsWon": 13,
+        "boxTouches": 2,
         "fouls": 3,
         "corners": 0,
         "offsides": 0,
@@ -1412,6 +1421,18 @@
           "type": "yellow-card",
           "teamId": "90",
           "playerName": "Diego Llorente"
+        },
+        {
+          "minute": "15'",
+          "type": "yellow-card",
+          "teamId": "559",
+          "playerName": "Lucien Agoumé"
+        },
+        {
+          "minute": "18'",
+          "type": "yellow-card",
+          "teamId": "559",
+          "playerName": "Kike Salas"
         }
       ]
     }
@@ -1642,27 +1663,27 @@
     },
     "565861": {
       "home": {
-        "possession": 62,
-        "xg": 0.05,
-        "shots": 2,
+        "possession": 61,
+        "xg": 0.28,
+        "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 76,
-        "duelsWon": 9,
-        "boxTouches": 6,
-        "fouls": 1,
+        "accuratePasses": 133,
+        "duelsWon": 16,
+        "boxTouches": 13,
+        "fouls": 3,
         "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 38,
+        "possession": 39,
         "xg": 0.35,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 45,
-        "duelsWon": 8,
-        "boxTouches": 3,
-        "fouls": 3,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 82,
+        "duelsWon": 15,
+        "boxTouches": 14,
+        "fouls": 4,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -1968,8 +1989,8 @@
         "xg": 0.34,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 222,
-        "duelsWon": 27,
+        "accuratePasses": 234,
+        "duelsWon": 32,
         "boxTouches": 1,
         "fouls": 7,
         "corners": 1,
@@ -1981,12 +2002,12 @@
         "xg": 1.61,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 547,
-        "duelsWon": 19,
-        "boxTouches": 18,
-        "fouls": 7,
+        "accuratePasses": 587,
+        "duelsWon": 20,
+        "boxTouches": 17,
+        "fouls": 8,
         "corners": 3,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "events": [
@@ -2023,26 +2044,27 @@
   "DED": {
     "558831": {
       "home": {
-        "possession": 60,
+        "possession": 74,
         "xg": 0.02,
-        "shots": 1,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 20,
-        "duelsWon": 1,
-        "boxTouches": 2,
+        "accuratePasses": 65,
+        "duelsWon": 3,
+        "boxTouches": 3,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 40,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 12,
+        "possession": 26,
+        "xg": 0.36,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 16,
         "duelsWon": 2,
-        "fouls": 0,
+        "boxTouches": 1,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -2054,6 +2076,13 @@
           "teamId": "675",
           "playerName": "Givairo Read",
           "assist": "Jerayno Schaken"
+        },
+        {
+          "minute": "6'",
+          "type": "goal",
+          "teamId": "670",
+          "playerName": "Mario Domínguez",
+          "assist": "Ágúst Thorsteinsson"
         }
       ]
     },
@@ -2151,6 +2180,34 @@
         }
       ],
       "final": true
+    },
+    "558835": {
+      "home": {
+        "possession": 44,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 30,
+        "duelsWon": 2,
+        "boxTouches": 1,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 56,
+        "xg": 0.06,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 34,
+        "duelsWon": 4,
+        "boxTouches": 3,
+        "fouls": 0,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   }
 }
