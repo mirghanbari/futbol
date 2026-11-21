@@ -1877,12 +1877,12 @@
     },
     "558526": {
       "home": {
-        "possession": 30,
+        "possession": 29,
         "xg": 1.84,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 120,
-        "duelsWon": 32,
+        "accuratePasses": 125,
+        "duelsWon": 33,
         "boxTouches": 14,
         "fouls": 5,
         "corners": 3,
@@ -1890,13 +1890,13 @@
         "saves": 3
       },
       "away": {
-        "possession": 70,
-        "xg": 0.99,
-        "shots": 13,
-        "shotsOnTarget": 4,
-        "accuratePasses": 382,
-        "duelsWon": 23,
-        "boxTouches": 33,
+        "possession": 71,
+        "xg": 1.48,
+        "shots": 15,
+        "shotsOnTarget": 6,
+        "accuratePasses": 419,
+        "duelsWon": 24,
+        "boxTouches": 36,
         "fouls": 7,
         "corners": 8,
         "offsides": 4,
@@ -1922,6 +1922,18 @@
           "teamId": "112",
           "playerName": "Nesta Elphege",
           "assist": "Mariano Troilo"
+        },
+        {
+          "minute": "68'",
+          "type": "goal",
+          "teamId": "100",
+          "playerName": "Donyell Malen"
+        },
+        {
+          "minute": "71'",
+          "type": "goal",
+          "teamId": "100",
+          "playerName": "Rodrigo Mora"
         }
       ]
     },
@@ -2080,26 +2092,26 @@
   "DED": {
     "558831": {
       "home": {
-        "possession": 69,
+        "possession": 72,
         "xg": 0.34,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 273,
-        "duelsWon": 18,
-        "boxTouches": 11,
-        "fouls": 1,
-        "corners": 1,
+        "accuratePasses": 300,
+        "duelsWon": 22,
+        "boxTouches": 12,
+        "fouls": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 31,
-        "xg": 0.67,
+        "possession": 28,
+        "xg": 1.4,
         "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 94,
-        "duelsWon": 8,
-        "boxTouches": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 92,
+        "duelsWon": 7,
+        "boxTouches": 8,
         "fouls": 3,
         "corners": 1,
         "offsides": 0,
@@ -2119,6 +2131,13 @@
           "teamId": "670",
           "playerName": "Mario Domínguez",
           "assist": "Ágúst Thorsteinsson"
+        },
+        {
+          "minute": "40'",
+          "type": "goal",
+          "teamId": "670",
+          "playerName": "Irakli Yegoian",
+          "penalty": true
         }
       ]
     },
