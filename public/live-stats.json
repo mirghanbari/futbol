@@ -1292,25 +1292,25 @@
   "PD": {
     "564751": {
       "home": {
-        "possession": 62,
-        "xg": 0.56,
-        "shots": 20,
+        "possession": 64,
+        "xg": 0.64,
+        "shots": 21,
         "shotsOnTarget": 5,
-        "accuratePasses": 416,
-        "duelsWon": 44,
-        "boxTouches": 15,
-        "fouls": 10,
+        "accuratePasses": 455,
+        "duelsWon": 45,
+        "boxTouches": 20,
+        "fouls": 12,
         "corners": 8,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 38,
+        "possession": 36,
         "xg": 0.72,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 237,
-        "duelsWon": 45,
+        "accuratePasses": 243,
+        "duelsWon": 49,
         "boxTouches": 14,
         "fouls": 17,
         "corners": 5,
@@ -1344,7 +1344,8 @@
           "teamId": "87",
           "playerName": "Jorge de Frutos"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
@@ -1751,25 +1752,26 @@
     },
     "558526": {
       "home": {
-        "possession": 70,
+        "possession": 38,
         "xg": 0.1,
-        "shots": 2,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 14,
-        "duelsWon": 1,
-        "boxTouches": 2,
+        "accuratePasses": 20,
+        "duelsWon": 4,
+        "boxTouches": 3,
         "fouls": 0,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 30,
+        "possession": 62,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 4,
+        "accuratePasses": 45,
         "duelsWon": 2,
+        "boxTouches": 1,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
@@ -1851,12 +1853,12 @@
   "FL1": {
     "559628": {
       "home": {
-        "possession": 36,
+        "possession": 34,
         "xg": 0.34,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 149,
-        "duelsWon": 17,
+        "accuratePasses": 160,
+        "duelsWon": 20,
         "boxTouches": 1,
         "fouls": 3,
         "corners": 1,
@@ -1864,14 +1866,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 64,
-        "xg": 1.23,
-        "shots": 5,
+        "possession": 66,
+        "xg": 1.39,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 303,
-        "duelsWon": 12,
-        "boxTouches": 12,
-        "fouls": 5,
+        "accuratePasses": 366,
+        "duelsWon": 14,
+        "boxTouches": 13,
+        "fouls": 6,
         "corners": 2,
         "offsides": 0,
         "saves": 0
@@ -1904,30 +1906,30 @@
   "DED": {
     "558833": {
       "home": {
-        "possession": 53,
-        "xg": 0.76,
-        "shots": 10,
-        "shotsOnTarget": 6,
-        "accuratePasses": 271,
+        "possession": 52,
+        "xg": 1.3,
+        "shots": 12,
+        "shotsOnTarget": 8,
+        "accuratePasses": 283,
         "duelsWon": 35,
-        "boxTouches": 14,
-        "fouls": 5,
+        "boxTouches": 17,
+        "fouls": 7,
         "corners": 4,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 47,
+        "possession": 48,
         "xg": 1.83,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 229,
-        "duelsWon": 30,
+        "accuratePasses": 250,
+        "duelsWon": 32,
         "boxTouches": 16,
         "fouls": 10,
         "corners": 1,
         "offsides": 0,
-        "saves": 6
+        "saves": 7
       },
       "events": [
         {
@@ -1987,6 +1989,12 @@
           "type": "yellow-card",
           "teamId": "674",
           "playerName": "Filip Kostić"
+        },
+        {
+          "minute": "73'",
+          "type": "goal",
+          "teamId": "1915",
+          "playerName": "Bryan Linssen"
         }
       ]
     }
