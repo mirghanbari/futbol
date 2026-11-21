@@ -457,13 +457,13 @@
       "home": {
         "possession": 38,
         "xg": 0.35,
-        "shots": 5,
-        "shotsOnTarget": 1,
-        "accuratePasses": 142,
-        "duelsWon": 29,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 156,
+        "duelsWon": 33,
         "boxTouches": 4,
-        "fouls": 10,
-        "corners": 0,
+        "fouls": 11,
+        "corners": 1,
         "offsides": 1,
         "saves": 2
       },
@@ -472,10 +472,10 @@
         "xg": 1.38,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 250,
-        "duelsWon": 30,
+        "accuratePasses": 278,
+        "duelsWon": 32,
         "boxTouches": 18,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 1,
         "saves": 0
@@ -500,6 +500,18 @@
           "teamId": "67",
           "playerName": "Harvey Barnes",
           "assist": "William Osula"
+        },
+        {
+          "minute": "56'",
+          "type": "yellow-card",
+          "teamId": "57",
+          "playerName": "Declan Rice"
+        },
+        {
+          "minute": "58'",
+          "type": "yellow-card",
+          "teamId": "67",
+          "playerName": "Harvey Barnes"
         }
       ]
     }
@@ -1399,26 +1411,26 @@
     },
     "564756": {
       "home": {
-        "possession": 45,
-        "xg": 1.11,
-        "shots": 14,
-        "shotsOnTarget": 2,
-        "accuratePasses": 156,
-        "duelsWon": 23,
-        "boxTouches": 27,
+        "possession": 47,
+        "xg": 1.15,
+        "shots": 15,
+        "shotsOnTarget": 3,
+        "accuratePasses": 173,
+        "duelsWon": 24,
+        "boxTouches": 28,
         "fouls": 11,
-        "corners": 1,
+        "corners": 2,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 55,
-        "xg": 0.14,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 200,
-        "duelsWon": 29,
-        "boxTouches": 5,
+        "possession": 53,
+        "xg": 0.18,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 202,
+        "duelsWon": 30,
+        "boxTouches": 6,
         "fouls": 4,
         "corners": 2,
         "offsides": 0,
@@ -1448,6 +1460,13 @@
           "type": "yellow-card",
           "teamId": "559",
           "playerName": "Kike Salas"
+        },
+        {
+          "minute": "50'",
+          "type": "goal",
+          "teamId": "90",
+          "playerName": "Antony",
+          "assist": "Isco"
         }
       ]
     }
@@ -1678,25 +1697,25 @@
     },
     "565861": {
       "home": {
-        "possession": 52,
-        "xg": 1.3,
+        "possession": 51,
+        "xg": 1,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 246,
-        "duelsWon": 27,
-        "boxTouches": 30,
-        "fouls": 6,
+        "accuratePasses": 261,
+        "duelsWon": 32,
+        "boxTouches": 32,
+        "fouls": 7,
         "corners": 3,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 48,
-        "xg": 1.09,
+        "possession": 49,
+        "xg": 1.12,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 220,
-        "duelsWon": 26,
+        "accuratePasses": 243,
+        "duelsWon": 27,
         "boxTouches": 16,
         "fouls": 8,
         "corners": 2,
@@ -1884,26 +1903,26 @@
     },
     "558526": {
       "home": {
-        "possession": 31,
-        "xg": 1.92,
-        "shots": 16,
+        "possession": 32,
+        "xg": 1.99,
+        "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 175,
-        "duelsWon": 39,
-        "boxTouches": 17,
+        "accuratePasses": 196,
+        "duelsWon": 41,
+        "boxTouches": 21,
         "fouls": 5,
         "corners": 3,
         "offsides": 4,
         "saves": 4
       },
       "away": {
-        "possession": 69,
-        "xg": 2.24,
-        "shots": 18,
-        "shotsOnTarget": 8,
-        "accuratePasses": 482,
-        "duelsWon": 28,
-        "boxTouches": 39,
+        "possession": 68,
+        "xg": 2.83,
+        "shots": 19,
+        "shotsOnTarget": 9,
+        "accuratePasses": 531,
+        "duelsWon": 30,
+        "boxTouches": 41,
         "fouls": 9,
         "corners": 8,
         "offsides": 5,
@@ -1944,6 +1963,13 @@
         },
         {
           "minute": "77'",
+          "type": "goal",
+          "teamId": "100",
+          "playerName": "Donyell Malen",
+          "assist": "Wesley"
+        },
+        {
+          "minute": "90'",
           "type": "goal",
           "teamId": "100",
           "playerName": "Donyell Malen",
@@ -2110,11 +2136,11 @@
         "xg": 0.39,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 321,
+        "accuratePasses": 320,
         "duelsWon": 27,
         "boxTouches": 13,
         "fouls": 2,
-        "corners": 4,
+        "corners": 3,
         "offsides": 1,
         "saves": 0
       },
@@ -2252,31 +2278,40 @@
     },
     "558835": {
       "home": {
-        "possession": 42,
-        "xg": 0.15,
-        "shots": 2,
+        "possession": 50,
+        "xg": 0.17,
+        "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 69,
+        "accuratePasses": 112,
         "duelsWon": 12,
-        "boxTouches": 4,
-        "fouls": 6,
+        "boxTouches": 6,
+        "fouls": 7,
         "corners": 1,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 58,
-        "xg": 0.21,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 102,
-        "duelsWon": 12,
-        "boxTouches": 8,
+        "possession": 50,
+        "xg": 0.32,
+        "shots": 6,
+        "shotsOnTarget": 4,
+        "accuratePasses": 113,
+        "duelsWon": 18,
+        "boxTouches": 10,
         "fouls": 2,
         "corners": 1,
         "offsides": 0,
         "saves": 1
-      }
+      },
+      "events": [
+        {
+          "minute": "25'",
+          "type": "goal",
+          "teamId": "1909",
+          "playerName": "Nicolas Binder",
+          "assist": "Jason Çeka"
+        }
+      ]
     }
   }
 }
