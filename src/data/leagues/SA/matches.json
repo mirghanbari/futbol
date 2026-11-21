@@ -5782,14 +5782,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-21T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7397",
     "awayTeamId": "104",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 0.74,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 677,
+        "duelsWon": 40,
+        "boxTouches": 26,
+        "fouls": 6,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.51,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 335,
+        "duelsWon": 46,
+        "boxTouches": 10,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 4,
+        "saves": 4
+      }
     },
     "venue": "Giuseppe Sinigaglia, Como",
     "broadcasts": [
@@ -5806,14 +5834,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-21T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "110",
     "awayTeamId": "5890",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 61,
+        "xg": 1.13,
+        "shots": 10,
+        "shotsOnTarget": 6,
+        "accuratePasses": 406,
+        "duelsWon": 49,
+        "boxTouches": 27,
+        "fouls": 11,
+        "corners": 9,
+        "offsides": 7,
+        "saves": 2
+      },
+      "away": {
+        "possession": 39,
+        "xg": 0.9,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 231,
+        "duelsWon": 67,
+        "boxTouches": 23,
+        "fouls": 13,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Olimpico, Roma",
     "broadcasts": [
@@ -5830,14 +5886,14 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-21T17:00:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "112",
     "awayTeamId": "100",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Ennio Tardini, Parma",
     "broadcasts": [

@@ -6562,14 +6562,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-21T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "263",
     "awayTeamId": "560",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 3.18,
+        "shots": 21,
+        "shotsOnTarget": 8,
+        "accuratePasses": 292,
+        "duelsWon": 45,
+        "boxTouches": 29,
+        "fouls": 20,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 52,
+        "xg": 0.24,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 306,
+        "duelsWon": 54,
+        "boxTouches": 10,
+        "fouls": 15,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 5
+      }
     }
   },
   {
@@ -6579,14 +6607,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-21T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "87",
     "awayTeamId": "95",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 64,
+        "xg": 0.64,
+        "shots": 21,
+        "shotsOnTarget": 5,
+        "accuratePasses": 456,
+        "duelsWon": 45,
+        "boxTouches": 20,
+        "fouls": 12,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 36,
+        "xg": 0.72,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 242,
+        "duelsWon": 49,
+        "boxTouches": 14,
+        "fouls": 17,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "Estadio de Vallecas, Madrid",
     "broadcasts": [
@@ -6607,7 +6663,7 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-21T17:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "559",
     "awayTeamId": "90",
     "homeTeam": {
