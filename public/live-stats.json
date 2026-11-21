@@ -452,6 +452,30 @@
         }
       ],
       "final": true
+    },
+    "560651": {
+      "home": {
+        "possession": 8,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 0,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 92,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 11,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   },
   "ELC": {
@@ -1572,6 +1596,33 @@
       ],
       "final": true
     },
+    "565861": {
+      "home": {
+        "possession": 89,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 14,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 11,
+        "xg": 0.14,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 2,
+        "duelsWon": 3,
+        "boxTouches": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
     "565862": {
       "home": {
         "possession": 42,
@@ -1756,25 +1807,25 @@
         "xg": 0.88,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 52,
-        "duelsWon": 12,
+        "accuratePasses": 64,
+        "duelsWon": 16,
         "boxTouches": 9,
-        "fouls": 3,
+        "fouls": 4,
         "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
         "possession": 66,
-        "xg": 0.13,
+        "xg": 0.18,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 139,
-        "duelsWon": 10,
-        "boxTouches": 13,
-        "fouls": 2,
+        "accuratePasses": 170,
+        "duelsWon": 11,
+        "boxTouches": 14,
+        "fouls": 3,
         "corners": 4,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 2
       }
     },
@@ -1857,7 +1908,7 @@
         "xg": 0.34,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 160,
+        "accuratePasses": 161,
         "duelsWon": 20,
         "boxTouches": 1,
         "fouls": 3,
@@ -1867,7 +1918,7 @@
       },
       "away": {
         "possession": 66,
-        "xg": 1.39,
+        "xg": 1.45,
         "shots": 6,
         "shotsOnTarget": 2,
         "accuratePasses": 367,
@@ -1966,16 +2017,16 @@
           "playerName": "Noah Fernandez"
         },
         {
-          "minute": "62'",
-          "type": "yellow-card",
-          "teamId": "1915",
-          "playerName": "Ahmetcan Kaplan"
-        },
-        {
-          "minute": "62'",
+          "minute": "63'",
           "type": "yellow-card",
           "teamId": "674",
           "playerName": "Guus Til"
+        },
+        {
+          "minute": "63'",
+          "type": "yellow-card",
+          "teamId": "1915",
+          "playerName": "Ahmetcan Kaplan"
         },
         {
           "minute": "64'",
@@ -1996,7 +2047,8 @@
           "teamId": "1915",
           "playerName": "Bryan Linssen"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
