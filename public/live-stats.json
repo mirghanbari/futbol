@@ -1444,27 +1444,27 @@
     },
     "564754": {
       "home": {
-        "possession": 64,
-        "xg": 2.02,
-        "shots": 16,
+        "possession": 65,
+        "xg": 2.14,
+        "shots": 20,
         "shotsOnTarget": 4,
-        "accuratePasses": 432,
-        "duelsWon": 30,
-        "boxTouches": 50,
+        "accuratePasses": 480,
+        "duelsWon": 35,
+        "boxTouches": 57,
         "fouls": 3,
-        "corners": 7,
+        "corners": 8,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 36,
+        "possession": 35,
         "xg": 1.64,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 218,
+        "accuratePasses": 230,
         "duelsWon": 18,
         "boxTouches": 9,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 1,
         "offsides": 2,
         "saves": 3
@@ -1483,6 +1483,12 @@
           "teamId": "86",
           "playerName": "Jude Bellingham",
           "assist": "Kylian Mbappé"
+        },
+        {
+          "minute": "74'",
+          "type": "yellow-card",
+          "teamId": "558",
+          "playerName": "Yoel Lago"
         }
       ]
     },
@@ -2099,12 +2105,12 @@
     "558527": {
       "home": {
         "possession": 53,
-        "xg": 1.6,
-        "shots": 21,
-        "shotsOnTarget": 9,
-        "accuratePasses": 394,
-        "duelsWon": 46,
-        "boxTouches": 29,
+        "xg": 1.66,
+        "shots": 22,
+        "shotsOnTarget": 10,
+        "accuratePasses": 395,
+        "duelsWon": 48,
+        "boxTouches": 30,
         "fouls": 13,
         "corners": 8,
         "offsides": 3,
@@ -2115,13 +2121,13 @@
         "xg": 0.55,
         "shots": 12,
         "shotsOnTarget": 2,
-        "accuratePasses": 347,
+        "accuratePasses": 353,
         "duelsWon": 38,
         "boxTouches": 14,
         "fouls": 8,
-        "corners": 4,
+        "corners": 5,
         "offsides": 0,
-        "saves": 8
+        "saves": 9
       },
       "events": [
         {
@@ -2149,7 +2155,8 @@
           "teamId": "113",
           "playerName": "Frank Anguissa"
         }
-      ]
+      ],
+      "final": true
     },
     "558528": {
       "home": {
@@ -2226,27 +2233,27 @@
   "FL1": {
     "559621": {
       "home": {
-        "possession": 66,
-        "xg": 2.13,
-        "shots": 14,
+        "possession": 65,
+        "xg": 2.18,
+        "shots": 15,
         "shotsOnTarget": 4,
-        "accuratePasses": 584,
-        "duelsWon": 42,
-        "boxTouches": 31,
+        "accuratePasses": 607,
+        "duelsWon": 46,
+        "boxTouches": 35,
         "fouls": 11,
-        "corners": 1,
-        "offsides": 1,
+        "corners": 3,
+        "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 34,
-        "xg": 0.19,
-        "shots": 5,
+        "possession": 35,
+        "xg": 0.26,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 264,
-        "duelsWon": 36,
+        "accuratePasses": 277,
+        "duelsWon": 39,
         "boxTouches": 6,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 0,
         "offsides": 1,
         "saves": 3
@@ -2277,12 +2284,12 @@
     "559623": {
       "home": {
         "possession": 60,
-        "xg": 2.08,
+        "xg": 2.4,
         "shots": 20,
         "shotsOnTarget": 8,
-        "accuratePasses": 495,
+        "accuratePasses": 496,
         "duelsWon": 63,
-        "boxTouches": 34,
+        "boxTouches": 36,
         "fouls": 11,
         "corners": 9,
         "offsides": 2,
@@ -2299,7 +2306,7 @@
         "fouls": 15,
         "corners": 5,
         "offsides": 0,
-        "saves": 6
+        "saves": 7
       },
       "events": [
         {
@@ -2338,30 +2345,31 @@
           "teamId": "546",
           "playerName": "Amadou Haidara"
         }
-      ]
+      ],
+      "final": true
     },
     "559624": {
       "home": {
-        "possession": 47,
-        "xg": 0.79,
-        "shots": 13,
+        "possession": 48,
+        "xg": 0.91,
+        "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 419,
-        "duelsWon": 46,
-        "boxTouches": 17,
-        "fouls": 12,
+        "accuratePasses": 437,
+        "duelsWon": 50,
+        "boxTouches": 21,
+        "fouls": 13,
         "corners": 7,
         "offsides": 2,
         "saves": 5
       },
       "away": {
-        "possession": 53,
+        "possession": 52,
         "xg": 0.64,
         "shots": 9,
         "shotsOnTarget": 6,
-        "accuratePasses": 465,
-        "duelsWon": 35,
-        "boxTouches": 20,
+        "accuratePasses": 467,
+        "duelsWon": 37,
+        "boxTouches": 21,
         "fouls": 12,
         "corners": 7,
         "offsides": 1,
@@ -2373,48 +2381,55 @@
           "type": "goal",
           "teamId": "523",
           "playerName": "Mads Bidstrup"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "523",
+          "playerName": "Corentin Tolisso"
         }
-      ]
+      ],
+      "final": true
     },
     "559627": {
       "home": {
-        "possession": 68,
-        "xg": 0.94,
-        "shots": 13,
-        "shotsOnTarget": 4,
-        "accuratePasses": 521,
-        "duelsWon": 55,
-        "boxTouches": 29,
+        "possession": 69,
+        "xg": 1.76,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 535,
+        "duelsWon": 59,
+        "boxTouches": 30,
         "fouls": 15,
         "corners": 8,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 32,
-        "xg": 1.83,
+        "possession": 31,
+        "xg": 1.67,
         "shots": 16,
         "shotsOnTarget": 2,
-        "accuratePasses": 201,
-        "duelsWon": 62,
-        "boxTouches": 21,
+        "accuratePasses": 203,
+        "duelsWon": 65,
+        "boxTouches": 22,
         "fouls": 17,
         "corners": 1,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
           "minute": "13'",
           "type": "yellow-card",
           "teamId": "576",
-          "playerName": "Vítor Matos"
+          "playerName": "Dário Essugo"
         },
         {
           "minute": "13'",
           "type": "yellow-card",
           "teamId": "576",
-          "playerName": "Dário Essugo"
+          "playerName": "Vítor Matos"
         },
         {
           "minute": "22'",
@@ -2440,8 +2455,15 @@
           "type": "yellow-card",
           "teamId": "576",
           "playerName": "Diogo Sousa"
+        },
+        {
+          "minute": "90'+7'",
+          "type": "yellow-card",
+          "teamId": "512",
+          "playerName": "Julien Lachuer"
         }
-      ]
+      ],
+      "final": true
     },
     "559628": {
       "home": {
@@ -2604,27 +2626,27 @@
     },
     "558832": {
       "home": {
-        "possession": 61,
-        "xg": 1.42,
+        "possession": 62,
+        "xg": 1.46,
         "shots": 14,
         "shotsOnTarget": 4,
-        "accuratePasses": 398,
-        "duelsWon": 46,
-        "boxTouches": 23,
-        "fouls": 6,
-        "corners": 9,
+        "accuratePasses": 428,
+        "duelsWon": 48,
+        "boxTouches": 24,
+        "fouls": 7,
+        "corners": 10,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 39,
+        "possession": 38,
         "xg": 0.85,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 220,
-        "duelsWon": 52,
+        "accuratePasses": 229,
+        "duelsWon": 54,
         "boxTouches": 19,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 6,
         "offsides": 1,
         "saves": 4
@@ -2762,27 +2784,27 @@
     },
     "558834": {
       "home": {
-        "possession": 46,
-        "xg": 1.12,
+        "possession": 45,
+        "xg": 1.14,
         "shots": 16,
         "shotsOnTarget": 8,
-        "accuratePasses": 227,
-        "duelsWon": 35,
+        "accuratePasses": 232,
+        "duelsWon": 39,
         "boxTouches": 20,
-        "fouls": 11,
-        "corners": 3,
+        "fouls": 14,
+        "corners": 4,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 54,
-        "xg": 1.39,
-        "shots": 10,
-        "shotsOnTarget": 4,
-        "accuratePasses": 316,
-        "duelsWon": 54,
-        "boxTouches": 21,
-        "fouls": 4,
+        "possession": 55,
+        "xg": 1.54,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 337,
+        "duelsWon": 59,
+        "boxTouches": 24,
+        "fouls": 5,
         "corners": 4,
         "offsides": 2,
         "saves": 7
@@ -2832,6 +2854,13 @@
           "playerName": "Dylan Vente",
           "method": "header",
           "assist": "Jacob Trenskow"
+        },
+        {
+          "minute": "81'",
+          "type": "goal",
+          "teamId": "673",
+          "playerName": "Dirk Proper",
+          "assist": "Ringo Meerveld"
         }
       ]
     },
