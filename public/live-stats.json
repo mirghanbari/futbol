@@ -455,26 +455,26 @@
     },
     "560651": {
       "home": {
-        "possession": 37,
+        "possession": 41,
         "xg": 0.03,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 39,
-        "duelsWon": 6,
+        "accuratePasses": 65,
+        "duelsWon": 15,
         "fouls": 3,
         "corners": 0,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 63,
+        "possession": 59,
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 78,
-        "duelsWon": 10,
-        "boxTouches": 6,
-        "fouls": 1,
+        "accuratePasses": 103,
+        "duelsWon": 15,
+        "boxTouches": 7,
+        "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 0
@@ -1376,30 +1376,44 @@
     },
     "564756": {
       "home": {
-        "possession": 42,
+        "possession": 36,
         "xg": 0.11,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 15,
-        "duelsWon": 7,
-        "boxTouches": 3,
-        "fouls": 1,
+        "accuratePasses": 30,
+        "duelsWon": 8,
+        "boxTouches": 4,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 58,
+        "possession": 64,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 24,
-        "duelsWon": 5,
-        "fouls": 2,
+        "accuratePasses": 58,
+        "duelsWon": 11,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "11'",
+          "type": "yellow-card",
+          "teamId": "90",
+          "playerName": "Juan Hernández"
+        },
+        {
+          "minute": "11'",
+          "type": "yellow-card",
+          "teamId": "90",
+          "playerName": "Diego Llorente"
+        }
+      ]
     }
   },
   "BL1": {
@@ -1628,12 +1642,12 @@
     },
     "565861": {
       "home": {
-        "possession": 64,
-        "xg": 0.06,
+        "possession": 62,
+        "xg": 0.05,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 67,
-        "duelsWon": 5,
+        "accuratePasses": 76,
+        "duelsWon": 9,
         "boxTouches": 6,
         "fouls": 1,
         "corners": 2,
@@ -1641,14 +1655,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 36,
+        "possession": 38,
         "xg": 0.35,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 35,
-        "duelsWon": 7,
+        "accuratePasses": 45,
+        "duelsWon": 8,
         "boxTouches": 3,
-        "fouls": 0,
+        "fouls": 3,
         "corners": 1,
         "offsides": 0,
         "saves": 0
@@ -1834,12 +1848,12 @@
     },
     "558526": {
       "home": {
-        "possession": 33,
+        "possession": 31,
         "xg": 1.5,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 76,
-        "duelsWon": 19,
+        "accuratePasses": 78,
+        "duelsWon": 20,
         "boxTouches": 13,
         "fouls": 5,
         "corners": 3,
@@ -1847,15 +1861,15 @@
         "saves": 1
       },
       "away": {
-        "possession": 67,
+        "possession": 69,
         "xg": 0.62,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 210,
+        "accuratePasses": 237,
         "duelsWon": 16,
-        "boxTouches": 21,
+        "boxTouches": 23,
         "fouls": 4,
-        "corners": 4,
+        "corners": 5,
         "offsides": 3,
         "saves": 4
       },
@@ -1950,28 +1964,28 @@
   "FL1": {
     "559628": {
       "home": {
-        "possession": 34,
+        "possession": 32,
         "xg": 0.34,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 220,
-        "duelsWon": 26,
+        "accuratePasses": 222,
+        "duelsWon": 27,
         "boxTouches": 1,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 1,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 66,
-        "xg": 1.55,
-        "shots": 8,
+        "possession": 68,
+        "xg": 1.61,
+        "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 498,
-        "duelsWon": 18,
-        "boxTouches": 15,
+        "accuratePasses": 547,
+        "duelsWon": 19,
+        "boxTouches": 18,
         "fouls": 7,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 0
       },
@@ -2007,6 +2021,42 @@
     }
   },
   "DED": {
+    "558831": {
+      "home": {
+        "possession": 60,
+        "xg": 0.02,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 20,
+        "duelsWon": 1,
+        "boxTouches": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 40,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 12,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "events": [
+        {
+          "minute": "2'",
+          "type": "goal",
+          "teamId": "675",
+          "playerName": "Givairo Read",
+          "assist": "Jerayno Schaken"
+        }
+      ]
+    },
     "558833": {
       "home": {
         "possession": 52,
