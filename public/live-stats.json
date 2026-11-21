@@ -594,12 +594,12 @@
     },
     "561942": {
       "home": {
-        "possession": 44,
-        "xg": 1.14,
-        "shots": 11,
+        "possession": 45,
+        "xg": 1.16,
+        "shots": 12,
         "shotsOnTarget": 6,
-        "accuratePasses": 331,
-        "duelsWon": 43,
+        "accuratePasses": 351,
+        "duelsWon": 44,
         "boxTouches": 16,
         "fouls": 14,
         "corners": 0,
@@ -607,14 +607,14 @@
         "saves": 6
       },
       "away": {
-        "possession": 56,
+        "possession": 55,
         "xg": 3.88,
         "shots": 20,
         "shotsOnTarget": 8,
-        "accuratePasses": 440,
+        "accuratePasses": 445,
         "duelsWon": 44,
-        "boxTouches": 47,
-        "fouls": 10,
+        "boxTouches": 48,
+        "fouls": 12,
         "corners": 8,
         "offsides": 5,
         "saves": 4
@@ -695,7 +695,8 @@
           "teamId": "72",
           "playerName": "Filip Lissah"
         }
-      ]
+      ],
+      "final": true
     },
     "561943": {
       "home": {
@@ -1291,27 +1292,27 @@
   "PD": {
     "564751": {
       "home": {
-        "possession": 61,
-        "xg": 0.55,
-        "shots": 19,
+        "possession": 62,
+        "xg": 0.56,
+        "shots": 20,
         "shotsOnTarget": 5,
-        "accuratePasses": 373,
-        "duelsWon": 42,
-        "boxTouches": 12,
+        "accuratePasses": 416,
+        "duelsWon": 44,
+        "boxTouches": 15,
         "fouls": 10,
         "corners": 8,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 39,
+        "possession": 38,
         "xg": 0.72,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 231,
-        "duelsWon": 42,
+        "accuratePasses": 237,
+        "duelsWon": 45,
         "boxTouches": 14,
-        "fouls": 16,
+        "fouls": 17,
         "corners": 5,
         "offsides": 2,
         "saves": 5
@@ -1748,6 +1749,33 @@
       ],
       "final": true
     },
+    "558526": {
+      "home": {
+        "possession": 70,
+        "xg": 0.1,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 14,
+        "duelsWon": 1,
+        "boxTouches": 2,
+        "fouls": 0,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 30,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 4,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      }
+    },
     "558528": {
       "home": {
         "possession": 61,
@@ -1827,12 +1855,12 @@
         "xg": 0.34,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 126,
+        "accuratePasses": 149,
         "duelsWon": 17,
         "boxTouches": 1,
         "fouls": 3,
         "corners": 1,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "away": {
@@ -1840,8 +1868,8 @@
         "xg": 1.23,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 263,
-        "duelsWon": 11,
+        "accuratePasses": 303,
+        "duelsWon": 12,
         "boxTouches": 12,
         "fouls": 5,
         "corners": 2,
@@ -1880,8 +1908,8 @@
         "xg": 0.76,
         "shots": 10,
         "shotsOnTarget": 6,
-        "accuratePasses": 254,
-        "duelsWon": 32,
+        "accuratePasses": 271,
+        "duelsWon": 35,
         "boxTouches": 14,
         "fouls": 5,
         "corners": 4,
@@ -1890,13 +1918,13 @@
       },
       "away": {
         "possession": 47,
-        "xg": 1.37,
+        "xg": 1.83,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 218,
+        "accuratePasses": 229,
         "duelsWon": 30,
         "boxTouches": 16,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 1,
         "offsides": 0,
         "saves": 6
@@ -1951,7 +1979,14 @@
           "minute": "64'",
           "type": "goal",
           "teamId": "674",
-          "playerName": "<TBD>"
+          "playerName": "Ruben van Bommel",
+          "assist": "Guus Til"
+        },
+        {
+          "minute": "68'",
+          "type": "yellow-card",
+          "teamId": "674",
+          "playerName": "Filip Kostić"
         }
       ]
     }
