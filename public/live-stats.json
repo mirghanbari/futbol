@@ -455,26 +455,26 @@
     },
     "560651": {
       "home": {
-        "possession": 40,
+        "possession": 38,
         "xg": 0.03,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 90,
-        "duelsWon": 18,
-        "fouls": 6,
+        "accuratePasses": 97,
+        "duelsWon": 21,
+        "fouls": 7,
         "corners": 0,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 60,
-        "xg": 0.58,
-        "shots": 5,
-        "shotsOnTarget": 0,
-        "accuratePasses": 146,
-        "duelsWon": 22,
-        "boxTouches": 12,
-        "fouls": 2,
+        "possession": 62,
+        "xg": 1.07,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 171,
+        "duelsWon": 24,
+        "boxTouches": 13,
+        "fouls": 3,
         "corners": 0,
         "offsides": 1,
         "saves": 0
@@ -485,6 +485,13 @@
           "type": "yellow-card",
           "teamId": "67",
           "playerName": "Amar Dedić"
+        },
+        {
+          "minute": "33'",
+          "type": "goal",
+          "teamId": "57",
+          "playerName": "Eberechi Eze",
+          "assist": "Kai Havertz"
         }
       ]
     }
@@ -1384,25 +1391,25 @@
     },
     "564756": {
       "home": {
-        "possession": 40,
-        "xg": 0.63,
-        "shots": 7,
-        "shotsOnTarget": 0,
-        "accuratePasses": 61,
-        "duelsWon": 13,
-        "boxTouches": 16,
-        "fouls": 5,
-        "corners": 0,
+        "possession": 41,
+        "xg": 0.72,
+        "shots": 10,
+        "shotsOnTarget": 1,
+        "accuratePasses": 78,
+        "duelsWon": 14,
+        "boxTouches": 20,
+        "fouls": 6,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 60,
-        "xg": 0,
-        "shots": 0,
+        "possession": 59,
+        "xg": 0.02,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 99,
-        "duelsWon": 14,
+        "accuratePasses": 121,
+        "duelsWon": 18,
         "boxTouches": 2,
         "fouls": 4,
         "corners": 2,
@@ -1663,12 +1670,12 @@
     },
     "565861": {
       "home": {
-        "possession": 54,
+        "possession": 51,
         "xg": 0.46,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 149,
-        "duelsWon": 19,
+        "accuratePasses": 155,
+        "duelsWon": 20,
         "boxTouches": 15,
         "fouls": 4,
         "corners": 3,
@@ -1676,14 +1683,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 46,
+        "possession": 49,
         "xg": 1.03,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 130,
-        "duelsWon": 17,
+        "accuratePasses": 151,
+        "duelsWon": 18,
         "boxTouches": 14,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 0,
         "saves": 3
@@ -1869,27 +1876,27 @@
     },
     "558526": {
       "home": {
-        "possession": 31,
+        "possession": 33,
         "xg": 1.5,
         "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 78,
-        "duelsWon": 20,
-        "boxTouches": 13,
+        "accuratePasses": 93,
+        "duelsWon": 23,
+        "boxTouches": 14,
         "fouls": 5,
         "corners": 3,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 69,
-        "xg": 0.62,
-        "shots": 8,
+        "possession": 67,
+        "xg": 0.65,
+        "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 237,
-        "duelsWon": 16,
-        "boxTouches": 23,
-        "fouls": 4,
+        "accuratePasses": 255,
+        "duelsWon": 17,
+        "boxTouches": 22,
+        "fouls": 5,
         "corners": 5,
         "offsides": 3,
         "saves": 4
@@ -1985,27 +1992,27 @@
   "FL1": {
     "559628": {
       "home": {
-        "possession": 33,
+        "possession": 34,
         "xg": 0.34,
         "shots": 1,
         "shotsOnTarget": 1,
-        "accuratePasses": 262,
-        "duelsWon": 33,
-        "boxTouches": 2,
-        "fouls": 9,
+        "accuratePasses": 288,
+        "duelsWon": 35,
+        "boxTouches": 3,
+        "fouls": 11,
         "corners": 1,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 1
       },
       "away": {
-        "possession": 67,
+        "possession": 66,
         "xg": 1.59,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 627,
-        "duelsWon": 22,
+        "accuratePasses": 654,
+        "duelsWon": 26,
         "boxTouches": 16,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 4,
         "offsides": 2,
         "saves": 0
@@ -2043,6 +2050,12 @@
           "type": "yellow-card",
           "teamId": "522",
           "playerName": "Alidu Seidu"
+        },
+        {
+          "minute": "85'",
+          "type": "goal",
+          "teamId": "524",
+          "playerName": "Ferrán Torres"
         }
       ]
     }
@@ -2050,30 +2063,30 @@
   "DED": {
     "558831": {
       "home": {
-        "possession": 67,
-        "xg": 0.26,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 90,
-        "duelsWon": 6,
-        "boxTouches": 3,
+        "possession": 71,
+        "xg": 0.29,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 132,
+        "duelsWon": 8,
+        "boxTouches": 5,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 33,
+        "possession": 29,
         "xg": 0.37,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 35,
+        "accuratePasses": 43,
         "duelsWon": 4,
-        "boxTouches": 2,
-        "fouls": 1,
+        "boxTouches": 4,
+        "fouls": 2,
         "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -2213,7 +2226,8 @@
         "corners": 1,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "final": true
     }
   }
 }
