@@ -531,27 +531,27 @@
     },
     "564753": {
       "home": {
-        "possession": 28,
-        "xg": 0.56,
-        "shots": 10,
+        "possession": 30,
+        "xg": 0.59,
+        "shots": 11,
         "shotsOnTarget": 1,
-        "accuratePasses": 162,
-        "duelsWon": 31,
-        "boxTouches": 13,
-        "fouls": 7,
+        "accuratePasses": 192,
+        "duelsWon": 34,
+        "boxTouches": 14,
+        "fouls": 8,
         "corners": 2,
         "offsides": 0,
         "saves": 6
       },
       "away": {
-        "possession": 72,
-        "xg": 2.64,
-        "shots": 14,
+        "possession": 70,
+        "xg": 2.67,
+        "shots": 16,
         "shotsOnTarget": 8,
-        "accuratePasses": 549,
-        "duelsWon": 34,
-        "boxTouches": 15,
-        "fouls": 8,
+        "accuratePasses": 575,
+        "duelsWon": 36,
+        "boxTouches": 16,
+        "fouls": 9,
         "corners": 5,
         "offsides": 2,
         "saves": 1
@@ -582,6 +582,12 @@
           "type": "yellow-card",
           "teamId": "78",
           "playerName": "Robin Le Normand"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "82",
+          "playerName": "Djené"
         }
       ]
     }
@@ -770,30 +776,30 @@
   "SA": {
     "558520": {
       "home": {
-        "possession": 39,
-        "xg": 2.09,
-        "shots": 13,
-        "shotsOnTarget": 8,
-        "accuratePasses": 320,
-        "duelsWon": 33,
-        "boxTouches": 24,
-        "fouls": 8,
-        "corners": 4,
+        "possession": 41,
+        "xg": 2.17,
+        "shots": 15,
+        "shotsOnTarget": 10,
+        "accuratePasses": 359,
+        "duelsWon": 35,
+        "boxTouches": 29,
+        "fouls": 9,
+        "corners": 5,
         "offsides": 4,
         "saves": 2
       },
       "away": {
-        "possession": 61,
+        "possession": 59,
         "xg": 3.31,
         "shots": 14,
         "shotsOnTarget": 6,
-        "accuratePasses": 534,
-        "duelsWon": 29,
+        "accuratePasses": 535,
+        "duelsWon": 31,
         "boxTouches": 31,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 5,
         "offsides": 0,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -857,6 +863,13 @@
           "teamId": "102",
           "playerName": "Charles De Ketelaere",
           "assist": "Jonathan Rowe"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "goal",
+          "teamId": "102",
+          "playerName": "Franck Kessié",
+          "penalty": true
         }
       ]
     },
@@ -1288,26 +1301,26 @@
     "559629": {
       "home": {
         "possession": 56,
-        "xg": 1.37,
-        "shots": 10,
+        "xg": 1.45,
+        "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 467,
-        "duelsWon": 42,
-        "boxTouches": 16,
-        "fouls": 11,
+        "accuratePasses": 481,
+        "duelsWon": 48,
+        "boxTouches": 17,
+        "fouls": 13,
         "corners": 2,
         "offsides": 4,
-        "saves": 5
+        "saves": 6
       },
       "away": {
         "possession": 44,
-        "xg": 2.88,
-        "shots": 14,
-        "shotsOnTarget": 6,
-        "accuratePasses": 350,
-        "duelsWon": 32,
-        "boxTouches": 24,
-        "fouls": 8,
+        "xg": 3.72,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 359,
+        "duelsWon": 36,
+        "boxTouches": 27,
+        "fouls": 10,
         "corners": 5,
         "offsides": 0,
         "saves": 3
@@ -1374,6 +1387,12 @@
           "type": "goal",
           "teamId": "535",
           "playerName": "Erwan Colas"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "535",
+          "playerName": "Daouda Traoré"
         }
       ]
     }
