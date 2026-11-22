@@ -531,26 +531,26 @@
     },
     "564753": {
       "home": {
-        "possession": 42,
-        "xg": 0.18,
-        "shots": 3,
+        "possession": 41,
+        "xg": 0.22,
+        "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 69,
-        "duelsWon": 14,
-        "boxTouches": 3,
+        "accuratePasses": 86,
+        "duelsWon": 15,
+        "boxTouches": 5,
         "fouls": 2,
         "corners": 1,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "away": {
-        "possession": 58,
-        "xg": 0.13,
-        "shots": 3,
-        "shotsOnTarget": 3,
-        "accuratePasses": 106,
+        "possession": 59,
+        "xg": 0.86,
+        "shots": 5,
+        "shotsOnTarget": 5,
+        "accuratePasses": 144,
         "duelsWon": 9,
-        "boxTouches": 2,
+        "boxTouches": 4,
         "fouls": 2,
         "corners": 1,
         "offsides": 0,
@@ -751,30 +751,30 @@
   "SA": {
     "558520": {
       "home": {
-        "possession": 37,
-        "xg": 0.23,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 128,
-        "duelsWon": 14,
-        "boxTouches": 10,
+        "possession": 35,
+        "xg": 0.76,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 141,
+        "duelsWon": 15,
+        "boxTouches": 16,
         "fouls": 2,
         "corners": 2,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 63,
-        "xg": 1.71,
+        "possession": 65,
+        "xg": 1.67,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 234,
-        "duelsWon": 7,
-        "boxTouches": 14,
-        "fouls": 4,
+        "accuratePasses": 276,
+        "duelsWon": 9,
+        "boxTouches": 18,
+        "fouls": 5,
         "corners": 2,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -795,7 +795,8 @@
           "minute": "35'",
           "type": "goal",
           "teamId": "102",
-          "playerName": "Eljif Elmas"
+          "playerName": "Eljif Elmas",
+          "assist": "Nicola Zalewski"
         }
       ]
     },
@@ -1226,26 +1227,26 @@
     },
     "559629": {
       "home": {
-        "possession": 63,
-        "xg": 0.38,
+        "possession": 60,
+        "xg": 0.85,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 221,
-        "duelsWon": 17,
+        "accuratePasses": 239,
+        "duelsWon": 19,
         "boxTouches": 6,
-        "fouls": 3,
+        "fouls": 5,
         "corners": 0,
         "offsides": 3,
         "saves": 0
       },
       "away": {
-        "possession": 37,
+        "possession": 40,
         "xg": 0.27,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 109,
-        "duelsWon": 13,
-        "boxTouches": 6,
+        "accuratePasses": 139,
+        "duelsWon": 17,
+        "boxTouches": 7,
         "fouls": 4,
         "corners": 2,
         "offsides": 0,
