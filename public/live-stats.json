@@ -2,42 +2,64 @@
   "ELC": {
     "561947": {
       "home": {
-        "possession": 51,
-        "xg": 0.25,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 87,
-        "duelsWon": 14,
-        "boxTouches": 6,
-        "fouls": 3,
+        "possession": 55,
+        "xg": 0.32,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 120,
+        "duelsWon": 15,
+        "boxTouches": 7,
+        "fouls": 4,
         "corners": 4,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 49,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 74,
-        "duelsWon": 13,
-        "boxTouches": 1,
-        "fouls": 3,
+        "possession": 45,
+        "xg": 0.16,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 86,
+        "duelsWon": 15,
+        "boxTouches": 2,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
         "saves": 2
-      }
+      },
+      "events": [
+        {
+          "minute": "27'",
+          "type": "goal",
+          "teamId": "328",
+          "playerName": "Largie Ramazani",
+          "assist": "Kyle Walker"
+        },
+        {
+          "minute": "30'",
+          "type": "yellow-card",
+          "teamId": "328",
+          "playerName": "Kyle Walker"
+        },
+        {
+          "minute": "31'",
+          "type": "goal",
+          "teamId": "59",
+          "playerName": "Andri Guðjohnsen",
+          "assist": "Sean McLoughlin"
+        }
+      ]
     }
   },
   "SA": {
     "558521": {
       "home": {
-        "possession": 59,
-        "xg": 0.08,
+        "possession": 60,
+        "xg": 0.09,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 244,
-        "duelsWon": 26,
+        "accuratePasses": 279,
+        "duelsWon": 28,
         "boxTouches": 7,
         "fouls": 3,
         "corners": 4,
@@ -45,14 +67,14 @@
         "saves": 0
       },
       "away": {
-        "possession": 41,
-        "xg": 0.3,
+        "possession": 40,
+        "xg": 0.33,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 163,
-        "duelsWon": 20,
+        "accuratePasses": 173,
+        "duelsWon": 22,
         "boxTouches": 1,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 2,
         "offsides": 1,
         "saves": 2
@@ -62,24 +84,24 @@
   "DED": {
     "558828": {
       "home": {
-        "possession": 68,
-        "xg": 1.64,
-        "shots": 15,
-        "shotsOnTarget": 5,
-        "accuratePasses": 348,
-        "duelsWon": 26,
-        "boxTouches": 30,
+        "possession": 70,
+        "xg": 1.67,
+        "shots": 16,
+        "shotsOnTarget": 6,
+        "accuratePasses": 399,
+        "duelsWon": 28,
+        "boxTouches": 31,
         "fouls": 5,
         "corners": 3,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 32,
+        "possession": 30,
         "xg": 0.08,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 137,
+        "accuratePasses": 138,
         "duelsWon": 18,
         "boxTouches": 5,
         "fouls": 9,
@@ -106,6 +128,13 @@
           "teamId": "672",
           "playerName": "Devin Haen",
           "assist": "Hidde ter Avest"
+        },
+        {
+          "minute": "59'",
+          "type": "goal",
+          "teamId": "666",
+          "playerName": "Ramiz Zerrouki",
+          "assist": "Daouda Weidmann"
         }
       ]
     }
