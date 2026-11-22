@@ -531,12 +531,12 @@
     },
     "564753": {
       "home": {
-        "possession": 30,
+        "possession": 28,
         "xg": 0.41,
         "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 132,
-        "duelsWon": 26,
+        "accuratePasses": 139,
+        "duelsWon": 28,
         "boxTouches": 9,
         "fouls": 5,
         "corners": 1,
@@ -544,16 +544,16 @@
         "saves": 5
       },
       "away": {
-        "possession": 70,
+        "possession": 72,
         "xg": 2.44,
         "shots": 10,
         "shotsOnTarget": 7,
-        "accuratePasses": 388,
-        "duelsWon": 22,
+        "accuratePasses": 440,
+        "duelsWon": 23,
         "boxTouches": 7,
-        "fouls": 6,
-        "corners": 2,
-        "offsides": 0,
+        "fouls": 7,
+        "corners": 4,
+        "offsides": 2,
         "saves": 1
       },
       "events": [
@@ -576,6 +576,12 @@
           "type": "yellow-card",
           "teamId": "78",
           "playerName": "Johnny Cardoso"
+        },
+        {
+          "minute": "49'",
+          "type": "yellow-card",
+          "teamId": "78",
+          "playerName": "Robin Le Normand"
         }
       ]
     }
@@ -764,25 +770,25 @@
   "SA": {
     "558520": {
       "home": {
-        "possession": 38,
+        "possession": 40,
         "xg": 0.9,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 253,
+        "accuratePasses": 279,
         "duelsWon": 27,
         "boxTouches": 18,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 2,
         "offsides": 4,
         "saves": 2
       },
       "away": {
-        "possession": 62,
+        "possession": 60,
         "xg": 2.52,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 428,
-        "duelsWon": 25,
+        "accuratePasses": 442,
+        "duelsWon": 27,
         "boxTouches": 28,
         "fouls": 8,
         "corners": 4,
@@ -1257,22 +1263,22 @@
         "xg": 1.35,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 397,
-        "duelsWon": 32,
+        "accuratePasses": 427,
+        "duelsWon": 34,
         "boxTouches": 15,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 2,
         "offsides": 4,
-        "saves": 3
+        "saves": 4
       },
       "away": {
         "possession": 42,
-        "xg": 1.54,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 258,
-        "duelsWon": 26,
-        "boxTouches": 15,
+        "xg": 1.96,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 288,
+        "duelsWon": 29,
+        "boxTouches": 19,
         "fouls": 5,
         "corners": 5,
         "offsides": 0,
@@ -1298,6 +1304,12 @@
           "type": "yellow-card",
           "teamId": "535",
           "playerName": "Antoine Rabillard"
+        },
+        {
+          "minute": "67'",
+          "type": "yellow-card",
+          "teamId": "516",
+          "playerName": "Tochukwu Nnadi"
         }
       ]
     }
