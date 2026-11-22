@@ -2,26 +2,26 @@
   "PL": {
     "560645": {
       "home": {
-        "possession": 62,
-        "xg": 3.75,
-        "shots": 24,
-        "shotsOnTarget": 10,
-        "accuratePasses": 442,
-        "duelsWon": 38,
-        "boxTouches": 52,
+        "possession": 63,
+        "xg": 4.28,
+        "shots": 25,
+        "shotsOnTarget": 11,
+        "accuratePasses": 463,
+        "duelsWon": 39,
+        "boxTouches": 55,
         "fouls": 13,
-        "corners": 10,
+        "corners": 12,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 38,
-        "xg": 0.19,
-        "shots": 6,
-        "shotsOnTarget": 1,
-        "accuratePasses": 232,
+        "possession": 37,
+        "xg": 0.29,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 240,
         "duelsWon": 42,
-        "boxTouches": 5,
+        "boxTouches": 6,
         "fouls": 6,
         "corners": 4,
         "offsides": 2,
@@ -60,6 +60,13 @@
           "teamId": "64",
           "playerName": "Rio Ngumoha",
           "assist": "Bradley Barcola"
+        },
+        {
+          "minute": "83'",
+          "type": "goal",
+          "teamId": "64",
+          "playerName": "Víctor Muñoz",
+          "assist": "Florian Wirtz"
         }
       ]
     },
@@ -460,26 +467,26 @@
     },
     "564752": {
       "home": {
-        "possession": 57,
+        "possession": 55,
         "xg": 1,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 169,
-        "duelsWon": 19,
+        "accuratePasses": 174,
+        "duelsWon": 22,
         "boxTouches": 14,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 4,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 43,
+        "possession": 45,
         "xg": 0.02,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 138,
-        "duelsWon": 15,
-        "boxTouches": 5,
+        "accuratePasses": 154,
+        "duelsWon": 18,
+        "boxTouches": 6,
         "fouls": 5,
         "corners": 1,
         "offsides": 1,
@@ -493,6 +500,12 @@
           "playerName": "Ante Budimir",
           "method": "header",
           "assist": "Valentin Rosier"
+        },
+        {
+          "minute": "42'",
+          "type": "yellow-card",
+          "teamId": "79",
+          "playerName": "Alejandro Catena"
         }
       ]
     }
@@ -501,11 +514,11 @@
     "565863": {
       "home": {
         "possession": 56,
-        "xg": 1.24,
-        "shots": 14,
+        "xg": 1.29,
+        "shots": 15,
         "shotsOnTarget": 6,
-        "accuratePasses": 302,
-        "duelsWon": 27,
+        "accuratePasses": 312,
+        "duelsWon": 31,
         "boxTouches": 17,
         "fouls": 8,
         "corners": 1,
@@ -517,10 +530,10 @@
         "xg": 0.8,
         "shots": 11,
         "shotsOnTarget": 1,
-        "accuratePasses": 224,
-        "duelsWon": 32,
+        "accuratePasses": 232,
+        "duelsWon": 37,
         "boxTouches": 20,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 7,
         "offsides": 1,
         "saves": 3
@@ -569,6 +582,12 @@
           "teamId": "12",
           "playerName": "Justin Njinmah",
           "assist": "Ludovit Reis"
+        },
+        {
+          "minute": "74'",
+          "type": "yellow-card",
+          "teamId": "7",
+          "playerName": "Nicolás Capaldo"
         }
       ]
     },
@@ -790,29 +809,29 @@
     "558523": {
       "home": {
         "possession": 52,
-        "xg": 0.79,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 175,
-        "duelsWon": 27,
-        "boxTouches": 15,
+        "xg": 1.03,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 192,
+        "duelsWon": 29,
+        "boxTouches": 17,
         "fouls": 3,
         "corners": 2,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
         "possession": 48,
-        "xg": 0.47,
-        "shots": 9,
-        "shotsOnTarget": 2,
-        "accuratePasses": 156,
-        "duelsWon": 33,
-        "boxTouches": 17,
+        "xg": 0.71,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 173,
+        "duelsWon": 35,
+        "boxTouches": 21,
         "fouls": 9,
-        "corners": 4,
+        "corners": 5,
         "offsides": 3,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -848,10 +867,11 @@
           "playerName": "Giacomo Calò"
         },
         {
-          "minute": "47'",
+          "minute": "48'",
           "type": "goal",
           "teamId": "98",
-          "playerName": "<TBD>"
+          "playerName": "Ardon Jashari",
+          "assist": "Adrien Rabiot"
         }
       ]
     },
@@ -980,13 +1000,13 @@
     "559626": {
       "home": {
         "possession": 50,
-        "xg": 1.5,
+        "xg": 1.48,
         "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 437,
+        "accuratePasses": 448,
         "duelsWon": 46,
-        "boxTouches": 20,
-        "fouls": 10,
+        "boxTouches": 21,
+        "fouls": 11,
         "corners": 7,
         "offsides": 0,
         "saves": 2
@@ -997,7 +1017,7 @@
         "shots": 13,
         "shotsOnTarget": 3,
         "accuratePasses": 436,
-        "duelsWon": 37,
+        "duelsWon": 39,
         "boxTouches": 25,
         "fouls": 19,
         "corners": 5,
@@ -1049,7 +1069,8 @@
           "teamId": "529",
           "playerName": "Adrien Thomasson"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "DED": {
