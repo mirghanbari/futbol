@@ -516,11 +516,11 @@
       "home": {
         "possession": 54,
         "xg": 1.41,
-        "shots": 17,
-        "shotsOnTarget": 6,
-        "accuratePasses": 340,
-        "duelsWon": 36,
-        "boxTouches": 21,
+        "shots": 18,
+        "shotsOnTarget": 7,
+        "accuratePasses": 352,
+        "duelsWon": 40,
+        "boxTouches": 22,
         "fouls": 12,
         "corners": 1,
         "offsides": 2,
@@ -528,14 +528,14 @@
       },
       "away": {
         "possession": 46,
-        "xg": 1.09,
-        "shots": 14,
-        "shotsOnTarget": 1,
-        "accuratePasses": 273,
-        "duelsWon": 44,
-        "boxTouches": 28,
+        "xg": 1.43,
+        "shots": 17,
+        "shotsOnTarget": 2,
+        "accuratePasses": 297,
+        "duelsWon": 45,
+        "boxTouches": 33,
         "fouls": 11,
-        "corners": 7,
+        "corners": 8,
         "offsides": 1,
         "saves": 3
       },
@@ -595,6 +595,12 @@
           "type": "yellow-card",
           "teamId": "7",
           "playerName": "Albert Grønbæk"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "goal",
+          "teamId": "12",
+          "playerName": "Niclas Füllkrug"
         }
       ]
     },
@@ -815,28 +821,28 @@
     },
     "558523": {
       "home": {
-        "possession": 53,
-        "xg": 1.63,
-        "shots": 9,
-        "shotsOnTarget": 6,
-        "accuratePasses": 233,
-        "duelsWon": 35,
-        "boxTouches": 22,
+        "possession": 52,
+        "xg": 2.24,
+        "shots": 10,
+        "shotsOnTarget": 7,
+        "accuratePasses": 248,
+        "duelsWon": 37,
+        "boxTouches": 24,
         "fouls": 3,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 47,
+        "possession": 48,
         "xg": 0.78,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 195,
-        "duelsWon": 42,
+        "accuratePasses": 213,
+        "duelsWon": 45,
         "boxTouches": 24,
-        "fouls": 14,
-        "corners": 6,
+        "fouls": 15,
+        "corners": 8,
         "offsides": 4,
         "saves": 3
       },
@@ -892,6 +898,18 @@
           "teamId": "98",
           "playerName": "Alphadjo Cissè",
           "assist": "Diego Moreira"
+        },
+        {
+          "minute": "66'",
+          "type": "yellow-card",
+          "teamId": "470",
+          "playerName": "Anthony Oyono"
+        },
+        {
+          "minute": "68'",
+          "type": "goal",
+          "teamId": "98",
+          "playerName": "Christian Pulisic"
         }
       ]
     },
