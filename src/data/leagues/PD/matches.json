@@ -6887,7 +6887,7 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-22T17:30:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "79",
     "awayTeamId": "84",
     "homeTeam": {
@@ -6895,6 +6895,34 @@
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 1.23,
+        "shots": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 360,
+        "duelsWon": 46,
+        "boxTouches": 22,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 53,
+        "xg": 0.6,
+        "shots": 5,
+        "shotsOnTarget": 0,
+        "accuratePasses": 433,
+        "duelsWon": 42,
+        "boxTouches": 15,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 1
+      }
     },
     "venue": "El Sadar, Pamplona",
     "broadcasts": [
@@ -6915,14 +6943,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-22T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "82",
     "awayTeamId": "78",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 31,
+        "xg": 0.59,
+        "shots": 11,
+        "shotsOnTarget": 1,
+        "accuratePasses": 239,
+        "duelsWon": 45,
+        "boxTouches": 15,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 0,
+        "saves": 7
+      },
+      "away": {
+        "possession": 69,
+        "xg": 4.11,
+        "shots": 20,
+        "shotsOnTarget": 10,
+        "accuratePasses": 655,
+        "duelsWon": 50,
+        "boxTouches": 23,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 1
+      }
     },
     "venue": "Estadio Coliseum, Getafe",
     "broadcasts": [

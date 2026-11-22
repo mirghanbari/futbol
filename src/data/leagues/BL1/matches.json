@@ -4586,14 +4586,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-22T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "16",
     "awayTeamId": "15",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 49,
+        "xg": 4.04,
+        "shots": 22,
+        "shotsOnTarget": 9,
+        "accuratePasses": 353,
+        "duelsWon": 51,
+        "boxTouches": 33,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 51,
+        "xg": 1.2,
+        "shots": 7,
+        "shotsOnTarget": 4,
+        "accuratePasses": 381,
+        "duelsWon": 43,
+        "boxTouches": 12,
+        "fouls": 12,
+        "corners": 0,
+        "offsides": 4,
+        "saves": 6
+      }
     },
     "venue": "WWK Arena, Augsburg",
     "broadcasts": [
@@ -4610,14 +4638,42 @@
     "matchday": 10,
     "stage": "regular",
     "utcDate": "2026-11-22T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "12",
     "awayTeamId": "7",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 53,
+        "xg": 1.52,
+        "shots": 19,
+        "shotsOnTarget": 7,
+        "accuratePasses": 355,
+        "duelsWon": 43,
+        "boxTouches": 23,
+        "fouls": 12,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 47,
+        "xg": 1.54,
+        "shots": 17,
+        "shotsOnTarget": 2,
+        "accuratePasses": 308,
+        "duelsWon": 46,
+        "boxTouches": 33,
+        "fouls": 11,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Weserstadion, Bremen",
     "broadcasts": [

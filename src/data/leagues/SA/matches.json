@@ -5990,14 +5990,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-22T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "109",
     "awayTeamId": "454",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 58,
+        "xg": 1.84,
+        "shots": 12,
+        "shotsOnTarget": 8,
+        "accuratePasses": 507,
+        "duelsWon": 46,
+        "boxTouches": 18,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 1
+      },
+      "away": {
+        "possession": 42,
+        "xg": 0.88,
+        "shots": 13,
+        "shotsOnTarget": 1,
+        "accuratePasses": 347,
+        "duelsWon": 39,
+        "boxTouches": 7,
+        "fouls": 11,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "Allianz Stadium, Torino",
     "broadcasts": [
@@ -6014,14 +6042,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-22T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "103",
     "awayTeamId": "115",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 1.79,
+        "shots": 18,
+        "shotsOnTarget": 4,
+        "accuratePasses": 363,
+        "duelsWon": 45,
+        "boxTouches": 29,
+        "fouls": 13,
+        "corners": 8,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.92,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 333,
+        "duelsWon": 41,
+        "boxTouches": 20,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "Renato Dall'Ara, Bologna",
     "broadcasts": [
@@ -6042,14 +6098,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-22T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "471",
     "awayTeamId": "107",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 65,
+        "xg": 1.66,
+        "shots": 25,
+        "shotsOnTarget": 7,
+        "accuratePasses": 525,
+        "duelsWon": 46,
+        "boxTouches": 42,
+        "fouls": 11,
+        "corners": 5,
+        "offsides": 2,
+        "saves": 2
+      },
+      "away": {
+        "possession": 35,
+        "xg": 2.11,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 249,
+        "duelsWon": 52,
+        "boxTouches": 17,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 7
+      }
     },
     "venue": "Mapei Stadium, Reggio Emilia",
     "broadcasts": [
@@ -6066,14 +6150,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-22T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "98",
     "awayTeamId": "470",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 2.52,
+        "shots": 12,
+        "shotsOnTarget": 8,
+        "accuratePasses": 374,
+        "duelsWon": 45,
+        "boxTouches": 31,
+        "fouls": 6,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 46,
+        "xg": 1.03,
+        "shots": 15,
+        "shotsOnTarget": 3,
+        "accuratePasses": 300,
+        "duelsWon": 59,
+        "boxTouches": 37,
+        "fouls": 17,
+        "corners": 9,
+        "offsides": 5,
+        "saves": 4
+      }
     },
     "venue": "San Siro, Milano",
     "broadcasts": [
@@ -6090,14 +6202,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-22T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "102",
     "awayTeamId": "108",
     "homeTeam": {
-      "goals": 0
+      "goals": 4
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 41,
+        "xg": 3.1,
+        "shots": 15,
+        "shotsOnTarget": 10,
+        "accuratePasses": 363,
+        "duelsWon": 39,
+        "boxTouches": 30,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 59,
+        "xg": 3.38,
+        "shots": 16,
+        "shotsOnTarget": 6,
+        "accuratePasses": 555,
+        "duelsWon": 33,
+        "boxTouches": 36,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 0,
+        "saves": 6
+      }
     },
     "venue": "New Balance Arena, Bergamo",
     "broadcasts": [
