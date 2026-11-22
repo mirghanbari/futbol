@@ -2,30 +2,30 @@
   "PL": {
     "560645": {
       "home": {
-        "possession": 61,
-        "xg": 3.25,
-        "shots": 20,
-        "shotsOnTarget": 8,
-        "accuratePasses": 402,
-        "duelsWon": 35,
-        "boxTouches": 48,
+        "possession": 62,
+        "xg": 3.75,
+        "shots": 24,
+        "shotsOnTarget": 10,
+        "accuratePasses": 442,
+        "duelsWon": 38,
+        "boxTouches": 52,
         "fouls": 13,
-        "corners": 9,
+        "corners": 10,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 39,
+        "possession": 38,
         "xg": 0.19,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 222,
-        "duelsWon": 41,
+        "accuratePasses": 232,
+        "duelsWon": 42,
         "boxTouches": 5,
         "fouls": 6,
         "corners": 4,
         "offsides": 2,
-        "saves": 5
+        "saves": 7
       },
       "events": [
         {
@@ -461,14 +461,14 @@
     "564752": {
       "home": {
         "possession": 57,
-        "xg": 0.29,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 138,
-        "duelsWon": 17,
-        "boxTouches": 10,
+        "xg": 1,
+        "shots": 8,
+        "shotsOnTarget": 2,
+        "accuratePasses": 169,
+        "duelsWon": 19,
+        "boxTouches": 14,
         "fouls": 5,
-        "corners": 2,
+        "corners": 4,
         "offsides": 0,
         "saves": 0
       },
@@ -477,13 +477,13 @@
         "xg": 0.02,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 109,
-        "duelsWon": 14,
+        "accuratePasses": 138,
+        "duelsWon": 15,
         "boxTouches": 5,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 1,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -501,12 +501,12 @@
     "565863": {
       "home": {
         "possession": 56,
-        "xg": 1.12,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 283,
-        "duelsWon": 24,
-        "boxTouches": 14,
+        "xg": 1.24,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 302,
+        "duelsWon": 27,
+        "boxTouches": 17,
         "fouls": 8,
         "corners": 1,
         "offsides": 2,
@@ -517,10 +517,10 @@
         "xg": 0.8,
         "shots": 11,
         "shotsOnTarget": 1,
-        "accuratePasses": 212,
-        "duelsWon": 31,
+        "accuratePasses": 224,
+        "duelsWon": 32,
         "boxTouches": 20,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 7,
         "offsides": 1,
         "saves": 3
@@ -560,7 +560,15 @@
           "minute": "66'",
           "type": "goal",
           "teamId": "12",
-          "playerName": "Justin Njinmah"
+          "playerName": "Justin Njinmah",
+          "assist": "Niclas Füllkrug"
+        },
+        {
+          "minute": "70'",
+          "type": "goal",
+          "teamId": "12",
+          "playerName": "Justin Njinmah",
+          "assist": "Ludovit Reis"
         }
       ]
     },
@@ -781,25 +789,25 @@
     },
     "558523": {
       "home": {
-        "possession": 53,
-        "xg": 0.69,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 168,
+        "possession": 52,
+        "xg": 0.79,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 175,
         "duelsWon": 27,
-        "boxTouches": 14,
-        "fouls": 2,
+        "boxTouches": 15,
+        "fouls": 3,
         "corners": 2,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 47,
-        "xg": 0.61,
+        "possession": 48,
+        "xg": 0.47,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 139,
-        "duelsWon": 28,
+        "accuratePasses": 156,
+        "duelsWon": 33,
         "boxTouches": 17,
         "fouls": 9,
         "corners": 4,
@@ -838,6 +846,12 @@
           "type": "yellow-card",
           "teamId": "470",
           "playerName": "Giacomo Calò"
+        },
+        {
+          "minute": "47'",
+          "type": "goal",
+          "teamId": "98",
+          "playerName": "<TBD>"
         }
       ]
     },
@@ -966,13 +980,13 @@
     "559626": {
       "home": {
         "possession": 50,
-        "xg": 1.45,
-        "shots": 11,
+        "xg": 1.5,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 428,
-        "duelsWon": 43,
-        "boxTouches": 18,
-        "fouls": 9,
+        "accuratePasses": 437,
+        "duelsWon": 46,
+        "boxTouches": 20,
+        "fouls": 10,
         "corners": 7,
         "offsides": 0,
         "saves": 2
@@ -982,10 +996,10 @@
         "xg": 1.07,
         "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 419,
-        "duelsWon": 34,
+        "accuratePasses": 436,
+        "duelsWon": 37,
         "boxTouches": 25,
-        "fouls": 17,
+        "fouls": 19,
         "corners": 5,
         "offsides": 1,
         "saves": 2
@@ -1028,6 +1042,12 @@
           "type": "yellow-card",
           "teamId": "525",
           "playerName": "Noah Cadiou"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "red-card",
+          "teamId": "529",
+          "playerName": "Adrien Thomasson"
         }
       ]
     }
