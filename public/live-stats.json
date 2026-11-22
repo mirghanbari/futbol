@@ -2,26 +2,26 @@
   "ELC": {
     "561947": {
       "home": {
-        "possession": 56,
+        "possession": 59,
         "xg": 0.34,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 145,
+        "accuratePasses": 175,
         "duelsWon": 18,
         "boxTouches": 7,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 4,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 44,
-        "xg": 0.22,
-        "shots": 2,
+        "possession": 41,
+        "xg": 0.27,
+        "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 97,
-        "duelsWon": 17,
-        "boxTouches": 2,
+        "accuratePasses": 101,
+        "duelsWon": 23,
+        "boxTouches": 5,
         "fouls": 5,
         "corners": 1,
         "offsides": 0,
@@ -55,15 +55,15 @@
     "558521": {
       "home": {
         "possession": 60,
-        "xg": 0.09,
-        "shots": 6,
-        "shotsOnTarget": 3,
-        "accuratePasses": 302,
-        "duelsWon": 30,
-        "boxTouches": 10,
+        "xg": 0.57,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 327,
+        "duelsWon": 32,
+        "boxTouches": 12,
         "fouls": 4,
         "corners": 4,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "away": {
@@ -71,13 +71,13 @@
         "xg": 0.38,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 192,
+        "accuratePasses": 208,
         "duelsWon": 26,
         "boxTouches": 2,
         "fouls": 7,
         "corners": 2,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -85,6 +85,13 @@
           "type": "goal",
           "teamId": "109",
           "playerName": "Nick Woltemade"
+        },
+        {
+          "minute": "59'",
+          "type": "goal",
+          "teamId": "109",
+          "playerName": "Teun Koopmeiners",
+          "assist": "Nick Woltemade"
         }
       ]
     }
@@ -92,27 +99,27 @@
   "DED": {
     "558828": {
       "home": {
-        "possession": 73,
-        "xg": 1.87,
-        "shots": 20,
+        "possession": 74,
+        "xg": 2.08,
+        "shots": 23,
         "shotsOnTarget": 6,
-        "accuratePasses": 449,
-        "duelsWon": 31,
-        "boxTouches": 38,
+        "accuratePasses": 494,
+        "duelsWon": 35,
+        "boxTouches": 48,
         "fouls": 5,
-        "corners": 4,
+        "corners": 5,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 27,
+        "possession": 26,
         "xg": 0.08,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 138,
-        "duelsWon": 20,
+        "accuratePasses": 142,
+        "duelsWon": 23,
         "boxTouches": 5,
-        "fouls": 10,
+        "fouls": 12,
         "corners": 0,
         "offsides": 0,
         "saves": 5
