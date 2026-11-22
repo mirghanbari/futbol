@@ -2,30 +2,30 @@
   "PL": {
     "560646": {
       "home": {
-        "possession": 28,
-        "xg": 0.04,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 34,
-        "duelsWon": 16,
-        "boxTouches": 5,
+        "possession": 27,
+        "xg": 0.08,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 44,
+        "duelsWon": 20,
+        "boxTouches": 7,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 72,
+        "possession": 73,
         "xg": 1.02,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 146,
+        "accuratePasses": 189,
         "duelsWon": 17,
-        "boxTouches": 12,
-        "fouls": 3,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 0
+        "boxTouches": 14,
+        "fouls": 4,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 1
       }
     }
   },
@@ -135,27 +135,27 @@
   "PD": {
     "564749": {
       "home": {
-        "possession": 71,
+        "possession": 72,
         "xg": 2.82,
         "shots": 23,
         "shotsOnTarget": 7,
-        "accuratePasses": 304,
-        "duelsWon": 35,
-        "boxTouches": 31,
-        "fouls": 7,
+        "accuratePasses": 338,
+        "duelsWon": 37,
+        "boxTouches": 34,
+        "fouls": 8,
         "corners": 10,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 29,
-        "xg": 0.11,
-        "shots": 3,
+        "possession": 28,
+        "xg": 0.16,
+        "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 98,
-        "duelsWon": 22,
+        "accuratePasses": 106,
+        "duelsWon": 25,
         "boxTouches": 2,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 0,
         "offsides": 2,
         "saves": 5
@@ -212,8 +212,47 @@
           "teamId": "81",
           "playerName": "Fermín López",
           "assist": "Lamine Yamal"
+        },
+        {
+          "minute": "63'",
+          "type": "yellow-card",
+          "teamId": "94",
+          "playerName": "Carlos Romero"
+        },
+        {
+          "minute": "67'",
+          "type": "goal",
+          "teamId": "81",
+          "playerName": "Pau Navarro",
+          "ownGoal": true
         }
       ]
+    }
+  },
+  "BL1": {
+    "565864": {
+      "home": {
+        "possession": 57,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 3,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 43,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 3,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   },
   "SA": {
@@ -278,25 +317,25 @@
     },
     "558522": {
       "home": {
-        "possession": 46,
+        "possession": 48,
         "xg": 0.15,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 74,
+        "accuratePasses": 94,
         "duelsWon": 10,
         "boxTouches": 6,
-        "fouls": 4,
+        "fouls": 6,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 54,
+        "possession": 52,
         "xg": 0.21,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 103,
-        "duelsWon": 13,
+        "accuratePasses": 117,
+        "duelsWon": 18,
         "boxTouches": 5,
         "fouls": 4,
         "corners": 2,
@@ -314,55 +353,66 @@
     },
     "558524": {
       "home": {
-        "possession": 56,
-        "xg": 0.15,
-        "shots": 3,
+        "possession": 60,
+        "xg": 0.17,
+        "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 130,
-        "duelsWon": 10,
-        "boxTouches": 6,
+        "accuratePasses": 177,
+        "duelsWon": 15,
+        "boxTouches": 8,
         "fouls": 3,
         "corners": 0,
-        "offsides": 0,
-        "saves": 0
+        "offsides": 1,
+        "saves": 1
       },
       "away": {
-        "possession": 44,
-        "xg": 0.18,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 101,
-        "duelsWon": 15,
-        "fouls": 3,
+        "possession": 40,
+        "xg": 0.24,
+        "shots": 2,
+        "shotsOnTarget": 2,
+        "accuratePasses": 112,
+        "duelsWon": 16,
+        "boxTouches": 3,
+        "fouls": 5,
         "corners": 0,
         "offsides": 0,
         "saves": 2
-      }
+      },
+      "events": [
+        {
+          "minute": "26'",
+          "type": "goal",
+          "teamId": "107",
+          "playerName": "Milutin Osmajić",
+          "assist": "Hamed Traorè"
+        }
+      ]
     }
   },
   "FL1": {
     "559625": {
       "home": {
-        "possession": 58,
+        "possession": 60,
         "xg": 0.51,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 158,
-        "duelsWon": 8,
-        "boxTouches": 12,
-        "fouls": 4,
+        "accuratePasses": 199,
+        "duelsWon": 9,
+        "boxTouches": 13,
+        "fouls": 6,
         "corners": 7,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 42,
-        "xg": 0.04,
-        "shots": 2,
+        "possession": 40,
+        "xg": 0.1,
+        "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 111,
-        "duelsWon": 9,
-        "fouls": 2,
+        "accuratePasses": 135,
+        "duelsWon": 12,
+        "boxTouches": 1,
+        "fouls": 3,
         "corners": 0,
         "offsides": 0,
         "saves": 2
