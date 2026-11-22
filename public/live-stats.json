@@ -3,30 +3,38 @@
     "560646": {
       "home": {
         "possession": 27,
-        "xg": 0.08,
+        "xg": 0.16,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 44,
-        "duelsWon": 20,
-        "boxTouches": 7,
-        "fouls": 2,
-        "corners": 0,
+        "accuratePasses": 49,
+        "duelsWon": 24,
+        "boxTouches": 8,
+        "fouls": 3,
+        "corners": 1,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "away": {
         "possession": 73,
-        "xg": 1.02,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 189,
-        "duelsWon": 17,
-        "boxTouches": 14,
-        "fouls": 4,
+        "xg": 1.09,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 223,
+        "duelsWon": 21,
+        "boxTouches": 20,
+        "fouls": 6,
         "corners": 1,
         "offsides": 1,
-        "saves": 1
-      }
+        "saves": 2
+      },
+      "events": [
+        {
+          "minute": "34'",
+          "type": "yellow-card",
+          "teamId": "397",
+          "playerName": "Luka Vušković"
+        }
+      ]
     }
   },
   "ELC": {
@@ -135,30 +143,30 @@
   "PD": {
     "564749": {
       "home": {
-        "possession": 72,
-        "xg": 2.82,
-        "shots": 23,
-        "shotsOnTarget": 7,
-        "accuratePasses": 338,
-        "duelsWon": 37,
-        "boxTouches": 34,
+        "possession": 73,
+        "xg": 2.89,
+        "shots": 24,
+        "shotsOnTarget": 8,
+        "accuratePasses": 399,
+        "duelsWon": 41,
+        "boxTouches": 42,
         "fouls": 8,
         "corners": 10,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 28,
+        "possession": 27,
         "xg": 0.16,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 106,
-        "duelsWon": 25,
+        "accuratePasses": 113,
+        "duelsWon": 27,
         "boxTouches": 2,
-        "fouls": 15,
+        "fouls": 17,
         "corners": 0,
         "offsides": 2,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -232,22 +240,25 @@
   "BL1": {
     "565864": {
       "home": {
-        "possession": 57,
-        "shots": 0,
+        "possession": 64,
+        "xg": 0.05,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 3,
-        "duelsWon": 0,
-        "fouls": 0,
+        "accuratePasses": 53,
+        "duelsWon": 3,
+        "boxTouches": 2,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 43,
+        "possession": 36,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 3,
-        "duelsWon": 0,
+        "accuratePasses": 24,
+        "duelsWon": 1,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
@@ -317,27 +328,27 @@
     },
     "558522": {
       "home": {
-        "possession": 48,
-        "xg": 0.15,
-        "shots": 4,
+        "possession": 47,
+        "xg": 0.18,
+        "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 94,
-        "duelsWon": 10,
-        "boxTouches": 6,
+        "accuratePasses": 113,
+        "duelsWon": 15,
+        "boxTouches": 7,
         "fouls": 6,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 52,
+        "possession": 53,
         "xg": 0.21,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 117,
-        "duelsWon": 18,
+        "accuratePasses": 134,
+        "duelsWon": 19,
         "boxTouches": 5,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 2,
         "offsides": 0,
         "saves": 0
@@ -348,35 +359,41 @@
           "type": "yellow-card",
           "teamId": "115",
           "playerName": "Matteo Palma"
+        },
+        {
+          "minute": "34'",
+          "type": "yellow-card",
+          "teamId": "115",
+          "playerName": "Paolo Zanetti"
         }
       ]
     },
     "558524": {
       "home": {
-        "possession": 60,
-        "xg": 0.17,
-        "shots": 4,
-        "shotsOnTarget": 2,
-        "accuratePasses": 177,
-        "duelsWon": 15,
-        "boxTouches": 8,
+        "possession": 58,
+        "xg": 0.51,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 209,
+        "duelsWon": 18,
+        "boxTouches": 11,
         "fouls": 3,
         "corners": 0,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 40,
+        "possession": 42,
         "xg": 0.24,
-        "shots": 2,
+        "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 112,
-        "duelsWon": 16,
-        "boxTouches": 3,
+        "accuratePasses": 140,
+        "duelsWon": 18,
+        "boxTouches": 7,
         "fouls": 5,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -493,12 +510,12 @@
     },
     "558830": {
       "home": {
-        "possession": 51,
-        "xg": 0.45,
-        "shots": 7,
+        "possession": 52,
+        "xg": 0.56,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 216,
-        "duelsWon": 21,
+        "accuratePasses": 225,
+        "duelsWon": 22,
         "boxTouches": 7,
         "fouls": 3,
         "corners": 2,
@@ -506,11 +523,11 @@
         "saves": 0
       },
       "away": {
-        "possession": 49,
+        "possession": 48,
         "xg": 0.28,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 199,
+        "accuratePasses": 203,
         "duelsWon": 14,
         "boxTouches": 11,
         "fouls": 3,
@@ -543,25 +560,25 @@
     },
     "558836": {
       "home": {
-        "possession": 72,
-        "xg": 0.89,
-        "shots": 9,
+        "possession": 74,
+        "xg": 0.98,
+        "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 349,
-        "duelsWon": 19,
-        "boxTouches": 20,
+        "accuratePasses": 406,
+        "duelsWon": 20,
+        "boxTouches": 22,
         "fouls": 3,
         "corners": 3,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 28,
+        "possession": 26,
         "xg": 0.08,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 116,
-        "duelsWon": 13,
+        "accuratePasses": 117,
+        "duelsWon": 14,
         "boxTouches": 1,
         "fouls": 4,
         "corners": 1,
