@@ -2,28 +2,28 @@
   "PL": {
     "560645": {
       "home": {
-        "possession": 63,
-        "xg": 4.31,
-        "shots": 26,
+        "possession": 64,
+        "xg": 4.38,
+        "shots": 28,
         "shotsOnTarget": 11,
-        "accuratePasses": 494,
-        "duelsWon": 43,
-        "boxTouches": 55,
+        "accuratePasses": 509,
+        "duelsWon": 44,
+        "boxTouches": 60,
         "fouls": 15,
-        "corners": 12,
-        "offsides": 1,
-        "saves": 2
+        "corners": 15,
+        "offsides": 2,
+        "saves": 4
       },
       "away": {
-        "possession": 37,
-        "xg": 0.29,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 249,
-        "duelsWon": 45,
-        "boxTouches": 7,
-        "fouls": 6,
-        "corners": 4,
+        "possession": 36,
+        "xg": 0.64,
+        "shots": 10,
+        "shotsOnTarget": 4,
+        "accuratePasses": 252,
+        "duelsWon": 47,
+        "boxTouches": 9,
+        "fouls": 7,
+        "corners": 5,
         "offsides": 2,
         "saves": 7
       },
@@ -68,7 +68,8 @@
           "playerName": "Víctor Muñoz",
           "assist": "Florian Wirtz"
         }
-      ]
+      ],
+      "final": true
     },
     "560646": {
       "home": {
@@ -514,26 +515,26 @@
     "565863": {
       "home": {
         "possession": 54,
-        "xg": 1.29,
-        "shots": 16,
+        "xg": 1.41,
+        "shots": 17,
         "shotsOnTarget": 6,
-        "accuratePasses": 316,
-        "duelsWon": 32,
-        "boxTouches": 20,
-        "fouls": 11,
+        "accuratePasses": 340,
+        "duelsWon": 36,
+        "boxTouches": 21,
+        "fouls": 12,
         "corners": 1,
         "offsides": 2,
         "saves": 1
       },
       "away": {
         "possession": 46,
-        "xg": 1.04,
-        "shots": 13,
+        "xg": 1.09,
+        "shots": 14,
         "shotsOnTarget": 1,
-        "accuratePasses": 260,
-        "duelsWon": 41,
-        "boxTouches": 23,
-        "fouls": 9,
+        "accuratePasses": 273,
+        "duelsWon": 44,
+        "boxTouches": 28,
+        "fouls": 11,
         "corners": 7,
         "offsides": 1,
         "saves": 3
@@ -588,6 +589,12 @@
           "type": "yellow-card",
           "teamId": "7",
           "playerName": "Nicolás Capaldo"
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
+          "teamId": "7",
+          "playerName": "Albert Grønbæk"
         }
       ]
     },
@@ -808,29 +815,29 @@
     },
     "558523": {
       "home": {
-        "possession": 54,
-        "xg": 1.09,
-        "shots": 8,
-        "shotsOnTarget": 5,
-        "accuratePasses": 228,
-        "duelsWon": 34,
-        "boxTouches": 21,
+        "possession": 53,
+        "xg": 1.63,
+        "shots": 9,
+        "shotsOnTarget": 6,
+        "accuratePasses": 233,
+        "duelsWon": 35,
+        "boxTouches": 22,
         "fouls": 3,
         "corners": 2,
         "offsides": 1,
-        "saves": 3
+        "saves": 2
       },
       "away": {
-        "possession": 46,
-        "xg": 0.71,
-        "shots": 12,
-        "shotsOnTarget": 4,
-        "accuratePasses": 182,
-        "duelsWon": 40,
-        "boxTouches": 21,
+        "possession": 47,
+        "xg": 0.78,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 195,
+        "duelsWon": 42,
+        "boxTouches": 24,
         "fouls": 14,
-        "corners": 5,
-        "offsides": 3,
+        "corners": 6,
+        "offsides": 4,
         "saves": 3
       },
       "events": [
@@ -878,6 +885,13 @@
           "type": "yellow-card",
           "teamId": "470",
           "playerName": "Ilario Monterisi"
+        },
+        {
+          "minute": "60'",
+          "type": "goal",
+          "teamId": "98",
+          "playerName": "Alphadjo Cissè",
+          "assist": "Diego Moreira"
         }
       ]
     },
