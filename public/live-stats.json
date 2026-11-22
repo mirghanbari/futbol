@@ -532,27 +532,27 @@
     "564753": {
       "home": {
         "possession": 28,
-        "xg": 0.41,
-        "shots": 8,
+        "xg": 0.43,
+        "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 139,
+        "accuratePasses": 147,
         "duelsWon": 28,
-        "boxTouches": 9,
-        "fouls": 5,
+        "boxTouches": 11,
+        "fouls": 6,
         "corners": 1,
         "offsides": 0,
-        "saves": 5
+        "saves": 6
       },
       "away": {
         "possession": 72,
-        "xg": 2.44,
-        "shots": 10,
-        "shotsOnTarget": 7,
-        "accuratePasses": 440,
-        "duelsWon": 23,
-        "boxTouches": 7,
+        "xg": 2.54,
+        "shots": 13,
+        "shotsOnTarget": 8,
+        "accuratePasses": 469,
+        "duelsWon": 26,
+        "boxTouches": 11,
         "fouls": 7,
-        "corners": 4,
+        "corners": 5,
         "offsides": 2,
         "saves": 1
       },
@@ -771,14 +771,14 @@
     "558520": {
       "home": {
         "possession": 40,
-        "xg": 0.9,
-        "shots": 9,
-        "shotsOnTarget": 4,
-        "accuratePasses": 279,
-        "duelsWon": 27,
-        "boxTouches": 18,
-        "fouls": 7,
-        "corners": 2,
+        "xg": 1.6,
+        "shots": 11,
+        "shotsOnTarget": 6,
+        "accuratePasses": 288,
+        "duelsWon": 31,
+        "boxTouches": 20,
+        "fouls": 8,
+        "corners": 4,
         "offsides": 4,
         "saves": 2
       },
@@ -787,13 +787,13 @@
         "xg": 2.52,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 442,
-        "duelsWon": 27,
-        "boxTouches": 28,
+        "accuratePasses": 461,
+        "duelsWon": 28,
+        "boxTouches": 30,
         "fouls": 8,
         "corners": 4,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -829,6 +829,20 @@
           "type": "yellow-card",
           "teamId": "102",
           "playerName": "Giorgio Scalvini"
+        },
+        {
+          "minute": "72'",
+          "type": "goal",
+          "teamId": "102",
+          "playerName": "Charles De Ketelaere",
+          "method": "header",
+          "assist": "Nicola Zalewski"
+        },
+        {
+          "minute": "74'",
+          "type": "yellow-card",
+          "teamId": "102",
+          "playerName": "Davide Zappacosta"
         }
       ]
     },
@@ -1259,27 +1273,27 @@
     },
     "559629": {
       "home": {
-        "possession": 58,
+        "possession": 57,
         "xg": 1.35,
         "shots": 9,
         "shotsOnTarget": 4,
-        "accuratePasses": 427,
-        "duelsWon": 34,
+        "accuratePasses": 430,
+        "duelsWon": 35,
         "boxTouches": 15,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 2,
         "offsides": 4,
         "saves": 4
       },
       "away": {
-        "possession": 42,
-        "xg": 1.96,
-        "shots": 10,
-        "shotsOnTarget": 4,
-        "accuratePasses": 288,
-        "duelsWon": 29,
-        "boxTouches": 19,
-        "fouls": 5,
+        "possession": 43,
+        "xg": 2.06,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 297,
+        "duelsWon": 30,
+        "boxTouches": 20,
+        "fouls": 6,
         "corners": 5,
         "offsides": 0,
         "saves": 2
@@ -1310,6 +1324,24 @@
           "type": "yellow-card",
           "teamId": "516",
           "playerName": "Tochukwu Nnadi"
+        },
+        {
+          "minute": "69'",
+          "type": "yellow-card",
+          "teamId": "516",
+          "playerName": "Geoffrey Kondogbia"
+        },
+        {
+          "minute": "70'",
+          "type": "goal",
+          "teamId": "535",
+          "playerName": "Louis Mafouta"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "535",
+          "playerName": "Harold Voyer"
         }
       ]
     }
