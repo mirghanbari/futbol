@@ -3,14 +3,14 @@
     "560645": {
       "home": {
         "possession": 62,
-        "xg": 1.72,
-        "shots": 14,
-        "shotsOnTarget": 7,
-        "accuratePasses": 367,
-        "duelsWon": 30,
-        "boxTouches": 40,
-        "fouls": 10,
-        "corners": 7,
+        "xg": 2.86,
+        "shots": 19,
+        "shotsOnTarget": 8,
+        "accuratePasses": 384,
+        "duelsWon": 32,
+        "boxTouches": 47,
+        "fouls": 11,
+        "corners": 8,
         "offsides": 1,
         "saves": 1
       },
@@ -19,8 +19,8 @@
         "xg": 0.19,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 191,
-        "duelsWon": 33,
+        "accuratePasses": 203,
+        "duelsWon": 36,
         "boxTouches": 5,
         "fouls": 6,
         "corners": 4,
@@ -47,6 +47,19 @@
           "teamId": "64",
           "playerName": "Florian Wirtz",
           "assist": "Rio Ngumoha"
+        },
+        {
+          "minute": "62'",
+          "type": "yellow-card",
+          "teamId": "64",
+          "playerName": "Bradley Barcola"
+        },
+        {
+          "minute": "66'",
+          "type": "goal",
+          "teamId": "64",
+          "playerName": "Rio Ngumoha",
+          "assist": "Bradley Barcola"
         }
       ]
     },
@@ -447,12 +460,12 @@
     },
     "564752": {
       "home": {
-        "possession": 54,
-        "xg": 0.16,
+        "possession": 55,
+        "xg": 0.29,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 95,
-        "duelsWon": 11,
+        "accuratePasses": 115,
+        "duelsWon": 16,
         "boxTouches": 9,
         "fouls": 3,
         "corners": 2,
@@ -460,16 +473,16 @@
         "saves": 0
       },
       "away": {
-        "possession": 46,
+        "possession": 45,
         "xg": 0.02,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 88,
+        "accuratePasses": 104,
         "duelsWon": 9,
-        "boxTouches": 2,
-        "fouls": 1,
+        "boxTouches": 5,
+        "fouls": 3,
         "corners": 1,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "events": [
@@ -478,7 +491,8 @@
           "type": "goal",
           "teamId": "79",
           "playerName": "Ante Budimir",
-          "method": "header"
+          "method": "header",
+          "assist": "Valentin Rosier"
         }
       ]
     }
@@ -487,11 +501,11 @@
     "565863": {
       "home": {
         "possession": 58,
-        "xg": 0.86,
-        "shots": 11,
+        "xg": 1.12,
+        "shots": 12,
         "shotsOnTarget": 4,
-        "accuratePasses": 263,
-        "duelsWon": 22,
+        "accuratePasses": 272,
+        "duelsWon": 23,
         "boxTouches": 14,
         "fouls": 7,
         "corners": 1,
@@ -503,8 +517,8 @@
         "xg": 0.48,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 179,
-        "duelsWon": 25,
+        "accuratePasses": 184,
+        "duelsWon": 27,
         "boxTouches": 13,
         "fouls": 5,
         "corners": 4,
@@ -761,7 +775,7 @@
     },
     "558523": {
       "home": {
-        "possession": 54,
+        "possession": 53,
         "xg": 0.69,
         "shots": 5,
         "shotsOnTarget": 2,
@@ -774,11 +788,11 @@
         "saves": 1
       },
       "away": {
-        "possession": 46,
+        "possession": 47,
         "xg": 0.61,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 135,
+        "accuratePasses": 138,
         "duelsWon": 28,
         "boxTouches": 17,
         "fouls": 9,
@@ -946,27 +960,27 @@
     "559626": {
       "home": {
         "possession": 50,
-        "xg": 1.42,
-        "shots": 10,
+        "xg": 1.45,
+        "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 370,
-        "duelsWon": 36,
-        "boxTouches": 14,
-        "fouls": 8,
-        "corners": 6,
+        "accuratePasses": 397,
+        "duelsWon": 42,
+        "boxTouches": 17,
+        "fouls": 9,
+        "corners": 7,
         "offsides": 0,
         "saves": 2
       },
       "away": {
         "possession": 50,
-        "xg": 0.99,
-        "shots": 10,
+        "xg": 1,
+        "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 371,
-        "duelsWon": 26,
+        "accuratePasses": 397,
+        "duelsWon": 31,
         "boxTouches": 21,
-        "fouls": 16,
-        "corners": 3,
+        "fouls": 17,
+        "corners": 4,
         "offsides": 1,
         "saves": 2
       },
