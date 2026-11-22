@@ -468,26 +468,26 @@
     },
     "564752": {
       "home": {
-        "possession": 50,
+        "possession": 49,
         "xg": 1.23,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 351,
+        "accuratePasses": 356,
         "duelsWon": 41,
-        "boxTouches": 20,
-        "fouls": 12,
+        "boxTouches": 21,
+        "fouls": 14,
         "corners": 4,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 50,
-        "xg": 0.49,
-        "shots": 4,
+        "possession": 51,
+        "xg": 0.6,
+        "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 381,
-        "duelsWon": 34,
-        "boxTouches": 14,
+        "accuratePasses": 400,
+        "duelsWon": 38,
+        "boxTouches": 15,
         "fouls": 11,
         "corners": 1,
         "offsides": 3,
@@ -513,6 +513,12 @@
           "type": "yellow-card",
           "teamId": "79",
           "playerName": "Asier Osambela"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "79",
+          "playerName": "Raúl García"
         }
       ]
     }
