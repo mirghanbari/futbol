@@ -7,7 +7,7 @@
         "shots": 12,
         "shotsOnTarget": 6,
         "accuratePasses": 255,
-        "duelsWon": 25,
+        "duelsWon": 24,
         "boxTouches": 26,
         "fouls": 9,
         "corners": 6,
@@ -713,12 +713,12 @@
     "558523": {
       "home": {
         "possession": 54,
-        "xg": 0.14,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 75,
-        "duelsWon": 8,
-        "boxTouches": 5,
+        "xg": 0.55,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 84,
+        "duelsWon": 12,
+        "boxTouches": 7,
         "fouls": 0,
         "corners": 1,
         "offsides": 0,
@@ -729,8 +729,8 @@
         "xg": 0.15,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 60,
-        "duelsWon": 15,
+        "accuratePasses": 69,
+        "duelsWon": 16,
         "boxTouches": 6,
         "fouls": 3,
         "corners": 3,
@@ -744,6 +744,13 @@
           "teamId": "98",
           "playerName": "Gabriele Calvani",
           "ownGoal": true
+        },
+        {
+          "minute": "19'",
+          "type": "goal",
+          "teamId": "98",
+          "playerName": "Gonçalo Ramos",
+          "assist": "Adrien Rabiot"
         }
       ]
     },
@@ -995,12 +1002,12 @@
     "558829": {
       "home": {
         "possession": 66,
-        "xg": 0.77,
-        "shots": 15,
-        "shotsOnTarget": 5,
-        "accuratePasses": 429,
-        "duelsWon": 42,
-        "boxTouches": 16,
+        "xg": 0.79,
+        "shots": 16,
+        "shotsOnTarget": 6,
+        "accuratePasses": 439,
+        "duelsWon": 43,
+        "boxTouches": 17,
         "fouls": 10,
         "corners": 11,
         "offsides": 3,
@@ -1012,12 +1019,12 @@
         "shots": 11,
         "shotsOnTarget": 1,
         "accuratePasses": 202,
-        "duelsWon": 30,
+        "duelsWon": 31,
         "boxTouches": 8,
         "fouls": 14,
         "corners": 1,
         "offsides": 1,
-        "saves": 6
+        "saves": 7
       },
       "events": [
         {
