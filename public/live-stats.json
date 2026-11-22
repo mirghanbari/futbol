@@ -2,26 +2,26 @@
   "ELC": {
     "561947": {
       "home": {
-        "possession": 63,
+        "possession": 60,
         "xg": 0.34,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 222,
+        "accuratePasses": 224,
         "duelsWon": 23,
         "boxTouches": 8,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 4,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 37,
-        "xg": 0.5,
-        "shots": 4,
+        "possession": 40,
+        "xg": 0.57,
+        "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 109,
-        "duelsWon": 26,
-        "boxTouches": 6,
+        "accuratePasses": 125,
+        "duelsWon": 29,
+        "boxTouches": 7,
         "fouls": 7,
         "corners": 1,
         "offsides": 1,
@@ -61,14 +61,14 @@
     "558521": {
       "home": {
         "possession": 59,
-        "xg": 0.8,
-        "shots": 8,
-        "shotsOnTarget": 5,
-        "accuratePasses": 371,
-        "duelsWon": 34,
-        "boxTouches": 14,
+        "xg": 0.99,
+        "shots": 9,
+        "shotsOnTarget": 6,
+        "accuratePasses": 384,
+        "duelsWon": 37,
+        "boxTouches": 16,
         "fouls": 4,
-        "corners": 4,
+        "corners": 5,
         "offsides": 2,
         "saves": 0
       },
@@ -77,10 +77,10 @@
         "xg": 0.38,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 240,
-        "duelsWon": 27,
+        "accuratePasses": 249,
+        "duelsWon": 29,
         "boxTouches": 3,
-        "fouls": 7,
+        "fouls": 9,
         "corners": 2,
         "offsides": 1,
         "saves": 3
@@ -103,7 +103,9 @@
           "minute": "65'",
           "type": "goal",
           "teamId": "109",
-          "playerName": "<TBD>"
+          "playerName": "Juan Cabal",
+          "method": "header",
+          "assist": "Edon Zhegrova"
         }
       ]
     }
@@ -111,30 +113,30 @@
   "DED": {
     "558828": {
       "home": {
-        "possession": 74,
-        "xg": 2.18,
-        "shots": 25,
-        "shotsOnTarget": 6,
-        "accuratePasses": 530,
-        "duelsWon": 38,
-        "boxTouches": 51,
+        "possession": 75,
+        "xg": 2.4,
+        "shots": 28,
+        "shotsOnTarget": 8,
+        "accuratePasses": 581,
+        "duelsWon": 40,
+        "boxTouches": 57,
         "fouls": 5,
-        "corners": 5,
+        "corners": 6,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 26,
+        "possession": 25,
         "xg": 0.08,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 149,
+        "accuratePasses": 150,
         "duelsWon": 23,
         "boxTouches": 5,
         "fouls": 13,
         "corners": 0,
         "offsides": 0,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -162,6 +164,14 @@
           "teamId": "666",
           "playerName": "Ramiz Zerrouki",
           "assist": "Daouda Weidmann"
+        },
+        {
+          "minute": "82'",
+          "type": "goal",
+          "teamId": "666",
+          "playerName": "Marko Pjaca",
+          "method": "header",
+          "assist": "Kristian Hlynsson"
         }
       ]
     }
