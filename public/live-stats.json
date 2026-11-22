@@ -7,7 +7,7 @@
         "shots": 5,
         "shotsOnTarget": 2,
         "accuratePasses": 63,
-        "duelsWon": 27,
+        "duelsWon": 28,
         "boxTouches": 12,
         "fouls": 3,
         "corners": 1,
@@ -19,8 +19,8 @@
         "xg": 1.75,
         "shots": 10,
         "shotsOnTarget": 5,
-        "accuratePasses": 257,
-        "duelsWon": 24,
+        "accuratePasses": 256,
+        "duelsWon": 23,
         "boxTouches": 25,
         "fouls": 9,
         "corners": 3,
@@ -272,13 +272,13 @@
     "565864": {
       "home": {
         "possession": 64,
-        "xg": 1.39,
+        "xg": 1.48,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 160,
-        "duelsWon": 16,
+        "accuratePasses": 195,
+        "duelsWon": 20,
         "boxTouches": 9,
-        "fouls": 3,
+        "fouls": 2,
         "corners": 2,
         "offsides": 0,
         "saves": 0
@@ -288,8 +288,8 @@
         "xg": 0.5,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 82,
-        "duelsWon": 9,
+        "accuratePasses": 105,
+        "duelsWon": 12,
         "boxTouches": 1,
         "fouls": 4,
         "corners": 0,
@@ -302,6 +302,12 @@
           "type": "goal",
           "teamId": "16",
           "playerName": "Michael Gregoritsch"
+        },
+        {
+          "minute": "36'",
+          "type": "goal",
+          "teamId": "16",
+          "playerName": "Juma Bah"
         }
       ]
     }
@@ -368,27 +374,27 @@
     },
     "558522": {
       "home": {
-        "possession": 50,
+        "possession": 52,
         "xg": 0.79,
-        "shots": 8,
+        "shots": 9,
         "shotsOnTarget": 1,
-        "accuratePasses": 154,
-        "duelsWon": 16,
-        "boxTouches": 11,
+        "accuratePasses": 170,
+        "duelsWon": 17,
+        "boxTouches": 13,
         "fouls": 6,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 50,
+        "possession": 48,
         "xg": 0.21,
         "shots": 5,
         "shotsOnTarget": 2,
         "accuratePasses": 158,
         "duelsWon": 20,
         "boxTouches": 9,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 3,
         "offsides": 0,
         "saves": 0
@@ -417,25 +423,25 @@
     },
     "558524": {
       "home": {
-        "possession": 55,
-        "xg": 0.6,
+        "possession": 56,
+        "xg": 0.59,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 239,
-        "duelsWon": 20,
-        "boxTouches": 18,
+        "accuratePasses": 247,
+        "duelsWon": 22,
+        "boxTouches": 17,
         "fouls": 4,
         "corners": 0,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 45,
-        "xg": 1.73,
+        "possession": 44,
+        "xg": 1.87,
         "shots": 7,
         "shotsOnTarget": 4,
-        "accuratePasses": 187,
-        "duelsWon": 21,
+        "accuratePasses": 186,
+        "duelsWon": 23,
         "boxTouches": 10,
         "fouls": 6,
         "corners": 1,
@@ -464,14 +470,14 @@
     "559625": {
       "home": {
         "possession": 59,
-        "xg": 0.56,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 301,
-        "duelsWon": 13,
-        "boxTouches": 16,
+        "xg": 1.32,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 313,
+        "duelsWon": 14,
+        "boxTouches": 20,
         "fouls": 9,
-        "corners": 8,
+        "corners": 9,
         "offsides": 0,
         "saves": 1
       },
@@ -480,7 +486,7 @@
         "xg": 0.16,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 211,
+        "accuratePasses": 214,
         "duelsWon": 23,
         "boxTouches": 3,
         "fouls": 4,
@@ -494,6 +500,13 @@
           "type": "yellow-card",
           "teamId": "1045",
           "playerName": "Luca Koleosho"
+        },
+        {
+          "minute": "47'",
+          "type": "goal",
+          "teamId": "1045",
+          "playerName": "Patrick Zabi",
+          "assist": "Diego Coppola"
         }
       ]
     }
@@ -576,26 +589,26 @@
         "xg": 0.78,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 318,
+        "accuratePasses": 347,
         "duelsWon": 33,
         "boxTouches": 12,
-        "fouls": 7,
-        "corners": 4,
+        "fouls": 10,
+        "corners": 5,
         "offsides": 0,
         "saves": 1
       },
       "away": {
         "possession": 48,
-        "xg": 0.74,
-        "shots": 9,
-        "shotsOnTarget": 4,
-        "accuratePasses": 287,
-        "duelsWon": 24,
-        "boxTouches": 21,
+        "xg": 0.95,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 314,
+        "duelsWon": 30,
+        "boxTouches": 25,
         "fouls": 8,
         "corners": 1,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -637,35 +650,54 @@
           "type": "yellow-card",
           "teamId": "682",
           "playerName": "Peer Koopmeiners"
+        },
+        {
+          "minute": "72'",
+          "type": "yellow-card",
+          "teamId": "6806",
+          "playerName": "Bruno Martins Indi"
+        },
+        {
+          "minute": "74'",
+          "type": "yellow-card",
+          "teamId": "6806",
+          "playerName": "Andrej Kostić"
+        },
+        {
+          "minute": "75'",
+          "type": "goal",
+          "teamId": "682",
+          "playerName": "Ro-Zangelo Daal",
+          "assist": "Mateo Chávez"
         }
       ]
     },
     "558836": {
       "home": {
         "possession": 78,
-        "xg": 1.13,
-        "shots": 15,
-        "shotsOnTarget": 8,
-        "accuratePasses": 600,
-        "duelsWon": 31,
-        "boxTouches": 32,
-        "fouls": 4,
-        "corners": 5,
+        "xg": 1.15,
+        "shots": 17,
+        "shotsOnTarget": 9,
+        "accuratePasses": 633,
+        "duelsWon": 32,
+        "boxTouches": 37,
+        "fouls": 5,
+        "corners": 6,
         "offsides": 2,
-        "saves": 0
+        "saves": 1
       },
       "away": {
         "possession": 22,
-        "xg": 0.15,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 129,
-        "duelsWon": 16,
-        "boxTouches": 4,
+        "xg": 0.16,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 133,
+        "duelsWon": 19,
+        "boxTouches": 6,
         "fouls": 6,
         "corners": 3,
         "offsides": 2,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -694,6 +726,12 @@
           "teamId": "678",
           "playerName": "Davy Klaassen",
           "assist": "Lucas Rosa"
+        },
+        {
+          "minute": "76'",
+          "type": "yellow-card",
+          "teamId": "678",
+          "playerName": "Anton Gaaei"
         }
       ]
     }
