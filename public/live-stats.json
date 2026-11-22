@@ -531,27 +531,27 @@
     },
     "564753": {
       "home": {
-        "possession": 27,
+        "possession": 28,
         "xg": 0.56,
         "shots": 10,
         "shotsOnTarget": 1,
-        "accuratePasses": 154,
-        "duelsWon": 30,
-        "boxTouches": 12,
-        "fouls": 6,
-        "corners": 1,
+        "accuratePasses": 162,
+        "duelsWon": 31,
+        "boxTouches": 13,
+        "fouls": 7,
+        "corners": 2,
         "offsides": 0,
         "saves": 6
       },
       "away": {
-        "possession": 73,
-        "xg": 2.57,
-        "shots": 13,
+        "possession": 72,
+        "xg": 2.64,
+        "shots": 14,
         "shotsOnTarget": 8,
-        "accuratePasses": 540,
-        "duelsWon": 29,
-        "boxTouches": 14,
-        "fouls": 7,
+        "accuratePasses": 549,
+        "duelsWon": 34,
+        "boxTouches": 15,
+        "fouls": 8,
         "corners": 5,
         "offsides": 2,
         "saves": 1
@@ -770,12 +770,12 @@
   "SA": {
     "558520": {
       "home": {
-        "possession": 42,
-        "xg": 1.94,
+        "possession": 39,
+        "xg": 2.09,
         "shots": 13,
         "shotsOnTarget": 8,
-        "accuratePasses": 319,
-        "duelsWon": 31,
+        "accuratePasses": 320,
+        "duelsWon": 33,
         "boxTouches": 24,
         "fouls": 8,
         "corners": 4,
@@ -783,15 +783,15 @@
         "saves": 2
       },
       "away": {
-        "possession": 58,
+        "possession": 61,
         "xg": 3.31,
         "shots": 14,
         "shotsOnTarget": 6,
-        "accuratePasses": 468,
+        "accuratePasses": 534,
         "duelsWon": 29,
         "boxTouches": 31,
         "fouls": 8,
-        "corners": 4,
+        "corners": 5,
         "offsides": 0,
         "saves": 5
       },
@@ -855,7 +855,8 @@
           "minute": "80'",
           "type": "goal",
           "teamId": "102",
-          "playerName": "Charles De Ketelaere"
+          "playerName": "Charles De Ketelaere",
+          "assist": "Jonathan Rowe"
         }
       ]
     },
@@ -1287,29 +1288,29 @@
     "559629": {
       "home": {
         "possession": 56,
-        "xg": 1.35,
-        "shots": 9,
-        "shotsOnTarget": 4,
-        "accuratePasses": 455,
-        "duelsWon": 37,
+        "xg": 1.37,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 467,
+        "duelsWon": 42,
         "boxTouches": 16,
         "fouls": 11,
         "corners": 2,
         "offsides": 4,
-        "saves": 4
+        "saves": 5
       },
       "away": {
         "possession": 44,
-        "xg": 2.09,
-        "shots": 13,
-        "shotsOnTarget": 5,
-        "accuratePasses": 329,
+        "xg": 2.88,
+        "shots": 14,
+        "shotsOnTarget": 6,
+        "accuratePasses": 350,
         "duelsWon": 32,
-        "boxTouches": 22,
-        "fouls": 7,
+        "boxTouches": 24,
+        "fouls": 8,
         "corners": 5,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -1355,6 +1356,24 @@
           "type": "yellow-card",
           "teamId": "535",
           "playerName": "Harold Voyer"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "535",
+          "playerName": "Rayan Bamba"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "516",
+          "playerName": "Himad Abdelli"
+        },
+        {
+          "minute": "84'",
+          "type": "goal",
+          "teamId": "535",
+          "playerName": "Erwan Colas"
         }
       ]
     }
