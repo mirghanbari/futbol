@@ -6775,14 +6775,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-22T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "81",
     "awayTeamId": "94",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 70,
+        "xg": 3.29,
+        "shots": 30,
+        "shotsOnTarget": 9,
+        "accuratePasses": 550,
+        "duelsWon": 51,
+        "boxTouches": 51,
+        "fouls": 11,
+        "corners": 10,
+        "offsides": 2,
+        "saves": 0
+      },
+      "away": {
+        "possession": 30,
+        "xg": 0.17,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 199,
+        "duelsWon": 38,
+        "boxTouches": 4,
+        "fouls": 19,
+        "corners": 0,
+        "offsides": 2,
+        "saves": 7
+      }
     },
     "venue": "Spotify Camp Nou, Barcelona",
     "broadcasts": [
@@ -6803,14 +6831,42 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-22T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5335",
     "awayTeamId": "92",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 37,
+        "xg": 3.21,
+        "shots": 12,
+        "shotsOnTarget": 8,
+        "accuratePasses": 273,
+        "duelsWon": 44,
+        "boxTouches": 27,
+        "fouls": 10,
+        "corners": 7,
+        "offsides": 0,
+        "saves": 5
+      },
+      "away": {
+        "possession": 63,
+        "xg": 2.96,
+        "shots": 31,
+        "shotsOnTarget": 7,
+        "accuratePasses": 531,
+        "duelsWon": 53,
+        "boxTouches": 52,
+        "fouls": 10,
+        "corners": 14,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "El Sardineros, Santander",
     "broadcasts": [
@@ -6831,11 +6887,11 @@
     "matchday": 13,
     "stage": "regular",
     "utcDate": "2026-11-22T17:30:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "79",
     "awayTeamId": "84",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
