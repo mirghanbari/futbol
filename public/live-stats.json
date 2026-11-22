@@ -2,27 +2,27 @@
   "PL": {
     "560646": {
       "home": {
-        "possession": 29,
-        "xg": 0.24,
-        "shots": 6,
+        "possession": 28,
+        "xg": 0.56,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 85,
-        "duelsWon": 36,
-        "boxTouches": 13,
+        "accuratePasses": 89,
+        "duelsWon": 39,
+        "boxTouches": 15,
         "fouls": 6,
         "corners": 1,
         "offsides": 1,
         "saves": 7
       },
       "away": {
-        "possession": 71,
+        "possession": 72,
         "xg": 1.94,
         "shots": 14,
         "shotsOnTarget": 7,
-        "accuratePasses": 351,
-        "duelsWon": 33,
-        "boxTouches": 32,
-        "fouls": 11,
+        "accuratePasses": 390,
+        "duelsWon": 34,
+        "boxTouches": 33,
+        "fouls": 13,
         "corners": 3,
         "offsides": 1,
         "saves": 3
@@ -45,6 +45,12 @@
           "type": "yellow-card",
           "teamId": "322",
           "playerName": "Lucas Gourna-Douath"
+        },
+        {
+          "minute": "63'",
+          "type": "yellow-card",
+          "teamId": "397",
+          "playerName": "Costinha"
         }
       ]
     }
@@ -275,28 +281,28 @@
     },
     "564750": {
       "home": {
-        "possession": 64,
-        "xg": 0.56,
+        "possession": 38,
+        "xg": 1.26,
         "shots": 3,
         "shotsOnTarget": 3,
-        "accuratePasses": 29,
-        "duelsWon": 2,
+        "accuratePasses": 31,
+        "duelsWon": 3,
         "boxTouches": 6,
-        "fouls": 1,
+        "fouls": 2,
         "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 36,
+        "possession": 62,
         "xg": 0.17,
         "shots": 2,
         "shotsOnTarget": 2,
-        "accuratePasses": 16,
-        "duelsWon": 3,
-        "boxTouches": 4,
-        "fouls": 0,
-        "corners": 1,
+        "accuratePasses": 60,
+        "duelsWon": 5,
+        "boxTouches": 6,
+        "fouls": 1,
+        "corners": 3,
         "offsides": 1,
         "saves": 0
       },
@@ -312,7 +318,7 @@
           "minute": "8'",
           "type": "goal",
           "teamId": "5335",
-          "playerName": "<TBD>"
+          "playerName": "Yassir Zabiri"
         }
       ]
     }
@@ -325,7 +331,7 @@
         "shots": 11,
         "shotsOnTarget": 4,
         "accuratePasses": 212,
-        "duelsWon": 21,
+        "duelsWon": 23,
         "boxTouches": 14,
         "fouls": 5,
         "corners": 3,
@@ -338,7 +344,7 @@
         "shots": 3,
         "shotsOnTarget": 0,
         "accuratePasses": 115,
-        "duelsWon": 23,
+        "duelsWon": 22,
         "boxTouches": 6,
         "fouls": 6,
         "corners": 0,
@@ -441,26 +447,26 @@
     },
     "558522": {
       "home": {
-        "possession": 49,
-        "xg": 1.21,
+        "possession": 48,
+        "xg": 1.32,
         "shots": 13,
         "shotsOnTarget": 3,
-        "accuratePasses": 211,
-        "duelsWon": 30,
+        "accuratePasses": 229,
+        "duelsWon": 32,
         "boxTouches": 19,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 6,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 51,
-        "xg": 0.21,
-        "shots": 5,
-        "shotsOnTarget": 2,
-        "accuratePasses": 228,
-        "duelsWon": 31,
-        "boxTouches": 13,
+        "possession": 52,
+        "xg": 0.62,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 246,
+        "duelsWon": 34,
+        "boxTouches": 15,
         "fouls": 9,
         "corners": 4,
         "offsides": 1,
@@ -497,30 +503,36 @@
           "type": "yellow-card",
           "teamId": "103",
           "playerName": "Federico Bernardeschi"
+        },
+        {
+          "minute": "67'",
+          "type": "goal",
+          "teamId": "115",
+          "playerName": "Nicolò Zaniolo"
         }
       ]
     },
     "558524": {
       "home": {
-        "possession": 62,
-        "xg": 0.77,
-        "shots": 11,
+        "possession": 61,
+        "xg": 0.85,
+        "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 368,
-        "duelsWon": 32,
-        "boxTouches": 25,
-        "fouls": 7,
-        "corners": 3,
+        "accuratePasses": 394,
+        "duelsWon": 35,
+        "boxTouches": 28,
+        "fouls": 8,
+        "corners": 5,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 38,
+        "possession": 39,
         "xg": 2.07,
         "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 204,
-        "duelsWon": 37,
+        "accuratePasses": 230,
+        "duelsWon": 38,
         "boxTouches": 14,
         "fouls": 8,
         "corners": 2,
@@ -554,27 +566,27 @@
   "FL1": {
     "559625": {
       "home": {
-        "possession": 64,
-        "xg": 1.99,
-        "shots": 13,
-        "shotsOnTarget": 7,
-        "accuratePasses": 486,
-        "duelsWon": 26,
-        "boxTouches": 31,
-        "fouls": 12,
+        "possession": 63,
+        "xg": 2.99,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 520,
+        "duelsWon": 28,
+        "boxTouches": 32,
+        "fouls": 13,
         "corners": 9,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 36,
+        "possession": 37,
         "xg": 0.18,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 260,
-        "duelsWon": 29,
+        "accuratePasses": 288,
+        "duelsWon": 31,
         "boxTouches": 4,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 0,
         "offsides": 0,
         "saves": 5
@@ -604,6 +616,12 @@
           "type": "goal",
           "teamId": "1045",
           "playerName": "Maxime Lopez"
+        },
+        {
+          "minute": "72'",
+          "type": "goal",
+          "teamId": "1045",
+          "playerName": "Diego Coppola"
         }
       ]
     }
