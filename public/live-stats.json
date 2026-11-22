@@ -468,11 +468,11 @@
     },
     "564752": {
       "home": {
-        "possession": 56,
+        "possession": 57,
         "xg": 1.08,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 190,
+        "accuratePasses": 203,
         "duelsWon": 23,
         "boxTouches": 15,
         "fouls": 7,
@@ -481,7 +481,7 @@
         "saves": 0
       },
       "away": {
-        "possession": 44,
+        "possession": 43,
         "xg": 0.02,
         "shots": 2,
         "shotsOnTarget": 0,
@@ -514,12 +514,12 @@
   "BL1": {
     "565863": {
       "home": {
-        "possession": 54,
-        "xg": 1.41,
+        "possession": 53,
+        "xg": 1.47,
         "shots": 18,
         "shotsOnTarget": 7,
-        "accuratePasses": 352,
-        "duelsWon": 40,
+        "accuratePasses": 354,
+        "duelsWon": 41,
         "boxTouches": 22,
         "fouls": 12,
         "corners": 1,
@@ -527,11 +527,11 @@
         "saves": 1
       },
       "away": {
-        "possession": 46,
-        "xg": 1.43,
+        "possession": 47,
+        "xg": 1.41,
         "shots": 17,
         "shotsOnTarget": 2,
-        "accuratePasses": 297,
+        "accuratePasses": 306,
         "duelsWon": 45,
         "boxTouches": 33,
         "fouls": 11,
@@ -602,7 +602,8 @@
           "teamId": "12",
           "playerName": "Niclas Füllkrug"
         }
-      ]
+      ],
+      "final": true
     },
     "565864": {
       "home": {
@@ -821,30 +822,30 @@
     },
     "558523": {
       "home": {
-        "possession": 52,
+        "possession": 54,
         "xg": 2.24,
-        "shots": 10,
-        "shotsOnTarget": 7,
-        "accuratePasses": 248,
-        "duelsWon": 37,
-        "boxTouches": 24,
+        "shots": 11,
+        "shotsOnTarget": 8,
+        "accuratePasses": 281,
+        "duelsWon": 41,
+        "boxTouches": 27,
         "fouls": 3,
         "corners": 2,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 48,
-        "xg": 0.78,
-        "shots": 11,
+        "possession": 46,
+        "xg": 0.82,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 213,
-        "duelsWon": 45,
-        "boxTouches": 24,
-        "fouls": 15,
+        "accuratePasses": 221,
+        "duelsWon": 48,
+        "boxTouches": 26,
+        "fouls": 16,
         "corners": 8,
         "offsides": 4,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
