@@ -3,13 +3,13 @@
     "560645": {
       "home": {
         "possession": 63,
-        "xg": 4.28,
-        "shots": 25,
+        "xg": 4.31,
+        "shots": 26,
         "shotsOnTarget": 11,
-        "accuratePasses": 463,
-        "duelsWon": 39,
+        "accuratePasses": 494,
+        "duelsWon": 43,
         "boxTouches": 55,
-        "fouls": 13,
+        "fouls": 15,
         "corners": 12,
         "offsides": 1,
         "saves": 2
@@ -19,9 +19,9 @@
         "xg": 0.29,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 240,
-        "duelsWon": 42,
-        "boxTouches": 6,
+        "accuratePasses": 249,
+        "duelsWon": 45,
+        "boxTouches": 7,
         "fouls": 6,
         "corners": 4,
         "offsides": 2,
@@ -62,7 +62,7 @@
           "assist": "Bradley Barcola"
         },
         {
-          "minute": "83'",
+          "minute": "82'",
           "type": "goal",
           "teamId": "64",
           "playerName": "Víctor Muñoz",
@@ -467,24 +467,24 @@
     },
     "564752": {
       "home": {
-        "possession": 55,
-        "xg": 1,
-        "shots": 8,
+        "possession": 56,
+        "xg": 1.08,
+        "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 174,
-        "duelsWon": 22,
-        "boxTouches": 14,
+        "accuratePasses": 190,
+        "duelsWon": 23,
+        "boxTouches": 15,
         "fouls": 7,
         "corners": 4,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 45,
+        "possession": 44,
         "xg": 0.02,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 154,
+        "accuratePasses": 158,
         "duelsWon": 18,
         "boxTouches": 6,
         "fouls": 5,
@@ -513,26 +513,26 @@
   "BL1": {
     "565863": {
       "home": {
-        "possession": 56,
+        "possession": 54,
         "xg": 1.29,
-        "shots": 15,
+        "shots": 16,
         "shotsOnTarget": 6,
-        "accuratePasses": 312,
-        "duelsWon": 31,
-        "boxTouches": 17,
-        "fouls": 8,
+        "accuratePasses": 316,
+        "duelsWon": 32,
+        "boxTouches": 20,
+        "fouls": 11,
         "corners": 1,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 44,
-        "xg": 0.8,
-        "shots": 11,
+        "possession": 46,
+        "xg": 1.04,
+        "shots": 13,
         "shotsOnTarget": 1,
-        "accuratePasses": 232,
-        "duelsWon": 37,
-        "boxTouches": 20,
+        "accuratePasses": 260,
+        "duelsWon": 41,
+        "boxTouches": 23,
         "fouls": 9,
         "corners": 7,
         "offsides": 1,
@@ -808,30 +808,30 @@
     },
     "558523": {
       "home": {
-        "possession": 52,
-        "xg": 1.03,
-        "shots": 7,
-        "shotsOnTarget": 4,
-        "accuratePasses": 192,
-        "duelsWon": 29,
-        "boxTouches": 17,
+        "possession": 54,
+        "xg": 1.09,
+        "shots": 8,
+        "shotsOnTarget": 5,
+        "accuratePasses": 228,
+        "duelsWon": 34,
+        "boxTouches": 21,
         "fouls": 3,
         "corners": 2,
         "offsides": 1,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 48,
+        "possession": 46,
         "xg": 0.71,
-        "shots": 11,
-        "shotsOnTarget": 3,
-        "accuratePasses": 173,
-        "duelsWon": 35,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 182,
+        "duelsWon": 40,
         "boxTouches": 21,
-        "fouls": 9,
+        "fouls": 14,
         "corners": 5,
         "offsides": 3,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -872,6 +872,12 @@
           "teamId": "98",
           "playerName": "Ardon Jashari",
           "assist": "Adrien Rabiot"
+        },
+        {
+          "minute": "57'",
+          "type": "yellow-card",
+          "teamId": "470",
+          "playerName": "Ilario Monterisi"
         }
       ]
     },
