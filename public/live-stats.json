@@ -60,27 +60,27 @@
   "SA": {
     "558521": {
       "home": {
-        "possession": 59,
-        "xg": 0.99,
-        "shots": 9,
-        "shotsOnTarget": 6,
-        "accuratePasses": 384,
-        "duelsWon": 37,
-        "boxTouches": 16,
+        "possession": 60,
+        "xg": 1.78,
+        "shots": 10,
+        "shotsOnTarget": 7,
+        "accuratePasses": 409,
+        "duelsWon": 41,
+        "boxTouches": 17,
         "fouls": 4,
         "corners": 5,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 41,
+        "possession": 40,
         "xg": 0.38,
         "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 249,
-        "duelsWon": 29,
+        "accuratePasses": 255,
+        "duelsWon": 30,
         "boxTouches": 3,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 2,
         "offsides": 1,
         "saves": 3
@@ -106,6 +106,13 @@
           "playerName": "Juan Cabal",
           "method": "header",
           "assist": "Edon Zhegrova"
+        },
+        {
+          "minute": "71'",
+          "type": "goal",
+          "teamId": "109",
+          "playerName": "Randal Kolo Muani",
+          "penalty": true
         }
       ]
     }
@@ -113,30 +120,30 @@
   "DED": {
     "558828": {
       "home": {
-        "possession": 75,
-        "xg": 2.4,
-        "shots": 28,
-        "shotsOnTarget": 8,
-        "accuratePasses": 581,
+        "possession": 76,
+        "xg": 2.58,
+        "shots": 29,
+        "shotsOnTarget": 9,
+        "accuratePasses": 636,
         "duelsWon": 40,
-        "boxTouches": 57,
+        "boxTouches": 62,
         "fouls": 5,
         "corners": 6,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 25,
+        "possession": 24,
         "xg": 0.08,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 150,
+        "accuratePasses": 154,
         "duelsWon": 23,
         "boxTouches": 5,
         "fouls": 13,
         "corners": 0,
         "offsides": 0,
-        "saves": 6
+        "saves": 7
       },
       "events": [
         {
