@@ -531,28 +531,28 @@
     },
     "564753": {
       "home": {
-        "possession": 31,
+        "possession": 30,
         "xg": 0.59,
         "shots": 11,
         "shotsOnTarget": 1,
-        "accuratePasses": 205,
-        "duelsWon": 39,
-        "boxTouches": 14,
+        "accuratePasses": 208,
+        "duelsWon": 43,
+        "boxTouches": 15,
         "fouls": 9,
         "corners": 2,
         "offsides": 0,
-        "saves": 6
+        "saves": 7
       },
       "away": {
-        "possession": 69,
-        "xg": 2.98,
-        "shots": 18,
-        "shotsOnTarget": 8,
-        "accuratePasses": 588,
-        "duelsWon": 39,
-        "boxTouches": 18,
+        "possession": 70,
+        "xg": 3.32,
+        "shots": 19,
+        "shotsOnTarget": 9,
+        "accuratePasses": 631,
+        "duelsWon": 41,
+        "boxTouches": 21,
         "fouls": 10,
-        "corners": 6,
+        "corners": 7,
         "offsides": 2,
         "saves": 1
       },
@@ -588,6 +588,12 @@
           "type": "yellow-card",
           "teamId": "82",
           "playerName": "Djené"
+        },
+        {
+          "minute": "85'",
+          "type": "yellow-card",
+          "teamId": "82",
+          "playerName": "Mario Martín"
         }
       ]
     }
@@ -1321,10 +1327,10 @@
       },
       "away": {
         "possession": 45,
-        "xg": 3.72,
+        "xg": 3.94,
         "shots": 18,
         "shotsOnTarget": 9,
-        "accuratePasses": 378,
+        "accuratePasses": 379,
         "duelsWon": 42,
         "boxTouches": 29,
         "fouls": 11,
@@ -1380,14 +1386,14 @@
         {
           "minute": "80'",
           "type": "yellow-card",
-          "teamId": "535",
-          "playerName": "Rayan Bamba"
+          "teamId": "516",
+          "playerName": "Himad Abdelli"
         },
         {
           "minute": "80'",
           "type": "yellow-card",
-          "teamId": "516",
-          "playerName": "Himad Abdelli"
+          "teamId": "535",
+          "playerName": "Rayan Bamba"
         },
         {
           "minute": "84'",
@@ -1408,7 +1414,8 @@
           "playerName": "Jean Vercruysse",
           "assist": "Rayan Bamba"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "DED": {
