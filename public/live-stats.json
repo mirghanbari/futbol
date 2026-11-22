@@ -2,25 +2,25 @@
   "PL": {
     "560645": {
       "home": {
-        "possession": 54,
+        "possession": 63,
         "xg": 1.27,
         "shots": 7,
         "shotsOnTarget": 5,
-        "accuratePasses": 74,
+        "accuratePasses": 121,
         "duelsWon": 11,
         "boxTouches": 11,
         "fouls": 5,
         "corners": 2,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 46,
+        "possession": 37,
         "xg": 0.06,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 61,
-        "duelsWon": 10,
+        "accuratePasses": 64,
+        "duelsWon": 11,
         "boxTouches": 2,
         "fouls": 2,
         "corners": 0,
@@ -358,12 +358,12 @@
     },
     "564750": {
       "home": {
-        "possession": 38,
-        "xg": 2.88,
+        "possession": 37,
+        "xg": 2.85,
         "shots": 11,
         "shotsOnTarget": 7,
-        "accuratePasses": 244,
-        "duelsWon": 33,
+        "accuratePasses": 251,
+        "duelsWon": 35,
         "boxTouches": 24,
         "fouls": 8,
         "corners": 6,
@@ -371,15 +371,15 @@
         "saves": 5
       },
       "away": {
-        "possession": 62,
-        "xg": 2.35,
-        "shots": 22,
+        "possession": 63,
+        "xg": 2.42,
+        "shots": 24,
         "shotsOnTarget": 7,
-        "accuratePasses": 455,
-        "duelsWon": 44,
-        "boxTouches": 39,
-        "fouls": 8,
-        "corners": 13,
+        "accuratePasses": 480,
+        "duelsWon": 49,
+        "boxTouches": 46,
+        "fouls": 9,
+        "corners": 14,
         "offsides": 2,
         "saves": 2
       },
@@ -429,6 +429,12 @@
           "type": "yellow-card",
           "teamId": "5335",
           "playerName": "Iker Luque"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "92",
+          "playerName": "Mamadou Sarr"
         }
       ]
     }
@@ -436,30 +442,30 @@
   "BL1": {
     "565863": {
       "home": {
-        "possession": 66,
-        "xg": 0.08,
-        "shots": 2,
-        "shotsOnTarget": 1,
-        "accuratePasses": 104,
-        "duelsWon": 9,
-        "boxTouches": 1,
+        "possession": 61,
+        "xg": 0.3,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 128,
+        "duelsWon": 11,
+        "boxTouches": 3,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 34,
+        "possession": 39,
         "xg": 0.19,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 47,
-        "duelsWon": 10,
-        "boxTouches": 4,
+        "accuratePasses": 76,
+        "duelsWon": 12,
+        "boxTouches": 5,
         "fouls": 3,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -467,6 +473,12 @@
           "type": "yellow-card",
           "teamId": "12",
           "playerName": "Amos Pieper"
+        },
+        {
+          "minute": "23'",
+          "type": "yellow-card",
+          "teamId": "7",
+          "playerName": "Warmed Omari"
         }
       ]
     },
@@ -809,12 +821,12 @@
     },
     "559626": {
       "home": {
-        "possession": 46,
+        "possession": 45,
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 179,
-        "duelsWon": 15,
+        "accuratePasses": 184,
+        "duelsWon": 17,
         "boxTouches": 1,
         "fouls": 4,
         "corners": 2,
@@ -822,15 +834,15 @@
         "saves": 0
       },
       "away": {
-        "possession": 54,
-        "xg": 0.32,
-        "shots": 5,
+        "possession": 55,
+        "xg": 0.38,
+        "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 214,
-        "duelsWon": 13,
-        "boxTouches": 11,
-        "fouls": 8,
-        "corners": 2,
+        "accuratePasses": 236,
+        "duelsWon": 17,
+        "boxTouches": 13,
+        "fouls": 9,
+        "corners": 3,
         "offsides": 0,
         "saves": 0
       },
@@ -925,30 +937,30 @@
     },
     "558829": {
       "home": {
-        "possession": 65,
+        "possession": 66,
         "xg": 0.5,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 300,
-        "duelsWon": 28,
+        "accuratePasses": 335,
+        "duelsWon": 30,
         "boxTouches": 15,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 8,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 35,
-        "xg": 0.37,
-        "shots": 5,
-        "shotsOnTarget": 0,
-        "accuratePasses": 143,
-        "duelsWon": 19,
-        "boxTouches": 4,
-        "fouls": 8,
+        "possession": 34,
+        "xg": 1.19,
+        "shots": 6,
+        "shotsOnTarget": 1,
+        "accuratePasses": 151,
+        "duelsWon": 22,
+        "boxTouches": 7,
+        "fouls": 9,
         "corners": 1,
         "offsides": 0,
-        "saves": 3
+        "saves": 4
       },
       "events": [
         {
@@ -956,6 +968,13 @@
           "type": "yellow-card",
           "teamId": "1920",
           "playerName": "Shiloh Zand"
+        },
+        {
+          "minute": "50'",
+          "type": "goal",
+          "teamId": "1920",
+          "playerName": "Anthony Descotte",
+          "assist": "Kristoffer Peterson"
         }
       ]
     },
