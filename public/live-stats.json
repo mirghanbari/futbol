@@ -468,25 +468,25 @@
     },
     "564752": {
       "home": {
-        "possession": 49,
+        "possession": 47,
         "xg": 1.23,
         "shots": 11,
         "shotsOnTarget": 2,
-        "accuratePasses": 356,
-        "duelsWon": 41,
-        "boxTouches": 21,
-        "fouls": 14,
+        "accuratePasses": 359,
+        "duelsWon": 46,
+        "boxTouches": 22,
+        "fouls": 15,
         "corners": 4,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 51,
+        "possession": 53,
         "xg": 0.6,
         "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 400,
-        "duelsWon": 38,
+        "accuratePasses": 432,
+        "duelsWon": 42,
         "boxTouches": 15,
         "fouls": 11,
         "corners": 1,
@@ -519,8 +519,15 @@
           "type": "yellow-card",
           "teamId": "79",
           "playerName": "Raúl García"
+        },
+        {
+          "minute": "90'+2'",
+          "type": "red-card",
+          "teamId": "79",
+          "playerName": "Alejandro Catena"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
