@@ -548,8 +548,8 @@
         "xg": 2.46,
         "shots": 10,
         "shotsOnTarget": 7,
-        "accuratePasses": 354,
-        "duelsWon": 23,
+        "accuratePasses": 353,
+        "duelsWon": 22,
         "boxTouches": 7,
         "fouls": 6,
         "corners": 2,
@@ -764,27 +764,27 @@
   "SA": {
     "558520": {
       "home": {
-        "possession": 32,
+        "possession": 33,
         "xg": 0.75,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 152,
-        "duelsWon": 17,
+        "accuratePasses": 175,
+        "duelsWon": 20,
         "boxTouches": 15,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 2,
         "offsides": 3,
         "saves": 2
       },
       "away": {
-        "possession": 68,
+        "possession": 67,
         "xg": 1.77,
-        "shots": 11,
-        "shotsOnTarget": 4,
-        "accuratePasses": 347,
-        "duelsWon": 18,
-        "boxTouches": 23,
-        "fouls": 5,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 388,
+        "duelsWon": 20,
+        "boxTouches": 26,
+        "fouls": 6,
         "corners": 4,
         "offsides": 0,
         "saves": 3
@@ -810,6 +810,13 @@
           "teamId": "102",
           "playerName": "Eljif Elmas",
           "assist": "Nicola Zalewski"
+        },
+        {
+          "minute": "52'",
+          "type": "goal",
+          "teamId": "108",
+          "playerName": "Francesco Pio Esposito",
+          "assist": "Marcus Thuram"
         }
       ]
     },
@@ -1240,28 +1247,28 @@
     },
     "559629": {
       "home": {
-        "possession": 59,
-        "xg": 1.3,
-        "shots": 7,
+        "possession": 55,
+        "xg": 1.31,
+        "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 294,
-        "duelsWon": 24,
-        "boxTouches": 10,
-        "fouls": 5,
-        "corners": 0,
+        "accuratePasses": 311,
+        "duelsWon": 25,
+        "boxTouches": 12,
+        "fouls": 6,
+        "corners": 1,
         "offsides": 3,
-        "saves": 2
+        "saves": 3
       },
       "away": {
-        "possession": 41,
+        "possession": 45,
         "xg": 1.49,
-        "shots": 6,
-        "shotsOnTarget": 2,
-        "accuratePasses": 182,
-        "duelsWon": 21,
+        "shots": 7,
+        "shotsOnTarget": 3,
+        "accuratePasses": 233,
+        "duelsWon": 23,
         "boxTouches": 13,
         "fouls": 4,
-        "corners": 2,
+        "corners": 3,
         "offsides": 0,
         "saves": 2
       },
