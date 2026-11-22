@@ -531,28 +531,28 @@
     },
     "564753": {
       "home": {
-        "possession": 30,
+        "possession": 31,
         "xg": 0.59,
         "shots": 11,
         "shotsOnTarget": 1,
-        "accuratePasses": 192,
-        "duelsWon": 34,
+        "accuratePasses": 205,
+        "duelsWon": 39,
         "boxTouches": 14,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 2,
         "offsides": 0,
         "saves": 6
       },
       "away": {
-        "possession": 70,
-        "xg": 2.67,
-        "shots": 16,
+        "possession": 69,
+        "xg": 2.98,
+        "shots": 18,
         "shotsOnTarget": 8,
-        "accuratePasses": 575,
-        "duelsWon": 36,
-        "boxTouches": 16,
-        "fouls": 9,
-        "corners": 5,
+        "accuratePasses": 588,
+        "duelsWon": 39,
+        "boxTouches": 18,
+        "fouls": 10,
+        "corners": 6,
         "offsides": 2,
         "saves": 1
       },
@@ -777,11 +777,11 @@
     "558520": {
       "home": {
         "possession": 41,
-        "xg": 2.17,
+        "xg": 3.1,
         "shots": 15,
         "shotsOnTarget": 10,
-        "accuratePasses": 359,
-        "duelsWon": 35,
+        "accuratePasses": 362,
+        "duelsWon": 38,
         "boxTouches": 29,
         "fouls": 9,
         "corners": 5,
@@ -790,14 +790,14 @@
       },
       "away": {
         "possession": 59,
-        "xg": 3.31,
-        "shots": 14,
+        "xg": 3.38,
+        "shots": 16,
         "shotsOnTarget": 6,
-        "accuratePasses": 535,
-        "duelsWon": 31,
-        "boxTouches": 31,
-        "fouls": 9,
-        "corners": 5,
+        "accuratePasses": 555,
+        "duelsWon": 33,
+        "boxTouches": 36,
+        "fouls": 10,
+        "corners": 6,
         "offsides": 0,
         "saves": 6
       },
@@ -870,8 +870,15 @@
           "teamId": "102",
           "playerName": "Franck Kessié",
           "penalty": true
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "108",
+          "playerName": "Carlos Augusto"
         }
-      ]
+      ],
+      "final": true
     },
     "558521": {
       "home": {
@@ -1300,27 +1307,27 @@
     },
     "559629": {
       "home": {
-        "possession": 56,
+        "possession": 55,
         "xg": 1.45,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 481,
-        "duelsWon": 48,
+        "accuratePasses": 502,
+        "duelsWon": 52,
         "boxTouches": 17,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 2,
         "offsides": 4,
         "saves": 6
       },
       "away": {
-        "possession": 44,
+        "possession": 45,
         "xg": 3.72,
-        "shots": 17,
-        "shotsOnTarget": 8,
-        "accuratePasses": 359,
-        "duelsWon": 36,
-        "boxTouches": 27,
-        "fouls": 10,
+        "shots": 18,
+        "shotsOnTarget": 9,
+        "accuratePasses": 378,
+        "duelsWon": 42,
+        "boxTouches": 29,
+        "fouls": 11,
         "corners": 5,
         "offsides": 0,
         "saves": 3
@@ -1393,6 +1400,13 @@
           "type": "yellow-card",
           "teamId": "535",
           "playerName": "Daouda Traoré"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "goal",
+          "teamId": "535",
+          "playerName": "Jean Vercruysse",
+          "assist": "Rayan Bamba"
         }
       ]
     }
