@@ -2,25 +2,25 @@
   "PL": {
     "560649": {
       "home": {
-        "possession": 71,
-        "xg": 1.74,
-        "shots": 19,
+        "possession": 72,
+        "xg": 1.84,
+        "shots": 20,
         "shotsOnTarget": 6,
-        "accuratePasses": 597,
+        "accuratePasses": 662,
         "duelsWon": 27,
-        "boxTouches": 47,
+        "boxTouches": 50,
         "fouls": 7,
-        "corners": 5,
+        "corners": 6,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 29,
+        "possession": 28,
         "xg": 0.23,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 189,
-        "duelsWon": 37,
+        "accuratePasses": 200,
+        "duelsWon": 40,
         "boxTouches": 5,
         "fouls": 9,
         "corners": 3,
@@ -59,6 +59,12 @@
           "teamId": "402",
           "playerName": "Vitaly Janelt",
           "assist": "Jaidon Anthony"
+        },
+        {
+          "minute": "90'+1'",
+          "type": "goal",
+          "teamId": "402",
+          "playerName": "Fábio Carvalho"
         }
       ]
     }
@@ -72,7 +78,7 @@
         "shotsOnTarget": 2,
         "accuratePasses": 384,
         "duelsWon": 49,
-        "boxTouches": 27,
+        "boxTouches": 28,
         "fouls": 14,
         "corners": 5,
         "offsides": 2,
@@ -80,10 +86,10 @@
       },
       "away": {
         "possession": 49,
-        "xg": 0.12,
+        "xg": 0.34,
         "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 394,
+        "accuratePasses": 393,
         "duelsWon": 59,
         "boxTouches": 11,
         "fouls": 12,
@@ -135,8 +141,15 @@
           "teamId": "88",
           "playerName": "Dani Requena",
           "assist": "Jon Olasagasti"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "88",
+          "playerName": "Dani Requena"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "SA": {
