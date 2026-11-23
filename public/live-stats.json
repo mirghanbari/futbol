@@ -3,12 +3,12 @@
     "560649": {
       "home": {
         "possession": 64,
-        "xg": 1.17,
-        "shots": 14,
+        "xg": 1.15,
+        "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 276,
+        "accuratePasses": 277,
         "duelsWon": 17,
-        "boxTouches": 20,
+        "boxTouches": 19,
         "fouls": 4,
         "corners": 3,
         "offsides": 0,
@@ -20,7 +20,7 @@
         "shots": 3,
         "shotsOnTarget": 2,
         "accuratePasses": 127,
-        "duelsWon": 24,
+        "duelsWon": 25,
         "boxTouches": 3,
         "fouls": 6,
         "corners": 3,
@@ -63,7 +63,7 @@
         "xg": 0.32,
         "shots": 9,
         "shotsOnTarget": 0,
-        "accuratePasses": 205,
+        "accuratePasses": 204,
         "duelsWon": 27,
         "boxTouches": 13,
         "fouls": 6,
@@ -103,30 +103,30 @@
   "SA": {
     "558519": {
       "home": {
-        "possession": 47,
-        "xg": 1.39,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 217,
-        "duelsWon": 32,
-        "boxTouches": 15,
+        "possession": 50,
+        "xg": 1.47,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 253,
+        "duelsWon": 35,
+        "boxTouches": 18,
         "fouls": 5,
-        "corners": 1,
+        "corners": 3,
         "offsides": 1,
         "saves": 5
       },
       "away": {
-        "possession": 53,
-        "xg": 0.36,
-        "shots": 8,
+        "possession": 50,
+        "xg": 0.39,
+        "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 265,
-        "duelsWon": 32,
+        "accuratePasses": 275,
+        "duelsWon": 36,
         "boxTouches": 8,
         "fouls": 9,
         "corners": 5,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -137,7 +137,7 @@
           "penalty": true
         },
         {
-          "minute": "52'",
+          "minute": "51'",
           "type": "goal",
           "teamId": "5911",
           "playerName": "Gustavo Varela",
