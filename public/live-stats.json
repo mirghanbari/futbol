@@ -2,25 +2,25 @@
   "PL": {
     "560649": {
       "home": {
-        "possession": 66,
-        "xg": 1.3,
-        "shots": 14,
+        "possession": 69,
+        "xg": 1.48,
+        "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 303,
-        "duelsWon": 20,
-        "boxTouches": 28,
+        "accuratePasses": 392,
+        "duelsWon": 21,
+        "boxTouches": 34,
         "fouls": 5,
         "corners": 4,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 34,
+        "possession": 31,
         "xg": 0.15,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 134,
-        "duelsWon": 26,
+        "accuratePasses": 143,
+        "duelsWon": 28,
         "boxTouches": 3,
         "fouls": 6,
         "corners": 3,
@@ -61,24 +61,24 @@
       "home": {
         "possession": 48,
         "xg": 0.32,
-        "shots": 9,
+        "shots": 10,
         "shotsOnTarget": 0,
-        "accuratePasses": 249,
-        "duelsWon": 36,
-        "boxTouches": 14,
-        "fouls": 7,
+        "accuratePasses": 274,
+        "duelsWon": 37,
+        "boxTouches": 16,
+        "fouls": 8,
         "corners": 4,
         "offsides": 1,
         "saves": 0
       },
       "away": {
         "possession": 52,
-        "xg": 0.03,
-        "shots": 1,
-        "shotsOnTarget": 0,
-        "accuratePasses": 281,
-        "duelsWon": 34,
-        "boxTouches": 5,
+        "xg": 0.08,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 311,
+        "duelsWon": 40,
+        "boxTouches": 7,
         "fouls": 9,
         "corners": 1,
         "offsides": 0,
@@ -102,6 +102,13 @@
           "type": "yellow-card",
           "teamId": "88",
           "playerName": "Thiago Fernández"
+        },
+        {
+          "minute": "62'",
+          "type": "goal",
+          "teamId": "285",
+          "playerName": "Roy Revivo",
+          "assist": "Germán Valera"
         }
       ]
     }
@@ -109,28 +116,28 @@
   "SA": {
     "558519": {
       "home": {
-        "possession": 46,
+        "possession": 45,
         "xg": 1.54,
-        "shots": 10,
+        "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 286,
-        "duelsWon": 40,
-        "boxTouches": 20,
+        "accuratePasses": 304,
+        "duelsWon": 43,
+        "boxTouches": 22,
         "fouls": 7,
         "corners": 3,
         "offsides": 1,
         "saves": 8
       },
       "away": {
-        "possession": 54,
+        "possession": 55,
         "xg": 1.66,
         "shots": 14,
         "shotsOnTarget": 8,
-        "accuratePasses": 369,
-        "duelsWon": 46,
-        "boxTouches": 17,
-        "fouls": 10,
-        "corners": 5,
+        "accuratePasses": 395,
+        "duelsWon": 48,
+        "boxTouches": 20,
+        "fouls": 11,
+        "corners": 6,
         "offsides": 1,
         "saves": 2
       },
@@ -154,6 +161,12 @@
           "type": "goal",
           "teamId": "5911",
           "playerName": "Jay Robinson"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "99",
+          "playerName": "Radu Drăgușin"
         }
       ]
     }
