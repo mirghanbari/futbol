@@ -2,26 +2,26 @@
   "PL": {
     "560649": {
       "home": {
-        "possession": 69,
+        "possession": 68,
         "xg": 1.48,
         "shots": 15,
         "shotsOnTarget": 5,
-        "accuratePasses": 392,
+        "accuratePasses": 418,
         "duelsWon": 21,
-        "boxTouches": 34,
-        "fouls": 5,
+        "boxTouches": 37,
+        "fouls": 6,
         "corners": 4,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 31,
+        "possession": 32,
         "xg": 0.15,
         "shots": 3,
         "shotsOnTarget": 2,
-        "accuratePasses": 143,
-        "duelsWon": 28,
-        "boxTouches": 3,
+        "accuratePasses": 168,
+        "duelsWon": 31,
+        "boxTouches": 4,
         "fouls": 6,
         "corners": 3,
         "offsides": 0,
@@ -60,13 +60,13 @@
     "564757": {
       "home": {
         "possession": 48,
-        "xg": 0.32,
-        "shots": 10,
+        "xg": 0.53,
+        "shots": 11,
         "shotsOnTarget": 0,
-        "accuratePasses": 274,
-        "duelsWon": 37,
-        "boxTouches": 16,
-        "fouls": 8,
+        "accuratePasses": 296,
+        "duelsWon": 38,
+        "boxTouches": 19,
+        "fouls": 10,
         "corners": 4,
         "offsides": 1,
         "saves": 0
@@ -76,8 +76,8 @@
         "xg": 0.08,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 311,
-        "duelsWon": 40,
+        "accuratePasses": 335,
+        "duelsWon": 44,
         "boxTouches": 7,
         "fouls": 9,
         "corners": 1,
@@ -109,6 +109,12 @@
           "teamId": "285",
           "playerName": "Roy Revivo",
           "assist": "Germán Valera"
+        },
+        {
+          "minute": "71'",
+          "type": "yellow-card",
+          "teamId": "88",
+          "playerName": "Oriol Rey"
         }
       ]
     }
@@ -117,11 +123,11 @@
     "558519": {
       "home": {
         "possession": 45,
-        "xg": 1.54,
+        "xg": 1.58,
         "shots": 11,
         "shotsOnTarget": 5,
-        "accuratePasses": 304,
-        "duelsWon": 43,
+        "accuratePasses": 322,
+        "duelsWon": 45,
         "boxTouches": 22,
         "fouls": 7,
         "corners": 3,
@@ -130,13 +136,13 @@
       },
       "away": {
         "possession": 55,
-        "xg": 1.66,
-        "shots": 14,
+        "xg": 1.78,
+        "shots": 17,
         "shotsOnTarget": 8,
-        "accuratePasses": 395,
-        "duelsWon": 48,
-        "boxTouches": 20,
-        "fouls": 11,
+        "accuratePasses": 416,
+        "duelsWon": 51,
+        "boxTouches": 27,
+        "fouls": 12,
         "corners": 6,
         "offsides": 1,
         "saves": 2
