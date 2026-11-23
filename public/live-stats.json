@@ -2,25 +2,25 @@
   "PL": {
     "560649": {
       "home": {
-        "possession": 64,
-        "xg": 1.15,
-        "shots": 13,
+        "possession": 66,
+        "xg": 1.3,
+        "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 277,
-        "duelsWon": 17,
-        "boxTouches": 19,
+        "accuratePasses": 297,
+        "duelsWon": 19,
+        "boxTouches": 22,
         "fouls": 4,
-        "corners": 3,
+        "corners": 4,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 36,
+        "possession": 34,
         "xg": 0.15,
         "shots": 3,
         "shotsOnTarget": 2,
         "accuratePasses": 127,
-        "duelsWon": 25,
+        "duelsWon": 24,
         "boxTouches": 3,
         "fouls": 6,
         "corners": 3,
@@ -59,25 +59,25 @@
   "PD": {
     "564757": {
       "home": {
-        "possession": 51,
+        "possession": 50,
         "xg": 0.32,
         "shots": 9,
         "shotsOnTarget": 0,
-        "accuratePasses": 221,
-        "duelsWon": 30,
-        "boxTouches": 13,
-        "fouls": 6,
+        "accuratePasses": 236,
+        "duelsWon": 34,
+        "boxTouches": 14,
+        "fouls": 7,
         "corners": 4,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 49,
+        "possession": 50,
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 225,
-        "duelsWon": 29,
+        "accuratePasses": 243,
+        "duelsWon": 31,
         "boxTouches": 5,
         "fouls": 9,
         "corners": 1,
@@ -96,6 +96,12 @@
           "type": "yellow-card",
           "teamId": "88",
           "playerName": "Aïssa Mandi"
+        },
+        {
+          "minute": "53'",
+          "type": "yellow-card",
+          "teamId": "88",
+          "playerName": "Thiago Fernández"
         }
       ]
     }
@@ -107,23 +113,23 @@
         "xg": 1.5,
         "shots": 9,
         "shotsOnTarget": 5,
-        "accuratePasses": 259,
-        "duelsWon": 35,
+        "accuratePasses": 283,
+        "duelsWon": 38,
         "boxTouches": 19,
         "fouls": 5,
         "corners": 3,
         "offsides": 1,
-        "saves": 7
+        "saves": 8
       },
       "away": {
         "possession": 52,
-        "xg": 1.09,
-        "shots": 11,
-        "shotsOnTarget": 7,
-        "accuratePasses": 302,
-        "duelsWon": 38,
-        "boxTouches": 11,
-        "fouls": 9,
+        "xg": 1.66,
+        "shots": 14,
+        "shotsOnTarget": 8,
+        "accuratePasses": 335,
+        "duelsWon": 45,
+        "boxTouches": 17,
+        "fouls": 10,
         "corners": 5,
         "offsides": 1,
         "saves": 2
