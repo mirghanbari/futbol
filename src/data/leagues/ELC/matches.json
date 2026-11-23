@@ -9418,7 +9418,7 @@
     "matchday": 16,
     "stage": "regular",
     "utcDate": "2026-11-21T15:00:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "1126",
     "awayTeamId": "404",
     "homeTeam": {
@@ -9426,6 +9426,34 @@
     },
     "awayTeam": {
       "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 0.65,
+        "shots": 20,
+        "shotsOnTarget": 4,
+        "accuratePasses": 249,
+        "duelsWon": 52,
+        "boxTouches": 26,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 4,
+        "saves": 2
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.23,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 248,
+        "duelsWon": 42,
+        "boxTouches": 16,
+        "fouls": 9,
+        "corners": 5,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "LNER Stadium, Lincoln",
     "broadcasts": [
@@ -9546,14 +9574,14 @@
     "matchday": 16,
     "stage": "regular",
     "utcDate": "2026-11-22T12:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "328",
     "awayTeamId": "59",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     },
     "stats": {
       "home": {
