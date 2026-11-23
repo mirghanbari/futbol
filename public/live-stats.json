@@ -3,12 +3,12 @@
     "560649": {
       "home": {
         "possession": 70,
-        "xg": 1.64,
-        "shots": 17,
+        "xg": 1.74,
+        "shots": 19,
         "shotsOnTarget": 6,
-        "accuratePasses": 501,
-        "duelsWon": 23,
-        "boxTouches": 40,
+        "accuratePasses": 534,
+        "duelsWon": 26,
+        "boxTouches": 45,
         "fouls": 7,
         "corners": 5,
         "offsides": 1,
@@ -16,13 +16,13 @@
       },
       "away": {
         "possession": 30,
-        "xg": 0.15,
-        "shots": 3,
+        "xg": 0.23,
+        "shots": 4,
         "shotsOnTarget": 2,
-        "accuratePasses": 178,
+        "accuratePasses": 186,
         "duelsWon": 34,
-        "boxTouches": 4,
-        "fouls": 7,
+        "boxTouches": 6,
+        "fouls": 8,
         "corners": 3,
         "offsides": 0,
         "saves": 3
@@ -67,13 +67,13 @@
     "564757": {
       "home": {
         "possession": 50,
-        "xg": 0.61,
-        "shots": 13,
-        "shotsOnTarget": 0,
-        "accuratePasses": 348,
-        "duelsWon": 41,
-        "boxTouches": 23,
-        "fouls": 12,
+        "xg": 0.75,
+        "shots": 15,
+        "shotsOnTarget": 1,
+        "accuratePasses": 362,
+        "duelsWon": 43,
+        "boxTouches": 26,
+        "fouls": 13,
         "corners": 4,
         "offsides": 2,
         "saves": 0
@@ -83,8 +83,8 @@
         "xg": 0.12,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 368,
-        "duelsWon": 52,
+        "accuratePasses": 381,
+        "duelsWon": 53,
         "boxTouches": 10,
         "fouls": 11,
         "corners": 1,
@@ -122,6 +122,19 @@
           "type": "yellow-card",
           "teamId": "88",
           "playerName": "Oriol Rey"
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
+          "teamId": "285",
+          "playerName": "Federico Redondo"
+        },
+        {
+          "minute": "88'",
+          "type": "goal",
+          "teamId": "88",
+          "playerName": "Dani Requena",
+          "assist": "Jon Olasagasti"
         }
       ]
     }
