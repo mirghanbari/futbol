@@ -5376,24 +5376,6 @@
     "venue": "Stade Louis II, Monaco"
   },
   {
-    "id": "559591",
-    "competitionId": "FL1",
-    "season": "2026",
-    "matchday": 15,
-    "stage": "regular",
-    "utcDate": "2027-01-02T20:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "1045",
-    "awayTeamId": "533",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Stade Jean Bouin, Paris"
-  },
-  {
     "id": "559592",
     "competitionId": "FL1",
     "season": "2026",
@@ -5428,6 +5410,24 @@
       "goals": 0
     },
     "venue": "Stade Marie-Marvingt, Le Mans"
+  },
+  {
+    "id": "559591",
+    "competitionId": "FL1",
+    "season": "2026",
+    "matchday": 15,
+    "stage": "regular",
+    "utcDate": "2027-01-03T16:15:00Z",
+    "status": "scheduled",
+    "homeTeamId": "1045",
+    "awayTeamId": "533",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Stade Jean Bouin, Paris"
   },
   {
     "id": "559593",
