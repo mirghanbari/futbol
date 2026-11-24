@@ -3,13 +3,13 @@
     "575395": {
       "home": {
         "possession": 46,
-        "xg": 0.45,
-        "shots": 7,
+        "xg": 0.51,
+        "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 259,
-        "duelsWon": 42,
+        "accuratePasses": 280,
+        "duelsWon": 45,
         "boxTouches": 14,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 5,
         "offsides": 1,
         "saves": 0
@@ -19,13 +19,13 @@
         "xg": 0.6,
         "shots": 4,
         "shotsOnTarget": 0,
-        "accuratePasses": 337,
-        "duelsWon": 32,
-        "boxTouches": 10,
+        "accuratePasses": 359,
+        "duelsWon": 34,
+        "boxTouches": 11,
         "fouls": 12,
         "corners": 1,
         "offsides": 2,
-        "saves": 0
+        "saves": 1
       },
       "events": [
         {
@@ -65,6 +65,12 @@
           "playerName": "Deniz Gül",
           "method": "header",
           "assist": "Wilfried Singo"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "58",
+          "playerName": "Ross Barkley"
         }
       ]
     }
