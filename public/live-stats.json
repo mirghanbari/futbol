@@ -276,30 +276,30 @@
     },
     "561957": {
       "home": {
-        "possession": 66,
-        "xg": 2.89,
-        "shots": 37,
-        "shotsOnTarget": 8,
-        "accuratePasses": 501,
-        "duelsWon": 39,
-        "boxTouches": 53,
-        "fouls": 8,
-        "corners": 10,
+        "possession": 64,
+        "xg": 3.13,
+        "shots": 39,
+        "shotsOnTarget": 9,
+        "accuratePasses": 512,
+        "duelsWon": 41,
+        "boxTouches": 56,
+        "fouls": 10,
+        "corners": 11,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 34,
+        "possession": 36,
         "xg": 0.58,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 239,
-        "duelsWon": 54,
-        "boxTouches": 19,
-        "fouls": 2,
+        "accuratePasses": 256,
+        "duelsWon": 60,
+        "boxTouches": 20,
+        "fouls": 3,
         "corners": 1,
         "offsides": 2,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -326,8 +326,15 @@
           "type": "goal",
           "teamId": "76",
           "playerName": "Adam Armstrong"
+        },
+        {
+          "minute": "90'",
+          "type": "yellow-card",
+          "teamId": "76",
+          "playerName": "Jackson Tchatchoua"
         }
-      ]
+      ],
+      "final": true
     },
     "561958": {
       "home": {
@@ -620,12 +627,12 @@
     "575397": {
       "home": {
         "possession": 61,
-        "xg": 4,
-        "shots": 21,
-        "shotsOnTarget": 8,
-        "accuratePasses": 510,
-        "duelsWon": 48,
-        "boxTouches": 48,
+        "xg": 4.32,
+        "shots": 23,
+        "shotsOnTarget": 9,
+        "accuratePasses": 555,
+        "duelsWon": 50,
+        "boxTouches": 52,
         "fouls": 6,
         "corners": 4,
         "offsides": 4,
@@ -636,10 +643,10 @@
         "xg": 1.75,
         "shots": 10,
         "shotsOnTarget": 1,
-        "accuratePasses": 289,
-        "duelsWon": 37,
+        "accuratePasses": 309,
+        "duelsWon": 38,
         "boxTouches": 16,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 1,
         "offsides": 0,
         "saves": 4
@@ -707,34 +714,35 @@
           "minute": "87'",
           "type": "goal",
           "teamId": "86",
-          "playerName": "<TBD>"
+          "playerName": "Vinícius Júnior",
+          "assist": "Jude Bellingham"
         }
       ]
     },
     "575398": {
       "home": {
-        "possession": 64,
-        "xg": 1.32,
-        "shots": 17,
+        "possession": 63,
+        "xg": 1.35,
+        "shots": 18,
         "shotsOnTarget": 7,
-        "accuratePasses": 596,
-        "duelsWon": 41,
-        "boxTouches": 59,
+        "accuratePasses": 610,
+        "duelsWon": 44,
+        "boxTouches": 61,
         "fouls": 9,
-        "corners": 8,
+        "corners": 9,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 36,
-        "xg": 0.57,
-        "shots": 8,
+        "possession": 37,
+        "xg": 0.61,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 310,
-        "duelsWon": 37,
-        "boxTouches": 18,
+        "accuratePasses": 329,
+        "duelsWon": 38,
+        "boxTouches": 20,
         "fouls": 9,
-        "corners": 2,
+        "corners": 3,
         "offsides": 2,
         "saves": 5
       },
@@ -773,31 +781,32 @@
           "playerName": "Rayan Cherki",
           "assist": "Iliman Ndiaye"
         }
-      ]
+      ],
+      "final": true
     },
     "575399": {
       "home": {
         "possession": 63,
-        "xg": 2.15,
-        "shots": 28,
+        "xg": 2.2,
+        "shots": 29,
         "shotsOnTarget": 4,
-        "accuratePasses": 481,
-        "duelsWon": 54,
-        "boxTouches": 51,
+        "accuratePasses": 499,
+        "duelsWon": 57,
+        "boxTouches": 56,
         "fouls": 7,
-        "corners": 6,
+        "corners": 8,
         "offsides": 1,
         "saves": 3
       },
       "away": {
         "possession": 37,
-        "xg": 0.88,
-        "shots": 12,
+        "xg": 0.92,
+        "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 264,
-        "duelsWon": 45,
-        "boxTouches": 20,
-        "fouls": 12,
+        "accuratePasses": 275,
+        "duelsWon": 46,
+        "boxTouches": 23,
+        "fouls": 13,
         "corners": 5,
         "offsides": 4,
         "saves": 3
@@ -817,17 +826,18 @@
           "playerName": "Maximilian Beier",
           "assist": "Joane Gadou"
         }
-      ]
+      ],
+      "final": true
     },
     "575400": {
       "home": {
         "possession": 56,
-        "xg": 0.84,
-        "shots": 18,
-        "shotsOnTarget": 6,
-        "accuratePasses": 406,
-        "duelsWon": 45,
-        "boxTouches": 21,
+        "xg": 0.98,
+        "shots": 20,
+        "shotsOnTarget": 7,
+        "accuratePasses": 425,
+        "duelsWon": 47,
+        "boxTouches": 24,
         "fouls": 8,
         "corners": 8,
         "offsides": 0,
@@ -838,13 +848,13 @@
         "xg": 0.85,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 316,
-        "duelsWon": 39,
-        "boxTouches": 15,
+        "accuratePasses": 328,
+        "duelsWon": 44,
+        "boxTouches": 17,
         "fouls": 12,
         "corners": 4,
         "offsides": 2,
-        "saves": 5
+        "saves": 6
       },
       "events": [
         {
@@ -882,27 +892,27 @@
     },
     "575402": {
       "home": {
-        "possession": 60,
+        "possession": 58,
         "xg": 0.97,
-        "shots": 15,
-        "shotsOnTarget": 6,
-        "accuratePasses": 484,
-        "duelsWon": 44,
-        "boxTouches": 28,
-        "fouls": 11,
-        "corners": 9,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 491,
+        "duelsWon": 46,
+        "boxTouches": 31,
+        "fouls": 12,
+        "corners": 10,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 40,
+        "possession": 42,
         "xg": 0.96,
         "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 287,
-        "duelsWon": 48,
+        "accuratePasses": 311,
+        "duelsWon": 49,
         "boxTouches": 19,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 4,
         "offsides": 4,
         "saves": 4
@@ -956,8 +966,22 @@
           "type": "yellow-card",
           "teamId": "546",
           "playerName": "Michał Skóras"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "721",
+          "playerName": "Neil El Aynaoui"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "goal",
+          "teamId": "721",
+          "playerName": "Antonio Nusa",
+          "assist": "Christopher Nkunku"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
