@@ -6,8 +6,8 @@
         "xg": 0.02,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 190,
-        "duelsWon": 35,
+        "accuratePasses": 201,
+        "duelsWon": 38,
         "boxTouches": 4,
         "fouls": 10,
         "corners": 2,
@@ -19,10 +19,10 @@
         "xg": 0.53,
         "shots": 3,
         "shotsOnTarget": 0,
-        "accuratePasses": 257,
-        "duelsWon": 25,
+        "accuratePasses": 269,
+        "duelsWon": 26,
         "boxTouches": 9,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 1,
         "offsides": 1,
         "saves": 0
@@ -45,6 +45,18 @@
           "type": "yellow-card",
           "teamId": "58",
           "playerName": "John McGinn"
+        },
+        {
+          "minute": "58'",
+          "type": "yellow-card",
+          "teamId": "610",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "minute": "58'",
+          "type": "yellow-card",
+          "teamId": "58",
+          "playerName": "João Gomes"
         }
       ]
     }
