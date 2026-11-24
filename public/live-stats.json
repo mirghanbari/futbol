@@ -627,12 +627,12 @@
     "575397": {
       "home": {
         "possession": 61,
-        "xg": 4.32,
-        "shots": 23,
+        "xg": 4.79,
+        "shots": 24,
         "shotsOnTarget": 9,
-        "accuratePasses": 555,
-        "duelsWon": 50,
-        "boxTouches": 52,
+        "accuratePasses": 571,
+        "duelsWon": 51,
+        "boxTouches": 53,
         "fouls": 6,
         "corners": 4,
         "offsides": 4,
@@ -640,11 +640,11 @@
       },
       "away": {
         "possession": 39,
-        "xg": 1.75,
+        "xg": 1.69,
         "shots": 10,
         "shotsOnTarget": 1,
-        "accuratePasses": 309,
-        "duelsWon": 38,
+        "accuratePasses": 318,
+        "duelsWon": 39,
         "boxTouches": 16,
         "fouls": 11,
         "corners": 1,
@@ -717,7 +717,8 @@
           "playerName": "Vinícius Júnior",
           "assist": "Jude Bellingham"
         }
-      ]
+      ],
+      "final": true
     },
     "575398": {
       "home": {
@@ -831,29 +832,29 @@
     },
     "575400": {
       "home": {
-        "possession": 56,
-        "xg": 0.98,
-        "shots": 20,
+        "possession": 57,
+        "xg": 1.07,
+        "shots": 21,
         "shotsOnTarget": 7,
-        "accuratePasses": 425,
-        "duelsWon": 47,
-        "boxTouches": 24,
-        "fouls": 8,
+        "accuratePasses": 434,
+        "duelsWon": 52,
+        "boxTouches": 30,
+        "fouls": 10,
         "corners": 8,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 44,
+        "possession": 43,
         "xg": 0.85,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 328,
-        "duelsWon": 44,
+        "accuratePasses": 332,
+        "duelsWon": 47,
         "boxTouches": 17,
-        "fouls": 12,
+        "fouls": 13,
         "corners": 4,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 6
       },
       "events": [
@@ -887,8 +888,21 @@
           "type": "yellow-card",
           "teamId": "675",
           "playerName": "Thijs Kraaijeveld"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "675",
+          "playerName": "Gonçalo Borges"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "teamId": "503",
+          "playerName": "Pablo Rosario"
         }
-      ]
+      ],
+      "final": true
     },
     "575402": {
       "home": {
