@@ -6254,14 +6254,42 @@
     "matchday": 12,
     "stage": "regular",
     "utcDate": "2026-11-23T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5911",
     "awayTeamId": "99",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 44,
+        "xg": 1.62,
+        "shots": 13,
+        "shotsOnTarget": 5,
+        "accuratePasses": 331,
+        "duelsWon": 49,
+        "boxTouches": 22,
+        "fouls": 8,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 8
+      },
+      "away": {
+        "possession": 56,
+        "xg": 1.77,
+        "shots": 17,
+        "shotsOnTarget": 8,
+        "accuratePasses": 438,
+        "duelsWon": 55,
+        "boxTouches": 30,
+        "fouls": 13,
+        "corners": 7,
+        "offsides": 1,
+        "saves": 2
+      }
     },
     "venue": "U-Power Stadium, Monza",
     "broadcasts": [
