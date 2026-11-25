@@ -74,12 +74,12 @@
     "575405": {
       "home": {
         "possession": 52,
-        "xg": 1.16,
-        "shots": 13,
-        "shotsOnTarget": 1,
+        "xg": 1.17,
+        "shots": 14,
+        "shotsOnTarget": 2,
         "accuratePasses": 313,
         "duelsWon": 48,
-        "boxTouches": 39,
+        "boxTouches": 40,
         "fouls": 12,
         "corners": 13,
         "offsides": 3,
@@ -87,16 +87,16 @@
       },
       "away": {
         "possession": 48,
-        "xg": 0.63,
+        "xg": 1.01,
         "shots": 7,
         "shotsOnTarget": 5,
         "accuratePasses": 320,
-        "duelsWon": 52,
+        "duelsWon": 53,
         "boxTouches": 15,
         "fouls": 15,
         "corners": 0,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -142,7 +142,8 @@
           "teamId": "94",
           "playerName": "Carlos Romero"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
