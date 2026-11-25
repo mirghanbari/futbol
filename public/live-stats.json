@@ -2,41 +2,49 @@
   "CL": {
     "575404": {
       "home": {
-        "possession": 23,
-        "xg": 0.31,
+        "possession": 26,
+        "xg": 0.37,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 48,
-        "duelsWon": 10,
+        "accuratePasses": 67,
+        "duelsWon": 11,
         "boxTouches": 7,
+        "fouls": 2,
+        "corners": 1,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 74,
+        "xg": 0.52,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 242,
+        "duelsWon": 13,
+        "boxTouches": 6,
         "fouls": 1,
         "corners": 1,
         "offsides": 1,
         "saves": 1
       },
-      "away": {
-        "possession": 77,
-        "xg": 0.15,
-        "shots": 4,
-        "shotsOnTarget": 1,
-        "accuratePasses": 205,
-        "duelsWon": 12,
-        "boxTouches": 4,
-        "fouls": 1,
-        "corners": 1,
-        "offsides": 1,
-        "saves": 1
-      }
+      "events": [
+        {
+          "minute": "31'",
+          "type": "goal",
+          "teamId": "81",
+          "playerName": "Anthony Gordon"
+        }
+      ]
     },
     "575405": {
       "home": {
         "possession": 46,
-        "xg": 0.03,
-        "shots": 1,
+        "xg": 0.05,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 67,
-        "duelsWon": 9,
-        "boxTouches": 8,
+        "accuratePasses": 83,
+        "duelsWon": 12,
+        "boxTouches": 9,
         "fouls": 5,
         "corners": 6,
         "offsides": 0,
@@ -47,8 +55,8 @@
         "xg": 0.05,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 101,
-        "duelsWon": 15,
+        "accuratePasses": 120,
+        "duelsWon": 18,
         "boxTouches": 2,
         "fouls": 5,
         "corners": 0,
@@ -67,6 +75,12 @@
           "type": "yellow-card",
           "teamId": "94",
           "playerName": "Sergi Cardona"
+        },
+        {
+          "minute": "29'",
+          "type": "yellow-card",
+          "teamId": "930",
+          "playerName": "Ange N'Guessan"
         }
       ]
     }
