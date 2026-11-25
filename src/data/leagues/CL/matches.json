@@ -3475,14 +3475,14 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-25T17:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "10233",
     "awayTeamId": "81",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     },
     "venue": "Baku Olympic Stadium, Baku",
     "broadcasts": [
@@ -3499,7 +3499,7 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-25T17:45:00Z",
-    "status": "scheduled",
+    "status": "in-play",
     "homeTeamId": "930",
     "awayTeamId": "94",
     "homeTeam": {

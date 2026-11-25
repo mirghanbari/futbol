@@ -24,6 +24,14 @@
     "competitionId": "CL"
   },
   {
+    "id": "81",
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png",
+    "competitionId": "CL"
+  },
+  {
     "id": "90",
     "name": "Real Betis Balompié",
     "shortName": "Real Betis",
@@ -53,14 +61,6 @@
     "shortName": "Dortmund",
     "tla": "BVB",
     "crest": "https://crests.football-data.org/4.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "81",
-    "name": "FC Barcelona",
-    "shortName": "Barça",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/81.png",
     "competitionId": "CL"
   },
   {
@@ -232,19 +232,19 @@
     "competitionId": "CL"
   },
   {
-    "id": "10233",
-    "name": "Sabah FK",
-    "shortName": "Sabah FK",
-    "tla": "SAB",
-    "crest": "https://crests.football-data.org/10233.png",
-    "competitionId": "CL"
-  },
-  {
     "id": "1899",
     "name": "PAE AEK",
     "shortName": "PAE AEK",
     "tla": "AEK",
     "crest": "https://crests.football-data.org/1899.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "10233",
+    "name": "Sabah FK",
+    "shortName": "Sabah FK",
+    "tla": "SAB",
+    "crest": "https://crests.football-data.org/10233.png",
     "competitionId": "CL"
   },
   {
