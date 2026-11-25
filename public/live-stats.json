@@ -77,11 +77,11 @@
     "561962": {
       "home": {
         "possession": 51,
-        "xg": 1.5,
-        "shots": 19,
+        "xg": 1.61,
+        "shots": 20,
         "shotsOnTarget": 6,
-        "accuratePasses": 356,
-        "duelsWon": 32,
+        "accuratePasses": 366,
+        "duelsWon": 35,
         "boxTouches": 24,
         "fouls": 7,
         "corners": 2,
@@ -93,10 +93,10 @@
         "xg": 1.29,
         "shots": 14,
         "shotsOnTarget": 4,
-        "accuratePasses": 322,
-        "duelsWon": 33,
+        "accuratePasses": 337,
+        "duelsWon": 36,
         "boxTouches": 24,
-        "fouls": 9,
+        "fouls": 10,
         "corners": 5,
         "offsides": 1,
         "saves": 4
@@ -140,6 +140,12 @@
           "teamId": "384",
           "playerName": "Mark Sykes",
           "assist": "Jake Cooper"
+        },
+        {
+          "minute": "87'",
+          "type": "yellow-card",
+          "teamId": "384",
+          "playerName": "Lyndon Dykes"
         }
       ]
     },
@@ -461,26 +467,26 @@
     },
     "575406": {
       "home": {
-        "possession": 54,
-        "xg": 2.45,
-        "shots": 17,
+        "possession": 52,
+        "xg": 2.49,
+        "shots": 18,
         "shotsOnTarget": 5,
         "accuratePasses": 427,
-        "duelsWon": 28,
-        "boxTouches": 39,
+        "duelsWon": 29,
+        "boxTouches": 40,
         "fouls": 8,
-        "corners": 9,
+        "corners": 10,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 46,
+        "possession": 48,
         "xg": 0.97,
         "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 357,
-        "duelsWon": 34,
-        "boxTouches": 20,
+        "accuratePasses": 392,
+        "duelsWon": 35,
+        "boxTouches": 24,
         "fouls": 10,
         "corners": 4,
         "offsides": 1,
@@ -524,12 +530,12 @@
     "575408": {
       "home": {
         "possession": 67,
-        "xg": 1.33,
-        "shots": 9,
+        "xg": 1.63,
+        "shots": 12,
         "shotsOnTarget": 3,
-        "accuratePasses": 554,
-        "duelsWon": 34,
-        "boxTouches": 19,
+        "accuratePasses": 582,
+        "duelsWon": 35,
+        "boxTouches": 26,
         "fouls": 5,
         "corners": 3,
         "offsides": 1,
@@ -540,9 +546,9 @@
         "xg": 2.69,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 231,
-        "duelsWon": 34,
-        "boxTouches": 25,
+        "accuratePasses": 245,
+        "duelsWon": 35,
+        "boxTouches": 27,
         "fouls": 18,
         "corners": 4,
         "offsides": 0,
@@ -595,25 +601,25 @@
     "575409": {
       "home": {
         "possession": 53,
-        "xg": 1.05,
-        "shots": 15,
+        "xg": 1.11,
+        "shots": 16,
         "shotsOnTarget": 5,
-        "accuratePasses": 404,
-        "duelsWon": 46,
+        "accuratePasses": 428,
+        "duelsWon": 48,
         "boxTouches": 30,
         "fouls": 7,
-        "corners": 6,
-        "offsides": 1,
+        "corners": 8,
+        "offsides": 2,
         "saves": 1
       },
       "away": {
         "possession": 47,
-        "xg": 1.36,
-        "shots": 12,
+        "xg": 1.97,
+        "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 359,
-        "duelsWon": 41,
-        "boxTouches": 36,
+        "accuratePasses": 374,
+        "duelsWon": 43,
+        "boxTouches": 38,
         "fouls": 13,
         "corners": 3,
         "offsides": 0,
@@ -644,18 +650,19 @@
           "minute": "83'",
           "type": "goal",
           "teamId": "64",
-          "playerName": "Alexander Isak"
+          "playerName": "Alexander Isak",
+          "assist": "Alisson Becker"
         }
       ]
     },
     "575410": {
       "home": {
-        "possession": 36,
+        "possession": 35,
         "xg": 2.07,
         "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 322,
-        "duelsWon": 44,
+        "accuratePasses": 324,
+        "duelsWon": 45,
         "boxTouches": 25,
         "fouls": 2,
         "corners": 3,
@@ -663,13 +670,13 @@
         "saves": 7
       },
       "away": {
-        "possession": 64,
-        "xg": 1.1,
-        "shots": 9,
+        "possession": 65,
+        "xg": 1.15,
+        "shots": 11,
         "shotsOnTarget": 7,
-        "accuratePasses": 629,
-        "duelsWon": 19,
-        "boxTouches": 18,
+        "accuratePasses": 666,
+        "duelsWon": 20,
+        "boxTouches": 19,
         "fouls": 10,
         "corners": 4,
         "offsides": 4,
@@ -714,27 +721,27 @@
     },
     "575411": {
       "home": {
-        "possession": 48,
-        "xg": 2.41,
-        "shots": 9,
+        "possession": 51,
+        "xg": 2.44,
+        "shots": 10,
         "shotsOnTarget": 4,
-        "accuratePasses": 351,
-        "duelsWon": 32,
-        "boxTouches": 23,
-        "fouls": 13,
+        "accuratePasses": 398,
+        "duelsWon": 34,
+        "boxTouches": 25,
+        "fouls": 16,
         "corners": 3,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 52,
+        "possession": 49,
         "xg": 1.07,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 374,
-        "duelsWon": 41,
+        "accuratePasses": 380,
+        "duelsWon": 46,
         "boxTouches": 16,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 2,
         "offsides": 6,
         "saves": 2
@@ -785,6 +792,12 @@
           "teamId": "498",
           "playerName": "Luis Suárez",
           "method": "overhead kick"
+        },
+        {
+          "minute": "88'",
+          "type": "yellow-card",
+          "teamId": "498",
+          "playerName": "Nestory Irankunda"
         }
       ]
     }
