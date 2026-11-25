@@ -2,27 +2,27 @@
   "ELC": {
     "561961": {
       "home": {
-        "possession": 56,
-        "xg": 1.07,
-        "shots": 7,
+        "possession": 58,
+        "xg": 1.11,
+        "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 253,
-        "duelsWon": 33,
-        "boxTouches": 12,
-        "fouls": 10,
-        "corners": 3,
+        "accuratePasses": 294,
+        "duelsWon": 35,
+        "boxTouches": 18,
+        "fouls": 12,
+        "corners": 4,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 44,
-        "xg": 1.02,
+        "possession": 42,
+        "xg": 1.81,
         "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 199,
-        "duelsWon": 46,
+        "accuratePasses": 208,
+        "duelsWon": 50,
         "boxTouches": 18,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 0,
         "offsides": 1,
         "saves": 3
@@ -64,7 +64,7 @@
     "561962": {
       "home": {
         "possession": 58,
-        "xg": 1.12,
+        "xg": 1.15,
         "shots": 12,
         "shotsOnTarget": 4,
         "accuratePasses": 209,
@@ -80,8 +80,8 @@
         "xg": 0.33,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 135,
-        "duelsWon": 21,
+        "accuratePasses": 138,
+        "duelsWon": 22,
         "boxTouches": 7,
         "fouls": 3,
         "corners": 1,
@@ -119,29 +119,29 @@
     },
     "561963": {
       "home": {
-        "possession": 38,
-        "xg": 0.43,
-        "shots": 3,
+        "possession": 42,
+        "xg": 0.51,
+        "shots": 6,
         "shotsOnTarget": 0,
-        "accuratePasses": 212,
-        "duelsWon": 22,
-        "boxTouches": 8,
-        "fouls": 4,
+        "accuratePasses": 270,
+        "duelsWon": 25,
+        "boxTouches": 11,
+        "fouls": 5,
         "corners": 0,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 2
       },
       "away": {
-        "possession": 62,
-        "xg": 0.43,
-        "shots": 4,
+        "possession": 58,
+        "xg": 0.45,
+        "shots": 5,
         "shotsOnTarget": 3,
-        "accuratePasses": 366,
-        "duelsWon": 23,
+        "accuratePasses": 392,
+        "duelsWon": 27,
         "boxTouches": 9,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 2,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       },
       "events": [
@@ -163,32 +163,38 @@
           "type": "yellow-card",
           "teamId": "60",
           "playerName": "Akin Famewo"
+        },
+        {
+          "minute": "63'",
+          "type": "yellow-card",
+          "teamId": "74",
+          "playerName": "Rabby Nzingoula"
         }
       ]
     },
     "561964": {
       "home": {
-        "possession": 58,
+        "possession": 57,
         "xg": 0.49,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 247,
-        "duelsWon": 24,
-        "boxTouches": 14,
+        "accuratePasses": 270,
+        "duelsWon": 27,
+        "boxTouches": 15,
         "fouls": 4,
         "corners": 7,
         "offsides": 3,
         "saves": 4
       },
       "away": {
-        "possession": 42,
-        "xg": 1.93,
-        "shots": 13,
+        "possession": 43,
+        "xg": 2.27,
+        "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 166,
+        "accuratePasses": 188,
         "duelsWon": 29,
-        "boxTouches": 20,
-        "fouls": 4,
+        "boxTouches": 22,
+        "fouls": 6,
         "corners": 4,
         "offsides": 2,
         "saves": 3
@@ -219,6 +225,12 @@
           "teamId": "332",
           "playerName": "Jaydon Banel",
           "ownGoal": true
+        },
+        {
+          "minute": "56'",
+          "type": "yellow-card",
+          "teamId": "332",
+          "playerName": "Alexander Cochrane"
         }
       ]
     }
@@ -371,20 +383,20 @@
     },
     "575406": {
       "home": {
-        "possession": 59,
+        "possession": 60,
         "xg": 1.3,
         "shots": 13,
         "shotsOnTarget": 2,
-        "accuratePasses": 290,
+        "accuratePasses": 291,
         "duelsWon": 13,
-        "boxTouches": 28,
+        "boxTouches": 29,
         "fouls": 5,
         "corners": 6,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 41,
+        "possession": 40,
         "xg": 0.19,
         "shots": 3,
         "shotsOnTarget": 1,
@@ -499,10 +511,10 @@
         "xg": 0.57,
         "shots": 5,
         "shotsOnTarget": 2,
-        "accuratePasses": 197,
-        "duelsWon": 24,
-        "boxTouches": 9,
-        "fouls": 0,
+        "accuratePasses": 204,
+        "duelsWon": 25,
+        "boxTouches": 11,
+        "fouls": 1,
         "corners": 2,
         "offsides": 0,
         "saves": 5
@@ -515,7 +527,7 @@
         "accuratePasses": 374,
         "duelsWon": 7,
         "boxTouches": 13,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 3,
         "offsides": 2,
         "saves": 2
@@ -528,6 +540,12 @@
           "playerName": "Dayot Upamecano",
           "method": "header",
           "assist": "Tom Bischof"
+        },
+        {
+          "minute": "46'",
+          "type": "goal",
+          "teamId": "521",
+          "playerName": "Ayase Ueda"
         }
       ]
     },
@@ -537,7 +555,7 @@
         "xg": 1.89,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 165,
+        "accuratePasses": 169,
         "duelsWon": 19,
         "boxTouches": 18,
         "fouls": 6,
@@ -550,10 +568,10 @@
         "xg": 0.12,
         "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 273,
-        "duelsWon": 22,
+        "accuratePasses": 291,
+        "duelsWon": 24,
         "boxTouches": 12,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 0,
         "offsides": 4,
         "saves": 1
