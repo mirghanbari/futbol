@@ -2,26 +2,26 @@
   "CL": {
     "575404": {
       "home": {
-        "possession": 24,
+        "possession": 29,
         "xg": 0.37,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 100,
+        "accuratePasses": 139,
         "duelsWon": 19,
         "boxTouches": 8,
         "fouls": 4,
         "corners": 2,
         "offsides": 2,
-        "saves": 5
+        "saves": 6
       },
       "away": {
-        "possession": 76,
-        "xg": 1.65,
-        "shots": 14,
-        "shotsOnTarget": 7,
-        "accuratePasses": 391,
-        "duelsWon": 22,
-        "boxTouches": 27,
+        "possession": 71,
+        "xg": 2.95,
+        "shots": 17,
+        "shotsOnTarget": 9,
+        "accuratePasses": 413,
+        "duelsWon": 24,
+        "boxTouches": 32,
         "fouls": 4,
         "corners": 2,
         "offsides": 2,
@@ -40,32 +40,39 @@
           "teamId": "81",
           "playerName": "Anthony Gordon",
           "assist": "Gabriel Jesus"
+        },
+        {
+          "minute": "55'",
+          "type": "goal",
+          "teamId": "81",
+          "playerName": "Karim Adeyemi",
+          "assist": "Alejandro Balde"
         }
       ]
     },
     "575405": {
       "home": {
-        "possession": 44,
-        "xg": 0.17,
-        "shots": 4,
+        "possession": 46,
+        "xg": 0.27,
+        "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 135,
-        "duelsWon": 20,
-        "boxTouches": 17,
+        "accuratePasses": 162,
+        "duelsWon": 24,
+        "boxTouches": 20,
         "fouls": 9,
         "corners": 7,
         "offsides": 2,
-        "saves": 1
+        "saves": 2
       },
       "away": {
-        "possession": 56,
+        "possession": 54,
         "xg": 0.09,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 220,
-        "duelsWon": 30,
+        "accuratePasses": 231,
+        "duelsWon": 35,
         "boxTouches": 4,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 0,
         "offsides": 0,
         "saves": 1
