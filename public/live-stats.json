@@ -30,25 +30,26 @@
     },
     "561962": {
       "home": {
-        "possession": 73,
-        "xg": 0,
-        "shots": 0,
+        "possession": 66,
+        "xg": 0.04,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 16,
-        "duelsWon": 2,
+        "accuratePasses": 47,
+        "duelsWon": 5,
+        "boxTouches": 1,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 27,
-        "xg": 0.25,
+        "possession": 34,
+        "xg": 0.28,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 5,
-        "duelsWon": 4,
-        "boxTouches": 2,
+        "accuratePasses": 24,
+        "duelsWon": 5,
+        "boxTouches": 5,
         "fouls": 0,
         "corners": 1,
         "offsides": 0,
@@ -57,27 +58,27 @@
     },
     "561963": {
       "home": {
-        "possession": 25,
+        "possession": 31,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 34,
-        "duelsWon": 6,
-        "boxTouches": 1,
+        "accuratePasses": 70,
+        "duelsWon": 12,
+        "boxTouches": 3,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 2
       },
       "away": {
-        "possession": 75,
-        "xg": 0.04,
-        "shots": 2,
-        "shotsOnTarget": 2,
-        "accuratePasses": 138,
-        "duelsWon": 4,
-        "boxTouches": 2,
-        "fouls": 1,
+        "possession": 69,
+        "xg": 0.35,
+        "shots": 3,
+        "shotsOnTarget": 3,
+        "accuratePasses": 186,
+        "duelsWon": 7,
+        "boxTouches": 4,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -88,35 +89,42 @@
           "type": "yellow-card",
           "teamId": "74",
           "playerName": "Brayann Pereira"
+        },
+        {
+          "minute": "21'",
+          "type": "goal",
+          "teamId": "74",
+          "playerName": "Aune Selland Heggebø",
+          "assist": "Callum Styles"
         }
       ]
     },
     "561964": {
       "home": {
-        "possession": 53,
-        "xg": 0.05,
-        "shots": 3,
-        "shotsOnTarget": 2,
-        "accuratePasses": 82,
-        "duelsWon": 5,
-        "boxTouches": 3,
+        "possession": 52,
+        "xg": 0.3,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 94,
+        "duelsWon": 10,
+        "boxTouches": 5,
         "fouls": 0,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 47,
-        "xg": 0.96,
-        "shots": 2,
+        "possession": 48,
+        "xg": 0.97,
+        "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 74,
+        "accuratePasses": 87,
         "duelsWon": 8,
         "boxTouches": 3,
-        "fouls": 0,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -125,6 +133,12 @@
           "teamId": "332",
           "playerName": "August Priske",
           "assist": "Jay Stansfield"
+        },
+        {
+          "minute": "20'",
+          "type": "yellow-card",
+          "teamId": "332",
+          "playerName": "Jhon Solís"
         }
       ]
     }
@@ -277,99 +291,115 @@
     },
     "575406": {
       "home": {
-        "possession": 43,
+        "possession": 56,
         "xg": 0.03,
-        "shots": 0,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 21,
-        "duelsWon": 2,
-        "boxTouches": 1,
-        "fouls": 0,
-        "corners": 0,
+        "accuratePasses": 59,
+        "duelsWon": 3,
+        "boxTouches": 2,
+        "fouls": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 57,
-        "xg": 0,
-        "shots": 0,
+        "possession": 44,
+        "xg": 0.15,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 31,
-        "duelsWon": 2,
+        "accuratePasses": 46,
+        "duelsWon": 6,
+        "boxTouches": 6,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       }
     },
     "575408": {
       "home": {
-        "possession": 78,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 25,
-        "duelsWon": 2,
+        "possession": 57,
+        "xg": 0.02,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 44,
+        "duelsWon": 6,
         "boxTouches": 1,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 22,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 3,
-        "duelsWon": 0,
-        "fouls": 2,
+        "possession": 43,
+        "xg": 0.79,
+        "shots": 1,
+        "shotsOnTarget": 1,
+        "accuratePasses": 28,
+        "duelsWon": 6,
+        "boxTouches": 4,
+        "fouls": 4,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
-      }
+        "saves": 1
+      },
+      "events": [
+        {
+          "minute": "5'",
+          "type": "goal",
+          "teamId": "100",
+          "playerName": "Mario Hermoso",
+          "assist": "Matías Soulé"
+        }
+      ]
     },
     "575409": {
       "home": {
-        "possession": 8,
+        "possession": 22,
+        "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 0,
-        "duelsWon": 1,
-        "fouls": 0,
+        "accuratePasses": 14,
+        "duelsWon": 2,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 92,
-        "shots": 0,
+        "possession": 78,
+        "xg": 0.1,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 9,
-        "duelsWon": 1,
+        "accuratePasses": 64,
+        "duelsWon": 3,
+        "boxTouches": 2,
         "fouls": 0,
-        "corners": 0,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       }
     },
     "575410": {
       "home": {
-        "possession": 50,
+        "possession": 27,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 6,
-        "duelsWon": 2,
+        "accuratePasses": 31,
+        "duelsWon": 5,
         "fouls": 0,
         "corners": 0,
         "offsides": 0,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 50,
+        "possession": 73,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 6,
-        "duelsWon": 0,
-        "fouls": 1,
+        "accuratePasses": 97,
+        "duelsWon": 2,
+        "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
@@ -377,26 +407,27 @@
     },
     "575411": {
       "home": {
-        "possession": 20,
+        "possession": 32,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 7,
-        "duelsWon": 0,
+        "accuratePasses": 31,
+        "duelsWon": 2,
+        "boxTouches": 4,
         "fouls": 2,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 80,
+        "possession": 68,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 33,
-        "duelsWon": 3,
-        "boxTouches": 1,
-        "fouls": 0,
+        "accuratePasses": 70,
+        "duelsWon": 4,
+        "boxTouches": 2,
+        "fouls": 2,
         "corners": 0,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 0
       }
     }
