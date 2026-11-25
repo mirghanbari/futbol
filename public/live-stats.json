@@ -6,23 +6,23 @@
         "xg": 0.37,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 88,
-        "duelsWon": 16,
+        "accuratePasses": 95,
+        "duelsWon": 19,
         "boxTouches": 7,
         "fouls": 3,
         "corners": 1,
-        "offsides": 1,
-        "saves": 3
+        "offsides": 2,
+        "saves": 4
       },
       "away": {
         "possession": 75,
-        "xg": 0.91,
-        "shots": 9,
-        "shotsOnTarget": 4,
-        "accuratePasses": 328,
-        "duelsWon": 17,
-        "boxTouches": 13,
-        "fouls": 3,
+        "xg": 0.99,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 353,
+        "duelsWon": 19,
+        "boxTouches": 20,
+        "fouls": 4,
         "corners": 2,
         "offsides": 2,
         "saves": 1
@@ -38,27 +38,27 @@
     },
     "575405": {
       "home": {
-        "possession": 43,
-        "xg": 0.05,
-        "shots": 2,
-        "shotsOnTarget": 0,
-        "accuratePasses": 103,
-        "duelsWon": 16,
-        "boxTouches": 13,
+        "possession": 44,
+        "xg": 0.11,
+        "shots": 3,
+        "shotsOnTarget": 1,
+        "accuratePasses": 108,
+        "duelsWon": 18,
+        "boxTouches": 14,
         "fouls": 8,
         "corners": 7,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 57,
+        "possession": 56,
         "xg": 0.09,
         "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 173,
+        "accuratePasses": 174,
         "duelsWon": 28,
         "boxTouches": 4,
-        "fouls": 6,
+        "fouls": 7,
         "corners": 0,
         "offsides": 0,
         "saves": 1
@@ -81,6 +81,12 @@
           "type": "yellow-card",
           "teamId": "930",
           "playerName": "Ange N'Guessan"
+        },
+        {
+          "minute": "45'+2'",
+          "type": "yellow-card",
+          "teamId": "94",
+          "playerName": "Renato Veiga"
         }
       ]
     }
