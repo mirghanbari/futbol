@@ -3,27 +3,27 @@
     "575404": {
       "home": {
         "possession": 28,
-        "xg": 1.22,
+        "xg": 1.19,
         "shots": 8,
         "shotsOnTarget": 3,
-        "accuratePasses": 213,
+        "accuratePasses": 215,
         "duelsWon": 29,
         "boxTouches": 18,
         "fouls": 9,
         "corners": 4,
-        "offsides": 3,
-        "saves": 8
+        "offsides": 4,
+        "saves": 9
       },
       "away": {
         "possession": 72,
-        "xg": 4,
-        "shots": 23,
-        "shotsOnTarget": 13,
-        "accuratePasses": 633,
+        "xg": 4.06,
+        "shots": 25,
+        "shotsOnTarget": 14,
+        "accuratePasses": 637,
         "duelsWon": 37,
-        "boxTouches": 41,
+        "boxTouches": 42,
         "fouls": 8,
-        "corners": 4,
+        "corners": 6,
         "offsides": 2,
         "saves": 2
       },
@@ -68,31 +68,32 @@
           "teamId": "10233",
           "playerName": "Ivan Lepinjica"
         }
-      ]
+      ],
+      "final": true
     },
     "575405": {
       "home": {
-        "possession": 51,
+        "possession": 52,
         "xg": 1.16,
         "shots": 13,
         "shotsOnTarget": 1,
-        "accuratePasses": 299,
-        "duelsWon": 44,
+        "accuratePasses": 313,
+        "duelsWon": 48,
         "boxTouches": 39,
         "fouls": 12,
         "corners": 13,
         "offsides": 3,
-        "saves": 2
+        "saves": 4
       },
       "away": {
-        "possession": 49,
-        "xg": 0.5,
-        "shots": 5,
-        "shotsOnTarget": 3,
-        "accuratePasses": 314,
-        "duelsWon": 50,
-        "boxTouches": 13,
-        "fouls": 13,
+        "possession": 48,
+        "xg": 0.63,
+        "shots": 7,
+        "shotsOnTarget": 5,
+        "accuratePasses": 320,
+        "duelsWon": 52,
+        "boxTouches": 15,
+        "fouls": 15,
         "corners": 0,
         "offsides": 1,
         "saves": 1
@@ -128,6 +129,18 @@
           "teamId": "94",
           "playerName": "Tajon Buchanan",
           "assist": "Ayoze Pérez"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "94",
+          "playerName": "Tajon Buchanan"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "yellow-card",
+          "teamId": "94",
+          "playerName": "Carlos Romero"
         }
       ]
     }
