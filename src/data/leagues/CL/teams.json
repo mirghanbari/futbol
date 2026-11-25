@@ -1,5 +1,13 @@
 [
   {
+    "id": "86",
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "tla": "RMA",
+    "crest": "https://crests.football-data.org/86.png",
+    "competitionId": "CL"
+  },
+  {
     "id": "524",
     "name": "Paris Saint-Germain FC",
     "shortName": "PSG",
@@ -8,11 +16,19 @@
     "competitionId": "CL"
   },
   {
-    "id": "86",
-    "name": "Real Madrid CF",
-    "shortName": "Real Madrid",
-    "tla": "RMA",
-    "crest": "https://crests.football-data.org/86.png",
+    "id": "7397",
+    "name": "Como 1907",
+    "shortName": "Como 1907",
+    "tla": "COM",
+    "crest": "https://crests.football-data.org/7397.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "90",
+    "name": "Real Betis Balompié",
+    "shortName": "Real Betis",
+    "tla": "BET",
+    "crest": "https://crests.football-data.org/90.png",
     "competitionId": "CL"
   },
   {
@@ -24,11 +40,19 @@
     "competitionId": "CL"
   },
   {
-    "id": "7397",
-    "name": "Como 1907",
-    "shortName": "Como 1907",
-    "tla": "COM",
-    "crest": "https://crests.football-data.org/7397.png",
+    "id": "65",
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI",
+    "crest": "https://crests.football-data.org/65.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "4",
+    "name": "Borussia Dortmund",
+    "shortName": "Dortmund",
+    "tla": "BVB",
+    "crest": "https://crests.football-data.org/4.png",
     "competitionId": "CL"
   },
   {
@@ -45,14 +69,6 @@
     "shortName": "Aston Villa",
     "tla": "AVL",
     "crest": "https://crests.football-data.org/58.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "65",
-    "name": "Manchester City FC",
-    "shortName": "Man City",
-    "tla": "MCI",
-    "crest": "https://crests.football-data.org/65.png",
     "competitionId": "CL"
   },
   {
@@ -80,19 +96,11 @@
     "competitionId": "CL"
   },
   {
-    "id": "90",
-    "name": "Real Betis Balompié",
-    "shortName": "Real Betis",
-    "tla": "BET",
-    "crest": "https://crests.football-data.org/90.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "4",
-    "name": "Borussia Dortmund",
-    "shortName": "Dortmund",
-    "tla": "BVB",
-    "crest": "https://crests.football-data.org/4.png",
+    "id": "610",
+    "name": "Galatasaray SK",
+    "shortName": "Galatasaray",
+    "tla": "GAL",
+    "crest": "https://crests.football-data.org/610.png",
     "competitionId": "CL"
   },
   {
@@ -109,6 +117,14 @@
     "shortName": "Stuttgart",
     "tla": "VFB",
     "crest": "https://crests.football-data.org/10.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "5721",
+    "name": "FK Bodø/Glimt",
+    "shortName": "Bodø/Glimt",
+    "tla": "FK",
+    "crest": "https://crests.football-data.org/5721.png",
     "competitionId": "CL"
   },
   {
@@ -136,11 +152,19 @@
     "competitionId": "CL"
   },
   {
-    "id": "610",
-    "name": "Galatasaray SK",
-    "shortName": "Galatasaray",
-    "tla": "GAL",
-    "crest": "https://crests.football-data.org/610.png",
+    "id": "503",
+    "name": "FC Porto",
+    "shortName": "Porto",
+    "tla": "FCP",
+    "crest": "https://crests.football-data.org/503.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "721",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
     "competitionId": "CL"
   },
   {
@@ -184,35 +208,19 @@
     "competitionId": "CL"
   },
   {
-    "id": "674",
-    "name": "PSV",
-    "shortName": "PSV",
-    "tla": "PSV",
-    "crest": "https://crests.football-data.org/674.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "5721",
-    "name": "FK Bodø/Glimt",
-    "shortName": "Bodø/Glimt",
-    "tla": "FK",
-    "crest": "https://crests.football-data.org/5721.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "503",
-    "name": "FC Porto",
-    "shortName": "Porto",
-    "tla": "FCP",
-    "crest": "https://crests.football-data.org/503.png",
-    "competitionId": "CL"
-  },
-  {
     "id": "113",
     "name": "SSC Napoli",
     "shortName": "Napoli",
     "tla": "NAP",
     "crest": "https://crests.football-data.org/113.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "674",
+    "name": "PSV",
+    "shortName": "PSV",
+    "tla": "PSV",
+    "crest": "https://crests.football-data.org/674.png",
     "competitionId": "CL"
   },
   {
@@ -224,27 +232,19 @@
     "competitionId": "CL"
   },
   {
-    "id": "1899",
-    "name": "PAE AEK",
-    "shortName": "PAE AEK",
-    "tla": "AEK",
-    "crest": "https://crests.football-data.org/1899.png",
-    "competitionId": "CL"
-  },
-  {
-    "id": "721",
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL",
-    "crest": "https://crests.football-data.org/721.png",
-    "competitionId": "CL"
-  },
-  {
     "id": "10233",
     "name": "Sabah FK",
     "shortName": "Sabah FK",
     "tla": "SAB",
     "crest": "https://crests.football-data.org/10233.png",
+    "competitionId": "CL"
+  },
+  {
+    "id": "1899",
+    "name": "PAE AEK",
+    "shortName": "PAE AEK",
+    "tla": "AEK",
+    "crest": "https://crests.football-data.org/1899.png",
     "competitionId": "CL"
   },
   {
