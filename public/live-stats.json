@@ -613,9 +613,9 @@
         "xg": 1.15,
         "shots": 17,
         "shotsOnTarget": 5,
-        "accuratePasses": 459,
+        "accuratePasses": 458,
         "duelsWon": 49,
-        "boxTouches": 31,
+        "boxTouches": 32,
         "fouls": 9,
         "corners": 8,
         "offsides": 3,
@@ -627,7 +627,7 @@
         "shots": 13,
         "shotsOnTarget": 4,
         "accuratePasses": 388,
-        "duelsWon": 45,
+        "duelsWon": 46,
         "boxTouches": 39,
         "fouls": 13,
         "corners": 4,
@@ -643,7 +643,7 @@
           "assist": "Dominik Szoboszlai"
         },
         {
-          "minute": "64'",
+          "minute": "63'",
           "type": "yellow-card",
           "teamId": "64",
           "playerName": "Andoni Iraola"
@@ -656,13 +656,14 @@
           "assist": "Rio Ngumoha"
         },
         {
-          "minute": "83'",
+          "minute": "82'",
           "type": "goal",
           "teamId": "64",
           "playerName": "Alexander Isak",
           "assist": "Alisson Becker"
         }
-      ]
+      ],
+      "final": true
     },
     "575410": {
       "home": {
@@ -815,7 +816,8 @@
           "teamId": "66",
           "playerName": "Youri Tielemans"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
