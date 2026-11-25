@@ -3105,14 +3105,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-24T17:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "610",
     "awayTeamId": "58",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 45,
+        "xg": 0.49,
+        "shots": 9,
+        "shotsOnTarget": 2,
+        "accuratePasses": 290,
+        "duelsWon": 52,
+        "boxTouches": 16,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 55,
+        "xg": 0.59,
+        "shots": 4,
+        "shotsOnTarget": 0,
+        "accuratePasses": 387,
+        "duelsWon": 40,
+        "boxTouches": 12,
+        "fouls": 12,
+        "corners": 1,
+        "offsides": 2,
+        "saves": 1
+      }
     },
     "venue": "RAMS Park, Istanbul",
     "broadcasts": [
@@ -3129,11 +3157,11 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-24T17:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "5721",
     "awayTeamId": "2016",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
@@ -3153,14 +3181,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-24T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "86",
     "awayTeamId": "674",
     "homeTeam": {
-      "goals": 0
+      "goals": 5
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 62,
+        "xg": 4.89,
+        "shots": 24,
+        "shotsOnTarget": 9,
+        "accuratePasses": 571,
+        "duelsWon": 52,
+        "boxTouches": 51,
+        "fouls": 6,
+        "corners": 4,
+        "offsides": 4,
+        "saves": 0
+      },
+      "away": {
+        "possession": 38,
+        "xg": 1.75,
+        "shots": 10,
+        "shotsOnTarget": 1,
+        "accuratePasses": 318,
+        "duelsWon": 39,
+        "boxTouches": 17,
+        "fouls": 11,
+        "corners": 1,
+        "offsides": 0,
+        "saves": 4
+      }
     },
     "venue": "Santiago Bernabéu, Madrid",
     "broadcasts": [
@@ -3177,14 +3233,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-24T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "65",
     "awayTeamId": "113",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 1.34,
+        "shots": 18,
+        "shotsOnTarget": 7,
+        "accuratePasses": 611,
+        "duelsWon": 44,
+        "boxTouches": 61,
+        "fouls": 9,
+        "corners": 9,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 37,
+        "xg": 0.71,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 330,
+        "duelsWon": 37,
+        "boxTouches": 20,
+        "fouls": 9,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "Etihad Stadium, Manchester",
     "broadcasts": [
@@ -3201,14 +3285,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-24T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "57",
     "awayTeamId": "4",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 63,
+        "xg": 2.83,
+        "shots": 30,
+        "shotsOnTarget": 4,
+        "accuratePasses": 502,
+        "duelsWon": 60,
+        "boxTouches": 55,
+        "fouls": 7,
+        "corners": 8,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 37,
+        "xg": 1.15,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 272,
+        "duelsWon": 46,
+        "boxTouches": 22,
+        "fouls": 13,
+        "corners": 5,
+        "offsides": 4,
+        "saves": 3
+      }
     },
     "venue": "Emirates Stadium, London",
     "broadcasts": [
@@ -3225,14 +3337,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-24T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "675",
     "awayTeamId": "503",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 57,
+        "xg": 1.07,
+        "shots": 21,
+        "shotsOnTarget": 7,
+        "accuratePasses": 434,
+        "duelsWon": 52,
+        "boxTouches": 31,
+        "fouls": 10,
+        "corners": 8,
+        "offsides": 0,
+        "saves": 3
+      },
+      "away": {
+        "possession": 43,
+        "xg": 0.85,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 332,
+        "duelsWon": 46,
+        "boxTouches": 17,
+        "fouls": 13,
+        "corners": 4,
+        "offsides": 3,
+        "saves": 6
+      }
     },
     "venue": "De Kuip, Rotterdam",
     "broadcasts": [
@@ -3249,14 +3389,14 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-24T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7509",
     "awayTeamId": "90",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
     }
   },
   {
@@ -3266,14 +3406,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-24T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "721",
     "awayTeamId": "546",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 1.86,
+        "shots": 16,
+        "shotsOnTarget": 7,
+        "accuratePasses": 492,
+        "duelsWon": 46,
+        "boxTouches": 31,
+        "fouls": 12,
+        "corners": 10,
+        "offsides": 0,
+        "saves": 2
+      },
+      "away": {
+        "possession": 41,
+        "xg": 1.05,
+        "shots": 11,
+        "shotsOnTarget": 3,
+        "accuratePasses": 310,
+        "duelsWon": 49,
+        "boxTouches": 19,
+        "fouls": 13,
+        "corners": 4,
+        "offsides": 4,
+        "saves": 4
+      }
     },
     "venue": "Red Bull Arena, Leipzig",
     "broadcasts": [
@@ -3290,11 +3458,11 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-24T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "7397",
     "awayTeamId": "1899",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
       "goals": 0
