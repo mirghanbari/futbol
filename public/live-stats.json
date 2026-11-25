@@ -3,14 +3,14 @@
     "561961": {
       "home": {
         "possession": 48,
-        "xg": 1.14,
-        "shots": 10,
+        "xg": 1.19,
+        "shots": 12,
         "shotsOnTarget": 3,
         "accuratePasses": 347,
         "duelsWon": 58,
         "boxTouches": 20,
         "fouls": 14,
-        "corners": 4,
+        "corners": 5,
         "offsides": 1,
         "saves": 4
       },
@@ -19,8 +19,8 @@
         "xg": 2.34,
         "shots": 17,
         "shotsOnTarget": 5,
-        "accuratePasses": 392,
-        "duelsWon": 68,
+        "accuratePasses": 393,
+        "duelsWon": 69,
         "boxTouches": 37,
         "fouls": 12,
         "corners": 4,
@@ -71,31 +71,32 @@
           "teamId": "59",
           "playerName": "Kristi Montgomery"
         }
-      ]
+      ],
+      "final": true
     },
     "561962": {
       "home": {
-        "possession": 54,
-        "xg": 1.49,
+        "possession": 51,
+        "xg": 1.5,
         "shots": 19,
         "shotsOnTarget": 6,
-        "accuratePasses": 346,
-        "duelsWon": 29,
+        "accuratePasses": 356,
+        "duelsWon": 32,
         "boxTouches": 24,
-        "fouls": 5,
+        "fouls": 7,
         "corners": 2,
         "offsides": 0,
         "saves": 3
       },
       "away": {
-        "possession": 46,
-        "xg": 1.25,
-        "shots": 13,
-        "shotsOnTarget": 3,
-        "accuratePasses": 268,
-        "duelsWon": 31,
-        "boxTouches": 22,
-        "fouls": 8,
+        "possession": 49,
+        "xg": 1.29,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 322,
+        "duelsWon": 33,
+        "boxTouches": 24,
+        "fouls": 9,
         "corners": 5,
         "offsides": 1,
         "saves": 4
@@ -132,6 +133,13 @@
           "type": "yellow-card",
           "teamId": "384",
           "playerName": "Daniel Kelly"
+        },
+        {
+          "minute": "81'",
+          "type": "goal",
+          "teamId": "384",
+          "playerName": "Mark Sykes",
+          "assist": "Jake Cooper"
         }
       ]
     },
@@ -223,8 +231,8 @@
         "xg": 1.05,
         "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 403,
-        "duelsWon": 36,
+        "accuratePasses": 410,
+        "duelsWon": 38,
         "boxTouches": 25,
         "fouls": 10,
         "corners": 9,
@@ -239,7 +247,7 @@
         "accuratePasses": 295,
         "duelsWon": 51,
         "boxTouches": 35,
-        "fouls": 9,
+        "fouls": 11,
         "corners": 7,
         "offsides": 2,
         "saves": 4
@@ -301,7 +309,8 @@
           "teamId": "328",
           "playerName": "Marcus Edwards"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "CL": {
@@ -452,27 +461,27 @@
     },
     "575406": {
       "home": {
-        "possession": 53,
-        "xg": 2.38,
-        "shots": 16,
+        "possession": 54,
+        "xg": 2.45,
+        "shots": 17,
         "shotsOnTarget": 5,
-        "accuratePasses": 381,
-        "duelsWon": 25,
-        "boxTouches": 35,
+        "accuratePasses": 427,
+        "duelsWon": 28,
+        "boxTouches": 39,
         "fouls": 8,
         "corners": 9,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 47,
-        "xg": 0.82,
-        "shots": 8,
+        "possession": 46,
+        "xg": 0.97,
+        "shots": 10,
         "shotsOnTarget": 2,
-        "accuratePasses": 336,
-        "duelsWon": 31,
-        "boxTouches": 17,
-        "fouls": 9,
+        "accuratePasses": 357,
+        "duelsWon": 34,
+        "boxTouches": 20,
+        "fouls": 10,
         "corners": 4,
         "offsides": 1,
         "saves": 3
@@ -514,26 +523,26 @@
     },
     "575408": {
       "home": {
-        "possession": 68,
-        "xg": 1.31,
-        "shots": 8,
+        "possession": 67,
+        "xg": 1.33,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 522,
+        "accuratePasses": 554,
         "duelsWon": 34,
-        "boxTouches": 18,
+        "boxTouches": 19,
         "fouls": 5,
-        "corners": 2,
+        "corners": 3,
         "offsides": 1,
         "saves": 2
       },
       "away": {
-        "possession": 32,
-        "xg": 2.44,
-        "shots": 12,
+        "possession": 33,
+        "xg": 2.69,
+        "shots": 13,
         "shotsOnTarget": 4,
-        "accuratePasses": 204,
-        "duelsWon": 32,
-        "boxTouches": 23,
+        "accuratePasses": 231,
+        "duelsWon": 34,
+        "boxTouches": 25,
         "fouls": 18,
         "corners": 4,
         "offsides": 0,
@@ -585,30 +594,30 @@
     },
     "575409": {
       "home": {
-        "possession": 51,
-        "xg": 0.87,
-        "shots": 13,
-        "shotsOnTarget": 4,
-        "accuratePasses": 360,
-        "duelsWon": 38,
-        "boxTouches": 27,
+        "possession": 53,
+        "xg": 1.05,
+        "shots": 15,
+        "shotsOnTarget": 5,
+        "accuratePasses": 404,
+        "duelsWon": 46,
+        "boxTouches": 30,
         "fouls": 7,
         "corners": 6,
         "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 49,
-        "xg": 1.29,
-        "shots": 10,
-        "shotsOnTarget": 2,
-        "accuratePasses": 353,
-        "duelsWon": 40,
-        "boxTouches": 35,
-        "fouls": 11,
+        "possession": 47,
+        "xg": 1.36,
+        "shots": 12,
+        "shotsOnTarget": 4,
+        "accuratePasses": 359,
+        "duelsWon": 41,
+        "boxTouches": 36,
+        "fouls": 13,
         "corners": 3,
         "offsides": 0,
-        "saves": 4
+        "saves": 5
       },
       "events": [
         {
@@ -623,34 +632,47 @@
           "type": "yellow-card",
           "teamId": "64",
           "playerName": "Andoni Iraola"
+        },
+        {
+          "minute": "79'",
+          "type": "goal",
+          "teamId": "64",
+          "playerName": "Florian Wirtz",
+          "assist": "Rio Ngumoha"
+        },
+        {
+          "minute": "83'",
+          "type": "goal",
+          "teamId": "64",
+          "playerName": "Alexander Isak"
         }
       ]
     },
     "575410": {
       "home": {
-        "possession": 37,
-        "xg": 1.64,
-        "shots": 12,
+        "possession": 36,
+        "xg": 2.07,
+        "shots": 14,
         "shotsOnTarget": 3,
-        "accuratePasses": 315,
-        "duelsWon": 40,
-        "boxTouches": 23,
+        "accuratePasses": 322,
+        "duelsWon": 44,
+        "boxTouches": 25,
         "fouls": 2,
         "corners": 3,
         "offsides": 0,
         "saves": 7
       },
       "away": {
-        "possession": 63,
+        "possession": 64,
         "xg": 1.1,
-        "shots": 8,
+        "shots": 9,
         "shotsOnTarget": 7,
-        "accuratePasses": 585,
-        "duelsWon": 18,
-        "boxTouches": 16,
+        "accuratePasses": 629,
+        "duelsWon": 19,
+        "boxTouches": 18,
         "fouls": 10,
-        "corners": 3,
-        "offsides": 3,
+        "corners": 4,
+        "offsides": 4,
         "saves": 2
       },
       "events": [
@@ -693,12 +715,12 @@
     "575411": {
       "home": {
         "possession": 48,
-        "xg": 1.95,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 349,
-        "duelsWon": 30,
-        "boxTouches": 22,
+        "xg": 2.41,
+        "shots": 9,
+        "shotsOnTarget": 4,
+        "accuratePasses": 351,
+        "duelsWon": 32,
+        "boxTouches": 23,
         "fouls": 13,
         "corners": 3,
         "offsides": 1,
@@ -709,11 +731,11 @@
         "xg": 1.07,
         "shots": 7,
         "shotsOnTarget": 2,
-        "accuratePasses": 373,
-        "duelsWon": 39,
+        "accuratePasses": 374,
+        "duelsWon": 41,
         "boxTouches": 16,
-        "fouls": 8,
-        "corners": 1,
+        "fouls": 10,
+        "corners": 2,
         "offsides": 6,
         "saves": 2
       },
@@ -761,7 +783,8 @@
           "minute": "80'",
           "type": "goal",
           "teamId": "498",
-          "playerName": "Luis Suárez"
+          "playerName": "Luis Suárez",
+          "method": "overhead kick"
         }
       ]
     }
