@@ -2072,58 +2072,6 @@
     "venue": "Fratton Park, Portsmouth"
   },
   {
-    "id": "561803",
-    "competitionId": "ELC",
-    "season": "2026",
-    "matchday": 4,
-    "stage": "regular",
-    "utcDate": "2026-09-01T18:45:00Z",
-    "status": "finished",
-    "homeTeamId": "332",
-    "awayTeamId": "340",
-    "homeTeam": {
-      "goals": 1
-    },
-    "awayTeam": {
-      "goals": 1
-    },
-    "stats": {
-      "home": {
-        "possession": 37,
-        "xg": 1.55,
-        "shots": 16,
-        "shotsOnTarget": 4,
-        "accuratePasses": 197,
-        "duelsWon": 44,
-        "boxTouches": 28,
-        "fouls": 12,
-        "corners": 3,
-        "offsides": 2,
-        "saves": 3
-      },
-      "away": {
-        "possession": 63,
-        "xg": 1.02,
-        "shots": 13,
-        "shotsOnTarget": 4,
-        "accuratePasses": 407,
-        "duelsWon": 54,
-        "boxTouches": 20,
-        "fouls": 8,
-        "corners": 5,
-        "offsides": 5,
-        "saves": 3
-      }
-    },
-    "venue": "St. Andrew's Stadium, Birmingham",
-    "broadcasts": [
-      {
-        "name": "Paramount+",
-        "kind": "streaming"
-      }
-    ]
-  },
-  {
     "id": "561804",
     "competitionId": "ELC",
     "season": "2026",
@@ -2214,6 +2162,58 @@
       }
     },
     "venue": "bet365 Stadium, Stoke-on-Trent",
+    "broadcasts": [
+      {
+        "name": "Paramount+",
+        "kind": "streaming"
+      }
+    ]
+  },
+  {
+    "id": "561803",
+    "competitionId": "ELC",
+    "season": "2026",
+    "matchday": 4,
+    "stage": "regular",
+    "utcDate": "2026-09-01T19:00:00Z",
+    "status": "finished",
+    "homeTeamId": "332",
+    "awayTeamId": "340",
+    "homeTeam": {
+      "goals": 1
+    },
+    "awayTeam": {
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 37,
+        "xg": 1.55,
+        "shots": 16,
+        "shotsOnTarget": 4,
+        "accuratePasses": 197,
+        "duelsWon": 44,
+        "boxTouches": 28,
+        "fouls": 12,
+        "corners": 3,
+        "offsides": 2,
+        "saves": 3
+      },
+      "away": {
+        "possession": 63,
+        "xg": 1.02,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 407,
+        "duelsWon": 54,
+        "boxTouches": 20,
+        "fouls": 8,
+        "corners": 5,
+        "offsides": 5,
+        "saves": 3
+      }
+    },
+    "venue": "St. Andrew's Stadium, Birmingham",
     "broadcasts": [
       {
         "name": "Paramount+",
@@ -10012,14 +10012,42 @@
     "matchday": 17,
     "stage": "regular",
     "utcDate": "2026-11-25T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "346",
     "awayTeamId": "59",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 48,
+        "xg": 1.19,
+        "shots": 12,
+        "shotsOnTarget": 3,
+        "accuratePasses": 348,
+        "duelsWon": 58,
+        "boxTouches": 21,
+        "fouls": 14,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 4
+      },
+      "away": {
+        "possession": 52,
+        "xg": 2.34,
+        "shots": 17,
+        "shotsOnTarget": 5,
+        "accuratePasses": 393,
+        "duelsWon": 69,
+        "boxTouches": 37,
+        "fouls": 12,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 3
+      }
     },
     "venue": "Vicarage Road, Watford"
   },
@@ -10030,14 +10058,42 @@
     "matchday": 17,
     "stage": "regular",
     "utcDate": "2026-11-25T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "60",
     "awayTeamId": "74",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 47,
+        "xg": 1.53,
+        "shots": 10,
+        "shotsOnTarget": 2,
+        "accuratePasses": 416,
+        "duelsWon": 41,
+        "boxTouches": 21,
+        "fouls": 10,
+        "corners": 1,
+        "offsides": 3,
+        "saves": 4
+      },
+      "away": {
+        "possession": 53,
+        "xg": 1.77,
+        "shots": 10,
+        "shotsOnTarget": 7,
+        "accuratePasses": 476,
+        "duelsWon": 41,
+        "boxTouches": 21,
+        "fouls": 15,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 1
+      }
     },
     "venue": "Toughsheet Community Stadium, Bolton"
   },
@@ -10048,14 +10104,42 @@
     "matchday": 17,
     "stage": "regular",
     "utcDate": "2026-11-25T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "328",
     "awayTeamId": "332",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 56,
+        "xg": 1.05,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 409,
+        "duelsWon": 40,
+        "boxTouches": 25,
+        "fouls": 10,
+        "corners": 9,
+        "offsides": 7,
+        "saves": 8
+      },
+      "away": {
+        "possession": 44,
+        "xg": 3.3,
+        "shots": 19,
+        "shotsOnTarget": 8,
+        "accuratePasses": 295,
+        "duelsWon": 51,
+        "boxTouches": 35,
+        "fouls": 11,
+        "corners": 7,
+        "offsides": 2,
+        "saves": 4
+      }
     },
     "venue": "Turf Moor, Burnley",
     "broadcasts": [
@@ -10072,14 +10156,42 @@
     "matchday": 17,
     "stage": "regular",
     "utcDate": "2026-11-25T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "70",
     "awayTeamId": "384",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 50,
+        "xg": 1.61,
+        "shots": 20,
+        "shotsOnTarget": 6,
+        "accuratePasses": 371,
+        "duelsWon": 37,
+        "boxTouches": 24,
+        "fouls": 7,
+        "corners": 2,
+        "offsides": 1,
+        "saves": 3
+      },
+      "away": {
+        "possession": 50,
+        "xg": 1.29,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 346,
+        "duelsWon": 39,
+        "boxTouches": 24,
+        "fouls": 12,
+        "corners": 5,
+        "offsides": 1,
+        "saves": 4
+      }
     },
     "venue": "bet365 Stadium, Stoke-on-Trent",
     "broadcasts": [

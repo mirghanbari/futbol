@@ -3475,14 +3475,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-25T17:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "10233",
     "awayTeamId": "81",
     "homeTeam": {
-      "goals": 0
+      "goals": 1
     },
     "awayTeam": {
-      "goals": 1
+      "goals": 4
+    },
+    "stats": {
+      "home": {
+        "possession": 29,
+        "xg": 1.14,
+        "shots": 8,
+        "shotsOnTarget": 3,
+        "accuratePasses": 215,
+        "duelsWon": 30,
+        "boxTouches": 18,
+        "fouls": 9,
+        "corners": 4,
+        "offsides": 4,
+        "saves": 9
+      },
+      "away": {
+        "possession": 71,
+        "xg": 4.13,
+        "shots": 25,
+        "shotsOnTarget": 14,
+        "accuratePasses": 634,
+        "duelsWon": 38,
+        "boxTouches": 42,
+        "fouls": 8,
+        "corners": 6,
+        "offsides": 2,
+        "saves": 2
+      }
     },
     "venue": "Baku Olympic Stadium, Baku",
     "broadcasts": [
@@ -3499,14 +3527,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-25T17:45:00Z",
-    "status": "in-play",
+    "status": "finished",
     "homeTeamId": "930",
     "awayTeamId": "94",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 52,
+        "xg": 0.97,
+        "shots": 13,
+        "shotsOnTarget": 1,
+        "accuratePasses": 313,
+        "duelsWon": 48,
+        "boxTouches": 39,
+        "fouls": 12,
+        "corners": 13,
+        "offsides": 3,
+        "saves": 4
+      },
+      "away": {
+        "possession": 48,
+        "xg": 1.05,
+        "shots": 7,
+        "shotsOnTarget": 5,
+        "accuratePasses": 320,
+        "duelsWon": 54,
+        "boxTouches": 15,
+        "fouls": 15,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 1
+      }
     },
     "venue": "Fortuna Arena, Prague",
     "broadcasts": [
@@ -3523,14 +3579,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-25T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "108",
     "awayTeamId": "10",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 2.57,
+        "shots": 20,
+        "shotsOnTarget": 5,
+        "accuratePasses": 434,
+        "duelsWon": 32,
+        "boxTouches": 41,
+        "fouls": 9,
+        "corners": 11,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.06,
+        "shots": 13,
+        "shotsOnTarget": 2,
+        "accuratePasses": 413,
+        "duelsWon": 38,
+        "boxTouches": 28,
+        "fouls": 10,
+        "corners": 6,
+        "offsides": 1,
+        "saves": 3
+      }
     },
     "venue": "San Siro, Milano",
     "broadcasts": [
@@ -3547,11 +3631,11 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-25T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "78",
     "awayTeamId": "5720",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
       "goals": 0
@@ -3571,14 +3655,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-25T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "524",
     "awayTeamId": "100",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 66,
+        "xg": 1.78,
+        "shots": 15,
+        "shotsOnTarget": 4,
+        "accuratePasses": 623,
+        "duelsWon": 39,
+        "boxTouches": 29,
+        "fouls": 5,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 2
+      },
+      "away": {
+        "possession": 34,
+        "xg": 2.69,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 270,
+        "duelsWon": 41,
+        "boxTouches": 27,
+        "fouls": 18,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 2
+      }
     },
     "venue": "Parc des Princes, Paris",
     "broadcasts": [
@@ -3595,14 +3707,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-25T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "851",
     "awayTeamId": "64",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 54,
+        "xg": 1.15,
+        "shots": 17,
+        "shotsOnTarget": 5,
+        "accuratePasses": 459,
+        "duelsWon": 47,
+        "boxTouches": 32,
+        "fouls": 9,
+        "corners": 8,
+        "offsides": 3,
+        "saves": 1
+      },
+      "away": {
+        "possession": 46,
+        "xg": 1.97,
+        "shots": 13,
+        "shotsOnTarget": 4,
+        "accuratePasses": 387,
+        "duelsWon": 47,
+        "boxTouches": 39,
+        "fouls": 13,
+        "corners": 4,
+        "offsides": 0,
+        "saves": 5
+      }
     },
     "venue": "Jan Breydel Stadium, Brugge",
     "broadcasts": [
@@ -3619,14 +3759,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-25T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "521",
     "awayTeamId": "5",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
+    },
+    "stats": {
+      "home": {
+        "possession": 35,
+        "xg": 2.11,
+        "shots": 15,
+        "shotsOnTarget": 3,
+        "accuratePasses": 329,
+        "duelsWon": 45,
+        "boxTouches": 25,
+        "fouls": 2,
+        "corners": 3,
+        "offsides": 0,
+        "saves": 7
+      },
+      "away": {
+        "possession": 65,
+        "xg": 1.18,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 681,
+        "duelsWon": 22,
+        "boxTouches": 22,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 4,
+        "saves": 2
+      }
     },
     "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
     "broadcasts": [
@@ -3643,14 +3811,42 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-25T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "498",
     "awayTeamId": "66",
     "homeTeam": {
-      "goals": 0
+      "goals": 2
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 2
+    },
+    "stats": {
+      "home": {
+        "possession": 51,
+        "xg": 2.46,
+        "shots": 11,
+        "shotsOnTarget": 4,
+        "accuratePasses": 413,
+        "duelsWon": 36,
+        "boxTouches": 26,
+        "fouls": 18,
+        "corners": 3,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 49,
+        "xg": 1.07,
+        "shots": 7,
+        "shotsOnTarget": 2,
+        "accuratePasses": 395,
+        "duelsWon": 48,
+        "boxTouches": 16,
+        "fouls": 13,
+        "corners": 2,
+        "offsides": 6,
+        "saves": 2
+      }
     },
     "venue": "Estádio José Alvalade, Lisbon",
     "broadcasts": [
@@ -3667,14 +3863,14 @@
     "matchday": 5,
     "stage": "league-phase",
     "utcDate": "2026-11-25T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "1887",
     "awayTeamId": "613",
     "homeTeam": {
       "goals": 0
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 1
     }
   },
   {
