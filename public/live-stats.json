@@ -603,13 +603,13 @@
     "567361": {
       "home": {
         "possession": 59,
-        "xg": 0.36,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 301,
-        "duelsWon": 41,
-        "boxTouches": 12,
-        "fouls": 16,
+        "xg": 0.38,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 317,
+        "duelsWon": 44,
+        "boxTouches": 14,
+        "fouls": 18,
         "corners": 7,
         "offsides": 1,
         "saves": 0
@@ -619,9 +619,9 @@
         "xg": 0.45,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 202,
-        "duelsWon": 49,
-        "boxTouches": 18,
+        "accuratePasses": 208,
+        "duelsWon": 56,
+        "boxTouches": 19,
         "fouls": 11,
         "corners": 1,
         "offsides": 0,
@@ -683,6 +683,24 @@
           "type": "yellow-card",
           "teamId": "5529",
           "playerName": "Matchoi"
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
+          "teamId": "5575",
+          "playerName": "Romain Correia"
+        },
+        {
+          "minute": "85'",
+          "type": "red-card",
+          "teamId": "5575",
+          "playerName": "Mitchell van der Gaag"
+        },
+        {
+          "minute": "88'",
+          "type": "red-card",
+          "teamId": "5575",
+          "playerName": "Romain Correia"
         }
       ]
     }
