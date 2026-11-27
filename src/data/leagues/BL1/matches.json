@@ -4690,14 +4690,42 @@
     "matchday": 11,
     "stage": "regular",
     "utcDate": "2026-11-27T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "homeTeamId": "12",
     "awayTeamId": "18",
     "homeTeam": {
-      "goals": 0
+      "goals": 3
     },
     "awayTeam": {
-      "goals": 0
+      "goals": 3
+    },
+    "stats": {
+      "home": {
+        "possession": 59,
+        "xg": 1.74,
+        "shots": 20,
+        "shotsOnTarget": 8,
+        "accuratePasses": 464,
+        "duelsWon": 51,
+        "boxTouches": 34,
+        "fouls": 10,
+        "corners": 7,
+        "offsides": 3,
+        "saves": 3
+      },
+      "away": {
+        "possession": 41,
+        "xg": 2.76,
+        "shots": 20,
+        "shotsOnTarget": 6,
+        "accuratePasses": 297,
+        "duelsWon": 46,
+        "boxTouches": 28,
+        "fouls": 11,
+        "corners": 4,
+        "offsides": 2,
+        "saves": 5
+      }
     },
     "venue": "Weserstadion, Bremen",
     "broadcasts": [
