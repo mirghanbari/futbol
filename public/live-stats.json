@@ -6,7 +6,7 @@
         "xg": 1.45,
         "shots": 10,
         "shotsOnTarget": 7,
-        "accuratePasses": 220,
+        "accuratePasses": 228,
         "duelsWon": 46,
         "boxTouches": 10,
         "fouls": 13,
@@ -16,12 +16,12 @@
       },
       "away": {
         "possession": 64,
-        "xg": 0.95,
-        "shots": 6,
+        "xg": 1.06,
+        "shots": 8,
         "shotsOnTarget": 1,
-        "accuratePasses": 448,
+        "accuratePasses": 470,
         "duelsWon": 43,
-        "boxTouches": 9,
+        "boxTouches": 11,
         "fouls": 11,
         "corners": 2,
         "offsides": 0,
@@ -84,6 +84,12 @@
           "type": "yellow-card",
           "teamId": "351",
           "playerName": "Liam Delap"
+        },
+        {
+          "minute": "89'",
+          "type": "goal",
+          "teamId": "61",
+          "playerName": "<TBD>"
         }
       ]
     }
@@ -91,28 +97,28 @@
   "ELC": {
     "561968": {
       "home": {
-        "possession": 48,
+        "possession": 46,
         "xg": 1.12,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 279,
-        "duelsWon": 39,
+        "accuratePasses": 281,
+        "duelsWon": 42,
         "boxTouches": 16,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 6,
         "offsides": 2,
         "saves": 4
       },
       "away": {
-        "possession": 52,
-        "xg": 1.36,
-        "shots": 17,
+        "possession": 54,
+        "xg": 1.39,
+        "shots": 18,
         "shotsOnTarget": 4,
-        "accuratePasses": 306,
-        "duelsWon": 42,
-        "boxTouches": 36,
-        "fouls": 13,
-        "corners": 4,
+        "accuratePasses": 335,
+        "duelsWon": 46,
+        "boxTouches": 39,
+        "fouls": 14,
+        "corners": 5,
         "offsides": 1,
         "saves": 3
       },
@@ -183,6 +189,12 @@
           "type": "yellow-card",
           "teamId": "343",
           "playerName": "Aidan Morris"
+        },
+        {
+          "minute": "89'",
+          "type": "yellow-card",
+          "teamId": "340",
+          "playerName": "Kuryu Matsuki"
         }
       ]
     }
@@ -191,29 +203,29 @@
     "564765": {
       "home": {
         "possession": 56,
-        "xg": 1.12,
-        "shots": 16,
-        "shotsOnTarget": 2,
-        "accuratePasses": 330,
-        "duelsWon": 51,
-        "boxTouches": 19,
-        "fouls": 14,
-        "corners": 6,
+        "xg": 1.22,
+        "shots": 19,
+        "shotsOnTarget": 3,
+        "accuratePasses": 351,
+        "duelsWon": 53,
+        "boxTouches": 20,
+        "fouls": 15,
+        "corners": 8,
         "offsides": 2,
-        "saves": 3
+        "saves": 5
       },
       "away": {
         "possession": 44,
-        "xg": 0.77,
-        "shots": 11,
-        "shotsOnTarget": 5,
-        "accuratePasses": 258,
-        "duelsWon": 41,
-        "boxTouches": 22,
-        "fouls": 10,
+        "xg": 1.41,
+        "shots": 13,
+        "shotsOnTarget": 7,
+        "accuratePasses": 275,
+        "duelsWon": 43,
+        "boxTouches": 24,
+        "fouls": 11,
         "corners": 5,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -566,30 +578,30 @@
   "PPL": {
     "567361": {
       "home": {
-        "possession": 56,
-        "xg": 0.28,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 240,
-        "duelsWon": 33,
-        "boxTouches": 9,
+        "possession": 57,
+        "xg": 0.31,
+        "shots": 6,
+        "shotsOnTarget": 2,
+        "accuratePasses": 259,
+        "duelsWon": 34,
+        "boxTouches": 10,
         "fouls": 14,
-        "corners": 4,
+        "corners": 5,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 44,
+        "possession": 43,
         "xg": 0.45,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 181,
+        "accuratePasses": 187,
         "duelsWon": 43,
-        "boxTouches": 16,
+        "boxTouches": 17,
         "fouls": 10,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
