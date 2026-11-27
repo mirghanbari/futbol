@@ -2,7 +2,7 @@
   "PL": {
     "560658": {
       "home": {
-        "possession": 36,
+        "possession": 35,
         "xg": 1.45,
         "shots": 10,
         "shotsOnTarget": 7,
@@ -12,16 +12,16 @@
         "fouls": 15,
         "corners": 1,
         "offsides": 1,
-        "saves": 0
+        "saves": 1
       },
       "away": {
-        "possession": 64,
-        "xg": 1.13,
-        "shots": 8,
-        "shotsOnTarget": 2,
-        "accuratePasses": 500,
-        "duelsWon": 51,
-        "boxTouches": 13,
+        "possession": 65,
+        "xg": 1.22,
+        "shots": 9,
+        "shotsOnTarget": 3,
+        "accuratePasses": 507,
+        "duelsWon": 52,
+        "boxTouches": 16,
         "fouls": 11,
         "corners": 2,
         "offsides": 0,
@@ -99,7 +99,8 @@
           "teamId": "351",
           "playerName": "Ibrahim Sangaré"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "ELC": {
@@ -119,11 +120,11 @@
       },
       "away": {
         "possession": 55,
-        "xg": 1.39,
+        "xg": 1.4,
         "shots": 19,
         "shotsOnTarget": 4,
-        "accuratePasses": 358,
-        "duelsWon": 50,
+        "accuratePasses": 359,
+        "duelsWon": 49,
         "boxTouches": 42,
         "fouls": 15,
         "corners": 6,
@@ -204,31 +205,32 @@
           "teamId": "340",
           "playerName": "Kuryu Matsuki"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PD": {
     "564765": {
       "home": {
-        "possession": 57,
-        "xg": 1.36,
-        "shots": 21,
+        "possession": 56,
+        "xg": 1.45,
+        "shots": 23,
         "shotsOnTarget": 3,
-        "accuratePasses": 369,
-        "duelsWon": 57,
-        "boxTouches": 22,
-        "fouls": 15,
+        "accuratePasses": 376,
+        "duelsWon": 60,
+        "boxTouches": 25,
+        "fouls": 16,
         "corners": 9,
         "offsides": 2,
         "saves": 5
       },
       "away": {
-        "possession": 43,
-        "xg": 1.58,
-        "shots": 14,
-        "shotsOnTarget": 7,
-        "accuratePasses": 281,
-        "duelsWon": 44,
+        "possession": 44,
+        "xg": 1.82,
+        "shots": 15,
+        "shotsOnTarget": 8,
+        "accuratePasses": 290,
+        "duelsWon": 45,
         "boxTouches": 25,
         "fouls": 11,
         "corners": 5,
@@ -280,8 +282,16 @@
           "type": "yellow-card",
           "teamId": "88",
           "playerName": "Jon Olasagasti"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "goal",
+          "teamId": "5335",
+          "playerName": "Pablo García",
+          "assist": "Jorge Salinas"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "BL1": {
@@ -596,11 +606,11 @@
         "xg": 0.36,
         "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 283,
-        "duelsWon": 37,
+        "accuratePasses": 301,
+        "duelsWon": 41,
         "boxTouches": 12,
-        "fouls": 15,
-        "corners": 6,
+        "fouls": 16,
+        "corners": 7,
         "offsides": 1,
         "saves": 0
       },
@@ -609,13 +619,13 @@
         "xg": 0.45,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 191,
-        "duelsWon": 46,
-        "boxTouches": 17,
-        "fouls": 10,
+        "accuratePasses": 202,
+        "duelsWon": 49,
+        "boxTouches": 18,
+        "fouls": 11,
         "corners": 1,
         "offsides": 0,
-        "saves": 2
+        "saves": 3
       },
       "events": [
         {
@@ -667,6 +677,12 @@
           "type": "yellow-card",
           "teamId": "5529",
           "playerName": "Francisco Gonçalves"
+        },
+        {
+          "minute": "79'",
+          "type": "yellow-card",
+          "teamId": "5529",
+          "playerName": "Matchoi"
         }
       ]
     }
