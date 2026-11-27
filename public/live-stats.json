@@ -2,28 +2,55 @@
   "BL1": {
     "565869": {
       "home": {
-        "possession": 51,
-        "xg": 0,
-        "shots": 0,
+        "possession": 54,
+        "xg": 0.07,
+        "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 107,
-        "duelsWon": 9,
+        "accuratePasses": 132,
+        "duelsWon": 12,
+        "boxTouches": 3,
         "fouls": 1,
         "corners": 0,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 1
       },
       "away": {
-        "possession": 49,
-        "xg": 0.64,
-        "shots": 5,
+        "possession": 46,
+        "xg": 0.79,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 96,
-        "duelsWon": 7,
+        "accuratePasses": 105,
+        "duelsWon": 8,
         "boxTouches": 10,
-        "fouls": 1,
-        "corners": 1,
+        "fouls": 4,
+        "corners": 2,
         "offsides": 2,
+        "saves": 0
+      }
+    }
+  },
+  "SA": {
+    "558515": {
+      "home": {
+        "possession": 72,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 64,
+        "duelsWon": 4,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 0
+      },
+      "away": {
+        "possession": 28,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 19,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
         "saves": 0
       }
     }
@@ -31,56 +58,65 @@
   "FL1": {
     "559616": {
       "home": {
-        "possession": 38,
+        "possession": 44,
         "xg": 0.04,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 6,
-        "duelsWon": 1,
+        "accuratePasses": 29,
+        "duelsWon": 2,
+        "boxTouches": 2,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 56,
+        "xg": 0.41,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 42,
+        "duelsWon": 4,
         "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
-      "away": {
-        "possession": 62,
-        "xg": 0,
-        "shots": 0,
-        "shotsOnTarget": 0,
-        "accuratePasses": 16,
-        "duelsWon": 3,
-        "fouls": 1,
-        "corners": 0,
-        "offsides": 0,
-        "saves": 0
-      }
+      "events": [
+        {
+          "minute": "2'",
+          "type": "yellow-card",
+          "teamId": "1045",
+          "playerName": "Pierre Lees-Melou"
+        }
+      ]
     }
   },
   "DED": {
     "558820": {
       "home": {
-        "possession": 59,
-        "xg": 1.43,
-        "shots": 11,
+        "possession": 60,
+        "xg": 1.44,
+        "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 185,
-        "duelsWon": 23,
+        "accuratePasses": 208,
+        "duelsWon": 25,
         "boxTouches": 17,
         "fouls": 5,
-        "corners": 2,
+        "corners": 3,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 41,
+        "possession": 40,
         "xg": 0.3,
         "shots": 6,
         "shotsOnTarget": 3,
-        "accuratePasses": 132,
-        "duelsWon": 18,
-        "boxTouches": 7,
-        "fouls": 6,
+        "accuratePasses": 141,
+        "duelsWon": 20,
+        "boxTouches": 6,
+        "fouls": 7,
         "corners": 1,
         "offsides": 0,
         "saves": 5
