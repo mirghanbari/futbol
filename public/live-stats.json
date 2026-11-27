@@ -2,27 +2,27 @@
   "PL": {
     "560658": {
       "home": {
-        "possession": 37,
+        "possession": 36,
         "xg": 1.45,
         "shots": 10,
         "shotsOnTarget": 7,
-        "accuratePasses": 211,
-        "duelsWon": 44,
+        "accuratePasses": 220,
+        "duelsWon": 46,
         "boxTouches": 10,
-        "fouls": 11,
+        "fouls": 13,
         "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 63,
+        "possession": 64,
         "xg": 0.95,
         "shots": 6,
         "shotsOnTarget": 1,
-        "accuratePasses": 411,
-        "duelsWon": 41,
-        "boxTouches": 8,
-        "fouls": 10,
+        "accuratePasses": 448,
+        "duelsWon": 43,
+        "boxTouches": 9,
+        "fouls": 11,
         "corners": 2,
         "offsides": 0,
         "saves": 4
@@ -78,6 +78,12 @@
           "teamId": "351",
           "playerName": "Morgan Gibbs-White",
           "assist": "Xaver Schlager"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "351",
+          "playerName": "Liam Delap"
         }
       ]
     }
@@ -85,29 +91,29 @@
   "ELC": {
     "561968": {
       "home": {
-        "possession": 49,
-        "xg": 0.93,
-        "shots": 11,
-        "shotsOnTarget": 4,
-        "accuratePasses": 277,
-        "duelsWon": 38,
-        "boxTouches": 15,
-        "fouls": 8,
+        "possession": 48,
+        "xg": 1.12,
+        "shots": 12,
+        "shotsOnTarget": 5,
+        "accuratePasses": 279,
+        "duelsWon": 39,
+        "boxTouches": 16,
+        "fouls": 10,
         "corners": 6,
         "offsides": 2,
         "saves": 4
       },
       "away": {
-        "possession": 51,
-        "xg": 1.24,
-        "shots": 15,
+        "possession": 52,
+        "xg": 1.36,
+        "shots": 17,
         "shotsOnTarget": 4,
-        "accuratePasses": 286,
-        "duelsWon": 41,
-        "boxTouches": 34,
+        "accuratePasses": 306,
+        "duelsWon": 42,
+        "boxTouches": 36,
         "fouls": 13,
         "corners": 4,
-        "offsides": 0,
+        "offsides": 1,
         "saves": 3
       },
       "events": [
@@ -150,9 +156,33 @@
         },
         {
           "minute": "79'",
+          "type": "yellow-card",
+          "teamId": "340",
+          "playerName": "Finn Azaz"
+        },
+        {
+          "minute": "79'",
           "type": "goal",
           "teamId": "340",
           "playerName": "Finn Azaz"
+        },
+        {
+          "minute": "80'",
+          "type": "yellow-card",
+          "teamId": "343",
+          "playerName": "Will Lankshear"
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
+          "teamId": "340",
+          "playerName": "Flynn Downes"
+        },
+        {
+          "minute": "84'",
+          "type": "yellow-card",
+          "teamId": "343",
+          "playerName": "Aidan Morris"
         }
       ]
     }
@@ -164,24 +194,24 @@
         "xg": 1.12,
         "shots": 16,
         "shotsOnTarget": 2,
-        "accuratePasses": 318,
-        "duelsWon": 49,
+        "accuratePasses": 330,
+        "duelsWon": 51,
         "boxTouches": 19,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 6,
         "offsides": 2,
-        "saves": 2
+        "saves": 3
       },
       "away": {
         "possession": 44,
-        "xg": 0.36,
-        "shots": 8,
-        "shotsOnTarget": 3,
-        "accuratePasses": 246,
-        "duelsWon": 39,
-        "boxTouches": 20,
+        "xg": 0.77,
+        "shots": 11,
+        "shotsOnTarget": 5,
+        "accuratePasses": 258,
+        "duelsWon": 41,
+        "boxTouches": 22,
         "fouls": 10,
-        "corners": 4,
+        "corners": 5,
         "offsides": 0,
         "saves": 1
       },
@@ -217,6 +247,13 @@
           "type": "yellow-card",
           "teamId": "5335",
           "playerName": "Iker Luque"
+        },
+        {
+          "minute": "81'",
+          "type": "goal",
+          "teamId": "5335",
+          "playerName": "Yassir Zabiri",
+          "assist": "Iñigo Vicente"
         }
       ]
     }
@@ -326,12 +363,12 @@
   "SA": {
     "558515": {
       "home": {
-        "possession": 51,
+        "possession": 50,
         "xg": 1.29,
         "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 350,
-        "duelsWon": 40,
+        "accuratePasses": 357,
+        "duelsWon": 45,
         "boxTouches": 10,
         "fouls": 11,
         "corners": 3,
@@ -339,14 +376,14 @@
         "saves": 5
       },
       "away": {
-        "possession": 49,
+        "possession": 50,
         "xg": 1.01,
         "shots": 13,
         "shotsOnTarget": 6,
-        "accuratePasses": 312,
-        "duelsWon": 36,
+        "accuratePasses": 331,
+        "duelsWon": 37,
         "boxTouches": 22,
-        "fouls": 10,
+        "fouls": 11,
         "corners": 6,
         "offsides": 1,
         "saves": 5
@@ -388,34 +425,35 @@
           "teamId": "454",
           "playerName": "Albion Rrahmani"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "FL1": {
     "559616": {
       "home": {
-        "possession": 34,
+        "possession": 33,
         "xg": 1.48,
         "shots": 17,
         "shotsOnTarget": 3,
         "accuratePasses": 256,
         "duelsWon": 54,
         "boxTouches": 20,
-        "fouls": 8,
+        "fouls": 9,
         "corners": 3,
         "offsides": 1,
         "saves": 8
       },
       "away": {
-        "possession": 66,
-        "xg": 1.34,
-        "shots": 16,
+        "possession": 67,
+        "xg": 1.83,
+        "shots": 18,
         "shotsOnTarget": 8,
-        "accuratePasses": 610,
-        "duelsWon": 45,
-        "boxTouches": 23,
+        "accuratePasses": 616,
+        "duelsWon": 46,
+        "boxTouches": 26,
         "fouls": 14,
-        "corners": 4,
+        "corners": 5,
         "offsides": 4,
         "saves": 2
       },
@@ -457,7 +495,8 @@
           "teamId": "512",
           "playerName": "Egil Selvik"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "DED": {
@@ -527,27 +566,27 @@
   "PPL": {
     "567361": {
       "home": {
-        "possession": 54,
-        "xg": 0.17,
+        "possession": 56,
+        "xg": 0.28,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 214,
-        "duelsWon": 31,
+        "accuratePasses": 240,
+        "duelsWon": 33,
         "boxTouches": 9,
-        "fouls": 13,
+        "fouls": 14,
         "corners": 4,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 46,
-        "xg": 0.4,
-        "shots": 5,
+        "possession": 44,
+        "xg": 0.45,
+        "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 176,
-        "duelsWon": 40,
-        "boxTouches": 14,
-        "fouls": 9,
+        "accuratePasses": 181,
+        "duelsWon": 43,
+        "boxTouches": 16,
+        "fouls": 10,
         "corners": 1,
         "offsides": 0,
         "saves": 1
@@ -590,6 +629,18 @@
           "type": "yellow-card",
           "teamId": "5529",
           "playerName": "William Kokolo"
+        },
+        {
+          "minute": "64'",
+          "type": "yellow-card",
+          "teamId": "5575",
+          "playerName": "Maurice Boakye"
+        },
+        {
+          "minute": "66'",
+          "type": "yellow-card",
+          "teamId": "5529",
+          "playerName": "Francisco Gonçalves"
         }
       ]
     }
