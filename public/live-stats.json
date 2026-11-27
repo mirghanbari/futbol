@@ -130,30 +130,30 @@
   "BL1": {
     "565869": {
       "home": {
-        "possession": 56,
-        "xg": 0.58,
-        "shots": 11,
-        "shotsOnTarget": 2,
-        "accuratePasses": 313,
+        "possession": 58,
+        "xg": 0.71,
+        "shots": 14,
+        "shotsOnTarget": 3,
+        "accuratePasses": 362,
         "duelsWon": 34,
-        "boxTouches": 18,
+        "boxTouches": 20,
         "fouls": 7,
-        "corners": 1,
+        "corners": 5,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 44,
-        "xg": 2.45,
-        "shots": 17,
+        "possession": 42,
+        "xg": 2.62,
+        "shots": 18,
         "shotsOnTarget": 5,
-        "accuratePasses": 232,
-        "duelsWon": 28,
+        "accuratePasses": 245,
+        "duelsWon": 29,
         "boxTouches": 23,
         "fouls": 8,
         "corners": 4,
         "offsides": 2,
-        "saves": 1
+        "saves": 2
       },
       "events": [
         {
@@ -212,27 +212,27 @@
   "SA": {
     "558515": {
       "home": {
-        "possession": 52,
-        "xg": 0.87,
-        "shots": 8,
+        "possession": 51,
+        "xg": 0.95,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 209,
-        "duelsWon": 22,
-        "boxTouches": 7,
+        "accuratePasses": 237,
+        "duelsWon": 24,
+        "boxTouches": 8,
         "fouls": 8,
         "corners": 3,
         "offsides": 3,
         "saves": 2
       },
       "away": {
-        "possession": 48,
-        "xg": 0.3,
+        "possession": 49,
+        "xg": 0.41,
         "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 185,
-        "duelsWon": 18,
+        "accuratePasses": 218,
+        "duelsWon": 20,
         "boxTouches": 11,
-        "fouls": 5,
+        "fouls": 6,
         "corners": 2,
         "offsides": 0,
         "saves": 3
@@ -278,23 +278,23 @@
         "xg": 0.96,
         "shots": 13,
         "shotsOnTarget": 2,
-        "accuratePasses": 166,
-        "duelsWon": 29,
+        "accuratePasses": 174,
+        "duelsWon": 32,
         "boxTouches": 15,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 3,
         "offsides": 1,
-        "saves": 6
+        "saves": 7
       },
       "away": {
         "possession": 65,
-        "xg": 0.97,
-        "shots": 10,
-        "shotsOnTarget": 5,
-        "accuratePasses": 347,
-        "duelsWon": 30,
-        "boxTouches": 14,
-        "fouls": 7,
+        "xg": 1.04,
+        "shots": 12,
+        "shotsOnTarget": 7,
+        "accuratePasses": 373,
+        "duelsWon": 32,
+        "boxTouches": 15,
+        "fouls": 8,
         "corners": 3,
         "offsides": 1,
         "saves": 1
@@ -331,27 +331,27 @@
   "DED": {
     "558820": {
       "home": {
-        "possession": 63,
-        "xg": 2.51,
-        "shots": 27,
-        "shotsOnTarget": 8,
-        "accuratePasses": 419,
-        "duelsWon": 67,
-        "boxTouches": 38,
+        "possession": 64,
+        "xg": 2.97,
+        "shots": 31,
+        "shotsOnTarget": 9,
+        "accuratePasses": 426,
+        "duelsWon": 69,
+        "boxTouches": 41,
         "fouls": 11,
         "corners": 6,
         "offsides": 2,
         "saves": 3
       },
       "away": {
-        "possession": 37,
-        "xg": 0.49,
+        "possession": 36,
+        "xg": 0.54,
         "shots": 8,
         "shotsOnTarget": 4,
-        "accuratePasses": 224,
-        "duelsWon": 45,
+        "accuratePasses": 225,
+        "duelsWon": 48,
         "boxTouches": 10,
-        "fouls": 14,
+        "fouls": 15,
         "corners": 1,
         "offsides": 0,
         "saves": 8
@@ -374,32 +374,46 @@
           "type": "yellow-card",
           "teamId": "672",
           "playerName": "Kasper Boogaard"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "672",
+          "playerName": "Devin Haen"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "goal",
+          "teamId": "677",
+          "playerName": "Thijmen Blokzijl",
+          "assist": "Thom van Bergen"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PPL": {
     "567361": {
       "home": {
-        "possession": 49,
+        "possession": 52,
         "xg": 0.03,
         "shots": 1,
         "shotsOnTarget": 0,
-        "accuratePasses": 123,
+        "accuratePasses": 150,
         "duelsWon": 20,
         "boxTouches": 3,
-        "fouls": 8,
+        "fouls": 10,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 51,
+        "possession": 48,
         "xg": 0.21,
         "shots": 4,
         "shotsOnTarget": 1,
-        "accuratePasses": 136,
-        "duelsWon": 19,
+        "accuratePasses": 143,
+        "duelsWon": 23,
         "boxTouches": 11,
         "fouls": 6,
         "corners": 1,
