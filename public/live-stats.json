@@ -6,22 +6,22 @@
         "xg": 1.45,
         "shots": 10,
         "shotsOnTarget": 7,
-        "accuratePasses": 228,
-        "duelsWon": 46,
+        "accuratePasses": 243,
+        "duelsWon": 48,
         "boxTouches": 10,
-        "fouls": 13,
+        "fouls": 15,
         "corners": 1,
         "offsides": 1,
         "saves": 0
       },
       "away": {
         "possession": 64,
-        "xg": 1.06,
+        "xg": 1.13,
         "shots": 8,
-        "shotsOnTarget": 1,
-        "accuratePasses": 470,
-        "duelsWon": 43,
-        "boxTouches": 11,
+        "shotsOnTarget": 2,
+        "accuratePasses": 500,
+        "duelsWon": 51,
+        "boxTouches": 13,
         "fouls": 11,
         "corners": 2,
         "offsides": 0,
@@ -89,7 +89,15 @@
           "minute": "89'",
           "type": "goal",
           "teamId": "61",
-          "playerName": "<TBD>"
+          "playerName": "Emanuel Emegha",
+          "method": "header",
+          "assist": "Pedro Neto"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "351",
+          "playerName": "Ibrahim Sangaré"
         }
       ]
     }
@@ -97,12 +105,12 @@
   "ELC": {
     "561968": {
       "home": {
-        "possession": 46,
+        "possession": 45,
         "xg": 1.12,
         "shots": 12,
         "shotsOnTarget": 5,
-        "accuratePasses": 281,
-        "duelsWon": 42,
+        "accuratePasses": 285,
+        "duelsWon": 45,
         "boxTouches": 16,
         "fouls": 11,
         "corners": 6,
@@ -110,16 +118,16 @@
         "saves": 4
       },
       "away": {
-        "possession": 54,
+        "possession": 55,
         "xg": 1.39,
-        "shots": 18,
+        "shots": 19,
         "shotsOnTarget": 4,
-        "accuratePasses": 335,
-        "duelsWon": 46,
-        "boxTouches": 39,
-        "fouls": 14,
-        "corners": 5,
-        "offsides": 1,
+        "accuratePasses": 358,
+        "duelsWon": 50,
+        "boxTouches": 42,
+        "fouls": 15,
+        "corners": 6,
+        "offsides": 2,
         "saves": 3
       },
       "events": [
@@ -162,13 +170,13 @@
         },
         {
           "minute": "79'",
-          "type": "yellow-card",
+          "type": "goal",
           "teamId": "340",
           "playerName": "Finn Azaz"
         },
         {
           "minute": "79'",
-          "type": "goal",
+          "type": "yellow-card",
           "teamId": "340",
           "playerName": "Finn Azaz"
         },
@@ -181,14 +189,14 @@
         {
           "minute": "84'",
           "type": "yellow-card",
-          "teamId": "340",
-          "playerName": "Flynn Downes"
+          "teamId": "343",
+          "playerName": "Aidan Morris"
         },
         {
           "minute": "84'",
           "type": "yellow-card",
-          "teamId": "343",
-          "playerName": "Aidan Morris"
+          "teamId": "340",
+          "playerName": "Flynn Downes"
         },
         {
           "minute": "89'",
@@ -202,26 +210,26 @@
   "PD": {
     "564765": {
       "home": {
-        "possession": 56,
-        "xg": 1.22,
-        "shots": 19,
+        "possession": 57,
+        "xg": 1.36,
+        "shots": 21,
         "shotsOnTarget": 3,
-        "accuratePasses": 351,
-        "duelsWon": 53,
-        "boxTouches": 20,
+        "accuratePasses": 369,
+        "duelsWon": 57,
+        "boxTouches": 22,
         "fouls": 15,
-        "corners": 8,
+        "corners": 9,
         "offsides": 2,
         "saves": 5
       },
       "away": {
-        "possession": 44,
-        "xg": 1.41,
-        "shots": 13,
+        "possession": 43,
+        "xg": 1.58,
+        "shots": 14,
         "shotsOnTarget": 7,
-        "accuratePasses": 275,
-        "duelsWon": 43,
-        "boxTouches": 24,
+        "accuratePasses": 281,
+        "duelsWon": 44,
+        "boxTouches": 25,
         "fouls": 11,
         "corners": 5,
         "offsides": 0,
@@ -266,6 +274,12 @@
           "teamId": "5335",
           "playerName": "Yassir Zabiri",
           "assist": "Iñigo Vicente"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "yellow-card",
+          "teamId": "88",
+          "playerName": "Jon Olasagasti"
         }
       ]
     }
@@ -578,25 +592,25 @@
   "PPL": {
     "567361": {
       "home": {
-        "possession": 57,
-        "xg": 0.31,
-        "shots": 6,
+        "possession": 59,
+        "xg": 0.36,
+        "shots": 8,
         "shotsOnTarget": 2,
-        "accuratePasses": 259,
-        "duelsWon": 34,
-        "boxTouches": 10,
-        "fouls": 14,
-        "corners": 5,
+        "accuratePasses": 283,
+        "duelsWon": 37,
+        "boxTouches": 12,
+        "fouls": 15,
+        "corners": 6,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 43,
+        "possession": 41,
         "xg": 0.45,
         "shots": 6,
         "shotsOnTarget": 2,
-        "accuratePasses": 187,
-        "duelsWon": 43,
+        "accuratePasses": 191,
+        "duelsWon": 46,
         "boxTouches": 17,
         "fouls": 10,
         "corners": 1,
