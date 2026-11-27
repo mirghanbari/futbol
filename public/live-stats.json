@@ -603,25 +603,25 @@
     "567361": {
       "home": {
         "possession": 59,
-        "xg": 0.38,
-        "shots": 9,
-        "shotsOnTarget": 3,
-        "accuratePasses": 325,
-        "duelsWon": 45,
-        "boxTouches": 14,
+        "xg": 0.76,
+        "shots": 14,
+        "shotsOnTarget": 4,
+        "accuratePasses": 336,
+        "duelsWon": 48,
+        "boxTouches": 18,
         "fouls": 18,
-        "corners": 7,
+        "corners": 9,
         "offsides": 1,
-        "saves": 1
+        "saves": 2
       },
       "away": {
         "possession": 41,
-        "xg": 0.49,
-        "shots": 7,
-        "shotsOnTarget": 3,
-        "accuratePasses": 223,
-        "duelsWon": 57,
-        "boxTouches": 19,
+        "xg": 0.54,
+        "shots": 8,
+        "shotsOnTarget": 4,
+        "accuratePasses": 226,
+        "duelsWon": 60,
+        "boxTouches": 21,
         "fouls": 11,
         "corners": 1,
         "offsides": 0,
@@ -631,14 +631,14 @@
         {
           "minute": "31'",
           "type": "yellow-card",
-          "teamId": "5529",
-          "playerName": "Miguel Baeza"
+          "teamId": "5575",
+          "playerName": "Paulo Henrique"
         },
         {
           "minute": "31'",
           "type": "yellow-card",
-          "teamId": "5575",
-          "playerName": "Paulo Henrique"
+          "teamId": "5529",
+          "playerName": "Miguel Baeza"
         },
         {
           "minute": "36'",
@@ -701,8 +701,15 @@
           "type": "red-card",
           "teamId": "5575",
           "playerName": "Romain Correia"
+        },
+        {
+          "minute": "90'+3'",
+          "type": "goal",
+          "teamId": "5575",
+          "playerName": "Samuel Bamba"
         }
-      ]
+      ],
+      "final": true
     }
   }
 }
