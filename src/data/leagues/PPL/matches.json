@@ -5030,24 +5030,6 @@
     "venue": "Estádio Municipal de Arouca, Arouca"
   },
   {
-    "id": "567383",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 15,
-    "stage": "regular",
-    "utcDate": "2026-12-20T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "496",
-    "awayTeamId": "1903",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estádio do Rio Ave, Vila do Conde"
-  },
-  {
     "id": "567384",
     "competitionId": "PPL",
     "season": "2026",
@@ -5082,24 +5064,6 @@
       "goals": 0
     },
     "venue": "Estádio José Alvalade, Lisbon"
-  },
-  {
-    "id": "567387",
-    "competitionId": "PPL",
-    "season": "2026",
-    "matchday": 15,
-    "stage": "regular",
-    "utcDate": "2026-12-20T00:00:00Z",
-    "status": "scheduled",
-    "homeTeamId": "5531",
-    "awayTeamId": "503",
-    "homeTeam": {
-      "goals": 0
-    },
-    "awayTeam": {
-      "goals": 0
-    },
-    "venue": "Estádio Municipal 22 de Junho, Vila Nova de Famalicão"
   },
   {
     "id": "567390",
@@ -5154,6 +5118,42 @@
       "goals": 0
     },
     "venue": "Estádio de São Miguel, Ponta Delgada"
+  },
+  {
+    "id": "567383",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 15,
+    "stage": "regular",
+    "utcDate": "2026-12-21T18:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "496",
+    "awayTeamId": "1903",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio do Rio Ave, Vila do Conde"
+  },
+  {
+    "id": "567387",
+    "competitionId": "PPL",
+    "season": "2026",
+    "matchday": 15,
+    "stage": "regular",
+    "utcDate": "2026-12-21T20:45:00Z",
+    "status": "scheduled",
+    "homeTeamId": "5531",
+    "awayTeamId": "503",
+    "homeTeam": {
+      "goals": 0
+    },
+    "awayTeam": {
+      "goals": 0
+    },
+    "venue": "Estádio Municipal 22 de Junho, Vila Nova de Famalicão"
   },
   {
     "id": "567392",
