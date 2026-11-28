@@ -2,58 +2,94 @@
   "ELC": {
     "561969": {
       "home": {
-        "possession": 30,
+        "possession": 42,
         "xg": 0.01,
-        "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 9,
-        "duelsWon": 2,
-        "fouls": 0,
-        "corners": 0,
+        "shots": 3,
+        "shotsOnTarget": 2,
+        "accuratePasses": 30,
+        "duelsWon": 4,
+        "boxTouches": 2,
+        "fouls": 1,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 70,
+        "possession": 58,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 30,
-        "duelsWon": 2,
+        "accuratePasses": 50,
+        "duelsWon": 5,
         "boxTouches": 1,
-        "fouls": 0,
+        "fouls": 1,
         "corners": 1,
         "offsides": 0,
-        "saves": 1
+        "saves": 2
       }
     },
     "561972": {
       "home": {
         "possession": 38,
+        "xg": 0.02,
+        "shots": 1,
+        "shotsOnTarget": 0,
+        "accuratePasses": 29,
+        "duelsWon": 3,
+        "boxTouches": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 1
+      },
+      "away": {
+        "possession": 62,
+        "xg": 0.06,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 57,
+        "duelsWon": 6,
+        "boxTouches": 4,
+        "fouls": 1,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "561973": {
+      "home": {
+        "possession": 19,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 20,
-        "duelsWon": 2,
-        "boxTouches": 1,
-        "fouls": 0,
+        "accuratePasses": 12,
+        "duelsWon": 10,
+        "fouls": 1,
         "corners": 0,
         "offsides": 0,
         "saves": 0
       },
       "away": {
-        "possession": 62,
-        "xg": 0.03,
+        "possession": 81,
+        "xg": 0.01,
         "shots": 1,
-        "shotsOnTarget": 1,
-        "accuratePasses": 42,
-        "duelsWon": 4,
-        "boxTouches": 2,
-        "fouls": 0,
-        "corners": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 72,
+        "duelsWon": 6,
+        "boxTouches": 6,
+        "fouls": 2,
+        "corners": 1,
         "offsides": 0,
         "saves": 0
-      }
+      },
+      "events": [
+        {
+          "minute": "10'",
+          "type": "yellow-card",
+          "teamId": "68",
+          "playerName": "Kenny McLean"
+        }
+      ]
     }
   }
 }
