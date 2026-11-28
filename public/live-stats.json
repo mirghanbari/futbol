@@ -3,27 +3,27 @@
     "561969": {
       "home": {
         "possession": 55,
-        "xg": 1.42,
+        "xg": 1.43,
         "shots": 20,
         "shotsOnTarget": 6,
-        "accuratePasses": 347,
-        "duelsWon": 38,
-        "boxTouches": 36,
+        "accuratePasses": 353,
+        "duelsWon": 43,
+        "boxTouches": 38,
         "fouls": 7,
         "corners": 8,
         "offsides": 1,
-        "saves": 4
+        "saves": 5
       },
       "away": {
         "possession": 45,
-        "xg": 0.3,
-        "shots": 6,
-        "shotsOnTarget": 4,
-        "accuratePasses": 264,
-        "duelsWon": 38,
-        "boxTouches": 17,
-        "fouls": 11,
-        "corners": 5,
+        "xg": 0.64,
+        "shots": 10,
+        "shotsOnTarget": 5,
+        "accuratePasses": 270,
+        "duelsWon": 40,
+        "boxTouches": 22,
+        "fouls": 12,
+        "corners": 7,
         "offsides": 0,
         "saves": 5
       },
@@ -53,7 +53,8 @@
           "teamId": "348",
           "playerName": "Millenic Alli"
         }
-      ]
+      ],
+      "final": true
     },
     "561972": {
       "home": {
@@ -61,8 +62,8 @@
         "xg": 0.71,
         "shots": 9,
         "shotsOnTarget": 2,
-        "accuratePasses": 201,
-        "duelsWon": 45,
+        "accuratePasses": 211,
+        "duelsWon": 46,
         "boxTouches": 21,
         "fouls": 12,
         "corners": 3,
@@ -71,14 +72,14 @@
       },
       "away": {
         "possession": 60,
-        "xg": 0.71,
-        "shots": 18,
+        "xg": 0.8,
+        "shots": 19,
         "shotsOnTarget": 2,
-        "accuratePasses": 356,
-        "duelsWon": 59,
-        "boxTouches": 27,
+        "accuratePasses": 359,
+        "duelsWon": 60,
+        "boxTouches": 29,
         "fouls": 14,
-        "corners": 8,
+        "corners": 9,
         "offsides": 1,
         "saves": 2
       },
@@ -107,17 +108,18 @@
           "teamId": "76",
           "playerName": "Toti Gomes"
         }
-      ]
+      ],
+      "final": true
     },
     "561973": {
       "home": {
         "possession": 28,
-        "xg": 1.69,
-        "shots": 8,
+        "xg": 1.79,
+        "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 105,
-        "duelsWon": 51,
-        "boxTouches": 21,
+        "accuratePasses": 114,
+        "duelsWon": 53,
+        "boxTouches": 22,
         "fouls": 10,
         "corners": 2,
         "offsides": 2,
@@ -125,12 +127,12 @@
       },
       "away": {
         "possession": 72,
-        "xg": 1.6,
-        "shots": 26,
-        "shotsOnTarget": 3,
-        "accuratePasses": 434,
-        "duelsWon": 41,
-        "boxTouches": 45,
+        "xg": 1.72,
+        "shots": 28,
+        "shotsOnTarget": 4,
+        "accuratePasses": 443,
+        "duelsWon": 42,
+        "boxTouches": 48,
         "fouls": 12,
         "corners": 12,
         "offsides": 1,
@@ -195,8 +197,20 @@
         {
           "minute": "90'+4'",
           "type": "yellow-card",
+          "teamId": "68",
+          "playerName": "Jovon Makama"
+        },
+        {
+          "minute": "90'+4'",
+          "type": "yellow-card",
           "teamId": "1081",
           "playerName": "Odel Offiah"
+        },
+        {
+          "minute": "90'+5'",
+          "type": "red-card",
+          "teamId": "68",
+          "playerName": "Philippe Clement"
         }
       ]
     }
@@ -204,27 +218,27 @@
   "PD": {
     "564760": {
       "home": {
-        "possession": 52,
+        "possession": 51,
         "xg": 0.76,
         "shots": 13,
         "shotsOnTarget": 5,
-        "accuratePasses": 289,
-        "duelsWon": 28,
-        "boxTouches": 27,
-        "fouls": 5,
+        "accuratePasses": 310,
+        "duelsWon": 34,
+        "boxTouches": 28,
+        "fouls": 6,
         "corners": 6,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 48,
-        "xg": 0.42,
-        "shots": 6,
+        "possession": 49,
+        "xg": 0.47,
+        "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 257,
-        "duelsWon": 21,
-        "boxTouches": 12,
-        "fouls": 6,
+        "accuratePasses": 286,
+        "duelsWon": 23,
+        "boxTouches": 13,
+        "fouls": 7,
         "corners": 1,
         "offsides": 1,
         "saves": 5
@@ -248,30 +262,30 @@
   "SA": {
     "558513": {
       "home": {
-        "possession": 55,
-        "xg": 0.17,
-        "shots": 4,
-        "shotsOnTarget": 1,
-        "accuratePasses": 61,
-        "duelsWon": 14,
+        "possession": 50,
+        "xg": 0.21,
+        "shots": 6,
+        "shotsOnTarget": 3,
+        "accuratePasses": 66,
+        "duelsWon": 18,
         "boxTouches": 10,
-        "fouls": 4,
+        "fouls": 5,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 45,
-        "xg": 0.04,
-        "shots": 3,
-        "shotsOnTarget": 0,
-        "accuratePasses": 51,
-        "duelsWon": 12,
-        "boxTouches": 3,
+        "possession": 50,
+        "xg": 0.05,
+        "shots": 5,
+        "shotsOnTarget": 1,
+        "accuratePasses": 67,
+        "duelsWon": 14,
+        "boxTouches": 5,
         "fouls": 1,
-        "corners": 1,
+        "corners": 3,
         "offsides": 1,
-        "saves": 1
+        "saves": 3
       }
     }
   }
