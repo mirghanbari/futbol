@@ -219,29 +219,29 @@
   "PD": {
     "564760": {
       "home": {
-        "possession": 53,
+        "possession": 54,
         "xg": 0.77,
         "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 375,
-        "duelsWon": 51,
-        "boxTouches": 33,
-        "fouls": 8,
-        "corners": 6,
+        "accuratePasses": 395,
+        "duelsWon": 53,
+        "boxTouches": 34,
+        "fouls": 9,
+        "corners": 8,
         "offsides": 2,
         "saves": 2
       },
       "away": {
-        "possession": 47,
-        "xg": 0.71,
-        "shots": 10,
+        "possession": 46,
+        "xg": 0.75,
+        "shots": 11,
         "shotsOnTarget": 3,
-        "accuratePasses": 324,
-        "duelsWon": 31,
-        "boxTouches": 19,
-        "fouls": 10,
+        "accuratePasses": 333,
+        "duelsWon": 33,
+        "boxTouches": 21,
+        "fouls": 11,
         "corners": 2,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 5
       },
       "events": [
@@ -281,6 +281,12 @@
           "type": "yellow-card",
           "teamId": "90",
           "playerName": "Abdessamad Ezzalzouli"
+        },
+        {
+          "minute": "86'",
+          "type": "yellow-card",
+          "teamId": "90",
+          "playerName": "Nelson Deossa"
         }
       ]
     }
@@ -288,25 +294,25 @@
   "BL1": {
     "565866": {
       "home": {
-        "possession": 57,
-        "xg": 0.53,
-        "shots": 3,
-        "shotsOnTarget": 1,
-        "accuratePasses": 58,
-        "duelsWon": 9,
-        "boxTouches": 11,
-        "fouls": 0,
+        "possession": 59,
+        "xg": 0.98,
+        "shots": 4,
+        "shotsOnTarget": 2,
+        "accuratePasses": 97,
+        "duelsWon": 13,
+        "boxTouches": 14,
+        "fouls": 1,
         "corners": 1,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 43,
+        "possession": 41,
         "xg": 0.19,
         "shots": 3,
         "shotsOnTarget": 1,
-        "accuratePasses": 41,
-        "duelsWon": 10,
+        "accuratePasses": 64,
+        "duelsWon": 15,
         "boxTouches": 5,
         "fouls": 0,
         "corners": 1,
@@ -320,32 +326,39 @@
           "teamId": "1",
           "playerName": "Marius Bülter",
           "assist": "Borna Sosa"
+        },
+        {
+          "minute": "16'",
+          "type": "goal",
+          "teamId": "1",
+          "playerName": "Saïd El Mala",
+          "assist": "Mikey Moore"
         }
       ]
     },
     "565867": {
       "home": {
-        "possession": 53,
-        "xg": 0.03,
-        "shots": 1,
+        "possession": 65,
+        "xg": 0.07,
+        "shots": 2,
         "shotsOnTarget": 0,
-        "accuratePasses": 26,
-        "duelsWon": 5,
-        "boxTouches": 1,
+        "accuratePasses": 118,
+        "duelsWon": 6,
+        "boxTouches": 5,
         "fouls": 0,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 1
       },
       "away": {
-        "possession": 47,
-        "xg": 0.01,
-        "shots": 1,
+        "possession": 35,
+        "xg": 0.05,
+        "shots": 2,
         "shotsOnTarget": 1,
-        "accuratePasses": 23,
-        "duelsWon": 3,
-        "boxTouches": 1,
-        "fouls": 1,
+        "accuratePasses": 52,
+        "duelsWon": 9,
+        "boxTouches": 3,
+        "fouls": 2,
         "corners": 0,
         "offsides": 1,
         "saves": 0
@@ -381,12 +394,12 @@
     },
     "565874": {
       "home": {
-        "possession": 29,
+        "possession": 22,
         "xg": 0,
         "shots": 0,
         "shotsOnTarget": 0,
-        "accuratePasses": 37,
-        "duelsWon": 10,
+        "accuratePasses": 38,
+        "duelsWon": 13,
         "boxTouches": 1,
         "fouls": 1,
         "corners": 0,
@@ -394,14 +407,15 @@
         "saves": 0
       },
       "away": {
-        "possession": 71,
-        "xg": 0.12,
-        "shots": 3,
+        "possession": 78,
+        "xg": 0.15,
+        "shots": 5,
         "shotsOnTarget": 0,
-        "accuratePasses": 118,
-        "duelsWon": 7,
+        "accuratePasses": 185,
+        "duelsWon": 8,
+        "boxTouches": 1,
         "fouls": 1,
-        "corners": 1,
+        "corners": 2,
         "offsides": 0,
         "saves": 0
       }
@@ -410,25 +424,25 @@
   "SA": {
     "558513": {
       "home": {
-        "possession": 50,
-        "xg": 0.49,
-        "shots": 9,
+        "possession": 54,
+        "xg": 0.54,
+        "shots": 10,
         "shotsOnTarget": 3,
-        "accuratePasses": 100,
-        "duelsWon": 25,
-        "boxTouches": 18,
-        "fouls": 8,
+        "accuratePasses": 124,
+        "duelsWon": 28,
+        "boxTouches": 20,
+        "fouls": 9,
         "corners": 4,
         "offsides": 2,
         "saves": 0
       },
       "away": {
-        "possession": 50,
+        "possession": 46,
         "xg": 0.35,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 104,
-        "duelsWon": 29,
+        "accuratePasses": 108,
+        "duelsWon": 32,
         "boxTouches": 7,
         "fouls": 4,
         "corners": 4,
