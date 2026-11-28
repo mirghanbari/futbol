@@ -117,24 +117,24 @@
         "xg": 1.79,
         "shots": 9,
         "shotsOnTarget": 3,
-        "accuratePasses": 114,
-        "duelsWon": 53,
-        "boxTouches": 22,
+        "accuratePasses": 115,
+        "duelsWon": 54,
+        "boxTouches": 21,
         "fouls": 10,
         "corners": 2,
-        "offsides": 2,
+        "offsides": 3,
         "saves": 3
       },
       "away": {
         "possession": 72,
-        "xg": 1.72,
-        "shots": 28,
+        "xg": 1.74,
+        "shots": 29,
         "shotsOnTarget": 4,
         "accuratePasses": 443,
-        "duelsWon": 42,
-        "boxTouches": 48,
-        "fouls": 12,
-        "corners": 12,
+        "duelsWon": 44,
+        "boxTouches": 49,
+        "fouls": 13,
+        "corners": 13,
         "offsides": 1,
         "saves": 2
       },
@@ -166,14 +166,14 @@
         {
           "minute": "50'",
           "type": "yellow-card",
-          "teamId": "68",
-          "playerName": "Anthony Musaba"
+          "teamId": "1081",
+          "playerName": "Stanley Mills"
         },
         {
           "minute": "50'",
           "type": "yellow-card",
-          "teamId": "1081",
-          "playerName": "Stanley Mills"
+          "teamId": "68",
+          "playerName": "Anthony Musaba"
         },
         {
           "minute": "73'",
@@ -197,14 +197,14 @@
         {
           "minute": "90'+4'",
           "type": "yellow-card",
-          "teamId": "68",
-          "playerName": "Jovon Makama"
+          "teamId": "1081",
+          "playerName": "Odel Offiah"
         },
         {
           "minute": "90'+4'",
           "type": "yellow-card",
-          "teamId": "1081",
-          "playerName": "Odel Offiah"
+          "teamId": "68",
+          "playerName": "Jovon Makama"
         },
         {
           "minute": "90'+5'",
@@ -212,33 +212,34 @@
           "teamId": "68",
           "playerName": "Philippe Clement"
         }
-      ]
+      ],
+      "final": true
     }
   },
   "PD": {
     "564760": {
       "home": {
-        "possession": 51,
-        "xg": 0.76,
-        "shots": 13,
+        "possession": 52,
+        "xg": 0.77,
+        "shots": 14,
         "shotsOnTarget": 5,
-        "accuratePasses": 310,
-        "duelsWon": 34,
-        "boxTouches": 28,
-        "fouls": 6,
+        "accuratePasses": 336,
+        "duelsWon": 39,
+        "boxTouches": 31,
+        "fouls": 7,
         "corners": 6,
         "offsides": 2,
         "saves": 1
       },
       "away": {
-        "possession": 49,
+        "possession": 48,
         "xg": 0.47,
         "shots": 7,
         "shotsOnTarget": 1,
-        "accuratePasses": 286,
-        "duelsWon": 23,
+        "accuratePasses": 294,
+        "duelsWon": 25,
         "boxTouches": 13,
-        "fouls": 7,
+        "fouls": 8,
         "corners": 1,
         "offsides": 1,
         "saves": 5
@@ -255,38 +256,107 @@
           "type": "yellow-card",
           "teamId": "90",
           "playerName": "Júnior Firpo"
+        },
+        {
+          "minute": "67'",
+          "type": "yellow-card",
+          "teamId": "90",
+          "playerName": "Isco"
         }
       ]
+    }
+  },
+  "BL1": {
+    "565868": {
+      "home": {
+        "possession": 19,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 5,
+        "duelsWon": 2,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 1,
+        "saves": 1
+      },
+      "away": {
+        "possession": 81,
+        "xg": 0.39,
+        "shots": 2,
+        "shotsOnTarget": 1,
+        "accuratePasses": 22,
+        "duelsWon": 6,
+        "boxTouches": 3,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
+    },
+    "565874": {
+      "home": {
+        "possession": 7,
+        "xg": 0,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 1,
+        "duelsWon": 1,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      },
+      "away": {
+        "possession": 93,
+        "xg": 0.04,
+        "shots": 0,
+        "shotsOnTarget": 0,
+        "accuratePasses": 38,
+        "duelsWon": 0,
+        "fouls": 0,
+        "corners": 0,
+        "offsides": 0,
+        "saves": 0
+      }
     }
   },
   "SA": {
     "558513": {
       "home": {
-        "possession": 50,
+        "possession": 48,
         "xg": 0.21,
-        "shots": 6,
+        "shots": 7,
         "shotsOnTarget": 3,
-        "accuratePasses": 66,
+        "accuratePasses": 74,
         "duelsWon": 18,
-        "boxTouches": 10,
-        "fouls": 5,
+        "boxTouches": 12,
+        "fouls": 6,
         "corners": 2,
         "offsides": 1,
         "saves": 0
       },
       "away": {
-        "possession": 50,
-        "xg": 0.05,
+        "possession": 52,
+        "xg": 0.24,
         "shots": 5,
         "shotsOnTarget": 1,
-        "accuratePasses": 67,
-        "duelsWon": 14,
-        "boxTouches": 5,
+        "accuratePasses": 86,
+        "duelsWon": 19,
+        "boxTouches": 4,
         "fouls": 1,
         "corners": 3,
-        "offsides": 1,
+        "offsides": 2,
         "saves": 3
-      }
+      },
+      "events": [
+        {
+          "minute": "28'",
+          "type": "yellow-card",
+          "teamId": "112",
+          "playerName": "Enrico Del Prato"
+        }
+      ]
     }
   }
 }
